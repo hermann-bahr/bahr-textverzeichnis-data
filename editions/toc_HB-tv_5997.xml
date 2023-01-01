@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 3. Februar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,10 +48,10 @@
                <date when="1920-02-22">22.2.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ethel Smyth: Impressions that remained. Memoirs. London:
+         <note type="review-of">Ethel Smyth: Impressions that remained. Memoirs. London:
                   Longmans Green 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 50-55</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit Jahren ist mir heut zum erstenmale wieder passiert, daß
+         <note type="other-prints">Kritik der Gegenwart, 50-55</note>
+         <note type="incipit">Seit Jahren ist mir heut zum erstenmale wieder passiert, daß
                   mich ein Buch einfach nicht mehr ausließ und ich nicht los konnte, bis ich durch
                   die zwei dicken Bände durch und indessen der glitzernde Wintertag erloschen war:
                   so jung hat mich unsere liebe Ethel Smyth mit ihren Erinnerungen gemacht,
@@ -189,8 +189,8 @@
                   Urväterweisheit von Polarität, Indifferenz und Docta Ignorantia, an Laotse, Walt
                   Whitman und Friedländer! Hab ich jetzt erst lesen gelernt? Oder ist’s, weil jetzt
                   Ethel Smyth dem Gedruckten die Stimme des Lebens souffliert? |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr über die von ihm sehr bewunderte Ethel Smyth.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Bahr über die von ihm sehr bewunderte Ethel Smyth.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

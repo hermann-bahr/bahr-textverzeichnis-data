@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_555" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die hohe Schule. (Fünf Acte aus dem Leben eines Mädchens von
                      Talent. Ein Münchner Stück von Ernst v. Wolzogen. Zum ersten Male aufgeführt im
                      Deutschen Volkstheater am 22. September 1900)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -49,10 +49,10 @@
                <date when="1900-09-23">23.9.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 70-75</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Alle Menschen guter Art.« heißt es in »Dichtung und Wahrheit«
+         <note type="other-prints">Premièren, 70-75</note>
+         <note type="incipit">»Alle Menschen guter Art.« heißt es in »Dichtung und Wahrheit«
                   einmal</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

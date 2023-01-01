@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -48,17 +48,17 @@
                <date when="1903-11-10">10.11.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Kabale und Liebe« von Friedrich Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf die hergebrachte Art, die in den Theaterschulen eingedrillt
+         <note type="review-of">»Kabale und Liebe« von Friedrich Schiller</note>
+         <note type="incipit">Auf die hergebrachte Art, die in den Theaterschulen eingedrillt
                   wird, gab ein Fräulein Burger gestern die Luise Millerin; irgend ein eigener Ton,
                   ein persönlicher Zug war nicht zu merken. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#14704"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

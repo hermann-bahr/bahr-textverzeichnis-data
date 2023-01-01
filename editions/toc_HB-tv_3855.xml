@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das junge Österreich. III</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Frankfurt am Main</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">87–96</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7823, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7823, Morgen–Ausgabe,
                   1–3. (7.10.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hinter Torresani, Schnitzler und Loris, die doch schon ihre
+         <note type="incipit">Hinter Torresani, Schnitzler und Loris, die doch schon ihre
                   Gemeinden haben, sind nun noch ein paar ganz geheime Grössen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Burgtheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">7</biblScope>
@@ -48,10 +48,10 @@
                <date when="1896-04-18">18.4.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Wilhelm Tell« von Friedrich Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Herr Alexander Engels aus Breslau hat sich gestern als
+         <note type="review-of">»Wilhelm Tell« von Friedrich Schiller</note>
+         <note type="incipit">Ein Herr Alexander Engels aus Breslau hat sich gestern als
                   Stauffacher vorgestellt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#2484"/>
@@ -60,8 +60,8 @@
                <ptr type="HB-tv" target="HB-tv_1674_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/81-45.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/81-46.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/81-45.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/81-46.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2102" type="Pamphlet" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Kriegssegen. Vortrag gehalten zu Gunsten der durch den Krieg in
                      Not geratenen Schriftsteller und Journalisten</title>
@@ -44,16 +44,16 @@
             </imprint>
             <extent>o. P. Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vierseitige Brochure mit »Kriegssegen«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Leipziger Tageblatt, 108 (1914) #654, Morgen-Ausgabe,
+         <note type="first-printing">Leipziger Tageblatt, 108 (1914) #654, Morgen-Ausgabe,
                   Weihnachts-Beilage, 2-3. (25.12.1914) Prager Tagblatt, 39 (1914) #354,
                   Weihnachtsbeilage, 11–12. (24.12.1914) Berliner Börsen-Courier, 47 (1914) #603,
                   Morgenblatt, 1. Beilage, Weihnachtsbeilage, 6-7. (25.12.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kriegssegen, 19-33 Kriegssegen, 19-33</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einen Kriegssegen will ich sprechen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="other-prints">Kriegssegen, 19-33 Kriegssegen, 19-33</note>
+         <note type="incipit">Einen Kriegssegen will ich sprechen</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#4823"/>

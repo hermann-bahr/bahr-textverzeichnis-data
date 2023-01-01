@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Barockkunst. Der Dom von Freising</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,12 +49,12 @@
                <date when="1924-03-08">8.3.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinem ’Tagebuch’ im ’N. W. J.’ vom 2. März 1924,
                      schreibt Hermann Bahr:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 2.3.1924</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nach Freising, das Werk der Asams zu sehen, dir mir immer mehr
+         <note type="first-printing">Neues Wiener Journal, 2.3.1924</note>
+         <note type="incipit">Nach Freising, das Werk der Asams zu sehen, dir mir immer mehr
                   ins Herz einwachsen…</note>
       </body>
    </text>

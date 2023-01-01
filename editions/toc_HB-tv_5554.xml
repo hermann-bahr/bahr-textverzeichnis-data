@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">182–183</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Schopenhauer über Republiken: »Die Frage nach der Souveränität
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Schopenhauer über Republiken: »Die Frage nach der Souveränität
                   des Volkes läuft im Grunde darauf hinaus, ob irgend jemand ursprünglich das Recht
                   haben könne, ein Volk wider seinen Willen zu beherrschen. Wie sich das
                   vernünftigerweise behaupten lasse, sehe ich nicht ab. Allerdings also ist das Volk
@@ -86,7 +86,7 @@
                   erzielt auf dem Wege der Generation, durch Vermählung der edelmütigsten Männer mit
                   den klügsten und geistreichsten Weibern. Dieser Vorschlag ist mein Utopien und
                   meine Republik des Plato.« |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bringt ein Zitat Schopenhauers, der eine Oligarchie der
+         <note type="summary">Bahr bringt ein Zitat Schopenhauers, der eine Oligarchie der
                   Weisen als Staatsform will.</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Ein erstaunlicher Roman</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">110–111</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Telegramm–Zeitung, 8 (1929) #25, 4.
+         <note type="first-printing">Münchner Telegramm–Zeitung, 8 (1929) #25, 4.
                   (5.2.1929)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Gewirr der Romane, die jeder neue Tag auf den Markt
+         <note type="incipit">Im Gewirr der Romane, die jeder neue Tag auf den Markt
                   speit...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wohlwollend rezensiert Bahr Weinbergers Roman
+         <note type="summary">Wohlwollend rezensiert Bahr Weinbergers Roman
                   »Arnspacher«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5629"/>
                <ptr type="HB-tv" target="HB-tv_3513_p1"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_3513_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

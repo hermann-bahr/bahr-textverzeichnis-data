@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Graf Aehrenthal. 1</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Austriaca. Essays</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">122–132</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zukunft 17 (1909) #68, 304–308. (28.8.1909)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Rasch ist Aehrenthal zum österreichischen Bismarck ernannt
+         <note type="first-printing">Die Zukunft 17 (1909) #68, 304–308. (28.8.1909)</note>
+         <note type="incipit">Rasch ist Aehrenthal zum österreichischen Bismarck ernannt
                   worden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In dem Text von 1909 Bahr unterstützt das Engagement des k. u.
+         <note type="summary">In dem Text von 1909 Bahr unterstützt das Engagement des k. u.
                   k. Außenministers Graf Aehrenthal auf dem Balkan, meint aber, dass für den Erfolg
                   eines solchen Unternehmens auch eine innenpolitische Veränderung notwendig
                   sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#3368"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_4854_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/11-austriaca.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/11-austriaca.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb30897"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30897">Himmelfahrt. Roman</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>400 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am 14.10.1915 vermeldet der Anzeiger, Pirna, dass der Roman vollendet sei. Im
                      Nachlass ein Brief von Marie/Maria Herbermann, die sich 1923 als holländische
                      Übersetzerin der »Himmelfahrt« in Erinnerung ruft.</p>
@@ -67,7 +67,7 @@
                      Zeitung, München, 119 (1917) #39 [Zusammen mit Max Brod: »Tycho Brahes Weg zu
                      Gott«].</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=85</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=85</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 10. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-08-08">8.8.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 182–183</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Schopenhauer über Republiken: »Die Frage nach der Souveränität
+         <note type="other-prints">Kritik der Gegenwart, 182–183</note>
+         <note type="incipit">Schopenhauer über Republiken: »Die Frage nach der Souveränität
                   des Volkes läuft im Grunde darauf hinaus, ob irgend jemand ursprünglich das Recht
                   haben könne, ein Volk wider seinen Willen zu beherrschen. Wie sich das
                   vernünftigerweise behaupten lasse, sehe ich nicht ab. Allerdings also ist das Volk
@@ -86,9 +86,9 @@
                   erzielt auf dem Wege der Generation, durch Vermählung der edelmütigsten Männer mit
                   den klügsten und geistreichsten Weibern. Dieser Vorschlag ist mein Utopien und
                   meine Republik des Plato.« |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bringt ein Zitat Schopenhauers, der eine Oligarchie der
+         <note type="summary">Bahr bringt ein Zitat Schopenhauers, der eine Oligarchie der
                   Weisen als Staatsform will.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

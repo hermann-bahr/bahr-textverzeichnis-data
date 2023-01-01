@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1187" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Pascals Weltanschauung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">21109, Morgenblatt</biblScope>
@@ -44,9 +44,9 @@
                <date when="1923-06-17">17.6.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was ist denn unter uns von der gewaltigen Epoche des
+         <note type="incipit">Was ist denn unter uns von der gewaltigen Epoche des
                   Sonnenkönigs noch übrig</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-6-17_pascals-weltanschauung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-6-17_pascals-weltanschauung.pdf</ref>
       </body>
    </text>
 </TEI>

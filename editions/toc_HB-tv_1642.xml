@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1642" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Altösterreichische Theaterkultur. III. (Geschichtliches und
                      Grundsätzliches)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -48,10 +48,10 @@
                <date when="1919-12-28">28.12.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Burgtheater, 23-30</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Theater als Gesellschaft der Künste, das Barocktheater ist
+         <note type="other-prints">Burgtheater, 23-30</note>
+         <note type="incipit">Das Theater als Gesellschaft der Künste, das Barocktheater ist
                   tot.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1919_theaterkultur-iii.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1919_theaterkultur-iii.pdf</ref>
       </body>
    </text>
 </TEI>

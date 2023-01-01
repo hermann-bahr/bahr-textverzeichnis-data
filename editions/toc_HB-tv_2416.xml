@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2416" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Schauspieler, Notizen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hyperion. Eine Zweimonatsschrift</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,11 +45,11 @@
                <date when="1908">1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Hyperion-Almanach auf das Jahr 1910, 114–118</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Reinhardt wundert sich. Wir saßen zusammen, Reinhardt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Im Unterschied zu anderen Künstlern benötige der Schauspieler
+         <note type="other-prints">Hyperion-Almanach auf das Jahr 1910, 114–118</note>
+         <note type="incipit">Reinhardt wundert sich. Wir saßen zusammen, Reinhardt</note>
+         <note type="summary">Im Unterschied zu anderen Künstlern benötige der Schauspieler
                   das Publikum um sein Werk vollenden zu können.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12504"/>
                <ptr type="pmb" target="#10818"/>
@@ -57,7 +57,7 @@
                <ptr type="pmb" target="#10866"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/hyperion/1908-3_der-schauspieler.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/hyperion/1908-3_der-schauspieler.pdf</ref>
       </body>
    </text>
 </TEI>

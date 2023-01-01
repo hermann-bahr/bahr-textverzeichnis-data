@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Sada Yacco. (Als Gast im Theater an der Wien)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">202–210</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Geisha und der Ritter« und »Kesa«</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 36 (1902) #31, 1–2.
+         <note type="review-of">»Die Geisha und der Ritter« und »Kesa«</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #31, 1–2.
                   (1.2.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als die Sada Yacco zum ersten Male in Paris erschien, hieß es:
+         <note type="incipit">Als die Sada Yacco zum ersten Male in Paris erschien, hieß es:
                   C’est la Duse du Japon!</note>
       </body>
    </text>

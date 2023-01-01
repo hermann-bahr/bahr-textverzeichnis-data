@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4247" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Deutsche Probleme. I</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Film-Kurier</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,11 +45,11 @@
                <date when="1920-06-25">25.6.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Während Teil 1 dem Übertitel »Volkswirtschaft« zugeordnet ist, ist Teil 2 als
                      »Feuilleton« gekennzeichnet. Textfund von Walter Schübler.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Deutschlands Leben hängt davon ab, wie weit und wie rasch es ihm
+         <note type="incipit">Deutschlands Leben hängt davon ab, wie weit und wie rasch es ihm
                   gelingen wird, die Städte zu beschränken</note>
       </body>
    </text>

@@ -35,14 +35,14 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_223" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Deutsches Volkstheater. (»Bauernehre,« sicilianische Volkscene in
                      einem Act von Giovanni Verga, »Es hat so sollen sein,« Lustspiel in einem Act
                      von Hans Hopfen, »Die Taube der Messalina,« Schauspiel in einem Act von Sigmund
                      Schlesinger)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -51,9 +51,9 @@
                <date when="1893-01-09">9.1.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der »Cavalleria rusticana« des Giovanni Verga ist in Wien
+         <note type="incipit">Der »Cavalleria rusticana« des Giovanni Verga ist in Wien
                   gestern genau das Nämliche geschehen wie unlängst in Berlin</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75551.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75551.pdf</ref>
       </body>
    </text>
 </TEI>

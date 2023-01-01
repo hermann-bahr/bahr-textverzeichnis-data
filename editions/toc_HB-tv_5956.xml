@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Deutschlands Schöpferische Geisteskraft im Kriegsjahre. Das
                      Ergebnis einer Rundfrage der Leipziger Abendzeitung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Leipziger Abendzeitung und Handelsblatt für Sachsen</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -50,7 +50,7 @@
                <date when="1915-10-03">3.10.1915</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben Bahr antworten: Friedrich Adler, E. von Adlersfeld-Ballestrem, Peter
                      Altenberg, Paul Apel, Leo Ascher, Raoul Auernheimer, Wolf v. Baudissin
                      (Freiherr v. Schlicht), Eva von Baudissin, Waldemar v. Baußnern, Julius
@@ -65,10 +65,10 @@
                      Siegen, Leo Walter Stein, Leo Stein, Oscar Straus, Hans Sturm, Anny Wothe,
                      Bogumil Zepler und Fedor von Zobeltitz.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck in als »Deutschlands Geistesarbeit im
+         <note type="first-printing">Nachdruck in als »Deutschlands Geistesarbeit im
                   Kriegsjahr« in: 8 Uhr Abendblatt der National–Zeitung, Berlin, 68 (1915) #236,
                   Beiblatt, [1–2]. (7.10.1915)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zur Antwort auf Ihre Frage vom 16. d.: Habe vor ein paar Tagen
+         <note type="incipit">Zur Antwort auf Ihre Frage vom 16. d.: Habe vor ein paar Tagen
                   einen Roman vollendet</note>
       </body>
    </text>

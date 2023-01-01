@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1080" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">König Eduard</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16418, Morgenblatt</biblScope>
@@ -44,9 +44,9 @@
                <date when="1910-05-08">8.5.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Verkehr mit Engländern hat mich oft ihr ganz merkwürdiges
+         <note type="incipit">Im Verkehr mit Engländern hat mich oft ihr ganz merkwürdiges
                   Verhältnis zum König nachdenklich gemacht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1910-5-8_koenig-eduard.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1910-5-8_koenig-eduard.pdf</ref>
       </body>
    </text>
 </TEI>

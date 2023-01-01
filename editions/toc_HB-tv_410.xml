@@ -35,14 +35,14 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_410" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hoei-lan-ki. (Der Kreidekreis, ein chinesisches Drama von
                      Li-King-Tao, für die deutsche Bühne frei bearbeitet und eingerichtet von
                      Heinrich Kadelburg. Zum ersten Mal aufgeführt am Volkstheaterabend im Ronacher
                      den 20. März 1897)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">10</biblScope>
@@ -51,12 +51,12 @@
                <date when="1897-03-27">27.3.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 365-372</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am Volkstheaterabend wurde uns neulich ein altes chinesisches
+         <note type="other-prints">Wiener Theater, 365-372</note>
+         <note type="incipit">Am Volkstheaterabend wurde uns neulich ein altes chinesisches
                   Stück vorgespielt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr kritisiert das Publikum und lobt die Technik, dass
+         <note type="summary">Bahr kritisiert das Publikum und lobt die Technik, dass
                   Schauspieler zu Beginn ihres Auftritts an der Rampe ihre Rolle vorstellen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11848"/>
                <ptr type="pmb" target="#11093"/>
@@ -65,8 +65,8 @@
                <ptr type="pmb" target="#2412"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-203.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-204.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-203.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-204.pdf</ref>
       </body>
    </text>
 </TEI>

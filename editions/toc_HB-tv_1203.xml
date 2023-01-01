@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1203" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Marcel Proust. 1</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Preußische Jahrbücher</title>
             <imprint>
                <biblScope unit="jg">204</biblScope>
@@ -45,9 +45,9 @@
                <date when="1926">1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Frankreich braucht immer einen geistigen Imperator, einen Mann,
+         <note type="incipit">Frankreich braucht immer einen geistigen Imperator, einen Mann,
                   der nicht bloß den Geist</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1926-204_marcel-proust1.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1926-204_marcel-proust1.pdf</ref>
       </body>
    </text>
 </TEI>

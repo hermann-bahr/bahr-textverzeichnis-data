@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -48,11 +48,11 @@
                <date when="1896-01-18">18.1.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Komtesse Guckerl« von Franz von Schönthan und Franz
+         <note type="review-of">»Komtesse Guckerl« von Franz von Schönthan und Franz
                   Koppel-Ellfeld</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Deutsche Volkstheater spielt jetzt »Comtesse Guckerl« von
+         <note type="incipit">Das Deutsche Volkstheater spielt jetzt »Comtesse Guckerl« von
                   Franz von Schönthan und Franz Koppel-Eilfeld. Als es mit der Schablone</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8291"/>
                <ptr type="pmb" target="#8316"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_1443_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/68-45.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/68-45.pdf</ref>
       </body>
    </text>
 </TEI>

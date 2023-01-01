@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Malerisch</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,16 +49,16 @@
                <biblScope unit="pages">195–200</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Kleine Journal, 16 (1894) #60, Abend–Ausgabe, 1–2.
+         <note type="first-printing">Das Kleine Journal, 16 (1894) #60, Abend–Ausgabe, 1–2.
                   (2.2.1894)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Kustos an der Münchner Pinakothek, Herr Richard Muther,
+         <note type="incipit">Der Kustos an der Münchner Pinakothek, Herr Richard Muther,
                   schon durch fleissige gescheidte Werke namhaft, hat jetzt eine »Geschichte der
                   Malerei im neunzehnten Jahrhundert« geschrieben, im Verlage von G. Hirth.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr rezensiert Muthers »Geschichte der Malerei im neunzehnten
+         <note type="summary">Bahr rezensiert Muthers »Geschichte der Malerei im neunzehnten
                   Jahrhundert« und lobt den undogmatischen Geist, in dem das Werk verfasst ist.
                   Besondere Zustimmung erfährt Muthers Versuch, die Farbe (und nicht etwa die Form)
                   als das eigentliche malerische Medium anzugeben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12319"/>
                <ptr type="pmb" target="#11711"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_3427_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

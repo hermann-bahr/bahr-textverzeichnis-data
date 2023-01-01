@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 3. Dezember</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -48,20 +48,20 @@
                <date when="1931-12-13">13.12.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Letztes der »Tagebücher« im Neuen Wiener Journal.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sich zu verwandeln war Goethes Lust in jungen Jahren
+         <note type="incipit">Sich zu verwandeln war Goethes Lust in jungen Jahren
                   schon</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Bedeutung Goethes für die Gegenwart und des
+         <note type="summary">Über die Bedeutung Goethes für die Gegenwart und des
                   Fehlerbegehens für Goethe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11933"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

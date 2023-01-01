@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2451" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das goldene Kalb. (Les Ventres Dorés. Schauspiel in vier Aufzügen
                      von Emile Fabre. Deutsch von Stephan Estienne. Zum ersten Mal aufgeführt im
                      Deutschen Volkstheater am 7. April 1906)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -49,15 +49,15 @@
                <date when="1906-04-08">8.4.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Les Ventres dorés (Das goldene Kalb)« von Émile Fabre,
+         <note type="review-of">»Les Ventres dorés (Das goldene Kalb)« von Émile Fabre,
                   deutsch von Stephan Estienne</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man staunt, wie sich das Verhältnis der französischen Autoren
+         <note type="incipit">Man staunt, wie sich das Verhältnis der französischen Autoren
                   zur deutschen Bühne verändert hat.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr untersucht, warum das französische Theater auf den
+         <note type="summary">Bahr untersucht, warum das französische Theater auf den
                   deutschen Bühnen seinen Einfluss verloren hat und erkennt die unterschiedlichen
                   Interessen: Suchen die Franzosen die Wirkung, interessiert hier die Ausgestaltung
                   einer Rolle.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#16075"/>
                <ptr type="pmb" target="#8948"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_2035_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

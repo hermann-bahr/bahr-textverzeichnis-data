@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_334" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Maria Magdalene. (Ein bürgerliches Trauerspiel in drei Aufzügen
                      von Friedrich Hebbel. Im Deutschen Volkstheater zum ersten Mal aufgeführt am 4.
                      Mai)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -49,11 +49,11 @@
                <date when="1895-05-11">11.5.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Maria Magdalena« in: Wiener Theater, 270-279 H. B.:
+         <note type="other-prints">Als »Maria Magdalena« in: Wiener Theater, 270-279 H. B.:
                   Kritiken. Hg. Kindermann. Wien: Bauer 1963, 304-309</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Shakespeare dichtete, hatten seine Collegen, die anderen
+         <note type="incipit">Als Shakespeare dichtete, hatten seine Collegen, die anderen
                   Schauspieler, immer nur eine Klage.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2404"/>
                <ptr type="pmb" target="#2412"/>
@@ -67,8 +67,8 @@
                <ptr type="HB-tv" target="HB-tv_3401_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/32_90-91.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/32_92-93.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/32_90-91.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/32_92-93.pdf</ref>
       </body>
    </text>
 </TEI>

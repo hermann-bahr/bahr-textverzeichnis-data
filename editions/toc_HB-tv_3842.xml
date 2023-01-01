@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">hr</author>
             <title level="a">Bücher. Gefühle</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,11 +48,11 @@
                <date when="1894-10-13">13.10.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Rosner: Gefühle. Psychopathische Fälle. Mit einer
+         <note type="review-of">Karl Rosner: Gefühle. Psychopathische Fälle. Mit einer
                   Titelzeichnung von Hans Thoma. Leipzig: Wilhelm Friedrich 1894</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Rosner, ein ganz junger Wiener, äfft alle Geberden der
+         <note type="incipit">Herr Rosner, ein ganz junger Wiener, äfft alle Geberden der
                   neuen Literatur</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12564"/>
                <ptr type="pmb" target="#12156"/>
@@ -62,7 +62,7 @@
                <ptr type="pmb" target="#2425"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/2-28.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/2-28.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_392" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Morituri. (Teja, Drama in einem Act. Fritzchen, Drama in einem
                      Act. Das Ewig-Männliche, Spiel in einem Act. Von Hermann Sudermann. Zum ersten
                      Mal aufgeführt im Burgtheater am 3. October 1896)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -49,12 +49,12 @@
                <date when="1896-10-10">10.10.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 105–112 H. B.: Kritiken. Hg. Kindermann.
+         <note type="other-prints">Wiener Theater, 105–112 H. B.: Kritiken. Hg. Kindermann.
                   Wien: Bauer 1963, 131–135</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Drei Acte, zwei tragische und einen scherzenden, hat Sudermann
+         <note type="incipit">Drei Acte, zwei tragische und einen scherzenden, hat Sudermann
                   unter demselben Namen verbunden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr tut sich schwer, das disparate Werk zu würdigen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Bahr tut sich schwer, das disparate Werk zu würdigen.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12899"/>
                <ptr type="pmb" target="#2412"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_2283_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/106-29.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/106-29.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Brief"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Statt eines Geleitwortes</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Föhn. Eine tirolische Halbmonatsschrift für Literatur, Kunst
                      und Leben</title>
             <imprint>
@@ -49,10 +49,10 @@
                <date when="1910">1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Dieser kurze Brief eröffnet den 2. Jahrgang des »Föhn« (1910/11).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nehmen Sie meinen besten Dank für Ihren Brief und die
+         <note type="incipit">Nehmen Sie meinen besten Dank für Ihren Brief und die
                   freundliche Sendung der Hefte, die sehr schön sind. Ich freue mich, daß Sie die
                   Mittel gefunden haben, das Blatt aufrecht zu erhalten. Die Jungtiroler Literatur
                   so stark und von so gutem Blut, daß es ihr, wenn sie sich treu bleibt, nicht
@@ -62,9 +62,9 @@
                   nicht auf Euch achten, so macht Euch nichts daraus, das ist nun einmal schon in
                   Österreich nicht anders! Mit frohen und starken Wünschen Hermann Bahr Wien, am 22.
                   September 1910 |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr spricht den Tiroler Autoren und Herausgebern der
+         <note type="summary">Bahr spricht den Tiroler Autoren und Herausgebern der
                   Zeitschrift Mut zu.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12749"/>
                <ptr type="pmb" target="#11984"/>

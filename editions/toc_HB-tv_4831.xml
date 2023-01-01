@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Theater an der Wien</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neues Wiener Abendblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,11 +48,11 @@
                <date when="1904-10-10">10.10.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Monna Vanna« von Maurice Maeterlinck</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 343</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Duse gab gestern die Monna Vanna. Diese Rolle ist
+         <note type="review-of">»Monna Vanna« von Maurice Maeterlinck</note>
+         <note type="other-prints">Glossen, 343</note>
+         <note type="incipit">Die Duse gab gestern die Monna Vanna. Diese Rolle ist
                   eigentlich</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12156"/>
                <ptr type="pmb" target="#11201"/>

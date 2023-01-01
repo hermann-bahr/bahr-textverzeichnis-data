@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. Juli [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">I, 216–221</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Maurice Baring: Passing By. London: M. Secker [1921].</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Passing By«, die neue Novelle Maurice Barings (London, Martin
+         <note type="review-of">Maurice Baring: Passing By. London: M. Secker [1921].</note>
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">»Passing By«, die neue Novelle Maurice Barings (London, Martin
                   Secker)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr findet den neuen Roman Maurice Baring, der nicht erzählt
+         <note type="summary">Bahr findet den neuen Roman Maurice Baring, der nicht erzählt
                   sondern zum Erraten der Handlung aufmuntert, stilistisch geglückt.</note>
       </body>
    </text>

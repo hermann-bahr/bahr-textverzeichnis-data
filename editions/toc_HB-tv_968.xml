@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Fürstin. [I]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">23324, Morgenblatt</biblScope>
@@ -47,11 +47,11 @@
                <date when="1929-08-21">21.8.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Ein Kapitel aus dem Roman »Österreich in Ewigkeit«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Österreich in Ewigkeit</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Empfang der Fürstin Uldus verlief ungestört</note>
+         <note type="other-prints">Österreich in Ewigkeit</note>
+         <note type="incipit">Der Empfang der Fürstin Uldus verlief ungestört</note>
       </body>
    </text>
 </TEI>

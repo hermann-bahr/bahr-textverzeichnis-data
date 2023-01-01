@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Symbolisten</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,17 +49,17 @@
                <biblScope unit="pages">26–32</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Symbolismus« in: Die Nation, 9 (1892) #38, 576–577.
+         <note type="first-printing">Als »Symbolismus« in: Die Nation, 9 (1892) #38, 576–577.
                   (17.6.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wunberg: Das junge Wien, 92.16</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Kunst will jetzt aus dem Naturalismus fort und sucht Neues.
+         <note type="other-prints">Wunberg: Das junge Wien, 92.16</note>
+         <note type="incipit">Die Kunst will jetzt aus dem Naturalismus fort und sucht Neues.
                   Niemand weiss noch, was es werden möchte; der Drang ist ungestalt und wirr; er
                   tastet ohne Rath nach vielen Dingen und findet sich nirgends. Nur fort, um jeden
                   Preis fort aus der deutlichen Wirklichkeit, ins Dunkle, Fremde und Versteckte –
                   das ist heute die eingestandene Losung für zahlreiche Künstler.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht, die symbolistische Praxis zu verdeutlichen und
+         <note type="summary">Bahr versucht, die symbolistische Praxis zu verdeutlichen und
                   grenzt den Symbolismus als Nervenkunst von der Romantik ab.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#13024"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_2763_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

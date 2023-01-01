@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1485" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Burckhards Bücher</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bibliothek Max Burckhard. Auktionskatalog</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -45,14 +45,14 @@
                <biblScope unit="pages">V–VIII</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Versteigerung fand vom 4. bis zum 9. November 1912 zugunsten des
                      Bühnenvereins statt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1912) #17297, Morgenblatt, 11.
+         <note type="first-printing">Neue Freie Presse, (1912) #17297, Morgenblatt, 11.
                   (18.10.1912) Als »Max Burckhard †. Ein Freiluftmensch und Bücherwurm« In: Hans
                   Feigl, Hg.: Deutscher Bibliophilen–Kalender für das Jahr 1914, 117–120</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn ich an Burckhard denke, erscheint er mir immer</note>
+         <note type="incipit">Wenn ich an Burckhard denke, erscheint er mir immer</note>
       </body>
    </text>
 </TEI>

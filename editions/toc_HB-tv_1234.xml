@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb29995"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb29995">Santayana</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20848, Morgenblatt</biblScope>
@@ -47,11 +47,11 @@
                <date when="1922-09-23">23.9.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 54 (1922) #437, 1. Beilage, 5.
+         <note type="first-printing">Berliner Börsen–Courier, 54 (1922) #437, 1. Beilage, 5.
                   (17.9.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein junger Amerikaner zitierte mir neulich Santayana und eben
+         <note type="incipit">Ein junger Amerikaner zitierte mir neulich Santayana und eben
                   als ich fragen wollte, wer denn das sei</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-9-23_santayana.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-9-23_santayana.pdf</ref>
       </body>
    </text>
 </TEI>

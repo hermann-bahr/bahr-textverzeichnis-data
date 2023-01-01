@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_260" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Antisemitismus. Ein internationales Interview. 12. Heinrich
                      Rickert</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -47,11 +47,11 @@
                <date when="1893-05-11">11.5.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Antisemitismus, 86-91</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der bisherige Abgeordnete von Danzig ist jetzt gerade sechzig
+         <note type="other-prints">Der Antisemitismus, 86-91</note>
+         <note type="incipit">Der bisherige Abgeordnete von Danzig ist jetzt gerade sechzig
                   Jahre.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76751.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76752.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76751.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76752.pdf</ref>
       </body>
    </text>
 </TEI>

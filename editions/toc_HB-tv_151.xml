@@ -36,12 +36,12 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb32764">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32764">A Letter from Germany. Salzburg, January,
                      1921</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb89478">The London Mercury</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -50,9 +50,9 @@
                <date when="1921-02-01">Februar 1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">We Austrian Germans have always been much beloved in Germany,
+         <note type="incipit">We Austrian Germans have always been much beloved in Germany,
                   but in a way which is a little painful for us.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#11384"/>
@@ -95,7 +95,7 @@
                <ptr type="HB-tv" target="HB-tv_151_p21"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1921-16.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1921-16.pdf</ref>
       </body>
    </text>
 </TEI>

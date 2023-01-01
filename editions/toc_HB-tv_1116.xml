@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1116" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das österreichische Wunder</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Kunstfreund, Berlin</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,7 +45,7 @@
                <date when="1915">1915</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Diese Fassung unterscheidet sich deutlich von anderen gedruckten Fassungen,
                      eine Seltenheit in Bahrs Publikationspraxis. Im Nachlass Bahrs ein Brief Johann
                      Karlweis’ aus Budapest, der am 3. Mai 1915 die Hetze gegen Bahr in der
@@ -53,15 +53,15 @@
                      jüngste Aussagen zu Ungarn gegeben, womit es sich höchstwahrscheinlich um
                      diesen Artikel handelt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten, 68 (1915) #184, 2.
+         <note type="first-printing">Münchner Neueste Nachrichten, 68 (1915) #184, 2.
                   (11.4.1915) Breslauer Morgen–Zeitung, (1915) #98, Erste Beilage, 2. (11.4.1915)
                   Als »Die Zukunft Österreichs« in: Die Tat, Jena, 7 (1915) #1 (April), 45–49.
                   Redemitschrift in: »Kriegsvorträge der Kriegs–Lese« in: Die Lese, 6 (1915) #14,
                   222–223.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Das österreichische Wunder. Einladung nach Salzburg.
+         <note type="other-prints">In: Das österreichische Wunder. Einladung nach Salzburg.
                   Stuttgart: Die Lese 1915, 3-36 Stark verändert in Schwarzgelb, 30-45</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Krieg hat reingemacht. Er bläst scharf</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/kunstfreund/1915_wunder.pdf</ref>
+         <note type="incipit">Der Krieg hat reingemacht. Er bläst scharf</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/kunstfreund/1915_wunder.pdf</ref>
       </body>
    </text>
 </TEI>

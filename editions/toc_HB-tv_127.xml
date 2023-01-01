@@ -36,11 +36,11 @@
             subtype="Dichtung"
             status="checked"
             sameAs="pmb29907">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb29907">Der Klub der Erlöser. Ein Akt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36156">Die neue Rundschau</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -49,16 +49,16 @@
                <date when="1906-03-01">März 1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Wiener Stadtbibliothek (107457B) besitzt eine undatierte
                      Schreibmaschinen-Abschrift mit Anstreichungen, erstellt vom
                      Vervielfältigungs-Bureau J. Grünwald, Umfang: 90 S.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Nicht identifizierter Druck, Universität Salzburg, 38.579-I
+         <note type="other-prints">Nicht identifizierter Druck, Universität Salzburg, 38.579-I
                   Grotesken, 93-202</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Personen: Kaiser Moriz / Herzog Oriol / Prinz Adolar […] Auf der
+         <note type="incipit">Personen: Kaiser Moriz / Herzog Oriol / Prinz Adolar […] Auf der
                   Insel der Erlöser. Villa des Prinzen Adolar.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1906-3_klub-der-erloeser.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1906-3_klub-der-erloeser.pdf</ref>
       </body>
    </text>
 </TEI>

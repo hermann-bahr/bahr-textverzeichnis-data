@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">15. März [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">98–103</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ernst Cassirer: Kants Leben und Lehre. Immanuel Kants Werke,
+         <note type="review-of">Ernst Cassirer: Kants Leben und Lehre. Immanuel Kants Werke,
                   Band XI. Berlin: B. Cassirer 1918. Ernst Marcus: Kants Weltgebäude. München: Ernst
                   Reinhardt 1917.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich schrieb neulich für mich hin, äußeres Schicksal sei von so
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ich schrieb neulich für mich hin, äußeres Schicksal sei von so
                   geriner Macht über</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Kant-Biografie Cassirers nützt Bahr, um die Frage zu
+         <note type="summary">Die Kant-Biografie Cassirers nützt Bahr, um die Frage zu
                   behandeln, ob die Seele nicht zur Gänze unabhängig von der materiellen
                   Wirklichkeit ist.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#18654"/>
                <ptr type="pmb" target="#12358"/>

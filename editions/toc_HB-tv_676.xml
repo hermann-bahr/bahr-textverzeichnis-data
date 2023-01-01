@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_676" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Shakespeare. An der Grenze zweier Zeiten. Freie Reden über
                      Shakespeare von Adolf Gelber. Dresden und Leipzig. Verlag von Karl Reißner,
                      1902</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -49,11 +49,11 @@
                <date when="1903-10-23">23.10.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Adolf Gelber hat ein Talent, das ich bewundere: der tausend
+         <note type="incipit">Adolf Gelber hat ein Talent, das ich bewundere: der tausend
                   angelesenen Meinungen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr findet bei Gelber zwar nicht seinen Shakespeare, aber einen
+         <note type="summary">Bahr findet bei Gelber zwar nicht seinen Shakespeare, aber einen
                   unorthodoxen, der ihm im Verständis Shakespeares weiterhilft.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#16958"/>
                <ptr type="pmb" target="#2412"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_676_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

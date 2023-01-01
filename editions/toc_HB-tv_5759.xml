@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. März [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">II, 70–73</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Martin Grabmann: Wesen und Grundlagen der katholischen Mystik.
+         <note type="review-of">Martin Grabmann: Wesen und Grundlagen der katholischen Mystik.
                   München: Theatiner 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jemand bat mich um etwas, ich sagte zu, jedoch nach meiner
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Jemand bat mich um etwas, ich sagte zu, jedoch nach meiner
                   Gewohnheit</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr glaubt an Schicksal und erklärt seinen Begriff von
+         <note type="summary">Bahr glaubt an Schicksal und erklärt seinen Begriff von
                   Mystik.</note>
       </body>
    </text>

@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#11148">Dehmel, Richard</author>
             <author ref="#11441">Girardi, Alexander</author>
@@ -51,7 +51,7 @@
             <author ref="#11324">Fischer, Samuel</author>
             <title level="a">Peter Altenberg</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Fackel</title>
             <imprint>
                <biblScope unit="jg">12</biblScope>
@@ -60,14 +60,14 @@
                <date when="1910-09-22">22.9.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Das Ergebnis der Sammlung betrug 5530,67 Kronen. Es wurde im ersten Heft 1911
                      der Neuen Rundschau, Inseratenbeilage S. 1 mitsamt den Namen der Spender sowie
                      den jeweiligen Beträgen veröffentlicht.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 42 (1910) #377, Morgenausgabe,
+         <note type="first-printing">Berliner Börsen–Courier, 42 (1910) #377, Morgenausgabe,
                   3–4. (14.8.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Peter Altenberg, der viele Monate mit einem schweren
+         <note type="incipit">Peter Altenberg, der viele Monate mit einem schweren
                   Nervenleiden gekämpft hat, ist jetzt wieder genesen. Die nächsten Freunde des
                   Dichters haben ihm die Kosten seiner Krankheit nach Möglichkeit zu erleichtern
                   gesucht, aber die noch lange Zeit notwendige Pflege erfordert bedeutend mehr
@@ -77,7 +77,7 @@
                   an Peter Altenberg, Wien, I. Wallnerstraße 17 gelangen lassen. Die Zeitschrift
                   Neue Rundschau, Berlin, wird darüber öffentlich quittieren. Die Bitte wird
                   befürwortet von: |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2147"/>
             </listRef>

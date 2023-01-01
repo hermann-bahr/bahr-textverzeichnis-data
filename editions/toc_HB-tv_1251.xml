@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1251" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Shaw über Religion</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hannoverscher Courier</title>
             <imprint>
                <biblScope unit="jg">59</biblScope>
@@ -45,7 +45,7 @@
                <date when="1912-06-20">20.6.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr, selbst gerade einen Wandel zum Katholizismus durchmachend, erklärt eine
                      Rede Shaws zur Religion. Darin auch ein eigenes Bekenntnis: »Das Wunder der
                      Schöpfung dauert immer noch an. Um sich zu erfüllen, braucht die schaffende
@@ -53,9 +53,9 @@
                      dies begreift, hat Religion. Er wird gewahr, daß das, was man immer Gott
                      genannt hat, etwas in uns selbst ist, wie Jesus gesagt hat.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Deutschland wird Shaw ja noch eher ernst genommen als
+         <note type="incipit">In Deutschland wird Shaw ja noch eher ernst genommen als
                   daheim</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2381"/>
                <ptr type="pmb" target="#20987"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Alfred Lichtwark</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">231–243</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #11, 1–4.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #11, 1–4.
                   (13.1.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Alfred Lichtwark, der Director der Hamburger Kunsthalle, der
+         <note type="incipit">Alfred Lichtwark, der Director der Hamburger Kunsthalle, der
                   nächster Tage im Österreichischen Museum über »Kunstpflege« sprechen wird, hat
                   bei uns schon seit ein paar Jahren seine stille Gemeinde beharrlich nachstrebender
                   Verehrer.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schildert das Programm Alfred Lichtwarks, der die Kunst als
+         <note type="summary">Bahr schildert das Programm Alfred Lichtwarks, der die Kunst als
                   eine »wirtschaftliche Macht« beschreibt und stimmt ihm zu, wenn es darum geht, den
                   Staat für das Projekt einer künstlerischen Erziehung der Bevölkerung in die
                   Pflicht zu nehmen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3403"/>
                <ptr type="pmb" target="#12319"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_2997_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

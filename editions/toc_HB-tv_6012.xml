@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 30. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-03-25">25.3.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 98–104</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wie seit Jahren in der Karwoche lese ich auch heuer wieder das
+         <note type="other-prints">Kritik der Gegenwart, 98–104</note>
+         <note type="incipit">Wie seit Jahren in der Karwoche lese ich auch heuer wieder das
                   bittere Leiden unseres Herrn nach den Betrachtungen der gottseligen Anna Katharina
                   Emmerich in der Niederschrift Brentanos. Daß die fromme Magd durch den Mund des
                   innigsten Dichters spricht, gibt dem seltsamen Buch seinen so ganz eigenen Reiz.
@@ -198,8 +198,8 @@
                   Kein schöneres Geschenk hat unserer Nation jemals ein Verleger gemacht, ein
                   Abschiedsgeschenk, denn auch den Isenheimer Altar haben wir ja jetzt verloren.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Anna Katherina Emmerich.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Über Anna Katherina Emmerich.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

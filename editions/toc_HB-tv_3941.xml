@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3941" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Geheimnis von Week-end</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -45,11 +45,11 @@
                <date when="1910-04-06">6.4.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Autor als »Hermann Bahr (Dover)«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe jetzt das Geheimnis von Week-end entdeckt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1910_week-end.pdf</ref>
+         <note type="incipit">Ich habe jetzt das Geheimnis von Week-end entdeckt.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1910_week-end.pdf</ref>
       </body>
    </text>
 </TEI>

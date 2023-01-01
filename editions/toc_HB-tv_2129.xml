@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzmeldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-01-08">8.1.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Maria Stuart« von Friedrich Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Elisabeth in »Maria Stuart« hat sich Frau Lewinsky gestern
+         <note type="review-of">»Maria Stuart« von Friedrich Schiller</note>
+         <note type="incipit">Als Elisabeth in »Maria Stuart« hat sich Frau Lewinsky gestern
                   Nachmittags im Burgtheater verabschiedet.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#20373"/>
                <ptr type="pmb" target="#12061"/>

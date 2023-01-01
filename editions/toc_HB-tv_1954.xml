@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Agariste</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,13 +48,13 @@
                <date when="1904-05-22">22.5.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Stimmen des Bluts, 133–140</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zu Sikyon, welches eine altberühmte Stadt im Peloponnes ist,
+         <note type="other-prints">Stimmen des Bluts, 133–140</note>
+         <note type="incipit">Zu Sikyon, welches eine altberühmte Stadt im Peloponnes ist,
                   nahe bei Korinth, früher Mekone genannt, est jonisch, später durch Phalkes, den
                   Sohn des Tememos dorisch gemacht, jetzt das Dorf Wasiliko, war eines Kleisthenes
                   Tyrann, der Sohn des Aristonmymos, dessen Vater Myron war, des Andrees
                   Sohn.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

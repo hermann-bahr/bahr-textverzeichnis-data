@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1162" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Oberösterreichisch und Niedersächsisch</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">84</biblScope>
@@ -45,12 +45,12 @@
                <date when="1931-12-06">6.12.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Deutsch ist ja nicht unsere Muttersprache, es wird uns erst auf
+         <note type="incipit">Deutsch ist ja nicht unsere Muttersprache, es wird uns erst auf
                   der Schule mühsam eingebleut.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bringt verschiedene Dialektbeispiele um zu unterstreichen,
+         <note type="summary">Bahr bringt verschiedene Dialektbeispiele um zu unterstreichen,
                   dass Staaten vergehen mögen, aber die (deutschen) Stämme immer stärker
                   werden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
             </listRef>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Walt Whitman. Zum 100. Geburtstag</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Prager Tagblatt</title>
             <imprint>
                <biblScope unit="jg">44</biblScope>
@@ -48,23 +48,23 @@
                <date when="1919-05-31">31.5.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Fußnote: »Im Verlag E. P. Thal &amp; Co. (Leipzig, Wien) ist eine
                      Auswahl der Walt Whitman’schen »Grashalme« in neuer Übersetzung von Max Hajek
                      erschienen. Dem Bändchen, das den Namen »Ich singe das Leben führt«, hat
                      Hermann Bahr ein Vorwort geschrieben.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt als »Der gute graue Dichter vom fischförmigen
+         <note type="first-printing">Gekürzt als »Der gute graue Dichter vom fischförmigen
                   Paumanok« in: Neue Erde, 1 (1919) #15, 247–250 Die neue Rundschau, 30 (1919) #5,
                   555–564. Gekürzt in: Das literarische Echo, 21 (1919) #18, 1127.
                   (15.6.1919)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Walt Whitman: Ich singe das Leben. Übertragung dieser
+         <note type="other-prints">In: Walt Whitman: Ich singe das Leben. Übertragung dieser
                   Auswahl von Max Hayek. Leipzig, Wien: E. P. Tal 1919, 5–14. Summula, 151–166.
                   Englisch von Walter Grünzweig in: Gay Wilson Allen, Ed Folsom {Hgg): Walt Whitman
                   &amp; the world. Iowa: University of Iowa Press 1995, 193-201.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Väterlich stammt Walt Whitman von englischen Quäkern,
+         <note type="incipit">Väterlich stammt Walt Whitman von englischen Quäkern,
                   müttlerlich aus Holland.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1919_whitman.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1919_whitman.pdf</ref>
       </body>
    </text>
 </TEI>

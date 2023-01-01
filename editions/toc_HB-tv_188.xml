@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_188" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der verlorene Vater. (Komödie in vier Akten von Bernard Shaw.
                      Deutsch von Siegfried Trebitsch. Zum erstenmal aufgeführt im Burgtheater am 17.
                      März 1906)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">52</biblScope>
@@ -49,13 +49,13 @@
                <date when="1906-03-18">18.3.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt: Kleine Österreichische Volks–Zeitung, 52 (1906)
+         <note type="first-printing">Gekürzt: Kleine Österreichische Volks–Zeitung, 52 (1906)
                   #76, 8 und 25. (18.3.1906)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 112–116</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vor vier Jahren hätte Schlenther Candida haben können.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr wirft Schlenther vor, zuerst Shaw nicht gespielt zu haben,
+         <note type="other-prints">Glossen, 112–116</note>
+         <note type="incipit">Vor vier Jahren hätte Schlenther Candida haben können.</note>
+         <note type="summary">Bahr wirft Schlenther vor, zuerst Shaw nicht gespielt zu haben,
                   und dann, spät, zum falschen Stück gegriffen zu haben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12671"/>
                <ptr type="pmb" target="#2381"/>

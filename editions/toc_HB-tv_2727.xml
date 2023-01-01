@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Maximilian Harden</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,17 +49,17 @@
                <biblScope unit="pages">42–52</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Seite 42–48 als »Maximilian Harden«, Seite 48–52 als »Der
+         <note type="first-printing">Seite 42–48 als »Maximilian Harden«, Seite 48–52 als »Der
                   Antisemitismus« in: Deutsche Zeitung, Wien, 23 (1893) #7654, Morgen–Ausgabe, 1–2
                   respektive 1. (20.4.1893) Gekürzt nachgedruckt als: »Ein Interview über den
                   Antisemitismus« in: Wiener Allgemeine Zeitung, (1893) #4518, 1–2.
                   (21.4.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">1861 geboren; 1881 ein kleiner Mime ohne Glück und Hoffnung;
+         <note type="incipit">1861 geboren; 1881 ein kleiner Mime ohne Glück und Hoffnung;
                   1890 ein Recensent in Wochenschriften, auf den die Kenner zu merken beginnen; 1891
                   der gehaßte Spötter von Berlin; 1892 der einzige Journalist der Deutschen im
                   europäischen Stile; 1893 der Freund des großen Kanzlers und der Sieger im
                   Prozesse um die »Erziehung« des Monarchen. Eine ganz hübsche Karriere.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11581"/>
                <ptr type="pmb" target="#10943"/>
@@ -97,7 +97,7 @@
                <ptr type="HB-tv" target="HB-tv_2727_p15"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

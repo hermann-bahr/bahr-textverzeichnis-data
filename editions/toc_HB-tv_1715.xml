@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zur Technik des künstlerischen Schaffens</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Zuschauer. Monatsschrift für Kunst, Litteratur und
                      Kritik</title>
             <imprint>
@@ -49,11 +49,11 @@
                <date when="1893">1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die zweite Antwort in dieser Nummer (die Umfrage geht über mehrere Hefte)
                      stammt von Theodor Fontane.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von der Technik des künstlerischen Schaffens« weiß ich nichts.
+         <note type="incipit">Von der Technik des künstlerischen Schaffens« weiß ich nichts.
                   Wenn ich liebe, schaffe ich. Wenn ich nicht liebte, könnte ich nicht schaffen.
                   Aber ich schaffe immer. Kunst und Liebe – zwei Namen für ein Ding, das wunderbare,
                   heilige, unerforschliche Ding! |</note>

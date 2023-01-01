@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3697" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Benedetto Croce. Zum sechzigsten Geburtstag. I</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22073, Morgenblatt</biblScope>
@@ -44,11 +44,11 @@
                <date when="1926-02-25">25.2.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Literarische Umschau. Wochenschrift der Badischen Presse,
+         <note type="first-printing">Literarische Umschau. Wochenschrift der Badischen Presse,
                   2 (1926) #10, 37–38. (10.3.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Mißverständnis, Kunstwerke nicht um ihretwillen zu
+         <note type="incipit">Das Mißverständnis, Kunstwerke nicht um ihretwillen zu
                   betrachten, sondern nur als Urkunden ihrer Künstler</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-02-25_benedetto-croce-1.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-02-25_benedetto-croce-1.pdf</ref>
       </body>
    </text>
 </TEI>

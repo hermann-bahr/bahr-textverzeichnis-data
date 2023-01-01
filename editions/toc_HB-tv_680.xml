@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_680" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Wiederkunft Platons</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">23144, Morgenblatt</biblScope>
@@ -44,15 +44,15 @@
                <date when="1929-02-19">19.2.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans F. K. Günther: Platon als Hüter des Lebens. Platons
+         <note type="review-of">Hans F. K. Günther: Platon als Hüter des Lebens. Platons
                   Zucht- und Erziehungsgedanken und deren Bedeutung für die Gegenwart. München:
                   Lehmann 1928</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Die Wiederkunft Platos« in: Labyrinth der Gegenwart,
+         <note type="other-prints">Als »Die Wiederkunft Platos« in: Labyrinth der Gegenwart,
                   95-98</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Auditorium maximum der Münchner Universität sprach jüngst
+         <note type="incipit">Im Auditorium maximum der Münchner Universität sprach jüngst
                   Erich Przywara S. J. über »Platons Auferstehung« und um dieselbe Zeit erschien
                   Hans F. Günthers Buch über »Platon als Hüter des Lebens«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1929-2-19_die-wiederkunft-platons.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1929-2-19_die-wiederkunft-platons.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. Juni [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">III, 157–161</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">August Göllerich: Anton Bruckner - ein Lebens- und
+         <note type="review-of">August Göllerich: Anton Bruckner - ein Lebens- und
                   Schaffens-Bild. Nach dessen Tod ergänzt und herausgegeben von Max Auer.
                   Regensburg: Bosse 1922. Max Auer: Bruckner. Zürich: Amalthea 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vor zwanzig Jahren sagte mir Burckhard einmal: »Der
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Vor zwanzig Jahren sagte mir Burckhard einmal: »Der
                   einzige</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Anton Bruckner.</note>
+         <note type="summary">Über Anton Bruckner.</note>
       </body>
    </text>
 </TEI>

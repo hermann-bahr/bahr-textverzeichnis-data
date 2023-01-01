@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb31045"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31045">Gegen Klimt</title>
             <editor ref="#10815">Bahr, Hermann</editor>
             <editor>Burckhard, Max</editor>
@@ -46,7 +46,7 @@
                <date when="1903">1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr berichtet in seinem »Tagebuch« am 7. Februar 1918 anlässlich des Todes von
                      Klimt über die Entstehung des Buches: »Eine Zeit darauf saßen nämlich
                      Burckhard, Kolo Moser und ich einmal beisammen und machten uns den Spaß, aus
@@ -61,11 +61,11 @@
             <p>Rezensionen: Berta Zuckerkandl: Klimt-Erinnerung. Neues Wiener Journal, 31
                      (1923) #10728, 3-4. (30.9.1923) [Auszug anlässlich Klimt-Ausstellung]</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritische Schriften, VIII. Weimar: VDG 2009</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Spanische Übersetzung: Contra Klimt. Histórico, filosofía,
+         <note type="other-prints">Kritische Schriften, VIII. Weimar: VDG 2009</note>
+         <note type="translations">Spanische Übersetzung: Contra Klimt. Histórico, filosofía,
                   medicina, peces dorados, friso. Prólogo de Hermann Bahr. Traducción: Alejandro
                   Martín Navarro. Madrid: Fundación Juan March 2006</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/8-klimt.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/8-klimt.pdf</ref>
       </body>
    </text>
 </TEI>

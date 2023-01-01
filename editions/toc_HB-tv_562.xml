@@ -35,14 +35,14 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_562" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Das Moderne. (Leseabend des Journalisten- u.
                      Schriftstellervereins »Concordia« im Saale Bösendorfer am 18. November 1900;
                      Vortrag des Dr. Max Burckhard über den »Begriff des Modernen im Gebiete der
                      Kunst«)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -51,13 +51,13 @@
                <date when="1900-11-19">19.11.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was denn das Moderne, von dem wir in einemfort hören, in
+         <note type="incipit">Was denn das Moderne, von dem wir in einemfort hören, in
                   einemfort reden, eigentlich sei, hat Herr Doctor Burckhard in seiner gestrigen
                   Vorlesung gefragt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs referiert den Vortrag Burckhards, der jede »Moderne Kunst«
+         <note type="summary">Bahrs referiert den Vortrag Burckhards, der jede »Moderne Kunst«
                   mit zwei »Momenten« ausgestattet sieht: Die neuen Ideen, die vertreten werden und
                   die neuen Kunsttheorien, die den Kampf der Ideen beflügeln.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11036"/>
                <ptr type="pmb" target="#4107"/>
@@ -76,7 +76,7 @@
                <ptr type="HB-tv" target="HB-tv_562_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

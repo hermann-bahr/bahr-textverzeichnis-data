@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der englische Stil. (Zur Winterausstellung im österreichischen
                      Museum)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -50,15 +50,15 @@
                <biblScope unit="pages">182–187</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Der englische Styl« in: Österreichische
+         <note type="first-printing">Als »Der englische Styl« in: Österreichische
                   Volks–Zeitung, 45 (1899) #325, 1–2 (2 Kreuzer–Ausgabe: 1–4). (25.11.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man ist allmählich im Publikum etwas ruhiger geworden. Die
+         <note type="incipit">Man ist allmählich im Publikum etwas ruhiger geworden. Die
                   große Wuth gegen Herrn v. Scala hat sich gelegt, man sieht nach und nach doch ein,
                   dass das, was er will, recht und nothwendig ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr kritisiert Scalas Einfall, der österreichischen
+         <note type="summary">Bahr kritisiert Scalas Einfall, der österreichischen
                   Innenarchitektur ein englisches Vorbild anzuempfehlen und favorisiert eine
                   autonome Entwicklung der »Hauskunst«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11257"/>
                <ptr type="pmb" target="#11730"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_2991_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

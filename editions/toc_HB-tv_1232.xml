@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1232" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sankt Philippus Neri</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">56</biblScope>
@@ -45,11 +45,11 @@
                <date when="1923-02-11">11.2.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1923) #20984, Morgenblatt, 13.
+         <note type="first-printing">Neue Freie Presse, (1923) #20984, Morgenblatt, 13.
                   (10.2.1923)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Wir müssen es einmal sagen, weil es uns schon lange auf dem
+         <note type="incipit">»Wir müssen es einmal sagen, weil es uns schon lange auf dem
                   Herzen liegt: Voltaire, Hume, Lamettrie, Helvetius, Rosseau und</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1923_neri.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1923_neri.pdf</ref>
       </body>
    </text>
 </TEI>

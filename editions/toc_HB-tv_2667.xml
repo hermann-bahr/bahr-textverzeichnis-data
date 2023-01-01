@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Galante Bücher</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">33–40</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Gegenwart, 39 (1891) #2, 25–26</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Staatsanwalt würde sagen: unzüchtige Schriften. Ich bin
+         <note type="first-printing">Die Gegenwart, 39 (1891) #2, 25–26</note>
+         <note type="incipit">Der Staatsanwalt würde sagen: unzüchtige Schriften. Ich bin
                   höflicher. Aber wir meinen beide ganz dasselbe: die gewisse Litteratur, die jeder
                   kennt und zu der sich niemand bekennt, die am meisten gelesen und am wenigsten
                   besprochen wird, die allgemein in Verruf und allgemein im Gebrauch ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#6567"/>
                <ptr type="pmb" target="#21317"/>
@@ -85,7 +85,7 @@
                <ptr type="HB-tv" target="HB-tv_6713_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

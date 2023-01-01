@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">5. April [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">II, 108–110</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Melchior Vischer: Der Teemeister. Hellerau: Jakob Hegner
+         <note type="review-of">Melchior Vischer: Der Teemeister. Hellerau: Jakob Hegner
                   1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Deutsch ist ein gewisses Mißtrauen gegen alles
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Deutsch ist ein gewisses Mißtrauen gegen alles
                   Verständliche;</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der expressionistisch aufgemachte Roman gefällt Bahr mehr durch
+         <note type="summary">Der expressionistisch aufgemachte Roman gefällt Bahr mehr durch
                   die Schrifttype als den Inhalt.</note>
       </body>
    </text>

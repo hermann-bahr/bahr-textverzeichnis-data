@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1011" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hölderlin auf französisch</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Einkehr. Unterhaltungs-Beilage der »Münchner Neuesten
                      Nachrichten«</title>
             <imprint>
@@ -46,11 +46,11 @@
                <date when="1930-03-23">23.3.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Goethe fand in Hölderlin bloß »Ingredenzien« zu einem
+         <note type="incipit">Goethe fand in Hölderlin bloß »Ingredenzien« zu einem
                   Dichter.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein biographischer Aufsatz über Hölderlin, dem die Übersetzung
+         <note type="summary">Ein biographischer Aufsatz über Hölderlin, dem die Übersetzung
                   ins Französische (Ja dürfen die denn das?) zu Grunde liegt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#18654"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über Josef Olbrich</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Zeitschrift für Geschichte und Kulturgeschichte
                      Österreichisch-Schlesiens</title>
             <imprint>
@@ -48,14 +48,14 @@
                <date when="1908">1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Gekürzter Abdruck aus »Nord und Süd«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Ungekürzt als »Josef Olbrich. (Gestorben am 18. August
+         <note type="first-printing">Ungekürzt als »Josef Olbrich. (Gestorben am 18. August
                   1908)« in: Nord und Süd, 32 (1908) #127/380 (November), 339–344.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Ungekürzt als »Josef Olbrich« in: Buch der Jugend,
+         <note type="other-prints">Ungekürzt als »Josef Olbrich« in: Buch der Jugend,
                   70-76</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Darmstadt begann eine Tätigkeit, die man erst</note>
+         <note type="incipit">In Darmstadt begann eine Tätigkeit, die man erst</note>
       </body>
    </text>
 </TEI>

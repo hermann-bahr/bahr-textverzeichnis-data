@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_960" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Französischer Katholizismus</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -45,16 +45,16 @@
                <date when="1930-03-02">2.3.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eine editorische Einleitung macht die Differenzen deutlich, die zwischen
                      Moenius politischer Haltung und jener der »Schöneren Zukunft« liegen, erkennt
                      aber seine Bedeutung als Reiseschriftsteller an.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Georg Moenius: Paris, Frankreichs Herz. München: Limes
+         <note type="review-of">Georg Moenius: Paris, Frankreichs Herz. München: Limes
                   1928.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Paris, Frankreichs Herz«, heißt ein von Georg Moenius verfaßtes
+         <note type="incipit">»Paris, Frankreichs Herz«, heißt ein von Georg Moenius verfaßtes
                   Buch, in dem die lang vergessene, verhaltene, verschwiegene Sehnsucht</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11933"/>
                <ptr type="pmb" target="#18654"/>

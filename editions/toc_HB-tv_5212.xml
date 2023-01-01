@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">22. Januar [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">44–45</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Gautama Buddha: Die Reden Gotamo Buddho’s aus der längeren
+         <note type="review-of">Gautama Buddha: Die Reden Gotamo Buddho’s aus der längeren
                   Sammlung Dighanikayo des Pali-Kanons übersetzt von Karl Eugen Neumann. 3. Band.
                   München: Piper 1918.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jetzt ist bei Piper in München endlich auch der dritte Band der
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Jetzt ist bei Piper in München endlich auch der dritte Band der
                   Reden Gotamo Buddhos</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Was dem Protestanten seine Lutherbibel, das ist dem
+         <note type="summary">Was dem Protestanten seine Lutherbibel, das ist dem
                   deutschsprachigen Buddhisten die Neumann-Übersetzung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5104"/>
                <ptr type="pmb" target="#12136"/>

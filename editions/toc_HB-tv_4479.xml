@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Schauspielkunst</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Bayerischer Kurier, München</title>
             <imprint>
                <biblScope unit="jg">72</biblScope>
@@ -48,8 +48,8 @@
                <date when="1928-07-19">19.7.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Schauspielkunst</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer das Wesen der Schauspielkunst erkunden will</note>
+         <note type="other-prints">Schauspielkunst</note>
+         <note type="incipit">Wer das Wesen der Schauspielkunst erkunden will</note>
       </body>
    </text>
 </TEI>

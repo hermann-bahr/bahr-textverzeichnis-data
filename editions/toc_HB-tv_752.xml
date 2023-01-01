@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_752" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sezession. Dreizehnte Kunstausstellung der Vereinigung bildender
                      Künstler Österreichs</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -47,12 +47,12 @@
                <date when="1902-02-19">19.2.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit einiger Zeit wiederholt sich bei uns Jahr für Jahr ein
+         <note type="incipit">Seit einiger Zeit wiederholt sich bei uns Jahr für Jahr ein
                   beschämendes Schauspiel.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Neben Klimts »Goldfischen« geht Bahr ausfürhlicher auf die
+         <note type="summary">Neben Klimts »Goldfischen« geht Bahr ausfürhlicher auf die
                   Ausstattung durch Koloman Moser ein und erwähnt ein paar Künstler und
                   Künstlerinnen, die er positiv bemerkt hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
                <ptr type="pmb" target="#11461"/>

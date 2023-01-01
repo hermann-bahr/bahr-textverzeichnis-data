@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Unterirdische Zensur</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">131–135</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1908) #15604, Morgenblatt, 1–2.
+         <note type="first-printing">Neue Freie Presse, (1908) #15604, Morgenblatt, 1–2.
                   (30.1.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der neue Verein, in welchem sich die dramatischen Schriftsteller
+         <note type="incipit">Der neue Verein, in welchem sich die dramatischen Schriftsteller
                   Österreichs versammeln, hat vor, nächstens einmal ihre Sorgen öffentlich
                   auszubreiten. Es soll mit Männern der Wissenschaft und des politischen Lebens
                   zusammen beraten werden, wie uns etwas geholfen werden könne, besonders gegen
                   jene Macht, durch die wir uns in einer nicht mehr erträglichen Weise bedrückt
                   und entehrt fühlen: gegen die Zensur.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr steht dem Versuch der dramatischen Schriftsteller
+         <note type="summary">Bahr steht dem Versuch der dramatischen Schriftsteller
                   Österreichs, gegen die Zensur aufzubegehren, skeptisch gegenüber, da er in
                   verschiedenen, informellen Praktiken der »Behörde« die Möglichkeit einer weitaus
                   effektiveren, »unterirdischen« Zensur erkennt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

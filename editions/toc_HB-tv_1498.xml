@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1498" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Gerhart Hauptmann]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Festschrift zum 60. Geburtstag Gerhart Hauptmanns. Im Auftrage
                      der Genossenschaft deutscher Bühnenangehöriger</title>
             <editor>Hollaender, Felix</editor>
@@ -47,18 +47,18 @@
                <biblScope unit="pages">4</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Erscheinungsjahr eigentlich [1922]. Ankündigung in: Vossische Zeitung, 1922
                      #358, Abend-Ausgabe, 3 (31.7.1922). Bahr teilt sich die Seite mit Arthur
                      Schnitzler und Walter Rathenau. Sein Exemplar in der Universitätsbibliothek
                      Salzburg, Signatur 39.140-III.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als wir aufwuchsen, war keine deutsche Literatur am
+         <note type="incipit">Als wir aufwuchsen, war keine deutsche Literatur am
                   Leben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr würdigt Hauptmann dafür, die neue deutsche Literatur
+         <note type="summary">Bahr würdigt Hauptmann dafür, die neue deutsche Literatur
                   begründet zu haben, sie beständig weiter getrieben zu haben und dabei das Elend
                   der Menschen nie aus den Augen verloren zu haben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13194"/>
                <ptr type="pmb" target="#11798"/>

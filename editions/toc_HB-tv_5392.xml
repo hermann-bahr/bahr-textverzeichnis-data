@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 1. Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,13 +48,13 @@
                <date when="1919-05-18">18.5.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 147–152</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mir fiel ein, nachzudenken, was heute vor zehn Jahren mit mir
+         <note type="other-prints">1919. Tagebuch, 147–152</note>
+         <note type="incipit">Mir fiel ein, nachzudenken, was heute vor zehn Jahren mit mir
                   war.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr erinnert sich, an den Sommeraufenthalt 1869 am Attersee, an
+         <note type="summary">Bahr erinnert sich, an den Sommeraufenthalt 1869 am Attersee, an
                   seine erste Verlobung im Jahr 1879, an den Text zur »Krisis des Burgtheaters«
                   1889, an Rom 1899 und an die Fertigstellung des »Konzerts« 1909.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2202"/>
                <ptr type="pmb" target="#11036"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_115_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

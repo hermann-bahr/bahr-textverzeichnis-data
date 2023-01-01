@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahrs »erstes Opfer«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Prager Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,14 +48,14 @@
                <date when="1913-08-14">14.8.1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In einem Feuilleton über das Mozarteum erzählt Hermann
                      Bahr folgende Episode aus seinem Leben:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig als: »Mozarteum« in: Neue Freie Presse,
+         <note type="first-printing">Vollständig als: »Mozarteum« in: Neue Freie Presse,
                   (1913) #17590, Morgenblatt, 1–2. (12.8.1913) Salzburger Volksblatt, 43 (1913)
                   #187, 9–10. (17.8.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die aula academica des alten Salzburger Kollegiums
+         <note type="incipit">Die aula academica des alten Salzburger Kollegiums
                   ergreift</note>
       </body>
    </text>

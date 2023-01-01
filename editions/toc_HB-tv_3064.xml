@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. Zweites Gastspiel. 6. »Alleluja« (Drama in drei Akten
                      von Marco Praga. Zum ersten Male aufgeführt im Raimundtheater am 18. April
                      1901)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -52,9 +52,9 @@
                <biblScope unit="pages">187–191</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #105, 1–2.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #105, 1–2.
                   (18.4.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novelli spielt heute den Alessandro Fara in »Alleluja«</note>
+         <note type="incipit">Novelli spielt heute den Alessandro Fara in »Alleluja«</note>
       </body>
    </text>
 </TEI>

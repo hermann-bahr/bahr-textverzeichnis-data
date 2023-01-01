@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1361" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Dialog vom Marsyas. Mit einer Photogravüre und fünfzehn
                      Vollbildern in Tonätzung</title>
@@ -44,11 +44,11 @@
             </imprint>
             <extent>73 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Die Kultur, Sammlung illustrierter Einzeldarstellungen, 4</title>
             <biblScope unit="volume">4</biblScope>
          </series>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Ohne gedruckte Jahresangabe. Bahr schickte das Manuskript im Sommer 1904 an
                      Bard und rechnete mit einem Erscheinen Ende Jänner 1905. Verzögerungen im
                      Verlag führten dazu, dass im Oktober 1905 zwar die Abbildungen gedruckt sind,
@@ -60,19 +60,19 @@
             <p>Rezensionen: Im Archiv: Otto Julius Bierbaum: Etwas von einem Geschundenen,
                      21.2.1906</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die neue Rundschau, 15 (1904) #10, 1173–1205.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Monografien: Inselbücherei #67, Leipzig: Insel, 1913,
+         <note type="first-printing">Die neue Rundschau, 15 (1904) #10, 1173–1205.</note>
+         <note type="other-prints">Monografien: Inselbücherei #67, Leipzig: Insel, 1913,
                   1.-20. Tsd. 2. Aufl. Inselbücherei, 1946, 25. Tsd. Sammelwerke: H. B.: Essays. Hg.
                   Heinz Kindermann. Wien: Bauer 1962, 21-61 H. B.: Kritische Schriften. Hg. Claus
                   Pias. IX. Dialog vom Tragischen, Dialog vom Marsyas, Josef Kainz. Weimar: VDG
                   2010</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir sahen an, was der Sammler oder wie er, aus den dunklen
+         <note type="incipit">Wir sahen an, was der Sammler oder wie er, aus den dunklen
                   Zuständen der Heimat abgelöst, um betrachtend, erhorchend durch die Welt zu
                   schweifen, sich jetzt lieber nennen hört: der Planet von der Reise mitgebracht,
                   und waren eben dabei, uns nach diesen Photographien und wie er sie uns, Erinnerung
                   aus seinen Schriften ergänzend, kräftig zu beleben verstand, die Zeichnungen
                   vorzustellen, die im fünften Saal der venezianischen Akademie sind.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wie im »Dialog vom Tragischen« handelt es sich auch im »Dialog
+         <note type="summary">Wie im »Dialog vom Tragischen« handelt es sich auch im »Dialog
                   vom Marsyas« um ein Gespräch, dessen Thema die Kunst im weiteren Sinn ist. Ein
                   »Meister« entwickelt anhand des Marsyas-Mythos die These, dass es zwei Formen von
                   Kunstproduktion gäbe: Eine, die aufgrund eines Mangels und eine, die aufgrund
@@ -80,7 +80,7 @@
                   dass der Kunstschaffende selbst gerade durch seine Werke an Wert oder zumindest an
                   Kraft verliere, würde die zweite Form nicht nur schöne Werke, sondern auch gute
                   Menschen produzieren.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
                <ptr type="pmb" target="#11209"/>
@@ -166,8 +166,8 @@
                <ptr type="HB-tv" target="HB-tv_1361_p46"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://archive.org/search.php?query=hermann%20bahr%20marsyas</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
+         <ref type="URL">http://archive.org/search.php?query=hermann%20bahr%20marsyas</ref>
       </body>
    </text>
 </TEI>

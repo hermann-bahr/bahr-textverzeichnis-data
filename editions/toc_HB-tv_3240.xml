@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Strom. (Drama in drei Aufzügen von Max Halbe. Zum ersten Mal
                      aufgeführt im Burgtheater am 19. Oktober 1903)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -51,11 +51,11 @@
                <biblScope unit="pages">29–35</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #288, 1–2 (2
+         <note type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #288, 1–2 (2
                   Kreuzer–Ausgabe: 1–4). (20.10.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   89-93</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">An der Weichsel. Durch das Fenster sieht man auf den hohen Deich
+         <note type="incipit">An der Weichsel. Durch das Fenster sieht man auf den hohen Deich
                   hinaus.</note>
       </body>
    </text>

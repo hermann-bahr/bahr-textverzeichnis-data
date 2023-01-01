@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. (Gastspiel im Raimundtheater) 10. Plautus und Goldoni.
                      1. Mai 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -50,11 +50,11 @@
                <biblScope unit="pages">154–157</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Aulularia« von Plautus sowie »Il Burbero benefico« von Carlo
+         <note type="review-of">»Aulularia« von Plautus sowie »Il Burbero benefico« von Carlo
                   Goldoni</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #118, 7–8.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #118, 7–8.
                   (1.5.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Heute kommt uns Novelli ganz klassisch: in der »Aulularia« des
+         <note type="incipit">Heute kommt uns Novelli ganz klassisch: in der »Aulularia« des
                   Plautus, dem Muster, dem Molière seinen »Geizigen« nachgebildet hat, und als
                   »Burbero benefico« des Goldoni.</note>
       </body>

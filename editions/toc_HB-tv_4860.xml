@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">XIX</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,20 +48,20 @@
                <biblScope unit="pages">214–230</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. XIX« in: Das Neue Reich, 5 (1923) #20,
+         <note type="first-printing">Als »Erinnerungen. XIX« in: Das Neue Reich, 5 (1923) #20,
                   417–418. (17.2.1923) und als »Erinnerungen. XIX. (2. Teil)« in: #21, 440–442.
                   (24.2.1923) Auszug in: Jahrbuch katholischer Dichter 1934, 11–19 Französisch: Les
                   aventures de mon esprit au Quartier latin. La Vie des peuples. Revue synthétique
                   de la pensée et de l’activité française et étrangères, 4 (1923) #43 (Novembre),
                   497–520.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In seiner Freude, mein Freiwilligenjahr glücklich überstanden
+         <note type="incipit">In seiner Freude, mein Freiwilligenjahr glücklich überstanden
                   zu haben, kündigte mir mein Vater an, er sei zur Belohnung bereit, noch ein
                   letztes Jahr für meinen Unterhalt zu sorgen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Jahr auf Reisen – Begegnung mit Ibsen – München – Paris,
+         <note type="summary">Ein Jahr auf Reisen – Begegnung mit Ibsen – München – Paris,
                   Quartier latin – Leben in bescheidenen Verhältnissen – Im Franzosen herrscht die
                   Nation über das Individuum – Erfahrung der Form – Hinwendung zur Kunst – Sprache
                   als Teilhabe an einer unsichtbaren Welt – Vom Marxisten zum Künstler</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2132"/>
                <ptr type="pmb" target="#28495"/>
@@ -130,7 +130,7 @@
                <ptr type="HB-tv" target="HB-tv_4860_p26"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

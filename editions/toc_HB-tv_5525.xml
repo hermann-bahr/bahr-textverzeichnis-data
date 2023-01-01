@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">6. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">108–109</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein selbstgefällig perorierender Knirps belehrt einen geduldigen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ein selbstgefällig perorierender Knirps belehrt einen geduldigen
                   alten Herrn so laut, daß auch wir andern alle, die den sich immer noch mehr
                   verspätenden Zug erwarten, gezwungen sind zuzuhören. »Daß diese Wirtschaft nicht
                   weiter geht,« erklärt er, »das weiß doch schon ein jeder! Denn warum? Das Geld
@@ -80,7 +80,7 @@
                   regieren, also da wären sie ja dann doch Narren, sich erst anzustrengen, daß sie
                   gut regieren!« Volkesstimme. Man sieht daraus, daß wir erst gar keine Clarté mehr
                   brauchen, um uns den Nationalstolz abzugewöhnen. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr referiert einen Vorschlag, die Bundesländer
+         <note type="summary">Bahr referiert einen Vorschlag, die Bundesländer
                   Rest-Österreichs zu versteigern: Die neuen Eigentümer würden sicher gut regieren,
                   weil sie wüssten, dass es ihr Eigentum wäre, wohingegen die jetzigen Politiker
                   anderer Leute Geld ausgeben.</note>

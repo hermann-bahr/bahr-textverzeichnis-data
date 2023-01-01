@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. Zweites Gastspiel. 8. »Un dramma nuovo« (Drama in drei
                      Akten von Manuel Tamayo y Bauß [!]. Nach dem Spanischen bearbeitet von Ermete
                      Novelli. Zur ersten Aufführung im Raimundtheater am 19. April 1901)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -52,10 +52,10 @@
                <biblScope unit="pages">192–195</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Un Drama nuevo« von Manuel Tamayo y Baus</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #106, 7.
+         <note type="review-of">»Un Drama nuevo« von Manuel Tamayo y Baus</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #106, 7.
                   (19.4.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dasselbe Thema wie im »Tarbarin« des Mendès, wie in den
+         <note type="incipit">Dasselbe Thema wie im »Tarbarin« des Mendès, wie in den
                   »Pagliacci« des Leoncavallo, wie im letzten Akt des »Kean«</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb93324">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb93324">Emerson</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,12 +48,12 @@
                <date when="1894-12-29">29.12.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Tschechisch in: Literární listy, 19 (1897) #1, 4–5.
+         <note type="first-printing">Tschechisch in: Literární listy, 19 (1897) #1, 4–5.
                   (5.11.1897)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 167–171</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist wunderlich, wie die jungen Dichter heute metaphysisch
+         <note type="other-prints">Renaissance, 167–171</note>
+         <note type="incipit">Es ist wunderlich, wie die jungen Dichter heute metaphysisch
                   streben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/13-199.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/13-199.pdf</ref>
       </body>
    </text>
 </TEI>

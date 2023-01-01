@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Künstlerisch-kulturelle Bekenntnisse. Frühitalienische Literatur
                      - Dante – Philippus Neri</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -50,15 +50,15 @@
                <date when="1926-06-27">27.6.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der zweite Teil der zweiten Textkompilation, die »Schönere Zukunft« aus »Liebe
                      der Lebenden« zieht, behandelt Frühitalienische Literatur, Dante und Philippus
                      Neri.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vor mir steht, die Hand ausstreckend, ein heiliger Franziskus,
+         <note type="other-prints">Liebe der Lebenden</note>
+         <note type="incipit">Vor mir steht, die Hand ausstreckend, ein heiliger Franziskus,
                   barock in Holz</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/schoenere-zukunft/1926_kuenstlerische.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/schoenere-zukunft/1926_kuenstlerische.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_925" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Schwindler</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">43</biblScope>
@@ -45,10 +45,10 @@
                <date when="1914-03-02">2.3.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Expressionismus, 30-41</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Leute, die seit zwanzig Jahren meinem Urteil über Maler
+         <note type="other-prints">Expressionismus, 30-41</note>
+         <note type="incipit">Leute, die seit zwanzig Jahren meinem Urteil über Maler
                   vertrauen, sind jetzt auf einmal wütend auf mich</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_schwindler.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_schwindler.pdf</ref>
       </body>
    </text>
 </TEI>

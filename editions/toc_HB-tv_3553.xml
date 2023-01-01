@@ -35,7 +35,7 @@
             type="Pamphlet"
             subtype="Umfrage"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Was denken Sie über Dresden?. Eine Rundfrage</title>
             <imprint>
@@ -45,14 +45,14 @@
             </imprint>
             <extent>4–5 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Ein Werbeprospekt für den »Fremdenführer« »Mit mir durch Dresden von heute«,
                      das daraus die Umfrage abdruckt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">(Geschrieben Januar 1909 vor der Premiere der Elektra von
+         <note type="incipit">(Geschrieben Januar 1909 vor der Premiere der Elektra von
                   Richard Strauß) Wunderlich ist’s in Dresden jetzt, man erkennt dieser Tage die
                   behagliche Stadt gar nicht wieder.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1912_wie-denken-sie-ueber-dresden.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1912_wie-denken-sie-ueber-dresden.pdf</ref>
       </body>
    </text>
 </TEI>

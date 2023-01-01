@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Januar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">28–29</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Hessische Freiheitsblätter«, Monatsschrift von Fritz
+         <note type="review-of">»Hessische Freiheitsblätter«, Monatsschrift von Fritz
                   Stück</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Aus dem Brief einer Amerikanerin: »Die deutsche Propaganda war
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Aus dem Brief einer Amerikanerin: »Die deutsche Propaganda war
                   drüben nicht glücklich, weil ein seelisches Ziel fehlte, das lebhafte Interessen
                   bei den Anglikanern zu erwecken vermocht hätte. Man war nicht nur falsch und
                   ungenügend über die Vorgänge in Deutschland informiert, sondern man interessierte
@@ -102,7 +102,7 @@
                   Seiten muß er sich wehren, um den »Weg zur stämmischen Gliederung« Deutschlands zu
                   bahnen. Im Grund ist’s auch nur wieder der ewige Kampf des Organischen gegen das
                   Mechanische! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Deutschlands Unfähigkeit, sein Wesen dem Ausland begreiflich zu
+         <note type="summary">Deutschlands Unfähigkeit, sein Wesen dem Ausland begreiflich zu
                   machen.</note>
       </body>
    </text>

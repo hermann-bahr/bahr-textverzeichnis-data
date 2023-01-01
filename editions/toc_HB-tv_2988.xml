@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Graphische Ausstellung. I</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">141–151</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Sezession. Graphische Ausstellung. [I]« in:
+         <note type="first-printing">Als »Sezession. Graphische Ausstellung. [I]« in:
                   Österreichische Volks–Zeitung, 45 (1899) #312, 1–2 (2 Kreuzer–Ausgabe: 1–6).
                   (12.11.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Den graphischen Künsten wendet sich jetzt wieder der Eifer der
+         <note type="incipit">Den graphischen Künsten wendet sich jetzt wieder der Eifer der
                   Künstler, die Theilnahme der Kenner, die Gunst des Publikums zu. Eine Zeit sind
                   sie vergessen gewesen, ja fast verachtet.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr geht davon aus, dass das jüngst wieder erstarkte Interesse
+         <note type="summary">Bahr geht davon aus, dass das jüngst wieder erstarkte Interesse
                   an Radierungen und Zeichnungen mit der Vorstellung zu tun habe, in diesen
                   flüchtigen und kleinen Werken die Persönlichkeit des Künstlers unverfälschter und
                   unmittelbarer vor sich zu haben als in großen Malereien. Von hier ausgehend wendet
                   er sich den »graphischen« Werken Klingers, Rops‘, Monvels, Leistikows, Klimts und
                   Wagners zu.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11944"/>
                <ptr type="pmb" target="#9566"/>
@@ -96,7 +96,7 @@
                <ptr type="HB-tv" target="HB-tv_3521_p20"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -48,12 +48,12 @@
                <date when="1905-04-18">18.4.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr war als Schüler Anhänger der Hohenfels, nun ist er es nicht mehr.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Maria Stuart« von Friedrich Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Frau Hohenfels hat sich nun als Maria Stuart versucht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="review-of">»Maria Stuart« von Friedrich Schiller</note>
+         <note type="incipit">Frau Hohenfels hat sich nun als Maria Stuart versucht.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#2850"/>

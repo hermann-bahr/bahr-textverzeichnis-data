@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -48,14 +48,14 @@
                <date when="1899-10-04">4.10.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahrs erster Text für die »Österreichische Volks-Zeitung«. Er erschien, wie
                      viele späteren, zugleich in der gekürzten »2 Kreuzer-Ausgabe«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Hamlet« von William Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Kainz hat nun den merkwürdigen Hamlet wiederholt, den man
+         <note type="review-of">»Hamlet« von William Shakespeare</note>
+         <note type="incipit">Herr Kainz hat nun den merkwürdigen Hamlet wiederholt, den man
                   schon von seinem Gastspiel her kennt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11851"/>
                <ptr type="pmb" target="#2412"/>

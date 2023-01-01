@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vortrag_Mitschrift"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Freie Schule. Hermann Bahr über freie Erziehung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Arbeiter-Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -48,18 +48,18 @@
                <date when="1911-03-29">29.3.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Es dürfte sich, wie die vielen Abweichungen zum als Broschüre gedruckten Text
                      nahelegen, um eine Vortragsmitschrift handeln.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Hermann Bahr über freie Erziehung« in: Salzburger
+         <note type="first-printing">Als »Hermann Bahr über freie Erziehung« in: Salzburger
                   Wacht, 12 (1911) #75, 10–11 und #92, 9–10. (1. bzw. 22.4.1911) Als »Hermann Bahr
                   über freie Erziehung« in: Neues Wiener Journal, 19 (1911) #6260, 2.
                   (27.3.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Hermann Bahr: Freie Erziehung. Vortrag, gehalten anlässlich
+         <note type="other-prints">Hermann Bahr: Freie Erziehung. Vortrag, gehalten anlässlich
                   der Jahres-Versammlung des Vereines Freie Schule am 26. März 1911 im Wiener
                   Kolosseum. Wien: Verlag des Vereines Freie Schule 1911.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bahr führte aus: Ist jemand unter Ihnen, der einen erwachsenen,
+         <note type="incipit">Bahr führte aus: Ist jemand unter Ihnen, der einen erwachsenen,
                   reifen Menschen kennt</note>
       </body>
    </text>

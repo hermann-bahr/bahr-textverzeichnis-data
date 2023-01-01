@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-06-13">13.6.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Iphigenie« von Johann Wolfgang Goethe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bei aller Verehrung für die feine und kluge Kunst der Frau
+         <note type="review-of">»Iphigenie« von Johann Wolfgang Goethe</note>
+         <note type="incipit">Bei aller Verehrung für die feine und kluge Kunst der Frau
                   Hohenfels muß doch gesagt werden</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2850"/>
                <ptr type="pmb" target="#11461"/>

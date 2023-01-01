@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_433" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kainz im Burgtheater. (Am 8., 10., 11., 13. und 14. October
                      1897)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">13</biblScope>
@@ -47,11 +47,11 @@
                <date when="1897-10-16">16.10.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unsere Leute haben sich den alten Wiener Sinn für das Große in
+         <note type="incipit">Unsere Leute haben sich den alten Wiener Sinn für das Große in
                   der Kunst bewahrt: enthusiastisch ist Kainz aufgenommen worden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bespricht die Wahl der Rollen, die Kainz für seinen
+         <note type="summary">Bahr bespricht die Wahl der Rollen, die Kainz für seinen
                   Gastauftritt ausgesucht hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11851"/>
                <ptr type="pmb" target="#2495"/>
@@ -63,8 +63,8 @@
                <ptr type="HB-tv" target="HB-tv_4864_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/159-42.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/159-43.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/159-42.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/159-43.pdf</ref>
       </body>
    </text>
 </TEI>

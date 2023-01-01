@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">31. Januar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">46–48</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wieder viel mit Whitman zusammen, stieß ich auf einen mir bisher
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Wieder viel mit Whitman zusammen, stieß ich auf einen mir bisher
                   unbekannten englischen Dichter des XVII.Jahrhundert, der, zwei Jahrhunderte nach
                   seinem Tode lang vergessen, erst 1896 wieder entdeckt worden ist: Thomas Traherne.
                   Es ist ausgeschlossen, daß Whitman eine Zeile von ihm oder auch nur seinen Namen
@@ -90,7 +90,7 @@
                   Calvin und Cromwell sind Barockfiguren, freilich à rebours, und gar der Quäker
                   George Fox ist erst recht durchaus eine Barockfigur! Die Formel für Traherne wäre
                   vielleicht: Jakob Böhme mit Stuart-Atmosphäre. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht die geistige Verwandtschaft zwischen Whitman und
+         <note type="summary">Bahr versucht die geistige Verwandtschaft zwischen Whitman und
                   Thomas Traherne (1636/1637–1674) zu klären.</note>
       </body>
    </text>

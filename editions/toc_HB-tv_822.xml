@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Stimme des Bluts. (Schluß)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Morgen. Wochenschrift für deutsche Kultur</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,8 +48,8 @@
                <date when="1908-09-25">25.9.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Stimmen des Bluts, 9-44</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Abends aber kam Alban und sagte: »Jetzt sollst Du hören, was ich
+         <note type="other-prints">Stimmen des Bluts, 9-44</note>
+         <note type="incipit">Abends aber kam Alban und sagte: »Jetzt sollst Du hören, was ich
                   Dir verschwieg</note>
       </body>
    </text>

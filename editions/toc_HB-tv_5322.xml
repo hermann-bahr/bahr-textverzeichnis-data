@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">23. Dezember [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">19–22 Bahr/Kvapil, 645–648.</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, #9036</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was Masaryk ist, wurde mir zum erstenmal vor Jahren in Dalmatien
+         <note type="first-printing">Neues Wiener Journal, #9036</note>
+         <note type="incipit">Was Masaryk ist, wurde mir zum erstenmal vor Jahren in Dalmatien
                   klar.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die einzigen Intellektuellen, die Bahr je am Balkan traf, waren
+         <note type="summary">Die einzigen Intellektuellen, die Bahr je am Balkan traf, waren
                   Schüler Masaryks. Auf diesen setzt er nun seine Hoffnung, Österreich - das
                   geistige, nicht das staatliche - in einen neuen Barock zu führen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#39082"/>
                <ptr type="pmb" target="#13102"/>

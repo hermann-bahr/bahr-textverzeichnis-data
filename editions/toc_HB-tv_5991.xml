@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 15. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,11 +48,11 @@
                <date when="1920-02-01">1.2.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Cornel Schmitt und Hans Stadler: Der Amselgesang und seine
+         <note type="review-of">Cornel Schmitt und Hans Stadler: Der Amselgesang und seine
                   Beziehung zu unserer Musik. In: Mitteilungen der Senckenbergischen
                   Naturforschenden Gesellschaft, Frankfurt/Main</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »9. Januar« in: Kritik der Gegenwart, 37-39</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den Mitteilungen der Senckenbergischen Naturforschenden
+         <note type="other-prints">Als »9. Januar« in: Kritik der Gegenwart, 37-39</note>
+         <note type="incipit">In den Mitteilungen der Senckenbergischen Naturforschenden
                   Gesellschaft zu Frankfurt am Main findet sich ein höchst merkwürdiger Beitrag von
                   Cornel Schmitt und Hans Stadler über den »Amselgesang und seine Beziehung zu
                   unserer Musik«. Schon Bernhard Hoffmann, in seinem Buch »Kunst und Vogelsang«,
@@ -122,9 +122,9 @@
                   wieder ein Analogon aller – wer die Kraft hätte, daß er den Doppelsinn aller
                   Kreatur, ganz Unikum und doch aber durchaus Analogon zu sein, durchdringen könnte,
                   dem würde das Geheimnis der Erscheinung offenbar. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beklagt die Verarmung, die geschieht, wenn man Menschen und
+         <note type="summary">Bahr beklagt die Verarmung, die geschieht, wenn man Menschen und
                   Tiere nur in Gruppen einteilt und nicht in ihrer Individualität wahrnimmt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Leserbrief"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein Gruß von Hermann Bahr. An die »Czernowitzer Allgemeine
                      Zeitung«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Czernowitzer Allgemeine Zeitung</title>
             <imprint>
                <biblScope unit="jg">25</biblScope>
@@ -50,18 +50,18 @@
                <date when="1928-12-25">25.12.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">München, 6. Dezember 1928 2 NW. 18, Barerstraße 50/1. Sehr
+         <note type="incipit">München, 6. Dezember 1928 2 NW. 18, Barerstraße 50/1. Sehr
                   geehrter Herr! Das halbe Jahr, das ich in meiner Jugend in Czernowitz verbrachte,
                   leuchtet in meiner dankbaren Erinnerung noch heute fort.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Erst Czernowitz hat Bahr den Osten begreiflich gemacht, ja
+         <note type="summary">Erst Czernowitz hat Bahr den Osten begreiflich gemacht, ja
                   Österreich bestand aus seiner Sehnsucht nach dem Osten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="HB-tv" target="HB-tv_2586_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/czernowitzer-allgemeine-zeitung/1928-gruss.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/czernowitzer-allgemeine-zeitung/1928-gruss.pdf</ref>
       </body>
    </text>
 </TEI>

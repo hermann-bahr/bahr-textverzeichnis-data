@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1886" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater in der Josephstadt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -45,13 +45,13 @@
                <date when="1902-02-01">1.2.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La Bourse ou la vie« von Alfred Capus</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 408-410</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»La Bourse ou la vie« von Alfred Capus, hier »Der Bankdirektor«
+         <note type="review-of">»La Bourse ou la vie« von Alfred Capus</note>
+         <note type="other-prints">Rezensionen, 408-410</note>
+         <note type="incipit">»La Bourse ou la vie« von Alfred Capus, hier »Der Bankdirektor«
                   genannt. Herr und Frau Herbaut, elegante junge Leute, die vortrefflich zu
                   genießen, aber gar nicht zu rechnen verstehen, leben flott in den Tag hinein, bis
                   plötzlich ihre Renten zerronnen sind</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

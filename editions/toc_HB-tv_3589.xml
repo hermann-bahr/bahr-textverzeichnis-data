@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Daimonion</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,7 +48,7 @@
                <biblScope unit="pages">30–31</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit ich mich erinnern kann, hat mich kein Tag das sichere
+         <note type="incipit">Seit ich mich erinnern kann, hat mich kein Tag das sichere
                   Gefühl verlassen, von einer unbekannten Hand nach einem vorbeschlossenen Plan zum
                   rechten gelenkt zu werden.</note>
       </body>

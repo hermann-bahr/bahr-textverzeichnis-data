@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. Dezember [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">17–18</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, #9036</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Um dieselbe Zeit, als Medelsky, fast noch ein Kind, aus der
+         <note type="first-printing">Neues Wiener Journal, #9036</note>
+         <note type="incipit">Um dieselbe Zeit, als Medelsky, fast noch ein Kind, aus der
                   Schule ins Burgtheater sprang</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Nachruf auf Sophie Wachner, die er am Volkstheater schätzte,
+         <note type="summary">Ein Nachruf auf Sophie Wachner, die er am Volkstheater schätzte,
                   die zuletzt vier Jahre im Feld diente und vor ihrem »Comeback« starb.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2252"/>
                <ptr type="pmb" target="#26531"/>

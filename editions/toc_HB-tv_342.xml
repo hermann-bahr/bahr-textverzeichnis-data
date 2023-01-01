@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_342" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das ewig Weibliche</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -45,13 +45,13 @@
                <date when="1895-07-27">27.7.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 34-52 Auszug in: Das Hermann-Bahr-Buch,
+         <note type="other-prints">Renaissance, 34-52 Auszug in: Das Hermann-Bahr-Buch,
                   69-71</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer einen Mann erkennen, sein Wesen einsehen will, soll die
+         <note type="incipit">Wer einen Mann erkennen, sein Wesen einsehen will, soll die
                   Frauen betrachten, die er liebt. Das ist tiefer zu nehmen, als es jetzt gewöhnlich
                   gemeint wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/43-58.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/43-59.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/43-58.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/43-59.pdf</ref>
       </body>
    </text>
 </TEI>

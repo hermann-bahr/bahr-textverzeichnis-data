@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">In der Schule</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">134–140</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 13 (1897) #167, 172–173. (11.12.1897)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der Schule sind wir, wer erinnert sich nicht mit Schrecken?,
+         <note type="first-printing">Die Zeit, 13 (1897) #167, 172–173. (11.12.1897)</note>
+         <note type="incipit">In der Schule sind wir, wer erinnert sich nicht mit Schrecken?,
                   traurig und erbittert gesessen, in dem Gefühl, uns mit unseren armen kleinen
                   Händen wehren und gegen eine Gefahr vertheidigen zu müssen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Unter Anlehnung an Alfred Lichtwark versucht Bahr, für eine
+         <note type="summary">Unter Anlehnung an Alfred Lichtwark versucht Bahr, für eine
                   bessere künstlerische Erziehung in der Schule zu wirken. Am vordringlichsten
                   scheint ihm die Ausstattung der Schulgebäude mit Kunstwerken.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3403"/>
                <ptr type="pmb" target="#11209"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_4053_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

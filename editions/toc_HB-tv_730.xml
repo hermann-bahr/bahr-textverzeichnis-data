@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_730" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sezession. (Achte Ausstellung der Vereinigung bildender Künstler
                      Österreichs)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -47,14 +47,14 @@
                <date when="1900-11-06">6.11.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die neue Ausstellung der Sezession enthält hauptsächlich
+         <note type="incipit">Die neue Ausstellung der Sezession enthält hauptsächlich
                   Kunstgewerbe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Am Kunstgewerbe zeigt sich Bahr die neuen Interessen der
+         <note type="summary">Am Kunstgewerbe zeigt sich Bahr die neuen Interessen der
                   Künstler, einen eigenen Ausdruck zu erlangen und auszudrücken, den er anhand der
                   Unterscheidung City / Cottage exemplifiziert: Im öffentlichen Raum ist der
                   Ausdruck der Klasse oder Gesellschaft gesucht, im privaten die
                   Selbstverwirklichung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11730"/>
                <ptr type="pmb" target="#3280"/>

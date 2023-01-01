@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1259" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sprachwunder</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22640, Morgenblatt</biblScope>
@@ -44,17 +44,17 @@
                <date when="1927-09-27">27.9.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 116–120</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Nouvelle Revue Française, von der ja Marcel Proust entdeckt,
+         <note type="other-prints">Labyrinth der Gegenwart, 116–120</note>
+         <note type="incipit">Die Nouvelle Revue Française, von der ja Marcel Proust entdeckt,
                   Spötter werden sagen: erfunden worden ist</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9379"/>
                <ptr type="pmb" target="#6257"/>
                <ptr type="pmb" target="#10328"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-9-27_sprachwunder.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-9-27_sprachwunder.pdf</ref>
       </body>
    </text>
 </TEI>

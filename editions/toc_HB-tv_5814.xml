@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. November [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">II, 245–251</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Thomas Mann: Von deutscher Republik. In: Neue Rundschau, 33
+         <note type="review-of">Thomas Mann: Von deutscher Republik. In: Neue Rundschau, 33
                   (1922) #11, 1072–1106 und 1097. Eugen Kühnemann: Aus dem Leben des deutschen
                   Geistes in der Gegenwart. München: C. H. Beck 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als im Krieg die deutschen Nerven versagten, warf sich dem
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Als im Krieg die deutschen Nerven versagten, warf sich dem
                   Pazifismus, wie das genannt wurde, Thomas Mann entgegen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr rezensiert zustimmend Thomas Manns »Von deutscher
+         <note type="summary">Bahr rezensiert zustimmend Thomas Manns »Von deutscher
                   Republik«.</note>
       </body>
    </text>

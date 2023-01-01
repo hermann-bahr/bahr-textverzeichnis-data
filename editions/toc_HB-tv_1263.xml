@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1263" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Stelzhamer. (Zum fünfzigsten Todestag)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">21493, Morgenblatt</biblScope>
@@ -44,12 +44,12 @@
                <date when="1924-07-12">12.7.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 56 (1924) #325, Morgen–Ausgabe,
+         <note type="first-printing">Berliner Börsen–Courier, 56 (1924) #325, Morgen–Ausgabe,
                   1. Beilage. (13.7.1924) Als »Hermann Bahr über Stelzhamer« in: Das Neue Reich, 6
                   (1924) #43, 959–960. (26.7.1924)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Grillparzer ist schließlich doch, dank Josef Kainz vor allem,
+         <note type="incipit">Grillparzer ist schließlich doch, dank Josef Kainz vor allem,
                   dem deutschen Theater aufgedrungen worden</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-7-12_stelzhamer.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-7-12_stelzhamer.pdf</ref>
       </body>
    </text>
 </TEI>

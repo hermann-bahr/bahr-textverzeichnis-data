@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2109" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Entdeckung Österreichs. Ein Feldgespräch</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Velhagen und Klasings Monatshefte</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -45,9 +45,9 @@
                <date when="1915">1915</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die beiden Freunde sahen lachend einander nur immer wieder an,
+         <note type="incipit">Die beiden Freunde sahen lachend einander nur immer wieder an,
                   sie trauten noch immer den eigenen Augen nicht!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/velhagen-und-klasings/1915-2_entdeckung-oesterreichs.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/velhagen-und-klasings/1915-2_entdeckung-oesterreichs.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,10 +48,10 @@
                <date when="1895-02-23">23.2.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Das Schloßkind« von Bruno Köhler</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die letzte Novität des Deutschen Volkstheaters, das
+         <note type="review-of">»Das Schloßkind« von Bruno Köhler</note>
+         <note type="incipit">Die letzte Novität des Deutschen Volkstheaters, das
                   »Schloßkind«, von einem Herrn Bruno Köhler</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#19923"/>
                <ptr type="pmb" target="#10752"/>
@@ -61,7 +61,7 @@
                <ptr type="HB-tv" target="HB-tv_4645_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/21-125.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/21-125.pdf</ref>
       </body>
    </text>
 </TEI>

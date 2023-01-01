@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. Februar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">60</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Exsurge, quare obdormis, Domine!« ruft heute die Kirche. »Steh
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Exsurge, quare obdormis, Domine!« ruft heute die Kirche. »Steh
                   auf, Herr, warum schläfst du?« Und dazu heißt’s in der kindlich tiefsinnigen
                   Legenda aurea (ich zitiere nach der meisterhaften Übersetzung von Richard Benz bei
                   Diederichs): »Nun singen wir drei Exsurge für dreierhand Menschen, die in der
@@ -65,7 +65,7 @@
                   helfe und sie erlöse in ihrem Glück«. Welch ein tiefes Wissen um den Menschen
                   spricht aus dieser Furcht für jene, die keine Widerwärtigkeit haben, daß sie von
                   dem Glücke zerstoßen werden mochten! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Menschen, die keinem Unglück ausgesetzt sind, können am Glück zu
+         <note type="summary">Menschen, die keinem Unglück ausgesetzt sind, können am Glück zu
                   Grunde gehen - weswegen Bahr für sie beten will.</note>
       </body>
    </text>

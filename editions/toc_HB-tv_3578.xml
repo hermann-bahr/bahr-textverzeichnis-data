@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Englisch_Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">The Apostle. Bahr’s Political Drama</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Current Literature</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -47,11 +47,11 @@
                <date when="1906">1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Apostel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gohl (to the Premier, who, after giving Gohl a contemptuous
+         <note type="other-prints">Der Apostel</note>
+         <note type="incipit">Gohl (to the Premier, who, after giving Gohl a contemptuous
                   look, turns to the door and ist about to withdraw): I want you to remain here,
                   Premier</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/current-literature/1906-40_the-apostle.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/current-literature/1906-40_the-apostle.pdf</ref>
       </body>
    </text>
 </TEI>

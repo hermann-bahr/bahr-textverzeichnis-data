@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Feuilleton"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Dilettirfer. Eine Decemberstudie</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Hochschule. Organ der deutschen Studentenschaft</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,7 +48,7 @@
                <date when="1883-01-01">1.1.1883</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Text datiert mit »Wien, im December 1882«. Die zweite Gruppe der »Dilettirfer«
                      ist insofern von Interesse, als Bahr mit den Laienaufführungen im
                      Tegetthof-Saal abrechnet, an denen er im Vorjahr ebenfalls teilgenommen hat und
@@ -68,11 +68,11 @@
                      von Bahrs Burschenschaft »Albia« dem Bericht, was impliziert, dass sich hinter
                      »M.« kein Albe verbirgt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Des einen Lust ist des anderen Schmerz. Eine alte
+         <note type="incipit">Des einen Lust ist des anderen Schmerz. Eine alte
                   Wahrheit</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine Glosse über zwei Typen von groß auftretenden Dilettanten -
+         <note type="summary">Eine Glosse über zwei Typen von groß auftretenden Dilettanten -
                   Dilettirfer genannt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#10293"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_1930_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-hochschule/1883_dilettirfer.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-hochschule/1883_dilettirfer.pdf</ref>
       </body>
    </text>
 </TEI>

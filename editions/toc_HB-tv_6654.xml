@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6654" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Geschmack</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Bild. Monatsschrift für photographische Bildkunst</title>
             <imprint>
                <biblScope unit="jg">10</biblScope>
@@ -45,17 +45,17 @@
                <date when="1914">1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 42 (1913) #631, 1.
+         <note type="first-printing">Berliner Tageblatt, 42 (1913) #631, 1.
                   (12.12.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Expressionismus, 21-28. H. B.: Essays. Hg. Kindermann.
+         <note type="other-prints">Expressionismus, 21-28. H. B.: Essays. Hg. Kindermann.
                   Wien: Bauer 1962, 190–192</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
+         <note type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
                   Geschmack ist, sagt Nietzsche.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Anstatt das Kunstwerk auf sich wirken zu lassen, neigte man
+         <note type="summary">Anstatt das Kunstwerk auf sich wirken zu lassen, neigte man
                   früher (durch die Erziehung verbildet), sich an Vorgegebenes zu halten, wenn es um
                   Geschmack ging, derzeit gäbe es aber eine Tendenz, alles Neue für gut zu
                   halten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12358"/>
                <ptr type="pmb" target="#13024"/>

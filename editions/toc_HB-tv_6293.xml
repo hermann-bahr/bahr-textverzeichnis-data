@@ -36,11 +36,11 @@
             subtype="Tagebuch"
             sameAs="pmb31485"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31485">Tagebuch. 28. April</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -49,11 +49,11 @@
                <date when="1922-05-14">14.5.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, II, 117</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Kisten waren besorgt, um meine Bücher zu packen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Einpacken seiner Bibliothek in Kisten kostet ihn genau so
+         <note type="other-prints">Liebe der Lebenden, II, 117</note>
+         <note type="incipit">Die Kisten waren besorgt, um meine Bücher zu packen</note>
+         <note type="summary">Das Einpacken seiner Bibliothek in Kisten kostet ihn genau so
                   viel wie vor zweiundzwanzig Jahren der Bau seines Olbrich-Häuschens.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

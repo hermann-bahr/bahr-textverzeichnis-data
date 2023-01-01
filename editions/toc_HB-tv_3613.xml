@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Colour Musik</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">129–135</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Colour Music« in: Die Zeit, 4 (1895) #45, 91–92.
+         <note type="first-printing">Als »Colour Music« in: Die Zeit, 4 (1895) #45, 91–92.
                   (10.8.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Lyrisches. Colour Music« in: Renaissance, 59-66</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man konnte in den Zeitungen neulich Notizen über die Colour
+         <note type="other-prints">Als »Lyrisches. Colour Music« in: Renaissance, 59-66</note>
+         <note type="incipit">Man konnte in den Zeitungen neulich Notizen über die Colour
                   Musik lesen, eine Erfindung des Engländers Wallace Remington, Töne durch Farben
                   darzustellen, also Musik zu malen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4950"/>
                <ptr type="pmb" target="#4194"/>

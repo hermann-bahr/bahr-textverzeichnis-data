@@ -35,7 +35,7 @@
             type="Book"
             subtype="Tagebücher"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Der Zauberstab. Tagebücher 1924 bis 1926</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>388 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eigentlich [1927].</p>
             <p>Rezensionen: Im Archiv ab dem 10. Dezember 1927. Aufgeführt in »Das deutsche
                      Buch«, 8 (1928) #1/2 (Jänner/Februar), 59. L.P.M.: Neue Bücher von Hermann
@@ -56,7 +56,7 @@
                      Bahr: Der Zauberstab. In: Die Moderne Welt. Illustrierte Halbmonatsschrift für
                      Kunst, Literatur, Mode, 4 (1928) #28 (Erstes Augustheft 1928), 45.</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://catalog.hathitrust.org/Record/001191402</ref>
+         <ref type="URL">http://catalog.hathitrust.org/Record/001191402</ref>
       </body>
    </text>
 </TEI>

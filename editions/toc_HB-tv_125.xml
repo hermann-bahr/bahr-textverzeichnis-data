@@ -35,11 +35,11 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb30065">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30065">Dialog vom Marsyas</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36156">Die neue Rundschau</title>
             <imprint>
                <biblScope unit="jg">15</biblScope>
@@ -48,14 +48,14 @@
                <date when="1904-10-01">Oktober 1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Monografien: Berlin: Bard-Marquardt 1906 Inselbücherei #67,
+         <note type="other-prints">Monografien: Berlin: Bard-Marquardt 1906 Inselbücherei #67,
                   Leipzig: Insel, 1913, 1.-20. Tsd. 2. Aufl. Inselbücherei, 1946, 25. Tsd.
                   Sammelwerke: H. B.: Essays. Hg. Heinz Kindermann. Wien: Bauer 1962, 21-61 H. B.:
                   Kritische Schriften. Hg. Claus Pias. IX. Dialog vom Tragischen, Dialog vom
                   Marsyas, Josef Kainz. Weimar: VDG 2010</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir sahen an, was der Sammler, oder wie er, aus den dunklen
+         <note type="incipit">Wir sahen an, was der Sammler, oder wie er, aus den dunklen
                   Zuständen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-neue-rundschau/1904-15-10_dialog-vom-marsyas.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-neue-rundschau/1904-15-10_dialog-vom-marsyas.pdf</ref>
       </body>
    </text>
 </TEI>

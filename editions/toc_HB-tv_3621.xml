@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Zischen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">164–168</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Um einen ersten Absatz mehr in: Die Zeit, 5 (1895) #55,
+         <note type="first-printing">Um einen ersten Absatz mehr in: Die Zeit, 5 (1895) #55,
                   43. (19.10.1895) Nachdruck in: Pfälzischer Kurier, (1913) #Familien–Blatt 106,
                   2–3. (8.7.1913) Stuttgarter Neues Tagblatt, 70 (1915) #193, Unterhaltungsbeilage,
                   11–12. (18.7.1913) Die Rampe. Blätter des deutschen Schauspielhauses, 1 (1919) #4
                   (Dezember), 81–83.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 293-299</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist klar, daß das Zischen nur die andere Seite des Klatschens
+         <note type="other-prints">Wiener Theater, 293-299</note>
+         <note type="incipit">Es ist klar, daß das Zischen nur die andere Seite des Klatschens
                   ist</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12129"/>
                <ptr type="pmb" target="#4197"/>

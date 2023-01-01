@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_528" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein Nekrolog des Burgtheaters</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -45,20 +45,20 @@
                <date when="1900-01-31">31.1.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Fußnote zum Titel: »*Unser Burgtheater-Referent gibt gern seinem geschätzten
                      Herrn Collegen das Wort zu der folgenden interessanten Erörterung, deren Inhalt
                      sich in der Hauptsache mit seinen eigenen Anschauungen vollkommen deckt. Anm.
                      d. Red.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Rudolph Lothar: Das Wiener Burgtheater. Leipzig, Berlin, Wien:
+         <note type="review-of">Rudolph Lothar: Das Wiener Burgtheater. Leipzig, Berlin, Wien:
                   E.A. Seemann 1899. Georg Witkowski: Goethe. Leipzig, Berlin, Wien: Seemann
                   1899.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wann ist es denn gestorben? wird man erschrocken fragen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr kritisiert den zu engen Begriff »Volkskunst«, den Lothar in
+         <note type="incipit">Wann ist es denn gestorben? wird man erschrocken fragen.</note>
+         <note type="summary">Bahr kritisiert den zu engen Begriff »Volkskunst«, den Lothar in
                   seinem Buch anlegt und beschreibt das Burgtheater als das Verbindende zwischen den
                   Klassen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2570"/>
                <ptr type="pmb" target="#12671"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_3455_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

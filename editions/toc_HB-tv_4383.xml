@@ -36,11 +36,11 @@
             subtype="Tagebuch"
             sameAs="pmb30087"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30087">Tagebuch. 12. April</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb30087">Morgen. Wochenschrift für deutsche Kultur</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -49,8 +49,8 @@
                <date when="1908-08-21">21.8.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 188–189</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lustig ist: wenn ich einem helfe, sind alle bös, welchen ich
+         <note type="other-prints">Tagebuch (1909), 188–189</note>
+         <note type="incipit">Lustig ist: wenn ich einem helfe, sind alle bös, welchen ich
                   einst half</note>
       </body>
    </text>

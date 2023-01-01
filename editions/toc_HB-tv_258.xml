@@ -36,12 +36,12 @@
             type="Journal-Article"
             sameAs="pmb32820"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32820">»Rosmersholm«. (Von Henrik Ibsen. Zum erstenmal
                      aufgeführt im Deutschen Volkstheater am 4. Mai 1893)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -50,12 +50,12 @@
                <date when="1893-05-05">5.5.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 217-224 H. B.: Kritiken. Hg. Kindermann.
+         <note type="other-prints">Wiener Theater, 217-224 H. B.: Kritiken. Hg. Kindermann.
                   Wien: Bauer 1963, 19-23</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Schwester Ibsen’s hat einmal erzählt, wie schon mit dem
+         <note type="incipit">Die Schwester Ibsen’s hat einmal erzählt, wie schon mit dem
                   kleinen Henrik</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76691.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76692.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76691.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76692.pdf</ref>
       </body>
    </text>
 </TEI>

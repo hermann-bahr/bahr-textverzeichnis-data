@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ostereier-Sprüche für 1909. Für Österreich</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,19 +48,19 @@
                <date when="1909-04-11">11.4.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einen Osterspruch oder Osterwunsch wollen Sie von mir? Ich habe
+         <note type="incipit">Einen Osterspruch oder Osterwunsch wollen Sie von mir? Ich habe
                   doch immer nur den einen, immer denselben, zu Weihnachten, Ostern und Pfingsten,
                   im Winter und im Frühling und im Sommer und im Herbst und, wie der Capulet sagt,
                   »bei Tag, bei Nacht, spät, früh, allein und in Gesellschaft, zu Hause, draußen,
                   wachend und im Schlaf«, ist dieser Wunsch bei mir: es noch zu erleben, daß mein
                   Österreich, stark und groß, seiner aleten Art gemäß, mitwirkend an Europa
                   teilnimmt. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1909_osterei.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1909_osterei.pdf</ref>
       </body>
    </text>
 </TEI>

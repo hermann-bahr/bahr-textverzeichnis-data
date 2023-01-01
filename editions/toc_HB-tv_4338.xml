@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hauptmann Dehmel Wedekind. Erinnerungsblätter</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Dresdner Anzeiger</title>
             <imprint>
                <biblScope unit="jg">191</biblScope>
@@ -48,14 +48,14 @@
                <date when="1921-08-24">24.8.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die editorische Einleitung verweist auf Bahrs führende Rolle im Geistesleben
                      des vergangenen Vierteljahrhunderts, hofft auf seine Memoiren und bringt in der
                      Zwischenzeit Ausschnitte aus dem »Bilderbuch«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bilderbuch</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da trat der junge Gerhart Hauptmann unter uns</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Gerhart Hauptmann, Richard Dehmel und Frank
+         <note type="other-prints">Bilderbuch</note>
+         <note type="incipit">Da trat der junge Gerhart Hauptmann unter uns</note>
+         <note type="summary">Über Gerhart Hauptmann, Richard Dehmel und Frank
                   Wedekind.</note>
       </body>
    </text>

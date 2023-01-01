@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">9. März [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">80–85</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf der Stadt lastet’s. Wie man im Hochsommer zuweilen bei noch
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Auf der Stadt lastet’s. Wie man im Hochsommer zuweilen bei noch
                   klarem Himmel ein Gewitter drohen spürt und nun nur wünscht, es bräche schon
                   endlich los und wäre wieder vorbei, voll Ungeduld, aber einer trägen, dumpfen,
                   machtlosen Ungeduld, weil ja der Mensch Unwetter doch weder aufhalten noch
@@ -200,7 +200,7 @@
                   Goethe-Deutschland war und was es der Menschheit hätte sein können, wenn es nicht
                   an den »Betrieb« verraten worden wäre, damit doch wenigstens eine sagenhafte Kunde
                   von den menschlichen Elementen der deutschen Musik erhalten bleibt. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das gesellschaftlich wahrgenommene Bedürfnis nach einem Diktator
+         <note type="summary">Das gesellschaftlich wahrgenommene Bedürfnis nach einem Diktator
                   und wenn es nur ein Aushilfsdiktor ist, deprimiert Bahr. Er spricht mit Thomas
                   Mann über dessen »Betrachtungen eines Unpolitischen«.</note>
       </body>

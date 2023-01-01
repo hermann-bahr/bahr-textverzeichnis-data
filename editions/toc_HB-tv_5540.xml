@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Juni [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">144–145</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Ludwig Schleich: Vom Schaltwerk der Gedanken. Neue
+         <note type="review-of">Karl Ludwig Schleich: Vom Schaltwerk der Gedanken. Neue
                   Einsichten und Betrachtungen über die Seele. Berlin: S. Fischer 1916. Karl Ludwig
                   Schleich: Gedankenmacht und Hysterie. Reinbek: Rowohlt 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Karl Ludwig Schleich, Strindbergs Jugendfreund, Chirurg und
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Karl Ludwig Schleich, Strindbergs Jugendfreund, Chirurg und
                   Poet, als Ersinner der Infiltrations-Anästhesie (ich habe keine Ahnung, was das
                   eigentlich ist, aber jeder Arzt macht auf den bloßen Namen hin ein
                   ehrfurchtsvolles Gesicht) sehr berühmt, hat schon vor einigen Jahren seinen
@@ -88,7 +88,7 @@
                   Wunder zunächst mutig anerkennen!« Es wird Zeit, daß die Herren Oberlehrer, die
                   Hüter der Gedankenfreiheit, diesem ersichtlichen Pfaffenknecht das Handwerk legen.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Schleichs Arbeiten zur Hysterie und überhaupt zur Grundlage der
+         <note type="summary">Schleichs Arbeiten zur Hysterie und überhaupt zur Grundlage der
                   Wissenschaft im Glauben gefallen Bahr.</note>
       </body>
    </text>

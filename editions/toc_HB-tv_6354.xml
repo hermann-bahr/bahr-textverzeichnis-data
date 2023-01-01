@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6354" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -45,11 +45,11 @@
                <date when="1909-05-30">30.5.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man, wie ich jetzt, eine Zeit viel im Berliner Theatern
+         <note type="incipit">Wenn man, wie ich jetzt, eine Zeit viel im Berliner Theatern
                   gelebt hat</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr vergleicht das Burgtheater mit dem Berliner Theater, was
+         <note type="summary">Bahr vergleicht das Burgtheater mit dem Berliner Theater, was
                   sehr zu ungunsten Wiens ausfällt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10986"/>
                <ptr type="pmb" target="#12504"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_4809_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-5-30_burgtheater.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-5-30_burgtheater.pdf</ref>
       </body>
    </text>
 </TEI>

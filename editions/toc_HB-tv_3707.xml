@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3707" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Spiegelung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">56</biblScope>
@@ -45,11 +45,11 @@
                <date when="1923-05-01">1.5.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse (1923) #21065, Morgenblatt, 1–2.
+         <note type="first-printing">Neue Freie Presse (1923) #21065, Morgenblatt, 1–2.
                   (3.5.1923)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Geschlecht der Menschen ist »bestimmt, erleuchtetes zu
+         <note type="incipit">Das Geschlecht der Menschen ist »bestimmt, erleuchtetes zu
                   sehen, nicht das Licht«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1923_spiegelung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1923_spiegelung.pdf</ref>
       </body>
    </text>
 </TEI>

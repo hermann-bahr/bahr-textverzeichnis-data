@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die hohe Schule. Fünf Akte aus dem Leben eines Mädchens von
                      Talent. Ein Münchner Stück von Ernst v. Wolzogen. Zum ersten Male aufgeführt im
                      Deutschen Volkstheater am 22. September 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -52,9 +52,9 @@
                <biblScope unit="pages">70–75</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #261, 2–4.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #261, 2–4.
                   (23.9.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Alle Menschen guter Art«, heißt es in »Dichtung und Wahrheit«
+         <note type="incipit">»Alle Menschen guter Art«, heißt es in »Dichtung und Wahrheit«
                   einmal, »empfinden bei zunehmender Bildung, daß sie auf der Welt eine doppelte
                   Rolle zu spielen haben, eine wirkliche und eine ideelle.«</note>
       </body>

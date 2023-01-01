@@ -35,14 +35,14 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_731" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Orestie. Tragödie in drei Stücken aus dem Griechischen des
                      Aischylos. – Nach der Übersetzung Ullrich [!] v. Wilamowitz.Moellendorff’s für
                      die moderne Bühne bearbeitet. – Zum erstenmal aufgeführt im Burgtheater am 6.
                      Dezember</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -51,14 +51,14 @@
                <date when="1900-12-07">7.12.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nicht in die 2 Kreuzer-Ausgabe aufgenommen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Orestie« von Aischylos, deutsch von Ulrich
+         <note type="review-of">»Die Orestie« von Aischylos, deutsch von Ulrich
                   Wilamowitz-Moellendorf</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 33-40 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Premièren, 33-40 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 265-271</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
+         <note type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
                   erkennen</note>
       </body>
    </text>

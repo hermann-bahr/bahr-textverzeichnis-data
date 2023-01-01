@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. September [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">III, 220–222</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kriege verschieben Vermögen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine Zusammenfassung bereits früher geäußerter Thesen: Krieg
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Kriege verschieben Vermögen</note>
+         <note type="summary">Eine Zusammenfassung bereits früher geäußerter Thesen: Krieg
                   dient zum Reichtum von einem zum anderen verschieben, die Welt wird von Bankiers
                   gelenkt, aber insgeheim beginnt der Geist sich wieder gegen die Herrschaft des
                   Kapitals zu regen.</note>

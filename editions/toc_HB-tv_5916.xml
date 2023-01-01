@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">5. November [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">III, 280–283</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Paul Ludwig Landsberg: Die Welt des Mittelalters und Wir. Ein
+         <note type="review-of">Paul Ludwig Landsberg: Die Welt des Mittelalters und Wir. Ein
                   geschichtsphilosophischer Versuch über den Sinn eines Zeitalters. Bonn: Friedrich
                   Cohen 1923. Paul Ludwig Landsberg: Wesen und Bedeutung der platonischen Akademie.
                   Eine erkenntnissoziologische Untersuchung. Bonn: Friedrich Cohen 1923. Arnold
                   Zweig: [Einleitung]. In: Heinrich von Kleist: Kleists sämtliche Werke. Hg. Arnold
                   Zweig. München: Rösl 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Während Scharen geschwollener Bücher erscheinen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nach einer Bemerkung über seine persönlichen Schwierigkeiten,
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Während Scharen geschwollener Bücher erscheinen</note>
+         <note type="summary">Nach einer Bemerkung über seine persönlichen Schwierigkeiten,
                   den Impressionisten abzulegen, zeigt er Zuversicht, dass sich die neue Generation
                   dem Formproblem stellt.</note>
       </body>

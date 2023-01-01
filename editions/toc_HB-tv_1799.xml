@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1799" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Thomas Mann zum 50. Geburtstag</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Tage-Buch</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -45,19 +45,19 @@
                <date when="1925-06-06">6.6.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Dazwischen eine Zeichnung Thomas Manns durch Casper Neher.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als 1898 Thomas Mann, dreiundzwanzigjährig, in der Literatur
+         <note type="incipit">Als 1898 Thomas Mann, dreiundzwanzigjährig, in der Literatur
                   erschien, horchten</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12176"/>
                <ptr type="pmb" target="#11617"/>
                <ptr type="pmb" target="#12170"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1925-23_thomas-mann.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1925-23_thomas-mann.pdf</ref>
       </body>
    </text>
 </TEI>

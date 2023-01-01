@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Woran arbeiten Sie?. Eine Rundfrage des »Neuen Wiener Journals«
                      an Schriftsteller und Musiker</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -50,7 +50,7 @@
                <date when="1926-04-04">4.4.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben Bahr antworten: Raoul Auernheimer, Julius Bittner, Waldemar Bonsels, Max
                      Brod, Kasimir Edschmid, Alexander Engel, Herbert Eulenberg, Enrica
                      Handel-Mazzetti, Georg Hirschfeld, Hugo v. Hofmannsthal, Arno Holz, Hermann
@@ -60,9 +60,9 @@
                      Sternheim, Wilhelm Stücklen, Fritz v. Unruh, Klara Viebig, Siegfried Wagner,
                      Stefan Zweig. Am Ende ein: »(Wird fortgesetzt.)«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich arbeite jetzt daran, vielleicht doch noch einmal wieder
+         <note type="incipit">Ich arbeite jetzt daran, vielleicht doch noch einmal wieder
                   gesund zu werden. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/19260404-17.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/19260404-17.pdf</ref>
       </body>
    </text>
 </TEI>

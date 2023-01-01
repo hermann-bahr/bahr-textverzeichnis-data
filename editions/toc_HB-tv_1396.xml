@@ -36,7 +36,7 @@
             subtype="Rezensionssammlung"
             sameAs="pmb30991"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30991">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
@@ -46,10 +46,10 @@
             </imprint>
             <extent>286 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Rezensionen: Westermanns Illustrierte Deutsche Monatshefte, 92 (1902), 711</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=QyERAAAAYAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=QyERAAAAYAAJ</ref>
       </body>
    </text>
 </TEI>

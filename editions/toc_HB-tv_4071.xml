@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das ist die Liebe. Briefe an eine Tante</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Wiener Mode</title>
             <imprint>
                <biblScope unit="jg">7</biblScope>
@@ -48,8 +48,8 @@
                <date when="1894-04-01">1.4.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Caph, 149–159.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">I. Dir zu bekennen, daß Ich liebe. Ich liebe endlich.</note>
+         <note type="other-prints">Caph, 149–159.</note>
+         <note type="incipit">I. Dir zu bekennen, daß Ich liebe. Ich liebe endlich.</note>
       </body>
    </text>
 </TEI>

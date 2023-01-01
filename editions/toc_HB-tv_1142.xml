@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1142" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">München – Wien</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">80</biblScope>
@@ -45,13 +45,13 @@
                <date when="1927-12-25">25.12.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ob sich denn ein Wiener jemals in München behaglich fühlen, ob
+         <note type="incipit">Ob sich denn ein Wiener jemals in München behaglich fühlen, ob
                   er es hier dauernd aushalten kann, fragen mich Münchner gern</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr unternimmt es in aller Kürze seine Relegierung abzuhandeln,
+         <note type="summary">Bahr unternimmt es in aller Kürze seine Relegierung abzuhandeln,
                   als den Moment, der ihn zwischen den zwei Stammes-Polen in ihm schwanken machte um
                   dann auf den Unterschied der Pariser Gesellschaft und der Münchner (es gibt keine,
                   nur Geselligkeit) einzugehen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
                <ptr type="pmb" target="#10943"/>

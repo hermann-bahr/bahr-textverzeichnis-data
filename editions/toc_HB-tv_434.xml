@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_434" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Fall Clémenceau. (Schauspiel in fünf Aufzügen von Alexandre
                      Dumas und Armand d’Artois, deutsch von R. Schelcher. Zum ersten Mal aufgeführt
                      im Raimundtheater am 16. October 1897)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">13</biblScope>
@@ -49,19 +49,19 @@
                <date when="1897-10-23">23.10.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der Zeit #163, S. 107 wird ein Brief Foreggers abgedruckt, worin er Bahrs
                      Behauptung richtig stellt, der Anwalt Müller-Guttenbrunns zu sein.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»L’affaire Clémenceau (Der Fall Clemenceau)« von Alexandre
+         <note type="review-of">»L’affaire Clémenceau (Der Fall Clemenceau)« von Alexandre
                   Dumas fils und Armand d’Artois</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den Zeitungen war neulich ein »Protest« gegen den »Fall
+         <note type="incipit">In den Zeitungen war neulich ein »Protest« gegen den »Fall
                   Clémenceau« zu lesen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Anlass, dass Zeitschriften einen Protest gegen das Stück
+         <note type="summary">Der Anlass, dass Zeitschriften einen Protest gegen das Stück
                   veröffentlichten, nimmt Bahr zu einer ad hominem Emil Reich ausgeführten
                   Verteidigung, indem er die Meinungen von Lémaître, Rod, Zola und Anatole France
                   anführt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#15512"/>
                <ptr type="pmb" target="#27642"/>
@@ -97,9 +97,9 @@
                <ptr type="HB-tv" target="HB-tv_434_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/160-57.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/160-58.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/160-59.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/160-57.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/160-58.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/160-59.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1540" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Der Krampus. Lustspiel in drei Aufzügen</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>229 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Österreichische Volkszeitung kündigt es am 25. August 1901 für Anfang
                      November als Erstaufführung im Deutschen Volkstheater an, doch wurde es nicht
                      gegeben. (Ö.V.Z., 47 (1901) #232, 13 (2 Kreuzer-Ausgabe: 18). Die Buchausgabe
@@ -62,16 +62,16 @@
                      Pinthus im 8-Uhr-Abendblatt / Nationalzeitung (Berlin), 78 (1925) #62, 2.
                      Beiblatt, 14.03.1925 [Sammelrez.]</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Tschechische Übersetzung: Pavouk. Veselohra o 3 dějstvích.
+         <note type="translations">Tschechische Übersetzung: Pavouk. Veselohra o 3 dějstvích.
                   Přeložil K. H. Hilar. Prag: Divadlo 1911. (Knihovna Divadla, Sv. 15)
                   [1912?]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Angesiedelt im Wien Maria Theresias handelt das Stück von einem
+         <note type="summary">Angesiedelt im Wien Maria Theresias handelt das Stück von einem
                   jungen Liebespaar, dem die Zustimmung zur Ehe durch den mächtigen Onkel des
                   Mädchens, Hofrat Anastasius von Negrelli, fehlt. Dieser will das Mädchen mit dem
                   eigentlich zur Überbringung der Botschaft abgesandten Sekretär verloben, der
                   widerspricht nicht, was bis zu einem klärenden Gespräch im letzten Akt für
                   Verwirrung sorgt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=1IGPWi-QvkIC</ref>
+         <ref type="URL">http://books.google.com/books?id=1IGPWi-QvkIC</ref>
       </body>
    </text>
 </TEI>

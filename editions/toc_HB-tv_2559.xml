@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Woran arbeiten Sie?. Eine Rundfrage des »Neuen Wiener Journals«
                      an prominente Schriftsteller und Musiker</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -50,7 +50,7 @@
                <date when="1931-05-24">24.5.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Weitere Antowrten: Leo Ascher, Ralph Benatzky, Julius Bittner, Julius Brammer,
                      Alexander Engel, Edmund Eysler, Paul Frank, Armin Friedmann, Ludwig Hirschfeld,
                      Franz Karl Ginzkey, Emil und Arnold Golz, Fritz Gottwald, Robert Katscher,
@@ -59,13 +59,13 @@
                      Siegfried Trebitsch, Klara Viebig, Jakob Wassermann, Berta
                      Zuckerkandl-Szeps.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Verlag Franz Borgmeyer zu Hildesheim erscheint demnächst ein
+         <note type="incipit">Im Verlag Franz Borgmeyer zu Hildesheim erscheint demnächst ein
                   neues Werk, es heißt: »Das dienende Glied«. Sie werden gute Bekannte darin finden,
                   eine Reihe davon erschien zunächst im »Neuen Wiener Journal«. Ob der Roman, den
                   ich zunächst »Besen« taufte, sich nicht unversehens in ein Lustspiel verwandeln
                   wird, weiß ich nicht. Auch ein anderes Lustspiel spukt in mir: »Die Kleine« heißt
                   es. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1931-arbeit.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1931-arbeit.pdf</ref>
       </body>
    </text>
 </TEI>

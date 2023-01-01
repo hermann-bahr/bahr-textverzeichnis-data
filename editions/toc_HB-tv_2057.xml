@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#10955">Blei, Franz</author>
             <author ref="#2121">Schnitzler, Arthur</author>
@@ -43,7 +43,7 @@
             <author ref="#13094">Werfel, Franz</author>
             <title level="a">Schriftstellerprotest gegen Wiener Zensurverfügungen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">50</biblScope>
@@ -52,22 +52,22 @@
                <date when="1918-02-05">5.2.1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Hermann Bahr, Franz Blei, Artur [!] Schnitzler, Jakob
                      Wassermann, Franz Werfel u.a. haben nachstehenen Protest gegen die Wiener
                      Zensurverbote der Stücke von Schickele und Claudel den dortigen Blättern
                      übermittelt:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir unterzeichneten Schriftsteller fühlen uns zu einem Protest
+         <note type="incipit">Wir unterzeichneten Schriftsteller fühlen uns zu einem Protest
                   gegen das amtliche Verbot veranlaßt, mit dem man die Aufführungen der Werke von
                   Schickele und Claudel belegt hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12640"/>
                <ptr type="pmb" target="#6660"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1918_protest.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1918_protest.pdf</ref>
       </body>
    </text>
 </TEI>

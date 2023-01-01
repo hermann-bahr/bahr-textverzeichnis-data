@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Künstlerhaus 1896</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">1–5</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Malerei« in: Die Zeit, 9 (1896) #114, 159–160.
+         <note type="first-printing">Als »Malerei« in: Die Zeit, 9 (1896) #114, 159–160.
                   (5.12.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Den Weg ins Künstlerhaus zu machen, kann man jetzt dem Kenner
+         <note type="incipit">Den Weg ins Künstlerhaus zu machen, kann man jetzt dem Kenner
                   nicht rathen. Er wird da wenig Erfreuliches und viel Ärger finden. Die ganze
                   Ausstellung wendet sich wohl auch gar nicht an ihn, sie will sich lieber an den
                   Käufer wenden, dieser ist ihr wichtiger.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Kritik am Künstlerhaus gründet auf dem Argument, hier
+         <note type="summary">Bahrs Kritik am Künstlerhaus gründet auf dem Argument, hier
                   würden keine Kunstwerke, sondern im besten Fall schmückende Waren
                   präsentiert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11257"/>
                <ptr type="pmb" target="#11944"/>
@@ -86,7 +86,7 @@
                <ptr type="HB-tv" target="HB-tv_733_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

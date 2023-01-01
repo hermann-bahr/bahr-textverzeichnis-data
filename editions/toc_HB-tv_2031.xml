@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2031" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Um Haus und Hof. (Volksstück in vier Aufzügen von Franz
                      Kranewitter. Zum ersten Mal aufgeführt durch Erls Tiroler Bauerntheater am 21.
                      Oktober 1905)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -49,12 +49,12 @@
                <date when="1905-10-24">24.10.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Beim Weigl draußen. Man muß erst durch den dampfenden
+         <note type="incipit">Beim Weigl draußen. Man muß erst durch den dampfenden
                   Garten.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr besucht ein Bauernstück in der Gastwirtschaft Weigl. Er
+         <note type="summary">Bahr besucht ein Bauernstück in der Gastwirtschaft Weigl. Er
                   beklagt, dass Kranewitter nicht auf den Bühnen gespielt wird, seit er »oben«
                   unbeliebt geworden sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11984"/>
                <ptr type="pmb" target="#10788"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_1677_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

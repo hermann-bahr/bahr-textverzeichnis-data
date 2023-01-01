@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vor Sonnenaufgang. (Soziales Drama von Gerhart Hauptmann. Zur
                      heutigen Aufführung durch den Akademischen Verein für Kunst und Literatur im
                      Deutschen Volkstheater am 25. April 1903)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -53,11 +53,11 @@
                <biblScope unit="pages">140–149</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #113, 1–3.
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #113, 1–3.
                   (25.4.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   47-53</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich mich in den Jahren 1884 bis 1887 an der Berliner
+         <note type="incipit">Als ich mich in den Jahren 1884 bis 1887 an der Berliner
                   Universität zuerst im Seminar von Adolf Wagner, später bei Gustav Schmoller der
                   politischen Ökonomie befliß, lernte ich Wolfgang Heine kennen, der jetzt ein
                   Führer der deutschen Sozialisten ist. […] Dort war es auch, im Café Bauer oben,

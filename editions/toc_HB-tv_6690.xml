@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 17. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,10 +48,10 @@
                <date when="1930-03-23">23.3.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Durch Tagespflicht im Tagessinn verstrickt, vergaß ich ganz, daß
+         <note type="incipit">Durch Tagespflicht im Tagessinn verstrickt, vergaß ich ganz, daß
                   am 13. März Hugo Wolf siebzig geworden wäre</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr berichtet Anekdoten von Hugo Wolf.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Bahr berichtet Anekdoten von Hugo Wolf.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13152"/>
                <ptr type="pmb" target="#20077"/>
@@ -59,7 +59,7 @@
                <ptr type="pmb" target="#11933"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

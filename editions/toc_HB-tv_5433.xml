@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 8. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,12 +48,12 @@
                <date when="1919-08-03">3.8.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 227-228</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das allen Expressionismus in Wort und Bild zugleich treibende
+         <note type="other-prints">1919. Tagebuch, 227-228</note>
+         <note type="incipit">Das allen Expressionismus in Wort und Bild zugleich treibende
                   wie lenkende Motiv</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über ein Zitat Charles-Louis Philippes, demzufolge die neuen
+         <note type="summary">Über ein Zitat Charles-Louis Philippes, demzufolge die neuen
                   Schriftsteller gottnahe Barbaren sein müssten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5604"/>
                <ptr type="pmb" target="#6738"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_5291_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

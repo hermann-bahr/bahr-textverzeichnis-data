@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3823" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Wiens Stadtrecht</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Wien geschildert von Künstlern der Feder und des Stiftes. Ein
                      Heimatbuch für Schule und Haus. Erster Teil. Wiener Schicksale. Geschehnisse
                      und Gestalten aus Wiens Werdegang. I. Bändchen. Vom Uranfang bis zur
@@ -49,11 +49,11 @@
                <biblScope unit="pages">57–59</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wien, 12–14</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Idrisi, ein Araber, der für den sizilischen König Roger eine
+         <note type="other-prints">Wien, 12–14</note>
+         <note type="incipit">Idrisi, ein Araber, der für den sizilischen König Roger eine
                   Geographie schrieb, nennt in unseren Gegenden zwei Städte: Ghermesia und Biena,
                   Krems und Wien.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5633"/>
                <ptr type="pmb" target="#11461"/>

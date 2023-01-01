@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. Berchtesgaden, 25. November</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,10 +48,10 @@
                <date when="1920-12-19">19.12.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans Delbrück in Preußische Jahrbücher, November 1920 Martin
+         <note type="review-of">Hans Delbrück in Preußische Jahrbücher, November 1920 Martin
                   Kaubisch, ebd.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 283-287</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In einer jetzt erst von Adolf Erman ausgedeuteten altägyptischen
+         <note type="other-prints">Kritik der Gegenwart, 283-287</note>
+         <note type="incipit">In einer jetzt erst von Adolf Erman ausgedeuteten altägyptischen
                   Inschrift wird geschildert, wie das Land der Pyramiden nach dem Sturz der Könige,
                   der Priester und der Beamten aussah: »Die Listen sind fortgenommen, die
                   Sackschreiber sind ausgetilgt, und jeder kann sich Korn nehmen, wie er will. Die
@@ -178,10 +178,10 @@
                   Individuum die Nation, mit ihrem Scheitel die Nation das Reich Gottes. Nicht gegen
                   den Nationalismus, nur durch den Nationalismus, indem wir ihn vollenden, gelangen
                   wir über den Nationalismus empor. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Von Hans Delbrück erfährt Bahr, warum der Marxismus in der
+         <note type="summary">Von Hans Delbrück erfährt Bahr, warum der Marxismus in der
                   Realität nicht funktionieren kann, von Martin Kaubisch erfährt Bahr, was er schon
                   über den Geist der Barocke wusste.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

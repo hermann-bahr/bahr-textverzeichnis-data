@@ -38,14 +38,14 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Orestie. Tragödie in drei Stücken aus dem Griechischen des
                      Aischylos. – Nach der Übersetzung Ullrich [!] v. Wilamowitz-Moellendorffs für
                      die moderne Bühne bearbeitet. – Zum ersten Male aufgeführt im Burgtheater am 6.
                      Dezember 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -54,11 +54,11 @@
                <biblScope unit="pages">33–40</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #336, 1–2.
+         <note type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #336, 1–2.
                   (7.12.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   265-271</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
+         <note type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
                   erkennen, zu ihren Anfängen hinauf, so scheint es eigentlich der Arzt gewesen zu
                   sein, der zuerst die Ordnung wilder dionysischer Schwärme zu regelmäßigen Festen
                   verlangt hat.</note>

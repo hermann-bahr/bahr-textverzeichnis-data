@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -48,10 +48,10 @@
                <date when="1905-02-19">19.2.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der G’wissenswurm« von Ludwig Anzengruber</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der »G’wissenswurm«, neu besetzt. Das Ereignis war: Kainz als
+         <note type="review-of">»Der G’wissenswurm« von Ludwig Anzengruber</note>
+         <note type="incipit">Der »G’wissenswurm«, neu besetzt. Das Ereignis war: Kainz als
                   Dusterer.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10772"/>
                <ptr type="pmb" target="#11851"/>

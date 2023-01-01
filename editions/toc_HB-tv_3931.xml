@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. (Burgtheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -48,9 +48,9 @@
                <date when="1893-01-10">10.1.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der glücklicheren Collegen nicht günstige Berthold Auerbach hat
+         <note type="incipit">Der glücklicheren Collegen nicht günstige Berthold Auerbach hat
                   von Grillparzer einmal gesagt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75566.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75566.pdf</ref>
       </body>
    </text>
 </TEI>

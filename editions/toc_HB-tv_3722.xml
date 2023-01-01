@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3722" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Amerika, du hast es besser</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20570, Morgenblatt</biblScope>
@@ -44,10 +44,10 @@
                <date when="1921-12-04">4.12.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Sendung des Künstlers, 152–159</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gern wird der Goethespruch zitiert: Amerika, du hast es
+         <note type="other-prints">Sendung des Künstlers, 152–159</note>
+         <note type="incipit">Gern wird der Goethespruch zitiert: Amerika, du hast es
                   besser</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#13177"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_3722_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1921-12-4_amerika.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1921-12-4_amerika.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Češi a Němci. (Z odpovědí na anketu)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Tribuna</title>
             <imprint>
                <biblScope unit="issue">5</biblScope>
@@ -47,17 +47,17 @@
                <date when="1922-01-06">6.1.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Übersetzung der Umfrage zu »Tschechen und Deutsche« in Bahr/Kvapil,
                      658-661.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bahr/Kvapil, 656-658</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Pozván, abych také promluvil</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr betont die Bedeutung Tschechiens als Fenster zu
+         <note type="other-prints">Bahr/Kvapil, 656-658</note>
+         <note type="incipit">Pozván, abych také promluvil</note>
+         <note type="summary">Bahr betont die Bedeutung Tschechiens als Fenster zu
                   Mitteleuropa und kulturelle Kraft, die aus der Verbindung von deutschsprachigen
                   und tschechischsprachigen Einwohnern hervorgehen könnte – wenn man zu
                   Übernationalität fände.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11518"/>

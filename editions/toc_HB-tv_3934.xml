@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3934" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der »Hermann Bahr-Preis«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -45,17 +45,17 @@
                <date when="1909-02-26">26.2.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Im Märzheft der »Neuen Rundschau«, das soeben
                      erschienen ist, verspottet Hermann Bahr mit gutem Verstand unsere ’Preise’, vom
                      Nobel-Preis bis herunter zu all den anderen Preisen, die heutzutage verliehen
                      werden. Er meint darüber:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Ungekürzt in: Die neue Rundschau, 20 (1909) #3, 444–446.
+         <note type="first-printing">Ungekürzt in: Die neue Rundschau, 20 (1909) #3, 444–446.
                   Mühlviertler Heimatblätter, 3 (1963) #5/6, 84–85</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Essays (1912), 250-253</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Alle diese Preise haben das gemein, daß man sie kriegt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1909_preis.pdf</ref>
+         <note type="other-prints">Essays (1912), 250-253</note>
+         <note type="incipit">Alle diese Preise haben das gemein, daß man sie kriegt</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1909_preis.pdf</ref>
       </body>
    </text>
 </TEI>

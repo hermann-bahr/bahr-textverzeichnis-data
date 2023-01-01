@@ -38,12 +38,12 @@
             subtype="Gekürzt_Nachdruck"
             sameAs="pmb30003"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a" ref="pmb30003">Zwischenspiel. (Komödie in drei Akten von Arthur
                      Schnitzler. Zum erstenmal aufgeführt im Burgtheater am 12. Oktober
                      1905)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb30003">Kleine Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -52,14 +52,14 @@
                <date when="1905-10-13">13.10.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Um die erste Spalte gekürzt und ohne Autornennung aus der »großen« Ausgabe.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig: Österreichische Volks–Zeitung, 51 (1905)
+         <note type="first-printing">Vollständig: Österreichische Volks–Zeitung, 51 (1905)
                   #283, 2–3. (13.10.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 84-93 H. B.: Kritiken. Hg. Kindermann. Wien: Bauer
+         <note type="other-prints">Glossen, 84-93 H. B.: Kritiken. Hg. Kindermann. Wien: Bauer
                   1963, 200-205</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Kapellmeister Amadeus Adams und seine Frau</note>
+         <note type="incipit">Der Kapellmeister Amadeus Adams und seine Frau</note>
       </body>
    </text>
 </TEI>

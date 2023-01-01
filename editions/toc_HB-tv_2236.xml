@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. (Theater an der Wien)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -48,18 +48,18 @@
                <date when="1893-01-09">9.1.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Adrienne Lecouvreur« von Eugène Scribe und Ernest
+         <note type="review-of">»Adrienne Lecouvreur« von Eugène Scribe und Ernest
                   Legouvé</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Adrienne Lecouvreur schloß die Bernhardt heute ihr diesesmal
+         <note type="incipit">Als Adrienne Lecouvreur schloß die Bernhardt heute ihr diesesmal
                   allzu kurzes Gastspiel.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12756"/>
                <ptr type="pmb" target="#20236"/>
                <ptr type="pmb" target="#10899"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75555.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75555.pdf</ref>
       </body>
    </text>
 </TEI>

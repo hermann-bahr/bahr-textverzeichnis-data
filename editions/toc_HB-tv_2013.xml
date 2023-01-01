@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2013" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -45,13 +45,13 @@
                <date when="1902-12-11">11.12.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Frieden« von Rudolph Hawel, Musik von Fritz Lange</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Frieden«, Legende in drei Bildern von Rudolph Hawel. Wir sind
+         <note type="review-of">»Frieden« von Rudolph Hawel, Musik von Fritz Lange</note>
+         <note type="incipit">»Frieden«, Legende in drei Bildern von Rudolph Hawel. Wir sind
                   in einem oberösterreichischen Bauernhause</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Schwäche für Mundartstücke lässt ihn sehr nachsichtig mit
+         <note type="summary">Bahrs Schwäche für Mundartstücke lässt ihn sehr nachsichtig mit
                   dem Stück umgehen, das schon durch seine Inhaltsangabe wie unerträglicher Kitsch
                   klingt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11617"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_2035_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

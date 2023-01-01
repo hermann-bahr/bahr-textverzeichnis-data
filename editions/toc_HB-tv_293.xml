@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_293" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Duse</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -45,12 +45,12 @@
                <date when="1893-11-21">21.11.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Studien zur Kritik der Moderne, 251–257</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="first-printing">Studien zur Kritik der Moderne, 251–257</note>
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   317-325</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nebel, Rauch und Lärm</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78681.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78682.pdf</ref>
+         <note type="incipit">Nebel, Rauch und Lärm</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78681.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78682.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_645" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der heilige Rat. (Ländliches Drama in einer Vorgeschichte und
                      drei Aufzügen von Ludwig Ganghofer. Zum ersten Mal aufgeführt im Deutschen
                      Volkstheater am 17. Jänner 1903)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -49,15 +49,15 @@
                <date when="1903-01-18">18.1.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Nachtkritik auf S. 9 stammt von m.b. (Marco Brociner), da Bahr krank ist.
                      Ganghofer zieht das Stück nach der 3. Aufführung zurück (21.1., #21, 11), die
                      Erklärung am 23.1. (#23, 10).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 382-390</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer Ganghofer auf der Gasse erblickt, bleibt unwillkürlich
+         <note type="other-prints">Rezensionen, 382-390</note>
+         <note type="incipit">Wer Ganghofer auf der Gasse erblickt, bleibt unwillkürlich
                   stehen und sagt sich: Das ist ein Dichter!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">15</biblScope>
@@ -48,10 +48,10 @@
                <date when="1898-04-09">9.4.1898</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Othello« von William Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Deutschen Volkstheater: Othello, von Herrn Dr. Fellner mit
+         <note type="review-of">»Othello« von William Shakespeare</note>
+         <note type="incipit">Im Deutschen Volkstheater: Othello, von Herrn Dr. Fellner mit
                   Fleiß und Geschmack inszeniert</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11308"/>
                <ptr type="pmb" target="#2412"/>
@@ -61,7 +61,7 @@
                <ptr type="pmb" target="#11981"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/184-29.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/184-29.pdf</ref>
       </body>
    </text>
 </TEI>

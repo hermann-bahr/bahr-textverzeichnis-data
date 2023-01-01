@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Literatur in hundert Jahren</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Phaeton. Monatsschrift für Lyrik</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,11 +48,11 @@
                <date when="1920">1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Arthur Brehmer, Hg.: Die Welt in hundert Jahren.
+         <note type="other-prints">In: Arthur Brehmer, Hg.: Die Welt in hundert Jahren.
                   Berlin: Verlags-Anstalt Buntdrucke 1908, 201-207.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man muß kein Prophet sein, um sagen zu können, daß das, was
+         <note type="incipit">Man muß kein Prophet sein, um sagen zu können, daß das, was
                   heute Literatur genannt wird, ja, vielleicht alles</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/phaeton/1920_literatur.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/phaeton/1920_literatur.pdf</ref>
       </body>
    </text>
 </TEI>

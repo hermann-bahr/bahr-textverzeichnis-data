@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,11 +48,11 @@
                <date when="1901-02-17">17.2.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Poil de carotte (Fuchs)« von Jules Renard, deutsch von Hugo
+         <note type="review-of">»Poil de carotte (Fuchs)« von Jules Renard, deutsch von Hugo
                   von Hofmannsthal »Die Liebesprobe« von Thilo von Trotha und Julius Freund</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zuerst »Fuchs«, Schauspiel in einem Akt von Jules Renard, aus
+         <note type="incipit">Zuerst »Fuchs«, Schauspiel in einem Akt von Jules Renard, aus
                   dem Französischen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4460"/>
                <ptr type="pmb" target="#11740"/>

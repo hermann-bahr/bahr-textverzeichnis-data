@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -48,14 +48,14 @@
                <date when="1903-05-05">5.5.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben einem Lob für die Aufführung gibt es eine Berichtigung eines Satzfehlers
                      (»Goethe« statt »Gorki«) am Vortag.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Kammersänger« von Frank Wedekind</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Berliner brachten gestern Wedekinds »Kammersänger«, den man
+         <note type="review-of">»Der Kammersänger« von Frank Wedekind</note>
+         <note type="incipit">Die Berliner brachten gestern Wedekinds »Kammersänger«, den man
                   ja von der Josefstadt her kennt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13068"/>
                <ptr type="pmb" target="#13138"/>
@@ -65,7 +65,7 @@
                <ptr type="pmb" target="#17244"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzkritik_Unsichere_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">-hr</author>
             <title level="a">Wiener Autoren. »Sprüche und Gesänge« von Richard Kralik</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -48,20 +48,20 @@
                <date when="1892-12-09">9.12.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Zuschreibung des Pseudonyms in der Deutschen Zeitung »-hr« siehe die
                      Anmerkung zu »In der Hölle«, 2.10.1892, 3.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Richard Kralik: Sprüche und Gesänge. Wien: K. Konegen
+         <note type="review-of">Richard Kralik: Sprüche und Gesänge. Wien: K. Konegen
                   1893</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die »Sprüche und Gesänge« von Richard Kralik wiederholen in der
+         <note type="incipit">Die »Sprüche und Gesänge« von Richard Kralik wiederholen in der
                   bekannten, täppisch</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3731"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75254.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75254.pdf</ref>
       </body>
    </text>
 </TEI>

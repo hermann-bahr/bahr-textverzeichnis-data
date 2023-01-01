@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1441" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zur Reform des Journalismus</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Schriftsteller-Zeitung</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,17 +45,17 @@
                <date when="1885-06-01">1.6.1885</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr sucht nach einem generellen Aufstand gegen die gegenwärtige korrumpierte
                      Presse und ruft vor allem gegenwärtige Autoren in die Pflicht, sich
                      einzubringen. Ein dem Vater gegenüber brieflich angedeuteter dritter Teil ist
                      nie erschienen (Briefwechsel/Vater, 89).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Kauz. Beiblatt des »Schalk«, 2 (1885) #63, 1.
+         <note type="first-printing">Kauz. Beiblatt des »Schalk«, 2 (1885) #63, 1.
                   (14.6.1885)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wie mannigfach verschieden auch die ungestümen Klagen wider die
+         <note type="incipit">Wie mannigfach verschieden auch die ungestümen Klagen wider die
                   Presse tönen, wie oft</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#11691"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Musik</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">28–32</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Wiener Zeitschrift für Musik, 1 (1908) #1, 1–3. (1.
+         <note type="first-printing">Wiener Zeitschrift für Musik, 1 (1908) #1, 1–3. (1.
                   Jänner 1908)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In keiner Stadt, heisst es von Wien, wird mehr Musik gemacht.
+         <note type="incipit">In keiner Stadt, heisst es von Wien, wird mehr Musik gemacht.
                   Das ist unser Ruhm aus alter Zeit. Ich finde nur den Ausdruck verdächtig: Musik
                   machen. Oder man hört auch: Musik pflegen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr unterscheidet zwei Arten von Musik, eine, »die nur an den
+         <note type="summary">Bahr unterscheidet zwei Arten von Musik, eine, »die nur an den
                   Ohren streichelt« und eine andere, die das Gefühl des »Urwesens in uns ist« und
                   versucht, die zweite Form genauer darzustellen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#4194"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_3282_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

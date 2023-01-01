@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Glosse"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Mepherl</author>
             <title level="a">Ehret die Frauen!</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -48,12 +48,12 @@
                <date when="1892-12-11">11.12.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Während es wieder in Mode käme, Frauen um Rat zu fragen, stellt »Mepherl« fest,
                      dass diese keine Zeit mehr hätten, um Rat zu geben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sagen Sie mir, Maecen der Scheerenschleifer, wie ist das?</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Sagen Sie mir, Maecen der Scheerenschleifer, wie ist das?</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5787"/>
                <ptr type="pmb" target="#12877"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_930_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75274.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75274.pdf</ref>
       </body>
    </text>
 </TEI>

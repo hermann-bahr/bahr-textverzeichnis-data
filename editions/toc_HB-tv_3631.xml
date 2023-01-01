@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vortrag_Mitschrift"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Ideen von 1914. Vortrag</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Grazer Volksblatt</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -48,17 +48,17 @@
                <date when="1916-12-10">10.12.1916</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Alternative Fassung des später im »Hochland« und »Schwarzgelb« veröffentlichten
                      Textes. Der Vortrag fand Anfang Dezember 1916 in Graz statt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Hochland, 14 (1917) #4 (Januar), 431–448.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Schwarzgelb, 131–168. In: Johann Plenge: Zur Vertiefung des
+         <note type="first-printing">Hochland, 14 (1917) #4 (Januar), 431–448.</note>
+         <note type="other-prints">Schwarzgelb, 131–168. In: Johann Plenge: Zur Vertiefung des
                   Sozialismus. Leipzig: Der Neue Geist 1919, 38-66.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Weltkrieg ist eine Zeit höchster Kraftansammlung und
+         <note type="incipit">Der Weltkrieg ist eine Zeit höchster Kraftansammlung und
                   Entfaltung, tiefster Selbstbestimmung aller Völker, die Tat hat das Wort, alles
                   andere verstummt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11933"/>
                <ptr type="pmb" target="#3641"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_3631_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/grazer-volksblatt/1916_ideen.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/grazer-volksblatt/1916_ideen.pdf</ref>
       </body>
    </text>
 </TEI>

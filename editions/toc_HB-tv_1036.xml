@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1036" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Katholik und Welt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -46,11 +46,11 @@
                <date when="1923-11-24">24.11.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Abdruck des Redemanuskripts für das Salzburger Universitätsjubiläum am
                      12.11.1923.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Katholiken sind gewohnt, den Erbpächtern der deutschen »Bildung«
+         <note type="incipit">Katholiken sind gewohnt, den Erbpächtern der deutschen »Bildung«
                   für suspekt zu gelten.</note>
       </body>
    </text>

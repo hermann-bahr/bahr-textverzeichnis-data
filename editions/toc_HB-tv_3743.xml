@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb32424"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32424">Tolstoi der Künstler</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb32424">Der Sozialist</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,16 +48,16 @@
                <date when="1910-12-15">15.12.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Davor ist Tolstois »Aufruf an die Menschheit« abgedruckt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck als »Tolstoi« in: Feier–Abend. Belletristische
+         <note type="first-printing">Nachdruck als »Tolstoi« in: Feier–Abend. Belletristische
                   Beilage zur National–Zeitung, Basel, (1913) #16, 7. (17.4.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Tolstoi« in: Essays, 37-39</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Tolstoi hat die eine Hälfte seines Lebens damit zugebracht,
+         <note type="other-prints">Als »Tolstoi« in: Essays, 37-39</note>
+         <note type="incipit">Tolstoi hat die eine Hälfte seines Lebens damit zugebracht,
                   große Kunstwerke zu schaffen, und die andere Hälfte damit, dies zu bereuen und
                   abzubüßen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/der-sozialist/1910-12-15_tolstoi.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/der-sozialist/1910-12-15_tolstoi.pdf</ref>
       </body>
    </text>
 </TEI>

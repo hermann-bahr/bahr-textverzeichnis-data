@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. September [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">275–276</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Der Friedensvertrag zwischen Deutschland und den alliierten
+         <note type="review-of">Der Friedensvertrag zwischen Deutschland und den alliierten
                   und assoziierten Mächten nebst dem Schlußprotokoll und der Vereinigung betreffend
                   die militärische Besetzung der Rheinlande. Amtlicher Text der Entente und amtliche
                   deutsche Übertragung. Volksausgabe in drei Sprachen. Charlottenburg: Deutsche
                   Verlagsgesellschaft für Politik und Geschichte 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein gelbes Buch, unheimlich dick</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bei der Lektüre des »Friedensvertrags« entdeckt Bahr, dass der
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ein gelbes Buch, unheimlich dick</note>
+         <note type="summary">Bei der Lektüre des »Friedensvertrags« entdeckt Bahr, dass der
                   Übersetzer sich über einen Grammatikfehler im französischen und englischen Text
                   mokiert und kommentiert, dass die Deutschen immerhin noch das Gefühl behalten
                   haben, Weltschulmeister zu sein.</note>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">26. April [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">I, 138–145</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Meleager: Der Kranz des Meleagros von Gadara. Auswahl und
+         <note type="review-of">Meleager: Der Kranz des Meleagros von Gadara. Auswahl und
                   Übertragung von August Oehler. Berlin: Propyläen 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In jener »Auslese«, die zur Jahrhundertwende, den Umschwung
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">In jener »Auslese«, die zur Jahrhundertwende, den Umschwung
                   des</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nachruf auf August Oehler (d.i. Dr. August Mayer) und über den
+         <note type="summary">Nachruf auf August Oehler (d.i. Dr. August Mayer) und über den
                   deutschen und den lateinischen Satzbau.</note>
       </body>
    </text>

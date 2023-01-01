@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">25. März [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Tagebücher 2</title>
             <imprint>
                <pubPlace>Innsbruck, Wien, München</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">91–92</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 7.4.1918</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lese, wie jetzt immer in der Karwoche, Katharina Emmerich. Es
+         <note type="first-printing">Neues Wiener Journal, 7.4.1918</note>
+         <note type="incipit">Lese, wie jetzt immer in der Karwoche, Katharina Emmerich. Es
                   ist, auch rein künstlerisch, von einer unbeschreiblichen Macht.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Katharina von Emmerich ist für Bahr entweder eine große
+         <note type="summary">Katharina von Emmerich ist für Bahr entweder eine große
                   Dichterin, oder schlichtweg unbegreiflich in ihrer Fähigkeit, innere Wahrnehmung
                   in Worte zu fassen, wenn sie wirklich alles gesehen hat, von dem sie
                   schreibt.</note>

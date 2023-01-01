@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ich hab’ gedacht. Ein Gespräch</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -48,18 +48,18 @@
                <date when="1900-07-08">8.7.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Warum seid’s ihr denn dann aber nicht die Herren der Welt?«
+         <note type="incipit">»Warum seid’s ihr denn dann aber nicht die Herren der Welt?«
                   rief der fremde Architekt aus.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Gespräch zwischen einem Oberbaurat, einem Architekten, einem
+         <note type="summary">Ein Gespräch zwischen einem Oberbaurat, einem Architekten, einem
                   Patrioten und einem Dichter. Satirisch wird dargestellt, dass der Handwerker in
                   Österreich den Stehsatz »Ich hab’ gedacht« hat, mit dem er eigenmächtige
                   Entscheidungen vornimmt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

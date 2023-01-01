@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. März [1924]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">70–71</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Friedrich Rosenthal von Langes: Unsterblichkeit des Theaters.
+         <note type="review-of">Friedrich Rosenthal von Langes: Unsterblichkeit des Theaters.
                   Versuch einer Kulturgeschichte der deutschen Bühne. München 1924.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Unsterblichkeit des Theaters« von Friedrich Rosenthal (Verlag
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Unsterblichkeit des Theaters« von Friedrich Rosenthal (Verlag
                   von Gunther Langes in München).</note>
       </body>
    </text>

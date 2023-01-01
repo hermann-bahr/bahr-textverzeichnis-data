@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1065" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Lido</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16162, Morgenblatt</biblScope>
@@ -44,9 +44,9 @@
                <date when="1909-08-19">19.8.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Bühne, (1934) #368 (2. Jänner–Heft), 32–33.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Pontebba wird der Kondukteur ausgewechselt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1909-8-19_lido.pdf</ref>
+         <note type="first-printing">Die Bühne, (1934) #368 (2. Jänner–Heft), 32–33.</note>
+         <note type="incipit">In Pontebba wird der Kondukteur ausgewechselt.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1909-8-19_lido.pdf</ref>
       </body>
    </text>
 </TEI>

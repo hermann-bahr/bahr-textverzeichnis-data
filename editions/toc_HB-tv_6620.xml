@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6620" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Spätfrühling. (Lustspiel in drei Akten von Georg Hirschfeld. Zum
                      erstenmal aufgeführt im Burgtheater am 10. Februar 1906)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">52</biblScope>
@@ -47,14 +47,14 @@
                <date when="1906-02-11">11.2.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt: Kleine Österreichische Volks–Zeitung, 52 (1906)
+         <note type="first-printing">Gekürzt: Kleine Österreichische Volks–Zeitung, 52 (1906)
                   #41, 25. (11.2.1906)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gustav Landauer hat neulich von der jetzt üblichen Theaterkritik
+         <note type="incipit">Gustav Landauer hat neulich von der jetzt üblichen Theaterkritik
                   gesagt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schließt sich Gustav Landauer an, der davor gewarnt hat,
+         <note type="summary">Bahr schließt sich Gustav Landauer an, der davor gewarnt hat,
                   dass Kritiker sich zunehmend selbst genötigt sehen, zu unterhalten, statt an das
                   Stück heranzuführen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12031"/>
                <ptr type="pmb" target="#11701"/>

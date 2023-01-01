@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Snöbl gegen Wagner</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bayreuth</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">97–101</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Mai 1911</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Der Merker, 2 (1911) #20 (2. Juli–Heft), 823.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Snob war schon nicht schön! Aber Snöbl erst!</note>
+         <note type="first-printing">Der Merker, 2 (1911) #20 (2. Juli–Heft), 823.</note>
+         <note type="incipit">Snob war schon nicht schön! Aber Snöbl erst!</note>
       </body>
    </text>
 </TEI>

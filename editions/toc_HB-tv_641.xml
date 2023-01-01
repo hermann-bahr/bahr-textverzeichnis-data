@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -48,13 +48,13 @@
                <date when="1902-11-23">23.11.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Theaterdorf« von Oscar Blumenthal und Gustav Kadelburg</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn ich das »Theaterdorf«, den neun Schwank von Oskar
+         <note type="review-of">»Theaterdorf« von Oscar Blumenthal und Gustav Kadelburg</note>
+         <note type="incipit">Wenn ich das »Theaterdorf«, den neun Schwank von Oskar
                   Blumenthal und Gustav Kadelburg ganz erfaßt habe, so ist es diesmal die Absicht
                   der beiden Poeten gewesen, Front zu machen gegegn die Schlierseer, Tegernseer und
                   andere Bauernspieler, welche ihnen durch ihr leichtfertiges Wesen den Ernst der
                   reinen Kunst zu bedrohen scheinen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11845"/>
                <ptr type="pmb" target="#3982"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_2399_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

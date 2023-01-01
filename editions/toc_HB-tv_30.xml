@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_30" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Aehrenthal</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Zukunft</title>
             <imprint>
                <biblScope unit="jg">19</biblScope>
@@ -45,12 +45,12 @@
                <date when="1911-05-20">20.5.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Aehrenthal. 2« in: Austriaca, 132–135</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man kann aus den Zeitungen nicht klug werden, ob Aehrental
+         <note type="other-prints">Als »Aehrenthal. 2« in: Austriaca, 132–135</note>
+         <note type="incipit">Man kann aus den Zeitungen nicht klug werden, ob Aehrental
                   wirklich krank war oder gefallen ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr stellt Überlegungen an, warum die Zeit Aehrenthals als
+         <note type="summary">Bahr stellt Überlegungen an, warum die Zeit Aehrenthals als
                   Außenminister abgelaufen ist.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#39082"/>
@@ -63,7 +63,7 @@
                <ptr type="HB-tv" target="HB-tv_30_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zukunft/1911-75_aehrenthal.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zukunft/1911-75_aehrenthal.pdf</ref>
       </body>
    </text>
 </TEI>

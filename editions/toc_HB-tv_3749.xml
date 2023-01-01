@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3749" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Kampf der Nachwelt</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Niehrenheims Wegweiser für Besucher der Bayreuther Festspiele
                      1914</title>
             <editor>Niehrenheim, Georg</editor>
@@ -47,12 +47,12 @@
                <biblScope unit="pages">II, 67–72</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Tägliche Rundschau (1913) #Wagner–Festnummer, 1.
+         <note type="first-printing">Tägliche Rundschau (1913) #Wagner–Festnummer, 1.
                   (21.5.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man glaubt immer, nur die Mitwelt widerstrebe dem Künstler, dem
+         <note type="incipit">Man glaubt immer, nur die Mitwelt widerstrebe dem Künstler, dem
                   Denker, wer aber ihr entkommen und mit seinem Werk durch die Verschwörung der
                   Gemeinen gegen die Grossen hindurch doch endlich bis zur Nachwelt gedrungen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#13024"/>
@@ -60,7 +60,7 @@
                <ptr type="HB-tv" target="HB-tv_3749_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/wegweiser-bayreuther-festspiele/1914_kampf-der-nachwelt.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wegweiser-bayreuther-festspiele/1914_kampf-der-nachwelt.pdf</ref>
       </body>
    </text>
 </TEI>

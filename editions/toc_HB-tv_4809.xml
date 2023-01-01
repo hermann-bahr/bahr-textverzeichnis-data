@@ -37,13 +37,13 @@
             type="Journal-Article"
             subtype="Gekürzt_Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Der verlorene Vater. (Komödie in vier Akten von Bernard Shaw.
                      Deutsch von Siegfried Trebitsch. Zum erstenmal aufgeführt im Burgtheater am 17.
                      März 1906)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Kleine Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">52</biblScope>
@@ -52,14 +52,14 @@
                <date when="1906-03-18">18.3.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Um den Anfang gekürzt aus der »großen« Ausgabe.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig: Österreichische Volks–Zeitung, 52 (1906)
+         <note type="first-printing">Vollständig: Österreichische Volks–Zeitung, 52 (1906)
                   #76, 2. (18.3.1906)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Vollständig: Glossen, 112–116</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Mann ist seiner unausstehlichen Frau weggelaufen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="other-prints">Vollständig: Glossen, 112–116</note>
+         <note type="incipit">Ein Mann ist seiner unausstehlichen Frau weggelaufen.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2381"/>
                <ptr type="pmb" target="#12195"/>

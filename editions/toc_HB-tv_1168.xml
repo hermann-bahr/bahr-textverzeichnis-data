@@ -35,11 +35,11 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb32470">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32470">Österreich</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb32470">Die Tat, Jena</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -48,17 +48,17 @@
                <date when="1914">1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Fußnote: »Dieser Aufsatz ist im März 1914 geschrieben worden und war seit Ende
                      März 1914 zur Verfügung der »Tat«. Es spricht für ihn, daß ich kein Wort daran
                      zu ändern habe, auch jetzt nicht. Seitdem hat Österreich sein wahres Gesicht
                      gezeigt, es gibt mir recht.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Gekürzt als »Österreichs Wandlung« in: Reichspost 22 (1915)
+         <note type="other-prints">Gekürzt als »Österreichs Wandlung« in: Reichspost 22 (1915)
                   #126 (Morgenausgabe), 7. (17.3.1915)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist mir oft im Ausland fast komisch gewesen, wenn auch von
+         <note type="incipit">Es ist mir oft im Ausland fast komisch gewesen, wenn auch von
                   einer etwas bitter schmeckenden Komik</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
                <ptr type="pmb" target="#10943"/>
@@ -66,7 +66,7 @@
                <ptr type="pmb" target="#12481"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-tat/1914-6_oesterreich.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-tat/1914-6_oesterreich.pdf</ref>
       </body>
    </text>
 </TEI>

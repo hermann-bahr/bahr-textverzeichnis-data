@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Feuilleton. Mitschi: »La-bas et ailleurs«</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,17 +49,17 @@
                <biblScope unit="pages">23–28</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Freie Bühne für modernes Leben, 1 (1890) #25,
+         <note type="first-printing">Freie Bühne für modernes Leben, 1 (1890) #25,
                   665–667</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Jacques Saint-Cère hat die köstlichen Plaudereien, die er
+         <note type="incipit">Herr Jacques Saint-Cère hat die köstlichen Plaudereien, die er
                   sich als Steck und Mitschi zusammengereist hat, aus der Vie-Parisienne zu einem
                   zierlichen und gefälligen Bändchen gesammelt, Zeichnungen von Caran d’Ache, dem
                   parisischen Oberländer, J. L. Forain, dem genialen Humoristen des Socialismus,
                   Sahib, Vallet und Bac dazwischen. Es ist aus Scherz, ein wenig Bosheit und viel
                   Kunst ein anmutiges Geschöpf geworden, dem man der rasche Freund auch bleibt:
                   denn es verträgt die Grausamkeiten der Intimität.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11640"/>
                <ptr type="pmb" target="#19980"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_2666_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

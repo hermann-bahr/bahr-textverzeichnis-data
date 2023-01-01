@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Intimes Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -48,12 +48,12 @@
                <date when="1906-02-04">4.2.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die natürliche Tochter« von Johann Wolfgang Goethe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 466-467 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="review-of">»Die natürliche Tochter« von Johann Wolfgang Goethe</note>
+         <note type="other-prints">Glossen, 466-467 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 297-298</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die natürliche Tochter« von der ich ja schon neulich
+         <note type="incipit">»Die natürliche Tochter« von der ich ja schon neulich
                   ausführlicher sprechen durfte, hat gestern in einer keineswegs vollendeten</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#12877"/>
@@ -74,7 +74,7 @@
                <ptr type="HB-tv" target="HB-tv_2021_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

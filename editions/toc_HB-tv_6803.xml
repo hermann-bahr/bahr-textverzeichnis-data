@@ -34,11 +34,11 @@
       <body xml:id="HB-tv_6803"
             type="Journal-Article"
             subtype="Nachdruck_Gekürzt">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erkenntnisse</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neue Leipziger Zeitung</title>
             <imprint>
                <biblScope unit="jg">72</biblScope>
@@ -47,13 +47,13 @@
                <date when="1923-06-16">16.6.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nicht speziell ausgewiesener Nachdruck aus der Neuen Rundschau.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig: Hermann Bahr und Stefan Zweig, Hg.:
+         <note type="first-printing">Vollständig: Hermann Bahr und Stefan Zweig, Hg.:
                   Erkenntnisse. (Aus Hermann Bahrs Büchern). Die neue Rundschau, 34 (1923) #6,
                   503–509.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer den Sinn des Lebens kennt</note>
+         <note type="incipit">Wer den Sinn des Lebens kennt</note>
       </body>
    </text>
 </TEI>

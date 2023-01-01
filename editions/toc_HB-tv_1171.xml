@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1171" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Österreichs Wandlung. Ein Aufsatz</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Reichspost</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -45,7 +45,7 @@
                <date when="1915-03-17">17.3.1915</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Edit. Anmerkung: »In dem eben erschienenen Kriegsheft der Monatsschrift »Die
                      Tat« veröffentlicht Hermann Bahr einen Aufsatz »Österreich«, in dem manches
                      Wahre gut gesagt wird und vieles besser klingt, weil es Hermann Bahr sagt, der
@@ -53,11 +53,11 @@
                      wirklicher Drang nach Wahrheit geblieben ist. Hermann Bahr erzählt da aus
                      seinen Jünglingsjahren: …«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Länger als »Österreich« in: Die Tat, Jena 6 (1915) #12,
+         <note type="first-printing">Länger als »Österreich« in: Die Tat, Jena 6 (1915) #12,
                   584–590</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auch ich war einmal Irredentist, wie das keinem anständigen
+         <note type="incipit">Auch ich war einmal Irredentist, wie das keinem anständigen
                   jungen Menschen bei uns erspart bleibt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1915-03-17_oesterreichs-wandlung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1915-03-17_oesterreichs-wandlung.pdf</ref>
       </body>
    </text>
 </TEI>

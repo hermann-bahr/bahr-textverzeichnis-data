@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Zweifelhafte_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Päpste im Exil</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">19</biblScope>
@@ -48,7 +48,7 @@
                <date when="1889-07-27">27.7.1889</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Viele Gründe sprechen dagegen, dass dieser Text und »Franz von Sickingen« von
                      Bahr stammen. Zuerst die Gründe für die Zuschreibung: Bahr veröffentlicht in
                      den Monaten vorher und nachher in der deutschen Zeitung Feuilletons. »H. B.«
@@ -63,9 +63,9 @@
                      nicht Bahrs Schreibweise und katholische Themen sind ihm in seinen Zwanzigern
                      ansonsten fremd.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Nachfolger Petri haben sich daran gewöhnt, die ganze außer
+         <note type="incipit">Die Nachfolger Petri haben sich daran gewöhnt, die ganze außer
                   dem Bannkreis</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2975"/>
                <ptr type="pmb" target="#15229"/>
@@ -85,8 +85,8 @@
                <ptr type="HB-tv" target="HB-tv_3916_p13"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63121.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63122.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63121.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63122.pdf</ref>
       </body>
    </text>
 </TEI>

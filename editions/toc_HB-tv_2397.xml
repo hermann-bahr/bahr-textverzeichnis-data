@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,20 +48,20 @@
                <date when="1904-06-05">5.6.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr zweifelt, dass Elsa Galafrés den Winter als Schauspielerin überlebt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Haubenlerche« von Ernst von Wildenbruch</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wen will man eigentlich düpieren? Man glaubt, ganz besonders
+         <note type="review-of">»Die Haubenlerche« von Ernst von Wildenbruch</note>
+         <note type="incipit">Wen will man eigentlich düpieren? Man glaubt, ganz besonders
                   schlau zu sein</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13118"/>
                <ptr type="pmb" target="#2865"/>
                <ptr type="HB-tv" target="HB-tv_2450_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

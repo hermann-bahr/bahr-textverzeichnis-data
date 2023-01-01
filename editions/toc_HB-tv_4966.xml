@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. Dezember [1917]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">239–241</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans Delbrück: Wider den Kleinglauben. Eine Auseinandersetzung
+         <note type="review-of">Hans Delbrück: Wider den Kleinglauben. Eine Auseinandersetzung
                   mit der Deutschen Vaterlandspartei. Jena: Diederichs 1918. (Die Volksaufklärung,
                   2)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hans Delbrück, der Herausgeber der »Preußischen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Hans Delbrück, der Herausgeber der »Preußischen
                   Jahrbücher«</note>
       </body>
    </text>

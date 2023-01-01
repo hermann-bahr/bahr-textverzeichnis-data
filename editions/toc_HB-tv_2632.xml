@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Germinie Lacerteux. (Nach dem Roman von Edmond und Jules de
                      Goncourt für die Bühne bearbeitet von Edmond de Goncourt. Zum erstenmale
                      aufgeführt auf dem Thêatre national de l’Odéon am 18. Dezember 1888)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -52,8 +52,8 @@
                <biblScope unit="pages">148–162</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Worte, Wien, 9 (1889) #3 (März), 123–134</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist die Entscheidung, um die es sich handelt, und darum, weil
+         <note type="first-printing">Deutsche Worte, Wien, 9 (1889) #3 (März), 123–134</note>
+         <note type="incipit">Es ist die Entscheidung, um die es sich handelt, und darum, weil
                   es um Leben oder Tod geht, weicht in der tobenden Wut dieses Kampfes keiner auch
                   nur einen Zoll. Wenn man auf die Anfänge des Naturalismus zurückdenkt und die
                   kläglichen Zufälle seiner Jugend vergleicht mit der stolzen Sicherheit seines
@@ -68,11 +68,11 @@
                   vermag, ist seinen trotzigen Werbungen spröde geblieben; es ist die letzte
                   Bastille, hinter welcher das Konventionelle in der Litteratur seine Todesstunde
                   verteidigt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beschreibt die Aufführung der »Germinie Lacerteux« von
+         <note type="summary">Bahr beschreibt die Aufführung der »Germinie Lacerteux« von
                   Edmond de Goncourt im Odéon 1888 als teilweisen Triumph des naturalistischen
                   Dramas. Obwohl der Roman durch die dramatische Bearbeitung viel verloren habe, sei
                   das Publikum dennoch für das naturalistische Drama gewonnen worden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11500"/>
                <ptr type="pmb" target="#2925"/>
@@ -90,7 +90,7 @@
                <ptr type="HB-tv" target="HB-tv_2632_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

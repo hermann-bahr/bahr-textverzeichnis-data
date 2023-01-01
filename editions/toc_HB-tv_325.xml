@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_325" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Klein Eyolf. (Schauspiel in drei Aufzügen von Henrik Ibsen. Zum
                      ersten Male aufgeführt im Burgtheater am 27. Februar)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -47,10 +47,10 @@
                <date when="1895-03-02">2.3.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als Teil II in: Wiener Theater, 54-59</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer ein Werk von Ibsen nach den anderen hernehmen, seinen Sinn
+         <note type="other-prints">Als Teil II in: Wiener Theater, 54-59</note>
+         <note type="incipit">Wer ein Werk von Ibsen nach den anderen hernehmen, seinen Sinn
                   suchen und seine Art verzeichnen würde</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#2404"/>
@@ -64,8 +64,8 @@
                <ptr type="HB-tv" target="HB-tv_1402_p22"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/22-139.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/22-140.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/22-139.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/22-140.pdf</ref>
       </body>
    </text>
 </TEI>

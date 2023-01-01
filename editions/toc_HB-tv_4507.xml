@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Vortrag_Mitschrift"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Großstadt. Vortrag von Hermann Bahr: »Die
                      Lebensformen«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">65</biblScope>
@@ -50,18 +50,18 @@
                <date when="1912-02-01">1.2.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Dienstag abend hielt Hermann Bahr im Jahreszeitensaal
                      den Schlußvortrag des Großstadtzyklus mit dem Titel ’Die Lebensformen’. Die
                      Persönlichkeit des Dichters hatte ein zahlreiches Publikum angezogen, das für
                      die temperamentvollen, mit Humor und Ernst zu Herzen redenden Ausführungen
                      aufrichtigen Dank wußte.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck: Als »Hermann Bahr über die ’Großstadt’ in:
+         <note type="first-printing">Nachdruck: Als »Hermann Bahr über die ’Großstadt’ in:
                   Neues Wiener Journal, 20 (1912) #6565, 5. (2.2.1912) Als »Der Betrieb der
                   Großstadt« in: Die neue Rundschau, 23 (1912) #6, 697–705.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Der Betrieb« in: Inventur, 22-35.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zwei sich scheinbahr ganz widersprechende Redensarten, begann
+         <note type="other-prints">Als »Der Betrieb« in: Inventur, 22-35.</note>
+         <note type="incipit">Zwei sich scheinbahr ganz widersprechende Redensarten, begann
                   etwa der Redner, gebrauchen heutzutage dieselben Menschen in einem Atemzuge: »man
                   kann nur in der Großstadt leben</note>
       </body>

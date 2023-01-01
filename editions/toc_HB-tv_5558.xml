@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">26. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">190–193</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ou sont les gratieux gallans Que je suyvoye au temps jadis Si
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ou sont les gratieux gallans Que je suyvoye au temps jadis Si
                   biens chantans, si bien parlans. Si plaisans en laictz et en dictz? Les aucuns
                   sont mortz et roydiz D’eulx n’est-il plus rien maintenant Repos ayent en paradis
                   Et Dieu saulve le remenant. Der Wiegenton dieser gelinden Klage, die ich neulich
@@ -143,7 +143,7 @@
                   einer lieber schreibt: für Germanisten oder für Jägerleut; ich war insgeheim stets
                   meinem geliebten Ganghofer um seine Leser neidig, dagegen den von mir bewunderten
                   Dichtern um ihre doch eigentlich nie. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nachruf auf Ludwig Ganghofer</note>
+         <note type="summary">Nachruf auf Ludwig Ganghofer</note>
       </body>
    </text>
 </TEI>

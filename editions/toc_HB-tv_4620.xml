@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 24. Februar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">26</biblScope>
@@ -48,14 +48,14 @@
                <date when="1918-03-10">10.3.1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">R</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebücher 2, 60-65</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eugen Diederichs, der Jenenser Verleger, immer auf Lausche nach
+         <note type="review-of">R</note>
+         <note type="other-prints">Tagebücher 2, 60-65</note>
+         <note type="incipit">Eugen Diederichs, der Jenenser Verleger, immer auf Lausche nach
                   Anzeichen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Diederichs schlägt eine Wahlrechtsreform vor, in der es neben
+         <note type="summary">Diederichs schlägt eine Wahlrechtsreform vor, in der es neben
                   einer Zentralregierung für die Kultur zuständige Regionen gibt. Bahr positioniert
                   sich nicht, sondern erinnert an Richard Strauss’ Autofahrt nach Paris.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

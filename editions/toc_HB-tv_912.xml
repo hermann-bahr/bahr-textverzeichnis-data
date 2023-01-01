@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_912" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Dekorirt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Kleine Journal</title>
             <imprint>
                <biblScope unit="jg">16</biblScope>
@@ -45,9 +45,9 @@
                <date when="1894-01-21">21.1.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Spuller, der neue Minister der Wissenschaften und der
+         <note type="incipit">Herr Spuller, der neue Minister der Wissenschaften und der
                   Künste, hat jetzt zehn Namen dekorirt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/kleine-journal/1894_dekorirt.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/kleine-journal/1894_dekorirt.pdf</ref>
       </body>
    </text>
 </TEI>

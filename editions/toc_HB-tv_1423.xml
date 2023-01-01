@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Wiener Schriftsteller über die Plagiatbeschuldigungen gegen Karl
                      Schönherr</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16769, Morgenblatt</biblScope>
@@ -49,17 +49,17 @@
                <date when="1911-04-29">29.4.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der ganze Versuch, einen Strick für Schönherr zu drehen, ist so
+         <note type="incipit">Der ganze Versuch, einen Strick für Schönherr zu drehen, ist so
                   maßlos dumm, daß er einem durch seine Verwegenheit wieder fast eine gewisse
                   Bewunderung abnötigt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12749"/>
                <ptr type="pmb" target="#11575"/>
                <ptr type="HB-tv" target="HB-tv_4464_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1911-4-29_plagiatbeschuldigungen.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1911-4-29_plagiatbeschuldigungen.pdf</ref>
       </body>
    </text>
 </TEI>

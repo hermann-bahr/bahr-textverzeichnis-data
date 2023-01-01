@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">26. Dezember [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">23–24</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Jüngling« von Fjodor Michailowitsch Dostojewskij</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Mein Freund, die Menschen so zu lieben, wie sie sind, ist
+         <note type="review-of">»Der Jüngling« von Fjodor Michailowitsch Dostojewskij</note>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Mein Freund, die Menschen so zu lieben, wie sie sind, ist
                   unmöglich. Und doch soll man es nun einmal. Deshalb verbeiße deine Gefühle, wenn
                   du ihnen Gutes tun willst, halte dir die Nase zu und schließe die Augen.«
                   Dostojewski im »Jüngling« (Siebenter Band der sämtlichen Werke in der deutschen
@@ -87,7 +87,7 @@
                   hat, aus dem Zufälligen wieder ins Notwendige zurückzufinden. Ist in Europa noch
                   ein Volk, das sich wieder auf das Geheimnis seines eingebornen inneren Wachsens zu
                   besinnen weiß? |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bei Dostojewskij findet Bahr die Grundfragen des Abendlands
+         <note type="summary">Bei Dostojewskij findet Bahr die Grundfragen des Abendlands
                   ausformuliert</note>
       </body>
    </text>

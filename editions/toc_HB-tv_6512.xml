@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 20. Oktober</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">32</biblScope>
@@ -48,13 +48,13 @@
                <date when="1924-10-26">26.10.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Zauberstab, 140–146</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In dieser quälenden Zeit einer Selbstentfremdung,
+         <note type="other-prints">Der Zauberstab, 140–146</note>
+         <note type="incipit">In dieser quälenden Zeit einer Selbstentfremdung,
                   Selbstverschüttung, Selbstzerklüftung, wie sie der Deutsche bisher auch in den
                   ärgsten Anfällen inneren Versagens niemals erlebt hat</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Hölderlin, dessen jüngste, breite Rezeption Bahr als
+         <note type="summary">Über Hölderlin, dessen jüngste, breite Rezeption Bahr als
                   Auswirkung des Weltkriegs interpretiert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

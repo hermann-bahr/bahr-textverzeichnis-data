@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Stellungnahme"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Christen über die Judenfrage</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Welt, Wien</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,9 +48,9 @@
                <date when="1897-11-19">19.11.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich gestehe, daß ich lange Zeit ein gewisses Misstrauen gegen
+         <note type="incipit">Ich gestehe, daß ich lange Zeit ein gewisses Misstrauen gegen
                   den Zionismus hatte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-welt/1897-11.19_judenfrage.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-welt/1897-11.19_judenfrage.pdf</ref>
       </body>
    </text>
 </TEI>

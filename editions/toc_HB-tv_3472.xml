@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Österreich</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Schwarzgelb</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">46–77</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Österreichisch« in: Die neue Rundschau, 26 (1915)
+         <note type="first-printing">Als »Österreichisch« in: Die neue Rundschau, 26 (1915)
                   #7, 916–933.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Zwei Absätze in: Das große Jahr. 1914–1915. Berlin: S.
+         <note type="other-prints">Zwei Absätze in: Das große Jahr. 1914–1915. Berlin: S.
                   Fischer 1915, 69-73.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kaum hat man sich von der Überraschung erholt, daß Österreich,
+         <note type="incipit">Kaum hat man sich von der Überraschung erholt, daß Österreich,
                   so oft totgesagt, noch lebt, und lebendiger ist als je, so wird man nun erst recht
                   an ihm irre, denn wenn es jetzt beweist...</note>
       </body>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1181" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Pariser Brief. Paris, 11. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Wiener Salonblatt</title>
             <imprint>
                <biblScope unit="jg">20</biblScope>
@@ -45,12 +45,12 @@
                <date when="1889-06-16">16.6.1889</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr sieht die Fürstin Metternich, rechtfertigt noch einmal seine Aussagen über
                      die Wienerinnen des letzten Briefs und schaut sich die Weltausstellung an.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Neulich – ganz unvermuthet, wie schon das Glück</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Neulich – ganz unvermuthet, wie schon das Glück</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#37250"/>
                <ptr type="pmb" target="#12167"/>
@@ -60,7 +60,7 @@
                <ptr type="HB-tv" target="HB-tv_1181_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-salonblatt/20-24_pariser-brief.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-salonblatt/20-24_pariser-brief.pdf</ref>
       </body>
    </text>
 </TEI>

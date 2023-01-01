@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_590" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">König Harlekin. (Ein Maskenspiel in vier Aufzügen von Rudolph
                      Lothar. Zum ersten Male aufgeführt im Deutschen Volkstheater am 14. September
                      1901)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -49,16 +49,16 @@
                <date when="1901-09-15">15.9.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am nächsten Tag (#254, 4) eine Druckfehlerkorrektur: Am Ende des dritten
                      Absatzes wurden die Sätze nach »Wozu einen König bemühen?« weggelassen und nun
                      nachgereicht. In den »Rezensionen« sind sie eingefügt. Bahr entging hier nur
                      knapp der Bloßstellung, man vgl. die Besprechung in der Fackel, 3 #85, 20 wo
                      Frankfurter und Neue Freie Presse verglichen werden.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 279-287</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In einer Novelle des Antonio Francesco Grazzini</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <note type="other-prints">Rezensionen, 279-287</note>
+         <note type="incipit">In einer Novelle des Antonio Francesco Grazzini</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

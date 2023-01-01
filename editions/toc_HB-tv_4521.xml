@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 30. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -48,11 +48,11 @@
                <date when="1927-04-10">10.4.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unsere Zeit darf sich rühmen, daß keine vor ihr jemals so gut
+         <note type="incipit">Unsere Zeit darf sich rühmen, daß keine vor ihr jemals so gut
                   mit Nachrichten bedient war</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Aus Angst vor Untergang der weißen Rasse weist Bahr auf die
+         <note type="summary">Aus Angst vor Untergang der weißen Rasse weist Bahr auf die
                   Chinesen hin.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#14796"/>
                <ptr type="pmb" target="#12819"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_4521_p11"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

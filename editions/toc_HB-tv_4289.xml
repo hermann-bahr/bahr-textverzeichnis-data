@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Woran arbeiten Sie?. Eine Rundfrage des »Neuen Wiener Journals«
                      an prominente Schriftsteller und Musiker</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -50,7 +50,7 @@
                <date when="1929-05-19">19.5.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben Bahr antworten: Denys Amiel, Raoul Auernheimer, Rudolf Hans Bartsch,
                      Ralph Benatzky, Julius Bittner, Alexander Engel, Edmund Eysler, Ladislaus
                      Fodor, Bruno Frank, Paul Frank, Armin Friedmann, Paul Geraldy, Franz Karl
@@ -59,10 +59,10 @@
                      Kellermann, Paul Knepler, Franz Lehar, Viktor Léon, Alexander Lernet-Holenia,
                      Thomas Mann, Karl Zuckmayer, Stefan Zweig.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der siebente in der Reihe meiner österreichischen Romane ist
+         <note type="incipit">Der siebente in der Reihe meiner österreichischen Romane ist
                   eben vollendet, er heißt: »Österreich in Ewigkeit«; er wird bei Franz Borgmeyer in
                   Hildesheim erscheinen. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/19290519-13.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/19290519-13.pdf</ref>
       </body>
    </text>
 </TEI>

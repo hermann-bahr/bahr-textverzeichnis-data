@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die natürliche Tochter. 4. Februar 1906</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -49,12 +49,12 @@
                <biblScope unit="pages">466–467</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die natürliche Tochter« von Johann Wolfgang Goethe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 40 (1906) #34, 12.
+         <note type="review-of">»Die natürliche Tochter« von Johann Wolfgang Goethe</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 40 (1906) #34, 12.
                   (4.2.1906)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   297-298</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die natürliche Tochter,« von der ich ja schon neulich
+         <note type="incipit">»Die natürliche Tochter,« von der ich ja schon neulich
                   ausführlicher sprechen durfte, hat gestern in einer keineswegs vollendeten, in
                   Einzelheiten dilettantischen</note>
       </body>

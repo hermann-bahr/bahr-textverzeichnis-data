@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">3. Januar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">32–33</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Horst Schöttler: Weltgeschichte in einer Stunde.
+         <note type="review-of">Horst Schöttler: Weltgeschichte in einer Stunde.
                   Leipzig-Gaschwitz: Dürr &amp; Weber 1920. Klabund: Deutsche Literaturgeschichte in
                   einer Stunde. Leipzig-Gaschwitz: Dürr &amp; Weber 1920. Raoul Heinrich Francé: Der
                   Weg zur Kultur. Leipzig-Gaschwitz: Dürr &amp; Weber 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die »Zellenbücherei« des Verlags Dürr und Weber (Leipzig-
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Die »Zellenbücherei« des Verlags Dürr und Weber (Leipzig-
                   Gaschwitz) bringt eine »Weltgeschichte in einer Stunde« von Horst Schöttler, eine
                   »Deutsche Literaturgeschichte in einer Stunde« von Klabund, und ein Bändchen von
                   R. H. Francé »Der Weg zur Kultur«, das auch ganz gut »Kulturgeschichte in einer
@@ -76,7 +76,7 @@
                   fruchtbaren Einfall, das »Gesetz der Kultur« an der Geschichte von – Dinkelsbühl
                   darzutun: die Chronik der kleinen alten Stadt wird unter seiner Hand unversehens
                   zur Biographie des deutschen Bürgertums. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die »Schnellsiedekurse« in Bildung hält Bahr für einen
+         <note type="summary">Die »Schnellsiedekurse« in Bildung hält Bahr für einen
                   glücklichen Einfall, Klabund interessiert ihn am meisten, Francé findet er dem
                   Thema am gerechtesten.</note>
       </body>

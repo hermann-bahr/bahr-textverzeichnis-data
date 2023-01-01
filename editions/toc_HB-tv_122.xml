@@ -36,11 +36,11 @@
             subtype="Dichtung"
             status="checked"
             sameAs="pmb32498">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32498">Wächterl</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36152">Neue deutsche Rundschau</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -49,12 +49,12 @@
                <date when="1894-05-01">Mai 1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Intelligenzblatt und Berner Stadtblatt 61/15 (1894) #133,
+         <note type="first-printing">Intelligenzblatt und Berner Stadtblatt 61/15 (1894) #133,
                   3–4. (7.6.1894)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Caph, 88–107</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">I. Als Christel nach Chicago musste, wo man sich in Wiener Leder
+         <note type="other-prints">Caph, 88–107</note>
+         <note type="incipit">I. Als Christel nach Chicago musste, wo man sich in Wiener Leder
                   ein grosses Geschäft versprach</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1894-5-5_waechterl.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1894-5-5_waechterl.pdf</ref>
       </body>
    </text>
 </TEI>

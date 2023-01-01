@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Länder. 1. Böhmen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Schwarzgelb</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">79–100</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Variante in: Berliner Tageblatt, 45 (1916) #479,
+         <note type="first-printing">Variante in: Berliner Tageblatt, 45 (1916) #479,
                   Abend–Ausgabe, 2–3. (18.9.1916) Dasselbe in: Belgrader Nachrichten, 2 (1916) #242,
                   1–2. (14.10.1916) Die neue Rundschau, 27 (1916) #1, 36–49</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Auszug als »Der österreichische Staatenstaat« in: Das
+         <note type="other-prints">Auszug als »Der österreichische Staatenstaat« in: Das
                   dreißigste Jahr. Berlin: S. Fischer 1916, 42-45. Bahr/Kvapil, 621-626</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Fox riet schon 1797, Irland irisch zu behandeln, nicht
+         <note type="incipit">Fox riet schon 1797, Irland irisch zu behandeln, nicht
                   englisch.</note>
       </body>
    </text>

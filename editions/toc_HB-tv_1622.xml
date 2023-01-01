@@ -35,17 +35,17 @@
             type="Journal-Article"
             subtype="Nicht_nachgewiesen"
             status="notLocated">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">[Konfiszierter Aufsatz]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <date when="1915-05-21">21.5.1915</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am 30. Mai schickt Bahr an Redlich einen Brief (Bahr/Redlich, Nr. 187, S. 117)
                      mit einem Aufsatz, den er für die Pfingstnummer des Neuen Wiener Journals
                      verfasst hat, der aber zur Gänze konfisziert wurde. Er schreibt: »Es wird Ihnen

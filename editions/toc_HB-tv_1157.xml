@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1157" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Buddha, der königliche Dichter. Karl Eugen Neumann zum
                      Gedächtnis</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">78</biblScope>
@@ -47,15 +47,15 @@
                <date when="1925-10-18">18.10.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als: »Karl Eugen Neumann. Der Übersetzer der
+         <note type="first-printing">Als: »Karl Eugen Neumann. Der Übersetzer der
                   Buddho–Reden« in: Das Unterhaltungsblatt der Vossischen Zeitung ? (1925 ?) #494
                   ?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Friedrich Schlegels, des so fruchtbaren Verschwenders,
+         <note type="incipit">Friedrich Schlegels, des so fruchtbaren Verschwenders,
                   ausschließende Schrift</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr würdigt den Übersetzer Karl Eugen Neumann für sein
+         <note type="summary">Bahr würdigt den Übersetzer Karl Eugen Neumann für sein
                   Lebenswerk, das er unter die großen Übersetzungen der deutschen Sprache
                   reiht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12668"/>
                <ptr type="pmb" target="#11461"/>

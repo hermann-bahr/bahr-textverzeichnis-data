@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2186" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Sterne</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb88666">Für unsere kleinen russischen Brüder!. Gaben
                      westeuropäischer Schriftsteller und Künstler für die notleidenden Kinder in den
                      Hungersnotdistrikten Rußlands</title>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">194–195</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Laut Vossischer Zeitung, 7.9.1922, AA, #424, erschien es zugleich in
                      französischer, englischer und spanischer Sprache. Nur die französische Ausgabe
                      lässt sich nachweisen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Französisch als »Pour nos petits frères russes!« Dons
+         <note type="translations">Französisch als »Pour nos petits frères russes!« Dons
                   d’écrivains et d’artistes de l’Europe occidentale pour les enfants mourant de faim
                   dans les districts russes ravagés par la famine.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man hat sich im Gebirge verirrt, kann den Weg nicht
+         <note type="incipit">Man hat sich im Gebirge verirrt, kann den Weg nicht
                   wiederfinden, es dunktel, Stum ächzt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1923_kleinen-russischen-brueder_sterne.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1923_kleinen-russischen-brueder_sterne.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">25. Januar. [I] [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">I, 42–44</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Annie Harrar: Die Feuerseelen. Phantastischer Roman. Mit 12
+         <note type="review-of">Annie Harrar: Die Feuerseelen. Phantastischer Roman. Mit 12
                   Originalzeichnungen von O. Delling. Berlin, Leipzig, Wien, Stuttgart: Richard Bong
                   1921. Annie Harrar: Rasse. Menschen von gestern und morgen . Mit 10 Abb. Leipzig:
                   Dürr und Weber 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die Feuerseelen«, ein phantastischer Roman von Annie Harrar
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">»Die Feuerseelen«, ein phantastischer Roman von Annie Harrar
                   (Deutsches Verlagshaus Bong &amp; Co., Berlin, Leipzig, Stuttgart). Ich will jede
                   Wette halten, daß dies das deutsche Buch des Jahres 1921 sein wird!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Schon am 21. Jänner 1921 hat Bahr die Entscheidung gefällt,
+         <note type="summary">Schon am 21. Jänner 1921 hat Bahr die Entscheidung gefällt,
                   welches das Buch des Jahres 1921 wird. Deswegen kann er sich auch in Folge
                   kleineren Themen zuwenden, wie zum Beispiel die Besteuerung von Rasse-Hunden in
                   Wien: »Soll, bei den Hunden, die gute Rasse vertilgt werden und nur Köter sollen

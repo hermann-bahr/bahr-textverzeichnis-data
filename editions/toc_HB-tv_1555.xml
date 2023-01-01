@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1555" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Wienerinnen. Lustspiel in drei Akten</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>203 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Thomasberger gibt eine falsche Seitenanzahl an und datiert auf [1910], obwohl
                      das Erscheinungsjahr mit dem Jahr des Copyrights, 1911, ident sein dürfte. So
                      auch das Deutsche Bücherverzeichnis, 1911–1914. Am 22. April 1900 steht in der
@@ -65,9 +65,9 @@
                      (»Wienerinnen« im »Neuen Schauspielhaus«). In: Die Zeit am Montag, 9 (1911)
                      #15. (10.4.1911)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Tschechisch: Karl Kratochvíl. Bühnenmanuskript Universum
+         <note type="translations">Tschechisch: Karl Kratochvíl. Bühnenmanuskript Universum
                   o.J. [Divadelní ústav, Prag]</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=72</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=72</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Krisis des Burgtheaters</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">138–147</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Worte, Wien, 9 (1889) #2 (Februar), 87–94</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Das Hermann-Bahr-Buch, 184–189</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ah, nicht wahr? Jetzt reißt Ihnen die Geduld! Es ist auch wahr:
+         <note type="first-printing">Deutsche Worte, Wien, 9 (1889) #2 (Februar), 87–94</note>
+         <note type="other-prints">Das Hermann-Bahr-Buch, 184–189</note>
+         <note type="incipit">Ah, nicht wahr? Jetzt reißt Ihnen die Geduld! Es ist auch wahr:
                   da hört alle Gemütlichkeit auf und das übersteigt jedes erträgliche Maß der
                   Unverschämtheit, wenn einem einer von Paris her Vorlesungen über das Burgtheater
                   halten will. Allerdings: es sind nur fünf Minuten, die ich von Ihrer
                   Aufmerksamkeit erbitte. Aber trotzdem: »Was geht Sie überhaupt das Burgtheater
                   an, Sie – Franzose!« Ich höre die aufsteigende Eifersucht, mit der Sie das sagen.
                   Und es geschieht mir ganz recht: was habe ich mich auch selber verbannt?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Aus Paris macht Bahr Vorschläge zur Reformation des
+         <note type="summary">Aus Paris macht Bahr Vorschläge zur Reformation des
                   Burgtheaters: Modern soll es werden und so seine Stellung als erste Bühne im
                   deutschsprachigen Raum weiterhin behalten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2850"/>
                <ptr type="pmb" target="#28476"/>
@@ -84,7 +84,7 @@
                <ptr type="HB-tv" target="HB-tv_2631_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

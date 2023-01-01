@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Wiener</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -48,7 +48,7 @@
                <date when="1907-02-28">28.2.1907</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Hermann Bahr, der seinen langjährigen Wohnsitz an der
                      Donau jetzt mit Wien vertauscht hat, läßt in einigen Wochen in der von Leo
                      Greiner veranstalteten Sammlung »Landschaften und Städte« (bei Müller in
@@ -58,11 +58,11 @@
                      Luegers auf den Vorabdruck gibt das Neue Wiener Journal am 31. März wieder (Max
                      Foges: Gegen Hermann Bahr. In: Neues Wiener Journal, 15 (1907) #4827, 9.)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck als »Aus aller Welt. Hermann Bahr über Wien«
+         <note type="first-printing">Nachdruck als »Aus aller Welt. Hermann Bahr über Wien«
                   in: Neues Wiener Journal, 15 (1907) #4799, 7. (2.3.1907)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wien. Stuttgart 1907</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Alles drängt den Wiener von der Wirklichkeit ab.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1907_wiener.pdf</ref>
+         <note type="other-prints">Wien. Stuttgart 1907</note>
+         <note type="incipit">Alles drängt den Wiener von der Wirklichkeit ab.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1907_wiener.pdf</ref>
       </body>
    </text>
 </TEI>

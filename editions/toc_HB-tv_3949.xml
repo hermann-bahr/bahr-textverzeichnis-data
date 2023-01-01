@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Meine Berliner Zeit</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">52</biblScope>
@@ -48,16 +48,16 @@
                <date when="1923-06-19">19.6.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Zu Hermann Bahrs 60. Geburtstag wird bei S. Fischer,
                      Berlin, ein autobiographisches Werk des Dichters, »Selbtbildnis« betitelt,
                      erscheinen. Wir bringen hier einen Abschnitt aus der zweiten Berliner Zeit zu
                      Beginn der literarisch bewegten 90er Jahre.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Selbstbildnis, 22. Kapitel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es war ein anderes Berlin, als das ich vor drei Jahren verlassen
+         <note type="other-prints">Selbstbildnis, 22. Kapitel</note>
+         <note type="incipit">Es war ein anderes Berlin, als das ich vor drei Jahren verlassen
                   hatte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1923_berliner.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1923_berliner.pdf</ref>
       </body>
    </text>
 </TEI>

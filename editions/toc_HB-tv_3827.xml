@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Burgtheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -48,14 +48,14 @@
                <date when="1896-03-14">14.3.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Dass Bahr die Inszenierung lobt, verwundert nicht, bekennt er doch am
                      19.10.1895 seinem Vater, selbst daran beteiligt zu sein.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der G’wissenswurm« von Ludwig Anzengruber</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gut insceniert, glänzend dargestellt kann man jetzt im
+         <note type="review-of">»Der G’wissenswurm« von Ludwig Anzengruber</note>
+         <note type="incipit">Gut insceniert, glänzend dargestellt kann man jetzt im
                   Burgtheater den »G’wissenswurm« sehen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10772"/>
                <ptr type="pmb" target="#12061"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_1863_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/76-177.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/76-177.pdf</ref>
       </body>
    </text>
 </TEI>

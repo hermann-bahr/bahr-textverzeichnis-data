@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Dohodnutí Čechů s Němci</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Rozhledy narodohospodarske, sociální, politické a
                      literární</title>
             <imprint>
@@ -48,7 +48,7 @@
                <date when="1896">1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die deutsche Übersetzung von Kurt Ifkovits: »Ich als politischer Laie, kann auf
                      Ihre Anfrage nur sagen, daß ich die Einigung der Deutschen mit den Tschechen
                      für notwendig erachte, sie mir von Herzen Wünsche und mir von ihr eine neue
@@ -56,8 +56,8 @@
                      Schriftsteller, Redakteur des Wochenblattes ’Zeit’ in Wien.« (Bahr/Kvapil,
                      461).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bahr/Kvapil, 461</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jsa y politice laikem, mohu na Váš dotaz pouze řici, že pokládám
+         <note type="other-prints">Bahr/Kvapil, 461</note>
+         <note type="incipit">Jsa y politice laikem, mohu na Váš dotaz pouze řici, že pokládám
                   dohodnutí Němců s Čechy za nutné, že si ho od srdce přeji a že si od něho slibuji
                   novou kulturu, rakouskou kulturu budoucnosti. Hermann Bahr, spisovatel, redaktor
                   týdenníku »Zeit« ve Vídni. |</note>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Aufsatz"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Mahler als Direktor</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Musikblätter des Anbruch</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,11 +48,11 @@
                <date when="1920">1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Englisch in: Karen Painter (Hg.): Mahler and His World.
+         <note type="translations">Englisch in: Karen Painter (Hg.): Mahler and His World.
                   Princeton: Princeton University Press 2002</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die besten Meister, in ihren glücklichsten Augenblicken«, sagt
+         <note type="incipit">»Die besten Meister, in ihren glücklichsten Augenblicken«, sagt
                   Goethe, »nähern</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#12163"/>
@@ -67,7 +67,7 @@
                <ptr type="pmb" target="#3290"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/anbruch/mahler.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/anbruch/mahler.pdf</ref>
       </body>
    </text>
 </TEI>

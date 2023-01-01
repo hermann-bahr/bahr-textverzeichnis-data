@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Naturalismus und Naturalismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">50–56</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Gegenwart, 38 (1890) #37, 170–171</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vom Bühnennaturalismus nämlich will ich reden, nur von diesem.
+         <note type="first-printing">Die Gegenwart, 38 (1890) #37, 170–171</note>
+         <note type="incipit">Vom Bühnennaturalismus nämlich will ich reden, nur von diesem.
                   Der Buchnaturalismus, des Romans und der Novelle, gehört schon wieder der
                   Geschichte. Sein Kampf, sein Sieg, seine Überwindung liegen hinter uns: der
                   Geschmack und das Bedürfnis des Geistes sind über ihn schon wieder
                   hinaus.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11763"/>
                <ptr type="pmb" target="#12664"/>
@@ -74,7 +74,7 @@
                <ptr type="HB-tv" target="HB-tv_3432_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

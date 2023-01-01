@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb30085"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30085">Das Tänzchen. Lustspiel in drei Akten</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>155 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Den Bühnen und Vereinen gegenüber Manuskript. Copyright 1911 Ahn &amp;
                      Simrock, Berlin«.</p>
             <p>Rezensionen: Walter Kühn: Das Tänzchen. Residenztheater. In: Janus, 1 (1912)
@@ -62,14 +62,14 @@
                      Ausgabe für Berlin, Abend-Ausgabe, 3. (2.1.1924) M.J. [=Monty Jacobs] in:
                      Vossische Zeitung, 1924 #2, Morgen-Ausgabe, 3. (2.1.1924)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Russisch: Pljaska. Autorisierte Übersetzung von Vsev.
+         <note type="translations">Russisch: Pljaska. Autorisierte Übersetzung von Vsev.
                   Cesichin, 1912. Manuskript: Amerikanisch: The Little Dance. A comedy in three
                   acts. New York, Z. &amp; L. Rosenfield, 1911 [New York Public Library]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Von Zeitgenossen als Schlüsselstück der »Affaire
+         <note type="summary">Von Zeitgenossen als Schlüsselstück der »Affaire
                   Jagow/Cassirer/Durieux« (Bahr/Kvapil, 141) verstanden, handelt es von einem Moral
                   predigenden Rittergutsbesitzer, der eine Klavierlehrerin verführen möchte, deren
                   Ehemann darin eine Möglichkeit erkennt, den Gutsbesitzer bloßzustellen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=75</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=75</ref>
       </body>
    </text>
 </TEI>

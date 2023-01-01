@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Prinz Heinrich zu Schoenaich-Carolath</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">79–85</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7671,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7671,
                   Sonntags–Ausgabe, 2–3. (7.5.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Prinz war 18 Jahre, als die Deutschen nach Frankreich zogen;
+         <note type="incipit">Der Prinz war 18 Jahre, als die Deutschen nach Frankreich zogen;
                   da trat er, von der Liegnitzer Ritter-Akademie weg, in das Heer und diente den
                   ganzen Krieg bei den Fünfzehner-Husaren. Doch zog es später seinen sanften
                   grüblerischen Sinn zur Wissenschaft.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#12053"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_3891_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

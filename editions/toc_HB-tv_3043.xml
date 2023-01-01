@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. (Gastspiel im Raimundtheater) 2. am 26. April</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">133–135</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Louis XI« von Casimir Delavigne</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #113, 6.
+         <note type="review-of">»Louis XI« von Casimir Delavigne</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #113, 6.
                   (26.4.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   370-371</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit Jahren haben wir Ermete Novelli rühmen hören, den weitaus
+         <note type="incipit">Seit Jahren haben wir Ermete Novelli rühmen hören, den weitaus
                   größten Schauspieler Italiens nach den Versicherungen seiner Landsleute, weil er
                   alle Künste Zacconis besitze, dazu aber noch die Größe</note>
       </body>

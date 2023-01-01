@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Eine Gedenkfeier des Dominikanerordens</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,16 +49,16 @@
                <date when="1921-08-07">7.8.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die editorische Einleitung macht auf die Feierlichkeiten zum 700. Todestags von
                      Dominikus aufmerksam und darauf, dass Bahrs Text bereits bei anderem Anlass in
                      der Salzburger Kirchenzeitung erschien.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Geändert als »Zum Dominikanerfest« in: Katholische
+         <note type="first-printing">Geändert als »Zum Dominikanerfest« in: Katholische
                   Kirchenzeitung, Salzburg, 56 (1916) #51, 453–454. (21.12.1916)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Heiligen haben jeder einen besonderen Zug; jeder ist ein
+         <note type="incipit">Die Heiligen haben jeder einen besonderen Zug; jeder ist ein
                   besonderes Exemplar</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_dominik.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_dominik.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1901" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -45,11 +45,11 @@
                <date when="1902-04-24">24.4.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Romeo and Juliet (Romeo und Julia)« von William
+         <note type="review-of">»Romeo and Juliet (Romeo und Julia)« von William
                   Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man sollte eigentlich einen Schauspieler nie nach einer einzigen
+         <note type="incipit">Man sollte eigentlich einen Schauspieler nie nach einer einzigen
                   Rolle beurteilen wollen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#2748"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater, Kunst und Literatur. (Raimund-Theater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -48,13 +48,13 @@
                <date when="1893-12-03">3.12.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die 2. Premiere von Adam Müller-Guttenbrunn</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Graf von Hammerstein« von Adolf Wilbrandt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die erste Sorge einer neuen Bühne ist ihr Publicum. Sie muß ihre
+         <note type="review-of">»Der Graf von Hammerstein« von Adolf Wilbrandt</note>
+         <note type="incipit">Die erste Sorge einer neuen Bühne ist ihr Publicum. Sie muß ihre
                   Leute finden. Sie muß fragen, für wen sie spielen soll.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78808.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78808.pdf</ref>
       </body>
    </text>
 </TEI>

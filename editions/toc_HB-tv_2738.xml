@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Alphonse Daudet</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">123–129</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7740,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7740,
                   Sonntags–Ausgabe, 1–2. (16.7.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Daudet ist ein rechter Ahasver der Wohnung. Er wechselt ohne
+         <note type="incipit">Daudet ist ein rechter Ahasver der Wohnung. Er wechselt ohne
                   Rast. Jeder Roman ist in einem anderen Hause geschrieben, das er je nach der
                   letzten Stimmung wählt. So sind alle Winkel von Paris schon seine Herberge
                   gewesen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11134"/>
                <ptr type="pmb" target="#11500"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_2738_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

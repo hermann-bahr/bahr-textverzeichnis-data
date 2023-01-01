@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_535" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Tod Georgs</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -45,12 +45,12 @@
                <date when="1900-03-24">24.3.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Richard Beer-Hofmann: Der Tod Georgs. Berlin: S. Fischer
+         <note type="review-of">Richard Beer-Hofmann: Der Tod Georgs. Berlin: S. Fischer
                   1900.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bildung, 157–164 Wunberg: Das junge Wien, 00.2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein merkwürdigeres Buch habe ich noch nicht gelesen als den »Tod
+         <note type="other-prints">Bildung, 157–164 Wunberg: Das junge Wien, 00.2</note>
+         <note type="incipit">Ein merkwürdigeres Buch habe ich noch nicht gelesen als den »Tod
                   Georgs«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

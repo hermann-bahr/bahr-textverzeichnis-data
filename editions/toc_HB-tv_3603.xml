@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vom Gehen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">74–79</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 6 (1896) #69, 58–59. (25.1.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 28-33</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Arzt sagte mir: »Sie gehen zu wenig, da schläft Ihnen ja das
+         <note type="first-printing">Die Zeit, 6 (1896) #69, 58–59. (25.1.1896)</note>
+         <note type="other-prints">Renaissance, 28-33</note>
+         <note type="incipit">Der Arzt sagte mir: »Sie gehen zu wenig, da schläft Ihnen ja das
                   Blut ein</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="HB-tv" target="HB-tv_1500_p25"/>

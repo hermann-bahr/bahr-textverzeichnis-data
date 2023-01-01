@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4345" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Atlantis</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">59</biblScope>
@@ -45,13 +45,13 @@
                <date when="1926-08-11">11.8.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1926) #22231, Morgenblatt, 1–2.
+         <note type="first-printing">Neue Freie Presse, (1926) #22231, Morgenblatt, 1–2.
                   (5.8.1926) Hannoverscher Kurier, 79 (1927) #320, Abend–Ausgabe, 2. (12.7.1927)
                   Luginsland. Beilage der »Nürnberger Zeitung«, 4 (1927) #31, 1. (6.8.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 90-94</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Namen wirken zuweilen schon durch ihren bloßen Klang so
+         <note type="other-prints">Labyrinth der Gegenwart, 90-94</note>
+         <note type="incipit">Namen wirken zuweilen schon durch ihren bloßen Klang so
                   bezaubernd</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1926_atlantis.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1926_atlantis.pdf</ref>
       </body>
    </text>
 </TEI>

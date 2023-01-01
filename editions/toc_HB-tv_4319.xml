@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4319" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vom Festspiel – zur Festschrift</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Zehn Jahre Neues Theater zu Frankfurt a. M.</title>
             <editor>Schmitt, Heinrich</editor>
             <imprint>
@@ -46,7 +46,7 @@
                <biblScope unit="pages">16</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eben von dem dem Salzburgerfestspielgetümmel in die Berge
+         <note type="incipit">Eben von dem dem Salzburgerfestspielgetümmel in die Berge
                   verschwindend, kann ich Ihnen nur in aller Eile das herzlichste Glückauf für das
                   nächste Jahrzehnt zurufen, auf das Sie dereinst mit ebensoviel Befriedigung
                   zurückblicken mögen, als Sie jetzt gerechten Grund haben, der Zukunft mit

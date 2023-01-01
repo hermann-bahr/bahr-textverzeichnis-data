@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. (Burgtheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -48,12 +48,12 @@
                <date when="1893-04-19">19.4.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Journalisten« von Gustav Freytag</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den »Journalisten« debutirte heute Herr Nissen vom Berliner
+         <note type="review-of">»Die Journalisten« von Gustav Freytag</note>
+         <note type="incipit">In den »Journalisten« debutirte heute Herr Nissen vom Berliner
                   Deutschen Theater, den Wienern aus der Theater-Ausstellung her erinnerlich, wo er
                   in dem Wolzogen’schen Stücke damals neben Engels und der Lehmann sehr gefallen
                   hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76535.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76535.pdf</ref>
       </body>
    </text>
 </TEI>

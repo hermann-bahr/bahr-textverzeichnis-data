@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 26. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,11 +48,11 @@
                <date when="1930-04-06">6.4.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Fastenprediger haben eine seltsame Vorliebe für Pontius
+         <note type="incipit">Fastenprediger haben eine seltsame Vorliebe für Pontius
                   Pilatus</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Versuch, Verständnis für Pontius Pilatus
+         <note type="summary">Der Versuch, Verständnis für Pontius Pilatus
                   aufzubringen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_6697_p1"/>
                <ptr type="HB-tv" target="HB-tv_6697_p2"/>
@@ -60,7 +60,7 @@
                <ptr type="HB-tv" target="HB-tv_6697_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

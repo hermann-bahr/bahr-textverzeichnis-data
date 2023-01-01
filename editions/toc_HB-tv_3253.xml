@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Verliebt. (Komödie in drei Akten von Georges de Porto-Riche.
                      Deutsch von Theodor Wolff. Zum ersten Mal aufgeführt im Deutschen Volkstheater
                      am 10. Oktober 1903)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -53,9 +53,9 @@
                <biblScope unit="pages">162–167</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #279, 2–3.
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #279, 2–3.
                   (11.10.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Amoureuse«, die wir übrigens ja schon von der Réjane im
+         <note type="incipit">»Amoureuse«, die wir übrigens ja schon von der Réjane im
                   Ausstellungstheater gesehen haben, ist nun zwölf Jahre alt.</note>
       </body>
    </text>

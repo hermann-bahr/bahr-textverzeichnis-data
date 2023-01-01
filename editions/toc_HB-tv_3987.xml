@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3987" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Österreichische Musik</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Vossische Zeitung</title>
             <imprint>
                <biblScope unit="issue">335, Morgen-Ausgabe</biblScope>
@@ -44,10 +44,10 @@
                <date when="1920-07-07">7.7.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Summula, 178–184</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was einer ist, erfährt er zeitlebens selber so wenig, als es von
+         <note type="other-prints">Summula, 178–184</note>
+         <note type="incipit">Was einer ist, erfährt er zeitlebens selber so wenig, als es von
                   der Mitwelt bemerkt wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1920_oesterr_musik.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1920_oesterr_musik.pdf</ref>
       </body>
    </text>
 </TEI>

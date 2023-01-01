@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">28. Juli [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">244</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lagarde: »Religion ist nicht Vorstellung von</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bringt ein Zitat Lagardes, worin dieser als Protestant den
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Lagarde: »Religion ist nicht Vorstellung von</note>
+         <note type="summary">Bahr bringt ein Zitat Lagardes, worin dieser als Protestant den
                   Katholizismus begriffen habe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3641"/>
             </listRef>

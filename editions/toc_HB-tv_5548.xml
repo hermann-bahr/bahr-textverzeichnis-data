@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">30. Juni [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">169–170</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Josef Popper: Auseinandersetzung mit dem Sozialismus und den
+         <note type="review-of">Josef Popper: Auseinandersetzung mit dem Sozialismus und den
                   Sozialisten. Wien: Verein Allgemeine Nährpflicht 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Separatdruck aus der Zeitschrift »Das Ziel« ist Josef
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Als Separatdruck aus der Zeitschrift »Das Ziel« ist Josef
                   Poppers »Auseinandersetzung mit dem Sozialismus und den Sozialisten« (Verlag
                   Verein Allgemeine Nährpflicht, Wien, XVII., Sautergasse 56) erschienen. In seiner
                   stillen, hellen, festen Art legt da der ehrwürdige Denker den »Vorzug« dar, den er
@@ -93,7 +93,7 @@
                   Arbeiter, träumten wir, kämpfe nicht für seine Klasse, sondern um aller Klassen
                   Ende. Von wem aber sollen wir es uns hinfort jetzt erträumen? Und ganz traumlos
                   geworden, ist die Politik doch unerträglich. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist unglücklich mit der regierenden Sozialdemokratie. In
+         <note type="summary">Bahr ist unglücklich mit der regierenden Sozialdemokratie. In
                   der Jugend erhofften sie von der Arbeiterklasse das Ende aller Klassen.</note>
       </body>
    </text>

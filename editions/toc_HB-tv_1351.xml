@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb30175"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30175">Russische Reise</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>185 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Widmung S. 1: »Dem kleinen Fräulein. Wien, Juni 1891.« (Gemeint ist die
                      mitreisende Schauspielerin Lotte Witt). In Deutschland wurden fünf Seiten aus
                      der russischen Reise verboten, doch waren zu dem Zeitpunkt bereits 1165
@@ -59,9 +59,9 @@
                      eine russische Reise«, Neues Wiener Tagblatt, 28.4.1892. M. H. [=Marie
                      Herzfeld]: Russische Reise. Wiener Literatur-Zeitung, 3 (1892) #3, 20.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Einleitung als »Vorsatz« in: Moderne Rundschau, 3
+         <note type="first-printing">Die Einleitung als »Vorsatz« in: Moderne Rundschau, 3
                   (1891) #5/6, 178–180. (15.6.1891)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Im Tross einer Berliner Theatergruppe reist Hermann Bahr im
+         <note type="summary">Im Tross einer Berliner Theatergruppe reist Hermann Bahr im
                   Frühling 1891 nach St. Petersburg. Der als »Russische Reise« noch im selben Jahr
                   veröffentlichte Bericht beschränkt sich jedoch nicht auf eine Beschreibung der
                   Aufführungen des deutschen Ensembles. Vielmehr macht sich Bahr auf die Jagd nach
@@ -73,7 +73,7 @@
                   nicht aus dem Baedeker gezogen werden kann. Durch das ganze Werk ziehen sich
                   Gespräche mit dem kleinen Fräulein, die ihm Nahe steht, ihn aber nicht zur Liebe
                   reizen kann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#27259"/>
                <ptr type="pmb" target="#2412"/>
@@ -199,10 +199,10 @@
                <ptr type="HB-tv" target="HB-tv_2676_p15"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-russische.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20russische</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=43</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:bvb:355-ubr07392-9</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-russische.pdf</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20russische</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=43</ref>
+         <ref type="URL">http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:bvb:355-ubr07392-9</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zu Unamunos Roman »Nebel«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die literarische Welt. Unabhängiges Organ für das deutsche
                      Schrifttum</title>
             <imprint>
@@ -49,15 +49,15 @@
                <date when="1926-12-17">17.12.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Sektionstitel: »Buch-Chronik des Weihnachtsmarktes (2.)«. Am Ende des Texts:
                      »Der Roman erscheint demnächst im Verlag Meyer &amp; Jessen, München.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Miguel de Unamuno: Nebel. München: Meyer &amp; Jessen
+         <note type="review-of">Miguel de Unamuno: Nebel. München: Meyer &amp; Jessen
                   [1926].</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Einkehr. Unterhaltungs–Beilage der »Münchner Neuesten
+         <note type="first-printing">Die Einkehr. Unterhaltungs–Beilage der »Münchner Neuesten
                   Nachrichten«, 8 (1927) #66, 264. (14.9.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als richtiger Spanier ist Unamuno geborerener Quijotist</note>
+         <note type="incipit">Als richtiger Spanier ist Unamuno geborerener Quijotist</note>
       </body>
    </text>
 </TEI>

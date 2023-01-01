@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. Mai [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">I, 153–159</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist zweiundzwanzig Jahre her, daß ich, die von mir begründete
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Es ist zweiundzwanzig Jahre her, daß ich, die von mir begründete
                   Wochenschrift »Die Zeit« verlassend</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über sein Verhältnis zu Max Kalbeck und Gespräche mit diesem
+         <note type="summary">Über sein Verhältnis zu Max Kalbeck und Gespräche mit diesem
                   über Horaz.</note>
       </body>
    </text>

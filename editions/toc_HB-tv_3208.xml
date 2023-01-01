@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Elektra. (Tragödie in einem Aufzuge, frei nach Sophokles, von
                      Hugo von Hofmannsthal. Zum ersten Mal aufgeführt von der Truppe des Berliner
                      Kleinen Theaters im Theater an der Wien am 13. Mai 1905)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -53,11 +53,11 @@
                <biblScope unit="pages">269–277</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 39 (1905) #132, 11.
+         <note type="first-printing">Neues Wiener Tagblatt, 39 (1905) #132, 11.
                   (14.5.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Das Hermann-Bahr-Buch, 208-213 H. B.: Kritiken. Hg.
+         <note type="other-prints">Das Hermann-Bahr-Buch, 208-213 H. B.: Kritiken. Hg.
                   Kindermann. Wien: Bauer 1963, 238-242</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im zweiten Saale des Athenischen Museums sind die mykenischen
+         <note type="incipit">Im zweiten Saale des Athenischen Museums sind die mykenischen
                   Funde. Waffen, Geräte, Schmuck.</note>
       </body>
    </text>

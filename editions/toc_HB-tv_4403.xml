@@ -36,11 +36,11 @@
             subtype="Tagebuch"
             sameAs="pmb30089"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30089">Tagebuch. 12. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb30089">Morgen. Wochenschrift für deutsche Kultur</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -49,8 +49,8 @@
                <date when="1908-11-06">6.11.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 209</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lustig, im Garten zu liegen, die Rosen und den Wind und die
+         <note type="other-prints">Tagebuch (1909), 209</note>
+         <note type="incipit">Lustig, im Garten zu liegen, die Rosen und den Wind und die
                   Sonne zu spüren, während die Pappel sich biegt und die Linde blüht, und zu denken,
                   daß einstweilen dort unten, weit, dort im Dunst, der Adel jetzt über den Ring
                   schwitzt, mit Vergangenheit kostümiert. |</note>

@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Woran arbeiten Sie?. Die Rundfrage des »Neuen Wiener Journals«
                      bei Schriftstellern und Musikern</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -50,7 +50,7 @@
                <date when="1922-12-31">31.12.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Weitere Antworten: Raoul Auernheimer, Julius Bittner, Paul Busson, Franz
                      Theodor Csokor, Paul Eger, Alexander Engel, Edmund Eysler, Ludwig Fulda,
                      Leopold Jacobson, Wilhelm Kienzl, Erich Wolfgang Korngold, Rolf Lauckner,
@@ -58,11 +58,11 @@
                      Roda, Karl Schönherr, Franz Schreker, Sil-Vara, A. M. Willner. Am Ende: »wird
                      fortgesetzt«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich arbeite an meinen Erinnerungen, die zu Ostern als
+         <note type="incipit">Ich arbeite an meinen Erinnerungen, die zu Ostern als
                   »Selbstbildnis« bei S. Fischer erscheinen sollen, und an einer Schrift über die
                   »Form«, einer Fortsetzung meiner »Summula« und der eben im Inselverlag
                   erschienenen »Sendung des Künstlers«. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1922_woran.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1922_woran.pdf</ref>
       </body>
    </text>
 </TEI>

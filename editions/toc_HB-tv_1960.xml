@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1960" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Bakchen. Tragödie des Euripides. Deutsch von Hans v. Arnim.
                      Wien, Alfred Hölder</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -47,12 +47,12 @@
                <date when="1904-06-23">23.6.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hans v. Arnim, Professor an unserer Universität, legt eine neue
+         <note type="incipit">Hans v. Arnim, Professor an unserer Universität, legt eine neue
                   Übersetzung der Bakchen vor.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die neue Übersetzung der »Bakchen« rezensiert Bahr, indem er
+         <note type="summary">Die neue Übersetzung der »Bakchen« rezensiert Bahr, indem er
                   zuerst auf die Erklärungsmodelle zur Autorenabsicht eingeht, sie verwirft und vom
                   Stück als ein »Drama vom Künstler« spricht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4107"/>
                <ptr type="pmb" target="#3430"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_2387_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3673" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Bettelheims Balzac</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">59</biblScope>
@@ -45,11 +45,11 @@
                <date when="1926-02-12">12.2.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1926) #22054, Morgenblatt, 1–3.
+         <note type="first-printing">Neue Freie Presse, (1926) #22054, Morgenblatt, 1–3.
                   (6.2.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Anton Bettelheims, dem wir das unvergeßliche Buch über
+         <note type="incipit">Anton Bettelheims, dem wir das unvergeßliche Buch über
                   Beaumarchais danken</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1926_balzac.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1926_balzac.pdf</ref>
       </body>
    </text>
 </TEI>

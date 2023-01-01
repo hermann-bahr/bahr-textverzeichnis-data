@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 14. Februar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,12 +48,12 @@
                <date when="1919-02-23">23.2.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 67-70</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">An Oskar A. H. Schmitz: »Erinnern Sie sich noch</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein (fiktiver?) Brief an O. A. Schmitz, sich mit dessen
+         <note type="other-prints">1919. Tagebuch, 67-70</note>
+         <note type="incipit">An Oskar A. H. Schmitz: »Erinnern Sie sich noch</note>
+         <note type="summary">Ein (fiktiver?) Brief an O. A. Schmitz, sich mit dessen
                   Begeisterung für Salomon Friedländers Theorien auseinandersetzend. Diese fänden
                   sich überall sonst auch, besonders aber in Walt Whitmans Schriften.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12685"/>
                <ptr type="pmb" target="#11461"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_3356_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

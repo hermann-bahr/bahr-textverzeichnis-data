@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_201" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der neue Stil. Ein Wiener Interview. III. Adele Sandrock. IV.
                      Fritz Krastel</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -47,11 +47,11 @@
                <date when="1892-10-19">19.10.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Studien zur Kritik der Moderne, 278-285</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein bunter, üppiger Salon, sehr decorativ gestellt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74741.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74742.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74743.pdf</ref>
+         <note type="other-prints">Studien zur Kritik der Moderne, 278-285</note>
+         <note type="incipit">Ein bunter, üppiger Salon, sehr decorativ gestellt</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74741.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74742.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74743.pdf</ref>
       </body>
    </text>
 </TEI>

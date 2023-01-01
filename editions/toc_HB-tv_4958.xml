@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Salzburg, 8. November [1917]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">203–210</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Rudolf Pannwitz: Die Krisis der europäischen Kultur. Nürnberg:
+         <note type="review-of">Rudolf Pannwitz: Die Krisis der europäischen Kultur. Nürnberg:
                   Hans Carl 1917.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 25 (1917) #8640, 4–5.
+         <note type="first-printing">Neues Wiener Journal, 25 (1917) #8640, 4–5.
                   (18.11.1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Merkwürdig, wie zuweilen ein Buch von selbst wirkt, ohne den
+         <note type="incipit">Merkwürdig, wie zuweilen ein Buch von selbst wirkt, ohne den
                   Apparat von Ankündigungen</note>
       </body>
    </text>

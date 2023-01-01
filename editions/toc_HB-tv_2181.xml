@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2181" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Kieselak</author>
             <title level="a">Freie Gedanken. [V]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Linzer Sonntagsblatt</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,12 +45,12 @@
                <date when="1882-10-29">29.10.1882</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir haben jüngst durch ziffermäßige Darthat den stetigen
+         <note type="incipit">Wir haben jüngst durch ziffermäßige Darthat den stetigen
                   Anwuchs</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr führt seine antisemitschen Ausfälle fort, sich in der Summe
+         <note type="summary">Bahr führt seine antisemitschen Ausfälle fort, sich in der Summe
                   der bisherigen zwei Artikel nunmehr einzig auf ein Argumentum ad auctoritatem
                   beschränkend.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#38345"/>
                <ptr type="pmb" target="#7134"/>

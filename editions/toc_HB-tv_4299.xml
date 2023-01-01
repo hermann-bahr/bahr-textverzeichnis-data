@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über die deutsch-böhmische Frage</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -48,19 +48,19 @@
                <date when="1909-06-06">6.6.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die editorische Einleitung verweist auf die Vorlage im »März«, wo Bahr im
                      fünften Artikel von »Österreichisches« auf die »deutschböhmische Frage«
                      eingeht. Die Redaktion vermutet, dass nicht alle Ansichten von den Lesern
                      geteilt werden, dass aber alle für den freisinnigen Block zur Unterstützung
                      Aehrenthals sein würden.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Österreichisches. 5« In: März, 3 (1909) #2,
+         <note type="first-printing">Als »Österreichisches. 5« In: März, 3 (1909) #2,
                   361–366.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Austriaca, 45-54.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der alte Wahn der österreichischen Deutschen, der sie so
+         <note type="other-prints">Austriaca, 45-54.</note>
+         <note type="incipit">Der alte Wahn der österreichischen Deutschen, der sie so
                   herabgebracht hat, ist, immer hinter Gespenstern herzurennen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-6-6_frage.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-6-6_frage.pdf</ref>
       </body>
    </text>
 </TEI>

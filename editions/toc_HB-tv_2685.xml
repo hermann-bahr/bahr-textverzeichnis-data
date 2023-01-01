@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Monsieur Betsy</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,18 +49,18 @@
                <biblScope unit="pages">185–188</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Freie Bühne für modernes Leben, 1 (1890) #9,
+         <note type="first-printing">Freie Bühne für modernes Leben, 1 (1890) #9,
                   265–266</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Monsieur Betsy, von den Zolaisten Oskar Méténier und Paul
+         <note type="incipit">Monsieur Betsy, von den Zolaisten Oskar Méténier und Paul
                   Alexis, aus der gleichnamigen Novelle des letzteren gezogen, in vier Akten, ist
                   nach der neuen Formel. Es will nicht durch mit Witz und Einbildung erfundene und
                   in gehorsamen Marionetten verleibte Handlung, die sich zu Spannungen verwickelt
                   und an Überraschungen löst, akrobatisch amüsieren; es will nicht durch
                   kriegerische und beherzte Thesen, die sich in zweibeinigen Beweisen gebärdenstark
                   verfechten, philosophisch instruieren.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das neue Stück von Oskar Méténier und Paul Alexis wird von Bahr
+         <note type="summary">Das neue Stück von Oskar Méténier und Paul Alexis wird von Bahr
                   als gelungenes Beispiel naturalistischen Theaters betrachtet.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5125"/>
                <ptr type="pmb" target="#11798"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_115_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

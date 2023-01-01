@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">hr</author>
             <title level="a">Bücher. »Der Kampf um die Persönlichkeit« von Carl
                      Küchenmeister</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -50,18 +50,18 @@
                <date when="1894-10-20">20.10.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Carl Küchenmeister: Der Kampf um die Persönlichkeit. Leipzig:
+         <note type="review-of">Carl Küchenmeister: Der Kampf um die Persönlichkeit. Leipzig:
                   Max Spohr 1894</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein geistreiches, nur ab und zu ein bischen
+         <note type="incipit">Ein geistreiches, nur ab und zu ein bischen
                   schrullenhaftes</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12358"/>
                <ptr type="pmb" target="#11581"/>
                <ptr type="HB-tv" target="HB-tv_3843_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/3-45.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/3-45.pdf</ref>
       </body>
    </text>
 </TEI>

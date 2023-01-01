@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Fechten</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bildung</title>
             <imprint>
                <pubPlace>Berlin und Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">53–59</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Barbasetti« in: Neues Wiener Tagblatt, 34 (1900)
+         <note type="first-printing">Als »Barbasetti« in: Neues Wiener Tagblatt, 34 (1900)
                   #19, 1–2. (21.1.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Essays (1912), 192–197</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit ein paar Jahren ist bei uns das Fechten in die Mode
+         <note type="other-prints">Essays (1912), 192–197</note>
+         <note type="incipit">Seit ein paar Jahren ist bei uns das Fechten in die Mode
                   gekommen. Es fängt an, zu den Dingen zu gehören, die man von einem gebildeten
                   Manne verlangt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Insofern Bahrs Bildungsbegriff weit gefasst ist (Vgl.
+         <note type="summary">Insofern Bahrs Bildungsbegriff weit gefasst ist (Vgl.
                   Volksbildung), fällt auch der Sport im Allgemeinen und das Fechten im Besonderen
                   darunter. In der neuen Art Luigi Barbasettis bietet es sogar ein besonders gutes
                   Beispiel für das Ineinandergreifen der verschiedenen Fähigkeiten, die ein
                   »gebildeter Mann« vorweisen muss, ficht doch dieser Meister wie er debattiert, und
                   debattiert er doch - sokratisch, wie Bahr meint - wie er ficht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2142"/>
                <ptr type="pmb" target="#3787"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_3431_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
       </body>
    </text>
 </TEI>

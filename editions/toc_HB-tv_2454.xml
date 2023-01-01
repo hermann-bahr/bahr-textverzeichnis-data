@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2454" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Maximilian Harden]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Maximilian Harden. Zum 20. Oktober 1921. 1861–1921</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -45,9 +45,9 @@
                <biblScope unit="pages">5–6</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einunddreißig Jahre ist es her, daß ich Harden kennen lernte,
+         <note type="incipit">Einunddreißig Jahre ist es her, daß ich Harden kennen lernte,
                   aus Paris in das erwachende Berlin zurückkehrend</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_maximilian-harden.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_maximilian-harden.pdf</ref>
       </body>
    </text>
 </TEI>

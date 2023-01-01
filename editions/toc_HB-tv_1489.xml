@@ -36,7 +36,7 @@
             type="Book"
             sameAs="pmb32644"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#11851">Kainz, Josef</author>
             <title level="m" ref="pmb32644">Briefe von Josef Kainz. Mit einem Vorwort des
                      Herausgebers Hermann Bahr</title>
@@ -46,9 +46,9 @@
                <date when="1921">1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Anekdote daraus: Vossische Zeitung, 1921 #478,
+         <note type="first-printing">Anekdote daraus: Vossische Zeitung, 1921 #478,
                   Morgen–Ausgabe, 2–3 (11.10.1921)</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://archive.org/details/briefevonjosefka00kainuoft</ref>
+         <ref type="URL">http://archive.org/details/briefevonjosefka00kainuoft</ref>
       </body>
    </text>
 </TEI>

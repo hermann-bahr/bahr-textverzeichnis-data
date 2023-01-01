@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 6. August</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -48,10 +48,10 @@
                <date when="1929-08-11">11.8.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Siebzehnjährig, aber zunächst auf den ersten Blick noch jünger
+         <note type="incipit">Siebzehnjährig, aber zunächst auf den ersten Blick noch jünger
                   wirkend</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Erinnerung an Hugo von Hofmannsthal.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Erinnerung an Hugo von Hofmannsthal.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

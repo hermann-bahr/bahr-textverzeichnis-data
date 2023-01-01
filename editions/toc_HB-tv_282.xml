@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_282" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das junge Österreich. III</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -45,18 +45,18 @@
                <date when="1893-10-07">7.10.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr schreibt an seinen Vater (9.10.1893): »Mein Feuilleton vom Samstag, über
                      mich, war der stärkste journalistische Treffer […] Alle Welt ist davon
                      skandalisiert und die Kollegen platzen vor Neid.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Studien zur Kritik der Moderne, 87-96 Wunberg: Das junge
+         <note type="other-prints">Studien zur Kritik der Moderne, 87-96 Wunberg: Das junge
                   Wien, 93.2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hinter Torresani, Schnitzler und Loris, die doch schon ihre
+         <note type="incipit">Hinter Torresani, Schnitzler und Loris, die doch schon ihre
                   Gemeinden haben</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78231.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78232.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78233.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78231.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78232.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78233.pdf</ref>
       </body>
    </text>
 </TEI>

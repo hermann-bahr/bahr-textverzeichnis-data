@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_959" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Franziskus</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,16 +45,16 @@
                <date when="1926-09-19">19.9.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im Nachlass findet sich ein Korrekturbogen, gestempelt: 25. August 1926. Ein
                      verwandter Text zu »Literatur über Franziskus von Assisi« (Das deutsche Buch, 6
                      (1926) #9/10 (September/Oktober), 281-286) wenngleich jener stärker die
                      Aufzählung von Büchern betont, dieser hier aber die Konstruktion des Bildes
                      Franz’ herausstreicht.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ab allgemeiner »Beliebtheit«, wenn das banale Wort verstattet
+         <note type="incipit">Ab allgemeiner »Beliebtheit«, wenn das banale Wort verstattet
                   wird, erreicht den Franziskus kein anderer Heiliger</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#15229"/>
                <ptr type="pmb" target="#7649"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">12. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">183–189</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Oskar A. H. Schmitz: Das rätselhafte Deutschland. München:
+         <note type="review-of">Oskar A. H. Schmitz: Das rätselhafte Deutschland. München:
                   Georg Müller 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Das rätselhafte Deutschland« von Oskar A. H. Schmitz (Georg)
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Das rätselhafte Deutschland« von Oskar A. H. Schmitz (Georg)
                   Müller, Verlag München, 1920). Schmitz, den geborenen Weltfahrer, den höchst
                   Geselligen, hat ein Witz seines Schicksals jetzt schon fast auf mich reduziert
                   und, statt wie sonst, als uns Europa noch einließ, bald mit einem Oxfordman durch
@@ -209,7 +209,7 @@
                   wogegen ja, schon weil es nur zu beraten, nichts aber zu bestimmen hätte, niemand
                   etwas einwenden, wofür aber eben darum auch niemand sich ereifern wird, und des
                   Redens hätten wir jetzt doch eigentlich auch schon genug. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über den Werdegang Schmitz’ und die Freundschaft zu Bahr.</note>
+         <note type="summary">Über den Werdegang Schmitz’ und die Freundschaft zu Bahr.</note>
       </body>
    </text>
 </TEI>

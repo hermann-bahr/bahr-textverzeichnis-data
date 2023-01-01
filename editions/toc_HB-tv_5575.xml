@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. September [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">216–218</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im »Hochland« ein vortrefflicher Aufsatz Josef Schnippenkötters
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Im »Hochland« ein vortrefflicher Aufsatz Josef Schnippenkötters
                   über die Bedeutung von Einsteins Relativitätstheorie. Klar, übersichtlich, auch
                   Laien zugänglich, ein Muster ruhig in leichten Serpentinen ansteigender
                   Darstellung, das Beste, was ich noch über den wutumheulten Einstein las. Das ganz
@@ -123,7 +123,7 @@
                   ist oder noch erdacht werden wird, ebenso zu christianisieren. Es gibt ja
                   vielleicht gar keinen Irrtum, auf dessen Grund nicht die christliche Wahrheit
                   verborgen liegt. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr findet begeisterte Worte für Albert Einsteins
+         <note type="summary">Bahr findet begeisterte Worte für Albert Einsteins
                   Relativitätstheorie. Denn wenn auch manche Wahrnehmungen den Sinnen widerspreche,
                   letztlich löse sich alles in Gott und Gefälligkeit auf.</note>
       </body>

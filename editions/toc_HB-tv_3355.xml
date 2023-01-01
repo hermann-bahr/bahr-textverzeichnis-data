@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Französische Romane. 2</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">156–167</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La Robe Prètexte« von François Mauriac</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Französische Romane. [I]. Hochland, 15 (1918) #Februar,
+         <note type="review-of">»La Robe Prètexte« von François Mauriac</note>
+         <note type="first-printing">Französische Romane. [I]. Hochland, 15 (1918) #Februar,
                   580–588</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mauriacs »Robe Prètexte« lesend, sieht man unwillkürlich</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Mauriacs »Robe Prétexte« scheint Bahr aus dem 18. Jahrhundert zu
+         <note type="incipit">Mauriacs »Robe Prètexte« lesend, sieht man unwillkürlich</note>
+         <note type="summary">Mauriacs »Robe Prétexte« scheint Bahr aus dem 18. Jahrhundert zu
                   kommen: er ist begeistert von der »gelassene Schönheit« des Texts und fühlt sich
                   an Franz von Sales erinnert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#17333"/>
                <ptr type="pmb" target="#10825"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_4860_p11"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

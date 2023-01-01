@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Jubelausstellung im Wiener Künstlerhause. 3. Berühmte
                      Namen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -50,8 +50,8 @@
                <biblScope unit="pages">110–113</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Wochenschrift, 6 (1888) #14, 2–3</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist oben dargelegt worden, daß die Auszeichnung dieser
+         <note type="first-printing">Deutsche Wochenschrift, 6 (1888) #14, 2–3</note>
+         <note type="incipit">Es ist oben dargelegt worden, daß die Auszeichnung dieser
                   Ausstellung in der Größe der Kleinen besteht. Zum Ausgleich sind dafür die Großen
                   desto kleiner. Nicht blos daß das effektsichere Talent Munkacsys nur durch das
                   herzlich mittelmäßige und gewöhnliche Porträt Liszts repräsentirt wird. Nicht
@@ -76,10 +76,10 @@
                   Historienmalerei giebt diese Ausstellung kein Beispiel. Am schlimmsten aber hat
                   sie wohl an Siemiradzki gehandelt: eine solche Banalität hätte diesem vorher
                   keiner zugetraut.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht in der Ausstellung die weniger bekannten Künstler
+         <note type="summary">Bahr sieht in der Ausstellung die weniger bekannten Künstler
                   weit stärker repräsentiert als die großen Namen; diese seien oft nur mit wenigen
                   und mäßigen Werken vertreten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8679"/>
                <ptr type="pmb" target="#12283"/>
@@ -130,7 +130,7 @@
                <ptr type="HB-tv" target="HB-tv_208_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

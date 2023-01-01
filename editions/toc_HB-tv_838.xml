@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_838" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Über die Brücke«. (Komödie in vier Aufzügen von Karl Schönherr.
                      Zum erstenmal aufgeführt im Burgtheater am 27. November 1909)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -47,8 +47,8 @@
                <date when="1909-11-28">28.11.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf einem Floß für 1842 der Tiroler Student Adolf Pichler</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-11-28_bruecke.pdf</ref>
+         <note type="incipit">Auf einem Floß für 1842 der Tiroler Student Adolf Pichler</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-11-28_bruecke.pdf</ref>
       </body>
    </text>
 </TEI>

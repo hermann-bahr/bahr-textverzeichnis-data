@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung_Unsichere_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">–hr</author>
             <title level="a">In der Hölle. (Eine Burleske)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -48,7 +48,7 @@
                <date when="1892-10-02">2.10.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Zuschreibung, die Aufgrund der im Nachlass aufbewahrten Kiste »Artikel mit
                      Pseudonym« erfolgt, ist anzumerken, dass dies der einzige Fall im Nachlass ist,
                      dass »-hr« für Bahr steht, hingegen »hr« taucht öfter auf. Das zweite Mal, dass
@@ -62,12 +62,12 @@
                      dass es keine Identität der Verfasser gibt und dass »In der Hölle«
                      versehentlich im Nachlass landete.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Mörder Szemeredy pocht an das Thor der Hölle.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die »Burleske« handelt davon, dass der laut Zeugenaussagen
+         <note type="incipit">Der Mörder Szemeredy pocht an das Thor der Hölle.</note>
+         <note type="summary">Die »Burleske« handelt davon, dass der laut Zeugenaussagen
                   überführte Mörder und Räuber Szemeredy, der vor einer Verurteilung Selbsttötung
                   beging, in der Hölle zum Star wird, weil ihm alle nur erdenklichen Verbrechen
                   zugeschrieben werden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11201"/>
                <ptr type="pmb" target="#16501"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_1442_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74573.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74573.pdf</ref>
       </body>
    </text>
 </TEI>

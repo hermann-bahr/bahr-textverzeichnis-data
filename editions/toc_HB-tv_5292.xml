@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">9. Juli [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">228–229</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Aber, Moissi, was fällt Ihnen ein, wie kann man
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Aber, Moissi, was fällt Ihnen ein, wie kann man
                   Verleumdern</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr spricht Moissi zu, die Kritiker nicht zu ernst zu nehmen,
+         <note type="summary">Bahr spricht Moissi zu, die Kritiker nicht zu ernst zu nehmen,
                   die ihm politisches Auftreten verwehren wollen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12274"/>
                <ptr type="pmb" target="#10457"/>

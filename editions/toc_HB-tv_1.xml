@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Zweifelhafte_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Herman</author>
             <title level="a">Miscellen. (Gedanken vor einer Ruine)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Wochenschrift</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,7 +48,7 @@
                <date when="1884-03-22">22.3.1884</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die kleine literarische Vignette beschreibt sehr poetisch den Abriss des
                      ehemaligen Wohnhauses des Volksvertreter am Schottenring. Hermann [sic!]
                      Nimmervoll vermutet in seiner Hausarbeit (S. 16), dass es sich bei dem »Herman«
@@ -60,7 +60,7 @@
                      sie sich doch an wie starr gefaltete Hände, die kummervoll zum Himmel sich
                      recken … um zu beten …«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hei, wie sich der warme Frühlingswind um die kahlen Mauern
+         <note type="incipit">Hei, wie sich der warme Frühlingswind um die kahlen Mauern
                   tummelt</note>
       </body>
    </text>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_951" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erziehung…</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">85</biblScope>
@@ -45,13 +45,13 @@
                <date when="1932-01-23">23.1.1932</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Erzieher sind uneins, ob man ihren Zöglingen den Unterricht
+         <note type="incipit">Erzieher sind uneins, ob man ihren Zöglingen den Unterricht
                   möglichst erleichtern oder möglichst erschweren soll.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr wiederholt, was er schon vor zwei Jahren in der gleichen
+         <note type="summary">Bahr wiederholt, was er schon vor zwei Jahren in der gleichen
                   Zeitung (»Warnung«, 12.2.1930) untergebracht hatte: Die gegenwärtige Tendenz,
                   spielerisch zu lernen, läuft dem Leben zuwieder, da zählt Schweiß und
                   Härte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
             </listRef>

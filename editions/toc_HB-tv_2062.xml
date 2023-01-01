@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Aus der Werkstätte des Dramatikers. Bekenntnisse und
                      Selbstbetrachtungen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">7</biblScope>
@@ -50,14 +50,14 @@
                <date when="1899-04-02">2.4.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Weitere Antworten von Antonie Baumberg, Carl Karlweis, Martin Greif und Georg
                      Hirschfeld.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seitdem ich schreiben kann, schreibe ich Theaterstücke.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr gibt einen guten Einblick in die Entstehung seiner
+         <note type="incipit">Seitdem ich schreiben kann, schreibe ich Theaterstücke.</note>
+         <note type="summary">Bahr gibt einen guten Einblick in die Entstehung seiner
                   bisherigen Theaterstücke und seiner dichterischen Praxis als Bühnenautor.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12624"/>
                <ptr type="pmb" target="#27667"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_2402_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=18990402&amp;seite=3&amp;zoom=33</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=18990402&amp;seite=3&amp;zoom=33</ref>
       </body>
    </text>
 </TEI>

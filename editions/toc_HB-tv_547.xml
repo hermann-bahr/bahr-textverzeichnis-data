@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_547" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Secessionsbühne. Zum Gastspiel der Berliner Secessionsbühne im
                      Josephstädter Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -47,13 +47,13 @@
                <date when="1900-07-13">13.7.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Name ist abscheulich, aber schließlich soll er ja wohl nur
+         <note type="incipit">Der Name ist abscheulich, aber schließlich soll er ja wohl nur
                   ausdrücken</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Aus Anlass des Gastspiels der Berliner Secessionsbühne
+         <note type="summary">Aus Anlass des Gastspiels der Berliner Secessionsbühne
                   unternimmt Bahr die Skizze dessen, warum das Theater seit den Griechen
                   unkünstlerisch geworden ist und empfiehlt, dahin zu streben, dass es in Folge
                   wieder zum gesellschaftlichen Fest werde.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2211"/>
                <ptr type="pmb" target="#11201"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_547_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

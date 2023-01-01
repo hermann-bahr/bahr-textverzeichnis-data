@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Bücher. M. E. delle Grazie: »Robespierre.« Ein modernes Epos.
                      Leipzig, Breitkopf und Härtel</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -50,17 +50,17 @@
                <date when="1895-04-06">6.4.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">M. E. delle Grazie: Robespierre. Ein modernes Epos. Leipzig:
+         <note type="review-of">M. E. delle Grazie: Robespierre. Ein modernes Epos. Leipzig:
                   Breitkopf und Härtel 1894</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sonst unbescholtene und nette Leute, die nur gar nichts vom
+         <note type="incipit">Sonst unbescholtene und nette Leute, die nur gar nichts vom
                   Künstler haben, drängt es oft plötzlich, die Geberden der Dichter zu äffen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4064"/>
                <ptr type="HB-tv" target="HB-tv_881_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/27_14-15.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/27_14-15.pdf</ref>
       </body>
    </text>
 </TEI>

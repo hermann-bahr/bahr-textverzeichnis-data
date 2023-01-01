@@ -35,10 +35,10 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das Bischen Brot</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Gleichheit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -47,8 +47,8 @@
                <date when="1887-08-06">6.8.1887</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Fin de Siècle, 29-39</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Madame gähnte.</note>
+         <note type="other-prints">Fin de Siècle, 29-39</note>
+         <note type="incipit">Madame gähnte.</note>
       </body>
    </text>
 </TEI>

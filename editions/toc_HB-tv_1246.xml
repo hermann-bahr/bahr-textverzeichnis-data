@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1246" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Selbstkritik Frankreichs</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hochland</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -45,11 +45,11 @@
                <date when="1925">1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Lucien Romier: Explication de notre temps. Paris: Grasset
+         <note type="review-of">Lucien Romier: Explication de notre temps. Paris: Grasset
                   1925.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Franzose, der europäisch denkt, der einsieht, daß es keinen
+         <note type="incipit">Ein Franzose, der europäisch denkt, der einsieht, daß es keinen
                   Frieden gibt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1925_selbstkritik.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1925_selbstkritik.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1724" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Aus Hermann Bahrs gesammelten Urtheilen. Hg. Karl Kraus</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Fackel</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,11 +45,11 @@
                <date when="1901-11-16">16.11.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sturm und Drang: »Frau Schratt sollte man aufmerksam machen,
+         <note type="incipit">Sturm und Drang: »Frau Schratt sollte man aufmerksam machen,
                   dass sie das nicht nöthig hat, woran sie neuestens besondern Gefallen zu finden
                   scheint, durch solche UNgunst der Haartracht ihre Ohren noch geflissentlich zu
                   vergrößern</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-fackel/1901-3.85_gesammelte-urtheile.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-fackel/1901-3.85_gesammelte-urtheile.pdf</ref>
       </body>
    </text>
 </TEI>

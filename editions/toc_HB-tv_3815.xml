@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3815" type="Pamphlet" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Eleonora Duse. Mit einer einleitenden Studie von Hermann Bahr.
                      Inhalt: Die Cameliendame</title>
@@ -44,23 +44,23 @@
             </imprint>
             <extent>3–10 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Textbuch zum Gastspiel der Eleonore Duse</title>
          </series>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Dieser Separatdruck wurde mit den gleichen Druckplatten wie die 2. und 3.
                      Auflage des »Führers durch das Gastspiel der Eleonora Duse« hergestellt,
                      enthält Bahrs Studie sowie den Text zur Cameliendame des Führers, wobei die
                      Seitenzählung der Vorlage beibehalten wurde. Ob solche Separatdrucke für alle
                      Stücke erstellt wurden, ist ungeklärt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Frankfurter Zeitung 35 (1891) #129, 1. Morgenblatt.
+         <note type="first-printing">Frankfurter Zeitung 35 (1891) #129, 1. Morgenblatt.
                   (9.5.1891) Führer durch das Gastspiel der Eleonora Duse, 1892</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Russische Reise, 116–125 Am Anfang gekürzt in: Buschbeck:
+         <note type="other-prints">Russische Reise, 116–125 Am Anfang gekürzt in: Buschbeck:
                   Thespiskarren, 315-321</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Duse gilt den Italienern heute für ihre größte Tragödin. Ihr
+         <note type="incipit">Die Duse gilt den Italienern heute für ihre größte Tragödin. Ihr
                   Ruhm ist allen geläufig.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10899"/>
                <ptr type="pmb" target="#11201"/>
@@ -76,7 +76,7 @@
                <ptr type="HB-tv" target="HB-tv_2810_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1892_textbuch-zum-gastspiel-der-duse_kameliendame.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1892_textbuch-zum-gastspiel-der-duse_kameliendame.pdf</ref>
       </body>
    </text>
 </TEI>

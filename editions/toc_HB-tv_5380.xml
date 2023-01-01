@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. Salzburg, 12. April</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,14 +48,14 @@
                <date when="1919-04-27">27.4.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 127–132</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hier waren, als ich ankam, grad Landtagswahlen, aber ich wählte
+         <note type="other-prints">1919. Tagebuch, 127–132</note>
+         <note type="incipit">Hier waren, als ich ankam, grad Landtagswahlen, aber ich wählte
                   wieder nicht, auch hier nicht. Ich wüßte ja nicht, wen. Ich bin weder
                   Sozialdemokrat noch christlichsozial.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Sozialisten und Christlichsoziale haben zu regieren aufgehört,
+         <note type="summary">Sozialisten und Christlichsoziale haben zu regieren aufgehört,
                   blockieren sich und warten ab, was geschieht. Dabei sollten sie sich den
                   Interessensausgleich großer Staatsmänner ansehen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4660"/>
                <ptr type="pmb" target="#2495"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_5380_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

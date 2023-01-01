@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_753" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Maß für Maß«. Schauspiel in fünf Akten von Shakespeare. Zum
                      erstenmal aufgeführt im Burgtheater am 13. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -47,15 +47,15 @@
                <date when="1902-03-14">14.3.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Abdruck in der 2 Kreuzer-Ausgabe nicht mit vollem Namen, sondern mit »H.
                      B.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Measure for Measure (Maß für Maß)« von William Shakespeare,
+         <note type="review-of">»Measure for Measure (Maß für Maß)« von William Shakespeare,
                   deutsch von J. Altmann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 33-41 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Rezensionen, 33-41 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 282-286</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Maß für Maß« wurde im Dezember 1604 zuerst gespielt und man
+         <note type="incipit">»Maß für Maß« wurde im Dezember 1604 zuerst gespielt und man
                   vermuthet</note>
       </body>
    </text>

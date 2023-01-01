@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Vorlesung von Josef Kainz</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -48,10 +48,10 @@
                <date when="1899-11-04">4.11.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Vorlesung von Josef Kainz</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Großen Musikvereinssaale hat Kainz gestern Gedichte von
+         <note type="review-of">Vorlesung von Josef Kainz</note>
+         <note type="incipit">Im Großen Musikvereinssaale hat Kainz gestern Gedichte von
                   Goethe und Schiller vorgelesen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11851"/>
                <ptr type="pmb" target="#12654"/>

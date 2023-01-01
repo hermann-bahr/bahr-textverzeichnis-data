@@ -35,30 +35,30 @@
             type="Pamphlet"
             subtype="Zeitungskorrespondenz"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Undeutsch</title>
             <imprint>
                <date when="1922-09-01">1.9.1922</date>
             </imprint>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Korrespondenz Dr. Billig drb, Berlin SW. 11</title>
          </series>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In Bahrs Nachlass findet sich, bei den Zeitungsausschnitten eingeordnet, auch
                      dieser Matrizenabzug einer Schreibmaschinenfassung des Texts. Als Kopf hat das
                      Blatt »Probleme der Gegenwart« stehen, was die die Unterschiede in der
                      Titelwahl der Abdrucke erklären dürfte.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck als »Probleme der Gegenwart« in: Wartburgland.
+         <note type="first-printing">Nachdruck als »Probleme der Gegenwart« in: Wartburgland.
                   Beilage der Eisenacher Tagespost, 1 (1922) #1, 1. (29.9.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einen nationalen Sport hat Bismarck einmal den ewigen
+         <note type="incipit">Einen nationalen Sport hat Bismarck einmal den ewigen
                   Hader</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr stimmt Bismarck zu, dass in Deutschland einem Bürgerkrieg
+         <note type="summary">Bahr stimmt Bismarck zu, dass in Deutschland einem Bürgerkrieg
                   mit mehr Liebe als sonst wo nachgegangen würde und dass die Nation erst lernen
                   müsse, dass, wer anderer Meinung habe, deswegen noch nicht »undeutsch« sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#4216"/>

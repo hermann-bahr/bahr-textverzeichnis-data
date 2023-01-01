@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nicht_nachgewiesen"
             status="notLocated">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Grundübel des Journalismus</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neue deutsche Warte. Blätter für deutsche Culturbestrebungen,
                      Politik, Wissenschaft, Kunst und Unterhaltung. Berlin</title>
             <imprint>
@@ -47,7 +47,7 @@
                <date when="1885">1885</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In einem Brief an seinen Vater (9.2.1885) spricht Bahr davon, dass sein Artikel
                      in mehreren Blättern nachgedruckt wurde. Der Abdruck im Kyffhäuser gibt als
                      Quelle die »Neue Deutsche Warte« an. Bislang konnte keine Bibliothek mit
@@ -56,7 +56,7 @@
                      verwiesen, ohne zu klären, ob die »Schriftsteller-Zeitung« oder die »Warte« den
                      Text zuerst druckte.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Schriftsteller–Zeitung, 1 (1885) #1, 13–16.
+         <note type="first-printing">Deutsche Schriftsteller–Zeitung, 1 (1885) #1, 13–16.
                   (1.1.1885) Kyffhäuser–Zeitung, 4.7 (1885) #17, 143 und #18, 150. (26.1.1885 resp.
                   2.2.1885)</note>
       </body>

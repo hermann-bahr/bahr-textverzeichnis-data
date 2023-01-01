@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">23. April [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">139</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Rodbertus, ein Kirchenvater der Bismarckschen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Rodbertus, ein Kirchenvater der Bismarckschen
                   Sozialreform</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein warnendes Zitat Rodbertus aus dem Jahr 1837, dass die
+         <note type="summary">Ein warnendes Zitat Rodbertus aus dem Jahr 1837, dass die
                   Plebejer im Auftrag ihrer Herren zuerst gegen sich selbst kämpften, zuletzt aber
                   selbst Rom eroberten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="HB-tv" target="HB-tv_4858_p3"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. März [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">III, 71–78</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Sinclair Lewis: Babbitt. New York: Harcourt, Brace &amp; Co.
+         <note type="review-of">Sinclair Lewis: Babbitt. New York: Harcourt, Brace &amp; Co.
                   1922. Sinclair Lewis: Babbitt. Leipzig: B. Tauchnitz 1922. (#4590)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Amerikanischer Besuch gerät bei mir immer in gelinde
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Amerikanischer Besuch gerät bei mir immer in gelinde
                   Verlegenheit.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr hat »Babbitt« empfohlen bekommen, damit er das Amerika
+         <note type="summary">Bahr hat »Babbitt« empfohlen bekommen, damit er das Amerika
                   jenseits von Poe und Whitman begreifen lernt.</note>
       </body>
    </text>

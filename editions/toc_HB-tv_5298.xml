@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">27. Juli [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">244</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jeder meint halt, es gehe den andern besser, und jeder meint,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Jeder meint halt, es gehe den andern besser, und jeder meint,
                   ihm sei von außen zu helfen. Das sind die beiden großen Irrtümer. Denn alle leiden
                   gleich und allen kann nur von innen geholfen werden.</note>
       </body>

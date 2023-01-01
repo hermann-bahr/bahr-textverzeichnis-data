@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">5. Februar [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">III, 30–35</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans Joachim Moser: Geschichte der deutschen Musik. Band 2,
+         <note type="review-of">Hans Joachim Moser: Geschichte der deutschen Musik. Band 2,
                   Teil 1: 1618–1809. Stuttgart, Berlin: Cotta’sche Nachfolger 1822. Josef Nadler:
                   Literaturgeschichte der deutschen Stämme und Landschaften. 1: Die altdeutschen
                   Stämme, 800–1740. Regensburg: Habbel 1923. (Neuauflage) Hermann Abert: Goethe und
                   die Musik. Stuttgart: Engelhorns Nachfolger 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mit Ungeduld erwartet, ist nun der erste Teil des zweiten
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Mit Ungeduld erwartet, ist nun der erste Teil des zweiten
                   Bandes</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über eine Musikgeschichte, die deutsche Neigung zu Biografismus
+         <note type="summary">Über eine Musikgeschichte, die deutsche Neigung zu Biografismus
                   und zum nicht ausreichend untersuchten Verhältnis Goethes zur Musik.</note>
       </body>
    </text>

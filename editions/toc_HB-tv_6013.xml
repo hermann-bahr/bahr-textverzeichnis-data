@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 5. April</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,11 +48,11 @@
                <date when="1920-05-01">1.5.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ernst Bertram: Nietzsche. Versuch einer Mythologie. Berlin:
+         <note type="review-of">Ernst Bertram: Nietzsche. Versuch einer Mythologie. Berlin:
                   Bondi 1919. Ernst Cassirer: Hölderlin und der deutsche Idealismus. In: Logos, Band
                   7 #3.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 104–108</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am 20. März waren es hundertfünfzig Jahre, daß Hölderlin geboren
+         <note type="other-prints">Kritik der Gegenwart, 104–108</note>
+         <note type="incipit">Am 20. März waren es hundertfünfzig Jahre, daß Hölderlin geboren
                   wurde. Man hat in Deutschland nicht viel Aufhebens davon gemacht. Novalis und
                   Hölderlin, unsere beiden tiefsten Dichterdenker nach Goethe, die einzigen seiner
                   voraussehenden und voraussagenden Art, sind heute noch ganz ebenso unbekannt, wie
@@ -183,9 +183,9 @@
                   Literaturgeschichte der deutschen Stämme und Landschaften, neben Burdachs hohem
                   Werk der ersten germanistischen Leistung seit Wilhelm Scherer, die wieder der
                   erlauchten Tradition der Grimm und Uhland ebenbürtig ist. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Literatur zu Hölderlin aus Anlass seines 150.
+         <note type="summary">Über Literatur zu Hölderlin aus Anlass seines 150.
                   Geburtstags.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

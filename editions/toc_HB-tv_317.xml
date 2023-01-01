@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_317" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der neue Nietzsche</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,15 +45,15 @@
                <date when="1895-01-12">12.1.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Fall Wagner«, »Antichrist«, »Götzendämmerung«, »Nietzsche
+         <note type="review-of">»Der Fall Wagner«, »Antichrist«, »Götzendämmerung«, »Nietzsche
                   contra Wagner« von Friedrich Nietzsche</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Vertrauten haben immer noch gezögert, die letzten Schriften
+         <note type="incipit">Die Vertrauten haben immer noch gezögert, die letzten Schriften
                   von Nietzsche zu edieren, solange man nur einen Schimmer von Hoffnung noch hegen
                   durfte, dass er gesunden würde.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nietzsches Hass ähnle der Liebe anderer, er muss auf ein Objekt
+         <note type="summary">Nietzsches Hass ähnle der Liebe anderer, er muss auf ein Objekt
                   bezogen sein. Nietzsche versuche mit seinen Ausfällen zu einer Bejahung des Lebens
                   zu kommen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12358"/>
                <ptr type="pmb" target="#13024"/>
@@ -63,8 +63,8 @@
                <ptr type="HB-tv" target="HB-tv_317_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/15-27.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/15-28.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/15-27.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/15-28.pdf</ref>
       </body>
    </text>
 </TEI>

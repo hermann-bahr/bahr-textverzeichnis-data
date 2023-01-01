@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1810" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zum Gedächtnis</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36156">Die neue Rundschau</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -45,14 +45,14 @@
                <date when="1929-11-01">November 1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zehn Jahre jünger als d’Annunzio, sechs als Claudel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nachruf auf Hugo von Hofmannsthal.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Zehn Jahre jünger als d’Annunzio, sechs als Claudel</note>
+         <note type="summary">Nachruf auf Hugo von Hofmannsthal.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11740"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-rundschau/1929_gedaechtnis.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-rundschau/1929_gedaechtnis.pdf</ref>
       </body>
    </text>
 </TEI>

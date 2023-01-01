@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1765" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erinnerung an Burckhard</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36156">Die neue Rundschau</title>
             <imprint>
                <biblScope unit="jg">24</biblScope>
@@ -44,14 +44,14 @@
                <date when="1913-09-01">September 1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Edit. Anmerkung: »Die folgenden Seiten werden ein demnächst erscheinendes Buch
                      einleiten, das der Erinnerung an Burckhard gewidmet ist.« Danach folgt ein
                      Aufsatz über Hermann Bahr von Willi Handl (957-968)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Burckhard aus dem Burgtheater geschieden und zum Rat am
+         <note type="incipit">Als Burckhard aus dem Burgtheater geschieden und zum Rat am
                   Verwaltungsgerichtshof ernannt war</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1913_erinnerung-an-burckhard.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1913_erinnerung-an-burckhard.pdf</ref>
       </body>
    </text>
 </TEI>

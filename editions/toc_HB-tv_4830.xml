@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Vortrag_Mitschrift"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">IX. internationaler Preßkongreß. Eine Huldigung für
                      Mozart</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -50,24 +50,24 @@
                <date when="1904-09-19">19.9.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahrs Rede ist teilweise wörtlich wiedergegeben, teilweise paraphrasiert.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Geehrte Damen und Herren, Wenn wir am letzten dieser
+         <note type="incipit">Geehrte Damen und Herren, Wenn wir am letzten dieser
                   unvergeßlichen Tage, deren Schimmer allezeit in unserer Erinnerung bleiben
                   wird</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr darf für die Teilnehmer des 9. Pressekongresses eine kurze
+         <note type="summary">Bahr darf für die Teilnehmer des 9. Pressekongresses eine kurze
                   Rede vor dem Mozart-Denkmal in Salzburg halten, die er als Aufruf zum Frieden und
                   internationaler Verständigung nützt, bevor mit einem Sonett Max Kalbecks ein Kranz
                   niedergelegt wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12303"/>
                <ptr type="pmb" target="#11857"/>
                <ptr type="HB-tv" target="HB-tv_4830_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

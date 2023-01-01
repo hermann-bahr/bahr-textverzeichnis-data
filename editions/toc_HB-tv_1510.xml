@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1510" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Die Mutter. Drama in drei Akten</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>64 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Dem genialen Realisten Emanuel Reicher in dankbarer Treue. Berlin, 18. Januar
                      1891« Die Münchner Kunst (2 (1890) #51, 352. - 25.12.1890) berichtet, ohne das
                      Stück zu nennen, dass es fertig gestellt sei und auch ins Französische
@@ -59,8 +59,8 @@
                      Moderne«] C- G. [Curt Grottewitz] in: Magazin für Litteratur, 60 (1891),
                      175–176. Kunstwart, 5 (1891) #4, 276-277. (15. November 1891)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">1. Akt: Die Moderne, 1 (1891) #2/3, 31–40</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Stück handelt von der Mutter, einer alternden
+         <note type="first-printing">1. Akt: Die Moderne, 1 (1891) #2/3, 31–40</note>
+         <note type="summary">Das Stück handelt von der Mutter, einer alternden
                   Schauspielerin, die verhindern will, dass ihr zwanzigjähriger Sohn Edi sich in
                   Terka verliebt, mit der sie selbst zuvor in einer leidenschaftlichen Beziehung
                   gestanden ist. Als die Mutter im Hause Terkas bei einem Treffen auftaucht,
@@ -69,7 +69,7 @@
                   sei es, dass sie verrät, den Vater aus Liebe umgebracht zu haben. Die Aufregung
                   lässt Edi sterben und die Mutter, von einem alternden Clown getröstet, in
                   wahnsinniges Gelächter ausbrechen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=45</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=45</ref>
       </body>
    </text>
 </TEI>

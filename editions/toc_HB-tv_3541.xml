@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3541" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Zur zweiten Auflage</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die gute Schule. Seelenzustände</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -45,16 +45,16 @@
                <biblScope unit="pages">I–IV</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eine Fassung des Vorworts zur 2. Auflage hat Bahr am 30. Juli 1897 an den
                      Verlag geschickt. Fischer lehnte es ab, weil es den Absatz des Buches schädigen
                      würde, da Bahr nicht mehr zum Buch stünde. Ob Bahr sich durchsetzte oder ob
                      eine zumindest leicht entschärfte Fassung publiziert wurde, ist nicht zu
                      eruieren.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Leicht verändert als »Damals« in: Die Zeit,
+         <note type="first-printing">Leicht verändert als »Damals« in: Die Zeit,
                   31.7.1897</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich dieser Tage, um die Korrekturen zu machen, die »gute
+         <note type="incipit">Als ich dieser Tage, um die Korrekturen zu machen, die »gute
                   Schule« wieder las, ist es mir seltsam ergangen. Das soll ich einmal gewesen sein?
                   So hätte ich einst empfunden, so gesprochen? Es ist noch keine acht Jahre, daß ich
                   sie schrieb, im Winter von 1889 auf 90, auf der Reise durch Spanien und Marokko.

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 8. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,13 +48,13 @@
                <date when="1921-07-24">24.7.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Maurice Baring: Passing By. London: M. Secker [1921].</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 216-221</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Passing By«, die neue Novelle Maurice Barings (London, Martin
+         <note type="review-of">Maurice Baring: Passing By. London: M. Secker [1921].</note>
+         <note type="other-prints">Liebe der Lebenden, I, 216-221</note>
+         <note type="incipit">»Passing By«, die neue Novelle Maurice Barings (London, Martin
                   Secker)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr findet den neuen Roman Maurice Baring, der nicht erzählt
+         <note type="summary">Bahr findet den neuen Roman Maurice Baring, der nicht erzählt
                   sondern zum Erraten der Handlung aufmuntert, stilistisch geglückt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

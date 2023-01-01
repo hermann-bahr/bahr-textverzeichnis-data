@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1759" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Selbstinventur</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das 26. Jahr</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -45,21 +45,21 @@
                <biblScope unit="pages">48–55</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Das Buch wurde Ende Oktober 1912 ausgegeben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck in: Stuttgarter Neues Tagblatt, 70 (1915) #194,
+         <note type="first-printing">Nachdruck in: Stuttgarter Neues Tagblatt, 70 (1915) #194,
                   Unterhaltungsbeilage, 19–20. (19.7.1913) Auszüge als »Niemals Derselbe« und »Die
                   Bergpredigt« in: Der Schloßpark, (1921) #11, 149–151 und 151–152. Auszug »Das
                   Geld« kroatisch als »Novac« in: Riečki novi list, 9 (1915) #61, 1.
                   (12.3.1915)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Inventur, 136–142 Auszüge in: Das Hermann-Bahr-Buch als:
+         <note type="other-prints">Inventur, 136–142 Auszüge in: Das Hermann-Bahr-Buch als:
                   »Daimonion«, »Philinens Weisheit«, »Der Gute aus Bestechlichkeit«, »Der wahrhaft
                   Gute«, »Die dazugehörigen Nerven«, 30-36; als »Charakter«, »Niemals derselbe«,
                   »Inneres Gesetz«, »Die Bergpredigt«, 44-50; als »Der Tod«, 52 sowie als »Das
                   Geld«, 76-83 Auszug in: Lesezirkel Hottingen, Vierter Abend, 13. Januar 1913,
                   8–14</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich war einst mit Kainz in Weimar. Er hatte dann abends den
+         <note type="incipit">Ich war einst mit Kainz in Weimar. Er hatte dann abends den
                   Tasso zu spielen.</note>
       </body>
    </text>

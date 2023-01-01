@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzmeldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,11 +48,11 @@
                <date when="1900-03-20">20.3.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»A Midsummer Nights Dream (Sommernachtstraum)« von William
+         <note type="review-of">»A Midsummer Nights Dream (Sommernachtstraum)« von William
                   Shakespeare, deutsch von August Wilhelm Schlegel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sonntag Nachmittags: »Sommernachtstraum«. Diese Vorstellung ist
+         <note type="incipit">Sonntag Nachmittags: »Sommernachtstraum«. Diese Vorstellung ist
                   schon ganz aus dem Leim gegangen, keine Szene hält mehr.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11315"/>
                <ptr type="pmb" target="#2412"/>

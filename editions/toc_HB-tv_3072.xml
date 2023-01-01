@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Berliner. Am 12. Juni 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">227</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Probekandidat« von Max Dreyer</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #159, 8.
+         <note type="review-of">»Der Probekandidat« von Max Dreyer</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #159, 8.
                   (12.6.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   115</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Berliner brachten gestern den »Probekandidaten«.</note>
+         <note type="incipit">Die Berliner brachten gestern den »Probekandidaten«.</note>
       </body>
    </text>
 </TEI>

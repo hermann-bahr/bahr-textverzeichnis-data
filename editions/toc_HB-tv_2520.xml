@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">11</biblScope>
@@ -48,11 +48,11 @@
                <date when="1897-05-29">29.5.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Das Kuckucksei« von Oscar Fronz</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Deutschen Volkstheater: Das »Kuckucksei«, Volksstück in vier
+         <note type="review-of">»Das Kuckucksei« von Oscar Fronz</note>
+         <note type="incipit">Im Deutschen Volkstheater: Das »Kuckucksei«, Volksstück in vier
                   Acten von Oscar Fronz. Herr Fronz ist ein kleiner Schauspieler an dieser
                   Bühne</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#17109"/>
                <ptr type="pmb" target="#26880"/>
@@ -64,8 +64,8 @@
                <ptr type="HB-tv" target="HB-tv_4829_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-11/139-140.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-11/139-141.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-11/139-140.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-11/139-141.pdf</ref>
       </body>
    </text>
 </TEI>

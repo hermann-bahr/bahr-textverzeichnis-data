@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1305" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Vocabular«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">80</biblScope>
@@ -45,14 +45,14 @@
                <date when="1927-02-20">20.2.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Vokabular« in: Dresdner Neueste Nachrichten, 35
+         <note type="first-printing">Als »Vokabular« in: Dresdner Neueste Nachrichten, 35
                   (1927) #90, 2–3. (17.4.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Demokratie beruht auf der Annahme, daß jedermann selbst am
+         <note type="incipit">Demokratie beruht auf der Annahme, daß jedermann selbst am
                   besten wissen muß, was er braucht, und daß die gegenseite Messung der richtig
                   erkannten Bedürfnisse schon den rechten Ausgleich ergeben wird.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr fordert die Jugend auf, nicht mit sinnleerem Vokabular
+         <note type="summary">Bahr fordert die Jugend auf, nicht mit sinnleerem Vokabular
                   politisch aktiv zu sein, sondern mit Ideen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11933"/>

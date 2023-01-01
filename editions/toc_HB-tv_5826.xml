@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. Dezember [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">II, 296–302</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">René Lalou: Histoire de la littérature française
+         <note type="review-of">René Lalou: Histoire de la littérature française
                   contemporaine. 1870 à nos jours. Paris: G. Crès 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein längst vermißtes, ärgerlich entbehrtes, dringend erwünschtes
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Ein längst vermißtes, ärgerlich entbehrtes, dringend erwünschtes
                   Buch ist nun endlich erschienen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr über die für ihn maßgeblichen neueren französischen
+         <note type="summary">Bahr über die für ihn maßgeblichen neueren französischen
                   Literaturgeschichten und über Paul Valéry und Marcel Proust.</note>
       </body>
    </text>

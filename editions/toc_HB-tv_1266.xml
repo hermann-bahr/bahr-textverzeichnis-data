@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1266" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Adalbert Stifter</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Vossische Zeitung</title>
             <imprint>
                <biblScope unit="issue">65, Morgenausgabe</biblScope>
@@ -44,17 +44,17 @@
                <date when="1918-02-05">5.2.1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Wir haben Ilse Lindens Porträt zum 50. Todestag
                      Stifters gebracht, eine klare protestantische Auffassung des Dichters. Es wird
                      unsere Leser interessieren, sie mit diesem österreichischen Bilde aus der Feder
                      Bahrs zu vergleichen.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bilderbuch, 21-26</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der Nacht vom 27. auf den 28. Januar 1868 verwirrten den
+         <note type="other-prints">Bilderbuch, 21-26</note>
+         <note type="incipit">In der Nacht vom 27. auf den 28. Januar 1868 verwirrten den
                   kranken Hofrat Stifter seine Schmerzen so, daß er nach dem Rasiermesser griff und
                   sich in den Hals schnitt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1918_stifter.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1918_stifter.pdf</ref>
       </body>
    </text>
 </TEI>

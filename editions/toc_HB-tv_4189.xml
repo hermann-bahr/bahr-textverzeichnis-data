@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4189" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kategorischer Imperativ in Wissenschaft und Kunst. (Gesprochen in
                      der Generalversammlung des Salzburger katholischen Universitätsvereines am 16.
                      Oktober 1921)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -50,10 +50,10 @@
                <date when="1921-11-06">6.11.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Salzburger Chronik, 57 (1921) #237, 1–2 und #238, 1–2.
+         <note type="first-printing">Salzburger Chronik, 57 (1921) #237, 1–2 und #238, 1–2.
                   (19. und 20.10.1921)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Sendung des Künstlers, 187–196</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kaum war der heilige Paulus in Athen angelangt</note>
+         <note type="other-prints">Sendung des Künstlers, 187–196</note>
+         <note type="incipit">Kaum war der heilige Paulus in Athen angelangt</note>
       </body>
    </text>
 </TEI>

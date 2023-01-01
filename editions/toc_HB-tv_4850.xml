@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">IX</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">85–94</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. IX« in: Das Neue Reich, 3 (1921) #42,
+         <note type="first-printing">Als »Erinnerungen. IX« in: Das Neue Reich, 3 (1921) #42,
                   809–811. (17.7.1921)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unter den Studenten der braven Mühlbacher, einer ausgedienten
+         <note type="incipit">Unter den Studenten der braven Mühlbacher, einer ausgedienten
                   Köchin, die sich in alten Tagen aus ihren Ersparnissen und auf Abzahlung
                   möbliert hatte, war ich der vornehmste: der einzige mit einem eigenen Zimmer für
                   sich.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Salzburger Unterkunft – Freundschaften und Distanz – Antike
+         <note type="summary">Salzburger Unterkunft – Freundschaften und Distanz – Antike
                   Autoren eröffnen Blick auf das wirkliche Leben – Selbstverständnis als Philologe
                   (und Schauspieler) – Reine Momente des Geisteslebens – Erste Liebschaft und erste
                   Trennung</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#28145"/>
@@ -88,7 +88,7 @@
                <ptr type="HB-tv" target="HB-tv_4850_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

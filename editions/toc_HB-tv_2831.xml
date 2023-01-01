@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das Buch der Frauen. Verlaine. (Gestorben am 9. Jänner
                      1896)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,12 +50,12 @@
                <biblScope unit="pages">112–118</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 6 (1896) #68 oder 69, 42–43. (18.1.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Paul Verlaine ist fort. Bei seinem Namen denkt sich die Menge
+         <note type="first-printing">Die Zeit, 6 (1896) #68 oder 69, 42–43. (18.1.1896)</note>
+         <note type="incipit">Paul Verlaine ist fort. Bei seinem Namen denkt sich die Menge
                   nichts, sie kannten ihn kaum; nie hat er sich mit Ruhm befleckt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr verfasst einen Nachruf auf Verlaine und lobt ihn
+         <note type="summary">Bahr verfasst einen Nachruf auf Verlaine und lobt ihn
                   überschwänglich als einen wahren Dichter.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13011"/>
                <ptr type="pmb" target="#5359"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_2831_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

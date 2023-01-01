@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Salzburg, 16. Dezember [1916]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">15–20</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Werner Sombart: Der moderne Kapitalismus.
+         <note type="review-of">Werner Sombart: Der moderne Kapitalismus.
                   Historisch-systematische Darstellung des gesamteuropäischen Wirtschaftslebens von
                   seinen Anfängen bis zur Gegenwart. München, Leipzig: Duncker und Humblot
                   1916.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sombarts »Der moderne Kapitalismus« in neuer Auflage</note>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Sombarts »Der moderne Kapitalismus« in neuer Auflage</note>
       </body>
    </text>
 </TEI>

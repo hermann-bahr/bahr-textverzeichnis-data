@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Morgen, Mittag und Abend</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">137–141</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #56, 1–2.
+         <note type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #56, 1–2.
                   (26.2.1928)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In meiner Jugend viel unterwegs, ward ich bald gewahr,
+         <note type="incipit">In meiner Jugend viel unterwegs, ward ich bald gewahr,
                   daß...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Lettenbaurs Text »Morgen, Mittag und Abend« wird von Bahr als
+         <note type="summary">Lettenbaurs Text »Morgen, Mittag und Abend« wird von Bahr als
                   bedeutende politische Schrift begrüßt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#2566"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_3520_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

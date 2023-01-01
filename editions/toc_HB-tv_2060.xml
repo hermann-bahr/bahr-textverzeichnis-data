@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2060" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Oscar Sauer]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Oscar Sauer. Ein Gedenkbuch (1856–1916)</title>
             <editor>Jacobsohn, Siegfried</editor>
             <imprint>
@@ -46,10 +46,10 @@
                <biblScope unit="pages">7</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Besprechung im Berliner Tageblatt am 9. Dezember 1916</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Oscar Sauer steht, mit dem unverwelklichen Bernhard Baumeister,
+         <note type="incipit">Oscar Sauer steht, mit dem unverwelklichen Bernhard Baumeister,
                   der Reihe der wahrhaft deutschen Schauspieler vor, die mit Herzenseinfalt die
                   Wahrheit unmittelbar erfassen und unverändert, ohne sie durch Einmischung von
                   Eigensinn zu beflecken oder durch »Geist« zu verdunkeln, in göttlicher Unschuld
@@ -59,7 +59,7 @@
                   die zurückkehrende Dämmerung hervor. Bernhard Baumeister, Oscar Sauer, Rudolf
                   Rittner, die Lehmann, die Höflich! Wer darf unser Theater noch arm nennen, bei
                   solcher Fülle? |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28476"/>
                <ptr type="pmb" target="#2865"/>

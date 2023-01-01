@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2448" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Als ob</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">17030, Morgenblatt</biblScope>
@@ -44,24 +44,24 @@
                <date when="1912-01-21">21.1.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Druckfehler im Goethe-Zitat (»liebt sich nicht aber Leidenschaft«) ist in
                      der Buchausgabe korrigiert.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Fritz Mauthner: Wörterbuch der Philosophie. Neue Beiträge zu
+         <note type="review-of">Fritz Mauthner: Wörterbuch der Philosophie. Neue Beiträge zu
                   einer Kritik der Sprache. München: Georg Müller 1910. Hans Vaihinger: Die
                   Philosophie des Als ob. Berlin: Reuther &amp; Reichard 1911. Jesu Leben und Werk.
                   Im Rahmen der Zeitgeschichte aus den Quellen dargestellt von Richard v. Kralik.
                   Ravensburg: Friedrich Alber 1911.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Inventur, 51-60</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kant ließ den Menschen nichts als das Ich und jenes »Ding an
+         <note type="other-prints">Inventur, 51-60</note>
+         <note type="incipit">Kant ließ den Menschen nichts als das Ich und jenes »Ding an
                   sich«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3386"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1912-1-21_als-ob.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1912-1-21_als-ob.pdf</ref>
       </body>
    </text>
 </TEI>

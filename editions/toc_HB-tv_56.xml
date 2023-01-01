@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_56" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Beethoven</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22460, Morgenblatt</biblScope>
@@ -44,13 +44,13 @@
                <date when="1927-03-26">26.3.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die von Bahr ausgerechneten Alter stimmen nicht, wie er auch in einem Brief an
                      Alfred Roller am 30.3.1927 eingesteht.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Beethoven zur Welt kommt, ist Gottsched seit vier Jahren
+         <note type="incipit">Als Beethoven zur Welt kommt, ist Gottsched seit vier Jahren
                   tot.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-3-26_beethoven.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-3-26_beethoven.pdf</ref>
       </body>
    </text>
 </TEI>

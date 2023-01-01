@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Ostersonntag [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Tagebücher 2</title>
             <imprint>
                <pubPlace>Innsbruck, Wien, München</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">96–101</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 14.4.1918</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Stifter-Reise. Wieder in Linz, zum erstenmal seit siebzehn
+         <note type="first-printing">Neues Wiener Journal, 14.4.1918</note>
+         <note type="incipit">Stifter-Reise. Wieder in Linz, zum erstenmal seit siebzehn
                   Jahren.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr entdeckt die Schönheit und Besonderheit Linz, die es mit
+         <note type="summary">Bahr entdeckt die Schönheit und Besonderheit Linz, die es mit
                   Berlin verbindet, die aber selbst Stifter und den meisten josefinisch erzogenen
                   Linzern verborgen geblieben ist.</note>
       </body>

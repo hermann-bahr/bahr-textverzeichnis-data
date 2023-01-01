@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 6. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,10 +48,10 @@
                <date when="1920-03-28">28.3.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Scheffler: Ausverkauf in: Kunst und Künstler, Februar
+         <note type="review-of">Karl Scheffler: Ausverkauf in: Kunst und Künstler, Februar
                   1920</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 79-80</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Februarheft von Cassirers »Kunst und Künstler« ein
+         <note type="other-prints">Kritik der Gegenwart, 79-80</note>
+         <note type="incipit">Im Februarheft von Cassirers »Kunst und Künstler« ein
                   vortrefflicher Aufsatz Karl Schefflers über den »Ausverkauf« in Deutschland, der
                   deutsche Kunstbesitz wandert ja jetzt ins Ausland ab: »In letzter Stunde ist nun
                   eine heimlich vorbereitete und plötzlich erlassene Verordnung herausgekommen, die
@@ -88,10 +88,10 @@
                   unten herauf gesellschaftbildend vorzugehen und dabei der Großstadt mit ihrer
                   Kulturverlogenheit, ihrem Talmiluxus und ihren Bildungsvorurteilen voller
                   Verachtung flieht: da wird ein neues Deutschland«. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein längeres Zitat aus einem Aufsatz Karl Schefflers, der einen
+         <note type="summary">Ein längeres Zitat aus einem Aufsatz Karl Schefflers, der einen
                   Verlust von Deutschlands Kultur beklagt, aber auch Zeichen eines neuen Erblühens
                   erkennt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

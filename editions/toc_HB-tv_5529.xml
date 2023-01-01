@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">115</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Aus Hölderlein notiert: »O, ein Gott ist der Mensch, wenn er
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Aus Hölderlein notiert: »O, ein Gott ist der Mensch, wenn er
                   träumt, ein Bettler, wenn er nachdenkt.« – »Es ist ein so schönes Gedeihen in
                   allem was wir treiben, wenn es mit gehaltener Seele geschieht ... Aber wer hält in
                   schöner Stellung sich, wenn er sich durch ein Gedränge hindurcharbeitet, wo ihn
                   alles hin und her stößt!« |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Zwei Hölderlin-Zitate.</note>
+         <note type="summary">Zwei Hölderlin-Zitate.</note>
       </body>
    </text>
 </TEI>

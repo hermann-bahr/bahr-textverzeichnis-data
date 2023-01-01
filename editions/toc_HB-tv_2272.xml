@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">50</biblScope>
@@ -48,12 +48,12 @@
                <date when="1904-05-29">29.5.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Maria Stuart« von Friedrich Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Frau Frauendorfer aus Berlin, die gestern die Elisabeth gab, ist
+         <note type="review-of">»Maria Stuart« von Friedrich Schiller</note>
+         <note type="incipit">Frau Frauendorfer aus Berlin, die gestern die Elisabeth gab, ist
                   vom Raimundtheater her als eine kluge, geübte Schauspielerin bekannt, die alle
                   möglichen guten Eigenschaften hat, nur kein Talent, und so weit kommt, als man
                   durch Verstand, Geschmack und Eifer allein nur irgend kann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#10959"/>

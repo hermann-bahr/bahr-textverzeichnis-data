@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_583" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Grazer Kunst</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,13 +45,13 @@
                <date when="1901-07-03">3.7.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hermann Ubell und Georg Paul Schad-Rossa, Hgg.: Grazer Kunst.
+         <note type="review-of">Hermann Ubell und Georg Paul Schad-Rossa, Hgg.: Grazer Kunst.
                   Ein Band des Grazer Künstlerbundes. Graz: Wagner 1901</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Grazer Kunst« heißt ein Band</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Neben einer Darstellung neuerer Bemühungen in Graz, die Menschen
+         <note type="incipit">»Grazer Kunst« heißt ein Band</note>
+         <note type="summary">Neben einer Darstellung neuerer Bemühungen in Graz, die Menschen
                   für den gegenwärtigen Kunstdiskurs vorzubereiten betont Bahr die Rolle, die der
                   Dilettant zwischen Mensch und Künstler einnimmt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#26570"/>
                <ptr type="pmb" target="#12984"/>
@@ -93,7 +93,7 @@
                <ptr type="HB-tv" target="HB-tv_583_p19"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

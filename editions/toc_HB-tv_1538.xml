@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb29887"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb29887">Der Apostel. Schauspiel in drei Aufzügen</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>232 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Woche, 3 (1901) #47, 2040 bringt ein ganzseitiges Bild der »sensationellen
                      Parlamentsscene des II. Actes« sowie Rudolph Lothar in: Das deutsche Drama der
                      Gegenwart (München, Leipzig 1905, 214). Die Österreichische Volks-Zeitung (47
@@ -66,13 +66,13 @@
                      Kritiken, Vorträge und Aufsätze. 1. Band (1898–1901). Wien: Manz 1905,
                      328-335.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Auszüge auf Englisch als »The Apostle« in: Current
+         <note type="first-printing">Auszüge auf Englisch als »The Apostle« in: Current
                   Literature. 40 (1906), 89–94.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Russisch als: Апостолъ. Переводъ съ нѣмецкаго Е. Эгертъ,
+         <note type="translations">Russisch als: Апостолъ. Переводъ съ нѣмецкаго Е. Эгертъ,
                   Moskau 1903</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=8mQTAAAAYAAJ</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=p3cTAAAAQAAJ</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=7qgqAAAAMAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=8mQTAAAAYAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=p3cTAAAAQAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=7qgqAAAAMAAJ</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Dezember [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">13–16</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nachricht vom Tode der Gräfin Melanie Zichy. Welch eine
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Nachricht vom Tode der Gräfin Melanie Zichy. Welch eine
                   wunderbar reine, feste, stille Gestalt geht mit der fast Siebenundachtzigjährigen
                   dahin, wieviel Erinnerungen nimmt die Tochter Metternichs, des stolzen,
                   weltgebietenden Staatskanzlers Klemens Metternich, mit sich ins Grab! Unvergeßlich
@@ -125,7 +125,7 @@
                   schien, war sie recht ärgerlich. In diesem Ärger aber stak noch mehr: der heilige
                   Zorn einer reinen Natur, der die Wahrheit etwas aus einem Stück, etwas Ungeteiltes
                   und Unteilbares ist, wovon man sich nichts abhandeln lassen kann. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr erinnert sich an Melanie von Metternich-Winneburg, verh.
+         <note type="summary">Bahr erinnert sich an Melanie von Metternich-Winneburg, verh.
                   Zichy, und an einen kürzlichen Besuch bei ihr, wo sie den Weg zu Gott nur durch
                   eine Phase des Bolschewismus möglich gesehen haben solle.</note>
       </body>

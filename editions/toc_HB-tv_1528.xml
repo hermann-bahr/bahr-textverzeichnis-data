@@ -35,7 +35,7 @@
             type="Book"
             status="checked"
             sameAs="pmb30137">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30137">Josephine. Ein Spiel in vier Akten</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>XIII, 211 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Meinem lieben Freunde Emerich von Bukovics in herzlicher Verehrung gewidmet«.
                      In einem Notizbuch schreibt Bahr: »Im Jahre 1898 erschien meine Josefine, ich
                      war damals noch jung genug mich des allgemeinen Entsetzens über meine
@@ -77,11 +77,11 @@
                      (27.02.1926) Dr. Egon-Erich Albrecht, Albert-Theater: Hermann Bahr:
                      »Josephine«. In: Pirnaer Anzeiger, 118 (1927) #211, 3. (9.9.1927)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Amerikanisches Manuskript: Warrior’s Love. A comedy in
+         <note type="translations">Amerikanisches Manuskript: Warrior’s Love. A comedy in
                   three acts. Harald Dyrenforth and Margrit Wyler. 194? [New York Public Library]
                   Dänisches Manuskript: Josephine. Skuespil i 4 akter. Overs. af Ch. Kjerulf.
                   Dagmarteatret. [Königl. Bibl. Kopenhagen]</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=bahr%20josephine</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=bahr%20josephine</ref>
       </body>
    </text>
 </TEI>

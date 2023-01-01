@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Die Dummen]. 28. September 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">405–407</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Dummen (Les Jobards)« von Albert Guinon und Maurice
+         <note type="review-of">»Die Dummen (Les Jobards)« von Albert Guinon und Maurice
                   Denier</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #266, 9.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #266, 9.
                   (28.9.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Jahre 1891 hatte das Theater des Vaudeville in Paris sehr
+         <note type="incipit">Im Jahre 1891 hatte das Theater des Vaudeville in Paris sehr
                   viel Pech.</note>
       </body>
    </text>

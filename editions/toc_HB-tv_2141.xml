@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -48,10 +48,10 @@
                <date when="1899-11-27">27.11.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Sohn der Wildniß« von Friedrich Halm</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Endlich eine Nachmittagsvorstellung, die man loben kann: der
+         <note type="review-of">»Sohn der Wildniß« von Friedrich Halm</note>
+         <note type="incipit">Endlich eine Nachmittagsvorstellung, die man loben kann: der
                   »Sohn der Wildniß«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5591"/>
                <ptr type="pmb" target="#2850"/>

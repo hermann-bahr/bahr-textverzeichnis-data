@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Kriegerisch</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kriegssegen</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">48–53</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 22 (1914) #7604, 8.
+         <note type="first-printing">Neues Wiener Journal, 22 (1914) #7604, 8.
                   (25.12.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am schlechtesten geht’s in diesem Krieg den ausgemachten
+         <note type="incipit">Am schlechtesten geht’s in diesem Krieg den ausgemachten
                   Wahrheiten.</note>
       </body>
    </text>

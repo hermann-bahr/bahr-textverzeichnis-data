@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das österreichische Wunder</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Schwarzgelb</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">30–45</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Zukunft Österreichs« in: Die Tat, Jena, 7 (1915)
+         <note type="first-printing">Als »Die Zukunft Österreichs« in: Die Tat, Jena, 7 (1915)
                   #1 (April), 45–49. Textvariante in: Der Kunstfreund, Berlin, 2 (1915) #7 (April),
                   200–204. Dass. in: Münchner Neueste Nachrichten, 68 (1915) #184, 2. (11.4.1915)
                   Redemitschrift in: »Kriegsvorträge der Kriegs–Lese« in: Die Lese, 6 (1915) #14,
                   222–223.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Das österreichische Wunder. Einladung nach Salzburg.
+         <note type="other-prints">Das österreichische Wunder. Einladung nach Salzburg.
                   Stuttgart: Die Lese [1915]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von allen Überraschungen, die uns dieser Krieg gebracht hat, ist
+         <note type="incipit">Von allen Überraschungen, die uns dieser Krieg gebracht hat, ist
                   die größte, das Österreich, so oft totgesagt, noch lebt, und lebendiger als
                   je.</note>
       </body>

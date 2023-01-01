@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_87" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Buddhismus</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Nation. Wochenschrift für Politik, Volkswirtschaft und
                      Literatur</title>
             <imprint>
@@ -46,13 +46,13 @@
                <date when="1890-09-13">13.9.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Ola Hansson erwähnt in einem Brief vom 22.10.1890 an Bahr, dass der Artikel in
                      einer norwegischen Zeitung wiederabgedruckt war. (Hansson and Marholm/Bahr,
                      26)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Überwindung des Naturalismus, 93–100</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Diesen Frühling lief ganz Paris nach der Sorbonne, die
+         <note type="other-prints">Überwindung des Naturalismus, 93–100</note>
+         <note type="incipit">Diesen Frühling lief ganz Paris nach der Sorbonne, die
                   buddhistischen Vorträge Léon de Rosnys zu hören.</note>
       </body>
    </text>

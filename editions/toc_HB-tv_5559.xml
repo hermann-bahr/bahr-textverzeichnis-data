@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">30. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">193–194</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Theaterdirektor einer Stadt im mittleren Deutschland klagt
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Der Theaterdirektor einer Stadt im mittleren Deutschland klagt
                   mir seine Situation, die typisch ist. Er hat ein gut bürgerliches Publikum: brave
                   Leute, die tagsüber redlich schanzen, aber abends dafür sich unterhalten und
                   womöglich lachen wollen; gelegentlich läßt man sich, da man weiß, daß dies zur
@@ -83,7 +83,7 @@
                   daß ihnen dann auch die Begeisterung der Hyänen am nächsten Tag schon nichts mehr
                   hilft! Jetzt sagen Sie mir nur, klagte mein Direktor, was man da anfangen soll?
                   Ich schlug ihm vor: selber Hyäne zu werden. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über das Leid des Theaterdirektors, dass Stücke, die dem
+         <note type="summary">Über das Leid des Theaterdirektors, dass Stücke, die dem
                   Publikum gefallen, in der Zeitung verrissen werden und so kein Publikum bekommen,
                   umgekehrt aber Kritikerbeifall bedeutet, dass dem Publikum das Stück
                   missfällt.</note>

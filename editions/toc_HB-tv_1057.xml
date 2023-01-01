@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1057" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Landschaft und Dichtung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Österreichs Dichterbuch. Festgabe österreichischer Dichter an den
                      Deutschen Schulverein Südmark</title>
             <editor>Papesch, Joseph</editor>
@@ -47,8 +47,8 @@
                <biblScope unit="pages">25–26</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 78-78</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Für das Gefühl der klassischen Zeit war Begabung noch sozusagen
+         <note type="other-prints">Labyrinth der Gegenwart, 78-78</note>
+         <note type="incipit">Für das Gefühl der klassischen Zeit war Begabung noch sozusagen
                   ein Taufgeschenk</note>
       </body>
    </text>

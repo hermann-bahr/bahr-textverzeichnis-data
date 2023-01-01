@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">25. Januar. [II] [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">I, 44–48</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Thomas Pègues: La somme théologique de Saint Thomas d’Aquin en
+         <note type="review-of">Thomas Pègues: La somme théologique de Saint Thomas d’Aquin en
                   forme de catéchisme pour tous les fidèles. Paris: Tequi 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im »Hochland«, das voriges Jahr meinen Aufsatz über Pascal
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Im »Hochland«, das voriges Jahr meinen Aufsatz über Pascal
                   gebracht hat, wird gerade seinethalben jetzt meine Rechtgläubigkeit verdächtigt:
                   ich sei namentlich, geht die Klage, kein »Katakombenchrist« und mein
                   »Barockchristentum« verwechsle den christlichen Himmel mit dem heidnischen
                   Olymp.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der im »Hochland« gebrachte Reaktion auf seinen dort erschienen
+         <note type="summary">Der im »Hochland« gebrachte Reaktion auf seinen dort erschienen
                   Artikel zu Pascal begegnet Bahr mit einem Glaubensbekenntnis, ein »halbwegs
                   richtiger Katholik up to date« sein zu wollen.</note>
       </body>

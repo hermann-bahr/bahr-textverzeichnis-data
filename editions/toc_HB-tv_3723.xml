@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3723" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Klimt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20789, Morgenblatt</biblScope>
@@ -44,11 +44,11 @@
                <date when="1922-07-16">16.7.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als Vorwort in: Gustav Klimt, Hg.: Fünfzig Handzeichnungen.
+         <note type="other-prints">Als Vorwort in: Gustav Klimt, Hg.: Fünfzig Handzeichnungen.
                   Wien, Leipzig: Thyrsos 1922, [2-7].</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Klimt kam am 14. Juli 1862 zur Welt. Er, dem jede Feierlichkeit
+         <note type="incipit">Klimt kam am 14. Juli 1862 zur Welt. Er, dem jede Feierlichkeit
                   verhaßt war, hätte heute, von allerhand hohen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
                <ptr type="pmb" target="#11461"/>
@@ -60,7 +60,7 @@
                <ptr type="HB-tv" target="HB-tv_3723_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-7-16_klimt.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-7-16_klimt.pdf</ref>
       </body>
    </text>
 </TEI>

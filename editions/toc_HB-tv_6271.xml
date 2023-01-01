@@ -36,11 +36,11 @@
             subtype="Tagebuch"
             sameAs="pmb30227"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30227">Tagebuch. 7. Februar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -49,14 +49,14 @@
                <date when="1922-02-19">19.2.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Dom«, Leipzig: Insel Erwin Guido Kolbenheyer: Die
+         <note type="review-of">»Der Dom«, Leipzig: Insel Erwin Guido Kolbenheyer: Die
                   Kindheit des Paracelsus. Roman. München: Georg Müller 1921. Erwin Guido
                   Kolbenheyer: Das Gestirn des Paracelsus. Roman. München: Georg Müller 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, II, 37-44</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Den »Dom« nennt der Inselverlag eine Sammlung von Schriften der
+         <note type="other-prints">Liebe der Lebenden, II, 37-44</note>
+         <note type="incipit">Den »Dom« nennt der Inselverlag eine Sammlung von Schriften der
                   deutschen Mystik.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Paracelsus und Mystik.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Über Paracelsus und Mystik.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

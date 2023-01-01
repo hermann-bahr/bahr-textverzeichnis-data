@@ -36,7 +36,7 @@
             type="Book"
             sameAs="pmb30083"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30083">Das Phantom. Komödie in drei Akten. Mit
                      Dekorationsskizzen von Koloman Moser</title>
@@ -47,7 +47,7 @@
             </imprint>
             <extent>153 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Thomasberger: »Bühnenmanuskript: Berlin: Ahn &amp; Simrock 1913«. Die
                      Österreichische Volkszeitung (59 (1913) #195, 7. 18.7.1913) meldet den
                      Manuskriptdruck als Erschienen und kündigt die Uraufführung für das Theater der
@@ -69,11 +69,11 @@
                      Schriften, III, 380-383. Hamburger Nachrichten, 20.3.1914 Ernst von Wolzogen
                      in: Das literarische Echo, 16 (1914) #7, 474-475</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Gattin des Brauers Schmorr verliebt sich in einen
+         <note type="summary">Die Gattin des Brauers Schmorr verliebt sich in einen
                   Theosophen, wird aber vom Objekt ihrer Begierde zurückgewiesen. Schmorr versucht,
                   ihr über diese Verletzung des Ichs hinwegzuhelfen, indem er den Angebeten bittet,
                   doch seiner Frau eine Liebeserklärung zu machen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.at/books?q=editions:UOM39015031324612&amp;id=5twqAAAAMAAJ</ref>
+         <ref type="URL">http://books.google.at/books?q=editions:UOM39015031324612&amp;id=5twqAAAAMAAJ</ref>
       </body>
    </text>
 </TEI>

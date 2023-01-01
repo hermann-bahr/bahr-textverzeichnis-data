@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1636" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Französische Romane. [I]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hochland</title>
             <imprint>
                <biblScope unit="jg">15</biblScope>
@@ -45,12 +45,12 @@
                <date when="1918">1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr empfiehlt »L’Immolé« und »Le feu« Redlich, 18.11.1917 (Bahr/Redlich,
                      282).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bilderbuch, 148–156</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kein Buch des Krieges hat so gewirkt wie Barbusses »Le
+         <note type="other-prints">Bilderbuch, 148–156</note>
+         <note type="incipit">Kein Buch des Krieges hat so gewirkt wie Barbusses »Le
                   Feu«</note>
       </body>
    </text>

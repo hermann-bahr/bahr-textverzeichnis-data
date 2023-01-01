@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4890" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Mozart-Centennar-Feier in Salzburg. III</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">20</biblScope>
@@ -45,12 +45,12 @@
                <date when="1891-07-22">22.7.1891</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Ein kleiner Unterschied zu den ersten beiden Berichten findet sich im Titel,
                      die ersten waren mit »Centenuar« betitelt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Salzburg, 19. Juli. Wie erzählt man Musik?</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1891_mozart_3.pdf</ref>
+         <note type="incipit">Salzburg, 19. Juli. Wie erzählt man Musik?</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1891_mozart_3.pdf</ref>
       </body>
    </text>
 </TEI>

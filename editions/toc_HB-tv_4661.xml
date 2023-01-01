@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-06-30">30.6.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Das Erbe« von Felix Philippi</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zum Sartorius im »Erbe« paßt ja die ganze massive und lärmende
+         <note type="review-of">»Das Erbe« von Felix Philippi</note>
+         <note type="incipit">Zum Sartorius im »Erbe« paßt ja die ganze massive und lärmende
                   Art des Herrn Diegelmann aus Frankfurt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12414"/>
                <ptr type="HB-tv" target="HB-tv_4661_p1"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der böse Goethe</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Um Goethe</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">1–9</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #199, 1–2. (22.7.1903)
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #199, 1–2. (22.7.1903)
                   Goethe–Kalender auf das Jahr 1908, 35–39</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Dialog vom Tragischen, 140–151</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine kluge Berlinerin hat mir einmal gesagt: »Ich mag Goethe
+         <note type="other-prints">Dialog vom Tragischen, 140–151</note>
+         <note type="incipit">Eine kluge Berlinerin hat mir einmal gesagt: »Ich mag Goethe
                   nicht, er erinnert mich zu sehr an Paul Lindau.</note>
       </body>
    </text>

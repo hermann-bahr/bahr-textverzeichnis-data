@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_5944" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Rodbertus Kapital. [I]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Kyffhäuser-Zeitung. Wochenschrift für alle Hochschulen-Angehörige
                      deutschen Stammes und deutscher Zunge</title>
             <imprint>
@@ -46,7 +46,7 @@
                <date when="1884-06-09">9.6.1884</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahrs erster Artikel für die Kyffhäuser-Zeitung, wie aus dem »Briefkasten«, der
                      am Beiblatt der Nummer abgedruckt ist, hervorgeht: »Hermann Bahr, Berlin.
                      Schönen Dank, wir bitten um Fortsetzung. D. Gr. // Würden Sie wohl die
@@ -58,13 +58,13 @@
                      Nummer (#38, 396. (16.6.1884)) bringt im »Sprechsaal« eine Ergänzung und
                      Klärung zu einer Stelle, die Bahr aus Wagners Vorwort zitiert.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Rodbertus: Das Kapital. Vierter sozialer Brief an von
+         <note type="review-of">Karl Rodbertus: Das Kapital. Vierter sozialer Brief an von
                   Kirchmann. Berlin: Puttkammer &amp; Mühlbrecht 1884.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vor wenigen Wochen ist Rodbertus’ lang und heiß ersehnter
+         <note type="incipit">Vor wenigen Wochen ist Rodbertus’ lang und heiß ersehnter
                   »vierter sozialer Brief an Kirchmann« endlich erschienen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr referiert den Entstehungskontext des Buches und über die
+         <note type="summary">Bahr referiert den Entstehungskontext des Buches und über die
                   Entstehung der Handelskrisen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3471"/>
                <ptr type="pmb" target="#12195"/>
@@ -85,7 +85,7 @@
                <ptr type="HB-tv" target="HB-tv_1363_p86"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/kyffhaeuser/1884-rodbertus-1.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/kyffhaeuser/1884-rodbertus-1.pdf</ref>
       </body>
    </text>
 </TEI>

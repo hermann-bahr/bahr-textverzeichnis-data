@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Leonardo</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Essays</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">7–25</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #27, 1–3 und #28, 1–4.
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #27, 1–3 und #28, 1–4.
                   (27. bzw. 28.1.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dmitry Sergewitsch Mereschkowski hat ein Buch über »Leonardo da
+         <note type="incipit">Dmitry Sergewitsch Mereschkowski hat ein Buch über »Leonardo da
                   Vinci« geschrieben...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr rezensiert Mereschkowskis Roman »Leonardo da Vinci«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Bahr rezensiert Mereschkowskis Roman »Leonardo da Vinci«.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#21342"/>
                <ptr type="pmb" target="#5224"/>
@@ -130,7 +130,7 @@
                <ptr type="HB-tv" target="HB-tv_3706_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
       </body>
    </text>
 </TEI>

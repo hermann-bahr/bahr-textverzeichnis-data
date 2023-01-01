@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Aquarelle</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">199–202</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volkszeitung, 46 (1900) #5, 2.
+         <note type="first-printing">Österreichische Volkszeitung, 46 (1900) #5, 2.
                   (6.1.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine im Ganzen sehr hübsche Ausstellung hat der
+         <note type="incipit">Eine im Ganzen sehr hübsche Ausstellung hat der
                   Aquarellistenclub der Secession nachgemacht.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine Ausstellung des Aquarellistenclubs bei der Vereinigung
+         <note type="summary">Eine Ausstellung des Aquarellistenclubs bei der Vereinigung
                   österreichischer Künstler nimmt Bahr zum Anlass, wieder vor der Gefahr eines
                   entkontextualisierten Kopierens secessionistisch anmutender Versatzstücke zu
                   warnen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11730"/>
                <ptr type="pmb" target="#5205"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_48_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Berliner. Von der Reise. 19. September 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">239–243</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Kjærlighedens Komedie (Die Komödie der Liebe)« von Henrik
+         <note type="review-of">»Kjærlighedens Komedie (Die Komödie der Liebe)« von Henrik
                   Ibsen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #257, 1–2.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #257, 1–2.
                   (19.9.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zwei Tage in Hamburg, um die Anfänge des neuen deutschen
+         <note type="incipit">Zwei Tage in Hamburg, um die Anfänge des neuen deutschen
                   Schauspielhauses, einen Tag in Berlin</note>
       </body>
    </text>

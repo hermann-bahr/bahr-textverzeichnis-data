@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 22. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,15 +48,15 @@
                <date when="1921-02-06">6.2.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Matthias Claudius: Das fromme Buch. Auswahl von Karl Seelig.
+         <note type="review-of">Matthias Claudius: Das fromme Buch. Auswahl von Karl Seelig.
                   Wien u.a.: E. P. Tal 1920. Ernst Cassirer: Zur Einsteinischen Relativitätstheorie.
                   Berlin: Bruno Cassirer 1921. Ernst Cassirer: [Einstein] in: Neue Rundschau,
                   Dezember 1920</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 37-41</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Sonnenglanz dieses Winterfrühlingstags</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Naturerfahrung und was es durch Claudius und Cassirer
+         <note type="other-prints">Liebe der Lebenden, I, 37-41</note>
+         <note type="incipit">Im Sonnenglanz dieses Winterfrühlingstags</note>
+         <note type="summary">Über die Naturerfahrung und was es durch Claudius und Cassirer
                   in einem erzeuge: Bescheidenheit und Respekt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

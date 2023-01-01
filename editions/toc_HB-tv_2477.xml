@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2477" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#4953">Donald G. Daviau</author>
             <title level="a">Hermann Bahr to Ferdinand von Saar. Some Unpublished
                      Letters</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Monatshefte</title>
             <imprint>
                <biblScope unit="issue">November</biblScope>
@@ -46,7 +46,7 @@
                <date when="1961">1961</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Donald G. Daviau: Understanding Hermann Bahr. St. Ingberg:
+         <note type="other-prints">Donald G. Daviau: Understanding Hermann Bahr. St. Ingberg:
                   Röhrig 2002, 127–133.</note>
       </body>
    </text>

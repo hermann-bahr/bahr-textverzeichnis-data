@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">L’âge d’aimer. (Komödie in vier Akten von Pierre Wolff. Zum
                      ersten Mal aufgeführt durch die Truppe der Réjane im Theater an der Wien am 14.
                      November 1905)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -53,9 +53,9 @@
                <biblScope unit="pages">373–378</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 39 (1905) #316, 10.
+         <note type="first-printing">Neues Wiener Tagblatt, 39 (1905) #316, 10.
                   (15.11.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Diese Pierre Wolff, der mit den verkniffen zwinkernden Augen und
+         <note type="incipit">Diese Pierre Wolff, der mit den verkniffen zwinkernden Augen und
                   den lüstern listigen Lippen ein bißchen wie einer aus der Familie Coquelin
                   aussieht</note>
       </body>

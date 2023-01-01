@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Wien und Berlin. 1. Merk’s Wien</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Schwarzgelb</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">114–118</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Merck’s Wien!« (1680) war der Titel einer Schrift von Abraham a Sancta
                      Clara.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Zukunft« in: Neues Wiener Journal, 24 (1916) #7963,
+         <note type="first-printing">Als »Zukunft« in: Neues Wiener Journal, 24 (1916) #7963,
                   8. (1.1.1916)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Durch diesen Krieg sind wir aus bloßen Zuschauern Europas, womit
+         <note type="incipit">Durch diesen Krieg sind wir aus bloßen Zuschauern Europas, womit
                   wir uns über ein Menschenalter...</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der neue Stil. Flavio Andò</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">301–306</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7489, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7489, Morgen–Ausgabe,
                   1–2. (3.11.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Er darf in meiner Reihe nicht fehlen. Er gehört in einem
+         <note type="incipit">Er darf in meiner Reihe nicht fehlen. Er gehört in einem
                   gewissen Sinne zur Wiener Kunst. Von keinem Anderen hat sie die letzten zehn Jahre
                   eine tiefere und gewaltsamere Wirkung auf ihre Entwicklung erfahren.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Interview zu Stilfragen in der Schauspielerei</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Interview zu Stilfragen in der Schauspielerei</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11201"/>
                <ptr type="pmb" target="#8165"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_2803_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

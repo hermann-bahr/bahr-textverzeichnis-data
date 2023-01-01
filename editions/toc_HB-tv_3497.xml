@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Stefan George</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">38–44</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Stefan George – Zum 60. Geburtstag« in: Das deutsche
+         <note type="first-printing">Als »Stefan George – Zum 60. Geburtstag« in: Das deutsche
                   Buch, 8 (1928) #5/6, 137–141</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Stefan George kam vier Jahre vor Paul Valéry zur Welt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Unter Rückgriff auf die Schilderung Nadlers zeigt Bahr George
+         <note type="incipit">Stefan George kam vier Jahre vor Paul Valéry zur Welt.</note>
+         <note type="summary">Unter Rückgriff auf die Schilderung Nadlers zeigt Bahr George
                   als einen kraftvollen Dichter, der es jedoch an Einfühlung vermissen lasse.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2437"/>
                <ptr type="pmb" target="#10328"/>
@@ -87,7 +87,7 @@
                <ptr type="HB-tv" target="HB-tv_3497_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

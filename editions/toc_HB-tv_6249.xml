@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 27. Dezember [1921]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -48,13 +48,13 @@
                <date when="1922-01-08">8.1.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 389-393</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unser Loeser hat jetzt »Jedermann« zur Wanderung ins Volk
+         <note type="other-prints">Liebe der Lebenden, I, 389-393</note>
+         <note type="incipit">Unser Loeser hat jetzt »Jedermann« zur Wanderung ins Volk
                   ausgerüstet</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Franz Loesers Dialektfassung des »Jedermann« ist ein Glücksfall,
+         <note type="summary">Franz Loesers Dialektfassung des »Jedermann« ist ein Glücksfall,
                   aus dessen Anlass Bahr auch beklagen kann, dass niemand mehr richtigen Dialekt
                   spräche.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

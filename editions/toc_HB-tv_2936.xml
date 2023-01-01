@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">»L’écriture artiste«. (Zum 9. Bande des »Journal des Goncourts«.
                      – Paris, Bibliothèque Charpentier 1896)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bildung</title>
             <imprint>
                <pubPlace>Berlin und Leipzig</pubPlace>
@@ -50,17 +50,17 @@
                <biblScope unit="pages">60–64</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 8 (1896) #94, 45. (18.7.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Essays, 176–180 Das Hermann-Bahr-Buch, 135</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Spricht man von den Goncourts, so verbeugt sich unsere Stimme
+         <note type="first-printing">Die Zeit, 8 (1896) #94, 45. (18.7.1896)</note>
+         <note type="other-prints">Essays, 176–180 Das Hermann-Bahr-Buch, 135</note>
+         <note type="incipit">Spricht man von den Goncourts, so verbeugt sich unsere Stimme
                   und wir zagen um die rechten Worte der innigsten Verehrung. Uns sind sie theuer
                   und wie edlere Wesen, weil sie niemals zu den schlechten Sitten der Zeit
                   herabgestiegen sind, sondern die Würde der Kunst in den reinsten Händen gehalten
                   haben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht das »Geheimnis« der »l’écriture artiste« der
+         <note type="summary">Bahr versucht das »Geheimnis« der »l’écriture artiste« der
                   Gebrüder Goncourt zu erklären, indem er ihre Fähigkeit betont, Wahrnehmungen
                   mithilfe von Worten nicht nur aufzurufen, sondern zu imitieren.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11500"/>
                <ptr type="pmb" target="#2925"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_2584_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
       </body>
    </text>
 </TEI>

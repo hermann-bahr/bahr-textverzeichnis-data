@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -48,15 +48,15 @@
                <date when="1906-03-13">13.3.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eine Stellungnahme zur Bearbeitung in Form eines Leserbriefs Valletins bringt
                      das Neue Wiener Tagblatt, #73, 15 (15.3.1906).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»The Merry Wives of Windsor (Die lustigen Weiber von Windsor)«
+         <note type="review-of">»The Merry Wives of Windsor (Die lustigen Weiber von Windsor)«
                   von William Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die lustigen Weiber von Windsor«, mit einer flinken
+         <note type="incipit">»Die lustigen Weiber von Windsor«, mit einer flinken
                   Fröhlichkeit dargestellt, der man überall den atemlos vehementen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#2235"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_2450_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

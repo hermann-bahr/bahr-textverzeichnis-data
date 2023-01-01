@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Andre Hofer. (Schauspiel in vier Aufzügen von Franz Kranewitter.
                      Zum erstenmale aufgeführt im Deutschen Volkstheater am 5. October 1902)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,11 +50,11 @@
                <biblScope unit="pages">371–377</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 36 (1902) #275, 1–2.
+         <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #275, 1–2.
                   (6.10.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   323-326</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Fort aus dem Naturalismus! hört man jetzt überall rufen.</note>
+         <note type="incipit">Fort aus dem Naturalismus! hört man jetzt überall rufen.</note>
       </body>
    </text>
 </TEI>

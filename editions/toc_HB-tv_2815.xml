@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Décadence</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">1–11</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 1 (1894) #6, 87–89. (10.11.1894)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Pariser schwärmt für Conferencen. Diese zierliche, kokette
+         <note type="first-printing">Die Zeit, 1 (1894) #6, 87–89. (10.11.1894)</note>
+         <note type="incipit">Der Pariser schwärmt für Conferencen. Diese zierliche, kokette
                   und unversehens doch, ohne es sich merken zu lassen, bis an das Wesen der Dinge
                   streifende Art der Rede, die Sachliches persönlich bringt, gefällt ihm.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schildert die Décadence anhand ihrer Protagonisten Robert
+         <note type="summary">Bahr schildert die Décadence anhand ihrer Protagonisten Robert
                   Montesquiou und Oscar Wilde, gesteht der Bewegung aber keine künstlerische Kraft
                   zu.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10899"/>
                <ptr type="pmb" target="#5449"/>
@@ -86,7 +86,7 @@
                <ptr type="HB-tv" target="HB-tv_2815_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

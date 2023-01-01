@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">XVI</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,20 +48,20 @@
                <biblScope unit="pages">167–186</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. XVI« in: Das Neue Reich, 5 (1922) #8,
+         <note type="first-printing">Als »Erinnerungen. XVI« in: Das Neue Reich, 5 (1922) #8,
                   152–155. (25.11.1922) und als »Erinnerungen. XVI. (Zweiter Teil)« in: #9, 173–175.
                   (2.12.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Noch heute kehrt mir, bei der bloßen Erinnerung, das Herzklopfen
+         <note type="incipit">Noch heute kehrt mir, bei der bloßen Erinnerung, das Herzklopfen
                   wieder, mit dem ich, April 1884, im Anhalter Bahnhof ausstieg: in derselben Stadt
                   zu sein wie Bismarck</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bismarck – Zur Wachablöse vor Wilhelm I. – Das alte Berlin und
+         <note type="summary">Bismarck – Zur Wachablöse vor Wilhelm I. – Das alte Berlin und
                   die Hauptstadt des neuen Reichs – Berliner und Pariser Einfluss auf seine
                   Persönlichkeit – Nationalökonomie als Studienfach – Im Seminar von Adolf Wagner –
                   Wolfgang und Wilhelm Heine – Die Professoren (Gustav von Schmoller, Heinrich von
                   Treitschke u.a.) – Beiträge in der »Deutschen Wochenschrift« – Das Primat der
                   Politik über die nutzlose Kunst – Fackelzug und Kommers zum Geburtstag Bismarcks –
                   Belehrung über die Bedeutung Österreichs durch Bismarcks Rat Rottenburg</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#5224"/>
@@ -118,7 +118,7 @@
                <ptr type="HB-tv" target="HB-tv_4857_p29"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

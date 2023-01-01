@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_521" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Demetrius. (Vor der Aufführung im Deutschen Volkstheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">33</biblScope>
@@ -45,11 +45,11 @@
                <date when="1899-11-04">4.11.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Demetrius! – welche Erinnerungen ruft der Name im Wiener
+         <note type="incipit">Demetrius! – welche Erinnerungen ruft der Name im Wiener
                   auf!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Vergleich der Geschichte des »Stadttheaters« von Laube mit den
+         <note type="summary">Vergleich der Geschichte des »Stadttheaters« von Laube mit den
                   ersten zehn Jahren des »Volkstheaters«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2702"/>
                <ptr type="pmb" target="#10065"/>

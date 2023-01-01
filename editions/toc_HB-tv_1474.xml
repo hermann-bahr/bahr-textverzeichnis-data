@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1474" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Eleonora Duse. Eine Studie</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Führer durch das Gastspiel von Eleonore Duse. Mit einer
                      einleitenden Studie von Hermann Bahr</title>
             <imprint>
@@ -46,7 +46,7 @@
                <biblScope unit="pages">1–10</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Auf der Umschlagrückseite wird die Funktion erklärt: »Dieses Büchlein enthält
                      das ganze Repertoire der Duse dergestalt arrangiert, daß der, der italienischen
                      Sprache Unkundige, das volle Verständnis und den vollen Genuß an dem
@@ -61,16 +61,16 @@
                      existiert kein Hinweis, dass Bahr jenseits der Abdruckgenehmigung seines Textes
                      aus der Frankfurter Zeitung in die Erstellung des Führers eingebunden war.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>2. Aufl. 1892 3. Aufl. Berlin: Wiener’sche Verlagsbuchhandlung o.J.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Frankfurter Zeitung 35 (1891) #129, 1. Morgenblatt.
+         <note type="first-printing">Frankfurter Zeitung 35 (1891) #129, 1. Morgenblatt.
                   (9.5.1891)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Russische Reise, 116–125 Am Anfang gekürzt in: Buschbeck:
+         <note type="other-prints">Russische Reise, 116–125 Am Anfang gekürzt in: Buschbeck:
                   Thespiskarren, 315-321</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Duse gilt den Italienern heute für ihre größte Tragödin. Ihr
+         <note type="incipit">Die Duse gilt den Italienern heute für ihre größte Tragödin. Ihr
                   Ruhm ist allen geläufig.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10899"/>
                <ptr type="pmb" target="#11201"/>
@@ -86,7 +86,7 @@
                <ptr type="HB-tv" target="HB-tv_2810_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1892_fuehrer-durch-das-gastspiel-der-duse_2.auflage.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1892_fuehrer-durch-das-gastspiel-der-duse_2.auflage.pdf</ref>
       </body>
    </text>
 </TEI>

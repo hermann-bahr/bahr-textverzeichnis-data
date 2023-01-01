@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2447" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die 62. Berliner akademische Kunstausstellung. III</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Kunstwart</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,14 +45,14 @@
                <date when="1890-08-10">10.8.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr nimmt sich nun die Aquarelle, Radierungen und Skulpturen vor und lobt vor
                      allem William Strang. (Das Selbstzitat stammt aus: Von neuer Kunst. In: Freie
                      Bühne für modernes Leben, 1 (1890) #25, 671-672)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist so vielen von dieser Berliner Kunstausstellung unwohl
+         <note type="incipit">Es ist so vielen von dieser Berliner Kunstausstellung unwohl
                   geworden, daß</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#17766"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_2447_p13"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/der-kunstwart/3-21_62.kunstausstellung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/der-kunstwart/3-21_62.kunstausstellung.pdf</ref>
       </body>
    </text>
 </TEI>

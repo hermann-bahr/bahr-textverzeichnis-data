@@ -36,7 +36,7 @@
             subtype="Bühnenmanuskript"
             status="checked"
             sameAs="pmb30461">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Lanza, Alejandro</author>
             <title level="m" ref="pmb30461">Juana. Drama</title>
             <imprint>
@@ -46,7 +46,7 @@
             </imprint>
             <extent>52 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der ursprüngliche Titel lautete »Esther« und wurde von Max Burckhard für das
                      Burgtheater abgelehnt (Neues Wiener Tagblatt, 35 (1901) #54, 8. (24.2.1901)). </p>
             <p>Rezensionen: Vorwärts, Berlin, 24.9.1896. Die Presse, 49 (1896) #262,
@@ -55,12 +55,12 @@
                      von Hans Olden). In: Die Gegenwart, 50 (1896), 223. Deutsche Zeitung,
                      19.11.1898. Sport und Salon, 1 (1898) #25, 5-6. (25.11.1898)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Juana, die Gattin eines Generals, hat eine Affaire mit einem von
+         <note type="summary">Juana, die Gattin eines Generals, hat eine Affaire mit einem von
                   diesem bevorzugten Leutnant. Als der Leutnant sie verlassen will, um die Nichte
                   des Generals zu heiraten, tut Juana alles, das zu verhindern. Letzten Endes
                   erschießt sich der um seine Ehre gebrachte Leutnant, die Nichte geht ins Kloster
                   und Juana wird wahnsinnig.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buch/1896_juana.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buch/1896_juana.pdf</ref>
       </body>
    </text>
 </TEI>

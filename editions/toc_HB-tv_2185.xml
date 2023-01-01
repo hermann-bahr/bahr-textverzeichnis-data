@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zionismus und Antizionismus</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Jüdische Echo. Bayerische Blätter für die jüdischen
                      Angelegenheiten</title>
             <imprint>
@@ -49,7 +49,7 @@
                <date when="1914">1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: Als Überschrift »Hermann Bahr« darunter »weicht in
                      seiner Stellungnahme zur Assimilation zwar von der unsrigen ab, wir sehen aber
                      das Bedeutsame seiner Ausführungen in der Beurteilung unseres und der
@@ -61,10 +61,10 @@
                      bereits die Antworten von Ricarda Huch, Wilhelm Weigand, Freiherr von Bodmann
                      und W. Fred.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Auszug in: Die Welt, 18 (1914) #16, 38 (17.4.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich kenne das »Antizionistische Komite« nicht. Über den
+         <note type="other-prints">Auszug in: Die Welt, 18 (1914) #16, 38 (17.4.1914)</note>
+         <note type="incipit">Ich kenne das »Antizionistische Komite« nicht. Über den
                   Zionismus aber darf ich sprechen. Ich hatte das Glück, Herzl gut zu kennen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11673"/>
                <ptr type="pmb" target="#3975"/>

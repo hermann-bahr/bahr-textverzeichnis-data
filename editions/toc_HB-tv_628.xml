@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_628" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Im Engadin. II</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -45,12 +45,12 @@
                <date when="1902-08-12">12.8.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Pontresina, 7. August. Die Erinnerung an Segantini zu hegen, bin
+         <note type="incipit">Pontresina, 7. August. Die Erinnerung an Segantini zu hegen, bin
                   ich aus den Munt della Bescha, den Schafberg</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr liefert weitere Stimmungsbilder von seinem Rad- und
+         <note type="summary">Bahr liefert weitere Stimmungsbilder von seinem Rad- und
                   Wanderurlaub im Engadin: Am Sterbeort von Segantini, auf Bergen und in
                   Berghütten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9845"/>
                <ptr type="pmb" target="#13024"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_628_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,17 +35,17 @@
             type="Journal-Article"
             subtype="Umfrage_Nicht_nachgewiesen"
             status="notLocated">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">[Weltfriedenstag?]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Unbekannte Zeitung</title>
             <imprint>
                <date when="1925">1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im Nachlass Bahrs, als »Wissenschaft, Kunst und Dichtung« abgelegter Ausschnitt
                      aus einer Umfrage, wobei das nur die Untersektion angeben dürfte, in der die
                      Antwort Bahrs steht. Auf Bahr folgt Professor Gustav Cassel, ein schwedischer
@@ -62,7 +62,7 @@
                      hier vorläufig getroffene Datierung auf das Jahr 1925 gründet einzig auf die
                      Verträge von Locarno.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ihr Vorschlag, sehr geehrter Herr, des Friedens jahraus, jahrein
+         <note type="incipit">Ihr Vorschlag, sehr geehrter Herr, des Friedens jahraus, jahrein
                   an einem bestimmten Tag in der Welt gemeinsam zu denken, darf überall freudiger
                   Zustimmung gewiß sein, auch bei denen, die den Namen Locarno-Tag lieber vermieden
                   sähen, weil ihnen das doch vielleicht allzu »zeitgemäß« und ein bißchen

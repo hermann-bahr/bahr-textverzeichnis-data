@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3547" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Hermann Bahr – Jaroslav Kvapil. Briefe, Texte, Dokumente. Unter
                      Mitarbeit von Hana Blahová</title>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>725 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Wechselwirkungen, 11</title>
          </series>
       </body>

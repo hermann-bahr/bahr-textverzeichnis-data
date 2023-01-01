@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">12. September [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">I, 294–303</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Albert von Hofmann: Das Land Italien und seine Geschichte.
+         <note type="review-of">Albert von Hofmann: Das Land Italien und seine Geschichte.
                   Stuttgart, Berlin: Deutsche Verlagsanstalt 1921.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zu Geschichte wird Geschehenes uns erst, wenn die Daten</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die von Hofmann propagierte Geschichte aus der Topografie reizt
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Zu Geschichte wird Geschehenes uns erst, wenn die Daten</note>
+         <note type="summary">Die von Hofmann propagierte Geschichte aus der Topografie reizt
                   Bahr sehr, besonders wenn es um das von ihm so geschätzte Venedig geht.</note>
       </body>
    </text>

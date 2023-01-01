@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">II</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">6–11</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. II« in: Das Neue Reich, 3 (1920) #9,
+         <note type="first-printing">Als »Erinnerungen. II« in: Das Neue Reich, 3 (1920) #9,
                   176–177. (28.11.1920) Auszug als »Meine Abstammung« in: Prager Tagblatt, 58 (1933)
                   #164, Der Sonntag, II. (16.7.1933)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Linz geboren, darf ich mich einen Oberösterreicher
+         <note type="incipit">In Linz geboren, darf ich mich einen Oberösterreicher
                   nennen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Vorfahren väterlicherseits – ...mütterlicherseits – »Bahr« als
+         <note type="summary">Vorfahren väterlicherseits – ...mütterlicherseits – »Bahr« als
                   Familienname – Linzer Dialekt – Geburtskonstellation</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3622"/>
                <ptr type="pmb" target="#4776"/>
@@ -83,7 +83,7 @@
                <ptr type="HB-tv" target="HB-tv_4843_p15"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

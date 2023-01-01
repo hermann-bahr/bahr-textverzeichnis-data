@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. Juni [1917]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">102–105</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Und was man mir gegen Clam auch immer sage, dieser meiner
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Und was man mir gegen Clam auch immer sage, dieser meiner
                   Ungeduld allzu bedächtige</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr nervt zwar die Langsamkeit der Entscheidungen von Heinrich
+         <note type="summary">Bahr nervt zwar die Langsamkeit der Entscheidungen von Heinrich
                   Karl Graf Clam-Martinic, spricht ihm den Willen zum Richtigen aber nicht
                   ab.</note>
       </body>

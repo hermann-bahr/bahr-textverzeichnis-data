@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Aufruf zur Verschwendung!</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Beobachter. Ein Volksblatt aus Schwaben</title>
             <imprint>
                <biblScope unit="issue">219</biblScope>
@@ -47,18 +47,18 @@
                <date when="1914-09-19">19.9.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Der bekannte Wiener Dichter Hermann Bahr erläßt in
                      verschiedenen Zeitungen einen Aufruf zur Verschwendung, der von jedem Deutschen
                      gelesen werden sollte, und auch in Stuttgart der Beherzigung bedarf:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Frankfurter Zeitung, 59 (1914) #258, Abendblatt, 1.
+         <note type="first-printing">Frankfurter Zeitung, 59 (1914) #258, Abendblatt, 1.
                   (17.9.1914) Schaubühne 11 (1915) #1, 247–249. (18. 3.1915) Als »Warnung vor
                   falscher Sparsamkeit« In: Neue Freie Presse (1914) #17979, Morgenblatt, 10.
                   (13.9.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Aufruf zur Verschwendung« in: Kriegssegen,
+         <note type="other-prints">Als »Aufruf zur Verschwendung« in: Kriegssegen,
                   68-70</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">So viel man sich auch von der menschlichen Dummheit erwartet,
+         <note type="incipit">So viel man sich auch von der menschlichen Dummheit erwartet,
                   der Mensch übertrifft alle Erwartungen noch, er ist noch dümmer, als man
                   denkt!</note>
       </body>

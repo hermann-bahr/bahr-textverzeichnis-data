@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1207" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Racine</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22180, Morgenblatt</biblScope>
@@ -44,12 +44,12 @@
                <date when="1926-06-15">15.6.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Literarische Umschau. Wochenschrift der Badischen Presse,
+         <note type="first-printing">Literarische Umschau. Wochenschrift der Badischen Presse,
                   2 (1926) #32, 126. (11.8.1926) Magdeburgische Zeitung, (1927) #1. Haupt–)Ausgabe,
                   #149, 2–3. (23.3.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der allbelesene Deutsche, so stolz auf seine weltliterarische
+         <note type="incipit">Der allbelesene Deutsche, so stolz auf seine weltliterarische
                   Bildung</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-6-15_racine.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-6-15_racine.pdf</ref>
       </body>
    </text>
 </TEI>

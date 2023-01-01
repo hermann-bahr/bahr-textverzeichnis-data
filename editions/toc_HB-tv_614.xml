@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_614" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ibsen. (Henrik Ibsen von Rudolph Lothar. Achter Band der Sammlung
                      »Dichter und Darsteller«. Leipzig, Berlin und Wien. Verlag von E. A. Seemann
                      und der Gesellschaft für graphische Industrie)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -49,14 +49,14 @@
                <date when="1902-04-11">11.4.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine neue Schrift über Ibsen, von Rudolph Lothar mit schönem
+         <note type="incipit">Eine neue Schrift über Ibsen, von Rudolph Lothar mit schönem
                   Fleiß verfaßt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Neben ausführlichen Zitaten aus Lothars Buch, in denen etwa
+         <note type="summary">Neben ausführlichen Zitaten aus Lothars Buch, in denen etwa
                   Ibsen als Heimatkünstler mit Rosegger verglichen wird, bringt Bahr nur wenige
                   eigene Bemerkungen. Am Ende streicht er heraus, dass es aus seiner Generation
                   Ibsen allein sei, »der immer sich über das Wirkliche erhoben hat und immer
                   innerhalb des Sinnlichen stehen geblieben ist.«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#2570"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_614_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

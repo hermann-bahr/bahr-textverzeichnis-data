@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erinnerungen. VIII</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,9 +49,9 @@
                <date when="1921-05-22">22.5.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Selbstbildnis, 72-85 (Kapitel 8)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ἀςὶ γὰρ ςὁ</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_erinnerungen-8.pdf</ref>
+         <note type="other-prints">Selbstbildnis, 72-85 (Kapitel 8)</note>
+         <note type="incipit">Ἀςὶ γὰρ ςὁ</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_erinnerungen-8.pdf</ref>
       </body>
    </text>
 </TEI>

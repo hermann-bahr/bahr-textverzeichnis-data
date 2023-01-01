@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3759" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Beitrag]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb63547">Aus dem Reich der Schminke und der Tinte.
                      Aphorismen und Karikaturen. Herausgegen zum Besten der Pensions-Anstalt des
                      Deutschen Volkstheaters und für den Österreichischen Bühnenverein</title>
@@ -50,10 +50,10 @@
                <biblScope unit="pages">3</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Darüber ein Foto Bahrs, der an einer Büste lehnt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich aber glaube, daß sich die Menschheit nicht mehr
+         <note type="incipit">Ich aber glaube, daß sich die Menschheit nicht mehr
                   beschwichtigen wird, bis sie kein anderes Gesetz mehr hat als ihre Lust. |</note>
       </body>
    </text>

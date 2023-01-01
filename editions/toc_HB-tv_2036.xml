@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -48,10 +48,10 @@
                <date when="1905-09-05">5.9.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Jugend« von Max Halbe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Annchen in der »Jugend« gab gestern Fräulein Paula Müller,
+         <note type="review-of">»Jugend« von Max Halbe</note>
+         <note type="incipit">Das Annchen in der »Jugend« gab gestern Fräulein Paula Müller,
                   von Berlin aus als ein großes Talent angekündigt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11565"/>
                <ptr type="pmb" target="#9006"/>
@@ -60,7 +60,7 @@
                <ptr type="pmb" target="#4179"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

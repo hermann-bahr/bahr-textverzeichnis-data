@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. Oktober [1924]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">140–146</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In dieser quälenden Zeit einer Selbstentfremdung,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In dieser quälenden Zeit einer Selbstentfremdung,
                   Selbstverschüttung, Selbstzerklüftung, wie sie der Deutsche bisher auch in den
                   ärgsten Anfällen inneren Versagens niemals erlebt hat</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Hölderlin, dessen jüngste, breite Rezeption Bahr als
+         <note type="summary">Über Hölderlin, dessen jüngste, breite Rezeption Bahr als
                   Auswirkung des Weltkriegs interpretiert.</note>
       </body>
    </text>

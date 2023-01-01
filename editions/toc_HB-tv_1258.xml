@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1258" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Spiegelungen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Navigare necesse est. Eine Festgabe für Anton Kippenberg zum
                      zweiundzwanzigsten Mai MCMXXIV</title>
             <imprint>
@@ -46,12 +46,12 @@
                <biblScope unit="pages">47–49</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer sich nicht gemein macht, wird unter Deutschen gleich
+         <note type="incipit">Wer sich nicht gemein macht, wird unter Deutschen gleich
                   verdächtig, exklusiv zu sein.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht die Leistung des Insel-Verlags darin, nicht
+         <note type="summary">Bahr sieht die Leistung des Insel-Verlags darin, nicht
                   anbiedernde Volksbildung zu unternehmen, und jene Anton Kippenbergs, sich in
                   seinem Werk erst zu verwirklichen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#18654"/>
                <ptr type="pmb" target="#12504"/>

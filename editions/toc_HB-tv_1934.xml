@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1934" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -45,15 +45,15 @@
                <date when="1903-05-07">7.5.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Pelléas und Mélisande« von Maurice Maeterlinck</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Pelléas und Mélisande. (Von Maurice Maeterlinck,
+         <note type="review-of">»Pelléas und Mélisande« von Maurice Maeterlinck</note>
+         <note type="other-prints">Als »Pelléas und Mélisande. (Von Maurice Maeterlinck,
                   deutsch von Friedrich von Oppeln-Bronikowski)« in: Glossen, 248-255. H. B.:
                   Kritiken. Hg. Kindermann. Wien: Bauer 1963, 233-237.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vierte Vorstellung des Kleinen Theaters: »Pelleas und Melisande«
+         <note type="incipit">Vierte Vorstellung des Kleinen Theaters: »Pelleas und Melisande«
                   von Maurice Maeterlinck, deutsch von Friedrich v. Oppeln-Bronikowski. An diesem
                   Stücke, das man ja auch bei uns schon aus einer Aufführung in der Josefstadt
                   kennt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

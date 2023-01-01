@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Woran ich Freude fand. Eine Umfrage über wertvolle neue
                      Bücher</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Nord und Süd. Monatsschrift für internationale
                      Zusammenarbeit</title>
             <imprint>
@@ -51,19 +51,19 @@
                <date when="1908">1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Weitere Beiträger: Franz Blei, Felix Dahn, Herbert Eulenberg, Alice Fliegel,
                      Dagobert v. Gerhard Amyntor, Ludwig Geiger, Helene von Monbart (d.i. Hans von
                      Kahlenberg), Johannes Schlaf, Paul Ernst.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Max Burckhard: Die Insel der Seligen. Berlin: S. Fischer 1908.
+         <note type="review-of">Max Burckhard: Die Insel der Seligen. Berlin: S. Fischer 1908.
                   Rudolf Hans Bartsch: Zwölf aus der Steiermark. Leipzig: L. Staackmann 1908.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von den Büchern, die mir im letzten Jahre zugekommen sind, hat
+         <note type="incipit">Von den Büchern, die mir im letzten Jahre zugekommen sind, hat
                   mir der neue Roman von Max Burckhard,</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr empfiehlt Burckhards Buch als das bemerkenswerteste, das in
+         <note type="summary">Bahr empfiehlt Burckhards Buch als das bemerkenswerteste, das in
                   Österreich in der letzten Dekade geschrieben wurde, in Rudolf Hans Bartsch sieht
                   er wiederum die Stimme der neuen Generation sich äußern.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11036"/>
                <ptr type="pmb" target="#10836"/>

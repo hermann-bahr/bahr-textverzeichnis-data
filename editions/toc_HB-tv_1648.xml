@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erinnerungen. II</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,12 +49,12 @@
                <date when="1920-11-28">28.11.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Auszug als »Meine Abstammung« in: Prager Tagblatt, 58
+         <note type="first-printing">Auszug als »Meine Abstammung« in: Prager Tagblatt, 58
                   (1933) #164, Der Sonntag, II. (16.7.1933)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Selbstbildnis, 6–11 (Kapitel 2)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Linz geboren, darf ich mich einen Oberösterreicher
+         <note type="other-prints">Selbstbildnis, 6–11 (Kapitel 2)</note>
+         <note type="incipit">In Linz geboren, darf ich mich einen Oberösterreicher
                   nennen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1920_erinnerungen-2.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1920_erinnerungen-2.pdf</ref>
       </body>
    </text>
 </TEI>

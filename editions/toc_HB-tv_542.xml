@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_542" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ex Lex Heinze</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -45,9 +45,9 @@
                <date when="1900-05-29">29.5.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Lex Heinze« in: Bildung, 101–108</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zuerst mit Erstaunen, dann mit Bewunderung</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <note type="other-prints">Als »Lex Heinze« in: Bildung, 101–108</note>
+         <note type="incipit">Zuerst mit Erstaunen, dann mit Bewunderung</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

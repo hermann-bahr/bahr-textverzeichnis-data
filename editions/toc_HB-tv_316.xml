@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_316" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Rothe Bäume. (Zur Ausstellung der Secessionisten im
                      Künstlerhause.)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -47,10 +47,10 @@
                <date when="1895-01-05">5.1.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 197-202 Wunberg: Das junge Wien, 95.1</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Leute sagen mir: »Nein, schau’n Sie, das dürfen Sie
+         <note type="other-prints">Renaissance, 197-202 Wunberg: Das junge Wien, 95.1</note>
+         <note type="incipit">Die Leute sagen mir: »Nein, schau’n Sie, das dürfen Sie
                   nicht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/14-12.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/14-12.pdf</ref>
       </body>
    </text>
 </TEI>

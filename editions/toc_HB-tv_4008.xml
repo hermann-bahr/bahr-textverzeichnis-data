@@ -36,11 +36,11 @@
             subtype="Glosse"
             sameAs="pmb32722"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Mepherl</author>
             <title level="a" ref="pmb32722">Indiscret</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -49,13 +49,13 @@
                <date when="1893-12-10">10.12.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich schätze Herrn Robert Nhil.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Ich schätze Herrn Robert Nhil.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12355"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78875.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78875.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. März [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">71–74</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Diese mörderischen, aber auch selbstmörderischen Steuern, an
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Diese mörderischen, aber auch selbstmörderischen Steuern, an
                   denen sich jetzt unsere Langmut erproben soll, erinnern mich, was mein Vater, als
                   ich noch ein Jüngling war, immer sagte, wenn er wieder meine Schulden zahlen
                   sollte: Du glaubst rein, du bist der Staat! Ein ordentlicher Mensch aber, fuhr er
@@ -135,7 +135,7 @@
                   doch endlich einmal brechen, uns bescheiden, eine lose Föderation kleiner
                   Stadtstaaten zu werden, und so den von uns verschuldeten Unsegen doch noch in Heil
                   für unsere Kinder wandeln lernen. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ärgern die Steuern, weil Österreich nicht begreift, dass,
+         <note type="summary">Bahr ärgern die Steuern, weil Österreich nicht begreift, dass,
                   wenn man nur mehr ein Bruchteil seiner alten Größe hat, man nicht auf noch
                   größerem Fuß leben kann.</note>
       </body>

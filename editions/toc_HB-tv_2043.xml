@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2043" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -45,14 +45,14 @@
                <date when="1904-12-02">2.12.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Les affaires sont les affaires (Geschäft ist Geschäft)« von
+         <note type="review-of">»Les affaires sont les affaires (Geschäft ist Geschäft)« von
                   Octave Mirbeau</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Coquelin, »der Letzte«, wie ihn Kerr genannt hat, »der
+         <note type="incipit">Coquelin, »der Letzte«, wie ihn Kerr genannt hat, »der
                   Schauspieler eines versunkenen Kaiserreiches und der Kaiser eines versinkenden
                   Schauspielerreiches«, gab gestern Mirbeaus Isidore Lechat</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr vergleicht, wie Bassermann, Heine und Coquelin aîné die
+         <note type="summary">Bahr vergleicht, wie Bassermann, Heine und Coquelin aîné die
                   selbe Rolle spielen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11910"/>
                <ptr type="pmb" target="#8948"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_4835_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

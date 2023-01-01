@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_10" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Über Rodbertus. Ein Vortrag</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Unverfälschte deutsche Worte</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,18 +45,18 @@
                <date when="1884-10-16">16.10.1884</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Wie aus einem Brief an den Vater vom 25.5.1884 hervorgeht, war das ursprünglich
                      ein Vortrag im Seminar Adolf Wagners. Im Nachlass Bahrs ein Brief eines Herrn
                      Langgammers (23.10.1884, AM 20131 Ba), der Bahr berichtet, die gewünschten
                      Änderungen vorgenommen und die Vortragseinladung fertiggestellt zu haben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Hermann Bahr: Über Rodbertus. Vortrag. Mit einem Vorworte
+         <note type="other-prints">Hermann Bahr: Über Rodbertus. Vortrag. Mit einem Vorworte
                   des Verfassers. Wien: Verl. der »Unverfälschten Deutschen Worte« (Georg Ritter von
                   Schönerer), 1884.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»National, sozial, monarchisch.« Rodbertus. Es war im Jahre
+         <note type="incipit">»National, sozial, monarchisch.« Rodbertus. Es war im Jahre
                   1873; damals, als die soziale Bewegung</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/unverfaelschte-deutsche-worte/1884_rodbertus.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/unverfaelschte-deutsche-worte/1884_rodbertus.pdf</ref>
       </body>
    </text>
 </TEI>

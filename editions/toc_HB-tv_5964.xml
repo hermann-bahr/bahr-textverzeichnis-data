@@ -35,12 +35,12 @@
             type="Journal-Article"
             subtype="Vortragsmitschrift"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#28459">Eckardt, Johannes</author>
             <title level="a">Hermann Bahr in Salzburg</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Chronik</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -49,12 +49,12 @@
                <date when="1909-03-29">29.3.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In allgemeine Bemerkungen zu Bahr eingegliederte Mitschrift von Bahrs Vortrag
                      am 27. März 1909 in Salzburg.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Heute packt mich eigentlich ein Lampenfieber</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über seine Maturarede, die 1880erjahre, Jung-Wien, Österreich.
+         <note type="incipit">Heute packt mich eigentlich ein Lampenfieber</note>
+         <note type="summary">Über seine Maturarede, die 1880erjahre, Jung-Wien, Österreich.
                   Danach Lesung des dritten Akts aus »Franzl« und die Novelle »Erinnerung«.</note>
       </body>
    </text>

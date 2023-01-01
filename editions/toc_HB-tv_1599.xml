@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1599" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Hermann von Kürenberg</author>
             <title level="a">Eine Kritik der Kritik. Ein offener Brief an Herrn H. Wen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Nachrichten</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,7 +45,7 @@
                <date when="1881-09-16">16.9.1881</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Artikel ist datiert mit Salzburg, 12. September. Im Untertitel wie im Text
                      ist Bahr (?) ein Irrtum unterlaufen, stehen doch statt dem Kürzel Wittmanns
                      (»H. Wnn.«) – Bahr kennt womöglich den ganzen Namen nicht – die Buchstaben
@@ -63,15 +63,15 @@
                      #115) Bahrs Lieblingslehrer Joseph Steger positiv besprochen wird, ergänzt die
                      Beweisführung.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Nora« von Henrik Ibsen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das »Wiener Stadttheater« brachte schon vorige Woche seine erste
+         <note type="review-of">»Nora« von Henrik Ibsen</note>
+         <note type="incipit">Das »Wiener Stadttheater« brachte schon vorige Woche seine erste
                   Novität: Nora oder Ein Puppenheim von Henrik Ibsen. Das Schauspiel ist hier noch
                   von der glänzenden Aufführung</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die inhaltliche Kritik an Hugo Wittmann, die Bahr vornimmt,
+         <note type="summary">Die inhaltliche Kritik an Hugo Wittmann, die Bahr vornimmt,
                   besteht ihm Vorwurf, dieser verstünde die Psychologie der Figuren nicht, weswegen
                   Bahr vorwiegend eine sehr detailreiche Interpretation der Wirklichkeitswahrnehmung
                   der Figuren macht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#2739"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_4463_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_kritik.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_kritik.pdf</ref>
       </body>
    </text>
 </TEI>

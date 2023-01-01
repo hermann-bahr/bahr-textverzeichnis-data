@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3714" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Atlantis</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22231, Morgenblatt</biblScope>
@@ -44,18 +44,18 @@
                <date when="1926-08-05">5.8.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 59 (1926) #369, Morgen–Ausgabe,
+         <note type="first-printing">Berliner Börsen–Courier, 59 (1926) #369, Morgen–Ausgabe,
                   1. Beilage, 5. (11.8.1926) Hannoverscher Kurier, 79 (1927) #320, Abend–Ausgabe, 2.
                   (12.7.1927) Luginsland. Beilage der »Nürnberger Zeitung«, 4 (1927) #31, 1.
                   (6.8.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 90-94</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Namen wirken zuweilen schon durch ihren bloßen Klang</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="other-prints">Labyrinth der Gegenwart, 90-94</note>
+         <note type="incipit">Namen wirken zuweilen schon durch ihren bloßen Klang</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28262"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-8-5_atlantis.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-8-5_atlantis.pdf</ref>
       </body>
    </text>
 </TEI>

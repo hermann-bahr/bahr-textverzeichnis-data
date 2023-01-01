@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_172" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Im Spiegel. Autobiographische Skizzen. XLII</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das literarische Echo. Halbmonatsschrift für
                      Literaturfreunde</title>
             <imprint>
@@ -46,24 +46,24 @@
                <date when="1911-01-01">1.1.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Nummerierung des Artikels bezieht sich auf die gleichnamige Serie der
                      Zeitung, die schon von 41 anderen Autoren solche »Skizzen« veröffentlicht
                      hat.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Um den letzen Absatz gekürzt als »Hermann Bahr« in:
+         <note type="first-printing">Um den letzen Absatz gekürzt als »Hermann Bahr« in:
                   Prager Tagblatt 38 (1913) #150, Morgen–Ausgabe, 9. (29.6.1913) Ebenso als »Eine
                   Selbstbiographie Hermann Bahrs« in: Salzburger Volksblatt, 43 (1913) #150, 1–2.
                   (4.7.1913) Illustrirtes Wiener Extrablatt, 42 (1913) #196, 6. (19.7.1913) Ebenso
                   als »Autobiographische Skizze« in: Der Schloßpark, (1921) #11, 147–149.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Autobiographische Skizze« in: Lesezirkel Hottingen,
+         <note type="other-prints">Als »Autobiographische Skizze« in: Lesezirkel Hottingen,
                   Vierter Abend, 13. Januar 1913, 4-7 Um den letzten Absatz gekürzt als
                   »Autobiographische Skizze« in: Das Hermann-Bahr-Buch, 15–17</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin am 19. Juli 1863 in Linz an der Donau geboren als das
+         <note type="incipit">Ich bin am 19. Juli 1863 in Linz an der Donau geboren als das
                   erste Kind des k.k. Notars Dr. Alois Bahr und seiner Ehefrau Minna, der Tochter
                   eines schlesischen Statthaltereirats. Linz war damals noch eine echte
                   Kleinstadt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2132"/>
                <ptr type="pmb" target="#27667"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_1326_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/das-literarische-echo/1911-7_im-spiegel.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/das-literarische-echo/1911-7_im-spiegel.pdf</ref>
       </body>
    </text>
 </TEI>

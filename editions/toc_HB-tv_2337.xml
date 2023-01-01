@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Raimund-Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -48,10 +48,10 @@
                <date when="1905-03-15">15.3.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Gengangere (Gespenster)« von Henrik Ibsen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Eugen Burg gab gestern den Oswald in den »Gespenstern«, mit
+         <note type="review-of">»Gengangere (Gespenster)« von Henrik Ibsen</note>
+         <note type="incipit">Herr Eugen Burg gab gestern den Oswald in den »Gespenstern«, mit
                   dem er in Hamburg so stark gewirkt hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11046"/>
                <ptr type="pmb" target="#11798"/>
@@ -63,7 +63,7 @@
                <ptr type="HB-tv" target="HB-tv_2337_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

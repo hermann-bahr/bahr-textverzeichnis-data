@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Heimkehr. B.Z. am Mittag, 46 (1923) #110, 1. Beiblatt, 5.
                      (23.4.1923)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die schöne Frau</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -50,8 +50,8 @@
                <biblScope unit="pages">65–73</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wirkung in die Ferne. Wien: Bauer 1947, 77-86</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Aber, Papa, dann hast du ja Dollars?« rief der Bub,
+         <note type="other-prints">Wirkung in die Ferne. Wien: Bauer 1947, 77-86</note>
+         <note type="incipit">Aber, Papa, dann hast du ja Dollars?« rief der Bub,
                   »Dollars!«</note>
       </body>
    </text>

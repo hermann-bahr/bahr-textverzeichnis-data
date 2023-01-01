@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Verkade</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">131–141</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Unruhe zu Gott« in: Hochland, 17 (1920) #August,
+         <note type="first-printing">Als »Die Unruhe zu Gott« in: Hochland, 17 (1920) #August,
                   530–535 Gekürzt als »Hermann Bahr über P. Verkades ’Unruhe zu Gott’ in: Das Neue
                   Reich, 2 (1920) #52, 887. (26.9.1920)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Unruhe zu Gott, das ist der Titel eines Buches, worin die
+         <note type="incipit">Die Unruhe zu Gott, das ist der Titel eines Buches, worin die
                   Geschichte einer Konversion erzählt wird.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schildert Verkades Konversion zum Katholizismus als ein
+         <note type="summary">Bahr schildert Verkades Konversion zum Katholizismus als ein
                   Ereignis der Gnade.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28262"/>
                <ptr type="pmb" target="#5101"/>
@@ -88,7 +88,7 @@
                <ptr type="HB-tv" target="HB-tv_4861_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

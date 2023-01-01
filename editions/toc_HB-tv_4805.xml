@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Gekürzt"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Stein unter Steinen. Schauspiel in vier Akten von Hermann
                      Sudermann</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Kleine Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -50,18 +50,18 @@
                <date when="1905-11-12">12.11.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die kleine Ausgabe der Volkszeitung kürzt Bahrs Feuilleton im Hauptblatt und
                      führt es mit der Nachtkritik in einem Text zusammen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Stein unter Steinen« von Hermann Sudermann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Erster Teil, vollständig: Österreichische Volks–Zeitung,
+         <note type="review-of">»Stein unter Steinen« von Hermann Sudermann</note>
+         <note type="first-printing">Erster Teil, vollständig: Österreichische Volks–Zeitung,
                   51 (1905) #313, 5. (12.11.1905) Nachtkritik: Österreichische Volks–Zeitung, 51
                   (1905) #313, 21. (12.11.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Vollständig: Glossen, 93-96</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sudermann gehört, kommt mir immer vor, zu den Autoren, die es
+         <note type="other-prints">Vollständig: Glossen, 93-96</note>
+         <note type="incipit">Sudermann gehört, kommt mir immer vor, zu den Autoren, die es
                   brauchen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12899"/>
                <ptr type="pmb" target="#11924"/>

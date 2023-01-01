@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4029" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Arbeiter und die Cultur</title>
             <author ref="#10815">H–R</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Österreichischer Arbeiterkalender auf das Jahr 1888</title>
             <editor>Redaction des »Volksfreund« in Brünn</editor>
             <imprint>
@@ -46,13 +46,13 @@
                <biblScope unit="pages">61–64</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einige sind der Ansicht, der Socialismus wäre nichts als eine
+         <note type="incipit">Einige sind der Ansicht, der Socialismus wäre nichts als eine
                   Magenfrage.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Text stellt den Sozialismus als Produkt der bürgerlichen
+         <note type="summary">Bahrs Text stellt den Sozialismus als Produkt der bürgerlichen
                   Freiheitsbewegung dar, die einerseits zu Arbeitssklaven geführt hat, andererseits
                   in der Fabrik auch dem Menschen Unterordnung, Gleichheit und Gemeinschaft erkennen
                   hat lassen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1887_arbeiterkalender.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1887_arbeiterkalender.pdf</ref>
       </body>
    </text>
 </TEI>

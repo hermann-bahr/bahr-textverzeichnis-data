@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahrs »erstes Opfer«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Volksblatt</title>
             <imprint>
                <biblScope unit="jg">43</biblScope>
@@ -48,14 +48,14 @@
                <date when="1913-08-17">17.8.1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr erzählt die Geschichte seiner Maturarede samt der (irrigen) Behauptung,
                      seiner Rede wegen sei der Direktor der Schule pensioniert worden.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Prager Tagblatt, 38 (1913) #222, 6. (14.8.1913)
+         <note type="first-printing">Prager Tagblatt, 38 (1913) #222, 6. (14.8.1913)
                   Vollständig als »Mozarteum« in: Neue Freie Presse, (1913) #17590, Morgenblatt,
                   1–2. (12.8.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Aula academica des alten Salzburger Kollegiums ergreift
+         <note type="incipit">Die Aula academica des alten Salzburger Kollegiums ergreift
                   mich</note>
       </body>
    </text>

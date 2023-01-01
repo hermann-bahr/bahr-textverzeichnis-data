@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 28. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,19 +48,19 @@
                <date when="1930-04-06">6.4.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Diotima: Schule der Liebe. Jena: Diederichs 1930.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Schule der Liebe« heißt ein Buch, das jetzt der rührige Verlag
+         <note type="review-of">Diotima: Schule der Liebe. Jena: Diederichs 1930.</note>
+         <note type="incipit">»Schule der Liebe« heißt ein Buch, das jetzt der rührige Verlag
                   Eugen Diederichs bringt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wenn eine Frau ein solches Buch schreibt, kann sie nichts von
+         <note type="summary">Wenn eine Frau ein solches Buch schreibt, kann sie nichts von
                   der Liebe wissen, denn die käme - so Bahr - von innen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11161"/>
                <ptr type="pmb" target="#4336"/>
                <ptr type="HB-tv" target="HB-tv_6698_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

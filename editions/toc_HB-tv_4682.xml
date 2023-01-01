@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4682" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der arme Heinrich. Ein Drama aus der deutschen Sage in fünf Akten
                      von Gerhart Hauptmann. Zum erstenmal aufgeführt im Burgtheater am 29. November
                      1902</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -49,15 +49,15 @@
                <date when="1902-11-30">30.11.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im Unterschied zur »normalen« Ausgabe der Volkszeitung, wo die Rezension der
                      Première an eigener Stelle im Blatt erscheint, ist sie hier an das Ende
                      angehängt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 48 (1902) #328, 5–6 und 4.
+         <note type="first-printing">Österreichische Volks–Zeitung, 48 (1902) #328, 5–6 und 4.
                   (30.11.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 65-75</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nach einer lateinischen Aufzeichnung hat Hartmann von Aue mit
+         <note type="other-prints">Rezensionen, 65-75</note>
+         <note type="incipit">Nach einer lateinischen Aufzeichnung hat Hartmann von Aue mit
                   »seinen kristallenen Wörtelein«</note>
       </body>
    </text>

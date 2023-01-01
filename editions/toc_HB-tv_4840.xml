@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Kranken Recht auf Wahrheit</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Volksblatt</title>
             <imprint>
                <biblScope unit="jg">43</biblScope>
@@ -48,19 +48,19 @@
                <date when="1913-06-08">8.6.1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Über diese Frage äußert sich Hermann Bahr in der ’Öst.
                      Volksztg.’ folgendermaßen:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Des Kranken Recht auf Wahrheit« in: Deutsche
+         <note type="first-printing">Als »Des Kranken Recht auf Wahrheit« in: Deutsche
                   Montags–Zeitung, 1 (1910) #2, 2. Beilage, 9. (10.10.1910) Als »Recht auf Wahrheit«
                   in: Das Kleine Journal, (1912) #62, 2. (3.12.1912) Als »Des Kranken Recht auf
                   Wahrheit« in: Österreichische Volks–Zeitung, 59 (1913) #131, 4. (15.5.1913) Als
                   »Des Kranken Recht auf Wahrheit« in: Schlesische Zeitung, 172 (1913) #457,
                   Morgenblatt, 2. (3.7.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Des Kranken Recht auf Wahrheit« in: Das
+         <note type="other-prints">Als »Des Kranken Recht auf Wahrheit« in: Das
                   Hermann-Bahr-Buch, 71-73</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Als ich zum letzten Male bei Kainz war, fünf Tage vor dem
+         <note type="incipit">»Als ich zum letzten Male bei Kainz war, fünf Tage vor dem
                   Ende</note>
       </body>
    </text>

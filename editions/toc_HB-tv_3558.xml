@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3558" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#5024">Manzoni, Alessandro</author>
             <title level="m">Die Verlobten. Eine mailändische Geschichte aus dem 17.
                      Jahrhundert. II. Ins Deutsche übertragen von Johanna Schuchter</title>
@@ -46,10 +46,10 @@
             </imprint>
             <extent>465 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Werke. 4</title>
          </series>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Von den geplanten 10 Bänden sind nur die Bände 3 - 6 erschienen</p>
          </note>
       </body>

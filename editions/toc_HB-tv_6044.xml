@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 12. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,10 +48,10 @@
                <date when="1920-08-08">8.8.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Oskar A. H. Schmitz: Das rätselhafte Deutschland. München:
+         <note type="review-of">Oskar A. H. Schmitz: Das rätselhafte Deutschland. München:
                   Georg Müller 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 183–189</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Das rätselhafte Deutschland« von Oskar A. H. Schmitz (Georg)
+         <note type="other-prints">Kritik der Gegenwart, 183–189</note>
+         <note type="incipit">»Das rätselhafte Deutschland« von Oskar A. H. Schmitz (Georg)
                   Müller, Verlag München, 1920). Schmitz, den geborenen Weltfahrer, den höchst
                   Geselligen, hat ein Witz seines Schicksals jetzt schon fast auf mich reduziert
                   und, statt wie sonst, als uns Europa noch einließ, bald mit einem Oxfordman durch
@@ -209,8 +209,8 @@
                   sollen, wogegen ja, schon weil es nur zu beraten, nichts aber zu bestimmen hätte,
                   niemand etwas einwenden, wofür aber eben darum auch niemand sich ereifern wird,
                   und des Redens hätten wir jetzt doch eigentlich auch schon genug. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über den Werdegang Schmitz’ und die Freundschaft zu Bahr.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Über den Werdegang Schmitz’ und die Freundschaft zu Bahr.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Hans Brandenburg</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">52–57</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Ein Münchner Dichter« in: Münchner Neueste
+         <note type="first-printing">Als »Ein Münchner Dichter« in: Münchner Neueste
                   Nachrichten, 80 (1927) #133, 1–2. (16.5.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Jugend von heute gilt, wer schon vor dem Kriege zu Geltung
+         <note type="incipit">Der Jugend von heute gilt, wer schon vor dem Kriege zu Geltung
                   und einem Namen gelangt war, nichts mehr...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr referiert Brandenburgs Schrift zum Theater (konkret: zur
+         <note type="summary">Bahr referiert Brandenburgs Schrift zum Theater (konkret: zur
                   Tanzkunst) und sieht in ihm einen der wenigen, die noch Form erkennen und
                   gestalten könnten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4631"/>
                <ptr type="pmb" target="#10943"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_3499_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

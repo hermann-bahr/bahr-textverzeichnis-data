@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Krisis der Plastik?. Aktualität gedeutet von: Hermann
                      Bahr</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Böttcherstraße. Internationale Zeitschrift</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -50,9 +50,9 @@
                <date when="1929">1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Krisen sind ansteckend, und kaum scheint eine hier gelöscht, so
+         <note type="incipit">Krisen sind ansteckend, und kaum scheint eine hier gelöscht, so
                   flackert sie dort wieder auf, sie haben eine Flugkraft ins Weite.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-boettcherstrasse/1929-11_krisis-der-plastik.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-boettcherstrasse/1929-11_krisis-der-plastik.pdf</ref>
       </body>
    </text>
 </TEI>

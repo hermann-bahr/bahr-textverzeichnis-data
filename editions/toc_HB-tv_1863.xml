@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,9 +48,9 @@
                <date when="1901-09-12">12.9.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Maria Stuart« von Friedrich Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Frau Mondthal gibt die Elisabeth genau</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="review-of">»Maria Stuart« von Friedrich Schiller</note>
+         <note type="incipit">Frau Mondthal gibt die Elisabeth genau</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#2748"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Thomas Mann. Zum 50. Geburtstag, 6. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">54</biblScope>
@@ -49,9 +49,9 @@
                <date when="1925-05-31">31.5.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dem erlauchten Kreise Stefan Georges kommt zurzeit unter uns an
+         <note type="incipit">Dem erlauchten Kreise Stefan Georges kommt zurzeit unter uns an
                   Ehrfurcht vor der Kunst, Strenge gegen sich selbst</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1925_mann.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1925_mann.pdf</ref>
       </body>
    </text>
 </TEI>

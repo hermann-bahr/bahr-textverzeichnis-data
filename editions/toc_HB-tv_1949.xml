@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung_Drama"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Bad</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Glühlichter</title>
             <imprint>
                <biblScope unit="jg">13</biblScope>
@@ -48,7 +48,7 @@
                <date when="1910-01-15">15.1.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Vorbemerkung der Redaktion: Hermann Bahr hat vor einigen Monaten eine Revue
                      geschrieben: ’Die Reise nach Eipeldauen’, deren Aufführung die Zensur verboten
                      hat. Offenbar hat der Herr Zensor vermutet, daß zwischen dem Phantasieland
@@ -67,11 +67,11 @@
                      politischen Sehenswürdigkeiten in diesem Land der Unwahrscheinlichkeiten ist
                      die …«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt als: »Aus einem verbotenen Stücke von Hermann
+         <note type="first-printing">Gekürzt als: »Aus einem verbotenen Stücke von Hermann
                   Bahr« In: Arbeiter–Zeitung, 21.1.1910</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Heilquelle oder das Radikalbad. Kalif (zu den Gästen): Jetzt
+         <note type="incipit">Heilquelle oder das Radikalbad. Kalif (zu den Gästen): Jetzt
                   will ich Ihnen die Heilquelle von Eipeldauen zeigen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/gluehlichter/1910_bad.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/gluehlichter/1910_bad.pdf</ref>
       </body>
    </text>
 </TEI>

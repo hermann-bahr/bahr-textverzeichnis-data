@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">177–178</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine Wette verloren. Denn ich hielt das für einen dummen Spaß,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Eine Wette verloren. Denn ich hielt das für einen dummen Spaß,
                   aber jetzt hab ich’s schwarz auf weiß vor Augen: »Verordnung der Gemeinde,
                   betreffend Vermietung der Wohnungen in der heurigen Saison«, datiert vom 25. Mai
                   1920, in sieben Paragraphen; und gleich der erste sagt: »Die Vermietung darf nur
@@ -75,7 +75,7 @@
                   verbringen! Mit wem soll man dann reden, wenn man nicht streiten kann? Ich muß
                   sagen, daß ich mich halt in gemischter Gesellschaft immer noch am wohlsten fühle.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine Urlaubsgemeinde vermietet nur an nichtjüdische Antisemiten:
+         <note type="summary">Eine Urlaubsgemeinde vermietet nur an nichtjüdische Antisemiten:
                   Bahr bedauert, nicht hinfahren zu können: Aber er ist kein Antisemit, überhaupt
                   ist er nie »anti« und fühlt sich in einer gemischen Gesellschaft am
                   wohlsten.</note>

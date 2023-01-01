@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">15. August [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">257–259</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin doch sehr froh, den Isenheimer Altar noch gesehen zu
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ich bin doch sehr froh, den Isenheimer Altar noch gesehen zu
                   haben, bevor wir ihn verlieren.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr auf der Suche nach dem katholischen Kunstwerk.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Bahr auf der Suche nach dem katholischen Kunstwerk.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28765"/>
                <ptr type="pmb" target="#28465"/>

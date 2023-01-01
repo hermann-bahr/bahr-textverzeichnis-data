@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1717" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">[Brief an Eugen Benzion]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -45,7 +45,7 @@
                <date when="1896-12-12">12.12.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Unter dem Titel »Der Ehren-Revolver« in der Sektion »Die Woche« wird berichtet,
                      wie Bahr als Herausgeber der Zeit eine Aufforderung erhält, einen Widerruf zu
                      drucken und sich für die Beleidigung an dem designierten Herausgeber der
@@ -55,9 +55,9 @@
                      selbst dürfte, wie an einer Stelle, an der das »Wir« der Herausgeber
                      unterbrochen wird, von Dr. Kanner verfasst sein.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wien, den 28. October 1896. Euer Wohlgeboren bestätige ich den
+         <note type="incipit">Wien, den 28. October 1896. Euer Wohlgeboren bestätige ich den
                   Empfang</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/115-176.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/115-176.pdf</ref>
       </body>
    </text>
 </TEI>

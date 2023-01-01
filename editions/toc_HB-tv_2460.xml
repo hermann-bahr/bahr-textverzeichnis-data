@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2460" type="Pamphlet" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Selbstanzeige des Verfassers. Hermann Bahr, Die Rahl.
                      Roman</title>
@@ -41,17 +41,17 @@
                <date when="1908">1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Einzelblattdruck, wohl Verlagsbeilage zur Versendung der
                      Rezensionsexemplare.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Königsberger Hartungsche Zeitung, (1908) #539,
+         <note type="first-printing">Königsberger Hartungsche Zeitung, (1908) #539,
                   Morgenausgabe, Literarische Rundschau. (15.11.1908) In: Das Blaubuch, 3 (1908)
                   #47, 1411–1412. (19.11.1908) In: Die Gegenwart, 38 (1909) #5, 78–79. Als »Meine
                   Romane« in: Der Demokrat, 2 (1910) #32, Beilage, 2. (3.8.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich soll selbst anzeigen, was die Reihe von Romanen will, die
+         <note type="incipit">Ich soll selbst anzeigen, was die Reihe von Romanen will, die
                   mit der »Rahl« beginnt?</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1908_selbstanzeige-rahl.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1908_selbstanzeige-rahl.pdf</ref>
       </body>
    </text>
 </TEI>

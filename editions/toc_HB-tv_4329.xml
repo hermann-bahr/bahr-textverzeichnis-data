@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 5. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Strom</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,13 +48,13 @@
                <date when="1911">1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Mein Leben« von Richard Wagner</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gelesen Richard Wagners »Mein Leben«. Dieses Buch will ich unter
+         <note type="review-of">»Mein Leben« von Richard Wagner</note>
+         <note type="incipit">Gelesen Richard Wagners »Mein Leben«. Dieses Buch will ich unter
                   die hundert Bände stellen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr hält Wagners »Mein Leben« für eines der größten Bücher der
+         <note type="summary">Bahr hält Wagners »Mein Leben« für eines der größten Bücher der
                   Zeit, für das man aber ein einfaches Gemüt und eine große Geldbörse besitzen
                   muss.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
                <ptr type="pmb" target="#8679"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_3507_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/strom/der-strom_1911.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/strom/der-strom_1911.pdf</ref>
       </body>
    </text>
 </TEI>

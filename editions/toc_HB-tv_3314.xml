@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Tagebuch 1908</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb29929">Tagebuch</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">157–212</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Morgen, 2 (1908), 9 Beiträge</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sankt Veit bei Wien. 1. Januar. Mit der Elektrischen zur Stadt.
+         <note type="first-printing">Morgen, 2 (1908), 9 Beiträge</note>
+         <note type="incipit">Sankt Veit bei Wien. 1. Januar. Mit der Elektrischen zur Stadt.
                   Und wie der Wagen langsam durch den dicken Dunst</note>
       </body>
    </text>

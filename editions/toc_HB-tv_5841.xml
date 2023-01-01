@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. Februar [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">III, 49–51</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Protestant, den unser Glaube geheimnisvoll anzieht, trug mir
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Ein Protestant, den unser Glaube geheimnisvoll anzieht, trug mir
                   neulich seine Zweifel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Nutzlosigkeit des Glaubensgesprächs mit einem
+         <note type="summary">Über die Nutzlosigkeit des Glaubensgesprächs mit einem
                   Ungläubigen, der den »Gnadestrahl« nicht gespürt hat.</note>
       </body>
    </text>

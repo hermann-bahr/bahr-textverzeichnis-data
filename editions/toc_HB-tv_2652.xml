@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Niklas, der Verräter</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="32246">Fin de Siècle</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">53–69</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>War der Text in der »Gesellschaft« mit dem Hinweis auf den Aufenthalt des
                      Autors »Hermann Bahr (Madrid)« gedruckt worden, so gibt die Buchausgabe
                      Auskunft über den Entstehungsort: »Paris, November 1888«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Gesellschaft, 6 (1890) #1, 15–22</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jedesmal – die Jungen wußten es schon wie eine verläßliche Regel
+         <note type="first-printing">Die Gesellschaft, 6 (1890) #1, 15–22</note>
+         <note type="incipit">Jedesmal – die Jungen wußten es schon wie eine verläßliche Regel
                   – jedesmal, wenn der atemlose Professor mit dem ewigen Stockschnupfen</note>
       </body>
    </text>

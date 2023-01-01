@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1215" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Notre Inquiétude</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hochland</title>
             <imprint>
                <biblScope unit="jg">24</biblScope>
@@ -45,10 +45,10 @@
                <date when="1927">1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Notre Inquiétude« von Daniel-Rops</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Notre Inquiétude benennt Daniel-Rops eine Sammlung von
+         <note type="review-of">»Notre Inquiétude« von Daniel-Rops</note>
+         <note type="incipit">Notre Inquiétude benennt Daniel-Rops eine Sammlung von
                   Aufsätzen, deren erster gleich das Lob der Unruhe anstimmt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1927_inquietude.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1927_inquietude.pdf</ref>
       </body>
    </text>
 </TEI>

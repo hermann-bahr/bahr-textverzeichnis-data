@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">23. Mai [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">173–174</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ernst Decsey: Hugo Wolf. Das Leben und das Lied. Gänzlich
+         <note type="review-of">Ernst Decsey: Hugo Wolf. Das Leben und das Lied. Gänzlich
                   neugearbeitete dritte bis sechste Auflage. Berlin: Schuster &amp; Loeffler
                   1919</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, #9195</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ernst Decseys schönes Hugo Wolf-Buch in neuer Auflage</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr würdigt Décseys Buch über Hugo Wolf und bringt eine Liste
+         <note type="first-printing">Neues Wiener Journal, #9195</note>
+         <note type="incipit">Ernst Decseys schönes Hugo Wolf-Buch in neuer Auflage</note>
+         <note type="summary">Bahr würdigt Décseys Buch über Hugo Wolf und bringt eine Liste
                   der von ihm (Bahr) entdeckten Künstler.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13152"/>
                <ptr type="pmb" target="#11201"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Zweifelhafte_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">–n–</author>
             <title level="a">Freie Gedanken</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Linzer Sonntagsblatt</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -48,7 +48,7 @@
                <date when="1883-08-26">26.8.1883</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Dieser Text findet sich zweimal im Nachlass. Einmal ist er unter »Freie
                      Gedanken« abgelegt, das andere Mal im Ordner »Artikel mit Pseudonymen« sogar
                      mit Bleistift gekennzeichnet. Trotzdem dürfte die Zuschreibung als Irrtum zu
@@ -65,9 +65,9 @@
                      Stadt zu machen.« Ohne dass hier Autorfiktion ausgeschlossen werden kann, wäre
                      die Erzählhaltung für den geborenen Linzer Bahr ungewöhnlich.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der Nummer 172 des »Linzer Volksblatt« vom 29. Juli d.
+         <note type="incipit">In der Nummer 172 des »Linzer Volksblatt« vom 29. Juli d.
                   J.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/linzer-sonntagsblatt/1883-35_freie-gedanken.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/linzer-sonntagsblatt/1883-35_freie-gedanken.pdf</ref>
       </body>
    </text>
 </TEI>

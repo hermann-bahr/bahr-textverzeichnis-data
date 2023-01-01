@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_52" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Maurice Barrés</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -45,17 +45,17 @@
                <date when="1892-11-26">26.11.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Name von Barrès ist durchwegs fehlerhaft mit dem Accent aigu an Stelle des
                      Accent grave wiedergegeben. Ein Fehler, den Bahr auch in den »Studien zur
                      Kritik der Moderne« nicht ausbesserte.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Studien zur Kritik der Moderne, 162–167 Wunberg: Das junge
+         <note type="other-prints">Studien zur Kritik der Moderne, 162–167 Wunberg: Das junge
                   Wien, 92.18</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unter den »Jungen« in Frankreich ist es keinem rascher geglückt
+         <note type="incipit">Unter den »Jungen« in Frankreich ist es keinem rascher geglückt
                   als Maurice Barrés.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75121.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75122.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75121.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75122.pdf</ref>
       </body>
    </text>
 </TEI>

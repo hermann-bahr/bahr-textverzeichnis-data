@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-10-11">11.10.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Hamlet« von William Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Fräulein Medelsky, an der man eine Zeit schon beinahe
+         <note type="review-of">»Hamlet« von William Shakespeare</note>
+         <note type="incipit">Fräulein Medelsky, an der man eine Zeit schon beinahe
                   verzweifeln mochte, hat nun mit einem eine überraschende Wendung genommen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2252"/>
                <ptr type="pmb" target="#2412"/>

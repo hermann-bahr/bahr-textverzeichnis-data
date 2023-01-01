@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">La Città morta. (Tragödie in fünf Akten von Gabriele D’Annunzio.
                      Zur Première im Raimund-Theater am 5. April 1902)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,9 +50,9 @@
                <biblScope unit="pages">238–246</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 36 (1902) #93, 1–2.
+         <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #93, 1–2.
                   (5.4.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Entstehung der Città morta und ihre Absichten hat D’Annunzio
+         <note type="incipit">Die Entstehung der Città morta und ihre Absichten hat D’Annunzio
                   om Fuoco erzählt.</note>
       </body>
    </text>

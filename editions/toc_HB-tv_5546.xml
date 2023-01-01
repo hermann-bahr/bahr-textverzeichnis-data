@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. Juni [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">165–168</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Immer einen der schmiegsamen Inselbände Goethes im Rucksack,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Immer einen der schmiegsamen Inselbände Goethes im Rucksack,
                   erschrak ich gestern auf dem Untersberg bei den »Unterhaltungen deutscher
                   Ausgewanderten«, deren Einleitung ich, so vertraut sie mir sonst sind, lange nicht
                   gelesen und halb vergessen, über die Ähnlichkeit ihrer Situation mit der unseren.
@@ -129,7 +129,7 @@
                   ganze Vergangenheit und auch unsere Zukunft, wenn wir überhaupt noch eine haben,
                   enthält er. Aber es machen die Franzosen ebenso wenig Gebrauch von Balzac wie wir
                   von Goethe. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Deutschen kennen ihren Goethe nicht: Sonst wüssten sie, was
+         <note type="summary">Die Deutschen kennen ihren Goethe nicht: Sonst wüssten sie, was
                   Bruderzwiste - wie der zwischen Thomas und Heinrich Mann - über sie
                   aussagen.</note>
       </body>

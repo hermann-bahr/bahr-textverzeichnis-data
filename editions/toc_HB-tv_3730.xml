@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3730" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Romain Rolland]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb61170">Liber Amicorum Romain Rolland</title>
             <editor>Gorki, Maxim</editor>
             <editor>Duhamel, Georges</editor>
@@ -48,22 +48,22 @@
                <biblScope unit="pages">38–39</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Hundert numerierte Exemplare in Halbleder.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Dichter und Denker über Romain Rolland. Huldigungen
+         <note type="first-printing">Als »Dichter und Denker über Romain Rolland. Huldigungen
                   zum sechzigsten Geburtstage. 29. Januar 1926« in: Neue Freie Presse (1926) #22041,
                   Morgenblatt, 29. (24.1.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Romain Rolland, mir dichterisch so lieb, menschlich so wert,
+         <note type="incipit">Romain Rolland, mir dichterisch so lieb, menschlich so wert,
                   nicht bloß Verheißung, sondern selber durch sein bloßes Dasein schon Gewähr</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12543"/>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#9379"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1926_liber-amicorum-romain-rolland.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1926_liber-amicorum-romain-rolland.pdf</ref>
       </body>
    </text>
 </TEI>

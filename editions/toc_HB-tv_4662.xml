@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-09-21">21.9.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Mütter« von Georg Hirschfeld</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Burgtheater scheint jetzt eine Art Depot für Stücke zu
+         <note type="review-of">»Die Mütter« von Georg Hirschfeld</note>
+         <note type="incipit">Das Burgtheater scheint jetzt eine Art Depot für Stücke zu
                   werde, die das Volkstheater abgelegt hat</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11701"/>
                <ptr type="pmb" target="#24335"/>

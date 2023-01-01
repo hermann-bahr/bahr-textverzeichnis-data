@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der neue Stil. Charlotte Wolter</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,20 +49,20 @@
                <biblScope unit="pages">309–313</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr gibt 1897 in seinem Nachruf auf Charlotte Wolter noch einmal eine
                      Beschreibung des Besuchs bei ihr (»Die Wolter« in: Die Zeit, 11 (1897) #142,
                      186–187 bzw. Wiener Theater, 150–156).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7506,
+         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7506,
                   Sonntags–Ausgabe, 1–2. (20.11.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lobkowitzplatz, der mitten in der lauten Stadt wie eine
+         <note type="incipit">Lobkowitzplatz, der mitten in der lauten Stadt wie eine
                   heimliche Insel ist, wohin kein Ruf aus dem Tumult des Tages dringt. Ein helles
                   Haus, mit breiten weissen Stiegen, und Alles still, bürgerlich, ein bisschen
                   pedantisch, wie wenn man irgendwo in Augsburg oder Ulm zu einem der Patricier
                   kommt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Interview zu Stilfragen in der Schauspielerei</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Interview zu Stilfragen in der Schauspielerei</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13166"/>
                <ptr type="pmb" target="#26079"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_2998_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das lesende Kind. Eine Umfrage bei den Dichtern der
                      Gegenwart</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Scholle. Blätter für Kunst und Leben in Erziehung und
                      Unterricht</title>
             <imprint>
@@ -51,12 +51,12 @@
                <date when="1925">1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In früher Jugend haben mir Struwwelpeter, Gulliver und Robinson
+         <note type="incipit">In früher Jugend haben mir Struwwelpeter, Gulliver und Robinson
                   besonderen Eindruck gemacht.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr empfiehlt Kindern, denen der Don Quixote nicht ausreicht,
+         <note type="summary">Bahr empfiehlt Kindern, denen der Don Quixote nicht ausreicht,
                   Legenden und Sagen: Denn nur aus seiner Vergangenheit kann der ein Volk neue
                   Zukunft schöpfen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10161"/>
                <ptr type="pmb" target="#14905"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_1220_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/scholle/1925_lesende.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/scholle/1925_lesende.pdf</ref>
       </body>
    </text>
 </TEI>

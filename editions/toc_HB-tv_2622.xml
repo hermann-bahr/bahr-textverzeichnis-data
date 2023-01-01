@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vom Wiener Theater. 5. Friedrich Haase</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">93–96</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Wochenschrift, 6 (1888) #10, 5</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jede einzelne Kunst hat ja besonderen Weg und besonderes
+         <note type="first-printing">Deutsche Wochenschrift, 6 (1888) #10, 5</note>
+         <note type="incipit">Jede einzelne Kunst hat ja besonderen Weg und besonderes
                   Schicksal. Aber im Wesentlichen gerade, wenn man nur vom Zufälligen absieht und
                   sich durch die Eigenart der Persönlichkeiten, die gleichen Absichten oft
                   verschiedene Schlagworte leiht, nicht beirren läßt, ist doch dieselbe Entwicklung
@@ -71,10 +71,10 @@
                   am geläufigsten: wir brauchen uns nur an die harten, ungefügen Striche zu
                   erinnern, in denen Cornelius dichtet, und damit den modernen Maler zu vergleichen,
                   dem es für das Höchste gilt, wenn ihm eine vollendete Rübe gelingt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Haase stellt für Bahr den paradigmatischen modernen Schauspieler
+         <note type="summary">Haase stellt für Bahr den paradigmatischen modernen Schauspieler
                   dar: geistreich, technisch ausgezeichnet, mit großer Selbstkontrolle begabt. Aber
                   genau gegenüber diesen Charakteristika äußert Bahr seine Vorbehalte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#7633"/>
                <ptr type="pmb" target="#6704"/>
@@ -91,7 +91,7 @@
                <ptr type="HB-tv" target="HB-tv_2622_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1780" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das erste und das letzte Wort</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Altenbergbuch</title>
             <editor>Egon Friedell</editor>
             <imprint>
@@ -46,18 +46,18 @@
                <biblScope unit="pages">125–142</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">S. 127–138 als »Ein neuer Dichter« in: Die Zeit, 7 (1896)
+         <note type="first-printing">S. 127–138 als »Ein neuer Dichter« in: Die Zeit, 7 (1896)
                   #83, 75–76. (2.5.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">S. 127–138 als »Ein neuer Dichter« in: Renaissance,
+         <note type="other-prints">S. 127–138 als »Ein neuer Dichter« in: Renaissance,
                   45-52</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">(Wien, Mai 1896.) Es gibt Leute, die einem die gescheitesten
+         <note type="incipit">(Wien, Mai 1896.) Es gibt Leute, die einem die gescheitesten
                   Sachen so sagen, daß man nichts davon hat. Sie mögen stundenlang reden […] (Wien,
                   11. Januar 1919.) An Altenbergs Grab. Das erste was man vor bald dreißig Jahren
                   von Peter Altenberg vernahm</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Auszug aus »Ein neuer Dichter«, den Bahr zuerst in der
+         <note type="summary">Der Auszug aus »Ein neuer Dichter«, den Bahr zuerst in der
                   »Zeit«, dann in Buchform in »Renaissance« veröffentlicht hat, wird ergänzt durch
                   die Beschreibung eines Besuch bei Altenbergs Grab am 11. Jänner 1919.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13102"/>
                <ptr type="pmb" target="#3622"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_4864_p8"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_altenbergbuch.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_altenbergbuch.pdf</ref>
       </body>
    </text>
 </TEI>

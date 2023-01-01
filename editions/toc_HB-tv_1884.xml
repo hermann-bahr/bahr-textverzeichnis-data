@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1884" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater an der Wien</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -45,12 +45,12 @@
                <date when="1902-01-25">25.1.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La dernière soirée de Brummel« von Georges Maurevert
+         <note type="review-of">»La dernière soirée de Brummel« von Georges Maurevert
                   »Rosalie« von Max Maurey</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 201-202</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»La dernière soirée de Brummel«, von Georges Maurevert,
+         <note type="other-prints">Rezensionen, 201-202</note>
+         <note type="incipit">»La dernière soirée de Brummel«, von Georges Maurevert,
                   beschwört die seltsame Gestalt des großen Dandy herauf</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

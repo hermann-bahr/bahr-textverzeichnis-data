@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Raimund-Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -48,11 +48,11 @@
                <date when="1902-04-26">26.4.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Les Demi-Vierges« von Marcel Prévost</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jane Hading, den Wienern von ihrem Gastspiele im Carl-Theater
+         <note type="review-of">»Les Demi-Vierges« von Marcel Prévost</note>
+         <note type="incipit">Jane Hading, den Wienern von ihrem Gastspiele im Carl-Theater
                   (October 1898) her bekannt, hat gestern die Maud in den »Demi-Vierges«
                   gespielt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9386"/>
                <ptr type="pmb" target="#10899"/>
@@ -63,7 +63,7 @@
                <ptr type="HB-tv" target="HB-tv_1902_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

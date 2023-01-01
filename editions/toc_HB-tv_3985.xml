@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#43775">Czeschka, C.O.</author>
             <author ref="#11148">Dehmel, Richard</author>
@@ -57,7 +57,7 @@
             <author ref="#12968">Trebitsch, Siegfried</author>
             <title level="a">Der folgende Aufruf</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">42</biblScope>
@@ -66,17 +66,17 @@
                <date when="1910-08-14">14.8.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Fackel, 12 (1910) #307/308, Umschlag.
+         <note type="first-printing">Die Fackel, 12 (1910) #307/308, Umschlag.
                   (22.9.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">für Peter Altenberg wurde uns von den Unterzeichneten zur
+         <note type="incipit">für Peter Altenberg wurde uns von den Unterzeichneten zur
                   Veröffentlichung übergeben: Peter Altenberg, der seit 7 Monaten mit einem schweren
                   Nervenleiden gekämpft hat, ist jetzt wieder genesen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2147"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1910_altenberg.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1910_altenberg.pdf</ref>
       </body>
    </text>
 </TEI>

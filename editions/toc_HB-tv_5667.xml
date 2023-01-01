@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">3. Mai [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">I, 149–153</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Stefan Zweig: Die Augen des ewigen Bruders. In: Neue
+         <note type="review-of">Stefan Zweig: Die Augen des ewigen Bruders. In: Neue
                   Rundschau, 32 (1921) #5, 485-515</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn zwei Menschen sich einander nähern</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die unterschiedlichen Erwartungen an die Menschheit, die
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Wenn zwei Menschen sich einander nähern</note>
+         <note type="summary">Über die unterschiedlichen Erwartungen an die Menschheit, die
                   Bahr und Stefan Zweig haben.</note>
       </body>
    </text>

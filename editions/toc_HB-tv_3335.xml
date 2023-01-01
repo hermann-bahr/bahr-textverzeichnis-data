@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Mach</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">35–41</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 45 (1916) #116, Abend–Ausgabe, 2–3.
+         <note type="first-printing">Berliner Tageblatt, 45 (1916) #116, Abend–Ausgabe, 2–3.
                   (3.3.1916)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">1838 in Mähren geboren, 1861 Privatdozent in Wien, 1864
+         <note type="incipit">1838 in Mähren geboren, 1861 Privatdozent in Wien, 1864
                   Professor in Graz, 1867 in Prag, 1880 Mitglied der Akademie</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ernst Mach scheint Bahr auch 1916 noch von außerordentlicher
+         <note type="summary">Ernst Mach scheint Bahr auch 1916 noch von außerordentlicher
                   Bedeutung zu sein - nur dass man nun, anders als noch vor 20 Jahren, über ihn
                   hinauszudenken habe. Bestes Beispiel dieser jüngeren Entwicklung sei der
                   Pragmatismus eines James oder Vaihinger.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12147"/>
                <ptr type="pmb" target="#12064"/>
@@ -74,7 +74,7 @@
                <ptr type="HB-tv" target="HB-tv_3335_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

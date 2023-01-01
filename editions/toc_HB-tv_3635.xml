@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10818">Bahr-Mildenburg, Anna</author>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#11036">Burckhard, Max</author>
@@ -53,7 +53,7 @@
             <author ref="#12906">Suttner, Bertha von</author>
             <title level="a">Aufruf!</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16750, Morgenblatt</biblScope>
@@ -61,12 +61,12 @@
                <date when="1911-04-09">9.4.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Für einen schwerkranken Dichter« in:
+         <note type="first-printing">Als »Für einen schwerkranken Dichter« in:
                   Arbeiter–Zeitung, 23 (1911) #98, 10. (9.4.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der bekannte Dichter Alfons Petzold, ein Echter an Geist und
+         <note type="incipit">Der bekannte Dichter Alfons Petzold, ein Echter an Geist und
                   Seele, nach den langen jahren schwerster Bitternis, die er als Fabriksarbeiter,
                   als Fensterputzer, als Schneeschaufler zugebracht hat</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10818"/>
                <ptr type="pmb" target="#11036"/>
@@ -85,7 +85,7 @@
                <ptr type="HB-tv" target="HB-tv_3675_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1911-4-9_aufruf-petzold.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1911-4-9_aufruf-petzold.pdf</ref>
       </body>
    </text>
 </TEI>

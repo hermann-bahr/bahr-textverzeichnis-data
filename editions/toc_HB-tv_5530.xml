@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">16. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">115–118</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich suchte Goethe lange vergeblich nach einem Urteil über Pascal
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ich suchte Goethe lange vergeblich nach einem Urteil über Pascal
                   ab und fand nichts als im neunten Band der Naturwissenschaftlichen Schriften in
                   einem Exzerpt Goethes aus Karl Wilhelm Noses »Kritik der geologischen Theorie« die
                   Stelle: »nach Pascal am menschlichen Geiste verzweifelnd«. Da kommt mir aber jetzt
@@ -123,7 +123,7 @@
                   beklagenswert, dem Stilisten beneidenswert: es scheint gar nicht darauf
                   anzukommen, was einer sagt, sondern nur wie, gar nicht auf den Gehalt, sondern nur
                   auf die Gewalt des Sagens. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr suchte, was Goethe über Pascal schrieb, und fand, dass der
+         <note type="summary">Bahr suchte, was Goethe über Pascal schrieb, und fand, dass der
                   Weimarianer den Katholizismus nicht richtig kannte.</note>
       </body>
    </text>

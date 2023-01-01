@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 28. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Morgen. Wochenschrift für deutsche Kultur</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,13 +48,13 @@
                <date when="1908-04-10">10.4.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am Ende findet sich der Hinweis, dass der Schluss folgt. Im nächsten Heft des
                      »Morgen« wird das »Tagebuch« als Fortsetzung von diesem im Inhaltsverzeichnis
                      angekündigt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 164–168</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin immer verlegen, wenn man mich fragt, ob jemand, ein
+         <note type="other-prints">Tagebuch (1909), 164–168</note>
+         <note type="incipit">Ich bin immer verlegen, wenn man mich fragt, ob jemand, ein
                   Schauspieler, ein Autor, ein Maler, Talent hat.</note>
       </body>
    </text>

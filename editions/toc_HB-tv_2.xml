@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Auch ein socialer Brief</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Wochenschrift</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,14 +45,14 @@
                <date when="1884-05-04">4.5.1884</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr antwortet einer (fiktiven) Aristokratin, die die soziale Lage der Arbeiter
                      für lösbar hält, mit der Geschichte von einem sparsamen Menschen, der trotzdem
                      nicht anders kann, als Schulden zu machen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Liebe gnädige Frau! Meinen besten Dank für Ihre freundlichen
+         <note type="incipit">Liebe gnädige Frau! Meinen besten Dank für Ihre freundlichen
                   Zeilen und die liebenswürdige</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12582"/>
                <ptr type="HB-tv" target="HB-tv_4858_p3"/>

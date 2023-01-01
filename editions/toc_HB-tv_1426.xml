@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Dem Andenken Hugo Wittmanns</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20985, Morgenblatt</biblScope>
@@ -47,14 +47,14 @@
                <date when="1923-02-11">11.2.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Gezeichnet mit: »München, 7. Februar 1923«. Ein Kommentar findet sich in der
                      Fackel (25 (1923) #613-621, 3-4).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der letzte von den drei großen Meistern des Feuilletons ging uns
+         <note type="incipit">Der letzte von den drei großen Meistern des Feuilletons ging uns
                   in Hugo Wittmann dahin, fast als wäre damit jetzt das Feuilleton selber
                   gestorben!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2739"/>
                <ptr type="pmb" target="#3511"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_1426_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-2-11_dem-andenken-hugo-wittmanns.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-2-11_dem-andenken-hugo-wittmanns.pdf</ref>
       </body>
    </text>
 </TEI>

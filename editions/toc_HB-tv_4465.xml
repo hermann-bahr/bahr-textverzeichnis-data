@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4465" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Hermann von Kürenberg</author>
             <title level="a">Reisebriefe eines lachenden Philosophen. II. München im August
                      1881</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Nachrichten</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -47,16 +47,16 @@
                <date when="1881-09-11">11.9.1881</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr verwendet zum ersten Mal das Wort »Kautschukmann-Manöver«, noch pejorativ,
                      um damit den Stechschritt des bairischen Militärs zu bezeichnen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Pater Noster-Kramer von Ettal« von Benno Rödel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lieber Freund! Erhebe Dich so schnell du nur kannst</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr weist mit diesem »Reisebrief« in seine Zukunft, bietet ihm
+         <note type="review-of">»Der Pater Noster-Kramer von Ettal« von Benno Rödel</note>
+         <note type="incipit">Lieber Freund! Erhebe Dich so schnell du nur kannst</note>
+         <note type="summary">Bahr weist mit diesem »Reisebrief« in seine Zukunft, bietet ihm
                   doch der Besuch eines Volksstücks Anlass genug, eine ganze Geschichte des
                   Schauspiels samt Diagnose der Gegenwart zu liefern.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13473"/>
                <ptr type="pmb" target="#3998"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_4465_p11"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
       </body>
    </text>
 </TEI>

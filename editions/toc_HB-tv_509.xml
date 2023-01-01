@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_509" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Kieselak</author>
             <title level="a">Freie Gedanken. [III]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Linzer Sonntagsblatt</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,13 +45,13 @@
                <date when="1882-10-15">15.10.1882</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">So oft ein schaffender Geist, den gewohnten Einton
+         <note type="incipit">So oft ein schaffender Geist, den gewohnten Einton
                   störend</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Text ist ein antisemitisches Pamphlet. Die
+         <note type="summary">Der Text ist ein antisemitisches Pamphlet. Die
                   »Gegenjudenbewegung« wird als natürliche Folge der Besinnung auf die deutsche
                   Nation und damit einhergehend auf eine Religionsfreiheit, die jene des jüdischen
                   Volkes ausschließt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_509_p1"/>
                <ptr type="HB-tv" target="HB-tv_509_p2"/>

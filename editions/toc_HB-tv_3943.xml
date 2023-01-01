@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3943" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Bayreuth</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -45,11 +45,11 @@
                <date when="1911-08-06">6.8.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Heimstatt, 2 (1911) #8, 116–117. (15.8.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bayreuth, 103–114</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bayreuth, 4. August. Gleich beim Bahnhof ist das Bureau, wo man
+         <note type="first-printing">Die Heimstatt, 2 (1911) #8, 116–117. (15.8.1911)</note>
+         <note type="other-prints">Bayreuth, 103–114</note>
+         <note type="incipit">Bayreuth, 4. August. Gleich beim Bahnhof ist das Bureau, wo man
                   die Karten bekommt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1911_bayreuth.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1911_bayreuth.pdf</ref>
       </body>
    </text>
 </TEI>

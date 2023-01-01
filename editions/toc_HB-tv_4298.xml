@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über den Kaiser und den Erzherzog Franz
                      Ferdinand</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -50,17 +50,17 @@
                <date when="1909-02-21">21.2.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In dem soeben erschienenen zweiten Februarheft des
                      ’März’ gibt Hermann Bahr in seiner feinen, ein wenig sarkastischen Art eine
                      bemerkenswerte Charakteristik der Persönlichkeiten unseres Kaisers und des
                      Trhonfolgers Erzherzogs Franz Ferdinand. Einige Sätze daraus verdienen,
                      weitesten Kreisen zugänglich gemacht zu werden. Bahr schreibt:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">März</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Austriaca. 2« in: Austriaca, 18-27.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unser Kaiser spricht nicht gern.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-2-21_kaiser.pdf</ref>
+         <note type="first-printing">März</note>
+         <note type="other-prints">Als »Austriaca. 2« in: Austriaca, 18-27.</note>
+         <note type="incipit">Unser Kaiser spricht nicht gern.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-2-21_kaiser.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_184" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Von München nach Straßburg. Ein Reisebrief</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">18</biblScope>
@@ -45,13 +45,13 @@
                <date when="1888-12-08">8.12.1888</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Intermezzo. 2. Von München nach Straßburg« in: Zur
+         <note type="other-prints">Als »Intermezzo. 2. Von München nach Straßburg« in: Zur
                   Kritik der Moderne, 130–137</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Stuttgart ist eine Stadt, die sich sehen lassen kann, und nicht
+         <note type="incipit">Stuttgart ist eine Stadt, die sich sehen lassen kann, und nicht
                   bald</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60871.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60872.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60873.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60871.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60872.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60873.pdf</ref>
       </body>
    </text>
 </TEI>

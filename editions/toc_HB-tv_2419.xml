@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2419" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Herzls Tat</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Zeitgenossen über Herzl</title>
             <editor>Nussenblatt, Tulo</editor>
             <imprint>
@@ -46,20 +46,20 @@
                <biblScope unit="pages">20–21</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck: Wiener Sonn– und Montags–Zeitung, 67 (1929)
+         <note type="first-printing">Nachdruck: Wiener Sonn– und Montags–Zeitung, 67 (1929)
                   #52, 7. (30.12.1929)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »The Fateful Moment« in: Meyer W. Weisgal, Hg.: Theodor
+         <note type="other-prints">Als »The Fateful Moment« in: Meyer W. Weisgal, Hg.: Theodor
                   Herzl. A Memorial. New York: The New Palestine 1929, 67-68.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Theodor Herzl war, als ich, klassische Philologie zu treiben
+         <note type="incipit">Theodor Herzl war, als ich, klassische Philologie zu treiben
                   gewillt, an die Wiener Universität kam, der Glanz und der Stolz der
                   Burschenschaft, deren vorlauter Fuchs ich wurde.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11673"/>
                <ptr type="pmb" target="#4216"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1929_zeitgenossen-ueber-herzl.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1929_zeitgenossen-ueber-herzl.pdf</ref>
       </body>
    </text>
 </TEI>

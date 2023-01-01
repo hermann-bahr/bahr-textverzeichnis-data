@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">(Aus »Rezensionen«)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Merker</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,13 +48,13 @@
                <date when="1910-12-10">10.12.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">… Es ist jetzt Sitte geworden, den Autoren, fast mit einer
+         <note type="other-prints">Rezensionen</note>
+         <note type="incipit">… Es ist jetzt Sitte geworden, den Autoren, fast mit einer
                   gewissen Freude, bei jedem Stücke nachzuweisen und vorzurechnen, es sei wieder
                   nichts gewesen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein längeres Zitat Bahrs dient als Seitenfüller: Kritiker dienen
+         <note type="summary">Ein längeres Zitat Bahrs dient als Seitenfüller: Kritiker dienen
                   der Literatur, sollen sie weiterbringen, nicht schmähen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#12816"/>

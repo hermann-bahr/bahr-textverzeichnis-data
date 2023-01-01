@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 27. Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,10 +48,10 @@
                <date when="1920-06-13">13.6.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Raoul Heinrich Francé: München. Die Lebensgesetze einer Stadt.
+         <note type="review-of">Raoul Heinrich Francé: München. Die Lebensgesetze einer Stadt.
                   München: Bruckmann, 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 139–142</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Wilhelm Scherer, der Unvergeßliche, mit Ottokar Lorenz
+         <note type="other-prints">Kritik der Gegenwart, 139–142</note>
+         <note type="incipit">Als Wilhelm Scherer, der Unvergeßliche, mit Ottokar Lorenz
                   zusammen eine Geschichte des Elsasses schrieb, nahm er sich vor, darin einmal »die
                   Schicksale eines bestimmten Landstrichs darzustellen wie die allseitige Entfaltung
                   einer Persönlichkeit, eines Individuums«. Das ist jetzt bald fünfzig Jahre her und
@@ -133,9 +133,9 @@
                   nur andeutet mit einer Gebärde, die den Faust ausrufen läßt: »Pfui über dich!«
                   Aber zur lebendigen Tat dieser Harmonie kann ich mir freilich einen schöneren Weg
                   nicht leicht denken als durch diesen sternenhellen Münchener Roman. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Mit Francés München-Biographie findet Bahr eine neue
+         <note type="summary">Mit Francés München-Biographie findet Bahr eine neue
                   Kulturwissenschaft begründet.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

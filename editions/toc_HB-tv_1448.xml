@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Glosse"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Mepherl</author>
             <title level="a">Zerbrochene Laternen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -48,11 +48,11 @@
                <date when="1892-11-27">27.11.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eine satirische Vorstellung der handelnden Figuren des Panama-Skandals.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wozu der Lärm, verehrter Meister von der Scheere?</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Wozu der Lärm, verehrter Meister von der Scheere?</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#14920"/>
                <ptr type="pmb" target="#4120"/>
@@ -74,7 +74,7 @@
                <ptr type="HB-tv" target="HB-tv_3922_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75134.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75134.pdf</ref>
       </body>
    </text>
 </TEI>

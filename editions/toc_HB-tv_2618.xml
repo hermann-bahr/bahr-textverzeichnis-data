@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vom Wiener Theater. 1. Galeoto</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">80–84</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Wochenschrift, 6 (1888) #6, 2–4</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es war ein Abend der Überraschungen. Da war zuerst dieses
+         <note type="first-printing">Deutsche Wochenschrift, 6 (1888) #6, 2–4</note>
+         <note type="incipit">Es war ein Abend der Überraschungen. Da war zuerst dieses
                   Unvermutete (denn wer kann darauf gefaßt sein, wenn er in unseren Tagen ins
                   Burgtheater geht?), von keinem Erwartete: Echegaray ist ein Dichter. Ein
                   wirklicher und leibhaftiger Dichter. Und nicht ein ausgegrabener, von den Todten
@@ -67,10 +67,10 @@
                   Wesen und ohne jede friedliche Einheit des Geistes, von jenem tiefen Widerspruch
                   zerrissen, der die Zeit zerfleischt, dem Widerspruch zwischen Realistik und
                   Romantik, zwischen Wirklichkeitssinn und Traumbedürfnis.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lobt Echegarays »Galeoto« als wahre Dichtung, rügt aber die
+         <note type="summary">Bahr lobt Echegarays »Galeoto« als wahre Dichtung, rügt aber die
                   schauspielerische Umsetzung und die journalistische Kritik der Aufführung am
                   Wiener Burgtheater.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10992"/>
                <ptr type="pmb" target="#13194"/>
@@ -89,7 +89,7 @@
                <ptr type="HB-tv" target="HB-tv_2618_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

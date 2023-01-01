@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Im eigenen Hause. II. Klimt, Engelhart, Moll</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">71–77</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Secession. (Zur Eröffnung der Herbstausstellung
+         <note type="first-printing">Als »Die Secession. (Zur Eröffnung der Herbstausstellung
                   1898) [II]« in: Die Zeit, 17 (1898) #216, 121–122.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am meisten verwundert sind die Leute über den großen Erfolg,
+         <note type="incipit">Am meisten verwundert sind die Leute über den großen Erfolg,
                   den in der neuen Ausstellung unsere jungen Wiener haben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schildert detailliert die Ausstellung vom Herbst 1898 in
+         <note type="summary">Bahr schildert detailliert die Ausstellung vom Herbst 1898 in
                   der Secession. Dabei konzentriert er sich vor allem auf Zorn, Klimt, Engelhart,
                   Moll, Stöhr, Krämer, König, Bernatzik, Gurschner und Moser.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
                <ptr type="pmb" target="#11257"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_3340_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

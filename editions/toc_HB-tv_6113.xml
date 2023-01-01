@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr der Fünfziger</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb40003">Fremden-Blatt</title>
             <imprint>
                <biblScope unit="jg">67</biblScope>
@@ -48,15 +48,15 @@
                <date when="1963-07-19">19.7.1963</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In eine allgemeine Einleitung und einen seine Stücke am Burgtheater und seine
                      Beziehungssituation wiedergebenden Schluss eingebettet ist ein Nachdruck des
                      autobiographischen Texts aus dem Hermann Bahr-Buch.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Bahr über sich selbst« in: Hermann Bahr-Buch,
+         <note type="other-prints">Als »Bahr über sich selbst« in: Hermann Bahr-Buch,
                   18-23</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gerechte Besinnung auf sich selber, ohne Dünkel</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/fremden-blatt/1913_fuenfziger.pdf</ref>
+         <note type="incipit">Gerechte Besinnung auf sich selber, ohne Dünkel</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/fremden-blatt/1913_fuenfziger.pdf</ref>
       </body>
    </text>
 </TEI>

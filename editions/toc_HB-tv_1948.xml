@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1948" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Aus einem verbotenen Stücke von Hermann Bahr</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Arbeiter-Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -45,16 +45,16 @@
                <date when="1910-01-21">21.1.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der Vorbemerkung der Redaktion wird darauf hingewiesen, dass die Zensur zu
                      streng mit Revuen ist, hingegen alle Couplets zulasse. Es handelt sich um einen
                      Abdruck aus der neuen Nummer der »Glühlichter« ist, »die jetzt in allen
                      Trafiken zu haben sind«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Das Bad« in: Glühlichter 13 (1910) #2, 2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Heilquelle oder das Radikalbad. Kalif (zu den Gästen): Jetzt
+         <note type="first-printing">Als »Das Bad« in: Glühlichter 13 (1910) #2, 2</note>
+         <note type="incipit">Die Heilquelle oder das Radikalbad. Kalif (zu den Gästen): Jetzt
                   will ich Ihnen die Heilquelle von Eipeldauen zeigen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/arbeiter-zeitung/1910_verbot.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/arbeiter-zeitung/1910_verbot.pdf</ref>
       </body>
    </text>
 </TEI>

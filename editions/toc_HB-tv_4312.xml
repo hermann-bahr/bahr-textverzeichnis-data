@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Damenspende des Concordiaballs. Lessing-Almanach</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">20</biblScope>
@@ -48,16 +48,16 @@
                <date when="1912-02-13">13.2.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Lessing Almanach. Concordia-Ball 12. Februar 1912, 6</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lessing hat zuerst erkannt, dass all unseres Sinnens und Wirkens
+         <note type="other-prints">Lessing Almanach. Concordia-Ball 12. Februar 1912, 6</note>
+         <note type="incipit">Lessing hat zuerst erkannt, dass all unseres Sinnens und Wirkens
                   Wert im Erstreben, nicht aber im Erreichen der Wahrheit besteht, da jede Wahrheit,
                   kaum erreicht, sich schon wieder als Irrtum enthüllt. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12053"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19120213&amp;seite=4&amp;zoom=33</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19120213&amp;seite=4&amp;zoom=33</ref>
       </body>
    </text>
 </TEI>

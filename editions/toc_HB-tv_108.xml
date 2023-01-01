@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_108" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">B. Schwind</author>
             <title level="a">Unzüchtige Schriften</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36149">Freie Bühne für modernes Leben</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,10 +45,10 @@
                <date when="1890-07-09">9.7.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Überwindung des Naturalismus, 41-43</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Leipzig ist den 27. Juni gegen die Herren Walloth, Sittenfeld
+         <note type="other-prints">Überwindung des Naturalismus, 41-43</note>
+         <note type="incipit">In Leipzig ist den 27. Juni gegen die Herren Walloth, Sittenfeld
                   und Friedrich wegen Verbreitung unzüchtiger Schriften verhandelt worden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12092"/>
                <ptr type="pmb" target="#13473"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_3511_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1890-23_unzuechtige-schriften.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1890-23_unzuechtige-schriften.pdf</ref>
       </body>
    </text>
 </TEI>

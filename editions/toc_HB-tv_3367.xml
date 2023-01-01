@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">An die Pisonen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Sendung des Künstlers</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">5–15</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1922) #20659, Morgenblatt, 1–4.
+         <note type="first-printing">Neue Freie Presse, (1922) #20659, Morgenblatt, 1–4.
                   (4.3.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Des Horaz Brief an die Pisonen ist auch de arte poetica
+         <note type="incipit">Des Horaz Brief an die Pisonen ist auch de arte poetica
                   zubenannt, und ich war darum, als ich ihn in jungen Jahren zum erstenmal las,
                   eigentlich am Ende sehr enttäuscht: ich hatte kindlich gehofft, wenn ich mit den
                   fünfhundert Versen fertig wäre, Dichten gelernt zu haben; oder doch wenigstens
                   fortan zu wissen, worauf es beim Dichten ankommt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht, den Disput zwischen Horaz und den »Pisonen« - den
+         <note type="summary">Bahr versucht, den Disput zwischen Horaz und den »Pisonen« - den
                   Söhnen des römischen »Polizeipräsident« Piso - darzustellen. Im Streit zwischen
                   der klassischen, ihrer eigenen Grenzen bewussten Literatur Horaz’ und der
                   »überspannten«, »rasenden« Literatur der Jugend, gilt Bahrs Sympathie eindeutig
                   Horaz.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#18502"/>
                <ptr type="pmb" target="#11798"/>
@@ -92,7 +92,7 @@
                <ptr type="HB-tv" target="HB-tv_3367_p17"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
       </body>
    </text>
 </TEI>

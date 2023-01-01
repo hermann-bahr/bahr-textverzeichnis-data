@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 12. Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,12 +48,12 @@
                <date when="1930-05-25">25.5.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Emil Müller-Sturmheim: Ohne Amerika geht es nicht. Zürich,
+         <note type="review-of">Emil Müller-Sturmheim: Ohne Amerika geht es nicht. Zürich,
                   Wien: Amalthea 1930.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einen Brief an seinen getreuen Zelter schließt Goethe mit den
+         <note type="incipit">Einen Brief an seinen getreuen Zelter schließt Goethe mit den
                   Versen: »Amerika, du hast es besser</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Whitman.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Über Whitman.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#13177"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_3576_p8"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

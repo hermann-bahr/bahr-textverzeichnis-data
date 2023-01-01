@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">15. Januar [1924]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">13–16</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Briefe zwischen Otto Brahm und Georg Hirschfeld, In:
+         <note type="review-of">Briefe zwischen Otto Brahm und Georg Hirschfeld, In:
                   Preußische Jahrbücher (Berlin) Dezember u. Januar 1923/24; Max Hoffmann: Krieg der
                   versäumten Gelegenheiten, München 1923; Walter Heynen über Joseph Nadler, In:
                   Preußische Jahrbücher (Berlin) Dezember 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Briefe Brahms an Georg Hirschfeld, deren Mitteilung im
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Die Briefe Brahms an Georg Hirschfeld, deren Mitteilung im
                   Dezemberheft der Preussischen Jahrbücher begann</note>
       </body>
    </text>

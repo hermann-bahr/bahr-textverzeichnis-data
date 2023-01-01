@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 25. Januar. [I]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,20 +48,20 @@
                <date when="1921-02-06">6.2.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Annie Harrar: Die Feuerseelen. Phantastischer Roman. Mit 12
+         <note type="review-of">Annie Harrar: Die Feuerseelen. Phantastischer Roman. Mit 12
                   Originalzeichnungen von O. Delling. Berlin, Leipzig, Wien, Stuttgart: Richard Bong
                   1921. Annie Harrar: Rasse. Menschen von gestern und morgen . Mit 10 Abb. Leipzig:
                   Dürr und Weber 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 42-44</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die Feuerseelen«, ein phantastischer Roman von Annie Harrar
+         <note type="other-prints">Liebe der Lebenden, I, 42-44</note>
+         <note type="incipit">»Die Feuerseelen«, ein phantastischer Roman von Annie Harrar
                   (Deutsches Verlagshaus Bong &amp; Co., Berlin, Leipzig, Stuttgart). Ich will jede
                   Wette halten, daß dies das deutsche Buch des Jahres 1921 sein wird!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Schon am 21. Jänner 1921 hat Bahr die Entscheidung gefällt,
+         <note type="summary">Schon am 21. Jänner 1921 hat Bahr die Entscheidung gefällt,
                   welches das Buch des Jahres 1921 wird. Deswegen kann er sich auch in Folge
                   kleineren Themen zuwenden, wie zum Beispiel die Besteuerung von Rasse-Hunden in
                   Wien: »Soll, bei den Hunden, die gute Rasse vertilgt werden und nur Köter sollen
                   schließlich noch übrig bleiben dürfen?«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

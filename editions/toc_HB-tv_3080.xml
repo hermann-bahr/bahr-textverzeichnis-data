@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Berliner. Am 3. Mai 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">246–247</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Madame Adèle« von Ernst Wolzogen, Musik James Rothstein; »Der
+         <note type="review-of">»Madame Adèle« von Ernst Wolzogen, Musik James Rothstein; »Der
                   lustige Ehemann« von Otto Julius Bierbaum, Musik Oskar Straus sowie »Die Musik
                   kommt« von Detlev von Liliencron. »Scenenprobe« von Reinhard nach »Das neue Stück«
                   von Hugo Lubliner und »Pierrots Festnacht« von Leo Feld</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #120, 9.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #120, 9.
                   (3.5.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr v. Wolzogen mit seinem »Überbrettl«. Man weiß von dem
+         <note type="incipit">Herr v. Wolzogen mit seinem »Überbrettl«. Man weiß von dem
                   Erfolge, den es in Berlin gehabt hat.</note>
       </body>
    </text>

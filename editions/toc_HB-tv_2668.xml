@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Unzüchtige Schriften</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,9 +49,9 @@
                <biblScope unit="pages">41–43</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Freie Bühne für modernes Leben, 1 (1890) #23,
+         <note type="first-printing">Freie Bühne für modernes Leben, 1 (1890) #23,
                   609–610</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Leipzig ist den 27. Juni gegen die Herren Walloth, Sittenfeld
+         <note type="incipit">In Leipzig ist den 27. Juni gegen die Herren Walloth, Sittenfeld
                   und Friedrich wegen Verbreitung unzüchtiger Schriften verhandelt worden. Es ist
                   nicht meine Absicht, von diesem Prozesse und der Verurteilung der Herren Walloth
                   und Sittenfeld zu sprechen: erstens kann ich es nicht, weil ich diese Bücher
@@ -60,8 +60,8 @@
                   die höhere Instanz berufen und befugt ist. Sondern ich will bloß die Gelegenheit
                   wahrnehmen, die notwendige Stellung der Künstler zu diesem Paragraphen zu
                   formulieren.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#16678"/>
                <ptr type="pmb" target="#12092"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_3511_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">[Burckhard und Fulda]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Gesellschaft</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -48,13 +48,13 @@
                <date when="1893">1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Karl Kraus zitiert in seinem Text »Die Überwindung des Hermann Bahr« (S.
                      627-636) diese Meldung Bahrs vollständig.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7566, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7566, Morgen–Ausgabe,
                   6. (20.1.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir haben neulich die Erklärung des Herrn Fulda</note>
+         <note type="incipit">Wir haben neulich die Erklärung des Herrn Fulda</note>
       </body>
    </text>
 </TEI>

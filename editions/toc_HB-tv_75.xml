@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_75" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Brahms Kleist</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16961, Morgenblatt</biblScope>
@@ -44,17 +44,17 @@
                <date when="1911-11-09">9.11.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Kraus reagiert mit der Glosse »Brahm, Kleist, Bahr und ich« in der Fackel (13
                      (1911) #336-337, 22).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Otto Brahm: Das Leben Heinrichs von Kleist. Neue Ausgabe.
+         <note type="review-of">Otto Brahm: Das Leben Heinrichs von Kleist. Neue Ausgabe.
                   Berlin: Fleischel 1911</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Essays (1912), 96–104 H. B.: Essays. Hg. Kindermann. Wien:
+         <note type="other-prints">Essays (1912), 96–104 H. B.: Essays. Hg. Kindermann. Wien:
                   Bauer 1962, 254-260</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Brahm legt nun sein »Leben Heinrich v. Kleists« in einer neuen
+         <note type="incipit">Brahm legt nun sein »Leben Heinrich v. Kleists« in einer neuen
                   Ausgabe vor.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10986"/>
                <ptr type="pmb" target="#11933"/>
@@ -80,7 +80,7 @@
                <ptr type="HB-tv" target="HB-tv_3350_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1911-11-9_brahms-kleist.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1911-11-9_brahms-kleist.pdf</ref>
       </body>
    </text>
 </TEI>

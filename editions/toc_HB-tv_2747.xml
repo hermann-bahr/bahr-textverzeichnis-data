@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Henri Rochefort</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">180–187</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Rochefort hat neulich einmal Zola ein bischen gezaust und Zola,
+         <note type="incipit">Rochefort hat neulich einmal Zola ein bischen gezaust und Zola,
                   der vielleicht ein großer Künstler, aber gewiß ein kleiner Mensch ist, verträgt
                   das gar nicht. Es gab Streit, die Presse hetzte und so wurde eine Woche wieder das
                   Problem geprüft, das nun bald dreißig Jahre die Pariser reizt: ob der Mann der
                   »Laterne« nur ein politischer Klown, in den Pausen der Geschichte, oder ein
                   ehrlicher, wirksamer Wert in der Entwicklung des Landes ist. Viele redeten, aber
                   niemand konnte es lösen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13194"/>
                <ptr type="pmb" target="#5864"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_1100_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

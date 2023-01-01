@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Loris</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,17 +49,17 @@
                <biblScope unit="pages">122–129</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Freie Bühne für den Entwickelungskampf der Zeit, 3 (1892)
+         <note type="first-printing">Freie Bühne für den Entwickelungskampf der Zeit, 3 (1892)
                   #1, 94–98</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Das Hermann-Bahr-Buch, 253-260 Wunberg: Das junge Wien,
+         <note type="other-prints">Das Hermann-Bahr-Buch, 253-260 Wunberg: Das junge Wien,
                   92.2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es war im April, vor drei Jahren, dass ich von Petersburg
+         <note type="incipit">Es war im April, vor drei Jahren, dass ich von Petersburg
                   schied, aus schöner Güte fort, mit dem Gefühle, ich würde sie nicht wieder
                   erleben. Eine trübe, einsame, ängstliche Fahrt in verhängte Zukunft. Und ich
                   sehnte mich nach Sonne, Sommer, Süden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schildert seine ersten Eindrücke und Begegnungen mit
+         <note type="summary">Bahr schildert seine ersten Eindrücke und Begegnungen mit
                   Hofmannsthal und charakterisiert dessen literarischen Stil.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11740"/>
                <ptr type="pmb" target="#4026"/>
@@ -85,7 +85,7 @@
                <ptr type="HB-tv" target="HB-tv_2771_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

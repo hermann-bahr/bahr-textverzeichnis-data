@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Carltheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -48,17 +48,17 @@
                <date when="1890-10-31">31.10.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Bum-Bum« von H. Osten, Musik von Julius Stern</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Girardi ist im Carltheater. Das sagt alles. Mit diesem großen
+         <note type="review-of">»Bum-Bum« von H. Osten, Musik von Julius Stern</note>
+         <note type="incipit">Girardi ist im Carltheater. Das sagt alles. Mit diesem großen
                   Zauberer von Wien</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11441"/>
                <ptr type="pmb" target="#3162"/>
                <ptr type="HB-tv" target="HB-tv_2349_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/109-81.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/109-81.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_33" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">An die Österreicher</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die literarische Welt. Unabhängiges Organ für das deutsche
                      Schrifttum</title>
             <imprint>
@@ -46,12 +46,12 @@
                <date when="1930-03-28">28.3.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sie planen eine Sondernummer, die »Deutschland wie wir es
+         <note type="incipit">Sie planen eine Sondernummer, die »Deutschland wie wir es
                   wünschen«, darstellen soll, und laden mich ein, für dies »An die Österreicher« zu
                   schreiben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr glaubt nicht an den Anschluss an Deutschland, für ihn ist
+         <note type="summary">Bahr glaubt nicht an den Anschluss an Deutschland, für ihn ist
                   Österreich ein »Stehaufmandl«, das nach jeder Krise verjüngt hochkommt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12762"/>
                <ptr type="HB-tv" target="HB-tv_33_p1"/>

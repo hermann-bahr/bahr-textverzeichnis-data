@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2534" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Volkstheaterabend</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,13 +45,13 @@
                <date when="1901-03-12">12.3.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Hand« von Henry Berény</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Über »Die Hand«, das »Mimodrama« von Henry Béreny, das am
+         <note type="review-of">»Die Hand« von Henry Berény</note>
+         <note type="incipit">Über »Die Hand«, das »Mimodrama« von Henry Béreny, das am
                   Volkstheaterabend mit so starker Wirkung gegeben wurde, daß man wohl seine
                   Aufnahme ins Repertoire versuchen könnte, ist noch einiges Nachzutragen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr geht ausführlich auf die Pantomime als Kunstgattung ein und
+         <note type="summary">Bahr geht ausführlich auf die Pantomime als Kunstgattung ein und
                   wieso er eine neue Blüte voraussagt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4283"/>
                <ptr type="pmb" target="#2362"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_2399_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

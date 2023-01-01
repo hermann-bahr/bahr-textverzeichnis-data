@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 23. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,12 +48,12 @@
                <date when="1921-02-06">6.2.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 41</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der expressionistische Stil, sogleich daran erkenntlich, daß in
+         <note type="other-prints">Liebe der Lebenden, I, 41</note>
+         <note type="incipit">Der expressionistische Stil, sogleich daran erkenntlich, daß in
                   jedem Satz</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Expressionismus, in der Dichtung abflauend, kommt in der Werbung
+         <note type="summary">Expressionismus, in der Dichtung abflauend, kommt in der Werbung
                   auf.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

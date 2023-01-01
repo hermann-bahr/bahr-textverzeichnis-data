@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. Juni [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">II, 151–158</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vgl. die »Heidelberger Rede«, die Bahr im September 1922 hielt und in Folge
                      auch ins »Labyrinth der Gegenwart« aufnahm.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Heinz Heimsoeth: Die sechs großen Themen der abendländischen
+         <note type="review-of">Heinz Heimsoeth: Die sechs großen Themen der abendländischen
                   Metaphysik und der Ausgang des Mittelalters. Berlin: Stilke 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Den Sinn der deutschen Romantik suchend</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Mit der Untersuchung, wann die Heidelberger Landschaft vom culus
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Den Sinn der deutschen Romantik suchend</note>
+         <note type="summary">Mit der Untersuchung, wann die Heidelberger Landschaft vom culus
                   Planetarum zum romantischen Ideal wurde, versucht Bahr die Genese des Begriffs
                   »Romantik« zu bestimmen.</note>
       </body>

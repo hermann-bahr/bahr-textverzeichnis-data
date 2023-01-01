@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_559" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -45,12 +45,12 @@
                <date when="1900-10-24">24.10.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Mutter Sorge« von Rudolf Hawel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Mutter Sorge« in: Premièren, 253-255 Als »Mutter
+         <note type="review-of">»Mutter Sorge« von Rudolf Hawel</note>
+         <note type="other-prints">Als »Mutter Sorge« in: Premièren, 253-255 Als »Mutter
                   Sorge« in: H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963, 339-340</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Mutter Sorge«, Wiener Volksstück in vier Acten von R. Hawel.
+         <note type="incipit">»Mutter Sorge«, Wiener Volksstück in vier Acten von R. Hawel.
                   Herr Hawel, ein junger Winer Leher von der radicalen Gruppe</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

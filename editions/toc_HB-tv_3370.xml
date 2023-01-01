@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das Faktum in der Kunst</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Sendung des Künstlers</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">62–99</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Preußische Jahrbücher, 186 (1921) #1, 7–32. Auszug als
+         <note type="first-printing">Preußische Jahrbücher, 186 (1921) #1, 7–32. Auszug als
                   »Abriß meiner Ästhetik« in: Der Schloßpark, (1921) #11, 152–155.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zuweilen wenn unversehens der Mond aus Wolken tritt, oder beim
+         <note type="incipit">Zuweilen wenn unversehens der Mond aus Wolken tritt, oder beim
                   Anblick des Meeres, von Gebirgen oder des ersten Veilchens im März, oft aber auch
                   schon auf einen bloßen Hauch hin, der den Morgenwind anmeldet, überkommt’s uns
                   seltsam: der Puls geht schneller, das Herz schlägt höher, neue Kräfte, kühnere
@@ -59,14 +59,14 @@
                   lernen seine Sprache verstehen, unser eigenes, tief verborgenes Wesen wird uns
                   kund, das Buch des Schicksals scheint aufgeschlagen, ein Wunder muß mit uns
                   geschehen sein!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht so etwas wie ein Geheimnis der Kunst, das in großen
+         <note type="summary">Bahr sieht so etwas wie ein Geheimnis der Kunst, das in großen
                   Kunstwerken auch unterschiedlicher Gattungen durch die Geschichte hindurch bloß
                   variiert würde und geht davon aus, dass dessen Erkennen, für Kunstverständnis
                   unabdingbar, sehr schwer, womöglich gar nicht vermittelbar wäre. Das »Faktum«, den
                   realen Hintergrund von Kunstwerken zu erkennen wäre zwar in gewisser Hinsicht
                   interessant, würde jedoch gar nicht zum Bereich des Kunstverständnisses
                   gehören.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28765"/>
                <ptr type="pmb" target="#11201"/>
@@ -174,7 +174,7 @@
                <ptr type="HB-tv" target="HB-tv_3370_p24"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
       </body>
    </text>
 </TEI>

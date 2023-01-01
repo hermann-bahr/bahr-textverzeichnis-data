@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_823" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Österreichisches. 6 [Ungarn]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">März</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,10 +45,10 @@
                <date when="1909">1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Austriaca. 6« in: Austriaca, 54-63</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unsere Zeitungen sind wieder einmal von der ungarischen Krise
+         <note type="other-prints">Als »Austriaca. 6« in: Austriaca, 54-63</note>
+         <note type="incipit">Unsere Zeitungen sind wieder einmal von der ungarischen Krise
                   voll.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/maerz/1909-3-4_oesterreichisches-6.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/maerz/1909-3-4_oesterreichisches-6.pdf</ref>
       </body>
    </text>
 </TEI>

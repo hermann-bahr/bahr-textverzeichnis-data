@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6817" type="Journal-Article">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über die Dichterakademie</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Badischer Beobachter, Karlsruhe</title>
             <imprint>
                <biblScope unit="jg">64</biblScope>
@@ -45,7 +45,7 @@
                <date when="1926-12-09">9.12.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nachweis von Hans-Joachim Heerde. Fehlt im »Textverzeichnis«.</p>
          </note>
       </body>

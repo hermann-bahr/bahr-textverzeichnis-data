@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3670" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">An die Pisonen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20659, Morgenblatt</biblScope>
@@ -44,10 +44,10 @@
                <date when="1922-03-04">4.3.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Sendung des Künstlers, 5–15</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Des Horaz Brief an die Pisonen ist auch de arte poetica
+         <note type="other-prints">Sendung des Künstlers, 5–15</note>
+         <note type="incipit">Des Horaz Brief an die Pisonen ist auch de arte poetica
                   zubenannt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-3-4_an-die-pisonen.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-3-4_an-die-pisonen.pdf</ref>
       </body>
    </text>
 </TEI>

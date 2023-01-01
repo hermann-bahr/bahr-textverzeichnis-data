@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_161" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">A Letter from Germany</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb89478">The London Mercury</title>
             <imprint>
                <biblScope unit="jg">12</biblScope>
@@ -45,9 +45,9 @@
                <date when="1925-10-01">Oktober 1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">The youth of Germany is almost stifling under the pressure of a
+         <note type="incipit">The youth of Germany is almost stifling under the pressure of a
                   torturing desire to be recognised ;</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#10943"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_161_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1925-72.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1925-72.pdf</ref>
       </body>
    </text>
 </TEI>

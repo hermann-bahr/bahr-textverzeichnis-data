@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Erziehung. I</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30035">Inventur</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,18 +48,18 @@
                <biblScope unit="pages">88–94</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Länger: Berliner Tageblatt, 40 (1911) #663,
+         <note type="first-printing">Länger: Berliner Tageblatt, 40 (1911) #663,
                   Morgen–Ausgabe, 2. Beiblatt, 1–2. (31.12.1911) Länger: Urania, 5 (1912) #11,
                   197–199. (16.3.1912)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Hermann-Bahr-Buch, 37-43</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ob es wohl unter uns einen Menschen in reifen Jahren gibt, der
+         <note type="other-prints">Hermann-Bahr-Buch, 37-43</note>
+         <note type="incipit">Ob es wohl unter uns einen Menschen in reifen Jahren gibt, der
                   mit sich zufrieden wäre?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In »Erziehung. I« zweifelt Bahr an einer grundlegenden
+         <note type="summary">In »Erziehung. I« zweifelt Bahr an einer grundlegenden
                   Wirksamkeit von traditionellen Erziehungsprogrammen: Anstelle eines starren
                   Rahmens bedürfe die natürliche Entwicklung eines Menschen vielmehr einer äußerst
                   behutsamen und bedächtigen Methode, die das Kind gleichsam zu sich selbst
                   führe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11461"/>
@@ -71,7 +71,7 @@
                <ptr type="pmb" target="#15229"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2536" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,13 +45,13 @@
                <date when="1901-11-22">22.11.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Florio und Flavio« von Franz von Schönthan und Franz
+         <note type="review-of">»Florio und Flavio« von Franz von Schönthan und Franz
                   Koppel-Eilfeld, nach Diego Hurtado de Mendoza</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Florio und Flavio«, ein Schelmenstück und Liebesspiel in drei
+         <note type="incipit">»Florio und Flavio«, ein Schelmenstück und Liebesspiel in drei
                   Aufzügen von Franz v. Schönthan und Franz Koppel-Ellfeld, nach dem Altspanischen
                   des Hurtado Mendoza. Die classische spanische Literatur ist darin ganz
                   einzig</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8291"/>
                <ptr type="pmb" target="#3723"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_2536_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

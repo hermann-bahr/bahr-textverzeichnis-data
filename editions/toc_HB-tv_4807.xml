@@ -35,10 +35,10 @@
             type="Journal-Article"
             subtype="Nachtkritik_Gekürzt"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Kleine Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">52</biblScope>
@@ -47,18 +47,18 @@
                <date when="1906-01-19">19.1.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Übernahme der Aufführungskritik am Ende des Feuilletons in der »großen«
                      Volks-Zeitung ist mit einer kurzen Zusammenfassung desselben eingeleitet und
                      ohne Autorname wiedergegeben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Torquato Tasso« von Johann Wolfgang Goethe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Goethes »Torquato Tasso« wurde vorgestern in neuer Inszenierung
+         <note type="review-of">»Torquato Tasso« von Johann Wolfgang Goethe</note>
+         <note type="incipit">Goethes »Torquato Tasso« wurde vorgestern in neuer Inszenierung
                   aufgeführt. Tasso muß für uns aus seiner inneren Situation inszeniert werden.
                   Diese gibt Gebärden an. Man muß dann fähig sein. die Verse rein
                   musikalisch-malerisch, bloß als Mittel der Stimmung zu behandeln. Zunächst faßt
                   aber Kainz</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11851"/>

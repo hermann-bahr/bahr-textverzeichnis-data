@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6111" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Dalmatinische Reise</title>
             <editor>Schnödl, Gottfried</editor>
@@ -43,10 +43,10 @@
             </imprint>
             <extent>138 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Kritische Schriften in Einzelausgaben, 23</title>
          </series>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/23-dalmatinische.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/23-dalmatinische.pdf</ref>
       </body>
    </text>
 </TEI>

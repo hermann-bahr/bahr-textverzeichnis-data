@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">16. März [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">103–105</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Hermann Bahr: Tagebuch. 16. März. Neues Wiener Journal,
+         <note type="first-printing">Hermann Bahr: Tagebuch. 16. März. Neues Wiener Journal,
                   27 (1919) #9126, 7–8. (30.3.1919) Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Wahres Deutschtum.« in: Leipziger Zeitung und
+         <note type="other-prints">Als »Wahres Deutschtum.« in: Leipziger Zeitung und
                   Handelsblatt für Sachsen, 270 (1919) #84, 2. (7.4.1919) Als »Deutsch bleibt
                   deutsch« in: Berliner Mittagszeitung, 41 (1919) #79, 2. (5.4.1919)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im »Frieden« antwortet Oskar A. H. Schmitz auf Barbusses
+         <note type="incipit">Im »Frieden« antwortet Oskar A. H. Schmitz auf Barbusses
                   Manifest.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr möchte nicht über Absage an das Nationalgefühl beim
+         <note type="summary">Bahr möchte nicht über Absage an das Nationalgefühl beim
                   Weltbürger landen, sondern über eine provinzielle Einordnung und ein
                   »Sowohl-als-auch«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12685"/>
                <ptr type="pmb" target="#6109"/>

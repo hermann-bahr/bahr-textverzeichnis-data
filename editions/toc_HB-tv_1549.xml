@@ -36,7 +36,7 @@
             type="Book"
             status="checked"
             sameAs="pmb30091">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30091">Grotesken. Der Klub der Erlöser (Schauspiel in
                      einem Akt) – Der Faun – Die tiefe Natur (Ein Akt)</title>
@@ -47,7 +47,7 @@
             </imprint>
             <extent>264 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>1906, vordatiert auf 1907. »Der Klub« ist Felix Salten, »Der Faun« Franz Blei
                      gewidmet, »Die tiefe Natur« »in Erinnerung an meinen lieben Anatol« verfasst.
                      »Der Klub« wurde, wie das Neue Wiener Tagblatt (39 (1905) #331, 10) am 30.
@@ -61,14 +61,14 @@
                      (1908) #12, 464-465. [»Tiefe Natur« und »Krampus« im Deutschen
                      Volkstheater]</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Der Faun: Die Schaubühne, 2 (1906) #2, 316–322, 343–349,
+         <note type="first-printing">Der Faun: Die Schaubühne, 2 (1906) #2, 316–322, 343–349,
                   366–370, 406–411 und 426–431. Der Klub der Erlöser: Die neue Rundschau, 17 (1906)
                   #3, 461–491. Die tiefe Natur: Österreichische Rundschau, 9 (1906) #2,
                   95–111.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Klub der Erlöser: Nicht identifizierter Druck,
+         <note type="other-prints">Der Klub der Erlöser: Nicht identifizierter Druck,
                   Universität Salzburg, 38.579-I Die tiefe Natur. In: Einakter und kleine Dramen des
                   Jugendstils. Stuttgart : Philipp Reclam, 1979, 178-220.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=65</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=65</ref>
       </body>
    </text>
 </TEI>

@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_437" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Max Burckhard. (Zur Première der »Bürgermeisterwahl« von Max
                      Burckhard im Deutschen Volkstheater am 20. November 1897)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">13</biblScope>
@@ -47,15 +47,15 @@
                <date when="1897-11-20">20.11.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Max Burckhard: Simon Thums. Einige Tage aus seinem Leben.
+         <note type="review-of">Max Burckhard: Simon Thums. Einige Tage aus seinem Leben.
                   Stuttgart: Cotta 1897 sowie dessen Stück »Die Bürgermeisterwahl«</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 398-405 Wunberg: Das junge Wien,
+         <note type="other-prints">Wiener Theater, 398-405 Wunberg: Das junge Wien,
                   97.57</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Recensent des Burgtheaters habe ich in dieser Zeitung
+         <note type="incipit">Als Recensent des Burgtheaters habe ich in dieser Zeitung
                   manchmal über seinen Director reden müssen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr zieht den Theaterdichter Burckhard dem Romanschriftsteller
+         <note type="summary">Bahr zieht den Theaterdichter Burckhard dem Romanschriftsteller
                   Burckhard vor.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11036"/>
                <ptr type="pmb" target="#3892"/>
@@ -64,8 +64,8 @@
                <ptr type="HB-tv" target="HB-tv_1677_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/164-123.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/164-124.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/164-123.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-13/164-124.pdf</ref>
       </body>
    </text>
 </TEI>

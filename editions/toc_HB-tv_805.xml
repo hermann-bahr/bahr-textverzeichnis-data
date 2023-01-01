@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_805" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Nekrolog</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb41564">Die Schaubühne</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -45,9 +45,9 @@
                <date when="1909-04-22">22.4.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich muß ans Telephon: Sonnenthal ist tot, möchten Sie den
+         <note type="incipit">Ich muß ans Telephon: Sonnenthal ist tot, möchten Sie den
                   Nekrolog für uns schreiben, noch zum Abendblatt zurecht?</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/schaubuehne/1909_nekrolog.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/schaubuehne/1909_nekrolog.pdf</ref>
       </body>
    </text>
 </TEI>

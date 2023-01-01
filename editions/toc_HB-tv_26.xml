@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_26" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Krisis des Burgtheaters. Ein Pariser Brief</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Worte, Wien</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -45,15 +45,15 @@
                <date when="1889">1889</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Datiert mit: »Paris, im Jänner 1889«. Über das Entstehungsumfeld schreibt Bahr
                      in seinem »Tagebuch« zum 1. Mai 1919 (Buchausgabe: 1919. Tagebuch,
                      147–152).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Zur Kritik der Moderne, 138–147 Hermann-Bahr-Buch,
+         <note type="other-prints">Zur Kritik der Moderne, 138–147 Hermann-Bahr-Buch,
                   184–189</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ah, nicht wahr? Jetzt reißt Ihnen die Geduld!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1889_deutsche-worte.pdf</ref>
+         <note type="incipit">Ah, nicht wahr? Jetzt reißt Ihnen die Geduld!</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1889_deutsche-worte.pdf</ref>
       </body>
    </text>
 </TEI>

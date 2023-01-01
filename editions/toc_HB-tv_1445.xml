@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1445" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Kieselak</author>
             <title level="a">Freie Gedanken. [VII]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Linzer Sonntagsblatt</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -45,11 +45,11 @@
                <date when="1883-01-28">28.1.1883</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sie haben am 23. Jänner 1883 zu Wien einen großen Todten zu
+         <note type="incipit">Sie haben am 23. Jänner 1883 zu Wien einen großen Todten zu
                   Grabe geführt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In diesem Text singt Bahr den Grabgesang des Liberalismus und
+         <note type="summary">In diesem Text singt Bahr den Grabgesang des Liberalismus und
                   des Abgeordneten Chlumecky.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#13474"/>

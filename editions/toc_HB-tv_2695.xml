@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Berliner Kunst-Ausstellung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,17 +49,17 @@
                <biblScope unit="pages">318–322</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Von der Berliner Kunst–Ausstellung« in: Das Magazin
+         <note type="first-printing">Als »Von der Berliner Kunst–Ausstellung« in: Das Magazin
                   für die Litteratur des In– und Auslandes, 59 (1890) #34, 522–523.
                   (23.8.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die 62. Berliner akademische Kunst-Ausstellung zeichnet sich
+         <note type="incipit">Die 62. Berliner akademische Kunst-Ausstellung zeichnet sich
                   dadurch aus, daß sie als ein wahres Schulbeispiel und Muster einer Ausstellung,
                   wie sie nicht sein soll, gelten kann. Sie ist schlecht im gewöhnlichen und im
                   besonderen Sinne; sie ist schlecht für den genießenden Laien, wie für den
                   lerneifrigen Fachmann, wie für die fragende Begierde des Kulturbummlers, der um
                   Dokumente reist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4579"/>
                <ptr type="pmb" target="#3904"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_2695_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

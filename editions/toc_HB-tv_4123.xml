@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 11. November</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43849">Der Weg. Wochenschrift für Politik und
                      Kultur</title>
             <imprint>
@@ -49,8 +49,8 @@
                <date when="1905-11-26">26.11.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 63-64</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Chefredakteur telephoniert mich an, um mir zu sagen, dass er
+         <note type="other-prints">Tagebuch (1909), 63-64</note>
+         <note type="incipit">Ein Chefredakteur telephoniert mich an, um mir zu sagen, dass er
                   einen Artikel gegen mich bringen wird, einen sehr scharfen Artikel – ob mich das
                   geniert?</note>
       </body>

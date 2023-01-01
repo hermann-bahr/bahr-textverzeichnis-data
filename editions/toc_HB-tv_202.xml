@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_202" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der neue Stil. Ein Wiener Interview. V. Alfred Freiherr v.
                      Berger. VI. Ferdinand Bonn</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -47,11 +47,11 @@
                <date when="1892-10-23">23.10.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Studien zur Kritik der Moderne, 286-295</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine Stube behaglicher Gelehrsamkeit, strenge, still</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74781.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74782.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74783.pdf</ref>
+         <note type="other-prints">Studien zur Kritik der Moderne, 286-295</note>
+         <note type="incipit">Eine Stube behaglicher Gelehrsamkeit, strenge, still</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74781.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74782.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74783.pdf</ref>
       </body>
    </text>
 </TEI>

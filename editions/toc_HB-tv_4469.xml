@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4469" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Hermann von Kürenberg</author>
             <title level="a">Reisebriefe eines lachenden Philosophen. IV. Rigi, im September
                      1881</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Nachrichten</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -47,18 +47,18 @@
                <date when="1881-09-24">24.9.1881</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">[Steger, Joseph:] Aus der alten Reimchronik des Magisters
+         <note type="review-of">[Steger, Joseph:] Aus der alten Reimchronik des Magisters
                   Chuisko. Der in Salzburg tagenden 54. Versammlung Deutscher Naturforscher und
                   Ärzte gewidmet. Salzburg: Holzhausen 1881. Vom Fels zum Meer. Spemann’s
                   illustrirte Zeitschrift für das deutsche Haus. Berlin: Scherl, Jahrgang 1, Heft
                   1.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lieber Freund! Wer einmal hinausgeschaut von jenen
+         <note type="incipit">Lieber Freund! Wer einmal hinausgeschaut von jenen
                   Bergesgipfeln</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bietet zuerst eine Schilderung vom Anblick des Rigi und der
+         <note type="summary">Bahr bietet zuerst eine Schilderung vom Anblick des Rigi und der
                   Rigi-Bahn, dann bespricht er ein unter Pseudonym erschienenes Werk seines Lehrers
                   Joseph Steger, »dessen Anonymität [er] hier nicht verletzen will« und die erste
                   Nummer von »Vom Fels zum Meer«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2693"/>
                <ptr type="pmb" target="#12331"/>
@@ -87,7 +87,7 @@
                <ptr type="HB-tv" target="HB-tv_4469_p20"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
       </body>
    </text>
 </TEI>

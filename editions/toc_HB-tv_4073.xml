@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Stimmen über Reicher</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Theater. Illustrierte Monatsschrift für die Welt der
                      Bühne</title>
             <imprint>
@@ -49,12 +49,12 @@
                <date when="1910">1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben Bahr gibt auch Walter Turszinsky Auskunft.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Reicher war der erste Schauspieler der neuen Generation in
+         <note type="incipit">Reicher war der erste Schauspieler der neuen Generation in
                   Deutschland</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12491"/>
                <ptr type="pmb" target="#12265"/>

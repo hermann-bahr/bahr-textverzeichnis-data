@@ -36,12 +36,12 @@
             type="Journal-Article"
             sameAs="pmb31055"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31055">Die Chronik von Dirnau. Geschichte eines Dorfes
                      von Gustav Macasy. Wien 1903. C. W. Stern</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -50,9 +50,9 @@
                <date when="1903-10-14">14.10.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Buch der Jugend, 85-90</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Omnibus oder in der Tramway, wenn man</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <note type="other-prints">Buch der Jugend, 85-90</note>
+         <note type="incipit">Im Omnibus oder in der Tramway, wenn man</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

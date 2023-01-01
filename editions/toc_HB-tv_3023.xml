@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Krannerbuben. (Komödie in drei Akten von Felix Dörmann. Zum
                      ersten Male aufgeführt im Deutschen Volkstheater am 23. März 1901)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -50,9 +50,9 @@
                <biblScope unit="pages">105–110</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #82, 2–4.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #82, 2–4.
                   (24.3.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man mit den Leuten über das sogenannte »junge Österreich«
+         <note type="incipit">Wenn man mit den Leuten über das sogenannte »junge Österreich«
                   spricht, wird immer gleich der Shakespeare herbeigeholt.</note>
       </body>
    </text>

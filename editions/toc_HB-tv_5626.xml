@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">22. Januar [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">I, 37–41</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Matthias Claudius: Das fromme Buch. Auswahl von Karl Seelig.
+         <note type="review-of">Matthias Claudius: Das fromme Buch. Auswahl von Karl Seelig.
                   Wien u.a.: E. P. Tal 1920. Ernst Cassirer: Zur Einsteinischen Relativitätstheorie.
                   Berlin: Bruno Cassirer 1921. Ernst Cassirer: [Einstein] in: Neue Rundschau,
                   Dezember 1920</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Sonnenglanz dieses Winterfrühlingstags</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Naturerfahrung und was es durch Claudius und Cassirer
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Im Sonnenglanz dieses Winterfrühlingstags</note>
+         <note type="summary">Über die Naturerfahrung und was es durch Claudius und Cassirer
                   in einem erzeuge: Bescheidenheit und Respekt.</note>
       </body>
    </text>

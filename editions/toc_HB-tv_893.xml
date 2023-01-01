@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_893" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Französische Kunst seit hundert Jahren. (Anläßlich der Pariser
                      Weltausstellung)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">19</biblScope>
@@ -47,12 +47,12 @@
                <date when="1889-08-13">13.8.1889</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Seit hundert Jahren« in: Zur Kritik der Moderne,
+         <note type="other-prints">Als »Seit hundert Jahren« in: Zur Kritik der Moderne,
                   233-236</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Überall und immer, in allen Perioden aller Künste, scheiden sich
+         <note type="incipit">Überall und immer, in allen Perioden aller Künste, scheiden sich
                   die Künstler in zwei Gruppen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63291.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63292.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63291.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/63292.pdf</ref>
       </body>
    </text>
 </TEI>

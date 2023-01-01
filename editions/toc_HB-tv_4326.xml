@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 26. [April]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Strom</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,17 +48,17 @@
                <date when="1911">1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Bekehrung des Ketzers Bahr zum katholischen Glauben ist zu der Zeit bereits
                      im Gange.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die dumme Hetze gegen Schönherr. Er soll »gegen« die katholische
+         <note type="incipit">Die dumme Hetze gegen Schönherr. Er soll »gegen« die katholische
                   Kirche gedichtet haben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Hetze gegen das Stück »Glaube und Heimat« von Karl Schönherr
+         <note type="summary">Die Hetze gegen das Stück »Glaube und Heimat« von Karl Schönherr
                   veranlasst Bahr die Macht der katholischen Reaktion bemerken, gegen die sich viele
                   nicht aufstehen trauen. Am Rande erwähnt er, dass er »als Ketzer« trotzdem das
                   Buch der Handel-Mazzetti über Sophie Barat mochte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12749"/>
                <ptr type="pmb" target="#11575"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_4464_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/strom/der-strom_1911.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/strom/der-strom_1911.pdf</ref>
       </body>
    </text>
 </TEI>

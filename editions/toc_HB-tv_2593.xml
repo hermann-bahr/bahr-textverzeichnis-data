@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2593" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Von Religion und Kultur. Hermann Bahr über die katholische
                      Kirche</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Reichspost</title>
             <imprint>
                <biblScope unit="jg">21</biblScope>
@@ -47,13 +47,13 @@
                <date when="1914-02-19">19.2.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Johannes Müller und Hermann Bahr: Eine Unterhaltung mit
+         <note type="first-printing">Johannes Müller und Hermann Bahr: Eine Unterhaltung mit
                   Hermann Bahr über die Kirche. Nachschrift von Hermann Bahr. Blätter zur Pflege
                   persönlichen Lebens, 16 (1913) #4, 178–192, hier: 190–192. Nachdruck in:
                   Salzburger Volksblatt, 44 (1914) #42, 3–4. (21.2.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Leute, die im Bannkreis der sogenannten modernen Weltanschauung
+         <note type="incipit">Leute, die im Bannkreis der sogenannten modernen Weltanschauung
                   aufgewachsen sind, machen seltsame Entwicklungen durch.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1914-2-19_religion-und-kultur.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1914-2-19_religion-und-kultur.pdf</ref>
       </body>
    </text>
 </TEI>

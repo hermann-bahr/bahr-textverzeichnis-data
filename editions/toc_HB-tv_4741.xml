@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. München, 18. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">26</biblScope>
@@ -48,15 +48,15 @@
                <date when="1918-07-07">7.7.1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ernst Marcus: Das Problem der exzentrischen Empfindung und
+         <note type="review-of">Ernst Marcus: Das Problem der exzentrischen Empfindung und
                   seine Lösung. Berlin: Sturm 1918.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebücher 2, 189–193</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was heißt sehen? Es ist zugleich Leiden und Handeln, uns
+         <note type="other-prints">Tagebücher 2, 189–193</note>
+         <note type="incipit">Was heißt sehen? Es ist zugleich Leiden und Handeln, uns
                   geschieht etwas und wir erwidern es.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr würdigt das (auch von Dadaisten geschätzte) Buch von Ernst
+         <note type="summary">Bahr würdigt das (auch von Dadaisten geschätzte) Buch von Ernst
                   Marcus mit ausführlichen Erklärungen zum Verhältnis von Individuum und
                   Wirklichkeit.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

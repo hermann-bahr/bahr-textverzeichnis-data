@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_704" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hundert Jahre Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -45,8 +45,8 @@
                <date when="1899-12-31">31.12.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premieren, 1-7</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Jahre 1797 war Kotzebue als »Hoftheatersekretär« an das
+         <note type="other-prints">Premieren, 1-7</note>
+         <note type="incipit">Im Jahre 1797 war Kotzebue als »Hoftheatersekretär« an das
                   Burgtheater berufen worden.</note>
       </body>
    </text>

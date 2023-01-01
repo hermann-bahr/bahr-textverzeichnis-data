@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1104" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Vom Lesetische. Maurice Barrès</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neues Wiener Abendblatt</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -45,10 +45,10 @@
                <date when="1894-02-12">12.2.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Maurice Barrès. III. (Februar 1894)« in: Studien zur
+         <note type="other-prints">Als »Maurice Barrès. III. (Februar 1894)« in: Studien zur
                   Kritik der Moderne, 173–177.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jetzt reden Alle wieder von Maurice Barrès.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwt/1894_barres.pdf</ref>
+         <note type="incipit">Jetzt reden Alle wieder von Maurice Barrès.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwt/1894_barres.pdf</ref>
       </body>
    </text>
 </TEI>

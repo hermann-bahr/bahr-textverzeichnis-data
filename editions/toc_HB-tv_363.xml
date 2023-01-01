@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_363" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der kleine Lord. (Lebensbild in drei Acten nach dem gleichnamigen
                      Roman von Mrs. Hodgson-Burnett. Zum ersten Mal aufgeführt im Deutschen
                      Volkstheater am 28. December 1895)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -49,10 +49,10 @@
                <date when="1896-01-04">4.1.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 312-318</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Kinder, die englisch lernen, lesen mit heißen Köpfen die
+         <note type="other-prints">Wiener Theater, 312-318</note>
+         <note type="incipit">Die Kinder, die englisch lernen, lesen mit heißen Köpfen die
                   Geschichte vom kleinen Lord Fauntleroy.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#6521"/>
                <ptr type="pmb" target="#10752"/>
@@ -60,8 +60,8 @@
                <ptr type="HB-tv" target="HB-tv_363_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/66-11.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/66-12.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/66-11.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/66-12.pdf</ref>
       </body>
    </text>
 </TEI>

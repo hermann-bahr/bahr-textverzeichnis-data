@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1249" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sezession. Siebente Kunstausstellung der Vereinigung bildender
                      Künstler Österreichs. I</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -47,7 +47,7 @@
                <date when="1900-03-09">9.3.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir sind es ja gewohnt, daß uns die Sezession immer wieder
+         <note type="incipit">Wir sind es ja gewohnt, daß uns die Sezession immer wieder
                   verblüfft.</note>
       </body>
    </text>

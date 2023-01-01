@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. (Deutsches Volkstheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,17 +48,17 @@
                <date when="1904-04-27">27.4.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im Archiv findet sich auf der Rückseite eine handschriftliche Ergänzung eines
                      unbekannten Schreibers: »DER ERSTE BEITRAG HERM. BAHRS NACH SEINER KRANKHEIT
                      HERBST UND WINTER 1903/04«. Inspiriert war er nicht, denn mit dem gleichen Satz
                      hat er schon am 22. Juni 1901 seine Volksfeind-Besprechung beginnen lassen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»En Folkefiende (Der Volksfeind)« von Henrik Ibsen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Stockmann ist zum Teil ein grotesker Bursche und ein
+         <note type="review-of">»En Folkefiende (Der Volksfeind)« von Henrik Ibsen</note>
+         <note type="incipit">»Stockmann ist zum Teil ein grotesker Bursche und ein
                   Strudelkopf«, hat Ibsen einmal über seinen »Volksfeind« gesagt und eben indem er
                   ihn</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#23002"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_2046_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. (Gastspiel im Raimundtheater) 7. 29. April 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">146–149</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»The Merchant of Venice (Der Kaufmann von Venedig)« von
+         <note type="review-of">»The Merchant of Venice (Der Kaufmann von Venedig)« von
                   William Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #116, 6.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #116, 6.
                   (29.4.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   372-374</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novelli als Shylock. Das ist ein Abend gewesen, wie wir ihn in
+         <note type="incipit">Novelli als Shylock. Das ist ein Abend gewesen, wie wir ihn in
                   einem Wiener Theater noch nicht erlebt haben.</note>
       </body>
    </text>

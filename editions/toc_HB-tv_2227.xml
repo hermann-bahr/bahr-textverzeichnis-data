@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Kurzmeldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Eröffnung des Deutschen Schauspielhauses in Hamburg.
                      (Privattelegramm des »N. Wr. Tagblatt«)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -50,17 +50,17 @@
                <date when="1900-09-14">14.9.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Hamburg, 13. September. Die heutige officielle
                      Generalprobe nahm einen glänzenden Verlauf. Zur Aufführung gelangte »Iphigenie
                      auf Tauris«. […] [Liste von Teilnehmern] Über den Verlauf der Generalprobe
                      erhalten wir folgendes Telegramm:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Iphigenie auf Tauris« von Johann Wolfgang Goethe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Hamburger Deutschen Schauspielhause fand heute die erste
+         <note type="review-of">»Iphigenie auf Tauris« von Johann Wolfgang Goethe</note>
+         <note type="incipit">Im Hamburger Deutschen Schauspielhause fand heute die erste
                   »Generalprobe« statt. Gast kamen aus allen Ecken und Enden, die Baron Berger mit
                   ernsten, vorsichtigen und doch beherzten Worten begrüßte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10883"/>
                <ptr type="pmb" target="#11461"/>
@@ -69,7 +69,7 @@
                <ptr type="pmb" target="#26554"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

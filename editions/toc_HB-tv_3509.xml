@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Atlantis</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">90–94</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1926) #22231, Morgenblatt, 1–2.
+         <note type="first-printing">Neue Freie Presse, (1926) #22231, Morgenblatt, 1–2.
                   (5.8.1926) Berliner Börsen–Courier, 59 (1926) #369, Morgen–Ausgabe, 1. Beilage, 5.
                   (11.8.1926) Hannoverscher Kurier, 79 (1927) #320, Abend–Ausgabe, 2. (12.7.1927)
                   Luginsland. Beilage der »Nürnberger Zeitung«, 4 (1927) #31, 1. (6.8.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Namen wirken zuweilen schon durch ihren bloßen Klag so
+         <note type="incipit">Namen wirken zuweilen schon durch ihren bloßen Klag so
                   bezaubernd...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr spürt dem Phänomen Atlantis in der antiken und
+         <note type="summary">Bahr spürt dem Phänomen Atlantis in der antiken und
                   zeitgenössischen Literatur nach und berichtet von den Bemühungen Borchardts, es
                   »auszugraben«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11161"/>
                <ptr type="pmb" target="#14796"/>
@@ -87,7 +87,7 @@
                <ptr type="HB-tv" target="HB-tv_3509_p18"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

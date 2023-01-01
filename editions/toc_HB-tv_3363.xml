@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vorbarock</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Summula</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,20 +48,20 @@
                <biblScope unit="pages">167–171</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Stark erweiterte Fassung als »Denkzettel« in: Das Neue
+         <note type="first-printing">Stark erweiterte Fassung als »Denkzettel« in: Das Neue
                   Österreich, 3 (1918) #6 (September), 45–48.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Erst des Römers klarer Machtsinn, mit Weltblick begabt, lernt
+         <note type="incipit">Erst des Römers klarer Machtsinn, mit Weltblick begabt, lernt
                   ahnen, daß über Völker zu herrschen nur vermag, wer ihnen in seiner Herrschaft
                   die Vollendung ihrer Eigenart bringt. Wie, während bei den Griechen die Polis
                   noch den Einzelnen ganz verschlingt, die Römer die ersten sind, die die Würde
                   des Einzelnen als eines Unersetzlichen begreifen, so wenden sie den eigenen
                   Freiheitssinn nun auch auf ihr Verhältnis zur Welt an, erkennen den unterworfenen
                   Völkern Eigenart und Eigensinn zu und öffnen den fremden Göttern Rom.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bereits in Karl IV. sei das Barock angebrochen, in seinem
+         <note type="summary">Bereits in Karl IV. sei das Barock angebrochen, in seinem
                   »übernationalen« Wesen, seinem Versuch, in »den Kaiser auch noch den Papst
                   hineinzunehmen«. Der Umschlag komme mit dem Humanismus und Nationalismus, die
                   parallele Erscheinungen seien.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#16680"/>
                <ptr type="pmb" target="#11043"/>
@@ -84,7 +84,7 @@
                <ptr type="HB-tv" target="HB-tv_4857_p13"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
       </body>
    </text>
 </TEI>

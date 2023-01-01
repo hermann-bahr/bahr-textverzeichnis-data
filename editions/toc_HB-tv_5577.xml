@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">12. September [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">222</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Alfons Goldschmidt: Moskau 1920. Reinbek: Rowohlt 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Alfons Goldschmidts »Moskau 1920« (Ernst Rowohlt Verlag,
+         <note type="review-of">Alfons Goldschmidt: Moskau 1920. Reinbek: Rowohlt 1920.</note>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Alfons Goldschmidts »Moskau 1920« (Ernst Rowohlt Verlag,
                   Berlin), Tagebuchblätter von einer raschen Reise, handfesten Skizzen
                   Sowjetrußlands, fällt mir eine glückliche Metapher auf: er liebe, sagt er einmal,
                   die Leute nicht, die »sich auf den Boden der Tatsachen stellen ... die Leute mit
@@ -60,7 +60,7 @@
                   muß nur sicher sein, daß die Drehbühne doch irgendwie fixiert ist, daß sie dann
                   unter sich noch einen Boden hat, etwas Festes. Dann mag er sie nach Herzenslust
                   unbesorgt nur immer drehen! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Mann von Übermorgen hat eine Drehbühne im Herzen.</note>
+         <note type="summary">Der Mann von Übermorgen hat eine Drehbühne im Herzen.</note>
       </body>
    </text>
 </TEI>

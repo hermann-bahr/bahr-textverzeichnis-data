@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das große Glück. (Drama in drei Akten von Stanislaw
                      Prszybyszewski [!]. Zum ersten Mal aufgeführt durch das »Intime Theater« im
                      Jantsch-Theater am 3. Oktober 1904)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -53,9 +53,9 @@
                <biblScope unit="pages">422–430</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 38 (1904) #275, 8–9.
+         <note type="first-printing">Neues Wiener Tagblatt, 38 (1904) #275, 8–9.
                   (4.10.1904)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Otto Julius Bierbaum hat einmal, in seinem »Stilpe«, die
+         <note type="incipit">Otto Julius Bierbaum hat einmal, in seinem »Stilpe«, die
                   skandinavisch-slavische Berliner Bohème der Neunzigerjahre geschildert.</note>
       </body>
    </text>

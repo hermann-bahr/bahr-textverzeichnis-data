@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4035" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H–R</author>
             <title level="a">Zur Kritik der Parteien in Österreich. III</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Gleichheit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,10 +45,10 @@
                <date when="1887-04-16">16.4.1887</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Teilweise konfisziert.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was die Entwicklung der gegenwärtigen Parteien in Österreich von
+         <note type="incipit">Was die Entwicklung der gegenwärtigen Parteien in Österreich von
                   der aller politischen Gegenwart</note>
       </body>
    </text>

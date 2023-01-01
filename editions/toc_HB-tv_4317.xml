@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Woran arbeiten Sie?. Aus den Werkstätten der Kunst und
                      Wissenschaft</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">20</biblScope>
@@ -50,21 +50,21 @@
                <date when="1912-12-25">25.12.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vgl. auch die Meldung in #6848, 14 (15.11.1912) und Karl Kraus, die Fackel (14
                      (1913) #366-367, 12): »Hermann Bahr arbeitet einstweilen an einem großen Roman
                      ‚Die Räuber‘, der eine Utopie darstellen soll, und auch ein neues Schauspiel
                      wird von ihm geplant. Infolgedessen kann mit der Niederschrift seiner Memoiren
                      vorerst nicht gerechnet werden.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bereite einen neuen Roman vor, eine Utopie, unter dem Titel
+         <note type="incipit">Ich bereite einen neuen Roman vor, eine Utopie, unter dem Titel
                   »Die Räuber«. Weiß aber nicht, wann ich ich so weit sein werde, ihn zu formen.
                   Denn mich hat nun wieder der alte Zauber dieser einzigen Stadt so stark gepackt,
                   daß ich tagelang mit den großen Männern ihrer Vergangenheit lebe und vielleicht
                   der Versuchung nicht widerstehen kann, sie abzuzeichnen, den heiligen Rupert,
                   Paracelsus, Wolf Dietrich, Markus Sittikus, Paris Lodron und die ganze Reihe.
                   |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1912-arbeit.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1912-arbeit.pdf</ref>
       </body>
    </text>
 </TEI>

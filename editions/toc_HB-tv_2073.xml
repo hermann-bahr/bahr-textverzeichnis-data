@@ -35,27 +35,27 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Adalbert Stifter. Eine Entdeckung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Amalthea-Almanach auf das Jahr 1919</title>
             <imprint>
                <biblScope unit="pages">17–30</biblScope>
                <date when="1918">1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>1.–10. Tsd.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Adalbert Stifter. Eine Entdeckung, 5–16 H. B.: Essays. Hg.
+         <note type="other-prints">Adalbert Stifter. Eine Entdeckung, 5–16 H. B.: Essays. Hg.
                   Kindermann. Wien: Bauer 1962, 88–125</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der Nacht vom 27. auf den 28. Januar 1868 griff der kranke
+         <note type="incipit">In der Nacht vom 27. auf den 28. Januar 1868 griff der kranke
                   Hofrat Stifter, sinnlos vor Schmerz, nach dem Rasiermesser auf dem Nachtkästchen
                   und schnitt sich den Hals durch. In Eile geholt … [Ende] erst da, von ihm aus,
                   fand ich Stifter: Goethe hat mich zur Entdeckung Stifters geführt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1918_amalthea-almanach.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1918_amalthea-almanach.pdf</ref>
       </body>
    </text>
 </TEI>

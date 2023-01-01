@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Dichter und ihre Werke</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Reclams Universum</title>
             <imprint>
                <biblScope unit="jg">44</biblScope>
@@ -48,13 +48,13 @@
                <date when="1927-10-06">6.10.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr kündigt den »Inwendigen Garten« für Oktober an. Insgesamt elf Beiträger,
                      alle mit Foto und Unterschrift: Heinrich Mann, Wilhelm von Scholz, Robert
                      Neumann, Rudolf Huch, Stefan Zweig, Emil Lucka, Rudolf Hans Bartsch, Alfred
                      Neumann, Thomas Mann, Robert Walter.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Verlag Borgmeyer bringt im Oktober meinen neuen Roman »Der
+         <note type="incipit">Der Verlag Borgmeyer bringt im Oktober meinen neuen Roman »Der
                   inwendige Garten«. Es ist der sechste</note>
       </body>
    </text>

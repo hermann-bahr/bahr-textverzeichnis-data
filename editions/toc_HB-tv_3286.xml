@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Erinnerungen an Hugo Wolf</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">54–63</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #63, 1–3.
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #63, 1–3.
                   (5.3.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Sommer 1883 lernte ich Hugo Wolf am Traunsee kennen. Ich war
+         <note type="incipit">Im Sommer 1883 lernte ich Hugo Wolf am Traunsee kennen. Ich war
                   damals mit den Meinen entzweit, weil ich nach einer gar zu schwärmerischen Rede
                   auf dem Wagner-Kommers von der Wiener Universität relegiert worden war, was
                   meinen guten Vater so verdross, dass er mich gar nicht mehr sehen wollte, sondern
                   an den Steinkogel, der damals noch ein recht einsames Wirtshaus im Walde war, in
                   die Verbannung verwies, damit ich dort, wie er mir schrieb, von meinen wirren
                   Gedanken genesen und in der Stille allmählich wieder zu mir kommen sollte.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr, der als Student mit dem Komponisten Hugo Wolf eine Wohnung
+         <note type="summary">Bahr, der als Student mit dem Komponisten Hugo Wolf eine Wohnung
                   teilte, mischt in diesem Text Aussagen zu Wolfs Werk und Bedeutung mit
                   charakteristischen Anekdoten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13152"/>
                <ptr type="pmb" target="#13024"/>
@@ -83,7 +83,7 @@
                <ptr type="HB-tv" target="HB-tv_4677_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

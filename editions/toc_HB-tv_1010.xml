@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1010" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Höhlensport</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">17886, Morgenblatt</biblScope>
@@ -44,10 +44,10 @@
                <date when="1914-06-12">12.6.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine neue Jugend kommt herauf, die wieder Ehrfurcht hat.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Leistungen Alexander von Mörks und Karl Schoßleitners
+         <note type="incipit">Eine neue Jugend kommt herauf, die wieder Ehrfurcht hat.</note>
+         <note type="summary">Über die Leistungen Alexander von Mörks und Karl Schoßleitners
                   bei der Erkundung von Höhlen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11036"/>
@@ -58,7 +58,7 @@
                <ptr type="HB-tv" target="HB-tv_1010_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1914-6-12_hoehlensport.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1914-6-12_hoehlensport.pdf</ref>
       </body>
    </text>
 </TEI>

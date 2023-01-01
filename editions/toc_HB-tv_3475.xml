@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Österreicher</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Schwarzgelb</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">106–113</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Wieland, 1 (1915) #37, 3–6. (10.12.1915) Neues Wiener
+         <note type="first-printing">Wieland, 1 (1915) #37, 3–6. (10.12.1915) Neues Wiener
                   Journal, 24 (1916) #7971, 6–7. (9.1.1916)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jetzt erblickt der Österreicher zum erstenmal sich selbst, de er
+         <note type="incipit">Jetzt erblickt der Österreicher zum erstenmal sich selbst, de er
                   ja bisher gar nicht gekannt hat, als höchstens vom Hörensagen.</note>
       </body>
    </text>

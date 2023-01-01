@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Anmerkungen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rede über Klimt</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">14–25</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Der erste Teil: Hermann Bahr: Sezession. Zur zehnten
+         <note type="first-printing">Der erste Teil: Hermann Bahr: Sezession. Zur zehnten
                   Ausstellung. Österreichische Volks–Zeitung, 47 (1901) #80, 1. (22.3.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der erste Teil als »Klimt« in: Das Hermann Bahr-Buch,
+         <note type="other-prints">Der erste Teil als »Klimt« in: Das Hermann Bahr-Buch,
                   144–149.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Entwicklung Klimts wesentlich darzustellen, war mir hier
+         <note type="incipit">Die Entwicklung Klimts wesentlich darzustellen, war mir hier
                   natürlich nicht möglich. Ich musste mir sogar versagen, seine Art auch nur
                   anzudeuten. […] Indem ich mich anschicke</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/8-klimt.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/8-klimt.pdf</ref>
       </body>
    </text>
 </TEI>

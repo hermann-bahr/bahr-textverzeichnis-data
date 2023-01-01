@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über unser Literaturelend</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,13 +48,13 @@
                <date when="1926-11-07">7.11.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinen Tagebuchaufzeichnungen im »Neuen Wiener
                      Journal« vom 24. Oktober schreibt Hermann Bahr:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Tagebuch« in: Neues Wiener Journal,
+         <note type="first-printing">Als »Tagebuch« in: Neues Wiener Journal,
                   24.10.1926</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">…Wir haben lesen verlernt. Wir sind daran, unser Schrifttum
+         <note type="incipit">…Wir haben lesen verlernt. Wir sind daran, unser Schrifttum
                   amerikanisieren zu lassen.</note>
       </body>
    </text>

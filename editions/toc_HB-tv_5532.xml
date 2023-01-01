@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">120</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das gefährlichste monarchistische Komplott ist aber doch diese
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Das gefährlichste monarchistische Komplott ist aber doch diese
                   Republik selber! Vor ihr waren wir eigentlich alle doch heimliche Republikaner;
                   erst jetzt wird’s uns unheimlich. Denn damals wirkte ja bis tief in meine
                   Generation hinein, ja selbst über sie hinaus das Jahr Achtundvierzig noch nach.
@@ -64,7 +64,7 @@
                   zwischen einer aristokratischen und einer demokratischen Republik. Die dritte Form
                   ahnte man noch nicht. Man wußte nicht, daß es auch eine Kleptokratie gibt.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Österreich sei keine demokratische Republik geworden, sondern
+         <note type="summary">Österreich sei keine demokratische Republik geworden, sondern
                   eine Klepotkratie.</note>
       </body>
    </text>

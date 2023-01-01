@@ -36,7 +36,7 @@
             subtype="Bühnenmanuskript"
             sameAs="pmb29885"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb29885">Wienerinnen. Lustspiel in drei Akten</title>
             <imprint>
@@ -46,13 +46,13 @@
             </imprint>
             <extent>161 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Von Thomasberger wird (1900?) datiert, Bibliothekskataloge wiederholen das und
                      ergänzen: Als Manuskript vervielfältigt. Auf dem Druck selbst ist keine
                      Jahreszahl erkenntlich, weswegen die Angabe sich an der Uraufführung
                      orientiert.</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=72</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=72</ref>
       </body>
    </text>
 </TEI>

@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb32043"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb32043">Der Querulant. Komödie in vier Akten</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>163 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Meinem lieben Frank Wedekind in herzlicher Freundschaft zum fünfzigsten
                      Geburtstag. Salzburg Pfingsten 1914.« Die Neue Freie Presse (#18023, 13) meldet
                      es am 27. Oktober 1914 als als erschienen. Bahr widmet Gerty von Hofmannsthal
@@ -78,13 +78,13 @@
                      8-Uhr-Abendblatt, 68 (1915) #269, Beiblatt, [2]. (15.11.1915) Frankfurter
                      Zeitung, 15.11.1915, Morgenblatt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Auszüge in: The Living Age, 1924 #324, 70–76</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Förster erschießt einen Hund, dessen Besitzer, der
+         <note type="first-printing">Auszüge in: The Living Age, 1924 #324, 70–76</note>
+         <note type="summary">Ein Förster erschießt einen Hund, dessen Besitzer, der
                   Straßeneinkehrer Hias ihn daraufhin verklagt. Seine Tochter wiederum begegnet
                   ihrer auf die schiefe Bahn geratenen ehemaligen Liebschaft. Am Ende wirbt der
                   Bezirksrichter um die Tochter und Hias begreift den Sinn der Rechtssprechung,
                   demzufolge ein toter Hund eine Bagatellstrafe erlaubt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=81</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=81</ref>
       </body>
    </text>
 </TEI>

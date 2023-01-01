@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Scheler</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">112–130</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Max Scheler« in: Hochland, 14 (1917) #April, 35–44.
+         <note type="first-printing">Als »Max Scheler« in: Hochland, 14 (1917) #April, 35–44.
                   Gekürzt als »Hermann Bahr über den Sinn des Krieges« in: Salzburger Chronik, 53
                   (1917) #98, 10. (29.4.1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Hanns Heinrich Bormann, Hg.: Die Standarte. Ein
+         <note type="other-prints">In: Hanns Heinrich Bormann, Hg.: Die Standarte. Ein
                   Almanach. Saarlouis: Hausen 1918, 231-252</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Max Scheler ist, noch vor dem Krieg, durch Aufsätze in
+         <note type="incipit">Max Scheler ist, noch vor dem Krieg, durch Aufsätze in
                   Fachzeitschriften und einer Tageszeitung bekannt geworden</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr zeigt sich begeistert von Max Schelers »Krieg und Aufbau«
+         <note type="summary">Bahr zeigt sich begeistert von Max Schelers »Krieg und Aufbau«
                   und meint im Anschluss an Scheler, der Krieg und müsse in dem darauffolgenden
                   Frieden dazu führen, dass sich Europa und speziell Deutschland eine neue
                   Verfassung gebe, aufgebaut auf »die Willensfreiheit – die Zwecke – die sittliche
                   Weltordnung – die Liebe – das Gute«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9677"/>
                <ptr type="pmb" target="#20005"/>
@@ -92,7 +92,7 @@
                <ptr type="HB-tv" target="HB-tv_3346_p13"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

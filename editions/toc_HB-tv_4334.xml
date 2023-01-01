@@ -35,10 +35,10 @@
             type="Journal-Article"
             subtype="Meldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Hermann Bahr an d’Annunzio</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -47,22 +47,22 @@
                <date when="1909-06-06">6.6.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Kein eigentlicher Text Bahrs, sondern eine referierende Wiedergabe seines
                      Telegramms an d’Annunzio.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unser römischer Korrespondent meldet: In einer Depesche an
+         <note type="incipit">Unser römischer Korrespondent meldet: In einer Depesche an
                   Gabriele d’Annunzio äußert Hermann Bahr seine Entrüstung darüber, daß die
                   Aufführung der bekannten d’Annunzioschen Tragödie »La Nave« in Triest verboten
                   worden ist. Als glühender Österreicher schäme er sich dieser haarsträubenden
                   Dummheit und die Intellektuellen aller Rassen Österreichs teilten diese
                   Auffassung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2142"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1909_dannunzio.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1909_dannunzio.pdf</ref>
       </body>
    </text>
 </TEI>

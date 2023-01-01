@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_965" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Nur Sand in die Augen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Linzer Sonntagsblatt</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -45,18 +45,18 @@
                <date when="1883-08-26">26.8.1883</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Text ist im Archiv aufbewahrt, aber (vermutlich fälschlich, s.d.) unter
                      »Freie Gedanken« abgelegt. Diese sind hingegen in dieser Nummer von »-n-«
                      signiert. Ein Artikel über Burschafter in Jena ist E.H.B. signiert. Die
                      Zuschreibung an Bahr ist nicht zwingend, kann aber über die Initialen und den
                      Umstand, dass es aufbewahrt ist, geschehen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Shakespeare’s: »Sommernachtstraum« ist es ein gar drolliges
+         <note type="incipit">In Shakespeare’s: »Sommernachtstraum« ist es ein gar drolliges
                   Begebniß</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Im Text wird die Schulreform als Falle der katholischen
+         <note type="summary">Im Text wird die Schulreform als Falle der katholischen
                   Politiker erklärt, die die den Bauern schaden wollten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="HB-tv" target="HB-tv_965_p1"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_4464_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/linzer-sonntagsblatt/1883_sand.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/linzer-sonntagsblatt/1883_sand.pdf</ref>
       </body>
    </text>
 </TEI>

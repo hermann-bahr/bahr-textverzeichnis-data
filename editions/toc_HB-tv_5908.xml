@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. Oktober [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">III, 263–264</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der heilige Laurentius ist dem Käfermarkter Altar gestohlen
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Der heilige Laurentius ist dem Käfermarkter Altar gestohlen
                   worden, dem schönsten Altar Oberösterreichs nach dem Michael Pachers in St.
                   Wolfgang.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Käfermarkter Altar wurde von Stifter vor der Zerstörung
+         <note type="summary">Der Käfermarkter Altar wurde von Stifter vor der Zerstörung
                   bewahrt, wohingegen Stifter nichts mit dem Barock anfangen konnte und womöglich
                   auch die »Tandelrenaissance« der 1870erjahr begrüßt hätte.</note>
       </body>

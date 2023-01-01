@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1408" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Weg und Ziel des deutschen Theaters</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Presse. Zeitschrift für die gesamten Interessen des
                      Zeitungswesens</title>
             <imprint>
@@ -46,14 +46,14 @@
                <date when="1925-11-25">25.11.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Druckfahne im Archiv. Bahr im Inhaltsverzeichnis als »Dr. Hermann Bahr«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Sächsische Volks–Zeitung, Dresden, 25 (1926) #31, [7].
+         <note type="first-printing">Sächsische Volks–Zeitung, Dresden, 25 (1926) #31, [7].
                   (7.2.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Hans Bodenstedt, Hg.: Das Goldene Buch der Jungen.
+         <note type="other-prints">In: Hans Bodenstedt, Hg.: Das Goldene Buch der Jungen.
                   Berlin: Eigenbroedler 1928, 148–153.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bei den Griechen ist das Schauspiel in seinen Anfängen</note>
+         <note type="incipit">Bei den Griechen ist das Schauspiel in seinen Anfängen</note>
       </body>
    </text>
 </TEI>

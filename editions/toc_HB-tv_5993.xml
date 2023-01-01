@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. Berchtesgaden, 20. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,15 +48,15 @@
                <date when="1920-02-08">8.2.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Die kirchlichen Hymnen in den Nachbildungen deutscher Dichter.
+         <note type="review-of">Die kirchlichen Hymnen in den Nachbildungen deutscher Dichter.
                   Mit den lateinischen Texten einer Einleitung und Anmerkungen von Otto Hellinghaus.
                   München-Gladbach: Volksvereinsverlag 1919. Jacobus de Voragine: Alte
                   Heiligen-Legenden aus dem Kölner Passional vom Jahre 1485. Übersetzt von Rosa
                   Breuer. Mit einer Einführung von Dr. Heinrich Saedler. München-Gladbach:
                   Volksvereins-Verlag 1919. Jacobus de Voragine: Legenda Aurea. Hg. Richard Benz.
                   Jena: Diederichs 1917.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 41-45</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zwei Tage blies schon Märzwind ins tauende Land, ja
+         <note type="other-prints">Kritik der Gegenwart, 41-45</note>
+         <note type="incipit">Zwei Tage blies schon Märzwind ins tauende Land, ja
                   Sonnenuntergang trug die kitschigsten Sommerfarben auf, in einem welk
                   verblassenden, zerschmachtet irisierenden Rosenblattrot von einer unerlaubt
                   zuckersüßen Unwahrscheinlichkeit schwelgend, doch über Nacht ist alles wieder in
@@ -178,10 +178,10 @@
                   Volksabstimmung erbringen, das kann nur der Glaube. Das Abendland wird erst wieder
                   möglich, wenn wir die Kraft zum Glauben finden. Unsere Zukunft ist eine
                   Glaubensfrage. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Von der richtigen Lektüre zum Skiurlaub über die Legenda Aurea
+         <note type="summary">Von der richtigen Lektüre zum Skiurlaub über die Legenda Aurea
                   hin zum trügerischen Glück des aus dem Staatenverband austretenden Weltbürgers.
                   Bei Gott muss man eintreten, findet Bahr.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

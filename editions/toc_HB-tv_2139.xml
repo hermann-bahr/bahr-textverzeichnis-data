@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -48,11 +48,11 @@
                <date when="1899-10-24">24.10.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Kabale und Liebe« von Friedrich Schiller »Die Journalisten«
+         <note type="review-of">»Kabale und Liebe« von Friedrich Schiller »Die Journalisten«
                   von Gustav Freytag</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nachmittags »Kabale und Liebe«. Man kann sich einen größeren
+         <note type="incipit">Nachmittags »Kabale und Liebe«. Man kann sich einen größeren
                   Kontrast kaum denken als dieses Publikum und diese Darstellung!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#2252"/>

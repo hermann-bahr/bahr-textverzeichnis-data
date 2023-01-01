@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_346" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Schweine</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -45,18 +45,18 @@
                <date when="1895-08-24">24.8.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Ruhe im Saugarten«, Bild von Hubert von Heyden in der
+         <note type="review-of">»Ruhe im Saugarten«, Bild von Hubert von Heyden in der
                   Müchener Secession</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 185–190 Wunberg: Das junge Wien, 95.34</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der Münchner Secession hängt heuer ein Bild, das, viel
+         <note type="other-prints">Renaissance, 185–190 Wunberg: Das junge Wien, 95.34</note>
+         <note type="incipit">In der Münchner Secession hängt heuer ein Bild, das, viel
                   gepriesen, mehr bestritten</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#33932"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/47-123.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/47-124.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/47-123.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/47-124.pdf</ref>
       </body>
    </text>
 </TEI>

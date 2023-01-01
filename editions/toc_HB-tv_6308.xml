@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 8. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -48,14 +48,14 @@
                <date when="1922-07-23">23.7.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Albert Schweitzer: Zwischen Wasser und Urwald. Erlebnisse und
+         <note type="review-of">Albert Schweitzer: Zwischen Wasser und Urwald. Erlebnisse und
                   Beobachtungen eines Arztes im Urwald Aequitorialafrikas. Bern: Paul Haupt
                   1921.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, II, 165–168</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vor Jahren geriet mir in Elmau bei Johannes Müller Albert
+         <note type="other-prints">Liebe der Lebenden, II, 165–168</note>
+         <note type="incipit">Vor Jahren geriet mir in Elmau bei Johannes Müller Albert
                   Schweitzers Werk über Johann Sebastian in die Hand.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Albert Schweitzer.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Über Albert Schweitzer.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

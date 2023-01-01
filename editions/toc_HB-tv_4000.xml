@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4000" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Gerhart Hauptmann. (Zum fünfzigsten Geburtstag)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Prager Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -45,15 +45,15 @@
                <date when="1912-10-25">25.10.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">National–Zeitung, Basel, 52 (1912) #251, 2. Blatt, [1].
+         <note type="first-printing">National–Zeitung, Basel, 52 (1912) #251, 2. Blatt, [1].
                   (25.10.1912) Dresdner Neueste Nachrichten, 20 (1912) #310, 1. (14.11.1912) Neues
                   Tagblatt und General–Anzeiger für Stuttgart und Württemberg, 69 (1912) #302, 1.
                   Gekürzt in: Neues Land. Führer in die Zukunft für alle Stände, 1 (1922) #10
                   (Jänner), 224–226.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bilderbuch, 88-93.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einer fragte neulich: »Können Sie mir erklären, warum jetzt auf
+         <note type="other-prints">Bilderbuch, 88-93.</note>
+         <note type="incipit">Einer fragte neulich: »Können Sie mir erklären, warum jetzt auf
                   einmal alle Menschen fünfzig werden?«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1912-10-25_gerhart-hauptmann.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1912-10-25_gerhart-hauptmann.pdf</ref>
       </body>
    </text>
 </TEI>

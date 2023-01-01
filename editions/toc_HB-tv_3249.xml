@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">* * *</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -49,12 +49,12 @@
                <biblScope unit="pages">396–397</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Marquis von Keith« von Frank Wedekind</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #119, 10.
+         <note type="review-of">»Marquis von Keith« von Frank Wedekind</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #119, 10.
                   (1.5.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   253</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Beim Theater kommt es immer anders: Wedekinds verrufener
+         <note type="incipit">Beim Theater kommt es immer anders: Wedekinds verrufener
                   »Marquis von Keith«, von dem ich ja neulich schon im Feuilleton gesprochen habe,
                   derselbe, der in München und Berlin mit solcher Wut verhöhnt worden ist, hat
                   gestern hier einen starken, unbestrittenen, von Akt zu Akt immer heftigeren,

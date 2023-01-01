@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_616" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Dichter</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -45,18 +45,18 @@
                <date when="1902-04-26">26.4.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Leser haben bemerkt, daß ich von Manchem beharrlich als von
+         <note type="incipit">Leser haben bemerkt, daß ich von Manchem beharrlich als von
                   einem Autor, von Manchem hinwieder als von einem Dichter zu sprechen Pflege</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr unterscheidet zwischen Dichter und Autor: Während letzterer
+         <note type="summary">Bahr unterscheidet zwischen Dichter und Autor: Während letzterer
                   durch den Verstand schafft, schöpft ersterer aus seiner Empfindung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11441"/>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#9463"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

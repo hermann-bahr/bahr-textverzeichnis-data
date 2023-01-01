@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Zur Entwicklung der modernen Schauspielkunst</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,20 +49,20 @@
                <biblScope unit="pages">212–218</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Magazin für die Litteratur des In– und Auslandes, 60
+         <note type="first-printing">Das Magazin für die Litteratur des In– und Auslandes, 60
                   (1891) #10, 151–153 Gekürzter Nachdruck in: Der Kunstwart, 4 (1891) #16,
                   246–248</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   171–175</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das ist falsch, wenn von der Natürlichkeit und Wahrheitlichkeit
+         <note type="incipit">Das ist falsch, wenn von der Natürlichkeit und Wahrheitlichkeit
                   der heutigen Schauspielkunst so viel geredet wird, als ob das ganz was Besonderes,
                   Unerhörtes, Beispielloses, durchaus Neues und nie zuvor Dagewesenes wäre. Es hat
                   »natürliche« Schauspieler zu allen Zeiten gegeben, deren Ehrgeiz auf die
                   Erreichung der Wahrheit und Wirklichkeit gerichtet war, und realistisch in diesem
                   Sinne, daß sie ein redlicher Spiegel des Lebens sei, ist die Schauspielerei von
                   Anfang an immer gewesen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#21733"/>
@@ -83,7 +83,7 @@
                <ptr type="HB-tv" target="HB-tv_3606_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

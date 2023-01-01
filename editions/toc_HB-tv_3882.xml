@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Austriaca. 3</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Austriaca. Essays</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">27–34</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Österreichisches. 3« in: März, 3 (1909) #2,
+         <note type="first-printing">Als »Österreichisches. 3« in: März, 3 (1909) #2,
                   130–134.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Abgeordnete Soukup hat neulich gesagt, das tschechische Volk
+         <note type="incipit">Der Abgeordnete Soukup hat neulich gesagt, das tschechische Volk
                   wünsche nichts anderes</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr hält das »nationale Problem« Österreich-Ungarns für ein
+         <note type="summary">Bahr hält das »nationale Problem« Österreich-Ungarns für ein
                   bloß scheinbares, das verschwinden würde, wenn es zu vorurteilsfreier
                   Kommunikation zwischen den Nationen käme.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="HB-tv" target="HB-tv_3882_p1"/>
@@ -65,7 +65,7 @@
                <ptr type="HB-tv" target="HB-tv_3882_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/11-austriaca.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/11-austriaca.pdf</ref>
       </body>
    </text>
 </TEI>

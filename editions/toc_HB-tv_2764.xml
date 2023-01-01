@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Satanismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,19 +49,19 @@
                <biblScope unit="pages">33–42</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Là-bas« von Joris-Karl Huysmans</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Freie Bühne für den Entwickelungskampf der Zeit, 3 (1892)
+         <note type="review-of">»Là-bas« von Joris-Karl Huysmans</note>
+         <note type="first-printing">Freie Bühne für den Entwickelungskampf der Zeit, 3 (1892)
                   #4, 383–388</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Geist der Menschen ist wie ein Kranker, den das Fieber
+         <note type="incipit">Der Geist der Menschen ist wie ein Kranker, den das Fieber
                   wirft: er wendet rastlos die Kissen. Jedes neue Geschlecht dreht die Anschauungen
                   wieder um, auf welchen die Väter Trost und Frieden wähnten. Es ist unablässig
                   das gleiche Spiel.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nach einem kurzen Abschnitt, in dem allgemeinere Thesen zum
+         <note type="summary">Nach einem kurzen Abschnitt, in dem allgemeinere Thesen zum
                   Satanismus aufgestellt werden, rezensiert Bahr Huysmans »Le démon de la
                   perversité« und kritisiert den naturalistischen Aspekt des Romans, der zu viele
                   »Dokumente« sammle, aber es nicht zuwege bringe, den Satanismus als künstlerischen
                   Gegenstand zu formen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11330"/>
                <ptr type="pmb" target="#5449"/>
@@ -80,7 +80,7 @@
                <ptr type="HB-tv" target="HB-tv_2764_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

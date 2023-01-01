@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_749" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Bauernfeld. Geboren am 13. Jänner 1802</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -45,8 +45,8 @@
                <date when="1902-01-12">12.1.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 13–18</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von Bauernfeld ist heute noch in der Wiener Gesellschaft die
+         <note type="other-prints">Rezensionen, 13–18</note>
+         <note type="incipit">Von Bauernfeld ist heute noch in der Wiener Gesellschaft die
                   Erinnerung an</note>
       </body>
    </text>

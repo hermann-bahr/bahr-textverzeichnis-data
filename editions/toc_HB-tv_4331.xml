@@ -35,10 +35,10 @@
             type="Journal-Article"
             subtype="Leserbrief"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">* * *</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16806, Morgenausgabe</biblScope>
@@ -46,13 +46,13 @@
                <date when="1911-06-07">7.6.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vergleiche zur Cholera sowohl den Eintrag in der Fackel (13 (1911) #326-328,
                      75) und den dort abgedruckten Text aus der Abendausgabe der Neuen Freien Presse
                      (#16806, Abendausgabe, 5) sowie Bahrs Reflexion im »Tagebuch« in der »Der
                      Strom«, 1 (1911) #6. September, 175–177.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hermann Bahr telegraphiert uns vom Lido: Den besorgten Anfragen
+         <note type="incipit">Hermann Bahr telegraphiert uns vom Lido: Den besorgten Anfragen
                   unserer Freunde diene zur Antwort, daß ich nach zuverlässigen Erkundigungen fest
                   überzeugt bin, daß in Venedig überhaupt kein Cholerafall vorgekommen ist. |</note>
       </body>

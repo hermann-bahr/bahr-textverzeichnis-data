@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3545" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#2142">d’Annunzio, Gabriele</author>
             <title level="a">La Sirenetta. (Erste Scene des vierten Actes der Tragödie »La
                      Gioconda«)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">19</biblScope>
@@ -47,15 +47,15 @@
                <date when="1899-06-17">17.6.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der redaktionellen Anmerkung, gezeichnet mit Bahrs Kürzel H. B., nimmt er
                      für sich in Anspruch, Hugo von Hofmannsthal zu dieser Übersetzung überredet zu
                      haben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Gemach zu ebener Erde</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">D’Annunzio habe sich bei seinem, Bahrs, Besuch in Italien
+         <note type="incipit">Ein Gemach zu ebener Erde</note>
+         <note type="summary">D’Annunzio habe sich bei seinem, Bahrs, Besuch in Italien
                   negativ über die Qualität der Übersetzungen geäußert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2142"/>
                <ptr type="pmb" target="#11740"/>

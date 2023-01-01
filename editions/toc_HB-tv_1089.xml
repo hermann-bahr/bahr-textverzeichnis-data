@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1089" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Pariser Ausstellungsbrief. Paris, Mitte Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Wiener Salonblatt</title>
             <imprint>
                <biblScope unit="jg">20</biblScope>
@@ -45,10 +45,10 @@
                <date when="1889-05-19">19.5.1889</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ah! Das ist aber gehörig schwer, Ihnen das zu erzählen!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Interesse bei der Weltausstellung gilt vorderhand der
+         <note type="incipit">Ah! Das ist aber gehörig schwer, Ihnen das zu erzählen!</note>
+         <note type="summary">Bahrs Interesse bei der Weltausstellung gilt vorderhand der
                   großen Maschinenhalle, die als Ausstellungspavillon aufgebaut wurde.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-salonblatt/20-20_pariser-ausstellungsbrief.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-salonblatt/20-20_pariser-ausstellungsbrief.pdf</ref>
       </body>
    </text>
 </TEI>

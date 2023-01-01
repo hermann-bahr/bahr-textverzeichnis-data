@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Überwindung des Naturalismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,9 +49,9 @@
                <biblScope unit="pages">152–158</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H.B.: Kritiken. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="other-prints">H.B.: Kritiken. Hg. Kindermann. Wien: Bauer 1962,
                   150–154</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Herrschaft des Naturalismus ist vorüber, seine Rolle ist
+         <note type="incipit">Die Herrschaft des Naturalismus ist vorüber, seine Rolle ist
                   ausgespielt, sein Zauber ist gebrochen. In den breiten Massen der Unverständigen,
                   welche hinter der Entwickelung einhertrotten und jede Frage überhaupt erst
                   wahrnehmen, wenn sie längst schon wie- der erledigt ist, mag noch von ihm die
@@ -59,8 +59,8 @@
                   Werte wenden sich ab. Neue Schulen erscheinen, welche von den alten Schlagworten
                   nichts mehr wissen wollen. Sie wollen weg vom Naturalismus und über den
                   Naturalismus hinaus.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4026"/>
                <ptr type="pmb" target="#12156"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_1929_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

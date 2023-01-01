@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">6. September [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">212–213</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit acht Tagen gießt’s und das ist nicht mehr der gewohnte,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Seit acht Tagen gießt’s und das ist nicht mehr der gewohnte,
                   lieb lullende Salzburger Schnürlregen, das sanfte Tropfengespinst, sondern
                   sozusagen ein permanenter Platzregen, ein ewiger Wolkenbruch, als wäre gleichsam
                   irgendwo dort oben ein ungeheures Geschwür aufgestochen worden, das nun sein seit
@@ -61,7 +61,7 @@
                   geknickt. Und alles scheint heute näher als sonst, scheint bös, als winde sich
                   heute die Welt vor Grimm; es liegt überall ein hämisches Lauern auf dem Sprung.
                   Und eine Schwüle, die frösteln macht. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Im Wetter entdeckt Bahr seine lyrische Ader für apokalyptische
+         <note type="summary">Im Wetter entdeckt Bahr seine lyrische Ader für apokalyptische
                   Herbstbilder Salzburgs.</note>
       </body>
    </text>

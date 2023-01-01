@@ -32,27 +32,27 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6798" type="Journal-Article" subtype="Aufruf">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Für die Freiheit der Kunst</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Königsberger Hartungsche Zeitung</title>
             <imprint>
                <biblScope unit="issue">462, Abendblatt, 2. Blatt</biblScope>
                <date when="1925-10-02">2.10.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben Bahr unterzeichnen mehrere Dutzend Namen, von Vereinen und Julius Bab bis
                      Stefan Zweig.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kunst muß frei sein.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Aufruf, die Freiheit der Kunst zu schützen, aus Anlass der
+         <note type="incipit">Kunst muß frei sein.</note>
+         <note type="summary">Aufruf, die Freiheit der Kunst zu schützen, aus Anlass der
                   Beschlagnahme von Bertha Lasks »Thomas Münzer«, einer Verfügung gegen Kurt Kläbers
                   »Barrikaden an der Ruhr« und einer Anklage gegen Johannes R. Becher und Rolf
                   Gärtner.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/koenigsberger-hartungsche\1925_aufruf.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/koenigsberger-hartungsche\1925_aufruf.pdf</ref>
       </body>
    </text>
 </TEI>

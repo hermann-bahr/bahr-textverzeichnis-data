@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_343" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Regie</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -45,14 +45,14 @@
                <date when="1895-08-03">3.8.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Paul Lindau: Vorspiele auf dem Theater. Dresden, Wien: Verlag
+         <note type="review-of">Paul Lindau: Vorspiele auf dem Theater. Dresden, Wien: Verlag
                   des Universum 1895</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Paul Lindau, vom October ab Hoftheaterintendant in
+         <note type="incipit">Herr Paul Lindau, vom October ab Hoftheaterintendant in
                   Meiningen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Buchrezension betont die Wichtigkeit einer Wissenschaft
+         <note type="summary">Bahrs Buchrezension betont die Wichtigkeit einer Wissenschaft
                   der Regie, stellt aber ebenfalls die Unzulänglichkeit von Lindaus Buch in den
                   Vordergrund.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12078"/>
                <ptr type="pmb" target="#12129"/>
@@ -60,9 +60,9 @@
                <ptr type="pmb" target="#12053"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/44-75.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/44-76.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/44-77.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/44-75.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/44-76.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/44-77.pdf</ref>
       </body>
    </text>
 </TEI>

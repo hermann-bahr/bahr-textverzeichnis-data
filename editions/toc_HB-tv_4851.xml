@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">X</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">94–103</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. XI [!]« in: Das Neue Reich, 3 (1921)
+         <note type="first-printing">Als »Erinnerungen. XI [!]« in: Das Neue Reich, 3 (1921)
                   #48, 917–919. (28.8.1921)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es war bestimmt, daß die gelinde, durch jenes liebe
+         <note type="incipit">Es war bestimmt, daß die gelinde, durch jenes liebe
                   Herzensgeheimnis noch vertiefte Stille meiner Salzburger Jugendzeit gewaltsam
                   krachend enden sollte.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Schulabschlussfeier als Erbe des Barocktheaters – Rede über den
+         <note type="summary">Schulabschlussfeier als Erbe des Barocktheaters – Rede über den
                   »Wert der Arbeit« – Skandal – Über den Reiz öffentlichen Redens</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#26429"/>
                <ptr type="pmb" target="#18502"/>
@@ -92,7 +92,7 @@
                <ptr type="HB-tv" target="HB-tv_4851_p23"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

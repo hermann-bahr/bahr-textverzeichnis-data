@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Gelöbnis</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30035">Inventur</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">132–135</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Bayreuth« in: Georg Niehrenheim, Hg.: Wegweiser für
+         <note type="other-prints">Als »Bayreuth« in: Georg Niehrenheim, Hg.: Wegweiser für
                   Besucher der Bayreuther Festspiele 1912. Bayreuth: Georg Niehrenheim 1912, 65-67
                   Als »Gelöbnis« in: Das Hermann-Bahr-Buch, 155–159</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nur in Bayreuth werden die Werke Wagners richtig
+         <note type="incipit">Nur in Bayreuth werden die Werke Wagners richtig
                   aufgeführt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bekennt sich zu Richard Wagner und dessen Idee, Kunst könne
+         <note type="summary">Bahr bekennt sich zu Richard Wagner und dessen Idee, Kunst könne
                   die Menschheit zum Besseren verändern.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
       </body>
    </text>
 </TEI>

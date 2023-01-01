@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3874" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Burgtheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">15</biblScope>
@@ -45,10 +45,10 @@
                <date when="1898-05-07">7.5.1898</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Ohne Liebe« von Marie von Ebner-Eschenbach</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Burgtheater hat »Ohne Liebe« , ein Act von der
+         <note type="review-of">»Ohne Liebe« von Marie von Ebner-Eschenbach</note>
+         <note type="incipit">Im Burgtheater hat »Ohne Liebe« , ein Act von der
                   Ebner-Eschenbach, sehr gefallen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11216"/>
                <ptr type="pmb" target="#2850"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_2275_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/188-92.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/188-92.pdf</ref>
       </body>
    </text>
 </TEI>

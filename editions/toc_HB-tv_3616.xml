@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Klimt</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">144–149</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Hermann Bahr: Sezession. Zur zehnten Ausstellung.
+         <note type="first-printing">Hermann Bahr: Sezession. Zur zehnten Ausstellung.
                   Österreichische Volks–Zeitung, 47 (1901) #80, 1. (22.3.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als erste Anmkerkung der »Anmerkungen« in: Rede über Klimt,
+         <note type="other-prints">Als erste Anmkerkung der »Anmerkungen« in: Rede über Klimt,
                   14–19.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Indem ich mich anschicke, von Klimt zu sprechen, will ich zuerst
+         <note type="incipit">Indem ich mich anschicke, von Klimt zu sprechen, will ich zuerst
                   bekennen, daß ich da nicht unbefangen bin</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
             </listRef>

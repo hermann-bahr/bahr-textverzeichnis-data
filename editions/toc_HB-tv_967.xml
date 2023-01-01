@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_967" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Für und Wider. Erinnerungen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">83</biblScope>
@@ -45,13 +45,13 @@
                <date when="1930-03-29">29.3.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als klassischer Philolog kam ich 1881 an die Wiener
+         <note type="incipit">Als klassischer Philolog kam ich 1881 an die Wiener
                   Universität.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Einmal mehr erzählt Bahr die Geschichte seines Verweises von der
+         <note type="summary">Einmal mehr erzählt Bahr die Geschichte seines Verweises von der
                   Wiener Universität – eine teilweise wörtliche Zusammenfassung aus dem
                   Selbstbildnis. Neu ist nur das Ende, worin er den Wunderrabbi von Sadagora
                   ausschmückt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11518"/>
                <ptr type="pmb" target="#12167"/>

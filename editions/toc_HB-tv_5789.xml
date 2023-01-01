@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">12. Juli [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">II, 170–179</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Albert von Leitzmann: Beethovens Persönlichkeit. Urteile der
+         <note type="review-of">Albert von Leitzmann: Beethovens Persönlichkeit. Urteile der
                   Zeitgenossen. Leipzig: Insel 1914.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sieht man Sinn und Wert aller Kunst in ihrer Kraft, Lebensform
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Sieht man Sinn und Wert aller Kunst in ihrer Kraft, Lebensform
                   zu geben</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Neigung, sich mehr für die Person, als für dessen Werk
+         <note type="summary">Über die Neigung, sich mehr für die Person, als für dessen Werk
                   zu interessieren, sowie über Hölderlin.</note>
       </body>
    </text>

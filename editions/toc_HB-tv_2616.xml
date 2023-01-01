@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Erkenntnistheoretische Forschungen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">50–58</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Worte, Wien, 7 (1887) #4 (April), 158–164</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist sehr merkwürdig, wie tief die Menschheit im Erkennen
+         <note type="first-printing">Deutsche Worte, Wien, 7 (1887) #4 (April), 158–164</note>
+         <note type="incipit">Es ist sehr merkwürdig, wie tief die Menschheit im Erkennen
                   vorrücken konnte, ohne die Vorbedingung alles Erkennens auch nur als ein zu
                   Erfüllendes in die flüchtigste Erwägung gezogen zu haben. Es ist sehr
                   merkwürdig, daß sie mächtiges Wissen aufhäufte, lange bevor sie sich die
@@ -60,11 +60,11 @@
                   gelangte, die komplizierte Anschauung des naiven Realismus, in der sie sich zu
                   Anfang bewegte, zu verlassen und mit der roh empirischen des naiven Idealismus zu
                   vertauschen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr rezensiert Eduard von Hartmanns »Kritische Grundlegung des
+         <note type="summary">Bahr rezensiert Eduard von Hartmanns »Kritische Grundlegung des
                   transcendentalen Realismus« und Johannes Volkelts »Erfahrung und Denken«.
                   Grundsätzlich der antiidealistischen Stoßrichtung der beiden Werke zustimmend,
                   macht Bahr dabei einige kritische, ins Detail gehende Anmerkungen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11871"/>
                <ptr type="pmb" target="#11803"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_4464_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

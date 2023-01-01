@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Dezember [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Tagebücher 2</title>
             <imprint>
                <pubPlace>Innsbruck, Wien, München</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">291–297</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 8.12.1918</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man von einer Monarchie den Monarchen wegläßt, ist das dann
+         <note type="first-printing">Neues Wiener Journal, 8.12.1918</note>
+         <note type="incipit">Wenn man von einer Monarchie den Monarchen wegläßt, ist das dann
                   schon eine Republik?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bedauert, daß beim Schaffen des neuen Österreichs und
+         <note type="summary">Bahr bedauert, daß beim Schaffen des neuen Österreichs und
                   Deutschlands zu viel übernommen wird, statt eine Idee zu verwirklichen. Er selbst
                   wünscht sich eine Welt der Regionen, wo nach Stadt und Region gleich eine
                   Weltregierung kommt.</note>

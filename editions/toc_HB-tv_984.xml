@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_984" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Goethes Wiederkehr</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">85</biblScope>
@@ -45,14 +45,14 @@
                <date when="1932-02-19">19.2.1932</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Johann Wolfgang Goethe: Goethes Farbenlehre. Hg. u. eingel.
+         <note type="review-of">Johann Wolfgang Goethe: Goethes Farbenlehre. Hg. u. eingel.
                   von Hans Wohlbold. Jena: Eugen Diederichs 1928.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Goethe starb 1832 am 22. März, so soll das Zentenar seines Todes
+         <note type="incipit">Goethe starb 1832 am 22. März, so soll das Zentenar seines Todes
                   uns mahnen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wenn dieses Spätwerk Bahrs eine Aussage hat (abgesehen von der
+         <note type="summary">Wenn dieses Spätwerk Bahrs eine Aussage hat (abgesehen von der
                   vortrefflichen Blutsmischung des Weimarianers), so der, dass die »Farbenlehre«
                   unterschätzt wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11461"/>

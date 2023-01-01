@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Spendenaufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#43697">Auerbach, Leopold</author>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#14349">Bodenhausen, Freiherr Eberhard von</author>
@@ -62,7 +62,7 @@
             <author ref="#5776">Uhde, Fritz von</author>
             <title level="a">Aufruf</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36152">Neue deutsche Rundschau</title>
             <imprint>
                <biblScope unit="jg">8</biblScope>
@@ -71,14 +71,14 @@
                <date when="1897">1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Wiener Rundschau, 1 (1897) #2, 481. (15.5.1897)
+         <note type="first-printing">Wiener Rundschau, 1 (1897) #2, 481. (15.5.1897)
                   Simplicissimus, 2 (1897) #13, 102. Die Gesellschaft, 2 (1897) #6 (Juni),
                   440.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Dichter Detlev v. Liliencron begeht nächstens seinen 54sten
+         <note type="incipit">Der Dichter Detlev v. Liliencron begeht nächstens seinen 54sten
                   Geburtstag, ohne daß es ihm bis jetzt gelungen ist, sich durch seine Schriften ein
                   ihrer Bedeutung angemessenes, sorgenfreies Dasein zu verschaffen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Spendenaufruf für Detlev von Liliencron</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Spendenaufruf für Detlev von Liliencron</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10969"/>
                <ptr type="pmb" target="#4579"/>
@@ -107,7 +107,7 @@
                <ptr type="HB-tv" target="HB-tv_3585_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1897-8-6_aufruf-liliencron.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-deutsche-rundschau/1897-8-6_aufruf-liliencron.pdf</ref>
       </body>
    </text>
 </TEI>

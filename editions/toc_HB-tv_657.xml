@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_657" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Vor Sonnenaufgang. (Soziales Drama von Gerhart Hauptmann. Zur
                      heutigen Aufführung durch den Akademischen Verein für Kunst und Literatur im
                      Deutschen Volkstheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -49,16 +49,16 @@
                <date when="1903-04-25">25.4.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 140–149 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Glossen, 140–149 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 47-53</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich mich in den Jahren 1884 bis 1887 an der Berliner
+         <note type="incipit">Als ich mich in den Jahren 1884 bis 1887 an der Berliner
                   Universität zuerst im Seminar</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schildert die Gesellschaft, die sich 1886 um Arno Holz
+         <note type="summary">Bahr schildert die Gesellschaft, die sich 1886 um Arno Holz
                   schart, ihr gemeinsames Ziel eines Aufbruchs und wie es Hauptmann gelingt, die
                   Theorie in sein Stück umzusetzen. Gegenwärtig spürt er im Stück aber eine zu
                   starke »Tendenz« und erkennt erstmals den neuen Menschen, der sich damals
                   ankündigte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#38364"/>
                <ptr type="pmb" target="#11763"/>
@@ -89,7 +89,7 @@
                <ptr type="HB-tv" target="HB-tv_657_p10"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

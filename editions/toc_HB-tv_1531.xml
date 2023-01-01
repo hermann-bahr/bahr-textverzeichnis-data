@@ -35,7 +35,7 @@
             type="Book"
             status="checked"
             sameAs="pmb30127">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30127">Der Star. Ein Wiener Stück in vier Akten</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>279 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr erzählt die Entstehungsgeschichte – spontan, beim Besuch von Helene Odilon
                      – in: Hermann Bahr: Aus der Werkstätte des Dramatikers. Bekenntnisse und
                      Selbstbetrachtungen. Neues Wiener Journal, 7 (1899) #1955, 3-5, hier: 3-4.
@@ -76,13 +76,13 @@
                      Kerr: Hermann Bahr. »Der Star«. Kammerspielhaus (Berlin). In: Der Tag, 19
                      (1919) #78, Ausgabe A, 1-2. (12.4.1919)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">1905 wurde in Orleneff’s Russian Lyceum eine russische
+         <note type="translations">1905 wurde in Orleneff’s Russian Lyceum eine russische
                   Übersetzung von N. Budkevitch aufgeführt, zu der es eine englische Zusammenfassung
                   von Isabel Hapgood gibt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=KlwTAAAAQAAJ</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=paEMAQAAIAAJ</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=xpEuAAAAYAAJ</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.com/books?id=9dosAAAAYAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=KlwTAAAAQAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=paEMAQAAIAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=xpEuAAAAYAAJ</ref>
+         <ref type="URL">http://books.google.com/books?id=9dosAAAAYAAJ</ref>
       </body>
    </text>
 </TEI>

@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10818">Bahr-Mildenburg, Anna</author>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#11036">Burckhard, Max</author>
@@ -53,7 +53,7 @@
             <author ref="12906">Suttner, Bertha von</author>
             <title level="a">Für einen schwerkranken Dichter</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Arbeiter-Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -62,12 +62,12 @@
                <date when="1911-04-09">9.4.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Aufruf!« in: Neue Freie Presse, (1911) #16750,
+         <note type="first-printing">Als »Aufruf!« in: Neue Freie Presse, (1911) #16750,
                   Morgenblatt, 8. (9.4.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der bekannte Dichter Alfons Petzold, ein Echter an Geist und
+         <note type="incipit">Der bekannte Dichter Alfons Petzold, ein Echter an Geist und
                   Seele, nach den langen jahren schwerster Bitternis, die er als Fabriksarbeiter,
                   als Fensterputzer, als Schneeschaufler zugebracht hat</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10818"/>
                <ptr type="pmb" target="#11036"/>

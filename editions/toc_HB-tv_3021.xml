@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Ausflug ins Sittliche. (Komödie in vier Akten von Georg
                      Engel. Zum ersten Male aufgeführt am 9. März 1901)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -50,9 +50,9 @@
                <biblScope unit="pages">100–102</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #68, 8–9.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #68, 8–9.
                   (10.3.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Stück könnte auch heißen: »Die strengen Herren«.</note>
+         <note type="incipit">Das Stück könnte auch heißen: »Die strengen Herren«.</note>
       </body>
    </text>
 </TEI>

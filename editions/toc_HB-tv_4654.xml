@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Anklageschrift"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein Ehrenbeleidigungsprozess. [Anklageschrift]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neues Wiener Abendblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -48,7 +48,7 @@
                <date when="1901-02-22">22.2.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Anklageschrift der Klage Bahr/Bukovics gegen Karl Kraus wird in einem
                      großzügigen Auszug abgedruckt. Der Text ist in Ich-Form und erklärt zuerst,
                      dass Bahr der Ansicht ist, mit Kritik müsse man als Kritiker umgehen können,
@@ -60,10 +60,10 @@
                      einen Baugrund im Gegenzug für eine positive Berichterstattung über das
                      Volkstheater geschenkt bekommen habe.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit dem Erscheinen der periodischen Druckschrift »Die Fackel«
+         <note type="incipit">Seit dem Erscheinen der periodischen Druckschrift »Die Fackel«
                   war und bin ich aus den verschiedensten Anlässen ununterbrochen Gegenstand der
                   heftigsten Angriffe</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11988"/>
                <ptr type="pmb" target="#10986"/>

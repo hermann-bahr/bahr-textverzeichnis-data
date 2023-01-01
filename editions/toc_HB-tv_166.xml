@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_166" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">The Makings of Max Reinhard. From Gallery God in Vienna to
                      Assembler of All the Arts in the Theatre That Rivals Grand Opera</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">New York Times</title>
             <imprint>
                <biblScope unit="jg">73</biblScope>
@@ -47,13 +47,13 @@
                <date when="1923-12-30">30.12.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr wird vorgestellt als: »Author of ’The Concert,’ produced by Belasco in
                      October, 1910, and many other plays.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">It was Max Reinhardt who ended for his generation in Germany the
+         <note type="incipit">It was Max Reinhardt who ended for his generation in Germany the
                   way of the literary play</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/new-york-times/1923_reinhardt.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/new-york-times/1923_reinhardt.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Ackermann aus Böhmen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">203–208</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vossische Zeitung, (1917) #492, Abend–Ausgabe, 2 und 5.
+         <note type="first-printing">Vossische Zeitung, (1917) #492, Abend–Ausgabe, 2 und 5.
                   (26.9.1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sein eigenes Wesen ist dem Deutschen stets fragwürdig gewesen,
+         <note type="incipit">Sein eigenes Wesen ist dem Deutschen stets fragwürdig gewesen,
                   und gar in dieser bangen Zeit so furchtbarer Vereinsamung</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beglückwünscht Burdach zur Entdeckung und Herausgabe des
+         <note type="summary">Bahr beglückwünscht Burdach zur Entdeckung und Herausgabe des
                   »Ackermanns von Böhmen« (von Johannes von Tepl) und stimmt diesem zu, wenn er
                   diese Dichtung neben den großen »Ewigkeitswerken bildender und dichtender Kunst«
                   zur Seite stellt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11043"/>
                <ptr type="pmb" target="#9680"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_1387_p47"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

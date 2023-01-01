@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_726" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kathi Schratt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -45,14 +45,14 @@
                <date when="1900-10-02">2.10.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit ein paar Wochen hat man Gerüchte aus dem Burgtheater
+         <note type="incipit">Seit ein paar Wochen hat man Gerüchte aus dem Burgtheater
                   vernommen, die der Wiener gar nicht glauben konnte.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht im Abschied von Katharina Schratt vom Burgtheater ein
+         <note type="summary">Bahr sieht im Abschied von Katharina Schratt vom Burgtheater ein
                   weiteres Beispiel, wie Schlenther die Talente vertreibt. Außer Baumeister und
                   Kainz gäbe es daselbst keine mehr, und letzterer werde der nächste sein, der gehe.
                   An Katharina Schratt lobt er, dass sie in der Lage wäre, keine Rolle notwendig zu
                   haben, um eine Beziehung zum Publikum aufzubauen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2680"/>
                <ptr type="pmb" target="#12654"/>

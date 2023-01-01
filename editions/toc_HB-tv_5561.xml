@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">2. August [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">195–196</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">E. K. Ludhard [=Ernst Ludwig von Hessen Darmstadt]: Ostern.
+         <note type="review-of">E. K. Ludhard [=Ernst Ludwig von Hessen Darmstadt]: Ostern.
                   Ein Mysterium in 3 Aufzügen. Darmstadt: Manuskriptdruck der Gesellschaft
                   hessischer Bücherfreunde, Wittich 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zu schad! sagte mir in verklungenen schöneren Tagen Olbrich oft,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Zu schad! sagte mir in verklungenen schöneren Tagen Olbrich oft,
                   zu schad, daß der Großherzog grad Großherzog sein muß: das brave Hessen könnt sich
                   sicher auch selber regieren und welch einen Baukünstler hätten wir dafür an Ernst
                   Ludwig gewonnen! Übrigens auch einen Regisseur. Vielleicht auch einen Tonkünstler.
@@ -95,7 +95,7 @@
                   Stille der Ergebung von einem Seelenglanz, der zuweilen fast an die Gelassenheit,
                   Zerlassenheit Meister Eckarts erinnert. Kein schöneres Vorspiel konnte sich die
                   »Weisheitsschule« wünschen! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr begrüßt den Wechsel des Großherzogs Ernst Ludwig von Hessen
+         <note type="summary">Bahr begrüßt den Wechsel des Großherzogs Ernst Ludwig von Hessen
                   Darmstadt von der Regierung ins dramatische Fach.</note>
       </body>
    </text>

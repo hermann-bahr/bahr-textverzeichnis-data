@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Feuchtersleben</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Sendung des Künstlers</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">100–121</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Preußische Jahrbücher, 187 (1922) #1, 13–28.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Österreichischer Genius. Wien: Bellaria 1947, 71-94
+         <note type="first-printing">Preußische Jahrbücher, 187 (1922) #1, 13–28.</note>
+         <note type="other-prints">H. B.: Österreichischer Genius. Wien: Bellaria 1947, 71-94
                   H. B.: Essays. Hg. Heinz Kindermann. Wien: Bauer 1962, 71-87</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nennt man Feuchtersleben, antwortet der Gebildete prompt:
+         <note type="incipit">Nennt man Feuchtersleben, antwortet der Gebildete prompt:
                   Diätetik der Seele. Viel mehr, als daß Feuchtersleben die Diätetik der Seele
                   schrieb, weiß der Gebildete nicht von ihm, und viel mehr, als daß die Diätetik der
                   Seele von Feuchtersleben ist, weiß der Gebildete nicht von ihr.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der von den sich missgünstig gegenüberstehenden Dichtern
+         <note type="summary">Der von den sich missgünstig gegenüberstehenden Dichtern
                   Grillparzer und Hebbel gleichermaßen geschätzte Feuchtersleben wird von Bahr -
                   unter ständigem Rückgriff auf Hebbels und Grillparzers Texte zu Feuchtersleben
                   sowie auf dessen Schriften selbst - als Schriftsteller dargestellt, dessen
                   menschlicher Wert seinen dichterischen übertreffe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2404"/>
                <ptr type="pmb" target="#4809"/>
@@ -118,7 +118,7 @@
                <ptr type="HB-tv" target="HB-tv_3371_p19"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
       </body>
    </text>
 </TEI>

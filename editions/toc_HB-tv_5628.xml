@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. Januar [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">I, 41–42</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Zeitschrift »Kunst und Künstler« hat eine sehr
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Die Zeitschrift »Kunst und Künstler« hat eine sehr
                   lustige</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr erzählt die Anekdote nach, wie Paul Graener auf die Frage,
+         <note type="summary">Bahr erzählt die Anekdote nach, wie Paul Graener auf die Frage,
                   wie ihm eine Oper eines Kollegen gefallen habe, sagt: »Wissen Sie, wenn man ein
                   solches Werk zum erstenmal hört, kann man sich nicht gleich ein Urteil darüber
                   erlauben, und ein zweites Mal werde ich mir den Dreck ja nicht anhören!«</note>

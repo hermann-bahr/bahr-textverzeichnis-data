@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Berliner. Am 28. Juni 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">238–239</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Das Lumpengesindel« von Ernst von Wolzogen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #175, 5.
+         <note type="review-of">»Das Lumpengesindel« von Ernst von Wolzogen</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #175, 5.
                   (28.6.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Berliner gaben gestern das »Lumpengesindel«, das man von
+         <note type="incipit">Die Berliner gaben gestern das »Lumpengesindel«, das man von
                   ihnen schon vor zwei Jahren im Raimund-Theater gesehen hat.</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Augenmusik</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Expressionismus</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">104–117</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Geändert: Ostsee–Zeitung Stettin, (1914) (28.5.1914)
+         <note type="first-printing">Geändert: Ostsee–Zeitung Stettin, (1914) (28.5.1914)
                   Geändert: Prager Tagblatt, (1914) #148, 11–12. (31.5.1914) Geändert: Straßburger
                   Post, (1914) #623, Unterhaltungsblatt, 1–2. (31.5.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   217-221</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man in den Wahlverwandtschaften liest...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Existenz dieses »inneren Sehens«, das expressionistische
+         <note type="incipit">Wenn man in den Wahlverwandtschaften liest...</note>
+         <note type="summary">Die Existenz dieses »inneren Sehens«, das expressionistische
                   Malerei erst ermöglichte, versucht Bahr mit einem Rückgriff auf den Physiologen
                   Johannes Müller evident zu machen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#9257"/>
@@ -89,7 +89,7 @@
                <ptr type="HB-tv" target="HB-tv_3359_p27"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
       </body>
    </text>
 </TEI>

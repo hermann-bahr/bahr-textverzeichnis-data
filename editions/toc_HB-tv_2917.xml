@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Zerrissene. (Posse mit Gesang in drei Acten von Johann
                      Nestroy. Zum ersten Mal im Raimundtheater aufgeführt am 23. Mai 1896)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,11 +50,11 @@
                <biblScope unit="pages">460–467</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 7 (1896) #87, 139–40. (30.5.1896) Auszug als
+         <note type="first-printing">Die Zeit, 7 (1896) #87, 139–40. (30.5.1896) Auszug als
                   »Nestroy« in: Blätter des Deutschen Theaters, 8 (1922) #15 (April/Mai),
                   115–116.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wunberg: Das junge Wien, 96.28</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ob denn Nestroy heute eigentlich noch wirkt, wird jetzt oft
+         <note type="other-prints">Wunberg: Das junge Wien, 96.28</note>
+         <note type="incipit">Ob denn Nestroy heute eigentlich noch wirkt, wird jetzt oft
                   gefragt.</note>
       </body>
    </text>

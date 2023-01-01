@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Vortrag"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Studentenhilfe. (Gesprochen in der Generalversammlung des Kathol.
                      Universitätsvereins am 24. Oktober 1920)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Katholische Kirchenzeitung, Salzburg</title>
             <imprint>
                <biblScope unit="jg">60</biblScope>
@@ -50,14 +50,14 @@
                <date when="1920-10-28">28.10.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Wie schon in anderen Artikeln wendet sich Bahr gegen eine voraussetzungslose
                      Wissenschaft (der er eine gläubige gegenüberstellt), um sich zum Ende des
                      Artikels mit der materiellen Not der Berliner Studenten zu befassen (oder diese
                      zumindest zu bedauern).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Neue Reich, #7, 137–139. (14.11.1920)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">An die vierzig Jahre wird es nun, daß in unserer Stadt Salzburg
+         <note type="first-printing">Das Neue Reich, #7, 137–139. (14.11.1920)</note>
+         <note type="incipit">An die vierzig Jahre wird es nun, daß in unserer Stadt Salzburg
                   der Plan einer katholischen Universität enstand.</note>
       </body>
    </text>

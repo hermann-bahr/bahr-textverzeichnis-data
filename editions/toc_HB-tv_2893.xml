@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Ghismonda. (Schauspiel in fünf Acten von Victorien Sardou. Zum
                      ersten Mal aufgeführt im Deutschen Volkstheater am 14. Dezember 1895)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,8 +50,8 @@
                <biblScope unit="pages">305–312</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 5 (1895) #64, 187–88. (21.12.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bei der Première der »Haine«, im November 1874, stand Sardou
+         <note type="first-printing">Die Zeit, 5 (1895) #64, 187–88. (21.12.1895)</note>
+         <note type="incipit">Bei der Première der »Haine«, im November 1874, stand Sardou
                   fröstelnd und knirschend hinter den Coulissen der Gaité</note>
       </body>
    </text>

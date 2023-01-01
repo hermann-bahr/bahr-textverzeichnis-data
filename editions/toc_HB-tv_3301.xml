@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">An die freie literarische Gesellschaft in Frankfurt</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">151–152</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Mitteilungen der Freien literarischen Gesellschaft in
+         <note type="first-printing">Mitteilungen der Freien literarischen Gesellschaft in
                   Frankfurt am Main, 1 (1908) #2 (November), 1–2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Über mich selbst soll ich Ihnen schreiben ? Das wird mir nun
+         <note type="incipit">Über mich selbst soll ich Ihnen schreiben ? Das wird mir nun
                   freilich nicht gerade leicht. Ich hoffe ja, die Frankfurter werden schon ungefähr
                   wissen, wie ich bin. Und wenn ich dann erst im November vor ihnen stehe, werden
                   sie hoffentlich sehen, dass ich doch eigentlich noch anders bin.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Gegen Charakterisierungen wie »Symbolist, Dekadent, Ueberwinder«
+         <note type="summary">Gegen Charakterisierungen wie »Symbolist, Dekadent, Ueberwinder«
                   wendet sich Bahr mit dem Hinweis, ihn doch aus seinen Werken zu erkennen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

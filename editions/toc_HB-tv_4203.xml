@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Mystisches Erleben</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,12 +49,12 @@
                <date when="1924-01-12">12.1.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinem ’Tagebuch’, im ’Neuen Wiener Journal’, vom
                      6. Mai 1923 schrieb Hermann Bahr:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 6.5.1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine fürwitzig lüsterne Neigung zum Übersinnlichen</note>
+         <note type="first-printing">Neues Wiener Journal, 6.5.1923</note>
+         <note type="incipit">Eine fürwitzig lüsterne Neigung zum Übersinnlichen</note>
       </body>
    </text>
 </TEI>

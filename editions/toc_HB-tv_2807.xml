@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der neue Stil. J. Savits (München)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">319–324</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7522, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7522, Morgen–Ausgabe,
                   1–3. (6.12.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Idealismus, Symbolismus — Realismus, Naturalismus – ein Ding,
+         <note type="incipit">»Idealismus, Symbolismus — Realismus, Naturalismus – ein Ding,
                   viele Namen. Als ob nicht jeder wahrhaft bedeutende Dichter, jeder wirkliche
                   Schauspieler Alles das zusammen verkörperte.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Schriftliche Stellungnahme Savits zu Stilfragen in der
+         <note type="summary">Schriftliche Stellungnahme Savits zu Stilfragen in der
                   Schauspielerei</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#12654"/>
@@ -93,7 +93,7 @@
                <ptr type="HB-tv" target="HB-tv_2095_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,7 +35,7 @@
             type="Book"
             status="checked"
             sameAs="pmb31097">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>152 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Harden gibt in der Einführung zum Vorabdruck der Einleitung an, dass es im
                      Dezember 1908 erscheint. Am 13.12.1908 meldet der Pester Lloyd (S. 23) den
                      Erhalt. Besprechungen ab dem 31. Jänner 1909. Zur Widmung siehe: Karl Moser:
@@ -53,8 +53,8 @@
                      widmete. Neues Wiener Journal, 39 (1931) #15674, 16 (6.9.1931)</p>
             <p>Rezensionen: Wiener Zeitung, 23.4.1909, zusammen mit »Die Rahl«</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=69</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=69</ref>
       </body>
    </text>
 </TEI>

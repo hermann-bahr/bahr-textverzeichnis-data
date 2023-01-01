@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6835" type="Journal-Article" subtype="Umfrage">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Enquête sur André Gide</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Latinité. Revue du Pays d’Occident</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,7 +45,7 @@
                <date when="1931-01">Januar 1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Hermann Bahr (né en 1863) a été en Allemagne le chef
                      du mouvement naturaliste. Puis, sous l’influence de Paul Bourget, il évolua
                      vers la psychologie et l’impressionnisme. Écrivain extrêmement fécond, critique
@@ -61,7 +61,7 @@
                      comprendre le jugement que M. Hermann Bahr a bien voulu nous adresser sur André
                      Gide:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">La France est restée, même après 1789, la gardienne autorisée du
+         <note type="incipit">La France est restée, même après 1789, la gardienne autorisée du
                   grand style en Occident ; elle était de plus la Fille préférée de l’Église. Gide
                   par contre est calviniste et, en sa qualité de partisan fanatique de Tolstoï, il
                   est déjà sur la voie du bolchevisme. La confusion ne lui fait pas peur ; elle

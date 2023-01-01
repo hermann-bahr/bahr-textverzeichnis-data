@@ -35,11 +35,11 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb93394">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb93394">Adalbert von Goldschmidt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -48,13 +48,13 @@
                <date when="1892-11-04">4.11.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Wien, 3. November. Anlässlich der Entdeckung Goldschmidts in Frankreich setzt
                      Bahr darauf. dass er spätestens dadurch in Wien angemessen gewürdigt wird.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Studien zur Kritik der Moderne, 110–121</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es wird immer mehr eine Specialität der Franzosen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="other-prints">Studien zur Kritik der Moderne, 110–121</note>
+         <note type="incipit">Es wird immer mehr eine Specialität der Franzosen.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11491"/>
                <ptr type="pmb" target="#21317"/>
@@ -65,7 +65,7 @@
                <ptr type="HB-tv" target="HB-tv_46_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74906.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74906.pdf</ref>
       </body>
    </text>
 </TEI>

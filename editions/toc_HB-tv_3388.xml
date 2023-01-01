@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3388" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
@@ -45,11 +45,11 @@
             </imprint>
             <extent>152 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Kritische Schriften in Einzelausgaben, 3</title>
          </series>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus-2.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus-2.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

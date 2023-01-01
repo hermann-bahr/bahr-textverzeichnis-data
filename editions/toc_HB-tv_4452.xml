@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4452" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Die Burschenschaft</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Linzer Sonntagsblatt</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,16 +45,16 @@
                <date when="1882-12-17">17.12.1882</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Zuordnung des Kürzels »H. B.« im Linzer Sonntagsblatt siehe: H.B.:
                      Original-Correspondenzen. Linzer Sonntagsblatt, 3 (1882) #40, 5.
                      (1.10.1882).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Erst wisperten sie es ganz im Geheimen als frommen
+         <note type="incipit">Erst wisperten sie es ganz im Geheimen als frommen
                   Wunsch;</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht, die gegenwärtigen Bemühungen zur Auflösung der
+         <note type="summary">Bahr versucht, die gegenwärtigen Bemühungen zur Auflösung der
                   Burschenschaften als Unkenntnis zu beschreiben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12053"/>
                <ptr type="pmb" target="#12654"/>

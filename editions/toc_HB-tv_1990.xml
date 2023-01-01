@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1990" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Coquelin. (Als Gast im Carl-Theater vom 30. Oktober bis 1.
                      November 1903)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -47,10 +47,10 @@
                <date when="1903-10-31">31.10.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am 7. März 1898 war im Theater der Porte-Saint-Martin</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr findet den Jüngeren Cadet in Deutschland unterschätzt, hält
+         <note type="incipit">Am 7. März 1898 war im Theater der Porte-Saint-Martin</note>
+         <note type="summary">Bahr findet den Jüngeren Cadet in Deutschland unterschätzt, hält
                   ihn aber zugleich für einen Handwerker, dem teilweise das Herz fehlt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12567"/>
                <ptr type="pmb" target="#7633"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_1990_p8"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_835" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Hohes Spiel«. (Drama in drei Akten von Ernst Didring,
                      verdeutscht von Emil Schering. Zum erstenmal im Burgtheater am 18. September
                      1909)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -49,9 +49,9 @@
                <date when="1909-09-19">19.9.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einen skandinavischen Conan Doyle hat man Ernst Didring in
+         <note type="incipit">Einen skandinavischen Conan Doyle hat man Ernst Didring in
                   Berlin genannt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-9-19_spiel.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1909-9-19_spiel.pdf</ref>
       </body>
    </text>
 </TEI>

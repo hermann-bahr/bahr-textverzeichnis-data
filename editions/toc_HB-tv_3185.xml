@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Philosophie des Impressionismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="#32814">Dialog vom Tragischen</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,22 +48,22 @@
                <biblScope unit="pages">102–114</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Der Tag, Berlin, (1903) #193, Illustrierte Zeitung, 1–3.
+         <note type="first-printing">Der Tag, Berlin, (1903) #193, Illustrierte Zeitung, 1–3.
                   (26.4.1903) Tschechisch als: Filosofie impresionismu In: Literární listy, 21
                   (1903) #3/4, 62–65. (20.12.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Auszug als »Der Impressionismus« in: Das Hermann-Bahr-Buch,
+         <note type="other-prints">Auszug als »Der Impressionismus« in: Das Hermann-Bahr-Buch,
                   102</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gewiß: der Impressionismus ist zunächst nur eine Technik. Statt
+         <note type="incipit">Gewiß: der Impressionismus ist zunächst nur eine Technik. Statt
                   unmittelbar die Farbe aufzutragen, welche erblickt werden soll, teilt sie der
                   Impressionist und löst die Erscheinung, die er darstellen will, in viele bunte
                   Flecken oder Punkte auf, die in einer gewissen Entfernung erst auf einmal seltsam
                   zusammenschießen und, eben noch wirr, flackernd, unförmlich, sich nun plötzlich
                   zur schönsten Gestalt gefunden haben. Ist man nahe, so weiß man’s nicht zu
                   deuten.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Impressionismus sei bei weitem nicht nur eine bestimmte
+         <note type="summary">Der Impressionismus sei bei weitem nicht nur eine bestimmte
                   »Technik«, sondern drücke eine ganz besondere und historisch junge Form der
                   Wahrnehmung aus.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28664"/>
                <ptr type="pmb" target="#13707"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_3608_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
       </body>
    </text>
 </TEI>

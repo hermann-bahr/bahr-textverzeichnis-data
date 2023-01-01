@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Schwindler</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Expressionismus</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">30–41</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 43 (1914) #111, Abend–Ausgabe, 1–2.
+         <note type="first-printing">Berliner Tageblatt, 43 (1914) #111, Abend–Ausgabe, 1–2.
                   (2.3.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   193–197</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Leute, die seit zwanzig Jahren meinem Urteil über Maler
+         <note type="incipit">Leute, die seit zwanzig Jahren meinem Urteil über Maler
                   vertrauen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Kritik am Expressionismus ist Bahr zufolge v. a. moralisch
+         <note type="summary">Die Kritik am Expressionismus ist Bahr zufolge v. a. moralisch
                   kodiert, insofern sie den Künstlern Schwindel vorwirft; diese würden gar nicht so
                   wahrnehmen und denken, wie sie malten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3641"/>
                <ptr type="pmb" target="#14434"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_4861_p8"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
       </body>
    </text>
 </TEI>

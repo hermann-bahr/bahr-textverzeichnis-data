@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">30. Juni [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">I, 209–215</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Otto Flake kommt mir entgegen, aber ich kann’s ja kaum
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Otto Flake kommt mir entgegen, aber ich kann’s ja kaum
                   glauben</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schildert eine Begegnung mit Otto Flake. Das »Übermaß« der
+         <note type="summary">Bahr schildert eine Begegnung mit Otto Flake. Das »Übermaß« der
                   seit 1900 auftretenden Generation.</note>
       </body>
    </text>

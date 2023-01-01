@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3947" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Geschmack</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">42</biblScope>
@@ -46,12 +46,12 @@
                <date when="1913-12-12">12.12.1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Bild, 10 (1914) #1 (April), 7–9.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Expressionismus, 21-28 H. B.: Essays. Hg. Kindermann. Wien:
+         <note type="first-printing">Das Bild, 10 (1914) #1 (April), 7–9.</note>
+         <note type="other-prints">Expressionismus, 21-28 H. B.: Essays. Hg. Kindermann. Wien:
                   Bauer 1962, 190–192</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
+         <note type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
                   Geschmack ist, sagt Nietzsche.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1913_geschmack.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1913_geschmack.pdf</ref>
       </body>
    </text>
 </TEI>

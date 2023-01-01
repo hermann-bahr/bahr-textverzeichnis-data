@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">31. März [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">120</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Paul Westheim: Die Welt als Vorstellung. Ein Weg zur
+         <note type="review-of">Paul Westheim: Die Welt als Vorstellung. Ein Weg zur
                   Kunstanschauung. Potsdam, Berlin: G. Kiepenheuer 1919</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die Welt als Vorstellung«, ein Weg zur Kunstanschauung von Paul
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Die Welt als Vorstellung«, ein Weg zur Kunstanschauung von Paul
                   Westheim (Gustav Kiepenheuers Verlag, Potsdam-Berlin). Ein wunderschönes</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#8545"/>

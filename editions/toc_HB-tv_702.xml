@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_702" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater. Reprise von Kleist’s Prinz Friedrich von Homburg am
                      1. Dezember 1899</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -47,12 +47,12 @@
                <date when="1899-12-02">2.12.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zum erstenmal wurde der »Prinz von Homburg« im Burgtheater am 3.
+         <note type="incipit">Zum erstenmal wurde der »Prinz von Homburg« im Burgtheater am 3.
                   Oktober 1821</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Reprise des »Prinzen von Homburg« kann laut Bahr auf die
+         <note type="summary">Die Reprise des »Prinzen von Homburg« kann laut Bahr auf die
                   geänderte, die »neue Psychologie« setzen, dass es 100 Jahre nach der Uraufführung
                   angenommen wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11933"/>
                <ptr type="pmb" target="#11461"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Gespräche. Räuber und Mörder</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Wirkung in die Ferne. Und Anderes</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">92–102</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #151, 2–3.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #151, 2–3.
                   (3.6.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wirkung in die Ferne. Wien: Bauer 1947, 225-233</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nachdem einer der Gäste nach dem anderen den neuen Gemeinderath
+         <note type="other-prints">Wirkung in die Ferne. Wien: Bauer 1947, 225-233</note>
+         <note type="incipit">Nachdem einer der Gäste nach dem anderen den neuen Gemeinderath
                   begrüßt und gefiert, mit ernsten Worten, wie es sich bei solchem Anlasse
                   geziemt</note>
       </body>

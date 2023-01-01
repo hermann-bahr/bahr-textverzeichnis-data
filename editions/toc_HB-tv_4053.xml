@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4053" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">hr</author>
             <title level="a">Die Jubelausstellung im Wiener Künstlerhause. V. Die historische
                      Abtheilung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Wochenschrift</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -47,7 +47,7 @@
                <date when="1888">1888</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Womöglich ein Fehler in der Zählung, ein 4. Teil der »Jubelausstellung« ist
                      nicht erschienen. Denkbar ist auch, dass die #16 wegen Teil 4 konfisziert und
                      ohne in 2. Auflage gedruckt wurde. Der inkriminierte Titel hieß »Die
@@ -57,10 +57,10 @@
                      auszulösen, doch als gültiges Bild der jüngeren österreichischen
                      Kunstgeschichte könne sie nicht herhalten.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine historische Ausstellung, wenn sie ihrem Berufe gerecht
+         <note type="incipit">Eine historische Ausstellung, wenn sie ihrem Berufe gerecht
                   werden soll, muß eine Illustration der von ihr vorgenommenen Geschichte
                   sein</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9814"/>
                <ptr type="pmb" target="#19864"/>
@@ -89,7 +89,7 @@
                <ptr type="HB-tv" target="HB-tv_4053_p19"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-wochenschrift/1888_deutschte-wochenschrift.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-wochenschrift/1888_deutschte-wochenschrift.pdf</ref>
       </body>
    </text>
 </TEI>

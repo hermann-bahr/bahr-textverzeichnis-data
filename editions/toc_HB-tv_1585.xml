@@ -35,7 +35,7 @@
             type="Book"
             status="checked"
             sameAs="pmb29947">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb29947">Wirkung in die Ferne und Anderes</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>141 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Acht Skizzen und eine Pantomime. Auf 1902 vordatiert. Unter »Neueste
                      Erscheinungen« im Neuen Wiener Abendblatt, 35 (1901) #275, 4. (7.10.1901) und
                      erneut: Neues Wiener Tagblatt, 35 (1901) #286, 9. (18.10.1901) und ein drittes
@@ -53,8 +53,8 @@
             <p>Rezensionen: ***: Neue Novellen. In: Neues Wiener Abendblatt, 35 (1901) #317,
                      4. (18.11.1901) [Gemeinsam mit Gabriele Reuter: Frauenseelen.]</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20wirkung</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=57</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20wirkung</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=57</ref>
       </body>
    </text>
 </TEI>

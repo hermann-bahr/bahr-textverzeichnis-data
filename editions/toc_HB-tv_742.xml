@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_742" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Johann Viktor Krämer. (Elfte Ausstellung der Vereinigung
                      bildender Künstler Österreichs Sezession)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -47,11 +47,11 @@
                <date when="1901-06-14">14.6.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich im Herbst 1889 nach Madrid kam, war ich im Prada
+         <note type="incipit">Als ich im Herbst 1889 nach Madrid kam, war ich im Prada
                   [!]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs 1. Begegnung mit Krämer erfolgte in Madrid 1889, von wo
+         <note type="summary">Bahrs 1. Begegnung mit Krämer erfolgte in Madrid 1889, von wo
                   sie gemeinsam nach Andalusien und Marokko weiterreisten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2353"/>
                <ptr type="HB-tv" target="HB-tv_3851_p4"/>

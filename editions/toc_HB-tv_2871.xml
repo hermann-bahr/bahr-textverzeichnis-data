@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Mitterwurzer. (Gestorben am 13. Februar 1897)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">138–143</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 10 (1897) #125, 122–123. (20.2.1897)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963, 348-350
+         <note type="first-printing">Die Zeit, 10 (1897) #125, 122–123. (20.2.1897)</note>
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963, 348-350
                   Wunberg: Das junge Wien, 97.7</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Will man einen großen Mann verstehen lernen</note>
+         <note type="incipit">Will man einen großen Mann verstehen lernen</note>
       </body>
    </text>
 </TEI>

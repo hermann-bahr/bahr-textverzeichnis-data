@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 3. August</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">26</biblScope>
@@ -48,12 +48,12 @@
                <date when="1918-08-11">11.8.1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebücher 2, 229-231</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Fliegenstisch an der Hand, eiternd, so daß er aufgeschnitten
+         <note type="other-prints">Tagebücher 2, 229-231</note>
+         <note type="incipit">Ein Fliegenstisch an der Hand, eiternd, so daß er aufgeschnitten
                   werden und der Arm ruhig liegen muß</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht den Schmerz als Frage der psychischen
+         <note type="summary">Bahr sieht den Schmerz als Frage der psychischen
                   Einstellung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

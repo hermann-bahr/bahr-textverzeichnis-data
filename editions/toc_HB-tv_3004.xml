@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">»Hans« Drama in drei Aufzügen von Max Dreyer. »I love you«
                      Lustspiel in einem Akt von Theodor Herzl. Zum ersten Male aufgeführt am 12.
                      Januar 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -52,9 +52,9 @@
                <biblScope unit="pages">12–17</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #11, 1–2.
+         <note type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #11, 1–2.
                   (13.1.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»I love you« von Theodor Herzl ist ein charmantes Spiel mit
+         <note type="incipit">»I love you« von Theodor Herzl ist ein charmantes Spiel mit
                   einem Requisit, nämlich einer Bank, auf der man eines Tages jenes Geständnis
                   geschrieben findet.</note>
       </body>

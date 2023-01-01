@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_872" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Heimweh nach der Kirche</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Chronik</title>
             <imprint>
                <biblScope unit="jg">57</biblScope>
@@ -45,15 +45,15 @@
                <date when="1921-10-22">22.10.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wilhelm Worringer, der Bonner Kunstgelehrte, der durch seine
+         <note type="incipit">Wilhelm Worringer, der Bonner Kunstgelehrte, der durch seine
                   berühmte Schrift</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht die Hoffnungen in den Expressionismus nicht erfüllt,
+         <note type="summary">Bahr sieht die Hoffnungen in den Expressionismus nicht erfüllt,
                   wie er auch überhaupt daran zweifelt, dass die Meisterwerke großer Kunst in der
                   Lage sind, minder Begabte zu großer Kunst zu führen und sie nicht an zu hohen
                   Idealen zerschellen zu lassen. Das gelte auch für die Wissenschaft, wo zwar
                   gegenwärtig ein hohes Niveau des Verständnisses, aber nicht des Schöpferischen
                   erreicht werde, weil Schöpferisches immer religiös sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11237"/>
                <ptr type="pmb" target="#4996"/>

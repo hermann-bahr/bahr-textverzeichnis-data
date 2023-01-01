@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2206" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Witiko</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20593, Morgenblatt</biblScope>
@@ -44,13 +44,13 @@
                <date when="1921-12-28">28.12.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Leiziger Tageblatt, 6.1.1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Adalbert Stifters Witiko« St. Gallen: Tschudy
+         <note type="first-printing">Leiziger Tageblatt, 6.1.1922</note>
+         <note type="other-prints">Als »Adalbert Stifters Witiko« St. Gallen: Tschudy
                   [1940]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Witiko, Stifters letztes Werk, sein höchstes, an dem gemessen
+         <note type="incipit">Witiko, Stifters letztes Werk, sein höchstes, an dem gemessen
                   selbst der edle Nachsommer nur als Vorarbeit wirkt, erschien zunächst in drei
                   Bänden...</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1921-12-28_witiko.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1921-12-28_witiko.pdf</ref>
       </body>
    </text>
 </TEI>

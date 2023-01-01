@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Deutsches Volkstheater. [Gastspiel des Berliner Ensembles unter
                      der Leitung von Karl Meinhard]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -50,10 +50,10 @@
                <date when="1905-06-18">18.6.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Eine Abrechnung« von Gustav Wied; »Die Bäuerin« von Klara
+         <note type="review-of">»Eine Abrechnung« von Gustav Wied; »Die Bäuerin« von Klara
                   Viebig sowie »Die Audienz« von Eugen Robert</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Meinhards Berliner brachten gestern drei kleine Stücke</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Meinhards Berliner brachten gestern drei kleine Stücke</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13107"/>
                <ptr type="pmb" target="#13037"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_2436_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. Juli [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">I, 230–237</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Albert v. Hofmann: Politische Geschichte der Deutschen.
+         <note type="review-of">Albert v. Hofmann: Politische Geschichte der Deutschen.
                   Stuttgart, Berlin: Deutsche Verlagsanstalt 1921. Albert v. Hofmann: Das deutsche
                   Land und die deutsche Geschichte. Stuttgart, Berlin: Deutsche Verlagsanstalt
                   1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nietzsche sagt einmal, alles Illegitime sei gegen seine
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Nietzsche sagt einmal, alles Illegitime sei gegen seine
                   Natur</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die »Geschichte aus der Geografie« Hofmanns verbindet Bahr mit
+         <note type="summary">Die »Geschichte aus der Geografie« Hofmanns verbindet Bahr mit
                   eigenen Überlegungen zum deutschen Zwang, nicht illegitim zu handeln.</note>
       </body>
    </text>

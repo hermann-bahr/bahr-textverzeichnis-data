@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">6. März [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">79–80</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Scheffler: Ausverkauf in: Kunst und Künstler, Februar
+         <note type="review-of">Karl Scheffler: Ausverkauf in: Kunst und Künstler, Februar
                   1920</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Februarheft von Cassirers »Kunst und Künstler« ein
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Im Februarheft von Cassirers »Kunst und Künstler« ein
                   vortrefflicher Aufsatz Karl Schefflers über den »Ausverkauf« in Deutschland, der
                   deutsche Kunstbesitz wandert ja jetzt ins Ausland ab: »In letzter Stunde ist nun
                   eine heimlich vorbereitete und plötzlich erlassene Verordnung herausgekommen, die
@@ -88,7 +88,7 @@
                   unten herauf gesellschaftbildend vorzugehen und dabei der Großstadt mit ihrer
                   Kulturverlogenheit, ihrem Talmiluxus und ihren Bildungsvorurteilen voller
                   Verachtung flieht: da wird ein neues Deutschland«. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein längeres Zitat aus einem Aufsatz Karl Schefflers, der einen
+         <note type="summary">Ein längeres Zitat aus einem Aufsatz Karl Schefflers, der einen
                   Verlust von Deutschlands Kultur beklagt, aber auch Zeichen eines neuen Erblühens
                   erkennt.</note>
       </body>

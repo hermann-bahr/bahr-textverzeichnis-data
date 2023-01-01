@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Reisebilder. Arcachon</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">260–267</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsches Volksblatt, Wien, 2 (1890) #372,
+         <note type="first-printing">Deutsches Volksblatt, Wien, 2 (1890) #372,
                   Morgen–Ausgabe, 1–2. (16.1.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Arcachon ist jetzt, seit ein paar Jahren, sehr in der Mode; die
+         <note type="incipit">Arcachon ist jetzt, seit ein paar Jahren, sehr in der Mode; die
                   Engländer, die immer glücklichen Entdecker, denen man gerne vertraut, habe es
                   »gemacht«.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#39268"/>
                <ptr type="HB-tv" target="HB-tv_2699_p1"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_2699_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. Februar [1925]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">207–211</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In London starb am 27. Januar Friedrich von Hügel. Den
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In London starb am 27. Januar Friedrich von Hügel. Den
                   »Laienbischof der Modernisten« hat ihn Paul Sabatier einmal genannt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nachruf auf Friedrich von Hügel</note>
+         <note type="summary">Nachruf auf Friedrich von Hügel</note>
       </body>
    </text>
 </TEI>

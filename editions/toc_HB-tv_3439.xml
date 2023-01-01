@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Erleben</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Essays</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,25 +48,25 @@
                <biblScope unit="pages">231–234</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Aus den »Essays« abgedruckt im Programmheft der Volksbühne Berlin – Theater in
                      der Saarlandstraße, Jänner 1938, wo in der Regie vom Richard Weichert
                      »Josephine« mit Milena von Eckardt und René Deltgen inszeniert wird.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 12 (1897) #146, 43. (17.7.1897)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bildung, 219-222</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe das Glück, daß oft Mädchen zu mir kommen und mir die
+         <note type="first-printing">Die Zeit, 12 (1897) #146, 43. (17.7.1897)</note>
+         <note type="other-prints">Bildung, 219-222</note>
+         <note type="incipit">Ich habe das Glück, daß oft Mädchen zu mir kommen und mir die
                   Ehre erweisen...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr spricht sich gegen die Meinung aus, man müsse erst einmal
+         <note type="summary">Bahr spricht sich gegen die Meinung aus, man müsse erst einmal
                   etwas Spannendes erlebt haben, um einen guten Text produzieren zu können und
                   entwickelt andere Konzepte zum Verhältnis Leben/Kunst.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#5787"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
       </body>
    </text>
 </TEI>

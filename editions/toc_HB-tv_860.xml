@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_860" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Unterricht in Kriegszeit</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Wacht</title>
             <imprint>
                <biblScope unit="jg">15</biblScope>
@@ -45,8 +45,8 @@
                <date when="1914-09-05">5.9.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kriegssegen, 60-62</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist sehr vernünftig, daß beschlossen wurde, den
+         <note type="other-prints">Kriegssegen, 60-62</note>
+         <note type="incipit">Es ist sehr vernünftig, daß beschlossen wurde, den
                   Schulunterricht auch in dieser Kriegszeit</note>
       </body>
    </text>

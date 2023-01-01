@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. Januar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">33–37</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am Abend vor Silvester war ich zum letztenmal bei Lammasch, acht
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Am Abend vor Silvester war ich zum letztenmal bei Lammasch, acht
                   Tage vor seinem Tode, und fand ihn da heller, gesprächiger, heiterer als je seit
                   seiner Heimkehr. Vernichtet ging er von Saint- Germain weg, er schien wie mitten
                   entzwei, nur seine Demut hielt ihn im Vertrauen auf Gott noch fest: er verlor den
@@ -168,7 +168,7 @@
                   Zuversicht, mit der sich Bismarck, als in der Schlacht bei Königgrätz der
                   Kronprinz noch immer nicht kam, ruhig seine letzte Zigarre schmecken ließ.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nachruf auf Heinrich Lammasch</note>
+         <note type="summary">Nachruf auf Heinrich Lammasch</note>
       </body>
    </text>
 </TEI>

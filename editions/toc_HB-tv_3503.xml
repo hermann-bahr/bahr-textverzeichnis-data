@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Ahnengeist</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">71–76</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #117, 1–2.
+         <note type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #117, 1–2.
                   (29.4.1928) Auszug in: Schönere Zukunft, 4 (1929) #6, 122. (4.11.1929)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was bin ich? Eine Rinne für mein angestammtes Blut.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Den Versuch der Aufklärung, von der Bedeutung des »Herkommens«
+         <note type="incipit">Was bin ich? Eine Rinne für mein angestammtes Blut.</note>
+         <note type="summary">Den Versuch der Aufklärung, von der Bedeutung des »Herkommens«
                   absehen zu können, hält Bahr für gescheitert, das »Ahnenerbe« (Bahr rezensiert das
                   gleichnamige Buch Mayrhofers) zu bewahren sei heute so wichtig wie jemals.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#12053"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_3503_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

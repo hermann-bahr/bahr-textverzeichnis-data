@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">6. August [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">253–257</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Rudolf Pannwitz: Der Geist der Tschechen. Wien: »Der Friede«
+         <note type="review-of">Rudolf Pannwitz: Der Geist der Tschechen. Wien: »Der Friede«
                   1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Der Geist der Tschechen« von Rudolf Pannwitz</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bedauerlich findet Bahr, dass das, was Pannwitz über die
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Der Geist der Tschechen« von Rudolf Pannwitz</note>
+         <note type="summary">Bedauerlich findet Bahr, dass das, was Pannwitz über die
                   Tschechen schreibt, nicht von diesem auch vom Papier in die Tat umgesetzt
                   wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12392"/>
                <ptr type="HB-tv" target="HB-tv_5250_p1"/>

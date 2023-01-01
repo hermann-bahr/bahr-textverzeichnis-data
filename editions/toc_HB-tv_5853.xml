@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">31. März [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">III, 87–90</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Friedrich Würzbach: Dionysos. Vortrag gehalten zur eröffnung
+         <note type="review-of">Friedrich Würzbach: Dionysos. Vortrag gehalten zur eröffnung
                   der Nietzsche-Gesellschaft. München: Verlag der Nietzsche-Gesellschaft, Musarion
                   1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Wie bei der Quadratur des Kreises die unmeßbare Kreislinie von
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">»Wie bei der Quadratur des Kreises die unmeßbare Kreislinie von
                   unendlich kleinen meßbaren Graden von außen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nietzsche, wie auch Goethe, hatte das Unglück, dass ihm nie ein
+         <note type="summary">Nietzsche, wie auch Goethe, hatte das Unglück, dass ihm nie ein
                   richtiger Katholik begegnet ist, denn dann hätte dieser begriffen, dass er
                   innerlich längst zu Rom bekehrt war.</note>
       </body>

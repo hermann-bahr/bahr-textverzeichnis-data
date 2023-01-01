@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Dehmel</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">94–102</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Richard Dehmel« in: Neue Freie Presse, (1913)
+         <note type="first-printing">Als »Richard Dehmel« in: Neue Freie Presse, (1913)
                   #17685, Morgenblatt, 1–3. (18.11.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den ersten Neunzigerjahren begann Dehmel in Berlin
+         <note type="incipit">In den ersten Neunzigerjahren begann Dehmel in Berlin
                   umzugehen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die dichterische Strategie Richard Dehmels besteht Bahr zufolge
+         <note type="summary">Die dichterische Strategie Richard Dehmels besteht Bahr zufolge
                   in der Praxis, um zu »Einfalt, Reinheit und Stille« zu kommen, sich erst in »Dampf
                   und Gestank [...] schändlicher Gefahren« zu stürzen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11148"/>
                <ptr type="pmb" target="#11330"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_3505_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

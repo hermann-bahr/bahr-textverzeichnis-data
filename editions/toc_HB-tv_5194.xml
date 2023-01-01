@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Mai [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">147–152</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mir fiel ein, nachzudenken, was heute vor zehn Jahren mit mir
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Mir fiel ein, nachzudenken, was heute vor zehn Jahren mit mir
                   war.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr erinnert sich, an den Sommeraufenthalt 1869 am Attersee, an
+         <note type="summary">Bahr erinnert sich, an den Sommeraufenthalt 1869 am Attersee, an
                   seine erste Verlobung im Jahr 1879, an den Text zur »Krisis des Burgtheaters«
                   1889, an Rom 1899 und an die Fertigstellung des »Konzerts« 1909.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2202"/>
                <ptr type="pmb" target="#11036"/>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1106" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das tschechische Nationaltheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Merker</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,14 +45,14 @@
                <date when="1910-11-25">25.11.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bahr/Kvapil, 520-523</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Prager deutsche Zeitungen schmücken jetzt meinen Namen gern mit
+         <note type="other-prints">Bahr/Kvapil, 520-523</note>
+         <note type="incipit">Prager deutsche Zeitungen schmücken jetzt meinen Namen gern mit
                   dem Beiwort: der Freund der tschechischen Nation.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht im Tschechischen Nationaltheater exemplarisch zu
+         <note type="summary">Bahr sieht im Tschechischen Nationaltheater exemplarisch zu
                   sehen wie einerseits eine Nation erwacht (wie die Deutschen in der Klassik) und
                   wie andererseits eine Nation sich befruchten lassen kann, um auf das eigene zu
                   stoßen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10986"/>
                <ptr type="pmb" target="#12504"/>

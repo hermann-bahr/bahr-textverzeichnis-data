@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4340" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Emil Ludwig, der Dichter</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">52</biblScope>
@@ -45,9 +45,9 @@
                <date when="1920-09-14">14.9.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Zu schad!« sagte mir in verklungen schönen Tagen Olbrich oft,
+         <note type="incipit">»Zu schad!« sagte mir in verklungen schönen Tagen Olbrich oft,
                   »zu schad, daß der Darmstädter Großherzog grad Großherzog sein muß:</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1920_ludwig.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1920_ludwig.pdf</ref>
       </body>
    </text>
 </TEI>

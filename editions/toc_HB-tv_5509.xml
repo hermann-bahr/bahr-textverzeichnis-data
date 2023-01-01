@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">5. Februar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">55–58</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Arno Holz: Das ausgewählte Werk. Berlin: Bong 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In einem Entwurf, den er unausgeführt ließ, erzählt Fontane von
+         <note type="review-of">Arno Holz: Das ausgewählte Werk. Berlin: Bong 1919.</note>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In einem Entwurf, den er unausgeführt ließ, erzählt Fontane von
                   einem Ehepaar, das, als es zur goldenen Hochzeit kam, beschloß, die
                   Hochzeitsreise, die es vor fünfzig Jahren gemacht, noch einmal zu machen,
                   neugierig, wer sich inzwischen mehr verändert hätte, die Welt oder sie selbst. Und
@@ -134,7 +134,7 @@
                   sträubt. Im »Buch der Zeit« aber hat’s einen ganz eigenen lieben Reiz gerade
                   dadurch, daß im Grunde dazu noch immer die Schalmei der guten alten Zeit geblasen
                   wird. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Fontane, Arno Holz und den Umstand, dass sich die Menschen
+         <note type="summary">Über Fontane, Arno Holz und den Umstand, dass sich die Menschen
                   ändern, die Welt aber nicht.</note>
       </body>
    </text>

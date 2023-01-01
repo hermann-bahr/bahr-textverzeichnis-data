@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4081" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kriegssegen!</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Prager Tagblatt</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -45,19 +45,19 @@
                <date when="1914-12-24">24.12.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Leipziger Tageblatt, 108 (1914) #654, Morgen–Ausgabe,
+         <note type="first-printing">Leipziger Tageblatt, 108 (1914) #654, Morgen–Ausgabe,
                   Weihnachts–Beilage, 2–3. (25.12.1914) Berliner Börsen–Courier, 47 (1914) #603,
                   Morgenblatt, 1. Beilage, Weihnachtsbeilage, 6–7. (25.12.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Brochure: Hermann Bahr: Kriegssegen. Vortrag gehalten zu
+         <note type="other-prints">Brochure: Hermann Bahr: Kriegssegen. Vortrag gehalten zu
                   Gunsten der durch den Krieg in Not geratenen Schriftsteller und Journalisten.
                   München: Schutzverband Deutscher Schriftsteller 1914. Als »Kriegssegen« in:
                   Kriegssegen, 19-33</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einen Kriegssegen will ich sprechen, den Segen
+         <note type="incipit">Einen Kriegssegen will ich sprechen, den Segen
                   aussprechen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr segnet den Krieg, der entgegen aller Erwartungen und
+         <note type="summary">Bahr segnet den Krieg, der entgegen aller Erwartungen und
                   Berechnungen ausgebrochen sei. Dabei denkt er bereits mit Sorge an einen Frieden,
                   der das durch den Krieg Errungene wieder vernichten könnte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#4823"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_4081_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1914-12-24_kriegssegen.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1914-12-24_kriegssegen.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -48,12 +48,12 @@
                <date when="1905-11-12">12.11.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Stein unter Steinen« von Hermann Sudermann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Kleine Österreichische Volks–Zeitung, 51 (1905) #313, 25.
+         <note type="review-of">»Stein unter Steinen« von Hermann Sudermann</note>
+         <note type="first-printing">Kleine Österreichische Volks–Zeitung, 51 (1905) #313, 25.
                   (12.11.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sudermanns »Stein unter Steinen« (siehe mein Feuilleton) hat
+         <note type="incipit">Sudermanns »Stein unter Steinen« (siehe mein Feuilleton) hat
                   gestern im dritten Akte stark gewirkt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12899"/>
                <ptr type="pmb" target="#11851"/>

@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb31707"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb31707">Die neuen Menschen. Ein Schauspiel</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>65 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Als Manuskript gedruckt. Das Zitat auf dem Titelblatt enthält einen
                      Druckfehler: »I want a heros.« Drei Akte. Der am 19.2.1887 beim Vater
                      einlangende Brief Bahrs zeigt, dass zu diesem Zeitpunkt bereits gedruckte
@@ -71,7 +71,7 @@
                      #1, 459-461. o.N.? : Die Gegenwart, 39 (1891), 934. Steiger, Eduard: Das Werden
                      des neuen Dramas. Berlin: F. Fontane 1898, II, 8–10.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Stück handelt von den beiden sozialistischen Agitatoren
+         <note type="summary">Das Stück handelt von den beiden sozialistischen Agitatoren
                   Georg und Anne, die Hedwig von der Straße aufgenommen haben. Als Anne merkt, dass
                   Georg sich in Hedwig verliebt hat, fordert sie ihn auf, diese im Sinne der Arbeit
                   für die neue Menschheit aus dem Haus zu weisen. Georg scheitert aber an seinen
@@ -80,7 +80,7 @@
                   aufgehört hat, trifft zum ersten Mal wieder auf Georg, der in der Situation nur
                   mehr Suizid als Weg zum Glück Hedwigs sieht, wobei ihm Anne verspricht zu
                   helfen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=39</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=39</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. Zweites Gastspiel. 5. Am 18. April 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">184–187</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #105, 7–8.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #105, 7–8.
                   (18.4.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novelli als Hamlet. In der Phantasie der Völker schwebt Hamlet
+         <note type="incipit">Novelli als Hamlet. In der Phantasie der Völker schwebt Hamlet
                   als eine dunkel</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein Amt der Entdeckung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Prager Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -48,7 +48,7 @@
                <date when="1912-05-25">25.5.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Anmerkung zum Titel: »Hermann Bahr läßt Ende Mai im Insel-Verlag zu
                      Leipzig einen Band »Essays« erscheinen. Neben Charakteristiken bedeutender
                      Menschen der Vergangenheit und Gegenwart (Leonardo, Goethe, Brahms, Richard
@@ -58,11 +58,11 @@
                      nahezu gleichlautenden Einleitungen zu Vorabdrucken in den Hamburger
                      Nachrichten und der Frankfurter Zeitung.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #42, 1–3.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #42, 1–3.
                   (13.2.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bildung, 223-231 Essays (1912), 242-249</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn ich in der Früh an meinen Tisch trete, habe ich</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1912_5_25-amt-der-entdeckung.pdf</ref>
+         <note type="other-prints">Bildung, 223-231 Essays (1912), 242-249</note>
+         <note type="incipit">Wenn ich in der Früh an meinen Tisch trete, habe ich</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1912_5_25-amt-der-entdeckung.pdf</ref>
       </body>
    </text>
 </TEI>

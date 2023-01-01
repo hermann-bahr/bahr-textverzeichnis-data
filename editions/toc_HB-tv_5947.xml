@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Brief"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Erich Hermann</author>
             <title level="a">Drittes Stiftungsfest des Vereins Deutscher Studenten zu Breslau
                      am 9. und 10. Juni 1883. 4. Zuschriften alter Herren und Inactiver</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Kyffhäuser-Zeitung. Wochenschrift für alle Hochschulen-Angehörige
                      deutschen Stammes und deutscher Zunge</title>
             <imprint>
@@ -51,7 +51,7 @@
                <date when="1893-07">Juli? 1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr, im März von der Universität in Wien relegiert, zitiert darin den Satz,
                      durch den er’s wurde: »wie ich an jenem folgen[reichen] Abend im Sophiensaale
                      sagte – ’heut’ an der Grenze [zum deutschen Reich] eine schwer büßende Kundry
@@ -60,13 +60,13 @@
                      Burschenschaft ’Albia’«. Eine editorische Nachbemerkung weist auf Bahrs
                      Relegierung Aufgrund seiner »freien Rede« hin.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Schlesisches Morgenblatt, Juni/Juli 1883</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Graz. (Brief) ……… ein schlechter Burschenschafter fürwahr, ein
+         <note type="first-printing">Schlesisches Morgenblatt, Juni/Juli 1883</note>
+         <note type="incipit">Graz. (Brief) ……… ein schlechter Burschenschafter fürwahr, ein
                   ehrvergessener Sohn meines Volkes wäre ich, [böte ich] mein Herz nicht in
                   begeisterter Zuneigung Ihnen dar</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr gratuliert und weist auf die schwierige Situation der
+         <note type="summary">Bahr gratuliert und weist auf die schwierige Situation der
                   Burschenschaften außerhalb Deutschlands hin.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/kyffhaeuser/1883-beilage.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/kyffhaeuser/1883-beilage.pdf</ref>
       </body>
    </text>
 </TEI>

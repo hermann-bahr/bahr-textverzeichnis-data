@@ -35,14 +35,14 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_602" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Akademischer Verein für Kunst und Literatur. (Matinée im Theater
                      In der Josephstadt am 14. November 1901: »Satyros« von Goethe; »Robert
                      Guiskard« von Heinrich von Kleist; »Der vierundzwanzigste Februar« von
                      Zacharias Werner)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -51,16 +51,16 @@
                <date when="1901-11-15">15.11.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vgl. zum »24. Februar« von Zacharias Werner: Max Kalbeck: Burgtheater. In:
                      N.W.T., #337, 2-3 (8.12.1901)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Wiener Theater. Herakles« in: Der Tag, (1902) #23,
+         <note type="first-printing">Als »Wiener Theater. Herakles« in: Der Tag, (1902) #23,
                   1. Teil, Illustrierte Zeitung, [2–3]. (15.1.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 101–112</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nach dem Beispiel der Münchener und der Berliner haben nun
+         <note type="other-prints">Rezensionen, 101–112</note>
+         <note type="incipit">Nach dem Beispiel der Münchener und der Berliner haben nun
                   auch</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Gekürzt"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Helfer. (Schauspiel in vier Aufzügen von Felix Philippi. Zum
                      erstenmal aufgeführt im Burgtheater am 14. Dezember 1905)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Kleine Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -50,13 +50,13 @@
                <date when="1905-12-15">15.12.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Um den ersten Absatz gekürzt aus der »großen« Ausgabe.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig: Österreichische Volks–Zeitung, 51 (1905)
+         <note type="first-printing">Vollständig: Österreichische Volks–Zeitung, 51 (1905)
                   #346, 1. (15.12.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Vollständig: Glossen, 101–106</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Burgtheater gab gestern den neuen Philippi</note>
+         <note type="other-prints">Vollständig: Glossen, 101–106</note>
+         <note type="incipit">Das Burgtheater gab gestern den neuen Philippi</note>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Wahrheit, Wahrheit!</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,10 +49,10 @@
                <biblScope unit="pages">141–151</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Nation, 8 (1891) #25, 390–393</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="first-printing">Die Nation, 8 (1891) #25, 390–393</note>
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   142–149</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das ist das Verhängnis, so bald in einer Kunst das Schlagwort
+         <note type="incipit">Das ist das Verhängnis, so bald in einer Kunst das Schlagwort
                   von der Wahrheit ausbricht, daß es durchaus keinen Halt, keine Rast, keinen
                   Frieden mehr giebt und sie nicht eher wieder sich zu schönem, gedankenvollem und
                   dankbarem Verweilen und zu stiller Freudigkeit beschwichtigen kann, als bis die
@@ -60,8 +60,8 @@
                   sie mit der Forderung der Wahrheit berührt, siehe! da sind alle plötzlich in
                   Lüge verwandelt und wer die Wirklichkeit sucht, findet nur Schein
                   überall.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11377"/>
                <ptr type="pmb" target="#2815"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_2679_p11"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

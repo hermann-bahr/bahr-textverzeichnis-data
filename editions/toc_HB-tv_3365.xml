@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Österreichische Musik</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Summula</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">178–184</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vossische Zeitung, (1920) #335, Morgen–Ausgabe, 2–3.
+         <note type="first-printing">Vossische Zeitung, (1920) #335, Morgen–Ausgabe, 2–3.
                   (7.7.1920)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was einer ist, erfährt er zeitlebens selber so wenig, als es
+         <note type="incipit">Was einer ist, erfährt er zeitlebens selber so wenig, als es
                   von der Mitwelt bemerkt wird. Das bringt erst der Tod heraus. Erst wenn beide, er
                   selber wie seine Zeit, vorüber sind, ergibt sich, was er für seine Zeit und was
                   diese Zeit wieder unter den Zeiten war.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In »Bruckner, Hugo Wolf und Mahler« sei Österreich, das
+         <note type="summary">In »Bruckner, Hugo Wolf und Mahler« sei Österreich, das
                   monarchische, zu seinem »letzten großen Ausdruck« gelangt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
                <ptr type="pmb" target="#11578"/>
@@ -92,7 +92,7 @@
                <ptr type="HB-tv" target="HB-tv_3365_p14"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
       </body>
    </text>
 </TEI>

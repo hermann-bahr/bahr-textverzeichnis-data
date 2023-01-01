@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb31361"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31361">Sezession. Zur zehnten Ausstellung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,17 +48,17 @@
                <date when="1901-03-22">22.3.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nicht in die 2 Kreuzer-Ausgabe aufgenommen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als die erste Anmerkung in: »Anmerkungen« in: Rede über
+         <note type="other-prints">Als die erste Anmerkung in: »Anmerkungen« in: Rede über
                   Klimt, 14–19. Als »Klimt« in: Das Hermann Bahr-Buch, 144–149.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Indem ich mich anschicke, von Klimt zu sprechen, will ich zuerst
+         <note type="incipit">Indem ich mich anschicke, von Klimt zu sprechen, will ich zuerst
                   bekennen, daß ich da nicht unbefangen bin</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht, sich als Klimt-Verehrer bekennend, zu erklären,
+         <note type="summary">Bahr versucht, sich als Klimt-Verehrer bekennend, zu erklären,
                   was es ist, weswegen einen die Bilder so sehr ansprechen und geht da vor allem auf
                   ein Frauenporträt Klimts ein.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
                <ptr type="pmb" target="#15229"/>

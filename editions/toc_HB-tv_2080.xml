@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Leserbrief"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Hexenturm in Salzburg</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16498, Morgenblatt</biblScope>
@@ -47,14 +47,14 @@
                <date when="1910-07-28">28.7.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr bittet um Hilfe für die Erhaltung des Hexenturms</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck: Salzburger Volksblatt, 40 (1910) #168, 11.
+         <note type="first-printing">Nachdruck: Salzburger Volksblatt, 40 (1910) #168, 11.
                   (28.7.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hermann Bahr schreibt uns: Salzburger Freunde wenden sich in
+         <note type="incipit">Hermann Bahr schreibt uns: Salzburger Freunde wenden sich in
                   ihrer Not an mich: das alte Bild der geliebten Stadt ist bedroht</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://univie.ac.at/bahr/sites/all/txt/neue-freie-presse/1910-7-28_hexenturm.pdf</ref>
+         <ref type="URL">http://univie.ac.at/bahr/sites/all/txt/neue-freie-presse/1910-7-28_hexenturm.pdf</ref>
       </body>
    </text>
 </TEI>

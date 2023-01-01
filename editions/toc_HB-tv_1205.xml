@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Publikum und Gesellschaft</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">57</biblScope>
@@ -48,7 +48,7 @@
                <date when="1924-12-25">25.12.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Weitere Antworten: Thomas Mann, Heinrich Mann, Oberreichsstaatsanwalt Dr.
                      Ebermayer, Heinrich XLV Erbprinz Reuss, Oskar Loerke, Paul Kornfeld, Leo
                      Greiner, Glaser, Emil Orlik, Hermann Ungar, Fritz Strick, Alfred Flechtheim,
@@ -57,11 +57,11 @@
                      Arthur Hellmer, Richard Weichert, Alwin Kronacher, Paul Wiecke, Richard
                      Rosenheim, Iwan Goll, Frank Warschauer.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Statt einer Antwort drängt sich mir zunächst die Gegenfrage auf
+         <note type="incipit">Statt einer Antwort drängt sich mir zunächst die Gegenfrage auf
                   die Lippen: gab es</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr findet, in Deutschland muss sich jeder Künstler sein
+         <note type="summary">Bahr findet, in Deutschland muss sich jeder Künstler sein
                   Publikum erst »zusammentrommeln«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#12654"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_2173_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1924_publikum.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1924_publikum.pdf</ref>
       </body>
    </text>
 </TEI>

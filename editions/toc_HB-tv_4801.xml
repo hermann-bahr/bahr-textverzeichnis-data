@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage_Brief_Zitat"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#2147">Altenberg, Peter</author>
             <title level="a">Der erste Erfolg. Eine Rundfrage der »Österreichischen
                      Volks-Zeitung«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -50,14 +50,14 @@
                <date when="1905-06-11">11.6.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Auf die Umfrage zum »ersten Erfolg« antworten: Rosa Albach-Retty, Raoul
                      Auernheimer, Goswina von Berlepsch, Tina Blau-Lang, Alexander Girardi,
                      Ferdinand Gregori, Hermine von Preuschen-Telman, Hugo Salus, Louis Treumann,
                      Olga Türk-Rohn, Rudolf Weyr, Olga Wiesinger-Florian und Peter Altenberg, der in
                      seiner Antwort einen Brief Bahrs abdruckt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Erster Lichtblick. »Lieber Herr Altenberg, ich gebe am 1.
+         <note type="incipit">Erster Lichtblick. »Lieber Herr Altenberg, ich gebe am 1.
                   Oktober eine Zeitschrift, Wochenschrift »Die Zeit« heraus. Bitte, senden Sie mir
                   doch eine Ihrer zarten merkwürdigen Sagen, die Herr Hugo v. Hoffmannsthal [!] mir
                   eines Abends aus den Manuskripten vorgelesen hat. Ergebenst Hermann Bahr« Zweiter

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. Juli [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">III, 186–187</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Viktor Klemperer: Die moderne französische Prosa (1870–1920).
+         <note type="review-of">Viktor Klemperer: Die moderne französische Prosa (1870–1920).
                   Leipzig: Teubner 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mein einziger Trost ist, in all der heillosen Gemütsverwirrung
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Mein einziger Trost ist, in all der heillosen Gemütsverwirrung
                   doch insgeheim</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lobt Klemperers Buch als Beweis der »Weiterführung des
+         <note type="summary">Bahr lobt Klemperers Buch als Beweis der »Weiterführung des
                   goethischen Geists«, hält dem Autor aber mangelhaftes Einfühlungsvermögen in die
                   katholische Form vor.</note>
       </body>

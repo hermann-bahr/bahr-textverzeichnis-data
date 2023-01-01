@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Weltanschauliche Bekenntnisse. [III]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,13 +48,13 @@
                <date when="1926-04-18">18.4.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Auch der dritte Abdruck aus »Liebe der Lebenden« ist eine
                      Stellenkompilation.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Graduale beten wir gelegentlich: Salvum me fac</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/schoenere-zukunft/1926_weltanschaulich.pdf</ref>
+         <note type="other-prints">Liebe der Lebenden</note>
+         <note type="incipit">Im Graduale beten wir gelegentlich: Salvum me fac</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/schoenere-zukunft/1926_weltanschaulich.pdf</ref>
       </body>
    </text>
 </TEI>

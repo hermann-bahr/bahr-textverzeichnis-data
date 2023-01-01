@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 12. Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,13 +48,13 @@
                <date when="1919-06-01">1.6.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 160–162</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Aprilheft der »Neuen Rundschau« ein Aufsatz von Egon Wellesz:
+         <note type="other-prints">1919. Tagebuch, 160–162</note>
+         <note type="incipit">Im Aprilheft der »Neuen Rundschau« ein Aufsatz von Egon Wellesz:
                   auf nicht ganz fünf Seiten der Inhalt eines Jahrhunderts deutscher Musik</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Schriften Wellesz und Hauers zur Musiktheorie sowie das
+         <note type="summary">Die Schriften Wellesz und Hauers zur Musiktheorie sowie das
                   Programm zu Gropius Bauhaus zusammenlesend, findet Bahr, dass der Künstler einfach
                   in seinem Inneren erschüttert werden muss, um aus sich heraus zu wachsen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13085"/>
                <ptr type="pmb" target="#10866"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_5199_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

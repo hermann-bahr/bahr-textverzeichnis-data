@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">An einen entfremdeten Freund</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kriegssegen</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">34–43</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Tägliche Rundschau, 34 (1914) #285, Unterhaltungsbeilage,
+         <note type="first-printing">Tägliche Rundschau, 34 (1914) #285, Unterhaltungsbeilage,
                   1137. (5.12.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Auszug in: Hermann Kellermann, Hg.: Der Krieg der Geister.
+         <note type="other-prints">Auszug in: Hermann Kellermann, Hg.: Der Krieg der Geister.
                   Weimar: Vereinigung Heimat und Welt 1915, 463-465.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einer meiner Freunde, Deutscher von Geburt, Erziehung und Gemüt,
+         <note type="incipit">Einer meiner Freunde, Deutscher von Geburt, Erziehung und Gemüt,
                   doch seit Jahren in der Fremde, des deutschen Lebens</note>
       </body>
    </text>

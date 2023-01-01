@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Wer ist Riegl?</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Expressionismus</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">75–82</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Riegl, nicht Riehl« in: Berliner Tageblatt, 43
+         <note type="first-printing">Als »Riegl, nicht Riehl« in: Berliner Tageblatt, 43
                   (1914) #11, Ausgabe für Berlin und Umgegend, Abend–Ausgabe, 1–2. (7.1.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer ist Riegl? fragt man da.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr referiert die Kunsttheorie Alois Riegls.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Wer ist Riegl? fragt man da.</note>
+         <note type="summary">Bahr referiert die Kunsttheorie Alois Riegls.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28051"/>
                <ptr type="pmb" target="#11040"/>
@@ -86,7 +86,7 @@
                <ptr type="HB-tv" target="HB-tv_1326_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
       </body>
    </text>
 </TEI>

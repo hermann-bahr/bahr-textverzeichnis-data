@@ -37,13 +37,13 @@
             type="Journal-Article"
             sameAs="pmb30109"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30109">L’autre danger. (Komödie in vier Akten von Maurice
                      Donnay. Zur morgigen Aufführung im Carl-Theater durch die Truppe der
                      Duse)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -52,11 +52,11 @@
                <date when="1903-04-04">4.4.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Maurice Donnay ist den Wienern durch seine »Verliebten« bekannt,
+         <note type="incipit">Maurice Donnay ist den Wienern durch seine »Verliebten« bekannt,
                   die 1896 im Volkstheater sehr gefallen haben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr weist Donnay als guten Handwerker mit frischem Dialog aus
+         <note type="summary">Bahr weist Donnay als guten Handwerker mit frischem Dialog aus
                   und gibt eine sehr detaillierte Inhaltsangabe des Stücks.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11168"/>
                <ptr type="pmb" target="#11201"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_655_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

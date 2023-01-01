@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Talisman. I</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">232–237</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Des Kaisers neue Kleider« in: Deutsche Zeitung,
+         <note type="first-printing">Als »Des Kaisers neue Kleider« in: Deutsche Zeitung,
                   Wien, 23 (1893) #7851, Morgen–Ausgabe, 1–2. (4.11.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf dem Zettel des »Talisman« heißt es: »mit theilweise
+         <note type="incipit">Auf dem Zettel des »Talisman« heißt es: »mit theilweise
                   Benützung eines alten Fabelstoffes«. II. Herr Ludwig Fulda hat es gut. Ich möchte
                   gleich mit ihm tauschen.</note>
       </body>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zwischenaktsmusik</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Troppauer Zeitung</title>
             <imprint>
                <biblScope unit="jg">123</biblScope>
@@ -48,7 +48,7 @@
                <date when="1908-11-15">15.11.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Mit folgenden, ebenso kurzen, wie prägnanten Worten
                      urteilt der bekannte Wiener Schriftsteller und Bühnendichter Hermann Bahr.«
                      Anlass für die Rundfrage war, dass der Direktor des Theaters statt dem
@@ -65,7 +65,7 @@
                      Abschaffen geschieht »nach berühmten Muster, denn die ’Modernität’ verlangt es
                      so«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sehr geehrter Herr! Die sogenannte Zwischenaktsmusik ist
+         <note type="incipit">Sehr geehrter Herr! Die sogenannte Zwischenaktsmusik ist
                   saudumm, weshalb man sie auch, als ein lästiges, sinnloses, nur störendes
                   Geräusch, in allen künstlerischen Theatern längst abgeschafft hat. Ergebenst
                   Hermann Bahr |</note>

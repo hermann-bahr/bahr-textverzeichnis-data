@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Österreichische Ordnung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">297–306</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Österreichisches. 8« in: März 4 (1910) #3, 350–356.
+         <note type="first-printing">Als »Österreichisches. 8« in: März 4 (1910) #3, 350–356.
                   Prager Tagblatt 28 (1913) #183, 3. (6.7.1913) Die Bühne. Zeitschrift für Theater
                   und Gesellschaft, (1934) #369 (1. Februarheft), 38–40.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Austriaca. 10« in: Austriaca, 91–101</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Voriges Jahr war ich genötigt, manchmal von Innsbruck nach
+         <note type="other-prints">Als »Austriaca. 10« in: Austriaca, 91–101</note>
+         <note type="incipit">Voriges Jahr war ich genötigt, manchmal von Innsbruck nach
                   Salzburg zu fahren</note>
       </body>
    </text>

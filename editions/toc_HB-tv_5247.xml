@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Juni [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">187–188</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Das grüne Manifest« von Leberecht Migge</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Höchst merkwürdig im letzten Heft der von Max Ermers geleiteten
+         <note type="review-of">»Das grüne Manifest« von Leberecht Migge</note>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Höchst merkwürdig im letzten Heft der von Max Ermers geleiteten
                   »Neuen Erde« das »Grüne Manifest« Leberecht Migges.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das »Grüne Manifest« und die darin propagierte Antistadtbewegung
+         <note type="summary">Das »Grüne Manifest« und die darin propagierte Antistadtbewegung
                   ist für Bahr whitmanesk.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13102"/>
                <ptr type="HB-tv" target="HB-tv_5247_p1"/>

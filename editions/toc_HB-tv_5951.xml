@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_5951" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der junge Herzl</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Jüdische Student. Monatsschrift des Bundes jüdischer
                      Corporationen</title>
             <imprint>
@@ -46,23 +46,23 @@
                <date when="1913-08-20">20.8.1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Text Bahrs ist unter der Überschrift »Zwei Aufsätze über Theodor Herzl«
                      zusammen mit einem Text Martin Bubers präsentiert.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich rechne es zu den wirklich großen Glücksfällen meines Lebens,
+         <note type="incipit">Ich rechne es zu den wirklich großen Glücksfällen meines Lebens,
                   daß ich dem größten Juden unserer Zeit von Jugend auf persönlich gekannt
                   habe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Zwei prägende Erlebnisse Herzls macht Bahr in dem Hinauswurf der
+         <note type="summary">Zwei prägende Erlebnisse Herzls macht Bahr in dem Hinauswurf der
                   Juden aus der deutsch-nationalen Burschenschaft sowie in dem Moment fest, als er
                   mitansehen muss, wie Dreyfus die Epauletten abgenommen werden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11673"/>
                <ptr type="pmb" target="#4216"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/juedische-student/1913-herzl.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/juedische-student/1913-herzl.pdf</ref>
       </body>
    </text>
 </TEI>

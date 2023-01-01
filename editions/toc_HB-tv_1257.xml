@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1257" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Spiegelung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">21065, Morgenblatt</biblScope>
@@ -44,14 +44,14 @@
                <date when="1923-05-03">3.5.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Kommentar von Karl Kraus in der Fackel (25 (1923) #622-631, 50-51).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 55 (1923) #201, 1. Beilage, 5.
+         <note type="first-printing">Berliner Börsen–Courier, 55 (1923) #201, 1. Beilage, 5.
                   (1.5.1923)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Geschlecht der Menschen ist »bestimmt, Erleuchtetes zu
+         <note type="incipit">Das Geschlecht der Menschen ist »bestimmt, Erleuchtetes zu
                   sehen, nicht das Licht«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-5-3_spiegelung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-5-3_spiegelung.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Haus Habsburg. 2</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Alldeutsches Tagblatt</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -48,13 +48,13 @@
                <date when="1907-07-07">7.7.1907</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die #153 weist den Text nicht gesondert als Abdruck aus und nennt auch Bahrs
                      Namen nicht. Der geht aber aus der Beilage hervor, in der noch einmal der erste
                      Teil abgedruckt ist, weil die #152 beschlagnahmt worden war.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wien. Stuttgart: Carl Krabbe 1907</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine solche Zucht ist immer wieder versucht worden.</note>
+         <note type="other-prints">Wien. Stuttgart: Carl Krabbe 1907</note>
+         <note type="incipit">Eine solche Zucht ist immer wieder versucht worden.</note>
       </body>
    </text>
 </TEI>

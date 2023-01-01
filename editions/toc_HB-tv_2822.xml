@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das ewig Weibliche. Ein neuer Dichter</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,23 +48,23 @@
                <biblScope unit="pages">45–52</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der korrigierende Eingriff im »giebt« des ersten Satzes – im Erstdruck noch
                      »gibt« – wurde dann im letzten Druck, 1921, wieder rückgängig gemacht.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Peter Altenberg: Wie ich es sehe. Berlin: S. Fischer
+         <note type="review-of">Peter Altenberg: Wie ich es sehe. Berlin: S. Fischer
                   1896</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 7 (1896) #83, 75–76. (2.5.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Das erste und das letzte Wort« in: Egon Friedell, Hg.:
+         <note type="first-printing">Die Zeit, 7 (1896) #83, 75–76. (2.5.1896)</note>
+         <note type="other-prints">Als »Das erste und das letzte Wort« in: Egon Friedell, Hg.:
                   Das Altenbergbuch. Leipzig, Wien, Zürich: Wiener Graphische Werkstätte 1921,
                   125–142 Wunberg: Das junge Wien, 96.23</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es giebt Leute, die einem die gescheitesten Sachen so sagen, daß
+         <note type="incipit">Es giebt Leute, die einem die gescheitesten Sachen so sagen, daß
                   man nichts davon hat. Sie mögen Stunden lang reden, es bleibt stille in
                   uns.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Peter Altenbergs »Wie ich es sehe« wird von Bahr geradezu
+         <note type="summary">Peter Altenbergs »Wie ich es sehe« wird von Bahr geradezu
                   enthusiastisch aufgenommen. Dabei verweist Bahr besonders auf die Bedeutung der
                   Form und des Ausdrucks und gibt einige Beispiele aus dem Text.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11324"/>
                <ptr type="pmb" target="#2147"/>
@@ -72,7 +72,7 @@
                <ptr type="pmb" target="#2412"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

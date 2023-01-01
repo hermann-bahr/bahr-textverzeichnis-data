@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 10. Oktober</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -48,16 +48,16 @@
                <date when="1922-10-29">29.10.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nicht in die Buchausgabe der »Liebe der Lebenden« aufgenommen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Georg Escherich: Die Tragödie des deutschen Mittelstandes. In:
+         <note type="review-of">Georg Escherich: Die Tragödie des deutschen Mittelstandes. In:
                   Preußische Jahrbücher, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich kenne diesen Forstrat Escherich nicht</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Versuch einer Würdigung der Leistung Georg Escherichs führt
+         <note type="incipit">Ich kenne diesen Forstrat Escherich nicht</note>
+         <note type="summary">Der Versuch einer Würdigung der Leistung Georg Escherichs führt
                   Bahr zu der Frage, wem es gelingen könnte, die Arbeiterschaft zum Verzicht auf den
                   Achtstundentag zu überreden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5227"/>
                <ptr type="pmb" target="#3471"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_6352_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -32,10 +32,10 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4025" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">»Unsere Presse«. I</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Gleichheit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -44,7 +44,7 @@
                <date when="1887-08-20">20.8.1887</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Zuschreibung ist über einen Brief Adlers an Bahr (Pasching, 28.8.1887:
                      »Warum wollen Sie die Presse nicht als Seperatabdr. erscheinen lassen? Sie
                      können ja die Sache nochmals durchgehn u. mehr ’österreichisch’ gestalten.
@@ -52,9 +52,9 @@
                      möglich. Darin beklagt sich Adler auch, dass Bahr nicht mehr zeichne, auch
                      nicht mit Kürzel.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Selten hat eine Erscheinung im öffentlichen Leben größere
+         <note type="incipit">Selten hat eine Erscheinung im öffentlichen Leben größere
                   Hoffnungen erregt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Im Artikel wird die Korruption der Presse als gegeben genommen,
+         <note type="summary">Im Artikel wird die Korruption der Presse als gegeben genommen,
                   die aber durch das Aussetzen der Warenproduktion gelöst werden wird.</note>
       </body>
    </text>

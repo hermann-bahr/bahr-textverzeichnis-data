@@ -36,7 +36,7 @@
             subtype="Rezensionssammlung"
             sameAs="pmb31839"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
@@ -46,13 +46,13 @@
             </imprint>
             <extent>509 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Rezensionen: Im Archiv ab dem 4.5.1899. Eugen Kilian in: Literarisches Echo, 2
                      (1900) #11, 758-759. Moritz Necker in: Prager Tagblatt, 19.5.1899, 1-2. Karl
                      Kraus in: Die Fackel, 1 (1899) #2 (April), 30.</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://archive.org/search.php?query=hermann%20bahr%20wiener%20theater</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=53</ref>
+         <ref type="URL">http://archive.org/search.php?query=hermann%20bahr%20wiener%20theater</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=53</ref>
       </body>
    </text>
 </TEI>

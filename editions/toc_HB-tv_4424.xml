@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4424" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Gerhart Hauptmann. Zum fünfzigsten Geburtstag</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neues Tagblatt und General-Anzeiger für Stuttgart und
                      Württemberg</title>
             <imprint>
@@ -46,7 +46,7 @@
                <date when="1912-11-15">15.11.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Fußnote zum Titel: »Zum 50. Geburtstage Hauptmanns bereitet der Verlag S.
                      Fischer in Berlin eine neue, vollständige Ausgabe der Werke des Dichters vor.
                      Im Gegensatz zu der vor annähernd 10 Jahren erschienenen ersten Ausgabe ist
@@ -58,14 +58,14 @@
                      Geschmacksicherheit und Billigkeit unter Gesamtausgaben lebender Dichter
                      ihresgleichen in unserm Buchhandel nicht haben.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">National–Zeitung, Basel, 52 (1912) #251, 2. Blatt, [1].
+         <note type="first-printing">National–Zeitung, Basel, 52 (1912) #251, 2. Blatt, [1].
                   (25.10.1912) Prager Tagblatt, 37 (1912) #295, Morgen–Ausgabe, 1–2. (25.10.1912)
                   Dresdner Neueste Nachrichten, 20 (1912) #310, 1. (14.11.1912) Neues Tagblatt und
                   General–Anzeiger für Stuttgart und Württemberg, 69 (1912) #302, 1. Gekürzt in:
                   Neues Land. Führer in die Zukunft für alle Stände, 1 (1922) #10 (Jänner),
                   224–226.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bilderbuch, 88-93</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einer fragte neulich: Können Sie mir erklären, warum jetzt auf
+         <note type="other-prints">Bilderbuch, 88-93</note>
+         <note type="incipit">Einer fragte neulich: Können Sie mir erklären, warum jetzt auf
                   einmal</note>
       </body>
    </text>

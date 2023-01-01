@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Mahler</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">59–69</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1914) #17806, Morgenblatt, 31–33.
+         <note type="first-printing">Neue Freie Presse, (1914) #17806, Morgenblatt, 31–33.
                   (22.3.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   275-282</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mahler war eben fünfzig geworden, als, drei Jahre nach seiner
+         <note type="incipit">Mahler war eben fünfzig geworden, als, drei Jahre nach seiner
                   Vertreibung aus Wien, unmittelbar vor</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Mit Hugo Wolf vergleicht Bahr Gustav Mahler und sieht in ihm
+         <note type="summary">Mit Hugo Wolf vergleicht Bahr Gustav Mahler und sieht in ihm
                   ebenso wie in Wolf gleichsam eine Inkarnation des Idealtypus vom Musiker.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12163"/>
                <ptr type="pmb" target="#12826"/>
@@ -87,7 +87,7 @@
                <ptr type="HB-tv" target="HB-tv_3356_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

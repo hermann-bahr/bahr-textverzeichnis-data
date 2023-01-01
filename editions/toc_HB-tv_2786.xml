@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Duse</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,18 +49,18 @@
                <biblScope unit="pages">251–257</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7868, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7868, Morgen–Ausgabe,
                   1–2. (21.11.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   310-314</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nebel, Rauch und Lärm, Gewirr rauher Stimmen und der träge,
+         <note type="incipit">Nebel, Rauch und Lärm, Gewirr rauher Stimmen und der träge,
                   zähe, gelbe Dunst des russischen Schmutzes – das ist meine erste Erinnerung an
                   die Duse.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr erinnert sich an die ersten Begegnungen mit und die ersten
+         <note type="summary">Bahr erinnert sich an die ersten Begegnungen mit und die ersten
                   Beschreibungen der Duse und versucht, diese rauschhaften Texte durch ein
                   objektiveres Urteil zu ersetzen, das zuletzt eindeutig kritisch gerät: der Duse
                   fehlten zentrale schauspielerische Fähigkeiten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11201"/>
                <ptr type="pmb" target="#11851"/>
@@ -84,7 +84,7 @@
                <ptr type="HB-tv" target="HB-tv_2135_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

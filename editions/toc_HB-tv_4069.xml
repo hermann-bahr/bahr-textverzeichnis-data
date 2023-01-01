@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Selbstanzeige"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Rahl. Roman von Hermann Bahr</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Blaubuch. Wochenschrift für öffentliches Leben, Literatur und
                      Kunst</title>
             <imprint>
@@ -49,12 +49,12 @@
                <date when="1908-11-19">19.11.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als Verlagsprospekt Königsberger Hartungsche Zeitung,
+         <note type="first-printing">Als Verlagsprospekt Königsberger Hartungsche Zeitung,
                   (1908) #539, Morgenausgabe, Literarische Rundschau. (15.11.1908) Die Gegenwart, 38
                   (1909) #5, 78–79. Der Demokrat, 2 (1910) #32, Beilage, 2. (3.8.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich soll selbst anzeigen, was die Reihe von Romanen will, die
+         <note type="incipit">Ich soll selbst anzeigen, was die Reihe von Romanen will, die
                   mit der »Rahl« beginnt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/blaubuch/1908_rahl.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/blaubuch/1908_rahl.pdf</ref>
       </body>
    </text>
 </TEI>

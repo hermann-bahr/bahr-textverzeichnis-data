@@ -35,11 +35,11 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb31003">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31003">Die Kunst des Kindes</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -48,13 +48,13 @@
                <date when="1901-06-08">8.6.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Kunst im Leben des Kindes« in der Berliner Secession</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Während man hundert Jahre gemeint hat, den Menschen aus dem
+         <note type="review-of">»Kunst im Leben des Kindes« in der Berliner Secession</note>
+         <note type="incipit">Während man hundert Jahre gemeint hat, den Menschen aus dem
                   Verstande zu curiren</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Ausstellungskatalog aus Berlin zieht Bahr heran, um über die
+         <note type="summary">Ein Ausstellungskatalog aus Berlin zieht Bahr heran, um über die
                   ästhetische Bildung zu reflektieren, die die Konzentration auf Bildungswissen
                   erweitern soll.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#5787"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_580_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

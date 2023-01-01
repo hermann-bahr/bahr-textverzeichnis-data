@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1490" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Ferdinand Hodler als deutscher Maler</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Leben Ferdinand Hodlers. Mit fünfunddreißig farbigen Bildern
                      auf 16 Tafeln und drei Beiträgen von H. B., Robert Breuer und Philipp
                      Modrow</title>
@@ -47,12 +47,12 @@
                <biblScope unit="pages">50–51</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>1.–10. Tsd. 11.–17. Tsd. 1922</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hodler fuhr, wenn er müde war oder im Arbeiten ungewiss wurde,
+         <note type="incipit">Hodler fuhr, wenn er müde war oder im Arbeiten ungewiss wurde,
                   gern auf ein paar Tage nach Paris</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_ferdinand-hodler.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_ferdinand-hodler.pdf</ref>
       </body>
    </text>
 </TEI>

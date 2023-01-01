@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">* * *.</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -49,9 +49,9 @@
                <biblScope unit="pages">189–190</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Candida« von George Bernard Shaw, deutsch von Siegfried
+         <note type="review-of">»Candida« von George Bernard Shaw, deutsch von Siegfried
                   Trebitsch</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Diese breite, sinnlich frohe, voll tönende Candida, ein Evchen
+         <note type="incipit">Diese breite, sinnlich frohe, voll tönende Candida, ein Evchen
                   Pogner, das nur ein bißchen Ibsen gelesen hat</note>
       </body>
    </text>

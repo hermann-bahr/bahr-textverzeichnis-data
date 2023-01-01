@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1631" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Denkzettel</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Neue Österreich</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,16 +45,16 @@
                <date when="1918">1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Am Anfang und Ende stark gekürzt als »Vorbarock« in:
+         <note type="other-prints">Am Anfang und Ende stark gekürzt als »Vorbarock« in:
                   Summula, 167–171</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Selbst wohlwollende Menschen, wofern es zurzeit unter uns derlei
+         <note type="incipit">Selbst wohlwollende Menschen, wofern es zurzeit unter uns derlei
                   noch gibt, argwöhnen schon, ich sei verrückt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr fasst selbst zusammen, worum es ihm geht: »Und wenn ich
+         <note type="summary">Bahr fasst selbst zusammen, worum es ihm geht: »Und wenn ich
                   früher an Österreich nur als sein Kind hing, so bin ich seiner jetzt als Europäer,
                   als Mensch, als Katholik gewiß, denn ich sehe keine Menschenart als unsere zur
                   Rettung Europas, der Menschheit des Geistes.« Denn die »nordsüdlichen Westöstler«
                   sind verbindend, wo sich die Nationalstaaten gerade trennen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#16680"/>
                <ptr type="pmb" target="#11043"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_1631_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-oesterreich/1918_denkzettel.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-oesterreich/1918_denkzettel.pdf</ref>
       </body>
    </text>
 </TEI>

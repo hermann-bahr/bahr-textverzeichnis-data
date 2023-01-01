@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">52</biblScope>
@@ -48,15 +48,15 @@
                <date when="1906-05-04">4.5.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahrs letzter Text als Burgtheaterredakteur bei der Österreichischen
                      Volks-Zeitung ist - für ihn selbst überraschend - ein Loblied auf Korff und
                      endet mit einem Untergriff auf Stella Hohenfels.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Minna von Barnhelm« von Gotthold Ephraim Lessing</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Korff hat heuer Glück, einen Erfolg um den anderen reißt er an
+         <note type="review-of">»Minna von Barnhelm« von Gotthold Ephraim Lessing</note>
+         <note type="incipit">Korff hat heuer Glück, einen Erfolg um den anderen reißt er an
                   sich und weiß die schönsten Erwartungen noch zu verblüffen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2249"/>
                <ptr type="pmb" target="#12053"/>

@@ -37,12 +37,12 @@
             subtype="Nachtkritik"
             sameAs="pmb32822"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a" ref="pmb32822">Theater, Kunst und Literatur. Deutsches
                      Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -51,14 +51,14 @@
                <date when="1900-06-06">6.6.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Kraus zitiert daraus in einer Fußnote. (Fackel, 2 (1901) #69, 42.)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Rosmersholm« von Henrik Ibsen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 225</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Rosmersholm«, das die Berliner gestern brachten, haben wir vor
+         <note type="review-of">»Rosmersholm« von Henrik Ibsen</note>
+         <note type="other-prints">Premièren, 225</note>
+         <note type="incipit">»Rosmersholm«, das die Berliner gestern brachten, haben wir vor
                   Jahren</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

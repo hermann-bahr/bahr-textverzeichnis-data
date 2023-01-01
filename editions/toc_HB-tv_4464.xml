@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4464" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Hermann von Kürenberg</author>
             <title level="a">Reisebriefe eines lachenden Philosophen. I. München im August
                      1881</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Nachrichten</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -47,7 +47,7 @@
                <date when="1881-09-04">4.9.1881</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Zuschreibung dieses und der folgenden Reisebriefe sei auf die Anmerkung zu
                      »Eine Kritik der Kritik« verwiesen, was das Pseudonym anbelangt. Bahrs
                      Maturareise, die er mit seinem Vater unternimmt, führte ihn in die Schweiz bis
@@ -56,12 +56,12 @@
                      21. Juli bis 16. August dauern lässt, so datieren die Artikel sie von September
                      bis Oktober.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lieber Freund! Hier bin ich nun glücklich angelangt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In Teil I berichtet in unterhaltendem Ton ein Besucher Münchens
+         <note type="incipit">Lieber Freund! Hier bin ich nun glücklich angelangt</note>
+         <note type="summary">In Teil I berichtet in unterhaltendem Ton ein Besucher Münchens
                   von dem Schönen an der bayrischen Hauptstadt (die Glyptothek) und dem Hässlichen
                   (die Besucher der Glyptothek), den weiblichen Bedienerinnen und dem schlechten,
                   weil zu starken Kaffee.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#18502"/>
                <ptr type="pmb" target="#11209"/>
@@ -76,7 +76,7 @@
                <ptr type="HB-tv" target="HB-tv_4464_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Naturalismus im Frack</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,16 +49,16 @@
                <biblScope unit="pages">57–64</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Nation, 7 (1890) #44, 661–663. (2.8.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das stempelt die neueste Phase der Moderne, welche eben beginnt:
+         <note type="first-printing">Die Nation, 7 (1890) #44, 661–663. (2.8.1890)</note>
+         <note type="incipit">Das stempelt die neueste Phase der Moderne, welche eben beginnt:
                   der Naturalismus hat die Blouse verworfen und läßt sich außer im Frack überhaupt
                   nicht mehr blicken. Die jähe Not des Arbeiters mit der schwülen Hoffnung und dem
                   trotzigen Grimm, der müde und beklommene Fleiß des kleinen Bürgers in engen
                   Sorgen, aus welchen kaum einmal der bange Wunsch, gleich wieder verdrossen, sich
                   regen möchte, und weit draußen, am Ende des Gesetzes, wo die Großstadt verhallt,
                   die giftigen Laster der Verlorenen in Blut und Kot...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11500"/>
                <ptr type="pmb" target="#2925"/>
@@ -74,7 +74,7 @@
                <ptr type="HB-tv" target="HB-tv_1922_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

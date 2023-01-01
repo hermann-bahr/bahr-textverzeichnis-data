@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. Berchtesgaden, 8. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-01-25">25.1.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 33-37</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am Abend vor Silvester war ich zum letztenmal bei Lammasch, acht
+         <note type="other-prints">Kritik der Gegenwart, 33-37</note>
+         <note type="incipit">Am Abend vor Silvester war ich zum letztenmal bei Lammasch, acht
                   Tage vor seinem Tode, und fand ihn da heller, gesprächiger, heiterer als je seit
                   seiner Heimkehr. Vernichtet ging er von Saint- Germain weg, er schien wie mitten
                   entzwei, nur seine Demut hielt ihn im Vertrauen auf Gott noch fest: er verlor den
@@ -168,8 +168,8 @@
                   Zuversicht, mit der sich Bismarck, als in der Schlacht bei Königgrätz der
                   Kronprinz noch immer nicht kam, ruhig seine letzte Zigarre schmecken ließ.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nachruf auf Heinrich Lammasch</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Nachruf auf Heinrich Lammasch</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

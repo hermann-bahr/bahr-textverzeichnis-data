@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_259" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Antisemitismus. Ein internationales Interview. 11. Prinz
                      Heinrich zu Schoenaich-Carolath</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -47,11 +47,11 @@
                <date when="1893-05-07">7.5.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Antisemitismus, 79-85</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Prinz war 18 Jahre alt, als die Deutschen nach Frankreich
+         <note type="other-prints">Der Antisemitismus, 79-85</note>
+         <note type="incipit">Der Prinz war 18 Jahre alt, als die Deutschen nach Frankreich
                   zogen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76712.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76713.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76712.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76713.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6616" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Maurice Donnay. (Zur Première der »Verliebten« von Maurice Donnay
                      im Deutschen Volkstheater am 23. December 1896)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -47,11 +47,11 @@
                <date when="1896-12-19">19.12.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 352-359</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer in den letzten Jahren nach Paris kam, ist im Chat noir
+         <note type="other-prints">Wiener Theater, 352-359</note>
+         <note type="incipit">Wer in den letzten Jahren nach Paris kam, ist im Chat noir
                   gewesen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Würdigung von Donnays Schaffen und Lob des Stücks</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Würdigung von Donnays Schaffen und Lob des Stücks</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11168"/>
                <ptr type="pmb" target="#13313"/>
@@ -75,8 +75,8 @@
                <ptr type="HB-tv" target="HB-tv_1848_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/116-191.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/116-192.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/116-191.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/116-192.pdf</ref>
       </body>
    </text>
 </TEI>

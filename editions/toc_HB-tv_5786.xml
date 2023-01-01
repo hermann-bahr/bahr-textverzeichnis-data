@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">5. Juli [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">II, 162–164</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Gottfried Fittbogen: E. T. A. Hoffmanns Stellung zu den
+         <note type="review-of">Gottfried Fittbogen: E. T. A. Hoffmanns Stellung zu den
                   demokratischen Umtrieben und ihrer Bekämpfung. In: Preussische Jahrbücher, Juli
                   1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Juliheft der Preußischen Jahrbücher ein höchst
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Im Juliheft der Preußischen Jahrbücher ein höchst
                   »aktuell«</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Freiheit der Gesinnung, Tyrannenmord und deutsche
+         <note type="summary">Über die Freiheit der Gesinnung, Tyrannenmord und deutsche
                   Burschenschaften.</note>
       </body>
    </text>

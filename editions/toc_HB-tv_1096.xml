@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Eleonora Duse</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb39950">Wiener Allgemeine Zeitung</title>
             <imprint>
                <biblScope unit="jg">13</biblScope>
@@ -48,7 +48,7 @@
                <date when="1892-02-19">19.2.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am 28. Februar schreibt Bahr seinem Vater (S. 316): »Die Duse hat […] einen
                      ungeheuren Erfolg gehabt […] Die Wiener Allgemeine Zeitung hat bei dieser
                      Gelegenheit mein Feuilleton über die Duse aus der ’Russischen Reise’
@@ -58,8 +58,8 @@
                      Carl-Theater sicherte sich für ein Jahr die Exklusivität bei den Wiener
                      Auftritten. Der nächste Besuch Duses wird für Mai angekündigt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Russische Reise</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Duse gilt den Italienern</note>
+         <note type="other-prints">Russische Reise</note>
+         <note type="incipit">Die Duse gilt den Italienern</note>
       </body>
    </text>
 </TEI>

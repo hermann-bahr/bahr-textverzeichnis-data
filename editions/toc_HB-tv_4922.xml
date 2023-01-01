@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Salzburg, 10. April [1917]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">85–89</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Heinrich Tessenow: Hausbau und Dachgleiche. Berlin: Cassirer
+         <note type="review-of">Heinrich Tessenow: Hausbau und Dachgleiche. Berlin: Cassirer
                   1916. Cennino Cennini: Handbüchlein der Kunst. Neu übersetzt und hg. von Willibald
                   Verkade. Straßburg: Heitz 1916.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da geht nun wieder einmal in Wien ein seliger Mensch um</note>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Da geht nun wieder einmal in Wien ein seliger Mensch um</note>
       </body>
    </text>
 </TEI>

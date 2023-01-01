@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">»Die Kameraden«. (Lustspiel in drei Acten von Ludwig Fulda. Zum
                      ersten Mal aufgeführt den 19. Januar 1895)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,8 +50,8 @@
                <biblScope unit="pages">264–270</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 2 (1895) #17, 58–59. (26.1.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist eine edle Lust, in der Madrider Galerie die Gemälde des
+         <note type="first-printing">Die Zeit, 2 (1895) #17, 58–59. (26.1.1895)</note>
+         <note type="incipit">Es ist eine edle Lust, in der Madrider Galerie die Gemälde des
                   Velasquez zu betrachten.</note>
       </body>
    </text>

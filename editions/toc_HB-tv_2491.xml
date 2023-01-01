@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,10 +48,10 @@
                <date when="1895-02-16">16.2.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Kameraden« von Ludwig Fulda</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit die Sandrock an der Burg ist, gibt Frau Odilon die Thekla
+         <note type="review-of">»Die Kameraden« von Ludwig Fulda</note>
+         <note type="incipit">Seit die Sandrock an der Burg ist, gibt Frau Odilon die Thekla
                   in den »Kameraden«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11391"/>
                <ptr type="pmb" target="#22098"/>
@@ -60,7 +60,7 @@
                <ptr type="pmb" target="#10752"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/20-109.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/20-109.pdf</ref>
       </body>
    </text>
 </TEI>

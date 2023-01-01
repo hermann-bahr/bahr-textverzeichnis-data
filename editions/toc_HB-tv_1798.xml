@@ -32,19 +32,19 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1798" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zusammenleben mit Hugo Wolf</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Almanach 1925. S. Fischer Verlag Berlin</title>
             <imprint>
                <biblScope unit="pages">151–155</biblScope>
                <date when="1924">1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Selbstbildnis</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mein Vater war unter der Hand höflich von meinen Abenteuern
+         <note type="other-prints">Selbstbildnis</note>
+         <note type="incipit">Mein Vater war unter der Hand höflich von meinen Abenteuern
                   verständigt worden</note>
       </body>
    </text>

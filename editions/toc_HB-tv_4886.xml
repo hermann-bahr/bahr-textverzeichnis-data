@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Erziehung. IV</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30035">Inventur</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">108–116</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Beim bloßen Anblick eines Gymnasiums, ja schon bei diesem Wort
+         <note type="incipit">Beim bloßen Anblick eines Gymnasiums, ja schon bei diesem Wort
                   muß ich heute noch in Wut geraten, die dann aber freilich immer gleich durch eine
                   ganz andere Erinnerung überzogen, besänftigt, ja verdrängt wird.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr klagt über seine »schrecklichste« Zeit im Gymnasium, trennt
+         <note type="summary">Bahr klagt über seine »schrecklichste« Zeit im Gymnasium, trennt
                   jedoch die Institution von der Person des Lehrers: dieser könne auch in einem
                   bedenklichen Rahmen gut wirken.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9023"/>
                <ptr type="pmb" target="#9546"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_4886_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1111" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Reise in Deutschland</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -45,12 +45,12 @@
                <date when="1908-12-25">25.12.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 258-263 Bahr/Kvapil, 483-487</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich war jetzt drei Wochen in Deutschland</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr spricht darüber, wie seine Vorträge ablaufen, über die
+         <note type="other-prints">Tagebuch (1909), 258-263 Bahr/Kvapil, 483-487</note>
+         <note type="incipit">Ich war jetzt drei Wochen in Deutschland</note>
+         <note type="summary">Bahr spricht darüber, wie seine Vorträge ablaufen, über die
                   Reaktionen der Deutschen zum Interview mit Wilhelm II. im Daily Telegraph vom 29.
                   Oktober und über den Neid der Provinz auf Berlin.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10639"/>
                <ptr type="pmb" target="#11260"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_1111_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1908_reise.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1908_reise.pdf</ref>
       </body>
    </text>
 </TEI>

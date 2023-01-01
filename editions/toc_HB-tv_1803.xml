@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die besten Autoren über die besten Bücher des Jahres</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Tage-Buch</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -48,10 +48,10 @@
                <date when="1928-12-08">8.12.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Roman kommt immer mehr aus der Mode, er ist selber daran
+         <note type="incipit">Der Roman kommt immer mehr aus der Mode, er ist selber daran
                   schuld, denn er verlor allmählich immer mehr an Sustanz, und so verdrängt ihn
                   jetzt aus der Gunst des Lesers ein neues Genre, das noch keinen Namen hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13112"/>
                <ptr type="pmb" target="#8864"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_1803_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1928-49_die-besten-autoren.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1928-49_die-besten-autoren.pdf</ref>
       </body>
    </text>
 </TEI>

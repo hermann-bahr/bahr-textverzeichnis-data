@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3745" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die kastilianische Skulptur. (Schluß)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Frankfurter Zeitung</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,9 +45,9 @@
                <date when="1891-01-11">11.1.1891</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Kunstwart, 3 (1889), 42–44</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Die Überwindung des Naturalismus, 302-317</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich weiß nicht, ob es solchen beiläufigen, brüchigen und
+         <note type="first-printing">Kunstwart, 3 (1889), 42–44</note>
+         <note type="other-prints">Die Überwindung des Naturalismus, 302-317</note>
+         <note type="incipit">Ich weiß nicht, ob es solchen beiläufigen, brüchigen und
                   zerrissenen Andeutungen, die von jenem Leben</note>
       </body>
    </text>

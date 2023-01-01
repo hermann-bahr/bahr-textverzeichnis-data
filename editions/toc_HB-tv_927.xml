@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_927" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Eckermann</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">79</biblScope>
@@ -45,16 +45,16 @@
                <date when="1926-02-18">18.2.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Julius Petersen: Die Entstehung der Eckermannschen Gespräche
+         <note type="review-of">Julius Petersen: Die Entstehung der Eckermannschen Gespräche
                   und ihre Glaubwürdigkeit. Frankfurt/Main: Diesterweg 1925.. H. H. Houben: J. P.
                   Eckermann. Sein Leben für Goethe. Nach seinen neu aufgefundenen Tagebüchern und
                   Briefen dargestellt. Leipzig: H. Haessel 1925. Gespräche mit Heine. Hg. H. G.
                   Houben. Frankfurt/Main: Rütten &amp; Loening 1926.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Das beste deutsche Buch, das es gibt«, hat Nietzsche Eckermanns
+         <note type="incipit">»Das beste deutsche Buch, das es gibt«, hat Nietzsche Eckermanns
                   Gespräche mit Goethe genannt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr würdigt Eckermann, der Goethes Gespräche erst in Form goß
+         <note type="summary">Bahr würdigt Eckermann, der Goethes Gespräche erst in Form goß
                   und berichtet von neuerer Forschung zu Eckermann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11220"/>
                <ptr type="pmb" target="#11461"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">50</biblScope>
@@ -48,16 +48,16 @@
                <date when="1904-11-13">13.11.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der »2 Kreuzer-Ausgabe« ist der Satz »über den ich im Feuilleton gründlicher
                      ärgere« gestrichen, ohne dass das restliche Satzbild verändert werden
                      musste.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Maskerade« von Ludwig Fulda</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Fuldas »Maskerade«, dieser angesauerte Benedix, über den ich
+         <note type="review-of">»Maskerade« von Ludwig Fulda</note>
+         <note type="incipit">Fuldas »Maskerade«, dieser angesauerte Benedix, über den ich
                   mich im Feuilleton gründlicher ärgere, schien den Leuten gestern zu gefallen,
                   anfangs sogar sehr.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11391"/>
                <ptr type="pmb" target="#14637"/>

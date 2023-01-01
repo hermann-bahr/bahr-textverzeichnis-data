@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3685" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Gewissen und Kirche</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Reichspost</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -45,15 +45,15 @@
                <date when="1923-06-30">30.6.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Belehre Dein Herz, aber lerne nichts von ihm!« steht in
+         <note type="incipit">»Belehre Dein Herz, aber lerne nichts von ihm!« steht in
                   Tolstois Tagebuch als Ergebnis seiner buddhistischen Lektüre.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12358"/>
                <ptr type="HB-tv" target="HB-tv_115_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1923-6-30_gewissen-und-kirche.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1923-6-30_gewissen-und-kirche.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_587" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Polyphem ein Gorilla</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,14 +45,14 @@
                <date when="1901-08-08">8.8.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Bauke, Leopold: Polyphem ein Gorilla. Eine
+         <note type="review-of">Bauke, Leopold: Polyphem ein Gorilla. Eine
                   naturwissenschaftliche und staatsrechtliche Untersuchung von Homers Odyssee, Buch
                   IX., V. 105 ff. von Theodor Zell. Berlin: W. Junk 1901.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Buch, welches durch seinen Titel reizt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In seiner Buchbesprechung spricht sich Bahr gegen die Unsitte
+         <note type="incipit">Ein Buch, welches durch seinen Titel reizt</note>
+         <note type="summary">In seiner Buchbesprechung spricht sich Bahr gegen die Unsitte
                   aus, Dichter leichtfertig allegorisch zu lesen und fordert eine Klarheit bei der
                   Lektüre, die den Genuß eines Verses erst wieder möglich mache.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13840"/>
                <ptr type="pmb" target="#2495"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_4701_p8"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

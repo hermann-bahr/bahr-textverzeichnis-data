@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">22. April [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">136–139</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Walther Rathenau: Der Kaiser. Eine Betrachtung. Berlin: S.
+         <note type="review-of">Walther Rathenau: Der Kaiser. Eine Betrachtung. Berlin: S.
                   Fischer 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Walter Rathenau, Dichter von Geburt, doch in einem mehrfachen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Walter Rathenau, Dichter von Geburt, doch in einem mehrfachen
                   Verwaltungsrat stecken geblieben</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12471"/>
                <ptr type="pmb" target="#2566"/>

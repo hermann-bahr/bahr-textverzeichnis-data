@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">25. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">189–190</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich gelte für sehr gutmütig und man wundert sich, wie wenig ich
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ich gelte für sehr gutmütig und man wundert sich, wie wenig ich
                   Kränkungen empfinde, wie leicht ich sie nehme, wie rasch ich sie vergesse. Das ist
                   aber ein Mißverständnis. Mein Verhältnis zum Nächsten wird leider nicht durch
                   Güte, Wohlwollen und Nachsicht bestimmt, sondern ich bin nur, nach meiner Kenntnis
@@ -72,7 +72,7 @@
                   Leonhard Frank hätte recht und der Mensch wäre, wenn auch gefallen, im Grunde doch
                   gut? Aber warum ist dann der gute Mensch so feig und schweigt? Warum steht keiner
                   auf und gibt allen das Zeichen zum Guten? |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr misstraut den Menschen zutiefst, ist aber umso gerühter,
+         <note type="summary">Bahr misstraut den Menschen zutiefst, ist aber umso gerühter,
                   wenn dann einer doch etwas Gutes tut. Nur, warum die Guten sich zur Zeit kein
                   Gehör verschaffen, will er nicht recht begreifen.</note>
       </body>

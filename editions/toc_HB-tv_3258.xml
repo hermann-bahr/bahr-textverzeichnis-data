@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Traumulus. (Tragische Komödie von Arno Holz und Oskar Jerschke.
                      Zum ersten Mal aufgeführt im Burgtheater am 11. Februar 1905)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -51,11 +51,11 @@
                <biblScope unit="pages">65–71</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 51 (1905) #43, 5.
+         <note type="first-printing">Österreichische Volks–Zeitung, 51 (1905) #43, 5.
                   (12.2.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   94-97</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Traumulus wird der Direktor des königlichen Gymnasiums, Herr
+         <note type="incipit">Traumulus wird der Direktor des königlichen Gymnasiums, Herr
                   Professor Dr. Niemeyer, von seinen Schülern [… es folgt eine ausführliche
                   Würdigung des Stoffes] Mich ergreift es sehr, wie durch dieses ganze Stück der
                   trostloste Gedanke zieht, daß doch kein Mensch den andern kennt, aber eigentlich

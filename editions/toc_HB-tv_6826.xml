@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Meldung"
             sameAs="pmb31803">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">[O.V.]</author>
             <title level="a" ref="pmb31803">Theater, Kunst und Literatur. Deutsches
                      Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -50,19 +50,19 @@
                <date when="1900-05-20">20.5.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Autorschaft wird Bahr von Karl Kraus in der Fackel, Jg. 2 (1900) H. 44, S.
                      23 zugeschrieben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Probekandidat« von Max Dreyer</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man spricht in Wien darüber, daß die Direction des Deutschen
+         <note type="review-of">»Der Probekandidat« von Max Dreyer</note>
+         <note type="incipit">Man spricht in Wien darüber, daß die Direction des Deutschen
                   Volkstheaters den »Probecandidaten«, der jetzt von den Berlinern</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11175"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19000520&amp;seite=8&amp;zoom=33&amp;query=%22probecandidaten%22&amp;provider=P03&amp;ref=anno-search</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19000520&amp;seite=8&amp;zoom=33&amp;query=%22probecandidaten%22&amp;provider=P03&amp;ref=anno-search</ref>
       </body>
    </text>
 </TEI>

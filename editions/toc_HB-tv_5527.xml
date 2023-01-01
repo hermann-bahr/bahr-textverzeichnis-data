@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">12. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">110–112</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hermann Hefele: Das Gesetz der Form. Briefe an Tote. Jena:
+         <note type="review-of">Hermann Hefele: Das Gesetz der Form. Briefe an Tote. Jena:
                   Diederichs 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Stephan Großmanns regsamer Wochenschrift »Das Tagebuch« (Heft
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In Stephan Großmanns regsamer Wochenschrift »Das Tagebuch« (Heft
                   11 und 12 vom 31. März; Ernst Rohwolt Verlag, Berlin) stimmt Keyserlings in
                   Darmstadt geplanter »Schule für Weisheit«, meiner letzten deutschen Hoffnung, nun
                   auch Thomas Mann herzhaft zu. Vor allem ist es die Prophezeiung des Balten, daß
@@ -115,7 +115,7 @@
                   deutschen Jünglingen wacht, und ihrer sind zehntausende!, mag man getrost die
                   Banditen der offiziellen deutschen Politik ungestört schieben lassen, bis sie der
                   Morgenwind verwehen wird. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Zustimmung Thomas Manns zu Keyserlings »Schule der Weisheit«
+         <note type="summary">Die Zustimmung Thomas Manns zu Keyserlings »Schule der Weisheit«
                   begrüßt Bahr, findet aber, dass mehr die Synthese von Synthese von Seele und Geist
                   betont werden müsse - wie im Barock.</note>
       </body>

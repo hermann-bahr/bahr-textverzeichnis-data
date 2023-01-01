@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">39</biblScope>
@@ -48,9 +48,9 @@
                <date when="1905-05-25">25.5.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Divorçons (Cyprienne) von Émile de Najac und Victorien
+         <note type="review-of">Divorçons (Cyprienne) von Émile de Najac und Victorien
                   Sardou</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Cyprienne« mit Fräulein Marietta Olly vom Berliner Deutschen
+         <note type="incipit">»Cyprienne« mit Fräulein Marietta Olly vom Berliner Deutschen
                   Theater. Sehr hübsch gewachsen, wie eine Weide biegsam. Sitzt sehr hübsch. Spielt
                   sehr hübsch mit dem Lorgnon. Zupft sehr hübsch an den Perlen. Zeigt sehr hübsch
                   die Zähne. Rafft sehr hübsch das Kleid. Rümpft sehr hübsch ein ungebärdiges
@@ -58,7 +58,7 @@
                   Odilon, besonders in den Kleidern. Manches auch von der Petri, besonders in der
                   Mundstellung. Ungefähr ein Fräulein Krenn, dem aber der dazu gehörige Jarno leider
                   zu fehlen scheint. Übrigens wird sie ja noch Sans-Gêne spielen. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#22156"/>
                <ptr type="pmb" target="#21778"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_2545_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

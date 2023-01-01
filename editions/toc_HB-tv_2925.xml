@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Leander</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die schöne Frau</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">31–143</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Leander. Hg. Konrad Paul. Berlin: Aufbau 1986</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">I. Der Stationschef wurde ungeduldig. »Bedaure sehr – aber ich
+         <note type="other-prints">Leander. Hg. Konrad Paul. Berlin: Aufbau 1986</note>
+         <note type="incipit">I. Der Stationschef wurde ungeduldig. »Bedaure sehr – aber ich
                   kann Ihnen eben nicht helfen,« sagte er, noch höflich, doch nervös, und sah nach
                   der Uhr.</note>
       </body>

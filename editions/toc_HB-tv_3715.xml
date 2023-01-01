@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck_Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Fürstin. [II]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">23325, Morgenblatt</biblScope>
@@ -47,13 +47,13 @@
                <date when="1929-08-22">22.8.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Ein Kapitel aus dem Roman »Österreich in Ewigkeit«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Österreich in Ewigkeit</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Fürstin hatte sich kaum noch in der Solitude halbwegs
+         <note type="other-prints">Österreich in Ewigkeit</note>
+         <note type="incipit">Die Fürstin hatte sich kaum noch in der Solitude halbwegs
                   eingewöhnt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1929-8-22_die-fuerstin-ii.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1929-8-22_die-fuerstin-ii.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -48,16 +48,16 @@
                <date when="1901-01-18">18.1.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben einem (zweifelhaften) Lob Ferdinand Bonns kommentiert Bahr auch die Art,
                      wie Vally von Brenneis für Helene Odilon in seinem Stück »WIenerinnen«
                      einspringt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der G’wissenswurm« von Ludwig Anzengruber und »Wienerinnen«
+         <note type="review-of">»Der G’wissenswurm« von Ludwig Anzengruber und »Wienerinnen«
                   von Hermann Bahr</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zum Besten des Deutschen Schulvereins »Der G’wissenswurm«, mit
+         <note type="incipit">Zum Besten des Deutschen Schulvereins »Der G’wissenswurm«, mit
                   Bonn als Dusterer.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10980"/>
                <ptr type="pmb" target="#10772"/>
@@ -65,7 +65,7 @@
                <ptr type="pmb" target="#14519"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

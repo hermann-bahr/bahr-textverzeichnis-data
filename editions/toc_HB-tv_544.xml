@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_544" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Schlierseer. (Zum Gastspiel im Deutschen
                      Volkstheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -47,11 +47,11 @@
                <date when="1900-06-09">9.6.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man München verlässt um gegen Holzkirchen zu fahren</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Lobeshymne auf die Probenarbeit Conrad Drehers fasst er
+         <note type="incipit">Wenn man München verlässt um gegen Holzkirchen zu fahren</note>
+         <note type="summary">Bahrs Lobeshymne auf die Probenarbeit Conrad Drehers fasst er
                   selbst zusammen als: »[Die Laienschauspieler] sind Kunst geworden und Natur
                   geblieben.«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2495"/>
                <ptr type="pmb" target="#3904"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_544_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

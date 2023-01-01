@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,12 +48,12 @@
                <date when="1901-03-30">30.3.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Faust« von Johann Wolfgang Goethe und »Der Probepfeil« von
+         <note type="review-of">»Faust« von Johann Wolfgang Goethe und »Der Probepfeil« von
                   Oscar Blumenthal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Gregori, vom Berliner Schillertheater, schon aus dem
+         <note type="incipit">Herr Gregori, vom Berliner Schillertheater, schon aus dem
                   Gastspiele der Sezessionsbühne in der Josefstadt bekannt, hat vorgestern den
                   Faust, gestern im »Probepfeil« den Krasinksi gespielt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#7528"/>
                <ptr type="pmb" target="#11461"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 25. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-08-15">15.8.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 189–190</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich gelte für sehr gutmütig und man wundert sich, wie wenig ich
+         <note type="other-prints">Kritik der Gegenwart, 189–190</note>
+         <note type="incipit">Ich gelte für sehr gutmütig und man wundert sich, wie wenig ich
                   Kränkungen empfinde, wie leicht ich sie nehme, wie rasch ich sie vergesse. Das ist
                   aber ein Mißverständnis. Mein Verhältnis zum Nächsten wird leider nicht durch
                   Güte, Wohlwollen und Nachsicht bestimmt, sondern ich bin nur, nach meiner Kenntnis
@@ -72,10 +72,10 @@
                   Leonhard Frank hätte recht und der Mensch wäre, wenn auch gefallen, im Grunde doch
                   gut? Aber warum ist dann der gute Mensch so feig und schweigt? Warum steht keiner
                   auf und gibt allen das Zeichen zum Guten? |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr misstraut den Menschen zutiefst, ist aber umso gerühter,
+         <note type="summary">Bahr misstraut den Menschen zutiefst, ist aber umso gerühter,
                   wenn dann einer doch etwas Gutes tut. Nur, warum die Guten sich zur Zeit kein
                   Gehör verschaffen, will er nicht recht begreifen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

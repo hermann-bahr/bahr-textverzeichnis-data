@@ -37,7 +37,7 @@
             type="Book"
             subtype="Schwedisch_Auszug"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Individualism och Socialism. En framställning af den socialistika
                      verldsåskådningen i hennes förhallånde till den bestående. Bemindigad svensk
@@ -49,11 +49,11 @@
             </imprint>
             <extent>31 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am 4.7.1886 fragt Bahr seinen Vater brieflich an, ob dieser diese »Broschüre«
                      schon erhalten habe</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Die Einsichtslosigkeit des Herrn Schäffle. Zürich:
+         <note type="other-prints">Die Einsichtslosigkeit des Herrn Schäffle. Zürich:
                   Schabelitz 1885</note>
       </body>
    </text>

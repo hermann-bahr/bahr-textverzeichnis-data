@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb31487"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31487">Kulturgeschichte</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb31487">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">84</biblScope>
@@ -48,14 +48,14 @@
                <date when="1931-12-17">17.12.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Kulturgeschichte der Neuzeit« von Egon Friedell, 3.
+         <note type="review-of">»Kulturgeschichte der Neuzeit« von Egon Friedell, 3.
                   Band</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das bloße Wort schon hat einen abschreckenden Klang, es klingt
+         <note type="incipit">Das bloße Wort schon hat einen abschreckenden Klang, es klingt
                   nach öder Stubengelehrsamkeit</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Besprechung des dritten Bandes der »Kulturgeschichte« von
+         <note type="summary">Bahrs Besprechung des dritten Bandes der »Kulturgeschichte« von
                   Egon Friedell beschränkt sich darauf, Friedells Positionen zu verschiedenen
                   Dichtern zu beurteilen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2771"/>
                <ptr type="pmb" target="#11518"/>

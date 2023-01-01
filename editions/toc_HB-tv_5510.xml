@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. Februar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">58–60</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In einem der jetzt an der Universität Berlin vom Ministerium für
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In einem der jetzt an der Universität Berlin vom Ministerium für
                   geistliche Angelegenheiten eingerichteten Kurse für staatswissenschaftliche
                   Fortbildung sprach jüngst Graf Hermann Keyserling über »Erscheinungswelt und
                   Geistesmacht«. Eigentlich müßte dieser Vortrag, der dann in der »Kreuzzeitung«
@@ -94,7 +94,7 @@
                   uns dazu. Finden wir den Kontakt mit dem tiefsten Lebensquell. Und wir werden
                   entdecken, daß eben die Welt, die uns jüngst noch übermächtig in Bande schlug, in
                   stiller Verwandlung zu unserem Werkzeug wird.« |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Vortrag Hermann Keyserlings über die Erkenntnis als
+         <note type="summary">Ein Vortrag Hermann Keyserlings über die Erkenntnis als
                   eigentliche Grundlage für Handeln verbindet Bahr mit seinem eigenen
                   Werdegang.</note>
       </body>

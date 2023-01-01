@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. Zweites Gastspiel. 4. Am 17. April 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">184</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»The Taming of the Shrew (Der Widerspenstigen Zähmung)« von
+         <note type="review-of">»The Taming of the Shrew (Der Widerspenstigen Zähmung)« von
                   William Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #104, 8.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #104, 8.
                   (17.4.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von allen Rollen des Novelli, die wir noch in Wien gesehen
+         <note type="incipit">Von allen Rollen des Novelli, die wir noch in Wien gesehen
                   haben, bleibt mir sein Petrucchio die liebste.</note>
       </body>
    </text>

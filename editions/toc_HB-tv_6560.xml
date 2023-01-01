@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 17. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -48,13 +48,13 @@
                <date when="1926-02-07">7.2.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Zauberstab, 302-303</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der milde Bischof meiner Vaterstadt Dr. Johannes Maria Gföllner
+         <note type="other-prints">Der Zauberstab, 302-303</note>
+         <note type="incipit">Der milde Bischof meiner Vaterstadt Dr. Johannes Maria Gföllner
                   wird öffentlich geschmäht, weil er Dispensehen nicht anerkennen will.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr verteidigt das Recht der Kirche auf Ausschluss aufgrund von
+         <note type="summary">Bahr verteidigt das Recht der Kirche auf Ausschluss aufgrund von
                   Eheverfehlungen mit dem Hinweis darauf, jeder Verein behalte sich den Ausschluss
                   derjenigen Mitglieder vor, die gegen seine Statuten verstoßen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

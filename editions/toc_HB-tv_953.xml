@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_953" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein Experiment</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb39950">Wiener Allgemeine Zeitung</title>
             <imprint>
                <biblScope unit="jg">13</biblScope>
@@ -45,7 +45,7 @@
                <date when="1892-04-08">8.4.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Unterschrieben mit »Purkersdorf bei Wien, den 5. April.« Editorische Fußnote
                      zum Titel: »Wir erhalten über den literarischen Zwecke der von uns bereits
                      angekündigten Maeterlinck-Vorstellung im Rudolphsheimer Theater von Seiten des
@@ -56,9 +56,9 @@
                      Zukunft der Literatur wesentlich anderer Meinung sind als der geschätzte Herr
                      Verfasser. Die Red.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Laien nehmen gern alle Triebe der neuen Kunst zusammen und
+         <note type="incipit">Die Laien nehmen gern alle Triebe der neuen Kunst zusammen und
                   was nicht epigonisch ist</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-allgemeine-zeitung/1892_experiment.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-allgemeine-zeitung/1892_experiment.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Mein Engländer</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Caph. (Mit einer Zeichnung von Ferry Bératon)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">172–186</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7531, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7531, Morgen–Ausgabe,
                   1–2. (15.12.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Leander. Hg. Konrad Paul. Berlin: Aufbau 1986</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich möchte jetzt englisch lernen. Von den neuen Dichtern dort
+         <note type="other-prints">Leander. Hg. Konrad Paul. Berlin: Aufbau 1986</note>
+         <note type="incipit">Ich möchte jetzt englisch lernen. Von den neuen Dichtern dort
                   erzählt man ganz merkwürdige Sachen.</note>
       </body>
    </text>

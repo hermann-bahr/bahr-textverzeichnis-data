@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_585" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kapeloi</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,11 +45,11 @@
                <date when="1901-07-24">24.7.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kapeloi wurden von den Griechen die Sophisten genannt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Ehrfurcht vor dem künstlerischen Einfall und die
+         <note type="incipit">Kapeloi wurden von den Griechen die Sophisten genannt.</note>
+         <note type="summary">Über die Ehrfurcht vor dem künstlerischen Einfall und die
                   Verachtung für jene, die daraus ein Handwerk machen: Künstler und Wissenschaftler,
                   die die Eingebung für Termindruck tauschen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#10866"/>
@@ -59,7 +59,7 @@
                <ptr type="HB-tv" target="HB-tv_585_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

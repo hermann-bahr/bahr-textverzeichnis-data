@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_426" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Damals</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">12</biblScope>
@@ -45,18 +45,18 @@
                <date when="1897-07-31">31.7.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr liest seinen ersten Roman wieder und stellt fest, er habe mittlerweile die
                      Wörter besser schätzen gelernt, weshalb sich das Buch auch in einem Viertel der
                      Seiten hätte ausdrücken lassen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die gute Schule« von Hermann Bahr</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Leicht verändert als Vorwort zur zweiten Auflage in: Die
+         <note type="review-of">»Die gute Schule« von Hermann Bahr</note>
+         <note type="other-prints">Leicht verändert als Vorwort zur zweiten Auflage in: Die
                   gute Schule, 1898 Wunberg: Das junge Wien, 97.45</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dieser Tage habe ich ein altes Buch von mir gelesen: »Die gute
+         <note type="incipit">Dieser Tage habe ich ein altes Buch von mir gelesen: »Die gute
                   Schule«, meinen ersten Roman.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-12/148-76.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-12/148-77.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-12/148-76.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-12/148-77.pdf</ref>
       </body>
    </text>
 </TEI>

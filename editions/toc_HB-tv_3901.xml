@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Erich Hermann</author>
             <author ref="#28883">Beurle, Karl</author>
             <author ref="#11308">Fellner, Richard</author>
@@ -44,7 +44,7 @@
             <author ref="#118949">Jaensch, Theodor</author>
             <title level="a">Erklärung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Unverfälschte deutsche Worte</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -53,7 +53,7 @@
                <date when="1885-02-01">1.2.1885</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr an seinen Vater, 9. Februar 1885: »Die Kyffhäuserzeitung hat eigentlich
                      garnichts verbrochen. Sie hat nur nicht gehalten, was wir uns von ihr
                      versprachen. Heine konnte aus persönlichen Gründen die Redaktion nicht weiter
@@ -63,13 +63,13 @@
                      abzulehnen. Seit wann liest Du übrigens die ’Unverfälschten Deutschen
                      Worte’?«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir erklären hierdurch, daß wir der in Berlin erscheinenden, von
+         <note type="incipit">Wir erklären hierdurch, daß wir der in Berlin erscheinenden, von
                   Freiherrn von Henneberg herausgegebenen »Kyffhäuser-Zeitung« seit Beginn des
                   laufenden Semesters unsere schriftstellerische Unterstützung völlig entzogen
                   haben. Erich Hermann Bahr (Berlin). Dr. Karl Beurle (Linz). Richard Fellner
                   (Graz). Wilhelm Heine (Berlin). Wolfgang Heine (Berlin). Dr. Theodor Jaensch
                   (Meran, Obermais). |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28883"/>
                <ptr type="pmb" target="#11308"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_3901_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/unverfaelschte-deutsche-worte/1885_erklaerung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/unverfaelschte-deutsche-worte/1885_erklaerung.pdf</ref>
       </body>
    </text>
 </TEI>

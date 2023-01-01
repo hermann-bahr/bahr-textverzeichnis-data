@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. März [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,7 +48,7 @@
                <biblScope unit="pages">90–98</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Otto Hoetzsch: Tschecho-Slowakei und Polen, Neue Rundschau,
+         <note type="review-of">Otto Hoetzsch: Tschecho-Slowakei und Polen, Neue Rundschau,
                   März 1920 Hermann Hesse: Die Brüder Karamasow oder der Untergang Europas, Neue
                   Rundschau, März 1920 Otto Hoetzsch: Russland. Eine Einführung auf Grund seiner
                   Geschichte vom Japanischen bis zum Weltkrieg. 2. vollst. umgearbeitete Aufl.
@@ -56,8 +56,8 @@
                   geistigen Strömungen in Russland. Jena: Diederichs 1913. Rudolf Pannwitz: Der
                   Geist der Tschechen. Wien: Der Friede 1919. Leo Seifert in: Der Strahl, Verlag
                   Bund der geistig Tätigen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Märzheft der »Neuen Rundschau« ein bemerkenswerter Aufsatz
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Im Märzheft der »Neuen Rundschau« ein bemerkenswerter Aufsatz
                   von Otto Hoetzsch über »Tschecho-Slowakei und Polen«. Hoetzsch hat schon vor dem
                   Krieg, als es noch unter Deutschen guter Ton war, von Slawen nichts wissen zu
                   wollen, Interesse für ihre Probleme gezeigt, er kennt sie nicht bloß, sondern
@@ -278,7 +278,7 @@
                   in jedem Sinne katholisches Barock, ein Barock, das ins erste nun auch noch Walt
                   Whitman mit Dostojewski hineinzunehmen die weltumspannende Seelenkraft hätte!
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine Beschäftigung mit neuerer Literatur über Osteuropa führt
+         <note type="summary">Eine Beschäftigung mit neuerer Literatur über Osteuropa führt
                   Bahr zu der Frage, ob der Mensch bei Dostojewskij mit Nietzsche gedacht werden
                   muss, oder bereits die Überwindung Nietzsches formuliert und so eine Vorlage für
                   den zukünftigen Europäer bilden kann.</note>

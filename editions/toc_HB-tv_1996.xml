@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater in der Josefstadt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -48,7 +48,7 @@
                <date when="1903-12-19">19.12.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Kraus zitiert ausführlich in der Fackel, 5 (1903) #150, 32: »Habitué. Herr Bahr
                      macht für eine Novität des Josephstädter Theaters in folgender Art Reklame. Den
                      Inhalt erklärt er nicht erzählen zu können. ’Gräßlich, sagen wir ’amtlich‘ …
@@ -60,11 +60,11 @@
                      Sie und Sie werden sich schrecklich schämen und, Sie wissen doch, das ist so
                      süß, so süß …’ Herzig, nicht wahr?«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die dreihundert Tage« von Paul Gavault und Robert Charvey,
+         <note type="review-of">»Die dreihundert Tage« von Paul Gavault und Robert Charvey,
                   deutsch von Alfred Halm</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jarno ist jetzt wirklich der einzige Direktor, der unser
+         <note type="incipit">Jarno ist jetzt wirklich der einzige Direktor, der unser
                   Publikum zu führen weiß</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2601"/>
                <ptr type="pmb" target="#3536"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_1996_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

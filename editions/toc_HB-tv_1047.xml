@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Krise der Intellektuellen?. (Eine Weihnachts-Rundfrage der
                      »Wahrheit«)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Wahrheit. Unabhängiges Organ für öffentliche Fragen,
                      Prag</title>
             <imprint>
@@ -51,13 +51,13 @@
                <date when="1931-12-20">20.12.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben Bahr antworten, zumeist ausführlicher: Alfred Fuchs, Manfred Georg, Kurt
                      Hiller, Theodor Lessing, Heinrich Mann, Jan Masaryk, Walter von Molo, Friedrich
                      Nelböck, Rudolf Pannwitz, Richard Rosenheim, Freiherr von Schönaich, Johannes
                      Urzidil, Hermann Wendel und Ludwig Winder.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Schwache Zeiten ängstigen sich vor den ihnen aufgebürdeten
+         <note type="incipit">Schwache Zeiten ängstigen sich vor den ihnen aufgebürdeten
                   Pflichten und weil ihre Kraft nicht ausreicht, meinen sie gleich, daß die Welt
                   untergeht. Sie geht doch auch Tag um Tag unter, aber sie geht auch Tag um Tag
                   wieder auf. Der Mann der Tat fragt erst gar nicht, ob ihm die Zeit hilft oder sich

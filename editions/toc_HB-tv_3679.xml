@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb32618"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32618">Die Chromatische</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20641, Morgenblatt</biblScope>
@@ -47,12 +47,12 @@
                <date when="1922-02-14">14.2.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 54 (1922) #77, Morgen–Ausgabe,
+         <note type="first-printing">Berliner Börsen–Courier, 54 (1922) #77, Morgen–Ausgabe,
                   5. (15.2.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Chromatisch« in: Sendung des Künstlers, 16-22</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Achtzehn Jahre wird’s, daß ich zum erstenmal nach Athen fuhr,
+         <note type="other-prints">Als »Chromatisch« in: Sendung des Künstlers, 16-22</note>
+         <note type="incipit">Achtzehn Jahre wird’s, daß ich zum erstenmal nach Athen fuhr,
                   dem Frühling entgegen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-2-14_die-chromatische.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-2-14_die-chromatische.pdf</ref>
       </body>
    </text>
 </TEI>

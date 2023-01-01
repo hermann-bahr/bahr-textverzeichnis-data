@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_777" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Klimt. Achzehnte Ausstellung der Vereinigung bildender Künstler
                      Österreichs. Sezession</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -47,12 +47,12 @@
                <date when="1903-11-25">25.11.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Welche Wendung! März 1898. Erste Ausstellung der
+         <note type="incipit">Welche Wendung! März 1898. Erste Ausstellung der
                   Sezession.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist verwundert, dass das Wiener Publikum nunmehr Klimt
+         <note type="summary">Bahr ist verwundert, dass das Wiener Publikum nunmehr Klimt
                   annimmt und versucht, ihn zu begreifen, nachdem es noch vor wenigen Jahren nichts
                   mit ihm anfangen konnte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
                <ptr type="pmb" target="#28732"/>

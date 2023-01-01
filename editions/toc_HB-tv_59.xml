@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_59" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Barock</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">81</biblScope>
@@ -45,10 +45,10 @@
                <date when="1928-07-18">18.7.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Barock und Richard Wagner« in: Schönere Zukunft, 3
+         <note type="first-printing">Als »Barock und Richard Wagner« in: Schönere Zukunft, 3
                   (1928) #50, 1079–1080. (9.9.1928)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 7–14</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Wort Barock, angeblich portugiesischer Herkunft, soll
+         <note type="other-prints">Labyrinth der Gegenwart, 7–14</note>
+         <note type="incipit">Das Wort Barock, angeblich portugiesischer Herkunft, soll
                   zunächst rohe Perlen</note>
       </body>
    </text>

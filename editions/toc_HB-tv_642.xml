@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_642" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Johannes. (Tragödie in fünf Acten und einem Vorspiel von Hermann
                      Sudermann. Zum ersten Male aufgeführt im Kaiserjubiläums-Stadttheater am 6.
                      December 1902)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -49,14 +49,14 @@
                <date when="1902-12-07">7.12.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nicht im eigentlichen Sinne eine neue Besprechung, handelt es sich um eine
                      Überarbeitung einer bereits in der Zeit (14 (1898) #172, 44) unter dem gleichen
                      Titel erschienenen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 464-473</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im fünfzehnten Jahre des Kaiserthums Kaisers Tiberii</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <note type="other-prints">Rezensionen, 464-473</note>
+         <note type="incipit">Im fünfzehnten Jahre des Kaiserthums Kaisers Tiberii</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

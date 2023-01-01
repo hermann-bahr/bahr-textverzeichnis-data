@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1713" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Einleitung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Wila-Almanach auf das Jahr 1921</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -45,11 +45,11 @@
                <biblScope unit="pages">15–20</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Gründung der Wila hat in mir einen seit dreißig Jahren immer
+         <note type="incipit">Die Gründung der Wila hat in mir einen seit dreißig Jahren immer
                   wieder vergeblich gehegten, immer wieder enttäuschten und dennoch niemals
                   verstummten Wunsch mit neuer Zuversicht belebt, der Wunsch, die besten Stimmen
                   Österreichs einmal gewissermaßen im Chorgesang zu hören</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1920_wila.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1920_wila.pdf</ref>
       </body>
    </text>
 </TEI>

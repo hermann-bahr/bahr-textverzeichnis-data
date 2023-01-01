@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Eduard von Bauernfeld</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,10 +49,10 @@
                <biblScope unit="pages">161–164</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Unter dem Pseudonym »B. Linz« als »Eduard von Bauernfeld
+         <note type="first-printing">Unter dem Pseudonym »B. Linz« als »Eduard von Bauernfeld
                   ✝« in: Das Magazin für die Litteratur des In– und Auslandes, 59 (1890) #34,
                   521–522. (23.8.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer den alten Bauernfeld sah, auf der Ischler Esplanade, in
+         <note type="incipit">Wer den alten Bauernfeld sah, auf der Ischler Esplanade, in
                   einem »gemütlichen Plauscherl« mit schönen Wienerinnen, die ihn so lieb gehabt,
                   oder an warmen Herbstnachmittagen, wenn die Sonne das rote Laub vergoldete, in dem
                   schimmernden Stadtpark, der wie ein köstliches Sonett der vornehmen Lebensfreude
@@ -60,8 +60,8 @@
                   dem traulichen Theaterchen am Michaeler-Platze sich an den bunten Turnieren der
                   ersten schauspielerischen Größen ergötzte, der mußte aus jeder seiner raschen,
                   nachlässigen und lebensvollen Gebärden...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12338"/>
                <ptr type="pmb" target="#12468"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_4852_p31"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

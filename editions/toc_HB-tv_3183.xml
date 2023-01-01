@@ -36,11 +36,11 @@
             subtype="Buchtext"
             sameAs="pmb29895"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a" ref="pmb29895">Dialog vom Tragischen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="#32814">Dialog vom Tragischen</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -49,15 +49,15 @@
                <biblScope unit="pages">9–78</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der »Jugend«, 8 (1903) #51, 947 findet sich ein Verriss von Edgar Steiger,
                      »Die hysterischen Griechen«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue deutsche Rundschau, 14 (1903) #7, 716–736 Als
+         <note type="first-printing">Neue deutsche Rundschau, 14 (1903) #7, 716–736 Als
                   »Dialog o tragickém« In: Divadlo, 9 (1911), 41–52</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Dame sagte: »Komm, wir wollen uns dadurch das Vergnügen
+         <note type="incipit">Die Dame sagte: »Komm, wir wollen uns dadurch das Vergnügen
                   nicht stören lassen!« Und sie zog die Freundin fort.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein »Meister«, ein Jüngling, ein Arzt, ein Grammatiker und ein
+         <note type="summary">Ein »Meister«, ein Jüngling, ein Arzt, ein Grammatiker und ein
                   Künstler sprechen im »Dialog vom Tragischen« über die Zukunft der tragischen
                   Kunst. Nach Reflexionen über die Geschichte des tragischen Dramas, die als Eingang
                   zu einer Kulturgeschichte der Menschheit verwendet wird (insofern die jeweilige
@@ -66,7 +66,7 @@
                   ausgeht, dass das Tragische überholt sei. Als neuer Ausdruck der Zeit gelte nun
                   der »Schauspieler«, da die Wandelbarkeit, die sich in ihm ausdrücke, bereits alle
                   Bereiche der Gesellschaft durchziehe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11220"/>
                <ptr type="pmb" target="#11461"/>
@@ -122,7 +122,7 @@
                <ptr type="HB-tv" target="HB-tv_4858_p14"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
       </body>
    </text>
 </TEI>

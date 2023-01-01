@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Björnstjerne Björnson</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,19 +49,19 @@
                <biblScope unit="pages">213</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7793, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7793, Morgen–Ausgabe,
                   1–2. (7.9.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe an Björnsterne [!] Björnson drei Fragen geschickt: 1.
+         <note type="incipit">Ich habe an Björnsterne [!] Björnson drei Fragen geschickt: 1.
                   Giebt es in Skandinavien Antisemitismus? 2. Oder sind wenigstens Zeichen, daß es
                   ihn künftig geben wird? 3. Was halten Sie von unserem kontinentalen
                   Antisemitismus? Er erwidert lakonisch: 1. Nein. 2. Nein. 3. Der Haß gegen den
                   Kapitalismus ist auf Irrwege geraten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2400"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

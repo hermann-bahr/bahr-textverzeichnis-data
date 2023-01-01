@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -48,15 +48,15 @@
                <date when="1906-01-21">21.1.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr weiterhin nicht in der Lage, den Akzent auf dem Namen der Künstlerin
                      richtig zu setzen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La fille Élisa« von Jean Ajalbert und »Poil de carotte« von
+         <note type="review-of">»La fille Élisa« von Jean Ajalbert und »Poil de carotte« von
                   Jules Renard</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 385-387</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Després gab gestern zuerst »La Fille Elisa«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="other-prints">Glossen, 385-387</note>
+         <note type="incipit">Die Després gab gestern zuerst »La Fille Elisa«</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3659"/>
                <ptr type="pmb" target="#11500"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_2440_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

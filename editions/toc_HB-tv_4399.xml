@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Emil Gött. Zu seinem 60. Geburtstage</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das gute Buch. Wegleiter zu deutschem Geistestum</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,16 +48,16 @@
                <date when="1924">1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Fußnote zum Titel weist es als Nachdruck aus dem »Bilderbuch« aus und
                      verweist auf Kuno Miethke’s Besprechung desselben im Anhang des Abdrucks, S.
                      66-67.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Amphibium. Zur Erinnerung an einen zu früh
+         <note type="first-printing">Als »Amphibium. Zur Erinnerung an einen zu früh
                   Verstorbenen« in: Berliner Tageblatt, 43 (1914) #56, Ausgabe für Berlin und
                   Umgegend, Abend–Ausgabe, 1–2. (31.1.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Gött« in: Bilderbuch, 27-34</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den Neunzigerjahren ging ein herzhaft fröhliches Stück, recht
+         <note type="other-prints">Als »Gött« in: Bilderbuch, 27-34</note>
+         <note type="incipit">In den Neunzigerjahren ging ein herzhaft fröhliches Stück, recht
                   nach dem Sinn</note>
       </body>
    </text>

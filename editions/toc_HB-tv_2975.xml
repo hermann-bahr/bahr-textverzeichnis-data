@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Meister Olbrich</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">60–65</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 17 (1898) #211, 42–43. (15.10.1898)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wunberg: Das junge Wien, 98.43</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man jetzt zeitlich in der Früh an die Wien kommt, kann man
+         <note type="first-printing">Die Zeit, 17 (1898) #211, 42–43. (15.10.1898)</note>
+         <note type="other-prints">Wunberg: Das junge Wien, 98.43</note>
+         <note type="incipit">Wenn man jetzt zeitlich in der Früh an die Wien kommt, kann man
                   dort, wo es, hinter der Akademie, aus der Stadt zum Theater geht, jeden Tag eine
                   Menge Leute sich um einen neuen Bau drängen sehen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Olbrichs Secession wird Bahr zu einem Beispiel gelungener
+         <note type="summary">Olbrichs Secession wird Bahr zu einem Beispiel gelungener
                   Architektur. Alles sei hier auf konkrete Bedürfnisse ausgelegt, die sich aus der
                   besonderen Nutzung des Gebäudes ergeben, und gerade deshalb auch ästhetisch
                   gelungen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2683"/>
                <ptr type="pmb" target="#5205"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_2975_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

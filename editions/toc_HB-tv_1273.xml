@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Großer Musikvereinssaal</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,14 +48,14 @@
                <date when="1904-12-16">16.12.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr wundert sich, wieso er von der Lesung so gefesselt wurde, geniert sich
                      aber auch nicht, es zuzugeben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Lesung von Alexander Strakosch</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Alexander Strakosch, der Zauberer in Worten, hat gestern wieder
+         <note type="review-of">Lesung von Alexander Strakosch</note>
+         <note type="incipit">Alexander Strakosch, der Zauberer in Worten, hat gestern wieder
                   einmal bei uns gelesen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10065"/>
                <ptr type="pmb" target="#2412"/>
@@ -66,7 +66,7 @@
                <ptr type="pmb" target="#10959"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

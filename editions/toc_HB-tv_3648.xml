@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Antoine</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">181–184</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Pariser Freie Bühne« in: Freie Bühne für
+         <note type="first-printing">Als »Die Pariser Freie Bühne« in: Freie Bühne für
                   modernes Leben 1 (1890) #18, 495–497 und #19, 513–516, hier: 495–496</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Théâtre libre« in: H. B.: Essays. Hg. Kindermann.
+         <note type="other-prints">Als »Théâtre libre« in: H. B.: Essays. Hg. Kindermann.
                   Wien: Bauer 1962, 162–170</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als der Karneval 1887 dem Frühling wich, in jenen nebelgrauen
+         <note type="incipit">Als der Karneval 1887 dem Frühling wich, in jenen nebelgrauen
                   Tagen des ersten Februar</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2211"/>
                <ptr type="pmb" target="#2412"/>

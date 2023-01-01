@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Krisis des Naturalismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,18 +49,18 @@
                <biblScope unit="pages">65–72</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Krisis des französischen Naturalismus« in: Das
+         <note type="first-printing">Als »Die Krisis des französischen Naturalismus« in: Das
                   Magazin für die Litteratur des In– und Auslandes, 59 (1890) #36, 562–564.
                   (6.9.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zeichen waren lange da, seltsame Boten und Warnungen, daß die
+         <note type="incipit">Zeichen waren lange da, seltsame Boten und Warnungen, daß die
                   Litteratur an eine Wende rücke, neuen Trieben entgegen, vom Naturalismus, der
                   alterte, weg. Aber der wilde Ungestüm dieser galoppierenden Entwickelung hat alle
                   Voraussicht und Berechnung in Sturm und Hast überholt und sie ist eben jetzt
                   schon, seit einem halben Jahre bereits, mitten drin in der Krise, die unsere
                   langsame und bedenkliche Hoffnung kaum für den Anfang des neuen Jahrhunderts
                   anzukündigen wagte.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4026"/>
                <ptr type="pmb" target="#12877"/>
@@ -84,7 +84,7 @@
                <ptr type="HB-tv" target="HB-tv_2679_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

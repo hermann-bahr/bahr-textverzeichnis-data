@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 28. Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,13 +48,13 @@
                <date when="1930-06-08">8.6.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Frank Harris: Jahre der Reife. Aus dem Englischen übertragen
+         <note type="review-of">Frank Harris: Jahre der Reife. Aus dem Englischen übertragen
                   von Antonina Vallentin. Berlin: S. Fischer 1930.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Journalist war braven Bürgern, gar in Deutschland, zunächst
+         <note type="incipit">Der Journalist war braven Bürgern, gar in Deutschland, zunächst
                   verdächtig</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über den Journalisten - und wie er von Frank Harris dargestellt
+         <note type="summary">Über den Journalisten - und wie er von Frank Harris dargestellt
                   wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2381"/>
                <ptr type="pmb" target="#11593"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_1929_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

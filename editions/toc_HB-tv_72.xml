@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_72" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Otto Julius Bierbaum]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Otto Julius Bierbaum zum Gedächtnis</title>
             <editor>Brandenburg, Hans</editor>
             <imprint>
@@ -46,12 +46,12 @@
                <biblScope unit="pages">138–140</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>2. Aufl. 1912</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mir ist unser Otto Julius immer dadurch besonders wert gewesen,
+         <note type="incipit">Mir ist unser Otto Julius immer dadurch besonders wert gewesen,
                   daß er so gar kein »Spezialist« war.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1912_bierbaum.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1912_bierbaum.pdf</ref>
       </body>
    </text>
 </TEI>

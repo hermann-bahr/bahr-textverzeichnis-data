@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 23. Februar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-03-14">14.3.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 64-68</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seltsam: von Pascal aus, an den mich das Barock als an seinen
+         <note type="other-prints">Kritik der Gegenwart, 64-68</note>
+         <note type="incipit">Seltsam: von Pascal aus, an den mich das Barock als an seinen
                   größten Widersacher, da doch jede Sache der Widersacher erst ganz verstehen lehrt,
                   wies, ist mir jetzt erst der volle Sinn der Karamasoff Dostojewskis aufgegangen.
                   Denn so wenig man dies anzunehmen zunächst geneigt sein wird, sie behandeln beide
@@ -151,8 +151,8 @@
                   Wirklichkeit zu brechen. Und vielleicht hängt alle Zukunft des Abendlands davon
                   ab, ob es noch gelingen wird, Lenin »auf den Jesuitenweg« zu bringen: zur
                   Anerkennung der Wirklichkeit. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über das Verhältnis von Pascal und Dostojewskij.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Über das Verhältnis von Pascal und Dostojewskij.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

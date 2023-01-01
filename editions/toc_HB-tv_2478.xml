@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2478" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#2121">Schnitzler, Arthur</author>
             <title level="m">The letters of Arthur Schnitzler to Hermann Bahr</title>
             <editor>Daviau, Donald G.</editor>
@@ -43,7 +43,7 @@
             </imprint>
             <extent>XII, 183 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Studies in the Germanic languages and literatures</title>
             <biblScope unit="volume">89</biblScope>
          </series>

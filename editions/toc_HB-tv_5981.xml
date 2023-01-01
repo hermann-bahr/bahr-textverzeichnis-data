@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 26. Dezember [1919]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,9 +48,9 @@
                <date when="1920-01-11">11.1.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Jüngling« von Fjodor Michailowitsch Dostojewskij</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 23-24</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Mein Freund, die Menschen so zu lieben, wie sie sind, ist
+         <note type="review-of">»Der Jüngling« von Fjodor Michailowitsch Dostojewskij</note>
+         <note type="other-prints">Kritik der Gegenwart, 23-24</note>
+         <note type="incipit">»Mein Freund, die Menschen so zu lieben, wie sie sind, ist
                   unmöglich. Und doch soll man es nun einmal. Deshalb verbeiße deine Gefühle, wenn
                   du ihnen Gutes tun willst, halte dir die Nase zu und schließe die Augen.«
                   Dostojewski im »Jüngling« (Siebenter Band der sämtlichen Werke in der deutschen
@@ -87,9 +87,9 @@
                   hat, aus dem Zufälligen wieder ins Notwendige zurückzufinden. Ist in Europa noch
                   ein Volk, das sich wieder auf das Geheimnis seines eingebornen inneren Wachsens zu
                   besinnen weiß? |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bei Dostojewskij findet Bahr die Grundfragen des Abendlands
+         <note type="summary">Bei Dostojewskij findet Bahr die Grundfragen des Abendlands
                   ausformuliert</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

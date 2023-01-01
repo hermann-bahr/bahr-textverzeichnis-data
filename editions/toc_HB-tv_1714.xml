@@ -36,11 +36,11 @@
             subtype="Dichtung"
             status="checked"
             sameAs="pmb31297">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a" ref="pmb31297">Die schamhafte Gräfin</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31297">Sommerfest. Ein moderner Musen-Almanach. Mit
                      Originalbeiträgen</title>
             <editor>Gesellschaft für modernes Leben</editor>
@@ -51,9 +51,9 @@
                <biblScope unit="pages">1–6</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Caph, 108–115</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Berti träumte auf den Saiten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1891_sommerfest_schamhafte-graefin.pdf</ref>
+         <note type="other-prints">Caph, 108–115</note>
+         <note type="incipit">Berti träumte auf den Saiten.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1891_sommerfest_schamhafte-graefin.pdf</ref>
       </body>
    </text>
 </TEI>

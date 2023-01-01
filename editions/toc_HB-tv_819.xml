@@ -36,11 +36,11 @@
             subtype="Tagebuch"
             sameAs="pmb30089"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30089">Tagebuch. 10. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb30089">Morgen. Wochenschrift für deutsche Kultur</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -49,10 +49,10 @@
                <date when="1908-11-06">6.11.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Arthur Schnitzler: Der Weg ins Freie. Berlin: S. Fischer
+         <note type="review-of">Arthur Schnitzler: Der Weg ins Freie. Berlin: S. Fischer
                   1908</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 205-209</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sehr schön ist die ruhig kreisende Bewegung, die Schnitzlers
+         <note type="other-prints">Tagebuch (1909), 205-209</note>
+         <note type="incipit">Sehr schön ist die ruhig kreisende Bewegung, die Schnitzlers
                   Roman hat. Langsam steigt er auf und scheint dann in der Luft zu liegen</note>
       </body>
    </text>

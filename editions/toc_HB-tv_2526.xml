@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -48,10 +48,10 @@
                <date when="1898-10-15">15.10.1898</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Mutter Erde« von Max Halbe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Deutschen Volkstheater ist »Mutter Erde« von Max Halbe mit
+         <note type="review-of">»Mutter Erde« von Max Halbe</note>
+         <note type="incipit">Im Deutschen Volkstheater ist »Mutter Erde« von Max Halbe mit
                   allen Zeichen eines Erfolges gegeben worden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11565"/>
                <ptr type="pmb" target="#22098"/>
@@ -59,7 +59,7 @@
                <ptr type="HB-tv" target="HB-tv_2035_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-17/211-45.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-17/211-45.pdf</ref>
       </body>
    </text>
 </TEI>

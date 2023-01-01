@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Modernisten</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Essays</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">119–126</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1909) #16129, Morgenblatt, 1–2.
+         <note type="first-printing">Neue Freie Presse, (1909) #16129, Morgenblatt, 1–2.
                   (17.7.1909)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Österreich gilt für ein gut katholisches Land, und es zeigt dies
+         <note type="incipit">Österreich gilt für ein gut katholisches Land, und es zeigt dies
                   ja bei jeder Gelegenheit.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die modernistische Bewegung scheint Bahr nicht nur auf
+         <note type="summary">Die modernistische Bewegung scheint Bahr nicht nur auf
                   begrüßenswerte, sondern auf notwendige Änderungen innerhalb der katholischen
                   Kirche hinzuwirken.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11871"/>
                <ptr type="pmb" target="#6761"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_3423_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
       </body>
    </text>
 </TEI>

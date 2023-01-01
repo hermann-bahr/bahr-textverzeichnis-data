@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Wie das Volkslied zu Ehren kam. Ein Waldmärchen. (Schluß)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Volksblatt</title>
             <imprint>
                <biblScope unit="jg">12</biblScope>
@@ -48,12 +48,12 @@
                <date when="1882-08-26">26.8.1882</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das war die erste hochwichtige Begegnung in Waldlieb’s
+         <note type="incipit">Das war die erste hochwichtige Begegnung in Waldlieb’s
                   Leben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Im zweiten Teil des Kunstmärchens lernt die unschuldige Waldlieb
+         <note type="summary">Im zweiten Teil des Kunstmärchens lernt die unschuldige Waldlieb
                   einen Professor aus der Stadt kennen, den sie heiratet und von dem sie das Küssen
                   lernt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18820826&amp;seite=1&amp;zoom=33</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18820826&amp;seite=1&amp;zoom=33</ref>
       </body>
    </text>
 </TEI>

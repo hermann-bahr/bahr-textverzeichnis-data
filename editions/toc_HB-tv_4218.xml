@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Problem der Kirche</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,14 +49,14 @@
                <date when="1919-04-03">3.4.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinem ’Tagebuch’ zitiert Herman [!] Bahr aus
                      Mereschkowskis Buch ’Vom Krieg zur Revolution’ folgendes über das Problem der
                      Kirche:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kartaschow sieht, daß die Idee der Kirche</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1919_problem.pdf</ref>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Kartaschow sieht, daß die Idee der Kirche</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1919_problem.pdf</ref>
       </body>
    </text>
 </TEI>

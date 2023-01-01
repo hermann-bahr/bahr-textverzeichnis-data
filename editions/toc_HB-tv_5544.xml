@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. Juni [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">160–164</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Vater der Réjane war ein Schmierenkomödiant, aus dem
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Der Vater der Réjane war ein Schmierenkomödiant, aus dem
                   schließlich ein Theaterkassier wurde, sie trug den Theaterteufel im Leibe.
                   Regnier, der große Schauspieler und Lehrer der Schauspielkunst, erschrak, als man
                   ihm die Kleine brachte, der zur Schauspielerin doch alles fehlte. Sie war gar
@@ -168,7 +168,7 @@
                   nie zur richtigen Liebe kommt. So könnte man sie selber eine curieuse d’art
                   nennen, die nie die Rolle fand, in der sie ganz zu sich selber hätte kommen
                   können. Ihr Schicksal war symbolisch für unsere Zeit. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Nachruf auf die Réjane wird Bahr unversehens zu einem
+         <note type="summary">Der Nachruf auf die Réjane wird Bahr unversehens zu einem
                   Traktat über die unterschiedlichen Frauengeschmäcker der verschiedenen
                   Generationen zu seinen Lebzeiten.</note>
       </body>

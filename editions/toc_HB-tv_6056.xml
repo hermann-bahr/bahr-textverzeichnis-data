@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 15. August</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,15 +48,15 @@
                <date when="1920-09-05">5.9.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nicht in »Kritik der Gegenwart«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Wilhelm Hausenstein: Bild und Gemeinschaft. Entwurf einer
+         <note type="review-of">Wilhelm Hausenstein: Bild und Gemeinschaft. Entwurf einer
                   Soziologie der Kunst. München: Kurt Wolff 1920. Wilhelm Hausenstein: Die Kunst in
                   diesem Augenblick. München: Hyperion 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zwei Schriften Wilhelm Hausensteins, eine ältere, jetzt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Wilhelm Hausensteins Rolle als Kunstkritiker.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="incipit">Zwei Schriften Wilhelm Hausensteins, eine ältere, jetzt</note>
+         <note type="summary">Über Wilhelm Hausensteins Rolle als Kunstkritiker.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

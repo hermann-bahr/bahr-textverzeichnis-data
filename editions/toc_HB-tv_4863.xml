@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">XXII</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,22 +48,22 @@
                <biblScope unit="pages">255–270</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. XXII« in: Das Neue Reich, 5 (1923)
+         <note type="first-printing">Als »Erinnerungen. XXII« in: Das Neue Reich, 5 (1923)
                   #28, 603–605. (14.4.1923) Als »Meine Berliner Zeit« in: Berliner Tageblatt, 52
                   (1923) #284, Abend–Ausgabe, 2–3. (19.6.1923)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es war ein anderes Berlin als das ich vor drei Jahren verlassen
+         <note type="incipit">Es war ein anderes Berlin als das ich vor drei Jahren verlassen
                   hatte. März 1888 war der alte Wilhelm gestorben, drei Monate darauf Kaiser
                   Friedrich und am 20. März 1890 hatte der neue Herr den lästigen Bismarck
                   fortgeschickt; auch gute Preußen, selbst der alte Fontane, fanden das ganz
                   natürlich, der Alte war schon etwas klapprig geworden, er hatte, sagten sie, den
                   Atem für das neue Tempo nicht mehr, nun hieß es früh aufstehen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein neues, literarisches Berlin – Überwindung des Naturalismus –
+         <note type="summary">Ein neues, literarisches Berlin – Überwindung des Naturalismus –
                   Neun Monate Ruhm – »Fin de siècle« und »Die Mutter« – Verhältnis zu Otto Brahm –
                   S. Fischer – Autoren der »Freien Bühne« – Barths »Die Nation« – Moritz von Egidy
                   und Julius Langbehn – Juden und Berliner Kultur – Durchfall der »Neuen Menschen« –
                   Freundschaft zu Emanuel Reicher und MaximilianHarden –Stammtisch – Mit
                   Theatertruppe nach St. Petersburg</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2566"/>
                <ptr type="pmb" target="#10943"/>
@@ -145,7 +145,7 @@
                <ptr type="HB-tv" target="HB-tv_4863_p28"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

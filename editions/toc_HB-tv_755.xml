@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_755" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sonnwendtag. Drama in fünf Aufzügen von Karl Schönherr. Zum
                      erstenmal aufgeführt im Burgtheater am 19. April 1902</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -47,11 +47,11 @@
                <date when="1902-04-20">20.4.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
+         <note type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
                   Kreuzer–Ausgabe, 48 (1902) #108, 8. (20.4.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 41-50 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Rezensionen, 41-50 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 313-318</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Rosner ist ein armes »Fünf-Kilo-Bäuerl«</note>
+         <note type="incipit">Der Rosner ist ein armes »Fünf-Kilo-Bäuerl«</note>
       </body>
    </text>
 </TEI>

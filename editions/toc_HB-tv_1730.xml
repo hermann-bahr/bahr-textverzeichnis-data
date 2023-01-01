@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Wiens Vergangenheit</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Blaubuch. Wochenschrift für öffentliches Leben, Literatur und
                      Kunst</title>
             <imprint>
@@ -49,15 +49,15 @@
                <date when="1907-03-07">7.3.1907</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Fußnote zum Titel: »Dieser Aufsatz unseres sehr geschätzten
                      Mitarbeiters wird den Eingang eines Buches ›Wien‹ bilden, das in der von Leo
                      Greiner veranstalteten Sammlung ›Landschaften und Städte‹ (Verlag G. Müller in
                      München) nach Ostern erscheinen wird.« Das Buch erschien bei Krabbe in
                      Stuttgart.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wien. Stuttgart: Carl Krabbe 1907</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Europa weiß man von Wien, daß dort immer Sonntag ist, immer
+         <note type="other-prints">Wien. Stuttgart: Carl Krabbe 1907</note>
+         <note type="incipit">In Europa weiß man von Wien, daß dort immer Sonntag ist, immer
                   am Herd sich der Spieß dreht. Ferner</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 12. September</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,9 +48,9 @@
                <date when="1920-10-03">3.10.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Alfons Goldschmidt: Moskau 1920. Reinbek: Rowohlt 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 222</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Alfons Goldschmidts »Moskau 1920« (Ernst Rowohlt Verlag,
+         <note type="review-of">Alfons Goldschmidt: Moskau 1920. Reinbek: Rowohlt 1920.</note>
+         <note type="other-prints">Kritik der Gegenwart, 222</note>
+         <note type="incipit">Alfons Goldschmidts »Moskau 1920« (Ernst Rowohlt Verlag,
                   Berlin), Tagebuchblätter von einer raschen Reise, handfesten Skizzen
                   Sowjetrußlands, fällt mir eine glückliche Metapher auf: er liebe, sagt er einmal,
                   die Leute nicht, die »sich auf den Boden der Tatsachen stellen ... die Leute mit
@@ -60,8 +60,8 @@
                   muß nur sicher sein, daß die Drehbühne doch irgendwie fixiert ist, daß sie dann
                   unter sich noch einen Boden hat, etwas Festes. Dann mag er sie nach Herzenslust
                   unbesorgt nur immer drehen! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Mann von Übermorgen hat eine Drehbühne im Herzen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Der Mann von Übermorgen hat eine Drehbühne im Herzen.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

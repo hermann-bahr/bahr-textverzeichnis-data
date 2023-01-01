@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Sokrates</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bildung</title>
             <imprint>
                <pubPlace>Berlin und Leipzig</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">7–12</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 19 (1899) #245, 173. (10.6.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Noch immer will die seltsame Gestalt des Sokrates die Menschen
+         <note type="first-printing">Die Zeit, 19 (1899) #245, 173. (10.6.1899)</note>
+         <note type="incipit">Noch immer will die seltsame Gestalt des Sokrates die Menschen
                   nicht in Ruhe lassen. Ich habe schon einmal erzählt, dass seit ein paar Jahren in
                   unserer Stadt ein Club von Jünglingen besteht, die unter seinem Namen, nach
                   seiner Methode zu leben gewillt sind, eingedenk, dass es »für einen guten Mann
                   kein Uebel giebt, weder im Leben noch im Tod«, und dass unser Thun und Leiden »nur
                   ein blosses Spiel, παιδιαˆς χάριν« ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine Rezension des Buches von Richard Kralik - »Sokrates, nach
+         <note type="summary">Eine Rezension des Buches von Richard Kralik - »Sokrates, nach
                   den Ueberlieferungen seiner Schule dargestellt« - wird Bahr zum Anlass, das
                   Problem von Kollektiv (Polis) und Individuum (Sokrates) zu stellen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3723"/>
                <ptr type="pmb" target="#3731"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_2928_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
       </body>
    </text>
 </TEI>

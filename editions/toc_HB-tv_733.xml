@@ -36,12 +36,12 @@
             type="Journal-Article"
             sameAs="pmb31359"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31359">Sezession. Neunte Ausstellung der Vereinigung
                      bildender Künstler Österreichs</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -50,10 +50,10 @@
                <date when="1901-01-15">15.1.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die neue Ausstellung der Sezession enthält nur hundertzwei
+         <note type="incipit">Die neue Ausstellung der Sezession enthält nur hundertzwei
                   Nummern, aber es sind Kolosse</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Segantini und Rodin.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Über Segantini und Rodin.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9845"/>
                <ptr type="pmb" target="#9554"/>

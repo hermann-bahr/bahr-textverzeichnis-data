@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">118–120</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans von Hammerstein: Zwischen Traum und Tagen. Lieder,
+         <note type="review-of">Hans von Hammerstein: Zwischen Traum und Tagen. Lieder,
                   Bilder, Balladen. München: Parcus 1919. Hans von Hammerstein: Das Tagebuch der
                   Natur. Gedichte. München: Parcus [1920].</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir sind jetzt Dichter gewohnt, denen die Sprache durchgeht; ja
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Wir sind jetzt Dichter gewohnt, denen die Sprache durchgeht; ja
                   dieses Durchgehen gerade scheint uns jetzt recht eigentlich der Reiz von
                   Gedichten. Wohin, fragt längst niemand mehr: der Dichter ist schon froh, nur
                   überhaupt irgendwo anzukommen, und noch oben, wenn nicht zu sitzen, so doch
@@ -91,7 +91,7 @@
                   der Hirsch. Er senkt die schweren Zwölferkronen und schreitet lautlos unterm
                   Laubgebreit. Im grünen Abgrund seiner Blicke wohnen des Edlen hohe Ruh und
                   Traurigkeit. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist begeistert von der Lyrik Hans von Hammersteins.</note>
+         <note type="summary">Bahr ist begeistert von der Lyrik Hans von Hammersteins.</note>
       </body>
    </text>
 </TEI>

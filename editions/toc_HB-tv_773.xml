@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_773" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Verehrung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -46,12 +46,12 @@
                <date when="1903-07-30">30.7.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Indem ich nachsinne, Ihnen, lieber Meister</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr stellt fest, dass Verehrung auszudrücken schwierig ist, und
+         <note type="incipit">Indem ich nachsinne, Ihnen, lieber Meister</note>
+         <note type="summary">Bahr stellt fest, dass Verehrung auszudrücken schwierig ist, und
                   fordert, dass zur Freiheit nicht nur die persönliche gehört, sondern auch die,
                   dass alle anderen ihre Persönlichkeit ausbilden. Rosegger ist ihm eine solche
                   Persönlichkeit.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12551"/>
             </listRef>

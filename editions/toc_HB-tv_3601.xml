@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das ewig Weibliche</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">69–71</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 4 (1895) #43, 58–59. (27.7.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer einen Mann erkennen, sein Wesen einsehen will, soll die Frau
+         <note type="first-printing">Die Zeit, 4 (1895) #43, 58–59. (27.7.1895)</note>
+         <note type="incipit">Wer einen Mann erkennen, sein Wesen einsehen will, soll die Frau
                   betrachten, die er liebt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5449"/>
                <ptr type="pmb" target="#3892"/>

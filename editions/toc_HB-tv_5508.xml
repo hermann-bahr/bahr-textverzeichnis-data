@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">3. Februar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">50–55</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ethel Smyth: Impressions that remained. Memoirs. London:
+         <note type="review-of">Ethel Smyth: Impressions that remained. Memoirs. London:
                   Longmans Green 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit Jahren ist mir heut zum erstenmale wieder passiert, daß
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Seit Jahren ist mir heut zum erstenmale wieder passiert, daß
                   mich ein Buch einfach nicht mehr ausließ und ich nicht los konnte, bis ich durch
                   die zwei dicken Bände durch und indessen der glitzernde Wintertag erloschen war:
                   so jung hat mich unsere liebe Ethel Smyth mit ihren Erinnerungen gemacht,
@@ -189,7 +189,7 @@
                   Urväterweisheit von Polarität, Indifferenz und Docta Ignorantia, an Laotse, Walt
                   Whitman und Friedländer! Hab ich jetzt erst lesen gelernt? Oder ist’s, weil jetzt
                   Ethel Smyth dem Gedruckten die Stimme des Lebens souffliert? |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr über die von ihm sehr bewunderte Ethel Smyth.</note>
+         <note type="summary">Bahr über die von ihm sehr bewunderte Ethel Smyth.</note>
       </body>
    </text>
 </TEI>

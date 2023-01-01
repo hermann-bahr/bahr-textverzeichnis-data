@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4824" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Metternich</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Abendland. Deutsche Monatshefte für europäsiche Kultur, Politik
                      und Wirtschaft</title>
             <imprint>
@@ -46,15 +46,15 @@
                <date when="1925-12-01">1.12.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Heinrich von Srbik: Metternich. Der Staatsmann und der Mensch.
+         <note type="review-of">Heinrich von Srbik: Metternich. Der Staatsmann und der Mensch.
                   München: Bruckmann 1925.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Presse, (1925) #21952, Morgenblatt, 2–3.
+         <note type="first-printing">Neue Freie Presse, (1925) #21952, Morgenblatt, 2–3.
                   (25.10.1925)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zeiten, denen übel ist, brauchen einen Spucknapf, in den sich
+         <note type="incipit">Zeiten, denen übel ist, brauchen einen Spucknapf, in den sich
                   der allgemeine Unwille ergießen kann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht in seiner Verteidigungsrede Metternich als letzten
+         <note type="summary">Bahr sieht in seiner Verteidigungsrede Metternich als letzten
                   österreichischen Staatsmann von europäischem Format.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11518"/>
                <ptr type="pmb" target="#14905"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_4824_p14"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/abendland/1925_metternich.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/abendland/1925_metternich.pdf</ref>
       </body>
    </text>
 </TEI>

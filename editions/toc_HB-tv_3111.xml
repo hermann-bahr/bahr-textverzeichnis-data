@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Kleist. (Zur Aufführung des »Guiskard« und des »Amphitryon« im
                      Burgtheater am 22. Februar 1903)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,11 +50,11 @@
                <biblScope unit="pages">90–97</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #52, 5–6.
+         <note type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #52, 5–6.
                   (22.2.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   299-303</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am 2. März 1808 wurde, erzählt der Schauspieler Genast, in
+         <note type="incipit">Am 2. März 1808 wurde, erzählt der Schauspieler Genast, in
                   Weimar der »Zerbrochene Krug« gegeben.</note>
       </body>
    </text>

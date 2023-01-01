@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">3</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Erinnerung an Burckhard</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">105–133</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Über die literarischen Texte</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Burckhard ist unter allen Österreichern seiner Generation der
+         <note type="incipit">Burckhard ist unter allen Österreichern seiner Generation der
                   stärkste, weiteste und eigenste Mensch gewesen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11036"/>
                <ptr type="pmb" target="#7750"/>

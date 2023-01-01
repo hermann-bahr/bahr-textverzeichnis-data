@@ -35,7 +35,7 @@
             type="Book"
             status="checked"
             sameAs="pmb32440">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>268 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eigentlich 1889, vordatiert auf 1890. In einem Brief am Vater kündigt Bahr am
                      9.6.1889 das Erscheinen für Oktober an. Die Texte wolle er im August fertig
                      machen. Die Widmung an Wolfgang Heine ist datiert mit »September 1889«. Bahr
@@ -64,16 +64,16 @@
                      (1891), 570. Loris [=Hugo von Hofmannsthal: Die Mutter. In: Moderne Rundschau,
                      2 (1891) #2, 75-77. (15.4.1891) [Mit Bahrs Stück: »Die Mutter«]</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritische Schriften, I. Weimar: VDG 2004</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="other-prints">Kritische Schriften, I. Weimar: VDG 2004</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#38364"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik-2.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20moderne</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=42</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik-2.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20moderne</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=42</ref>
       </body>
    </text>
 </TEI>

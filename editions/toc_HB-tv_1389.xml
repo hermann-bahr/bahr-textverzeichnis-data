@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1389" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Himmel auf Erden. Ein Zwiegespräch. Mit 13 Illustrationen</title>
             <imprint>
@@ -42,10 +42,10 @@
             </imprint>
             <extent>45 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Kleine Bücher für besinnliche Menschen, 1</title>
          </series>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vordatiert auf 1928. Am 23. August 1927 wurde dem Verlag von Vik. Gen. abs. C.
                      Degenbeck mitgeteilt, dass es von kirchlicher Seite keine offiziell
                      anzuführende Druckerlaubnis gäbe, aber vom theologischen Standpunkt auch nichts
@@ -53,7 +53,7 @@
             <p>Rezensionen: Ab dem 30.11.1927 Müchner Telegramm-Zeitung, 6 (1927) #237, 2.
                      (9.12.1927)</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=103</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=103</ref>
       </body>
    </text>
 </TEI>

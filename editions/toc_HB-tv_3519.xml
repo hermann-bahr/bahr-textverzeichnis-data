@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Politische Prognose</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">131–136</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Telegramm–Zeitung, 7 (1928) #47, 2. (7.3.1928)
+         <note type="first-printing">Münchner Telegramm–Zeitung, 7 (1928) #47, 2. (7.3.1928)
                   Neue Freie Presse, (1928) #22797, Morgenblatt, 26–27. (4.3.1928)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Buch, das uns eine »Politische Prognose« verheißt, ist einer
+         <note type="incipit">Ein Buch, das uns eine »Politische Prognose« verheißt, ist einer
                   neugierigen Leserschaft gewiß...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In der »Politischen Prognose« Hellpachs erkennt Bahr viel
+         <note type="summary">In der »Politischen Prognose« Hellpachs erkennt Bahr viel
                   Bedeutendes, aber auch einen diplomatischen Fauxpas.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="pmb" target="#7339"/>
@@ -65,7 +65,7 @@
                <ptr type="HB-tv" target="HB-tv_3519_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

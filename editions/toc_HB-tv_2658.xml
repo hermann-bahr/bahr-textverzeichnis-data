@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die gesuchte Frau. Ein gemeines Abenteuer</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="32246">Fin de Siècle</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,7 +48,7 @@
                <biblScope unit="pages">133–137</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Rückwärts überworfenen Leibes, daß die üppigen Flechten über die
+         <note type="incipit">Rückwärts überworfenen Leibes, daß die üppigen Flechten über die
                   Lehne rollten, und die bloßen Arme, weich und lau</note>
       </body>
    </text>

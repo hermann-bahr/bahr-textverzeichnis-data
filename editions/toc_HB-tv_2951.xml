@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Sokratiker</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bildung</title>
             <imprint>
                <pubPlace>Berlin und Leipzig</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">165–170</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Sokrates« in: Die Zeit, 12 (1897) #144, 12–13.
+         <note type="first-printing">Als »Sokrates« in: Die Zeit, 12 (1897) #144, 12–13.
                   (3.7.1897) Als »Sokrat« in: Dubrovnik, 8 (1899) #28, 3–4. (9.7.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Namen des alten Sokrates haben sich jetzt einige junge Wiener
+         <note type="incipit">Im Namen des alten Sokrates haben sich jetzt einige junge Wiener
                   verbunden; »neusokratisch« wollen sie genannt sein. Doch meinen sie es nicht, als
                   hätten sie als eine philosophische Schule oder Secte zu gelten, die etwa von
                   jenem sonderbaren, tragisch burlesken Griechen ein »System« annehmen
                   würde.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In Wien ist ein Club der Sokratiker entstanden, dessen
+         <note type="summary">In Wien ist ein Club der Sokratiker entstanden, dessen
                   Mitglieder Ruhe in dem Gedanken finden, dass das Leben ein Spiel sei und man es in
                   ähnlicher Weise wie die Kunst zu betreiben habe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3723"/>
                <ptr type="pmb" target="#12358"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_2951_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4706" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Geschäft ist Geschäft. Komödie in drei Akten von Oktave Mirbeau.
                      Zum erstenmale aufgeführt im Burgtheater am 2. Oktober 1903</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -47,14 +47,14 @@
                <date when="1903-10-03">3.10.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Um den Anfang gekürzt aus der »Ö.V.Z.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Les affaires sont les affaires« von Octave Mirbeau</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt aus: Österreichische Volks–Zeitung, 49 (1903)
+         <note type="review-of">»Les affaires sont les affaires« von Octave Mirbeau</note>
+         <note type="first-printing">Gekürzt aus: Österreichische Volks–Zeitung, 49 (1903)
                   #271, 2–3. (3.10.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 21-29</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man wird bei uns vielleicht finden, das sei gar kein
+         <note type="other-prints">Glossen, 21-29</note>
+         <note type="incipit">Man wird bei uns vielleicht finden, das sei gar kein
                   Stück</note>
       </body>
    </text>

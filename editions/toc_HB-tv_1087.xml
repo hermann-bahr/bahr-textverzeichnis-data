@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1087" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Das Veilchen. Schwank in drei Aufzügen</title>
             <imprint>
@@ -41,7 +41,7 @@
             </imprint>
             <extent>66 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Es handelt sich um ein gesetztes Manuskript, noch ohne Verlag. Eine
                      handschriftliche Ergänzung von dreieinhalb Seiten ersetzt den gestrichenen
                      vierten Akt. Dies ist die einzige Publikation Bahrs, die in der Bibliographie
@@ -57,7 +57,7 @@
                      seine Frau Hans Jummel&lt;?&gt;, Bildhauer Kathi Wimmerl Erschienen bei S.
                      Fischer, Berlin =====</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">1. Akt: Die junge Frau eines Anwalts fühlt sich von diesem
+         <note type="summary">1. Akt: Die junge Frau eines Anwalts fühlt sich von diesem
                   vernachlässigt und überlegt gemeinsam mit dem Hausfreund, einem Bildhauer, wie sie
                   die Situation verändern kann. Nach dem Abgang des Künstlers kommt es zum
                   Ehestreit, worin Themen von Hausfrau und weiblicher Selbstbestimmung behandelt

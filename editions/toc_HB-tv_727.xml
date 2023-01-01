@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_727" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater. (»Zwei Eisen im Feuer.« Lustspiel in drei Akten.
                      Frei nach Calderon von Friedrich Adler. Zum erstenmal aufgeführt am 12. Oktober
                      1900)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -49,12 +49,12 @@
                <date when="1900-10-13">13.10.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Diese Rezension Bahrs wurde nicht in der »2 Kreuzer-Ausgabe« aufgenommen, wo
                      das Stück von »A. L.« besprochen wird.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 28-33</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Calderon gehört zu den Dichtern, die wir in einemfort</note>
+         <note type="other-prints">Premièren, 28-33</note>
+         <note type="incipit">Calderon gehört zu den Dichtern, die wir in einemfort</note>
       </body>
    </text>
 </TEI>

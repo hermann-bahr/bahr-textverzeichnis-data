@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zeitgedanken</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Heimgarten</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -48,12 +48,12 @@
                <date when="1910">1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Fußnote zum Titel kennzeichnet es als Nachdruck aus der Buchausgabe des
                      Tagebuch (1909).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dies scheint mir immer mehr die eigentliche Frage unserer
+         <note type="other-prints">Tagebuch (1909)</note>
+         <note type="incipit">Dies scheint mir immer mehr die eigentliche Frage unserer
                   Presse: ob es denn, für ein wirkliches Blatt, auch wirkliche Leser gäbe?</note>
       </body>
    </text>

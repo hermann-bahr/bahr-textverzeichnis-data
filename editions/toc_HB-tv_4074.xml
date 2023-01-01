@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Naše Anketa</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Volné Sméry</title>
             <imprint>
                <biblScope unit="jg">13</biblScope>
@@ -48,13 +48,13 @@
                <date when="1909">1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Benátky, Lido, 6. června 1909. Ad 1. vaší ankety: »Kopie«
+         <note type="incipit">Benátky, Lido, 6. června 1909. Ad 1. vaší ankety: »Kopie«
                   uměleckých děl nemají žádné ceny. Nejubožší originál jest umělečtjší nežli
                   nejlepší kopie. Ad 2. Dokonce tyto pochybné pískovcové kopie postaviti bylo by
                   přímo opičí hanbou pro umělecky nevyrovnatelnou Prahu. Ad 3. Vezměte nejlepšího
                   svého českého sochaře a dopře te mu, at vytvoří po svém smyslu dílo naší doby!
                   HERMANN BAHR. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/umfragen/1909_volne-smery.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/umfragen/1909_volne-smery.pdf</ref>
       </body>
    </text>
 </TEI>

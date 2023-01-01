@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2585" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Deutsche Verleger</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Frankfurter Zeitung</title>
             <imprint>
                <biblScope unit="jg">58</biblScope>
@@ -45,15 +45,15 @@
                <date when="1913-12-21">21.12.1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Von Antoine Guilland in der »Chronique Allemande« der Bibliothèque Universelle,
                      403-404 besprochen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Börsenblatt des deutschen Buchhandels, 80 (1913) #301,
+         <note type="first-printing">Börsenblatt des deutschen Buchhandels, 80 (1913) #301,
                   14041–14043. (30.12.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Für unsere deutschen Verleger will ich einmal sprechen: denn
+         <note type="incipit">Für unsere deutschen Verleger will ich einmal sprechen: denn
                   mich hat oft verdrossen, wie ungerecht man gegen sie noch immer ist.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11324"/>
                <ptr type="pmb" target="#11798"/>
@@ -153,7 +153,7 @@
                <ptr type="HB-tv" target="HB-tv_2585_p37"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/frankfurter-zeitung/1913-12-21_deutsche-verleger.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/frankfurter-zeitung/1913-12-21_deutsche-verleger.pdf</ref>
       </body>
    </text>
 </TEI>

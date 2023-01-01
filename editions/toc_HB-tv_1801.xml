@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1801" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Etappen des neuen deutschen Theaters. Geschichte und Erlebnis. In
                      XII Kapiteln. III. Bayreuth</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die literarische Welt. Unabhängiges Organ für das deutsche
                      Schrifttum</title>
             <imprint>
@@ -48,7 +48,7 @@
                <date when="1927-06-30">30.6.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als das Barock zergeht, bleibt davon ein Residuum zurück</note>
+         <note type="incipit">Als das Barock zergeht, bleibt davon ein Residuum zurück</note>
       </body>
    </text>
 </TEI>

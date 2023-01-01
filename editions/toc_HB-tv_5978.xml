@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 20. Dezember [1919]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,15 +48,15 @@
                <date when="1920-01-04">4.1.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nicht in der Buchausgabe »Kritik der Gegenwart«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Berchtesgaden hörte ich neulich politisieren zu.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wenn die Republikaner gegen die Monarchisten und die
+         <note type="incipit">In Berchtesgaden hörte ich neulich politisieren zu.</note>
+         <note type="summary">Wenn die Republikaner gegen die Monarchisten und die
                   Monarchisten gegen die Republikaner kämpfen, verbrauchen sie ihre Kraft, die
                   eigentlich für den Aufbau eines offenen Deutschlands nötig wäre, gleichgültig
                   unter welcher Staatsform.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">28. April [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">II, 117</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Kisten waren besorgt, um meine Bücher zu packen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Einpacken seiner Bibliothek in Kisten kostet ihn genau so
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Die Kisten waren besorgt, um meine Bücher zu packen</note>
+         <note type="summary">Das Einpacken seiner Bibliothek in Kisten kostet ihn genau so
                   viel wie vor zweiundzwanzig Jahren der Bau seines Olbrich-Häuschens.</note>
       </body>
    </text>

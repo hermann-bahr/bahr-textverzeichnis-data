@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb32248"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb32248">Neben der Liebe. Wiener Roman</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>231 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Text ist datiert mit »Purkersdorf, 1. Mai 1892«. Zur Publikationsgeschichte
                      des ursprünglich »Räthsel« betitelten Textes vgl. Susens Anmerkung in: Wilhem
                      Bölsche: Briefwechsel mit Autoren der Freien Bühne. Berlin: Weidler 2010,
@@ -59,9 +59,9 @@
                      (11.11.1893) Henri Albert in einem Brief an Richard Dehmel, 19.1.1893
                      (Briefwechsel, Hg. Krahmer)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Freie Bühne für den Entwickelungskampf der Zeit, 3
+         <note type="first-printing">Freie Bühne für den Entwickelungskampf der Zeit, 3
                   (1892): #10, 1009–1038 #11, 1121–1154 #12, 1233–1258.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20neben%20liebe</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20neben%20liebe</ref>
       </body>
    </text>
 </TEI>

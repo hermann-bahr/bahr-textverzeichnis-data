@@ -35,7 +35,7 @@
             type="Book_Section"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Beitrag]</title>
             <author ref="#2147">Altenberg, Peter</author>
             <author ref="#10828">Bang, Herman</author>
@@ -77,7 +77,7 @@
             <author ref="#5153">van de Velde, Henry</author>
             <author ref="#13112">Wiegler, Paul</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Ein Protest in Sachen Herwarth Walden</title>
             <editor>»Der neue Weg« der Genossenschaft Deutscher Bühnenangehöriger</editor>
             <imprint>
@@ -87,7 +87,7 @@
                <biblScope unit="pages">3</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich weiß über den Fall Herwarth Walden gar nichts und kenne die
+         <note type="incipit">Ich weiß über den Fall Herwarth Walden gar nichts und kenne die
                   wirklichen oder angeblichen Gründe seiner Entlassung nicht. Doch stehe ich nicht
                   an zu erklären, daß mir das Wirken Waldens durchaus ernsthaft und verdienstlich
                   scheint, und das ich deshalb gern bereit bin, mich Ihrem Protest gegen die

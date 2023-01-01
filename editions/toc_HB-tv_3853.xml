@@ -35,12 +35,12 @@
             type="Journal-Article"
             subtype="Nachdruck_Russisch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Баръ, Германъ</author>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Хубоҗники и кримика [Chudožniki i kritika]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Мир иску́сства [Mir iskusstva], St. Petersburg</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -49,14 +49,14 @@
                <date when="1899">1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Bildende Kunst in Österreich. 4. Die Kunst und die
+         <note type="first-printing">Als »Bildende Kunst in Österreich. 4. Die Kunst und die
                   Kritik« in: Deutsche Zeitung, Wien, 23 (1893) #7571, Morgen–Ausgabe, 1–3.
                   (25.1.1893) Gekürzt als »Die Kunst und die Kritik« in: Der Kunstwart, 6 (1893)
                   #10, 153–155.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Bildende Kunst in Österreich. Die Kunst und die
+         <note type="other-prints">Als »Bildende Kunst in Österreich. Die Kunst und die
                   Kritik« in: Studien zur Kritik der Moderne, 217-225.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Нашимъ худоҗникамъ</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/mir-iskusstva/1899_kritika.pdf</ref>
+         <note type="incipit">Нашимъ худоҗникамъ</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/mir-iskusstva/1899_kritika.pdf</ref>
       </body>
    </text>
 </TEI>

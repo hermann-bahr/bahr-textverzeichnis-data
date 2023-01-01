@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1372" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Dostojewski. Drei Essays. Mit vier Bildbeigaben</title>
             <editor ref="#10815">Bahr, Hermann</editor>
@@ -45,10 +45,10 @@
             </imprint>
             <extent>105 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Dostojewski</title>
          </series>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahrs Aufsatz mit dem Datum 13. August 1913. Im Dezember 1913 erschienen, auf
                      1914 vordatiert. Im Archiv ist eine Druckfahne erhalten. Zur Einordnung des
                      Textes in Bahrs neugefundenen Glauben vergleiche man das Interview Johannes
@@ -58,18 +58,18 @@
                      hier: 190–192.) </p>
             <p>Rezensionen: Freie Meinung, Hamburg, 21.3.1914</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit im Bild, 11 (1913) #39, 2622–2625.
+         <note type="first-printing">Die Zeit im Bild, 11 (1913) #39, 2622–2625.
                   (24.9.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Summula, 136–150 H. B.: Essays. Hg. Kindermann. Wien: Bauer
+         <note type="other-prints">Summula, 136–150 H. B.: Essays. Hg. Kindermann. Wien: Bauer
                   1962, 239–250</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einer sagt dem anderen nach, Dostojewski sei, so groß er ist,
+         <note type="incipit">Einer sagt dem anderen nach, Dostojewski sei, so groß er ist,
                   doch zu sehr Russe, um unmittelbar auf uns wirken zu können. Jeder glaubt es
                   seiner Bildung schuldig, das Totenhaus, den Raskolnikow, allenfalls noch die
                   Karamasoff zu kennen, wird aber abgeschreckt durch irgend etwas Fremdes,
                   grauenhaft anlockend Barbarisches darin, vor dem er lieber noch zur rechten Zeit
                   flieht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1914_dostojewski.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=96</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1914_dostojewski.pdf</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=96</ref>
       </body>
    </text>
 </TEI>

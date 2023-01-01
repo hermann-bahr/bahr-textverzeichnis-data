@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_522" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">D’Annunzio. (Zur Aufführung der »Gioconda« im
                      Raimund-Theater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">33</biblScope>
@@ -47,8 +47,8 @@
                <date when="1899-11-11">11.11.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Premièren, 115–123</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der größte Dichter, den wir jetzt haben, aber eine ganz
+         <note type="first-printing">Premièren, 115–123</note>
+         <note type="incipit">Der größte Dichter, den wir jetzt haben, aber eine ganz
                   undramatische Natur, der niemals ein Stück gelingen wird – das ist das Urteil der
                   Italiener über d’Annunzio.</note>
       </body>

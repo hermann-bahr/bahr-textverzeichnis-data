@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Oktober [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">230–235</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Schon als Student fiel mir Robert Müller unter seinen Kameraden
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Schon als Student fiel mir Robert Müller unter seinen Kameraden
                   auf durch das Wesentliche seiner Bemühungen, als einer, der nicht bloß jongliert,
                   sondern nach der Wahrheit späht. In seinem Blut ist dem schweren Ernst nordischer
                   Geistesart ein österreichischer Glanz beweglich aufgesetzt und ragt er schon durch
@@ -199,7 +199,7 @@
                   seinem unbändigen Freiheitssinn noch das Johanniswort: »So euch nur der Sohn frei
                   macht, so seid ihr recht frei!« Der Bolschewismus ist im Grund eine religiöse
                   Frage. Im Grund gibt es doch überhaupt nur religiöse Fragen. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Robert Müller, die Neigung des Gentlemans zum
+         <note type="summary">Über Robert Müller, die Neigung des Gentlemans zum
                   Bolschewismus, Bahrs Verständnis für tiefe Denker des Unglaubens und das
                   Verständnis, dass letztlich alles Fragen des Glaubens sind.</note>
       </body>

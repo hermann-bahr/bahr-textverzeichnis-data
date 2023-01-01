@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Gabillon. (Zum vierzigjährigen Jubiläum)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,15 +49,15 @@
                <biblScope unit="pages">262–265</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7845,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7845,
                   Sonntags–Ausgabe, 1–2. (29.10.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Geschlecht von heute staunt, wenn es von dem Debut des
+         <note type="incipit">Das Geschlecht von heute staunt, wenn es von dem Debut des
                   Gabillon als Don Carlos, Franz im »Götz« und Ferdinand von Walter hört: in den
                   üblichen Begriff des »jugendlichen Liebhabers«, der glatte Anmuth, milden Ernst,
                   geschmeidige Schönheit fordert, scheint er wenig zu passen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ebenso Gabillon, von dem Bahr sagt, er schmiege sich in keine
+         <note type="summary">Ebenso Gabillon, von dem Bahr sagt, er schmiege sich in keine
                   Rolle, vielmehr müsse diese sich an ihn schmiegen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2484"/>
                <ptr type="pmb" target="#12654"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_4852_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

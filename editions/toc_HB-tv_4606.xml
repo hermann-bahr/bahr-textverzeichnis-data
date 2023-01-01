@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 20. Dezember</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">25</biblScope>
@@ -48,13 +48,13 @@
                <date when="1917-12-30">30.12.1917</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans Delbrück: Wider den Kleinglauben. Eine Auseinandersetzung
+         <note type="review-of">Hans Delbrück: Wider den Kleinglauben. Eine Auseinandersetzung
                   mit der Deutschen Vaterlandspartei. Jena: Diederichs 1918. (Die Volksaufklärung,
                   2)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch »1917«, 239-241</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hans Delbrück, der Herausgeber der »Preußischen
+         <note type="other-prints">Tagebuch »1917«, 239-241</note>
+         <note type="incipit">Hans Delbrück, der Herausgeber der »Preußischen
                   Jahrbücher«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19171230&amp;seite=5&amp;zoom=33</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19171230&amp;seite=5&amp;zoom=33</ref>
       </body>
    </text>
 </TEI>

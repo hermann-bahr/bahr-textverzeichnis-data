@@ -35,7 +35,7 @@
             type="Pamphlet"
             subtype="Aufruf"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#5708">Baluschek, Hans</author>
             <author ref="#10869">Behrens, Peter</author>
@@ -73,7 +73,7 @@
                <date when="1913">1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Aufruf kommt in Form eines in der Mitte des Querformats gefalteten losen
                      Blatts, das auf der linken Seite eine Porträtfotografie Holz und ein Faksimile
                      seiner Signatur, rechts den Aufruf zeigt. Im Nachlass Bahrs findet er sich
@@ -93,7 +93,7 @@
                      eingelegt werden sollte, verfasst, nennt Holz den Aufruf »total missglückte
                      Agitation zu meinem elenden ’50ten’«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Aufruf für Arno Holz! Arno Holz, der am 26. d. Mts. 50 Jahre alt
+         <note type="incipit">Aufruf für Arno Holz! Arno Holz, der am 26. d. Mts. 50 Jahre alt
                   wird, erzählt im Vorwort zu seiner letzten, eben erschienenen Tragödie
                   »Ignorabimus”, dass er »heute noch immer buchstäblich in einer Dachbude hockt”. Es
                   ergreift und beschämt uns, einen um das deutsche Schrifttum der letzten dreissig
@@ -113,7 +113,7 @@
                   Dr. Arthur Schnitzler. Dr. Franz Servaes. Hermann Sudermann. Geh. Rat Prof. Dr.
                   Henry Thode. Prof. Dr. h. c. Hans Thoma. Prof. Dr. Ferdinand Vetter (Bern).
                   Siegfried Wagner. Prof. Dr. Eugen Wolff (Kiel.) |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11763"/>
                <ptr type="pmb" target="#5708"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">17. Januar [1917]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">51–60</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Arno Holz: Phantasus. Leipzig: Insel 1916. Hermann Erhardt: La
+         <note type="review-of">Arno Holz: Phantasus. Leipzig: Insel 1916. Hermann Erhardt: La
                   Tour, der Pastellmaler Ludwigs XV. 89 Abbildungen von Kunstwerken in St. Quentin.
                   München: Korpsverlag Buchhandlung Bapaume 1917.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich kann mir nicht helfen: Die stärkste deutsche Leistung von
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ich kann mir nicht helfen: Die stärkste deutsche Leistung von
                   1916 ist mir doch – der «Phantasus” von Arno Holz! Schon daß ein deutsche
                   Buchhändler, der Insel-Verlag wagt, in so verworrener und verwüsteter Zeit
                   Teilnahme für ein ganz strenges, gemeinem Tagessinn mit mönchischer Entsagung
@@ -128,7 +128,7 @@
                   Handel besorgt, jeder geht an sein Geschäft und kehren die Krieger heim, sie
                   finden alles bestens geht, der Krieg ist bloß eine Episode gewesen. [Es folgen
                   Aussagen über Johannes Müller und Quentin La Tour]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ausführliche Rezension des »Phantasus« sowie eine im Feld
+         <note type="summary">Ausführliche Rezension des »Phantasus« sowie eine im Feld
                   veröffentlichte Darstellung Quentin de la Tours.</note>
       </body>
    </text>

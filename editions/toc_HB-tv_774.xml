@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_774" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Geschäft ist Geschäft. Komödie in drei Akten von Oktave Mirbeau.
                      Zum erstenmale aufgeführt im Burgtheater am 2. Oktober 1903</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -47,11 +47,11 @@
                <date when="1903-10-03">3.10.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Les affaires sont les affaires« von Octave Mirbeau</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
+         <note type="review-of">»Les affaires sont les affaires« von Octave Mirbeau</note>
+         <note type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
                   Kreuzer–Ausgabe, 49 (1903) #271, 8–9. (3.10.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 21-29</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von Mirbeau wird erzählt, es sei, als er noch ein kleiner Bub
+         <note type="other-prints">Glossen, 21-29</note>
+         <note type="incipit">Von Mirbeau wird erzählt, es sei, als er noch ein kleiner Bub
                   war</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 7. September [I]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-09-26">26.9.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 213-215</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Über Nacht sind wir zu Wasser worden; der Park ein trüber See,
+         <note type="other-prints">Kritik der Gegenwart, 213-215</note>
+         <note type="incipit">Über Nacht sind wir zu Wasser worden; der Park ein trüber See,
                   das Gartenhaus schwimmt darin, Hunde heulen. Wir, vom Bürgelstein, der einst eine
                   römische Schanze war, beschützt, sitzen noch trocken, doch abgesperrt: an beiden
                   Enden ist die Straße bespült. Wir gondeln. Salzburg macht sich übrigens als
@@ -98,9 +98,9 @@
                   bloßen Zuschauer des Daseins geworden ist, das habe ich noch immer nicht
                   herausgebracht, weil doch österreichische Geschichte, die innere, die
                   Herzensgeschichte Österreichs ja noch niemals geschrieben worden ist. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Italiener und der Barockmensch, alle können sie besser mit
+         <note type="summary">Der Italiener und der Barockmensch, alle können sie besser mit
                   Hochwasser umgehen als die Salzburger! (Schreibt Bahr aus dem Trockenen.)</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">27. Mai [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">139–142</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Raoul Heinrich Francé: München. Die Lebensgesetze einer Stadt.
+         <note type="review-of">Raoul Heinrich Francé: München. Die Lebensgesetze einer Stadt.
                   München: Bruckmann, 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Wilhelm Scherer, der Unvergeßliche, mit Ottokar Lorenz
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Als Wilhelm Scherer, der Unvergeßliche, mit Ottokar Lorenz
                   zusammen eine Geschichte des Elsasses schrieb, nahm er sich vor, darin einmal »die
                   Schicksale eines bestimmten Landstrichs darzustellen wie die allseitige Entfaltung
                   einer Persönlichkeit, eines Individuums«. Das ist jetzt bald fünfzig Jahre her und
@@ -133,7 +133,7 @@
                   nur andeutet mit einer Gebärde, die den Faust ausrufen läßt: »Pfui über dich!«
                   Aber zur lebendigen Tat dieser Harmonie kann ich mir freilich einen schöneren Weg
                   nicht leicht denken als durch diesen sternenhellen Münchener Roman. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Mit Francés München-Biographie findet Bahr eine neue
+         <note type="summary">Mit Francés München-Biographie findet Bahr eine neue
                   Kulturwissenschaft begründet.</note>
       </body>
    </text>

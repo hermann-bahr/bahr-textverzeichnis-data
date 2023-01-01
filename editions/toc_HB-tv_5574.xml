@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. September [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">215–216</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kerr zieht im Septemberheft der »Neuen Rundschau« Fischers die
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Kerr zieht im Septemberheft der »Neuen Rundschau« Fischers die
                   Bilanz des heutigen deutschen Theaters: »Zwei Gegenrichtungen werden kenntlich.
                   Links: das gelallte Stück. Rechts: das gefingerte Stück. Links: die
                   verantwortungslose Nebelei, die kein Stück ist. Rechts: die feste Zimmerei, die
@@ -80,7 +80,7 @@
                   Unruh, der nur dazu noch ein bischen »fingern« zu lernen hätte, ja vielleicht sich
                   bloß auf das Fingern zu besinnen hätte, das er doch in den »Offizieren« schon ganz
                   gut verstand und nur dann über den Krieg halb vergaß. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Aus Alfred Kerrs Flüchen über die abgelaufene Theatersaison
+         <note type="summary">Aus Alfred Kerrs Flüchen über die abgelaufene Theatersaison
                   nimmt Bahr, dass es einen dramatischen »Kerl« brauche. Und fragt sich, ob Fritz
                   von Unruh das nicht wäre.</note>
       </body>

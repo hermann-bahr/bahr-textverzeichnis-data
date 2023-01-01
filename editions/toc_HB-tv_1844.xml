@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,11 +48,11 @@
                <date when="1901-03-24">24.3.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La souris (Die Maus)« von Éduard Pailleron</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die Maus« von Edouard Pailleron, aus dem Deutschen Volkstheater
+         <note type="review-of">»La souris (Die Maus)« von Éduard Pailleron</note>
+         <note type="incipit">»Die Maus« von Edouard Pailleron, aus dem Deutschen Volkstheater
                   bekannt. Will man die Stimmung des Publikums genau bezeichnen, so muß man sagen,
                   daß es sich hochachtungsvoll</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3991"/>
                <ptr type="pmb" target="#11610"/>

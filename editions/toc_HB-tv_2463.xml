@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2463" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Isenheimer Altar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -46,10 +46,10 @@
                <date when="1920-06-20">20.6.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bilderbuch, 7–16</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Krieg wurde der Isenheimer Altar aus Colmar nach München in
+         <note type="other-prints">Bilderbuch, 7–16</note>
+         <note type="incipit">Im Krieg wurde der Isenheimer Altar aus Colmar nach München in
                   Sicherheit gebracht</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1920_isenheimer.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1920_isenheimer.pdf</ref>
       </body>
    </text>
 </TEI>

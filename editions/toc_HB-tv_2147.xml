@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzmeldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-03-04">4.3.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Jugend von heute« von Otto Ernst</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In meinem gestrigen Feuilleton habe ich ja schon meine Meinung
+         <note type="review-of">»Jugend von heute« von Otto Ernst</note>
+         <note type="incipit">In meinem gestrigen Feuilleton habe ich ja schon meine Meinung
                   über die lustige Komödie des Herrn Otto Ernst »Jugend von heute« gesagt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11260"/>
                <ptr type="pmb" target="#27259"/>

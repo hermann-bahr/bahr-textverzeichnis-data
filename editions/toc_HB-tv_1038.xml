@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1038" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Katholische Partei</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -45,7 +45,7 @@
                <date when="1929-01-20">20.1.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eine lange editorische Einleitung distanziert sich ein wenig von den
                      Ausführungen Bahrs, misst aber der Fragestellung nach der Partei der Katholiken
                      Bedeutung zu. In Bahrs Text findet sich auch der (leicht falsch zitierbare)
@@ -56,7 +56,7 @@
                      (»Seipels Bayernfahrt«, 21.1.) wird daraus im Jüdischen Echo, #5, 1.2.1929:
                      »Hermann Bahr schwärmt für Hitler.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Salzburger Universitätsfest hat die Macht des Katholizismus
+         <note type="incipit">Das Salzburger Universitätsfest hat die Macht des Katholizismus
                   weithin kundgetan.</note>
       </body>
    </text>

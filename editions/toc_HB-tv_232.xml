@@ -36,12 +36,12 @@
             type="Journal-Article"
             sameAs="pmb32105"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32105">Deutsches Volkstheater. (»Zwei glückliche Tage.«
                      Schwank von Franz von Schönthan u. Gustav Kadelburg)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -50,12 +50,12 @@
                <date when="1893-01-27">27.1.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Zwei glückliche Tage« in: Wiener Theater,
+         <note type="other-prints">Als »Zwei glückliche Tage« in: Wiener Theater,
                   205-211</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das neue Glück von Schönthan und Kadelburg ist
+         <note type="incipit">Das neue Glück von Schönthan und Kadelburg ist
                   vortrefflich.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75731.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75732.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75731.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75732.pdf</ref>
       </body>
    </text>
 </TEI>

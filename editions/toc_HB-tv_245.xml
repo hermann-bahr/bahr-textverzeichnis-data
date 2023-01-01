@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_245" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Antisemitismus. Ein internationales Interview. 1. Friedrich
                      Spielhagen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -47,9 +47,9 @@
                <date when="1893-03-25">25.3.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Antisemitismus, 5–10</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich fahre wieder einmal ein bischen in der Welt herum</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76301.pdf</ref>
+         <note type="other-prints">Der Antisemitismus, 5–10</note>
+         <note type="incipit">Ich fahre wieder einmal ein bischen in der Welt herum</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76301.pdf</ref>
       </body>
    </text>
 </TEI>

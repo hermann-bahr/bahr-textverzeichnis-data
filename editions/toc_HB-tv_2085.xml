@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über sich und die Steuern</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Bonner Anzeiger</title>
             <imprint>
                <biblScope unit="jg">31</biblScope>
@@ -48,16 +48,16 @@
                <date when="1921-04-01">1.4.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Ich soll Steuern zahlen« in: Tilsiter Allgemeine
+         <note type="first-printing">Als »Ich soll Steuern zahlen« in: Tilsiter Allgemeine
                   Zeitung, (1921) #13, 1–2 ? (26.3.1921) Rostocker Zeitung, 211 (1921) #72, 3.
                   (29.3.1921) Nürnberger Zeitung, (1921) #71, 4. (26.3.1921) Dresdner Neueste
                   Nachrichten, 29 (1921) #72, Osterbeilage, 20. (27.3.1921) Leipziger Tageblatt und
                   Handelszeitung, (1921) #151, Morgenausgabe, 2. (30.3.1921) Neue Badische
                   Landeszeitung, 31.3.1921 Dresdner Nachrichten, 8.4.1921 Hamburger Nachrichten, 130
                   (1921) #168 (84B), Abend–Ausgabe, 2. (12.4.1921)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Mit geringfügigen Änderungen: Als Tagebuch »2. März« In:
+         <note type="other-prints">Mit geringfügigen Änderungen: Als Tagebuch »2. März« In:
                   Liebe der Lebenden, I, 88-90</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine Zuschrift der Steuerverwaltung tadelt mich, weil ich das
+         <note type="incipit">Eine Zuschrift der Steuerverwaltung tadelt mich, weil ich das
                   Formular zur Erwerbsteuer nicht richtig ausgefüllt habe. Das gelingt mir nämlich
                   nie</note>
       </body>

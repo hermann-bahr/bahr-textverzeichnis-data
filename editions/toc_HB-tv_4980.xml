@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. Februar [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Tagebücher 2</title>
             <imprint>
                <pubPlace>Innsbruck, Wien, München</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">60–65</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">R</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 10.3.1918</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eugen Diederichs, der Jenenser Verleger, immer auf Lausche nach
+         <note type="review-of">R</note>
+         <note type="first-printing">Neues Wiener Journal, 10.3.1918</note>
+         <note type="incipit">Eugen Diederichs, der Jenenser Verleger, immer auf Lausche nach
                   Anzeichen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Diederichs schlägt eine Wahlrechtsreform vor, in der es neben
+         <note type="summary">Diederichs schlägt eine Wahlrechtsreform vor, in der es neben
                   einer Zentralregierung für die Kultur zuständige Regionen gibt. Bahr positioniert
                   sich nicht, sondern erinnert an Richard Strauss’ Autofahrt nach Paris.</note>
       </body>

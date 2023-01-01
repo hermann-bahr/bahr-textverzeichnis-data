@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb30111"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a" ref="pmb30111">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -48,9 +48,9 @@
                <date when="1903-04-07">7.4.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Braut von Messina« von Friedrich Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 41-43</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am 4. Juli 1803 schrieb Zelter an Goethe</note>
+         <note type="review-of">»Die Braut von Messina« von Friedrich Schiller</note>
+         <note type="other-prints">Glossen, 41-43</note>
+         <note type="incipit">Am 4. Juli 1803 schrieb Zelter an Goethe</note>
       </body>
    </text>
 </TEI>

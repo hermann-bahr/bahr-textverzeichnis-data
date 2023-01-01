@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">L’âme de Paris</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">107–109</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Théodore de Banville: L’âme de Paris. Nouveau souvenirs.
+         <note type="review-of">Théodore de Banville: L’âme de Paris. Nouveau souvenirs.
                   Paris: G. Charpentier 1890</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Teil von »Von neuer Kunst« in: Freie Bühne für modernes
+         <note type="first-printing">Teil von »Von neuer Kunst« in: Freie Bühne für modernes
                   Leben 1 (1890) #19, 524–527, hier 526–527. (11.6.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Théodore de Banville: L’âme de Paris (bei G. Charpentier). Der
+         <note type="incipit">Théodore de Banville: L’âme de Paris (bei G. Charpentier). Der
                   alte Banville, der Freund Baudelaires, Gautiers und Victor Hugos</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4283"/>
                <ptr type="pmb" target="#4950"/>

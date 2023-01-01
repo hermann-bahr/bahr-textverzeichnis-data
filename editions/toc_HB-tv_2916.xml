@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Alfred Freiherr v. Berger</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">452–459</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 6 (1896) #76, 176–177. (14.3.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man den Meldungen der Journale glauben darf, ist es jetzt
+         <note type="first-printing">Die Zeit, 6 (1896) #76, 176–177. (14.3.1896)</note>
+         <note type="incipit">Wenn man den Meldungen der Journale glauben darf, ist es jetzt
                   gewiß, daß Alfred v. Berger Director des Raimundtheaters wird.</note>
       </body>
    </text>

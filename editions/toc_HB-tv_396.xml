@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_396" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Kleinen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -45,14 +45,14 @@
                <date when="1896-11-21">21.11.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Briefe von Heinrich Voß dem Jüngeren an Goethe und Schiller.
+         <note type="review-of">Briefe von Heinrich Voß dem Jüngeren an Goethe und Schiller.
                   Hg. Hans Gerhard Gräf. Leipzig: Philipp Reclam jun. 1896</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bildung, 17-22 Um Goethe, 53-60</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bei Reclam*) ist jetzt ein Bändchen erschienen, die Briefe
+         <note type="other-prints">Bildung, 17-22 Um Goethe, 53-60</note>
+         <note type="incipit">Bei Reclam*) ist jetzt ein Bändchen erschienen, die Briefe
                   enthaltend, die der jüngere Heinrich Voß in seiner Weimarer Zeit an Freunde
                   geschrieben hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/112-127.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/112-128.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/112-127.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/112-128.pdf</ref>
       </body>
    </text>
 </TEI>

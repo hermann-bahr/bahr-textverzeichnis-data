@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">3. September [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">261–262</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In »L’oeil crevé« von Hervé</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Opportunismus bei Umstürzen fasst Bahr mit aphoristischer Kürze
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In »L’oeil crevé« von Hervé</note>
+         <note type="summary">Opportunismus bei Umstürzen fasst Bahr mit aphoristischer Kürze
                   zusammen: »Die Weltgeschichte ist immer ein Privatgeschäft von ein paar
                   Spitzbuben.«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#41402"/>
                <ptr type="HB-tv" target="HB-tv_3665_p2"/>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1878" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Das Baumeister-Jubiläum. Die Jubelvorstellung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -45,12 +45,12 @@
                <date when="1902-05-08">8.5.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Richter von Zalamea« von Calderón de la Barca</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mit der gestrigen Aufführung des »Richter von Zalamea« hat das
+         <note type="review-of">»Der Richter von Zalamea« von Calderón de la Barca</note>
+         <note type="incipit">Mit der gestrigen Aufführung des »Richter von Zalamea« hat das
                   Baumeister-Jubiläum seinen Gipfelpunkt erreicht.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beschreibt einen sehr rührselige und aufregenden Abend, mit
+         <note type="summary">Bahr beschreibt einen sehr rührselige und aufregenden Abend, mit
                   dem das fünfzigjährige Bühnenjubiläum begangen wurde.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11068"/>
                <ptr type="pmb" target="#28476"/>

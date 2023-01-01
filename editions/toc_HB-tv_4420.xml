@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4420" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Blick auf Roosevelt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16397, Morgenblatt</biblScope>
@@ -44,11 +44,11 @@
                <date when="1910-04-17">17.4.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich war doch sehr neugierig, ihn zu sehen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist in seiner Beschreibung Roosevelts, den er beim Besuch
+         <note type="incipit">Ich war doch sehr neugierig, ihn zu sehen.</note>
+         <note type="summary">Bahr ist in seiner Beschreibung Roosevelts, den er beim Besuch
                   in Wien zu sehen bekam, hingerissen von demokratischen Abgeordneten und
                   dereinstigen amerikanischen Präsidenten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11820"/>
                <ptr type="pmb" target="#13102"/>
@@ -56,7 +56,7 @@
                <ptr type="HB-tv" target="HB-tv_147_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1910-4-17_roosevelt.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1910-4-17_roosevelt.pdf</ref>
       </body>
    </text>
 </TEI>

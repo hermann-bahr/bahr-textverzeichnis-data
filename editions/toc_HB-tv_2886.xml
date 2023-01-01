@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Entsagung. (Schauspiel in vier Acten von Wilhelm Karczag. Zum
                      ersten Mal aufgeführt am 24. November)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,8 +50,8 @@
                <biblScope unit="pages">259–264</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 1 (1894) #9, 140–141. (1.12.1894)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist sonst nicht meine Art, Stücke zu erzählen.</note>
+         <note type="first-printing">Die Zeit, 1 (1894) #9, 140–141. (1.12.1894)</note>
+         <note type="incipit">Es ist sonst nicht meine Art, Stücke zu erzählen.</note>
       </body>
    </text>
 </TEI>

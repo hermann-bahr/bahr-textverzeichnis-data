@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Fackel</title>
             <imprint>
                <biblScope unit="jg">32</biblScope>
@@ -48,14 +48,14 @@
                <date when="1930">1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Kraus druckt unter der Überschrift »Transzendentales bei Lippowitz« zwei
                      Artikel vom selben (Sonn-) Tag aus dem Neuen Wiener Journal nebeneinander ab.
                      Neben Bahrs Tagebuch steht ein Bericht über »Zahlreiche Todesfälle in den
                      führenden Kreisen der Gesellschaft«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 13.4.1930</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">2. April. Das Aprilheft der »Stimmen der Zeit« bringt einen
+         <note type="first-printing">Neues Wiener Journal, 13.4.1930</note>
+         <note type="incipit">2. April. Das Aprilheft der »Stimmen der Zeit« bringt einen
                   Aufsatz Erich Przywaras über »Wende zum Menschen«, zunächst als Replik auf Peter
                   Wusts »Wende zum Objekt«, womit die Periode von 1922 bis etwa 1926 gemeint
                   war.</note>

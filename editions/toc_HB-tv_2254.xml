@@ -37,12 +37,12 @@
             subtype="Nachtkritik"
             status="checked"
             sameAs="pmb32716">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32716">Theater, Kunst und Literatur.
                      (Burgtheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -51,22 +51,22 @@
                <date when="1893-12-17">17.12.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Das ist der letzte Beitrag Bahrs in der »Deutschen Zeitung«. Am 21.12.1893 wird
                      in der Morgen-Ausgabe #7898, 5 vermerkt: »Unser geschätzter College Herr
                      Hermann Bahr hat sich bestimmt gefunden, aus dem Verbande der Redaction der
                      Deutschen Zeitung auszutreten.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Georgette« von Victorien Sardou, deutsch von Hermann von
+         <note type="review-of">»Georgette« von Victorien Sardou, deutsch von Hermann von
                   Löhner</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In »Georgette« gab heute Herr Zeska den Gontran: warm und
+         <note type="incipit">In »Georgette« gab heute Herr Zeska den Gontran: warm und
                   herzlich im Tone, doch ungelenk und von banalen Gesten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12624"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78948.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78948.pdf</ref>
       </body>
    </text>
 </TEI>

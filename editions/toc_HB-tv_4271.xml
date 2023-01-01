@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erinnerungen. XXIII</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,8 +49,8 @@
                <date when="1923-05-19">19.5.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Selbstbildnis, 271-276 (Kapitel 23, 1. Teil)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mein russisches Erlebnis war gewaltig: es bestand aus Kainz und
+         <note type="other-prints">Selbstbildnis, 271-276 (Kapitel 23, 1. Teil)</note>
+         <note type="incipit">Mein russisches Erlebnis war gewaltig: es bestand aus Kainz und
                   der Duse.</note>
       </body>
    </text>

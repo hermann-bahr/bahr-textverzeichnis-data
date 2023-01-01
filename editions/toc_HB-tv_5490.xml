@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. Dezember [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">17–22</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Thomas Mann: Herr und Hund. Gesang vom Kindchen. Zwei Idyllen.
+         <note type="review-of">Thomas Mann: Herr und Hund. Gesang vom Kindchen. Zwei Idyllen.
                   Berlin: S. Fischer 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf meinen Glückwunsch zum Sechziger schrieb mir Karl Kautsky
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Auf meinen Glückwunsch zum Sechziger schrieb mir Karl Kautsky
                   neulich, unserer Jugendzeit nachsinnend: »Jeder von uns gedachte damals den Himmel
                   zu stürmen ... Wir haben ihn nicht erstürmt, aber aus den Wolken sind wir doch
                   auch nicht gefallen.« Dieser Satz, in seiner guten Mischung von Resignation und
@@ -179,7 +179,7 @@
                   Macht und Ruhm und Lohn? Der Deutsche hat in sich selber Welt genug, um jede
                   äußere entbehren zu können! Hört den Gesang vom Kindchen, da klingt das alte
                   heilige Deutschland wieder, das unsterbliche! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Generation von 1880 bis 1920 habe zwar Vorzeigbares
+         <note type="summary">Die Generation von 1880 bis 1920 habe zwar Vorzeigbares
                   geleistet, aber nicht unbedingt das, was sie zu leisten vorhatte.</note>
       </body>
    </text>

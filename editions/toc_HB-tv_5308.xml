@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. Oktober [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">298–300</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Johann Peter Eckermann: Gespräche mit Goethe in den letzten
+         <note type="review-of">Johann Peter Eckermann: Gespräche mit Goethe in den letzten
                   Jahren seines Lebens. 1823 - 1832. Hg. Eduard Castle. Berlin: Deutsches
                   Verlagshaus Bong 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eckermanns Gespräche mit Goethe, seit meinen Knabenjahren</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Dass Otto Bauer, Joseph Schumpeter und Ignaz Seipel gleichzeitig
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Eckermanns Gespräche mit Goethe, seit meinen Knabenjahren</note>
+         <note type="summary">Dass Otto Bauer, Joseph Schumpeter und Ignaz Seipel gleichzeitig
                   abtreten, lässt sich begreifen als: der Erfolg der Mittelmäßigkeit in jeder
                   Partei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11220"/>
                <ptr type="pmb" target="#11461"/>

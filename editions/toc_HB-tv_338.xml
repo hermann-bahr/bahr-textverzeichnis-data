@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_338" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Johanna Ambrosius</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,16 +45,16 @@
                <date when="1895-06-08">8.6.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 87-93</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Edwin Bormann, sonst als sächselnder Poet der »Fliegenden«
+         <note type="other-prints">Renaissance, 87-93</note>
+         <note type="incipit">Herr Edwin Bormann, sonst als sächselnder Poet der »Fliegenden«
                   beliebt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_2827_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/36_152-153.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/36_154-155.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/36_152-153.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/36_154-155.pdf</ref>
       </body>
    </text>
 </TEI>

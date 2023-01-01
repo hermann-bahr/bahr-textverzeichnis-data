@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_508" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Kieselak</author>
             <title level="a">Freie Gedanken. [II]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Linzer Sonntagsblatt</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,13 +45,13 @@
                <date when="1882-10-01">1.10.1882</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Daß unsere Partei weder mit den windbeuteligen Schnorrern,
+         <note type="incipit">Daß unsere Partei weder mit den windbeuteligen Schnorrern,
                   Mäklern, Jobbern</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In seiner zweiten Kolumne als Kieselak schießt sich Bahr auf die
+         <note type="summary">In seiner zweiten Kolumne als Kieselak schießt sich Bahr auf die
                   Demokraten und vor allem die Sozialisten ein, denn gerade im Umgang mit letzteren
                   zeigt es sich ihm, dass die Deutschnationalen die »eigentlichen« Sozialisten
                   sind.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#11461"/>

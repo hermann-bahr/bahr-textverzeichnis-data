@@ -36,11 +36,11 @@
             subtype="Nachtkritik"
             sameAs="pmb32077"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32077">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -49,10 +49,10 @@
                <date when="1899-11-26">26.11.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Liebelei« von Arthur Schnitzler</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Fritz Lobheimer in der »Liebelei« hat Herr Korff sehr
+         <note type="review-of">»Liebelei« von Arthur Schnitzler</note>
+         <note type="incipit">Als Fritz Lobheimer in der »Liebelei« hat Herr Korff sehr
                   gefallen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2249"/>
                <ptr type="pmb" target="#2121"/>

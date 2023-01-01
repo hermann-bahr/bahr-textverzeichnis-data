@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Stifter</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Sendung des Künstlers</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">129–151</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die neue Rundschau, 33 (1922) #5, 470–487</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Sorrentiner Winter von 1876 auf 1877 keimte »Menschliches,
+         <note type="first-printing">Die neue Rundschau, 33 (1922) #5, 470–487</note>
+         <note type="incipit">Im Sorrentiner Winter von 1876 auf 1877 keimte »Menschliches,
                   Allzumenschliches« in der ersten leisen Ernüchterung Nietzsches von seinem
                   Wagnertraum, als er, aus Verzückung aufgeschreckt, nun das Enthusiastische, das
                   Hymnische seines Wesens bei Verstand, Zweifel, Spott, Witz und Übermut in die
                   Lehre gab, Rée hieß der Schulmeister, und sich zum erstenmal die Tugenden des
                   Tageslichts ahnen ließ.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Stifter gilt Bahr als ein noch immer weitgehend unentdeckter,
+         <note type="summary">Stifter gilt Bahr als ein noch immer weitgehend unentdeckter,
                   großer Schriftsteller, dessen Bedeutung eine beschränkte Rezeption (heute würden
                   ihn nur »Schulkinder« lesen) nicht erfassen könne. Anhand von Stifters Witiko
                   handelt Bahr von dem Problem der Legitimität, deren Grund jederzeit ein
                   illegitimer Gewaltakt wäre.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
                <ptr type="pmb" target="#12586"/>
@@ -102,7 +102,7 @@
                <ptr type="HB-tv" target="HB-tv_1300_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/19-sendung.pdf</ref>
       </body>
    </text>
 </TEI>

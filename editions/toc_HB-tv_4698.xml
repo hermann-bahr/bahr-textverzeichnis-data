@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4698" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur.
                      Kaiserjubiläums-Stadttheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -47,19 +47,19 @@
                <date when="1901-11-29">29.11.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Bearbeiterin des Stücks: Am 29.11. (#328) bringt das N.W.T. auf S. 4 die
                      Meldung, es verberge sich hinter »Jowa« [!] eine hochgestellte Persönlichkeit,
                      die sich erst im Fall eines Erfolgs nennen werde. Das Stück wurde von »Frau
                      Gräfin Bubna-Lüttitz, die einst am Wiener Stadttheater als Fräulein Schubert
                      thätig war« der Direktion übermittelt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Schandfleck« von Jowa, nach Ludwig Anzengrubers
+         <note type="review-of">»Der Schandfleck« von Jowa, nach Ludwig Anzengrubers
                   Dorfroman</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Der Schandfleck«, Volksstück in fünf Bildern von Jora, mit
+         <note type="incipit">»Der Schandfleck«, Volksstück in fünf Bildern von Jora, mit
                   Benützung des gleichnamigen Dorfromans von Ludwig Anzengruber. Am 23. Februar
                   1876</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10772"/>
                <ptr type="pmb" target="#10912"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_4698_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

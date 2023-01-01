@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">5. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">175–177</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">W. Matthießen: Thomas Manns Hexameter und unsere Zeit. In:
+         <note type="review-of">W. Matthießen: Thomas Manns Hexameter und unsere Zeit. In:
                   Hochland, 17 (1920) #9, 364-366</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Thomas Manns »Gesang vom Kindchen« erschien und ich fand,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Als Thomas Manns »Gesang vom Kindchen« erschien und ich fand,
                   kein anderes Gedicht meiner Generation sei Goethe näher gekommen, belehrte mich
                   jedermann, wie miserabel aber seine Hexameter sind: wenn nämlich derlei nur einer
                   sagt, sagen’s ihm gleich alle nach; kein Deutscher bleibt ja gern im Tadel zurück.
@@ -88,7 +88,7 @@
                   durchaus homerisch ist – Max Burckhard hat einst einen Gesang der Odyssee ins
                   Oberösterreichische übersetzt, da war die Seelenähnlichkeit im Klang frappant.)
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Thomas Mann mag schlechte Hexameter machen, für die Gegenwart
+         <note type="summary">Thomas Mann mag schlechte Hexameter machen, für die Gegenwart
                   sind sie deutsch genug.</note>
       </body>
    </text>

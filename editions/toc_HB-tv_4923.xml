@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Salzburg, 14. April [1917]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">89–95</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Leopold Ziegler: Volk, Staat und Persönlichkeit. Berlin: S.
+         <note type="review-of">Leopold Ziegler: Volk, Staat und Persönlichkeit. Berlin: S.
                   Fischer 1916.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Ich habe der Deutschen Juni gesungen, das hält nicht bis
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Ich habe der Deutschen Juni gesungen, das hält nicht bis
                   Oktober«, klagte Goethe, da die Stimmung von 1813</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Obwohl das »Tagebuch« üblicherweise an einem Sonntag erschien,
+         <note type="summary">Obwohl das »Tagebuch« üblicherweise an einem Sonntag erschien,
                   wurde dieses an einem Samstag gebracht. Bahr behandelt die Frage des Individuums
                   in der Kriegszeit.</note>
       </body>

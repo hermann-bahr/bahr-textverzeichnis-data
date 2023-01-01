@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Raimundtheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,18 +48,18 @@
                <date when="1894-10-06">6.10.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Mann ohne Vorurtheil« von Leopold von Sacher
+         <note type="review-of">»Der Mann ohne Vorurtheil« von Leopold von Sacher
                   Masoch</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Raimundtheater geht es gar nicht mehr, das Haus ist leer,
+         <note type="incipit">Im Raimundtheater geht es gar nicht mehr, das Haus ist leer,
                   nichts will ziehen. Dem Director wird bange.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12331"/>
                <ptr type="pmb" target="#9625"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1-10.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1-11.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1-10.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1-11.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb30023"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30023">Moppchen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">15757, Morgenblatt</biblScope>
@@ -47,12 +47,12 @@
                <date when="1908-07-04">4.7.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Otto Erich Hartleben: Briefe an seine Frau. 1887–1905. Hg. u.
+         <note type="review-of">Otto Erich Hartleben: Briefe an seine Frau. 1887–1905. Hg. u.
                   eingeleitet v. Franz Ferdinand Heitmueller. Berlin: S. Fischer 1908</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als es im Jahre 1890 losging, kam auch ich nach Berlin. Die
+         <note type="incipit">Als es im Jahre 1890 losging, kam auch ich nach Berlin. Die
                   Freie Bühne war gegründet.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Erinnerung an Otto Erich Hartleben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Erinnerung an Otto Erich Hartleben.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11763"/>
                <ptr type="pmb" target="#11617"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_1134_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1908-7-4_moppchen.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1908-7-4_moppchen.pdf</ref>
       </body>
    </text>
 </TEI>

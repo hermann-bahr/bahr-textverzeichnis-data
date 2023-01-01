@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr zu Weltanschauungsbüchern. (Judentum, Christentum,
                      Katholizismus)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -51,14 +51,14 @@
                <date when="1921-09-25">25.9.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinem Tagebuch, im ’N. W. Journal’, schreibt
                      Hermann Bahr:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist jetzt Brauch, daß sich unter uns jedermann seinen Gott,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Es ist jetzt Brauch, daß sich unter uns jedermann seinen Gott,
                   seine persönliche Welt am eigenen Herde selber kocht</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_weltanschauung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_weltanschauung.pdf</ref>
       </body>
    </text>
 </TEI>

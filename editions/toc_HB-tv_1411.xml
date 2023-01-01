@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch_Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Weltstadtseelsorge</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Germania, Berlin</title>
             <imprint>
                <biblScope unit="jg">56</biblScope>
@@ -48,18 +48,18 @@
                <date when="1926-08-22">22.8.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Im Rahmen seines »Tagebuches im ’Neuen Wiener Journal’
                      vom 4.7.1926 schrieb der bekannte österreichische Dichter Hermann Bahr folgende
                      Betrachtung über die drei Bände »Notizen« von Dr. Carl Sonnenschein (Berlin,
                      Verlag der Germania).«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Tagebuch« in: Neues Wiener Journal, 4.7.1926 Als
+         <note type="first-printing">Als »Tagebuch« in: Neues Wiener Journal, 4.7.1926 Als
                   »Hermann Bahr: Weltstadtseelsorge. Dr. Karl Sonnenschein« in: Schönere Zukunft, 1
                   (1926) #41, 1016–1017. (18.7.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die deutschen Stämme kennen einander kaum, sie befremden/
+         <note type="incipit">Die deutschen Stämme kennen einander kaum, sie befremden/
                   einander; gar aber der deutsche Katholik bleibt Protestanten/</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/germania/1926_weltstadt.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/germania/1926_weltstadt.pdf</ref>
       </body>
    </text>
 </TEI>

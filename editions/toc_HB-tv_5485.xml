@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">20. November [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">5–8</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Genesius« von Ilse von Stach</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Lieber Albert Heine! Den ganzen Tag muß ich heute an Sie
+         <note type="review-of">»Genesius« von Ilse von Stach</note>
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Lieber Albert Heine! Den ganzen Tag muß ich heute an Sie
                   denken, neidgeschwollen: Denn wonach ich mich damals in meinem Burgtheaterkammerl
                   vor Sehnsucht fast blind geblickt, siehe, das fällt Ihnen jetzt, fliegt Ihnen zu,
                   Sie haben nur die Hand aufzutun! Nein, ich will nicht undankbar sein: mir ward
@@ -141,7 +141,7 @@
                   stark, daß Heiden und Juden und Türken und Ketzer und Spötter und Leugner, ich
                   möchte wetten, überhören werden, wie fromm es schlägt, also könnten Sie’s doch
                   ruhig wagen, lieber Freund!« |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr hat endlich das von ihm gerade während seiner
+         <note type="summary">Bahr hat endlich das von ihm gerade während seiner
                   Burgtheaterdirektoriumszeit gesuchte katholische Kunstwerk gefunden und legt es
                   dem Schauspieler Albert Heine dringend ans Herz.</note>
       </body>

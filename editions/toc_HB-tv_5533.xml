@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">28. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">120–123</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einem jungen Dichter, der sich zutraut, mythische Gestalten
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Einem jungen Dichter, der sich zutraut, mythische Gestalten
                   abgeschiedener Zeiten durch einen Hauch der unseren zu beleben (wie das Walter
                   Eidlitz in seinem Moses, in seinem Herostrat versucht hat), wüßt ich jetzt einen
                   guten, zum Ausdruck gerade dieser Stunde bereiten, nur auf den Weckruf wartenden
@@ -134,7 +134,7 @@
                   wieder den geborenen Knecht beherrscht; und das Glück für beide ist nun: der Herr
                   merkt’s, der Knecht aber nie, denn daran allein erkennt man die geborenen Herren,
                   daß sie sich ja nichts merken lassen! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr empfiehlt Dichtern ein in Fragment erhaltenen Stoff,
+         <note type="summary">Bahr empfiehlt Dichtern ein in Fragment erhaltenen Stoff,
                   Herakles bei Syleus, zur Bearbeitung und verknüpft damit die Zeitfrage nach dem
                   Herrn und dem Knecht in umgestürzten Machtverhältnissen.</note>
       </body>

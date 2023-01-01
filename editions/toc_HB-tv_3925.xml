@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzkritik_Unsichere_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">-hr</author>
             <title level="a">Wiener Autoren. Brociner »Rauschgold«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -48,22 +48,22 @@
                <date when="1892-12-09">9.12.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Zuschreibung des Pseudonyms in der Deutschen Zeitung »-hr« siehe die
                      Anmerkung zu »In der Hölle«, 2.10.1892, 3. Auffällig hier ist, dass sich
                      darüber eine Rezension von Bahrs eigenem Buch »Dora« befindet, sowie der
                      Umstand, dass Bahr ein Buch seines Verlegers bewerben würde.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Marco Brociner: Rauschgold. Die Liebesabenteuer des Herrn
+         <note type="review-of">Marco Brociner: Rauschgold. Die Liebesabenteuer des Herrn
                   Boboira. Kleine Geschichten. Dresden, Leipzig: Pierson 1893</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das neue Buch von Marco Brociner »Rauschgold«, das soeben bei E.
+         <note type="incipit">Das neue Buch von Marco Brociner »Rauschgold«, das soeben bei E.
                   Pierson in Dresden erschienen ist, enthält</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3442"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75254.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75254.pdf</ref>
       </body>
    </text>
 </TEI>

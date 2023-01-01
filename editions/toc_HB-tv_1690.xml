@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1690" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Unsicherheit in Österreich. An einen neuen
                      Abgeordneten</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">15377, Morgenblatt</biblScope>
@@ -46,14 +46,14 @@
                <date when="1907-06-14">14.6.1907</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Noch 1930 ist Bahr mit dem Aufsatz zufrieden: Tagebuch. 20. August. Neues
                      Wiener Journal, 38 (1930) #13211, 16. (31.8.1930)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Buch der Jugend, 125–130</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da Sie jetzt, lieber Freund, zu den Erwählten gehören und ein
+         <note type="other-prints">Buch der Jugend, 125–130</note>
+         <note type="incipit">Da Sie jetzt, lieber Freund, zu den Erwählten gehören und ein
                   Mächtiger sind, wlll ich nicht hinter den anderen zurückstehen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1907-6-14_unsicherheit-oesterreich.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1907-6-14_unsicherheit-oesterreich.pdf</ref>
       </body>
    </text>
 </TEI>

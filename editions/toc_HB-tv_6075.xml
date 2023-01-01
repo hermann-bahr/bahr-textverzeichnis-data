@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 4. Oktober</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,11 +48,11 @@
                <date when="1920-10-24">24.10.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ludwig Schemann: Von deutscher Zukunft. Gedanken Eines, der
+         <note type="review-of">Ludwig Schemann: Von deutscher Zukunft. Gedanken Eines, der
                   auszog, das Hoffen zu lernen. Leipzig: Weicher 1920. Eduard Keyserling:
                   Philosophie als Kunst. Darmstadt: Otto Reichel 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 236-241</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seltsam klingt durch die Nacht dieser Zeit die klagende Stimme
+         <note type="other-prints">Kritik der Gegenwart, 236-241</note>
+         <note type="incipit">Seltsam klingt durch die Nacht dieser Zeit die klagende Stimme
                   Ludwig Schemanns. Ein Getreuer Wahnfrieds, Gobineaus Apostel in Deutschland, das
                   Erbe Lagardes hütend, hat er, während rings Deutschland eben anfing, ein großes
                   Geschäft zu werden, sein ganzes Leben im Glauben an eine sittliche Wiedergeburt
@@ -207,10 +207,10 @@
                   auch die letzte Spur deutschen Wesens »verredet« sein wird. Die großen Völker
                   haben in ihren größten Zeiten das Wort immer an die Fläche des Daseins verwiesen:
                   Tiefen sind stumm. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Schemann kann schimpfen, aber nicht Hoffen lehren. Überhaupt ist
+         <note type="summary">Schemann kann schimpfen, aber nicht Hoffen lehren. Überhaupt ist
                   das Deutsche Wesen für Bahr in der Nachfolge und Interpretation Keyserlings nur
                   durch heiliges Schweigen zum Geistigen zu wenden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

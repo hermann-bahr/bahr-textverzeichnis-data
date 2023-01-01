@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">30. Oktober [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">III, 273</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Teubners kleine Auslandstexte für höhere Lehranstalten</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gott strafe England! war eben noch der deutsche Feldruf</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über den Wechsel von Französisch zu Englisch als erster lebender
+         <note type="review-of">Teubners kleine Auslandstexte für höhere Lehranstalten</note>
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Gott strafe England! war eben noch der deutsche Feldruf</note>
+         <note type="summary">Über den Wechsel von Französisch zu Englisch als erster lebender
                   Fremdsprache im Schulunterricht.</note>
       </body>
    </text>

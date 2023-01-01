@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">XX</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,20 +48,20 @@
                <biblScope unit="pages">231–243</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. XX. (Zweiter Teil)« in: Das Neue
+         <note type="first-printing">Als »Erinnerungen. XX. (Zweiter Teil)« in: Das Neue
                   Reich, 5 (1923) #23, 490–491. (10.3.1923) Französisch: Les aventures de mon esprit
                   au Quartier latin. La Vie des peuples. Revue synthétique de la pensée et de
                   l’activité française et étrangères, 4 (1923) #43 (Novembre), 497–520.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es war ein guter Instinkt, der mich auf der Flucht vor mir
+         <note type="incipit">Es war ein guter Instinkt, der mich auf der Flucht vor mir
                   selbst gerade nach Paris gelenkt hatte. Denn ich kam dort zur entschei- denden
                   Wendung zurecht: an seinem Geburtsort wurde der Geist des achtzehnten Jahrhunderts
                   eben bestattet.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ende einer Epoche in Paris – Satanismus und Bekehrungen – »Die
+         <note type="summary">Ende einer Epoche in Paris – Satanismus und Bekehrungen – »Die
                   große Sünde« – »Die gute Schule« als Ausdruck der Pariser Zeit – Form als Ausdruck
                   – Verhältnis von Ethik und Ästhetik – Zum Bejahen geboren – Literatur der
                   Décadents – Seine Kritiken als Empfindungen – Affaire mit Nini – Abreise aus
                   Paris</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#5449"/>
@@ -120,7 +120,7 @@
                <ptr type="HB-tv" target="HB-tv_4861_p19"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

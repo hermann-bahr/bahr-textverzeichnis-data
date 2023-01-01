@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Vortrag"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater. (Aus einem Vortrage in der
                      »Grillparzer-Gesellschaft«)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -50,17 +50,17 @@
                <date when="1895-04-20">20.4.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Zitate von Schröder und Boutet de Monvel hat Bahr zuletzt einen Monat
                      früher verwendet (Kunst und Leben, #23, 158).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wunberg: Das junge Wien, 95.16</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Goethe hat einmal in seiner gelassenen und trocken resumierenden
+         <note type="other-prints">Wunberg: Das junge Wien, 95.16</note>
+         <note type="incipit">Goethe hat einmal in seiner gelassenen und trocken resumierenden
                   Weise gesagt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr entzieht sich in seinem Vortrag dem Bedürfnis einer
+         <note type="summary">Bahr entzieht sich in seinem Vortrag dem Bedürfnis einer
                   Definition des Theaters, stellt aber in den Veränderungen vier bleibende Momente
                   fest.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#2702"/>
@@ -97,8 +97,8 @@
                <ptr type="HB-tv" target="HB-tv_2310_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/29_42-43.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/29_44-45.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/29_42-43.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/29_44-45.pdf</ref>
       </body>
    </text>
 </TEI>

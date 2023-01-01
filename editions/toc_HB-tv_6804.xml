@@ -34,11 +34,11 @@
       <body xml:id="HB-tv_6804"
             type="Journal-Article"
             subtype="Nachdruck_Gekürzt">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Bauernkind</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Volk und Heimat. Bayerische Volksbildungszeitung</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -47,14 +47,14 @@
                <date when="1927-09-05">5.9.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Gekürzter Nachdruck aus den M. N. N.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten, 79 (1926) #190, 1–2.
+         <note type="first-printing">Münchner Neueste Nachrichten, 79 (1926) #190, 1–2.
                   (11.7.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Almanach des Oberösterreichischen Künstlerbundes »März«.
+         <note type="other-prints">Almanach des Oberösterreichischen Künstlerbundes »März«.
                   Linz: »März« 1926, 16-21.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von den »Urworten« Goethes</note>
+         <note type="incipit">Von den »Urworten« Goethes</note>
       </body>
    </text>
 </TEI>

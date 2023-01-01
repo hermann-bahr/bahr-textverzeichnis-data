@@ -35,7 +35,7 @@
             type="Book"
             status="checked"
             sameAs="pmb29927">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb29927">Drut. Roman</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>532 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am 28. Mai 1909 schreibt Bahr an Redlich, dass es seit dem Vortag ausgegeben
                      würde (Bahr/Redlich, 63). Kraus erwähnt, dass Bahr die Inspiration für das Buch
                      aus dem Prozess gegen die Leontine von Hervay bezogen hat (Die Fackel, 11
@@ -65,10 +65,10 @@
                      A.K.: Hermann Bahr: Drut. In: Vossische Zeitung, (1910) #239, MA, 2-3.
                      (25.5.1910)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Die Hexe Drut«, mit Einl. von Lyonel Dunin und Vorwort
+         <note type="other-prints">Als »Die Hexe Drut«, mit Einl. von Lyonel Dunin und Vorwort
                   des Verf., 6.-55. Tsd. der Gesamtaufl. Berlin: Sieben Stäbe-Vlg. 1929, 438 S.
                   Aufl. 50.000 Neuausg. Wien: H. Bauer 1946, 530 S.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.literaturdownload.at/bahr.html</ref>
+         <ref type="URL">http://www.literaturdownload.at/bahr.html</ref>
       </body>
    </text>
 </TEI>

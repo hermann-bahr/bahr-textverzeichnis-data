@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_813" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb41564">Die Schaubühne</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -45,11 +45,11 @@
                <date when="1910-12-29">29.12.1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 18 (1910) #6170, 6.
+         <note type="first-printing">Neues Wiener Journal, 18 (1910) #6170, 6.
                   (25.12.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Freunde Bergers fangen an, nervös zu werden. Es wäre nun
+         <note type="incipit">Die Freunde Bergers fangen an, nervös zu werden. Es wäre nun
                   doch, meinen sie, allmählich Zeit für ihn, seine Verheißungen einzulösen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/schaubuehne/1910_burgtheater.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/schaubuehne/1910_burgtheater.pdf</ref>
       </body>
    </text>
 </TEI>

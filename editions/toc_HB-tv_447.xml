@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_447" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater. [Demission von Burckhard, 2. Fortsetzung]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">14</biblScope>
@@ -45,13 +45,13 @@
                <date when="1898-02-12">12.2.1898</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 168–190</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der verantwortliche Redacteur der »Zeit« hat eine Zuschrift
+         <note type="other-prints">Wiener Theater, 168–190</note>
+         <note type="incipit">Der verantwortliche Redacteur der »Zeit« hat eine Zuschrift
                   erhalten, welche lautet:</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Dieser Artikel bringt vor allem eine Auseinandersetzung mit der
+         <note type="summary">Dieser Artikel bringt vor allem eine Auseinandersetzung mit der
                   Rolle Anton Bettelheims, den Bahr, angestachelt durch eine »Richtigstellung« des
                   Verrats an seinem Freund Burckhard beschuldigt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11867"/>
                <ptr type="pmb" target="#2777"/>
@@ -65,9 +65,9 @@
                <ptr type="HB-tv" target="HB-tv_447_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/176-106.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/176-107.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/176-108.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/176-106.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/176-107.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/176-108.pdf</ref>
       </body>
    </text>
 </TEI>

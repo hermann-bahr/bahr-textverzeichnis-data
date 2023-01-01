@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 31. Jänner</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43849">Der Weg. Wochenschrift für Politik und
                      Kultur</title>
             <imprint>
@@ -49,8 +49,8 @@
                <date when="1906-02-10">10.2.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 111–113</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gelesen: »Don Juan, Casanova und andere erotische Charaktere«
+         <note type="other-prints">Tagebuch (1909), 111–113</note>
+         <note type="incipit">Gelesen: »Don Juan, Casanova und andere erotische Charaktere«
                   von Oskar A. H. Schmitz, Verlag von Axel Junker in Stuttgart. Endlich fangen auch
                   die Deutschen an, erotisch zu denken, was sie seit Heinse verlernt hatten.</note>
       </body>

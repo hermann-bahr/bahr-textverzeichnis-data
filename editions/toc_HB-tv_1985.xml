@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -48,11 +48,11 @@
                <date when="1903-09-23">23.9.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der zündende Funke« von Édouard Pailleron. »Une tasse de the
+         <note type="review-of">»Der zündende Funke« von Édouard Pailleron. »Une tasse de the
                   (Eine Tasse Thee)« von Charles Nuitter und Joseph Derley, deutsch von August
                   Förster.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der »zündende Funke« zündet nicht mehr.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Der »zündende Funke« zündet nicht mehr.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3991"/>
                <ptr type="pmb" target="#2249"/>

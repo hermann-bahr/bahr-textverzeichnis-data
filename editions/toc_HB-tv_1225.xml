@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1225" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Romantik. Heidelberger Rede. [I]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -46,19 +46,19 @@
                <date when="1922-10-07">7.10.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Der Autor überließ uns gütig zur Veröffentlichung das
                      Manuskript der Rede, die er anfangs September auf der Tagung des ’Verbandes der
                      katholischen Akademiker Deutschlands zur Pflege der katholischen
                      Weltanschauung« in Heidelberg hielt. Die Schriftleitung«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Katholische Romantik« in: Germania, Berlin, 52
+         <note type="first-printing">Als »Katholische Romantik« in: Germania, Berlin, 52
                   (1922) #484, Morgen–Ausgabe, 2. (7.9.1922) Als »Katholischer Glaube und Romantik«
                   in: Jahrbuch des Verbandes der Vereine katholischer Akademiker zur Pflege der
                   katholischen Weltanschauung, 1922, 32–40.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Heidelberger Rede« in: Labyrinth der Gegenwart,
+         <note type="other-prints">Als »Heidelberger Rede« in: Labyrinth der Gegenwart,
                   150–170</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was ist romantisch? Jeder Blick auf die Stadt</note>
+         <note type="incipit">Was ist romantisch? Jeder Blick auf die Stadt</note>
       </body>
    </text>
 </TEI>

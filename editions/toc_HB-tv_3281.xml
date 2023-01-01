@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Fidelio. Dezember 1904</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">19–27</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Dekorationen« in: Die neue Rundschau, 16 (1905) #2,
+         <note type="first-printing">Als »Dekorationen« in: Die neue Rundschau, 16 (1905) #2,
                   157–162</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mahler hat den Fidelio neu inszeniert, mit neuen Dekorationen
+         <note type="incipit">Mahler hat den Fidelio neu inszeniert, mit neuen Dekorationen
                   von Roller, melden die Wiener Zeitungen. Einige spöttisch: Wozu? der alte Fidelio
                   war noch ganz gut. Andere zustimmend: Die Dekorationen sind wirklich sehr
                   schön.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Anhand der Mahler-Inszenierung des »Fidelio«, für die Ernst
+         <note type="summary">Anhand der Mahler-Inszenierung des »Fidelio«, für die Ernst
                   Roller die Dekoration gestellt hatte, diskutiert Bahr Fragen der Inszenierung und
                   Bühnendekoration.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12163"/>
                <ptr type="pmb" target="#10866"/>
@@ -88,7 +88,7 @@
                <ptr type="HB-tv" target="HB-tv_1326_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

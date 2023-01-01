@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Unsichere_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Paul Remer: Theodor Storm als norddeutscher Dichter</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neuland. Monatsschrift für Politik, Wissenschaft, Literatur und
                      Kunst</title>
             <imprint>
@@ -49,16 +49,16 @@
                <date when="1897">1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Frage, ob Bahr Verfasser dieses Artikels ist, siehe die Anmerkung unter H.
                      B.: Wilhelm Holzamer: Zum Licht, ebenfalls in Neuland.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Paul Remer: Theodor Storm als norddeutscher Dichter. Berlin:
+         <note type="review-of">Paul Remer: Theodor Storm als norddeutscher Dichter. Berlin:
                   Schuster &amp; Löffler 1897</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Theodor Storm hat nie mehr sein wollen als ein Heimathsdichter,
+         <note type="incipit">Theodor Storm hat nie mehr sein wollen als ein Heimathsdichter,
                   doch auf dieser klugen Selbstbescheidung beruht seine Eigenart und seine
                   Grösse.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10061"/>
                <ptr type="pmb" target="#11662"/>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">XIV</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">134–147</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. XIV« in: Das Neue Reich, 4 (1922) #27,
+         <note type="first-printing">Als »Erinnerungen. XIV« in: Das Neue Reich, 4 (1922) #27,
                   818–821. (16.7.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von meiner ersten Première nach Wien zurückgekehrt, fand ich,
+         <note type="incipit">Von meiner ersten Première nach Wien zurückgekehrt, fand ich,
                   daß es Zeit wurde, doch endlich mit der Vorbereitung zur ersten Staatsprüfung
                   Ernst zu machen: sie stand drohend am Ende des vierten Semesters und schon war
                   mein drittes bald um. Ich beschloß mit der Arbeit am nächsten Montag zu beginnen,
                   aber es blieb immer beim nächsten.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Müßigang als Studentenleben – Burschenschaft – Wissenschaft
+         <note type="summary">Müßigang als Studentenleben – Burschenschaft – Wissenschaft
                   statt Religion und Kunst – Tod Richard Wagners – Rede am Trauer-Kommers –
                   Relegation von der Universität – Abschieds-Kommers</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3723"/>
                <ptr type="pmb" target="#20077"/>
@@ -85,7 +85,7 @@
                <ptr type="HB-tv" target="HB-tv_4855_p8"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

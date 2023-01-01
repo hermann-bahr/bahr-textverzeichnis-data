@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">15. März [1924]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">71–74</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zugleich mit dem achten Bande der großen deutschen Ausgabe
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Zugleich mit dem achten Bande der großen deutschen Ausgabe
                   Stendhals</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Zu Stendhal.</note>
+         <note type="summary">Zu Stendhal.</note>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzmeldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,11 +48,11 @@
                <date when="1900-03-16">16.3.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Ehrenschulden« und »Hanns Lange« von Paul Heyse</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Heyse Feier: zuerst »Ehrenschulden«, ein Trauerspiel in einem
+         <note type="review-of">»Ehrenschulden« und »Hanns Lange« von Paul Heyse</note>
+         <note type="incipit">Heyse Feier: zuerst »Ehrenschulden«, ein Trauerspiel in einem
                   Akt, vom Raimundtheater her bekannt; dann der »Hanns Lange«, der seit 1864 immer
                   wieder im Repertoire des Burgtheaters aufgetaucht ist</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11691"/>
                <ptr type="pmb" target="#2702"/>

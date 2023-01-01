@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1031" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Josef Kainz. Zum fünfzigsten Geburtstag (2. Januar 1908)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -45,10 +45,10 @@
                <date when="1908-01-01">1.1.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Buch der Jugend, 77-86 Das Hermann Bahr-Buch,
+         <note type="other-prints">Buch der Jugend, 77-86 Das Hermann Bahr-Buch,
                   237-245</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">I. Als Kainz 1877, neunzehn Jahre alt, zu Förster</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1908_kainz.pdf</ref>
+         <note type="incipit">I. Als Kainz 1877, neunzehn Jahre alt, zu Förster</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1908_kainz.pdf</ref>
       </body>
    </text>
 </TEI>

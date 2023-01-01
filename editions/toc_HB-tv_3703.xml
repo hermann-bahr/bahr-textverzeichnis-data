@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kennen Sie ihre Leser?. Eine Umfrage bei deutschen Dichtern und
                      Schriftstellern</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Reclams Universum</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -50,14 +50,14 @@
                <date when="1929-03-21">21.3.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Anstelle einer Fotografie Bahrs ist der Antwort eine Miniatur aus einer
                      Handschrift des 9. Jahrhunderts mit einem Leser beigegeben. Weitere Antworten
                      der ersten Reihe: Waldemar Bonsels, Wilhelm von Scholz, Jakob Wassermann,
                      Walter von Molo, Klaus Mann, Ernst Penzoldt, Arnold Zweig, Lion Feuchtwanger
                      und Erich Ebermayer.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Erfahrung hat mich belehrt, Lesern meiner Schriften in großem
+         <note type="incipit">Erfahrung hat mich belehrt, Lesern meiner Schriften in großem
                   Bogen aus dem Wege zu gehen. Der Leser, und gar der von Romanen, fragt nicht, was
                   der Schriftsteller meint, er liest nichts heraus, er liest bloß immer sich selbst
                   hinein und je leichter ihm der Verfasser diese Selbsttäuschung macht, desto lauter

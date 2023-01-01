@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb29901"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb29901">Sanna. Schauspiel in fünf Akten</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>124 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Max Burckhard zum fünfzigsten Geburtstag in herzlicher Bewunderung und
                      Verehrung. 14. Juli 1904«. Max Reinhardt an Bahr: »Madonna di Campiglio, dem
                      18. Juli 1904 Lieber, sehr verehrter Herr Hermann Bahr! Ich freue mich herzlich
@@ -72,7 +72,7 @@
                      Das literarische Echo, 7 (1910) #22, 1648. (15. August) wird »Sanna« von
                      Sinaida Wengerowa im »Westnik Jewkopy« besprochen.</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=61&amp;zoom=1</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=61&amp;zoom=1</ref>
       </body>
    </text>
 </TEI>

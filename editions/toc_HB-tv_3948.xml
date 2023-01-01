@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Leserbrief"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr, der »Pumperlgesunde«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -48,13 +48,13 @@
                <date when="1920-07-03">3.7.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Hermann Bahr dementiert in einem Schreiben aus Salzburg Gerüchte, »er liege im
                      Sterben«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hermann Bahr schreibt aus Salzburg: »Ich werde seit ein paar
+         <note type="incipit">Hermann Bahr schreibt aus Salzburg: »Ich werde seit ein paar
                   Tagen abwechselnd aus Wien und München antelephoniert</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1920_pumperlgsund.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1920_pumperlgsund.pdf</ref>
       </body>
    </text>
 </TEI>

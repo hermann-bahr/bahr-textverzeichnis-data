@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Was ist konservativ?</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Seitenspiegel. Beiblatt der Neuen Preussischen
                      Kreuz-Zeitung</title>
             <imprint>
@@ -49,18 +49,18 @@
                <date when="1929-03-17">17.3.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Beilage zur Neuen Preussischen Kreuz-Zeitung, 1929 #117. (1. Sonntags-Ausgabe)
                      Zweiter Teil der Umfrage, diesmal mit Antworten von: Dr. Wildgrube, Hanns
                      Jobst, Alfred von Landsberg-Velen, Richard Benz, Hans Fr. Blunck, Arnolt
                      Bronnen, Wolfgang Freiherr von Gersdorff, Jakob Burckhardt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sie fragen: Was ist konservativ? Wir sind gewohnt, dieses Wort
+         <note type="incipit">Sie fragen: Was ist konservativ? Wir sind gewohnt, dieses Wort
                   in seiner politischen Bedeutung zu gebrauchen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr betont die Notwendigkeit von Strebenden, die nicht
+         <note type="summary">Bahr betont die Notwendigkeit von Strebenden, die nicht
                   glücklich werden, aber dafür für Veränderung sorgen und Konservativen, die
                   zufrieden sind mit dem, was sie haben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#18502"/>
                <ptr type="pmb" target="#11461"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_1406_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/zeitenspiegel/1929_konservativ.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/zeitenspiegel/1929_konservativ.pdf</ref>
       </body>
    </text>
 </TEI>

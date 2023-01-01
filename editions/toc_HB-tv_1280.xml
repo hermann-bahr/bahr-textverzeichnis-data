@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1280" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Taugenichts</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -45,19 +45,19 @@
                <date when="1917-03-18">18.3.1917</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 24 (1916) #8323, 8. (31.12.1916)
+         <note type="first-printing">Neues Wiener Journal, 24 (1916) #8323, 8. (31.12.1916)
                   Das Kleine Journal, 39 (1917) #64, 4. (16.3.1917) Hamburgischer Correspondent, 187
                   (1917) #160, Abend–Ausgabe, 2. (28.3.1917) Saale–Zeitung, 51 (1917) #214,
                   Abend–Ausgabe, 1. Beiblatt, [1]. (8.5.1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der ’Neuen Rundschau’ klagt Thomas Mann: ’Der deutsche Mensch
+         <note type="incipit">In der ’Neuen Rundschau’ klagt Thomas Mann: ’Der deutsche Mensch
                   ist heute kein Taugenichts mehr – o nein.’ Gott sei Dank, daß das endlich einer
                   bemerkt und klagend bemerkt, als einen Verlust, eine Verminderung, Verkürzung,
                   Verarmung der</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schließt sich der Meinung Thomas Manns an, dass die
+         <note type="summary">Bahr schließt sich der Meinung Thomas Manns an, dass die
                   Deutschen verlernt haben, was ihr eigentlich deutsches ist, den Blick auf
                   Metaphysisches zu richten: die Tüchtigkeit selbst wäre eine
                   englisch-protestantische Tugend.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12176"/>
                <ptr type="pmb" target="#11233"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_1387_p67"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1917_taugenichts.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1917_taugenichts.pdf</ref>
       </body>
    </text>
 </TEI>

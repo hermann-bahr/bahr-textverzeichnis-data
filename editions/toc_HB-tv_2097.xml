@@ -35,18 +35,18 @@
             type="Journal-Article"
             subtype="Nachdruck_Nicht_nachgewiesen"
             status="notLocated">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Student und Großdeutsch</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Bergische Bühnen-Blätter</title>
             <imprint>
                <biblScope unit="pages">14–</biblScope>
                <date when="1923">1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im Bahr-Archiv sind zwei unbeschriftete Nachdrucke aus dem »Selbstbildnis«
                      erhalten (ein Abdruck aus dem Vorabdruck im Neuen Reich scheint
                      unwahrscheinlich, da das Buch beinahe zeitgleich mit dem Kapitel über die
@@ -55,8 +55,8 @@
                      konnten die Jahrgänge 1923 bis zur Saison 1926/27 in keiner Bibliothek
                      nachgewiesen werden.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Selbstbildnis, 143–147</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der berühmte Trauerkommers für Richard Wagner ist schuld, daß
+         <note type="other-prints">Selbstbildnis, 143–147</note>
+         <note type="incipit">Der berühmte Trauerkommers für Richard Wagner ist schuld, daß
                   ich heute nicht ein braver, alter Notar in Linz an der Donau bin. Denn kaum
                   vierzehn Tage später</note>
       </body>

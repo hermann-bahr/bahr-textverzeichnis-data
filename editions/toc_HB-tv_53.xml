@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_53" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Bauernkind</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j"/>
             <imprint>
                <biblScope unit="jg">79</biblScope>
@@ -45,17 +45,17 @@
                <date when="1926-07-11">11.7.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Springenschmid: Das Bauernkind. München: Oldenbourg
+         <note type="review-of">Karl Springenschmid: Das Bauernkind. München: Oldenbourg
                   1926.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzter Nachdruck in: Volk und Heimat, 3 (1927) #17,
+         <note type="first-printing">Gekürzter Nachdruck in: Volk und Heimat, 3 (1927) #17,
                   4–6. (5.9.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Almanach des Oberösterreichischen Künstlerbundes »März«.
+         <note type="other-prints">Almanach des Oberösterreichischen Künstlerbundes »März«.
                   Linz: »März« 1926, 16-21.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von den »Urworten« Goethes trifft keins so tief ins Herz unserer
+         <note type="incipit">Von den »Urworten« Goethes trifft keins so tief ins Herz unserer
                   Sehnsucht nach dem Sinn</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr über das Leben aus »geprägter Form« des Bauernstands sowie
+         <note type="summary">Bahr über das Leben aus »geprägter Form« des Bauernstands sowie
                   die Probleme der literarischen Ausgestaltung der Bauern.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11402"/>

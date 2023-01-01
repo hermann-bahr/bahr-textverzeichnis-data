@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">2. Juni [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Tagebücher 2</title>
             <imprint>
                <pubPlace>Innsbruck, Wien, München</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">185–189</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">[Richard Voss:] Scherben. Gesammelt vom müden Manne. Zürich:
+         <note type="review-of">[Richard Voss:] Scherben. Gesammelt vom müden Manne. Zürich:
                   Schabelitz 1878.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 7.7.1918</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nach meinem ersten Jahr Jus saß ich einmal eine Woche lang in
+         <note type="first-printing">Neues Wiener Journal, 7.7.1918</note>
+         <note type="incipit">Nach meinem ersten Jahr Jus saß ich einmal eine Woche lang in
                   Bruck-Fusch fest; wir warteten, auf den Glockner wollend, das Unwetter ab.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Nachruf auf den Dichter, der ihm als Neunzehnjährigem den
+         <note type="summary">Bahrs Nachruf auf den Dichter, der ihm als Neunzehnjährigem den
                   »romantischen Pessimismus« unmöglich gemacht hat.</note>
       </body>
    </text>

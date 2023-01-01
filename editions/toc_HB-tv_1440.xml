@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1440" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zur Reform der Tracht</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Dokumente der Frauen</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -45,8 +45,8 @@
                <date when="1902">1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Schönheit, 1 (1903), 68–71</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">WENN man heute von einer Reform der Tracht spricht, so wendet
+         <note type="first-printing">Die Schönheit, 1 (1903), 68–71</note>
+         <note type="incipit">WENN man heute von einer Reform der Tracht spricht, so wendet
                   man eigentlich nur unserem Begriff von Cultur endlich auch auf die Erscheinung des
                   Menschen an. Wir haben gelernt: »Du bleibst doch immer, was du bist.« Also trachte
                   nicht, dir zu entgehen, dich zu verbergen, sondern lerne zeigen, was an dir ist,
@@ -118,13 +118,13 @@
                   Deutsche finden nur bei Cocotten jene schöne äussere Form der Liebe, ohne welche
                   sie kaum erträglich ist, während es ihren Frauen für tugendhaft gilt, sie ihnen
                   zu versagen. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_3973_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1902_dokumente_reform.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.modetheorie.de/bahr-hermann.1513.0.html</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1902_dokumente_reform.pdf</ref>
+         <ref type="URL">http://www.modetheorie.de/bahr-hermann.1513.0.html</ref>
       </body>
    </text>
 </TEI>

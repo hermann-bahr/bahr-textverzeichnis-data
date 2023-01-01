@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">29. April [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">146</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im »Neuen Wiener Journal« als »24. April« veröffentlicht.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal (als 24. April)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Rhode [!] schreibt an Nietzsche: »Du hast ganz recht, ein
+         <note type="first-printing">Neues Wiener Journal (als 24. April)</note>
+         <note type="incipit">Rhode [!] schreibt an Nietzsche: »Du hast ganz recht, ein
                   Werdender</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Zitat über den Gestaltungswillen, mit dem man der sich
+         <note type="summary">Ein Zitat über den Gestaltungswillen, mit dem man der sich
                   realisierenden Gegenwart begegnen soll.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4084"/>
                <ptr type="pmb" target="#12358"/>

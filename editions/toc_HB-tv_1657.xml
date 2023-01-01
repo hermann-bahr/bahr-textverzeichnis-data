@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater, Kunst und Literatur. (Burgtheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -48,11 +48,11 @@
                <date when="1893-06-25">25.6.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Biedermänner« von Théodore Barrière und Ernest Capendu,
+         <note type="review-of">»Die Biedermänner« von Théodore Barrière und Ernest Capendu,
                   deutsch von Elisabeth Branitz (=Betty Paoli)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der pathetischen Groteske des Barrière, wo der schwüle Zorn
+         <note type="incipit">In der pathetischen Groteske des Barrière, wo der schwüle Zorn
                   gegen die falschen »Biedermänner« einige Male an Genie streift</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/77198.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/77198.pdf</ref>
       </body>
    </text>
 </TEI>

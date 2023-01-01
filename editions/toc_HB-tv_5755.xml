@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">15. Februar [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">II, 54–55</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Carl Sternheim: Libussa, das Leibroß des Kaisers. Berlin:
+         <note type="review-of">Carl Sternheim: Libussa, das Leibroß des Kaisers. Berlin:
                   Verlag der Wochenschrift Die Aktion 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein glänzender Einfall Sternheims: er läßt Libussa</note>
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Ein glänzender Einfall Sternheims: er läßt Libussa</note>
       </body>
    </text>
 </TEI>

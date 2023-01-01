@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 10. Dezember [1920]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,10 +48,10 @@
                <date when="1921-01-01">1.1.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Gustav von Schmoller: Zwanzig Jahre deutscher Politik. Hg.
+         <note type="review-of">Gustav von Schmoller: Zwanzig Jahre deutscher Politik. Hg.
                   Lucie Schmoller. München: Duncker &amp; Humblot 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 293-296</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Michael Hainisch Bundespräsident. Vierzig Jahre wird’s bald
+         <note type="other-prints">Kritik der Gegenwart, 293-296</note>
+         <note type="incipit">Michael Hainisch Bundespräsident. Vierzig Jahre wird’s bald
                   sein, daß wir uns begegneten, in Berlin, wohin er als junger Doktor zu Gustav
                   Schmoller und Adolf Wagner ging, deren Schüler ich war. Er bezog die Bude Richard
                   Fellners, seines Vetters, wenn mich mein Gedächtnis nicht täuscht, der damals als
@@ -141,11 +141,11 @@
                   unversehens am Ende wieder bei dem neuen Landesherrn Dr. Hainisch, der auch ein
                   Getreuer des Vereins für Sozialpolitik ist und wirklich von sich sagen kann, daß
                   er immer ein »humaner Praktiker« war. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr über seine gemeinsame Studienzeit mit dem neuen
+         <note type="summary">Bahr über seine gemeinsame Studienzeit mit dem neuen
                   Bundespräsidenten Michael Hainisch im Seminar von Adolf Wagner und von Gustav von
                   Schmoller. Er bleibt dann bei Schmoller hängen, den er erst jetzt richtig zu
                   würdigen weiß.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

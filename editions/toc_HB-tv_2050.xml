@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2050" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Festgruß an Dreher</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Abreiß-Kalender meines Lebens</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -45,12 +45,12 @@
                <biblScope unit="pages">9–10</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Erinnern Sie sich noch, lieber Konrad Dreher, unserer ersten
+         <note type="incipit">Erinnern Sie sich noch, lieber Konrad Dreher, unserer ersten
                   Begegnung in Schliersee?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Lobrede sieht in Dreher einen der wirklich großen
+         <note type="summary">Bahrs Lobrede sieht in Dreher einen der wirklich großen
                   Schauspieler, dem mit den Schliersee’r Außergewöhnliches gelungen sei und der
                   zeige, wozu der »bayrisch-österreichische Stamm« in der Lage wäre.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2928"/>
                <ptr type="pmb" target="#3982"/>

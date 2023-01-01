@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. November [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">III, 286–294</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Paul Natorp: Dostojewskis Bedeutung für die gegenwärtige
+         <note type="review-of">Paul Natorp: Dostojewskis Bedeutung für die gegenwärtige
                   Kulturkrisis. Jena: Diederichs 1923. Ludwig Landsberg: Die Welt des Mittelalters
                   und Wir. Ein geschichtsphilosophischer Versuch über den Sinn eines Zeitalters.
                   Bonn: Cohen 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der weise Paul Natorp, dessen siebzigsten Geburtstag wir</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Dostojewskij, denselben und Goethe, über Krisen der
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Der weise Paul Natorp, dessen siebzigsten Geburtstag wir</note>
+         <note type="summary">Über Dostojewskij, denselben und Goethe, über Krisen der
                   Weltgeschichte als Liebesschwund, über das Mittelalter der Romantik, die Suche
                   nach Ordnung und Max Schelers Berufung.</note>
       </body>

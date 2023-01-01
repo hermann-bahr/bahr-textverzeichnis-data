@@ -35,11 +35,11 @@
             type="Journal-Article"
             sameAs="pmb31241"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31241">Gruß an Hofmannsthal</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">43</biblScope>
@@ -48,15 +48,15 @@
                <date when="1914-08-21">21.8.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr schreibt, wie die Klammer neben seinem Namen verrät, aus Bayreuth.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 22 (1914) #7483, 6. (26.8.1914)
+         <note type="first-printing">Neues Wiener Journal, 22 (1914) #7483, 6. (26.8.1914)
                   Gekürzt in: Die Aktion, 5 (1915) #18/19, 236–237. (1.5.1915) Die Fackel, 18 (1916)
                   #423–425, 41–42</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kriegssegen, 9–11</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich weiß nur, daß Sie in Waffen sind, lieber Hugo</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_hofmannsthal.pdf</ref>
+         <note type="other-prints">Kriegssegen, 9–11</note>
+         <note type="incipit">Ich weiß nur, daß Sie in Waffen sind, lieber Hugo</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_hofmannsthal.pdf</ref>
       </body>
    </text>
 </TEI>

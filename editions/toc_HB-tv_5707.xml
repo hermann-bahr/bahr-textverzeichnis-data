@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. September [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">I, 287–294</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Benedetto Croce: Aufbau der Komödie und die Dichtung. In:
+         <note type="review-of">Benedetto Croce: Aufbau der Komödie und die Dichtung. In:
                   Preußische Jahrbücher, September 1921. Deutsches Dante-Jahrbuch. Fünfter Band. Hg.
                   Hugo Daffner. Jena: Diederichs 1920. Dante Alighieri: Vita Nuova. Übersetzt von
                   Richard Zoozman. Mit Holzschnitten Erwin Langs. Wien, Leipzig: Avalun 1921.
                   Amandus Gsell: Das Führerproblem bei Dante. In: Benediktinische Monatsschrift,
                   Erzabtei Beuron, #9 und #10/1921.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Karls IV., des Luxemburgers, den Burdach einmal den
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Karls IV., des Luxemburgers, den Burdach einmal den
                   »bedeutendsten Staatsmann unter allen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Schwierigkeiten bei der deutschen Dante-Rezeption und
+         <note type="summary">Über die Schwierigkeiten bei der deutschen Dante-Rezeption und
                   neuere Literatur zu Dante.</note>
       </body>
    </text>

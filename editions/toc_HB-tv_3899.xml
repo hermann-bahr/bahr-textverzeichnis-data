@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3899" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#2150">Bauer, Julius</author>
             <author ref="#2425">Dörmann, Felix</author>
@@ -45,7 +45,7 @@
             <author ref="#13118">Wildenbruch, Ernst von</author>
             <title level="a">Theater. Keine Autorenhervorrufe mehr</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Prager Tagblatt</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -54,14 +54,14 @@
                <date when="1899-02-26">26.2.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 18 (1899) #230, 120. (25.2.1899) Neue Freie
+         <note type="first-printing">Die Zeit, 18 (1899) #230, 120. (25.2.1899) Neue Freie
                   Presse, (1899) #12397, 8. (25.2.1899) Rigasche Rundschau, 33 (1899) #39, 3.
                   (17.2.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir haben bereits gemeldet, daß eine Anzahl von Wiener
+         <note type="incipit">Wir haben bereits gemeldet, daß eine Anzahl von Wiener
                   Theaterautoren […] »Wir haben beschlossen, uns fortan bei den Premièren unserer
                   Stücke dem Publikum nicht mehr zu zeigen. [Alphabetische Liste der
                   Autoren]«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2150"/>
                <ptr type="pmb" target="#2425"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -48,10 +48,10 @@
                <date when="1895-06-15">15.6.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Posse als Medicin« von Friedrich Kaiser</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es gibt junge Herren, die um jeden Preis, um nur recht beliebt
+         <note type="review-of">»Posse als Medicin« von Friedrich Kaiser</note>
+         <note type="incipit">Es gibt junge Herren, die um jeden Preis, um nur recht beliebt
                   zu werden, ungeheuer »spaßig« sein möchten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8081"/>
                <ptr type="pmb" target="#8841"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_2495_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/37_168-169.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/37_168-169.pdf</ref>
       </body>
    </text>
 </TEI>

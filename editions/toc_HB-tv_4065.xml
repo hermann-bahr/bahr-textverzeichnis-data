@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzmeldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,9 +48,9 @@
                <date when="1900-01-15">15.1.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Sappho« von Franz Grillparzer</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist ein Vergnügen, Fräulein Bleibtreu zuzusehen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="review-of">»Sappho« von Franz Grillparzer</note>
+         <note type="incipit">Es ist ein Vergnügen, Fräulein Bleibtreu zuzusehen</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10959"/>
                <ptr type="pmb" target="#11518"/>

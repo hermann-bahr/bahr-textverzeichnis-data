@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1802" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Geist und Sport</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der neuen Jugend. Literarische Zeitschrift</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,12 +45,12 @@
                <date when="1928">1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten, 80 (1927) #229, 1–2.
+         <note type="first-printing">Münchner Neueste Nachrichten, 80 (1927) #229, 1–2.
                   (24.8.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 80-83</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Geist führt jetzt Klage gegen das Unwesen, das der Sport
+         <note type="other-prints">Labyrinth der Gegenwart, 80-83</note>
+         <note type="incipit">Geist führt jetzt Klage gegen das Unwesen, das der Sport
                   treibt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neuen-jugend/1928_geist.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neuen-jugend/1928_geist.pdf</ref>
       </body>
    </text>
 </TEI>

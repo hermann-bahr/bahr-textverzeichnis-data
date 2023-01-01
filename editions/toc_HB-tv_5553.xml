@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">178–182</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">John Maynard Keynes: Die wirtschaftlichen Folgen des
+         <note type="review-of">John Maynard Keynes: Die wirtschaftlichen Folgen des
                   Friedensvertrages. München, Leipzig: Duncker &amp; Humblot 1920. [The Economic
                   Consequences of the Peace]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Keynes, »The economic consequences of the peace«, im Augenblick
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Keynes, »The economic consequences of the peace«, im Augenblick
                   das berühmteste Buch Europas, ist jetzt auch deutsch erschienen (bei Duncker und
                   Humblot in München und Leipzig). John Maynard Keynes, Kings College Cambridge,
                   noch nicht vierzig, seit 1912 Editor des »Economic Journal«, zunächst durch ein
@@ -153,7 +153,7 @@
                   voraus, daß man sich eigentlich eine größere Huldigung an Amerika gar nicht denken
                   kann. Es hätte dann von selbst die sittliche Weltherrschaft auf Jahrhunderte
                   hinaus. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist fasziniert von John Maynard Keynes’ Buch, das, wenn
+         <note type="summary">Bahr ist fasziniert von John Maynard Keynes’ Buch, das, wenn
                   eingehalten, einen europäischen Wirtschaftsbund und die Übernahme der
                   Kriegsschulden durch die Vereinigten Staaten von Amerika bedeuten würde: Die
                   hätten dann die sittliche Weltherrschaft »auf Jahrhunderte hinaus«.</note>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Pascal</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Summula</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">113–135</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Blaise Pascal« in: Hochland, 17 (1920) #2,
+         <note type="first-printing">Als »Blaise Pascal« in: Hochland, 17 (1920) #2,
                   276–290.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn ich zagend versuchen will, Pascal, diesem hochgesinnten,
+         <note type="incipit">Wenn ich zagend versuchen will, Pascal, diesem hochgesinnten,
                   über sein Jahrhundert hinausragenden, gewaltigen Mann nachzugehen bis auf den
                   Grund, bis an seine Grenzen und in seine Schwächen hinein, bis dorthin, wo sein
                   edler Geist sich selbst zerstört, so geschieht dies nicht aus eitler Neugier oder
@@ -62,10 +62,10 @@
                   tragischer Fall lehrt uns, wie das reinste Streben irre wird, sobald es sich für
                   unbedingt erklärt, und daß an dem, der ohne Demut, selbst die Gnade verloren
                   ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Pascal gilt Bahr als schlechtes Beispiel elitären, hochmütigen
+         <note type="summary">Pascal gilt Bahr als schlechtes Beispiel elitären, hochmütigen
                   Glaubens. Im Streit zwischen Pascal und den Jesuiten stellt er sich daher auf die
                   Seite letzterer.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5291"/>
                <ptr type="pmb" target="#39174"/>
@@ -112,7 +112,7 @@
                <ptr type="HB-tv" target="HB-tv_3361_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
       </body>
    </text>
 </TEI>

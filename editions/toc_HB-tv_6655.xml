@@ -35,14 +35,14 @@
             type="Pamphlet"
             subtype="Kunstdruck"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">März</title>
             <imprint>
                <date when="1912">1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der Bibliothek Bahrs (Universitätsbibliothek Salzburg, 38.443-IV) ist ein
                      Druck des Texts auf einem einmal gefalteten Druckbogen (zwei Seiten) mit
                      Goldbordüre und Gold-Initial erhalten. Kein Künstler und Herstelljahr genannt.
@@ -50,9 +50,9 @@
                      Grund: Ein Hinweis auf dieses Blatt unter den Briefen an Bahr einmal gesehen
                      (zwischen J-L?) und die vage Erinnerung, es wäre ein Salzburger Künstler.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 38 (1904) #357, o. P. (25.12.1904)
+         <note type="first-printing">Neues Wiener Tagblatt, 38 (1904) #357, o. P. (25.12.1904)
                   Der Ruf, 1 (1912) #2, 1-2.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dichter singen vom Wonnemonat Mail.</note>
+         <note type="incipit">Dichter singen vom Wonnemonat Mail.</note>
       </body>
    </text>
 </TEI>

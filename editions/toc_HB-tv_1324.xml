@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater an der Wien</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-04-05">5.4.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La Gioconda« von Gabriele d’Annunzio</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 124–125</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man sagt von manchen Rollen, daß sie einem Schauspieler</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="review-of">»La Gioconda« von Gabriele d’Annunzio</note>
+         <note type="other-prints">Premièren, 124–125</note>
+         <note type="incipit">Man sagt von manchen Rollen, daß sie einem Schauspieler</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2142"/>
                <ptr type="pmb" target="#11201"/>
@@ -62,7 +62,7 @@
                <ptr type="HB-tv" target="HB-tv_1324_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1374" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Expressionismus. Mit 19 Tafeln in Kupferdruck</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>170 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Umschlagzeichnung von F. A. Ehmcke. Widmung, S. 5: »Alfred Roller in herzlicher
                      Verehrung. Salzburg, Himmelfahrt 1914«. Am 24. Mai 1916 erhält Redlich ein
                      Exemplar, was die Druckausgabe ungefähr datieren lässt (Bahr/Redlich, 173). In
@@ -63,10 +63,10 @@
                      Literary Supplement, 21.5.1925, 346 findet sich eine Anzeige für die englische
                      Übersetzung, am 3.9.1925 (S. 564) eine Rezension.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Auszug in: Francis Frascina, Charles Harrison und Deidre
+         <note type="other-prints">Auszug in: Francis Frascina, Charles Harrison und Deidre
                   Paul (Hgg.): Modern Art and Modernism. New York Icon Editions - Harper &amp; Row
                   1983</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Englisch: Expressionism. Translated by R. T. Gribble.
+         <note type="translations">Englisch: Expressionism. Translated by R. T. Gribble.
                   London: F. Henderson 1925 (Reprint 1978) Italienisch: Espressionismo. Introduzione
                   di Mario De Micheli. Traduzione di Bruno Maffi. Milano: Bompiani 1945. Spanisch:
                   Expresionismo. Presentación de Francisco Jarauta. Traducción de Teresa Rocha
@@ -75,8 +75,8 @@
                   übersetzt von Svjetlan Vidulíc in: Tréci program Hrvatskog radija 41 (1993),
                   121–126. Chinesisch: 表现主义 /. Biao xian zhu yi. Übers. Fei Xu. Beijing: Sheng huo,
                   du shu, xin zhi san lian shu dian 1989.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20expressionismus</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20expressionismus</ref>
       </body>
    </text>
 </TEI>

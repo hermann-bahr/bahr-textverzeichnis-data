@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">19. Juli [1917]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">126–129</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Heinrich Lammasch: Das Völkerrecht nach dem Kriege.
+         <note type="review-of">Heinrich Lammasch: Das Völkerrecht nach dem Kriege.
                   Kristiania: Publication de l’Institut Nobel 1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Prachtvoll der Brief von Lammasch an die Österreichische
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Prachtvoll der Brief von Lammasch an die Österreichische
                   politische Gesellschaft.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lobt Heinrich Lammasch, weil dieser aussprach, was im
+         <note type="summary">Bahr lobt Heinrich Lammasch, weil dieser aussprach, was im
                   Geheimen viele dachten: Dass nur wenn keine Partei gewinne, der Frieden bestand
                   haben könne.</note>
       </body>

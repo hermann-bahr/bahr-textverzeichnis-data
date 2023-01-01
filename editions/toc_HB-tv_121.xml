@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_121" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die internationale Musik- und Theater-Ausstellung in Wien</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36166">Freie Bühne für den Entwickelungskampf der
                      Zeit</title>
             <imprint>
@@ -46,13 +46,13 @@
                <date when="1892">1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Bezahlung verzögerte sich. (Siehe die Anm. von Susen in: Bölsche:
                      Briefwechsel mit Autoren der Freien Bühne. Berlin: Weidler 2010, 724.)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da ist alles recht wienerisch, an dieser Ausstellung, in jedem
+         <note type="incipit">Da ist alles recht wienerisch, an dieser Ausstellung, in jedem
                   Stücke.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11201"/>
                <ptr type="pmb" target="#10899"/>
@@ -149,7 +149,7 @@
                <ptr type="HB-tv" target="HB-tv_121_p49"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1892-3_internationale.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1892-3_internationale.pdf</ref>
       </body>
    </text>
 </TEI>

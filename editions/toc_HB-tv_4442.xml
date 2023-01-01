@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Bildung des modernen Menschen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Badischer Beobachter, Karlsruhe</title>
             <imprint>
                <biblScope unit="jg">66</biblScope>
@@ -49,11 +49,11 @@
                <date when="1928-08-01">1.8.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Bayerischer Kurier, München, 72 (1928) #183/84,
+         <note type="first-printing">Bayerischer Kurier, München, 72 (1928) #183/84,
                   Literarische Beilage #24, 7. (1.7.1928) Hamburgischer Correspondent, 198 (1928)
                   #332, Abendausgabe, Unterhaltungsblatt. (18.7.1928)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Zauberstab</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Deutsche dieser Zeit hat einen seltenen Begriff</note>
+         <note type="other-prints">Zauberstab</note>
+         <note type="incipit">Der Deutsche dieser Zeit hat einen seltenen Begriff</note>
       </body>
    </text>
 </TEI>

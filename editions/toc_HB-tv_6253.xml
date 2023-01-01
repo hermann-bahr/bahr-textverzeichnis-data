@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kaiser Karl</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41289">Berliner Börsen-Courier</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -48,16 +48,16 @@
                <date when="1917-04-21">21.4.1917</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Hermann Bahr hat ein Österreicher-Buch »Schwarz-Gelb«
                      herausgegeben, das vor kurzem bei S. Fischer Verlag, Berlin, in der Sammlung
                      »Schriften zur Zeitgeschichte« erschienen ist. Wir entnehmen daraus das Kapitel
                      ’Kaiser Karl’, das den tieferen Zusammenhängen des Österreichertums mit seinem
                      Kaiser gewidmet ist.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">So wenig der Österreicher in Deutschland durch Verständnis für
+         <note type="incipit">So wenig der Österreicher in Deutschland durch Verständnis für
                   Österreich</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1917_karl.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1917_karl.pdf</ref>
       </body>
    </text>
 </TEI>

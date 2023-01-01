@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Martin Buber</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">44–52</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Inselschiff. Eine Zeitschrift für die Freunde des
+         <note type="first-printing">Das Inselschiff. Eine Zeitschrift für die Freunde des
                   Insel–Verlages, 9 (1928) #2 (Frühjahr), 100–107.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Martin Buber ist Wiener und Jude von Geburt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Anscheinend von Nadler beeinflusst meint Bahr: Buber verleugne
+         <note type="incipit">Martin Buber ist Wiener und Jude von Geburt.</note>
+         <note type="summary">Anscheinend von Nadler beeinflusst meint Bahr: Buber verleugne
                   seine jüdische Herkunft nicht, sondern ziehe gerade aus der »Verwurzelung« im
                   semitischen Orient seine Kraft.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11033"/>
                <ptr type="pmb" target="#11673"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_3498_p10"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

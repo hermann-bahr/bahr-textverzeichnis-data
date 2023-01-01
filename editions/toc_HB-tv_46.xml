@@ -35,29 +35,29 @@
             type="Journal-Article"
             subtype="Nicht_nachgewiesen"
             status="notLocated">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Augenmusik. (Zur Verständigung über die neueste Kunst)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Ostsee-Zeitung Stettin</title>
             <imprint>
                <date when="1914-05-28">28.5.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Bahr-Nachlass besitzt einen Zeitungsausschnitt, der von Klose &amp; Seidel
                      mit »Ostsee-Zeitung Stettin 28. Mai 1914« gestempelt ist. Auf der
                      Mikrofilmausgabe Szczecin: Ksi¸a·znica Pomorska, 1999 ist die Nummer nicht
                      enthalten und konnte auch in keiner Bibliothek nachgewiesen werden.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Prager Tagblatt, 39 (1914) #148, Morgen–Ausgabe, 11–12.
+         <note type="first-printing">Prager Tagblatt, 39 (1914) #148, Morgen–Ausgabe, 11–12.
                   (31.5.1914) Straßburger Post, (1914) #623, Unterhaltungsblatt, 1–2.
                   (31.5.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Geändert in: Expressionismus, 104–117</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man steht heute vor Bildwerken meistens so ratlos, daß Niemand
+         <note type="other-prints">Geändert in: Expressionismus, 104–117</note>
+         <note type="incipit">Man steht heute vor Bildwerken meistens so ratlos, daß Niemand
                   mehr seinem eigenen Geschmack traut, denn der hat sich zu oft blamiert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9257"/>
                <ptr type="pmb" target="#15199"/>

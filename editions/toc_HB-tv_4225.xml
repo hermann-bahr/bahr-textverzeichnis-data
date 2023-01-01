@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kirchliche Hymnen und goldene Legende</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,15 +49,15 @@
                <date when="1920-02-22">22.2.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinem ’Tagebuch’ (im ’N.W.J’ vom 8. Februar 1920)
                      schreibt Hermann Bahr zu Neuausgaben altkirchlicher Hymnen und der legenda
                      aurea die folgenden schon als Bekenntnis hochinteressanten Sätze:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 8.2.1920</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn mich die Lektüre von W. Scott wieder ganz jung
+         <note type="first-printing">Neues Wiener Journal, 8.2.1920</note>
+         <note type="incipit">Wenn mich die Lektüre von W. Scott wieder ganz jung
                   gemacht</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1920_hymnen.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1920_hymnen.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 7. September [II]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-09-26">26.9.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 215-216</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kerr zieht im Septemberheft der »Neuen Rundschau« Fischers die
+         <note type="other-prints">Kritik der Gegenwart, 215-216</note>
+         <note type="incipit">Kerr zieht im Septemberheft der »Neuen Rundschau« Fischers die
                   Bilanz des heutigen deutschen Theaters: »Zwei Gegenrichtungen werden kenntlich.
                   Links: das gelallte Stück. Rechts: das gefingerte Stück. Links: die
                   verantwortungslose Nebelei, die kein Stück ist. Rechts: die feste Zimmerei, die
@@ -80,10 +80,10 @@
                   Unruh, der nur dazu noch ein bischen »fingern« zu lernen hätte, ja vielleicht sich
                   bloß auf das Fingern zu besinnen hätte, das er doch in den »Offizieren« schon ganz
                   gut verstand und nur dann über den Krieg halb vergaß. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Aus Alfred Kerrs Flüchen über die abgelaufene Theatersaison
+         <note type="summary">Aus Alfred Kerrs Flüchen über die abgelaufene Theatersaison
                   nimmt Bahr, dass es einen dramatischen »Kerl« brauche. Und fragt sich, ob Fritz
                   von Unruh das nicht wäre.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

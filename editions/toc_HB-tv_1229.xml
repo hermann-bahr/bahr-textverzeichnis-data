@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1229" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ruhm und Wirkung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">43</biblScope>
@@ -45,10 +45,10 @@
                <date when="1914-03-15">15.3.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Rolland« in: Bilderbuch, 142–147</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es fiel mir auf, daß einer weithin bekannt, ja berühmt sein
+         <note type="other-prints">Als »Rolland« in: Bilderbuch, 142–147</note>
+         <note type="incipit">Es fiel mir auf, daß einer weithin bekannt, ja berühmt sein
                   kann, ohne doch eigentlich zu wirken</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_ruhm.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_ruhm.pdf</ref>
       </body>
    </text>
 </TEI>

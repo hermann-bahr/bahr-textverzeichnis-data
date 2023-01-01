@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_596" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater an der Wien</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,12 +45,12 @@
                <date when="1901-10-18">18.10.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La Parisienne« von Henri Becque »Lolotte« von Henri Meilhac
+         <note type="review-of">»La Parisienne« von Henri Becque »Lolotte« von Henri Meilhac
                   und Ludovic Halévy</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 172–175</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Réjane hat gestern die »Parisienne« und einen reizenden
+         <note type="other-prints">Rezensionen, 172–175</note>
+         <note type="incipit">Die Réjane hat gestern die »Parisienne« und einen reizenden
                   kleinen Act von Meilhac und</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

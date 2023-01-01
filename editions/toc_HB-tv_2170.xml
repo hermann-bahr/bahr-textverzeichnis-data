@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,14 +48,14 @@
                <date when="1901-09-29">29.9.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Schatten« von Marie Eugenie delle Grazie</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung. 2 Kreuzer–Ausgabe, 47
+         <note type="review-of">»Der Schatten« von Marie Eugenie delle Grazie</note>
+         <note type="first-printing">Österreichische Volks–Zeitung. 2 Kreuzer–Ausgabe, 47
                   (1901) #267, 8. (29.9.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Der Schatten« von M. E. delle Grazie, über den ich im
+         <note type="incipit">»Der Schatten« von M. E. delle Grazie, über den ich im
                   Feuilleton ausführlicher spreche, wurde vom Publicum mit jener resignirten
                   Hochachtung angehört, in die es sich behutsam einzuhüllen pflegt, wenn es Verse
                   vernimmt und keine Ahnung hat, was es sich dabei eigentlich denken soll.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4064"/>
                <ptr type="pmb" target="#11851"/>

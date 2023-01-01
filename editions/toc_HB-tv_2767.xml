@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vom jüngsten Frankreich</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,21 +49,21 @@
                <biblScope unit="pages">96–100</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Neue französische Romane« in: Das Magazin für die
+         <note type="first-printing">Als »Neue französische Romane« in: Das Magazin für die
                   Litteratur des In– und Auslandes, 60 (1891) #30, 474–475. (24.7.1891)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wunberg: Das junge Wien, 94.3 Steinecke, Hartmut (Hg.):
+         <note type="other-prints">Wunberg: Das junge Wien, 94.3 Steinecke, Hartmut (Hg.):
                   Romanpoetik in Deutschland. 3: Von Hegel bis Fontane. Deutsche Text-Bibliothek.
                   Tübingen: Narr 1984.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Zwist der Meinungen ist heftig. Alle Tage erscheint eine
+         <note type="incipit">Der Zwist der Meinungen ist heftig. Alle Tage erscheint eine
                   neue Aesthetik der Zukunft. Jeder bringt seine besondere Formel des Romanes.
                   Ueberall werden Schulen gestiftet, aber keiner will Schüler sein. Die alten
                   Formeln haben ausgedient, es ist ein unverwindliches Bedürfniss nach neuen, es
                   sind laute, reiche Versprechungen, aber die Erfüllung fehlt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr unterscheidet in der neuen französischen Prosa fünf
+         <note type="summary">Bahr unterscheidet in der neuen französischen Prosa fünf
                   Richtungen: Zolas Naturalismus, die Betonung des Nervösen durch die Goncourts, den
                   idealistischen Naturalismus Huysmans, die Dekadenz Péladans und den neuesten
                   Versuch eines »roman romanesque«, als dessen Vertreter er Prévost nennt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11330"/>
                <ptr type="pmb" target="#13194"/>
@@ -91,7 +91,7 @@
                <ptr type="HB-tv" target="HB-tv_2767_p14"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die gute Schule. Seelische Zustände. (Schluß)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36149">Freie Bühne für modernes Leben</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,8 +48,8 @@
                <date when="1890-06-25">25.6.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">12. Zwei Briefe, an diesem Morgen, unter der Thüre</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1890-gute-schule.pdf</ref>
+         <note type="incipit">12. Zwei Briefe, an diesem Morgen, unter der Thüre</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1890-gute-schule.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater, Kunst und Literatur. (Deutsches Volkstheater)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="issue">7803</biblScope>
@@ -47,11 +47,11 @@
                <date when="1893-09-17">17.9.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Proceßhansl« von Ludwig Ganghofer</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In glücklicher Parodie hat Gustav Schwarzkopf hier neulich die
+         <note type="review-of">»Der Proceßhansl« von Ludwig Ganghofer</note>
+         <note type="incipit">In glücklicher Parodie hat Gustav Schwarzkopf hier neulich die
                   Geschichte vom Trottelhof erzählt: das »Normal-Bauernstück«, wie es unabänderlich
                   nun so viele Jahre schon von den »Münchenern« servirt wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12740"/>
                <ptr type="pmb" target="#11402"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_2842_p15"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78036.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78036.pdf</ref>
       </body>
    </text>
 </TEI>

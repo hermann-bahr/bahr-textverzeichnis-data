@@ -36,12 +36,12 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb30347">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30347">A Letter from Germany. Salzburg, September,
                      1920</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb89478">The London Mercury</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -50,8 +50,8 @@
                <date when="1920-10-01">Oktober 1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">The German is now turned back upon himself.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">The German is now turned back upon himself.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13024"/>
                <ptr type="pmb" target="#11024"/>
@@ -83,7 +83,7 @@
                <ptr type="HB-tv" target="HB-tv_1387_p35"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1920-12.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1920-12.pdf</ref>
       </body>
    </text>
 </TEI>

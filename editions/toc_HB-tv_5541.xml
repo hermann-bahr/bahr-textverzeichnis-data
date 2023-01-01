@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">2. Juni [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">145–146</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Franz Schuberts Briefe und Schriften. Mit den zeitgenössischen
+         <note type="review-of">Franz Schuberts Briefe und Schriften. Mit den zeitgenössischen
                   Bildnissen, drei Handschriftproben und anderen Beilagen. Hg. von Otto Erich
                   Deutsch. München: Georg Müller 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Franz Schuberts Briefe und Schriften. Mit den zeitgenössischen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Franz Schuberts Briefe und Schriften. Mit den zeitgenössischen
                   Bildnissen, drei Handschriftproben und anderen Beilagen. Herausgegeben von Otto
                   Erich Deutsch« (Georg Müller Verlag, München). Es sind uns bloß dreiundsechzig
                   Briefe Schuberts erhalten, aber der ganze Schubert ist darin in seiner
@@ -74,7 +74,7 @@
                   Schmerz vorhanden; jene, welche der Schmerz allein erzeugt hat, scheinen am
                   wenigsten die Welt zu erfreuen.« Er war eben als Mensch und als Künstler durchaus,
                   was man draußen einen windigen Österreicher zu nennen liebt. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Schuberts Briefe zeigen den ganzen Schubert.</note>
+         <note type="summary">Schuberts Briefe zeigen den ganzen Schubert.</note>
       </body>
    </text>
 </TEI>

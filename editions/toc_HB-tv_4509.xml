@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4509" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Mode gegen Wagner</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Konzert-Taschenbuch für die Saison 1912/13</title>
             <editor>Konzert-Bureau Emil Gutmann</editor>
             <imprint>
@@ -46,16 +46,16 @@
                <biblScope unit="pages">81–83</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Mit Beiträgen von Hermann Bahr, Dr. Walter Niemann, Dr. Leopold Schmidt,
                      Arnold Schönberg.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vorabdruck als »Hermann Bahr über die ’Mode gegen Richard
+         <note type="first-printing">Vorabdruck als »Hermann Bahr über die ’Mode gegen Richard
                   Wagner’« in: Neues Wiener Journal, 20 (1912) #6608, 2. (16.3.1912)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mit einiger Verwunderung, ja mit Schrecken vernimmt man im Reich
+         <note type="incipit">Mit einiger Verwunderung, ja mit Schrecken vernimmt man im Reich
                   aus Berlin, es sei mit Wagner aus und es gehöre nun dazu, Wagner überwunden zu
                   haben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1912_wagner.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1912_wagner.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_936" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Englands Krise</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">85</biblScope>
@@ -45,15 +45,15 @@
                <date when="1932-01-01">1.1.1932</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">André Siegfried: Die englische Krise. Berlin: S. Fischer 1931.
+         <note type="review-of">André Siegfried: Die englische Krise. Berlin: S. Fischer 1931.
                   [La Crise Britannique] Vita Sackville-West: Schloß Chevron. Übersetzt von Käthe
                   Rosenberg. Berlin: S. Fischer 1931. [The Edwardians]</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Gott strafe England!« hörte man im Kriege rufen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Auf dem Korrekturbogen hatte der Text noch den drastischeren
+         <note type="incipit">»Gott strafe England!« hörte man im Kriege rufen</note>
+         <note type="summary">Auf dem Korrekturbogen hatte der Text noch den drastischeren
                   Titel: »Englands Sturz« und richtig behandelt er sehr breit die politischen und
                   wirtschaftlichen Schwierigkeiten Englands entlang des Buches von Siegfried
                   André.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2566"/>
                <ptr type="pmb" target="#2412"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Unsichere_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">B.</author>
             <title level="a">Das Journal intime von Benjamin Constant</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,7 +48,7 @@
                <date when="1894-12-15">15.12.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Zuschreibung an Bahr nimmt Gottlieb Wunberg in: Das junge Wien, 94.22 vor.
                      Für Bahr spricht, dass das Kürzel B. bislang nicht in der Zeit auftauchte, er
                      noch neue Pseudonyme in die Zeit einführt und er unter seinem Namen noch einen
@@ -60,12 +60,12 @@
                      7.1.1899, kommt es zur Kollision, zeichnet »B« eine Kurzkritik über »H. B.«
                      .</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Benjamin Constant: Journal intime et lettres à sa famille et
+         <note type="review-of">Benjamin Constant: Journal intime et lettres à sa famille et
                   ses amis. Hg. D. Melegari. Paris: Paul Ollendorf 1895</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Durch seinen schillernden Geist, die gleißnerischen Räthsel
+         <note type="incipit">Durch seinen schillernden Geist, die gleißnerischen Räthsel
                   seiner Wechsel und die Entehrungen seiner doch sublimen Seele ist Benjamin
                   Constant den jungen Leuten von heute eine süße Lockung und Verführung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4026"/>
                <ptr type="pmb" target="#3892"/>
@@ -83,8 +83,8 @@
                <ptr type="HB-tv" target="HB-tv_880_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/11-168.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/11-169.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/11-168.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/11-169.pdf</ref>
       </body>
    </text>
 </TEI>

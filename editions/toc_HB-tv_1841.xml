@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater in der Josefstadt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -48,12 +48,12 @@
                <date when="1901-03-16">16.3.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Häring« von Soma Guthi und Viktor Rákosi, deutsch von
+         <note type="review-of">»Der Häring« von Soma Guthi und Viktor Rákosi, deutsch von
                   Franz Reiner</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Stück aus dem Ungarischen, »Der Häring« von S. Guthi und V.
+         <note type="incipit">Ein Stück aus dem Ungarischen, »Der Häring« von S. Guthi und V.
                   Rakosi, deutsch von Franz Reiner, hat gestern durch eine Reihe amusanter Einfälle
                   recht unterhalten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#7098"/>
                <ptr type="pmb" target="#24301"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_1841_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

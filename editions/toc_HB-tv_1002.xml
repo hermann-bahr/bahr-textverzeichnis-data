@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Gerhart Hauptmann</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neues Land. Führer in die Zukunft für alle Stände</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,16 +48,16 @@
                <date when="1922">1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die editorische Anmerkung, eine Kurzkritik des »Bilderbuchs«, macht es als
                      Nachdruck aus demselben kenntlich.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">National–Zeitung, Basel, 52 (1912) #251, 2. Blatt, [1].
+         <note type="first-printing">National–Zeitung, Basel, 52 (1912) #251, 2. Blatt, [1].
                   (25.10.1912) Prager Tagblatt, 37 (1912) #295, Morgen–Ausgabe, 1–2. (25.10.1912)
                   Dresdner Neueste Nachrichten, 20 (1912) #310, 1. (14.11.1912) Neues Tagblatt und
                   General–Anzeiger für Stuttgart und Württemberg, 69 (1912) #302, 1.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bilderbuch, 21-26</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">… Ganz so ging es uns damals, in den wilden achtziger
+         <note type="other-prints">Bilderbuch, 21-26</note>
+         <note type="incipit">… Ganz so ging es uns damals, in den wilden achtziger
                   Jahren.</note>
       </body>
    </text>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erziehung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Urania. Wochenschrift für Volksbildung</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -48,11 +48,11 @@
                <date when="1912-03-16">16.3.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 40 (1911) #663, Morgen–Ausgabe, 2.
+         <note type="first-printing">Berliner Tageblatt, 40 (1911) #663, Morgen–Ausgabe, 2.
                   Beiblatt, 2 Seiten. (31.12.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Am Anfang und Ende um einen Absatz gekürzt als »Erziehung.
+         <note type="other-prints">Am Anfang und Ende um einen Absatz gekürzt als »Erziehung.
                   I« in: Inventur, 88-94</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn das Jahr sich verabschiedet, blickt man unwillkürlich
+         <note type="incipit">Wenn das Jahr sich verabschiedet, blickt man unwillkürlich
                   zurück</note>
       </body>
    </text>

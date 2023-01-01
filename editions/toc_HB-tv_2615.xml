@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Weltanschauung des Individualismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">35–49</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Worte, Wien, 7 (1887) #2 (Februar), 59–70</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Fabriksystem brachte also vollständig neue Werkzeuge. Es
+         <note type="first-printing">Deutsche Worte, Wien, 7 (1887) #2 (Februar), 59–70</note>
+         <note type="incipit">Das Fabriksystem brachte also vollständig neue Werkzeuge. Es
                   änderte das schon einmal veränderte Verhältnis von Arbeitskraft und
                   Arbeitsmittel in noch viel gründlicherer Weise. Es änderte die Beschaffenheit
                   der Arbeitskraft, indem es die Aufgaben der Arbeitskraft durchaus veränderte. Und
@@ -58,9 +58,9 @@
                   empfundenen Produktionsverhältnisse nicht einen Augenblick länger ertragen
                   konnte. Er rannte sie über den Haufen und setzte sich selbst an ihre Stelle,
                   indem er neue bereitete, die seiner Bewegung entsprachen.««</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">(Noch) im Naturalismus verhaftet und an Marx geschult geht Bahr
+         <note type="summary">(Noch) im Naturalismus verhaftet und an Marx geschult geht Bahr
                   gegen den, seiner Meinung nach überkommenen, Idealismus vor.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#3482"/>
@@ -142,7 +142,7 @@
                <ptr type="HB-tv" target="HB-tv_2667_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

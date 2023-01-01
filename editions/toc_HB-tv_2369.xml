@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater in der Josephstadt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -48,11 +48,11 @@
                <date when="1901-01-23">23.1.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Ohne Geläut« von Fedor von Zobelitz</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Literarischer Abend: »Ohne Geläut«, Schauspiel in fünf Acten von
+         <note type="review-of">»Ohne Geläut« von Fedor von Zobelitz</note>
+         <note type="incipit">Literarischer Abend: »Ohne Geläut«, Schauspiel in fünf Acten von
                   Fedor v. Zobeltitz – offenbar um mit dem Volkstheater zu wetteifern, das ja heute
                   die »Jugend« bringt, der dieses Stück nachempfunden ist.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5684"/>
                <ptr type="pmb" target="#11565"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_2369_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

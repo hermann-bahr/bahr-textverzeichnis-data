@@ -36,7 +36,7 @@
             type="Book"
             sameAs="pmb32244"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb32244">Die große Sünde. Ein bürgerliches
                      Trauerspiel</title>
@@ -47,7 +47,7 @@
             </imprint>
             <extent>120 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Dem Grossmeister des modernen Dramas Henrik Ibsen in ehrfürchtiger Liebe.
                      Paris, im Frühling 1889«. Bahr erwartet (Brief an seinen Vater, 9.2.1889), dass
                      Schabelitz am 11.2. mit dem Druck beginnen werde. Am 31.3. berichtet er ihm,
@@ -66,9 +66,9 @@
                      in: Moderne Dichtung, 1 (1890) #1, 58-60. Otto Julius Bierbaum: Die neue
                      Literatur. In: Moderne Dichtung, 1 (1890) #2, 78-86, hier 83.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Auszug in: Deutsche Blätter, 3 (1889) #4 (April),
+         <note type="first-printing">Auszug in: Deutsche Blätter, 3 (1889) #4 (April),
                   120–128.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://books.google.at/books/about/Die_große_Sünde.html?id=UtssAAAAYAAJ&amp;redir_esc=y</ref>
+         <ref type="URL">http://books.google.at/books/about/Die_große_Sünde.html?id=UtssAAAAYAAJ&amp;redir_esc=y</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. März [1925]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">222–226</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Wilhelm Dörpfeld u. Heinrich Ruter: Homers Odyssee in ihrer
+         <note type="review-of">Wilhelm Dörpfeld u. Heinrich Ruter: Homers Odyssee in ihrer
                   Urgestalt. München: Buchenau u. Reichert, 1925.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da wird den heiligen Hain der klassischen Philologie jetzt ein
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Da wird den heiligen Hain der klassischen Philologie jetzt ein
                   gewaltsamer Sturm durchbrausen!</note>
       </body>
    </text>

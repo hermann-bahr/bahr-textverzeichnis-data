@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1683" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Johannes Müller</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">17116, Morgenblatt</biblScope>
@@ -44,12 +44,12 @@
                <date when="1912-04-18">18.4.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Blätter für Bücherfreunde, 15 (1915) #2, 53–55.
+         <note type="first-printing">Blätter für Bücherfreunde, 15 (1915) #2, 53–55.
                   (1.9.1915)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Inventur, 81-87</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist jetzt drei Jahre her, daß ich als Vorleser den Rhein
+         <note type="other-prints">Inventur, 81-87</note>
+         <note type="incipit">Es ist jetzt drei Jahre her, daß ich als Vorleser den Rhein
                   entlang</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1912-4-18_johannes-mueller.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1912-4-18_johannes-mueller.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_943" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Erinnerung an Wedekind</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Vossische Zeitung</title>
             <imprint>
                <biblScope unit="issue">140, Sonntags-Ausgabe</biblScope>
@@ -44,9 +44,9 @@
                <date when="1918-03-17">17.3.1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Wedekind« in: Bilderbuch,42-46</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Er war lange Zeit eine Art Bürgerschreck</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1918_wedekind.pdf</ref>
+         <note type="other-prints">Als »Wedekind« in: Bilderbuch,42-46</note>
+         <note type="incipit">Er war lange Zeit eine Art Bürgerschreck</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1918_wedekind.pdf</ref>
       </body>
    </text>
 </TEI>

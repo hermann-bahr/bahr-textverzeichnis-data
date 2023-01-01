@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">50</biblScope>
@@ -48,14 +48,14 @@
                <date when="1904-11-27">27.11.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der »2 Kreuzer-Ausgabe« fehlt der Satzteil »von dem ich im Feuilleton
                      ausführlicher spreche«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Bannermann« von Otto Ernst</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ernsts »Bannermann«, von dem ich im Feuilleton ausführlicher
+         <note type="review-of">»Bannermann« von Otto Ernst</note>
+         <note type="incipit">Ernsts »Bannermann«, von dem ich im Feuilleton ausführlicher
                   spreche, hat gestern in den heiteren Szenen gefallen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11260"/>
                <ptr type="pmb" target="#21985"/>

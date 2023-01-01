@@ -35,7 +35,7 @@
             type="Journal-Article"
             subtype="Aufruf"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#5903">Abel, Alfred</author>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#10833">Barnowsky, Victor</author>
@@ -74,7 +74,7 @@
             <author ref="#10656">Zeiß, Carl</author>
             <title level="a">Gegen die Theaterräte!</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Vossische Zeitung</title>
             <imprint>
                <biblScope unit="issue">254, Abend-Ausgabe</biblScope>
@@ -82,14 +82,14 @@
                <date when="1919-05-20">20.5.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Von den angesehenen Künstlern, Dichtern und Musikern
                      Deutschlands geht uns eine Denkschrift zu, die wir gekürzt wiedergeben. Sie
                      wird wohl auch bei den Regierungsstellen gebührende Würdigung finden.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wilhelm Widman: Theater und Revolution. Berlin: Oesterheld
+         <note type="other-prints">Wilhelm Widman: Theater und Revolution. Berlin: Oesterheld
                   1920, 161–163.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Theater, mit der ganzen Welt aus den Fugen geraten, soll
+         <note type="incipit">Das Theater, mit der ganzen Welt aus den Fugen geraten, soll
                   umgebaut werden auf der Grundlage neuer Gesetze. Den Schauspielern werden größere
                   Rechte eingeräumt, insbesondere soll die Mehrheit der schwächeren Kräfte
                   wirtschaftlich auch in der Beschäftigung gesichert werden. Wird in dem Neubau auch
@@ -124,7 +124,7 @@
                   haben. Das Theater gehört nicht allein dem Schauspieler, sondern ebensosehr dem
                   Dichter und dem Tonsschöpfer und ist nicht zuletzt eine Angelegenheit des ganzen
                   Volkes. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1919_theaterraete.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1919_theaterraete.pdf</ref>
       </body>
    </text>
 </TEI>

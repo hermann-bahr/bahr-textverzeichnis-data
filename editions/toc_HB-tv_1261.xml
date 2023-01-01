@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1261" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Stadien des Geistes</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">23480, Morgenblatt</biblScope>
@@ -44,9 +44,9 @@
                <date when="1930-01-26">26.1.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir ahnen Geheimnisse rings um uns, naive Menschen schöpfen aus
+         <note type="incipit">Wir ahnen Geheimnisse rings um uns, naive Menschen schöpfen aus
                   dieser Ahnung Kraft zur Tat</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1930-1-26_stadien-des-geistes.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1930-1-26_stadien-des-geistes.pdf</ref>
       </body>
    </text>
 </TEI>

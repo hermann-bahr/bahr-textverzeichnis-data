@@ -37,12 +37,12 @@
             subtype="Umfrage"
             status="checked"
             sameAs="pmb119061">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a" ref="pmb119061">[Einst zusammen jung, jetzt zusammen alternd,
                      sind wir uns stets…]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb61748">Wunschbüchlein zur Eröffnung des Komödienhauses,
                      19.9.1912</title>
             <imprint>
@@ -51,9 +51,9 @@
                <biblScope unit="pages">14</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einst zusammen jung, jetzt zusammen alternd, sind wir uns stets
+         <note type="incipit">Einst zusammen jung, jetzt zusammen alternd, sind wir uns stets
                   gute Gefährten gewesen und wollen’s, lieber Max Dreyer, uns bleiben! </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11175"/>
             </listRef>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tolstoi</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Feier-Abend. Belletristische Beilage zur National-Zeitung,
                      Basel</title>
             <imprint>
@@ -48,13 +48,13 @@
                <date when="1913-04-17">17.4.1913</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Fußnote: »Wir verdanken diese feine Skizze, die den russischen
                      Philosophen nur als Motto nimmt und im Anschluß an sein Leben und Wirken gegen
                      die These ’L’art pour l’art’ Front macht, dem geistreichen Bande ’Essays’ des
                      Wiener Kritikers und Feuilletonisten (Insel-Verlag, Leipzig.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Tolstoi hat die eine Hälfte seines Lebens damit verbracht</note>
+         <note type="incipit">Tolstoi hat die eine Hälfte seines Lebens damit verbracht</note>
       </body>
    </text>
 </TEI>

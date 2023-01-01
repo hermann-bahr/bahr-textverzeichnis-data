@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Duse. Am 11. April</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">126–127</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Fédora« von Victorien Sardou</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #99, 9.
+         <note type="review-of">»Fédora« von Victorien Sardou</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #99, 9.
                   (11.4.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einem Bewunderer der Duse thut es wehe, sie in solchen grellen
+         <note type="incipit">Einem Bewunderer der Duse thut es wehe, sie in solchen grellen
                   Stücken der leeren Sensation zu sehen, wie es diese unselige Fedora ist.</note>
       </body>
    </text>

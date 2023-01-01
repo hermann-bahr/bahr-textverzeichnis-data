@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">12. August [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">II, 204–207</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Thassilo von Scheffer: Die Schönheit Homers. Berlin: Propyläen
+         <note type="review-of">Thassilo von Scheffer: Die Schönheit Homers. Berlin: Propyläen
                   1921. Heinrich Peters: Homers Ilias. In: Preussische Jahrbücher, August
                   1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich lese nun wieder jeden zweiten oder dritten Tag meine hundert
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Ich lese nun wieder jeden zweiten oder dritten Tag meine hundert
                   Verse Homer.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Homer.</note>
+         <note type="summary">Über Homer.</note>
       </body>
    </text>
 </TEI>

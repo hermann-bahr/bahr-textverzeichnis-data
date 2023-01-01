@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_724" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -45,13 +45,13 @@
                <date when="1900-07-04">4.7.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist sonst Sitte, am Ende einer Saison die Ereignisse, die sie
+         <note type="incipit">Es ist sonst Sitte, am Ende einer Saison die Ereignisse, die sie
                   gebracht</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beklagt in scharfen Tönen den Stillstand, den das
+         <note type="summary">Bahr beklagt in scharfen Tönen den Stillstand, den das
                   Burgtheater unter Schlenther erfasst hat. Weder kommt es zu einer Förderung der
                   österreichischen Literatur, noch zur Entwicklung und Vorstellung neuer
                   schauspielerischer Talente.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12671"/>
                <ptr type="pmb" target="#11798"/>

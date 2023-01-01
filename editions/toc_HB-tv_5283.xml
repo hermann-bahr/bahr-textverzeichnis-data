@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">25. Juni [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">216–217</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist eine der größten Szenen der Weltgeschichte, wie
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Es ist eine der größten Szenen der Weltgeschichte, wie
                   Pascal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr hat es nun desöfteren mit dem Typus eines »humanitären
+         <note type="summary">Bahr hat es nun desöfteren mit dem Typus eines »humanitären
                   Querulanten« zu tun, der einen Plan für beispielsweise den Weltfrieden macht, aber
                   letztlich nur an einer zentralen Rolle bei der Verwirklichung des Plans
                   interessiert sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5291"/>
                <ptr type="HB-tv" target="HB-tv_5283_p1"/>

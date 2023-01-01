@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Burgtheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">14</biblScope>
@@ -48,10 +48,10 @@
                <date when="1898-03-26">26.3.1898</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Neigung« von Jakob Julius David</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der neue Director des Burgtheaters hat mit einem Schauspiel von
+         <note type="review-of">»Neigung« von Jakob Julius David</note>
+         <note type="incipit">Der neue Director des Burgtheaters hat mit einem Schauspiel von
                   J. J. David, »Neigung«, debutiert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12671"/>
                <ptr type="pmb" target="#2416"/>
@@ -65,7 +65,7 @@
                <ptr type="HB-tv" target="HB-tv_2269_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/182-202.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/182-202.pdf</ref>
       </body>
    </text>
 </TEI>

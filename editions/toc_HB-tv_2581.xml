@@ -36,18 +36,18 @@
             subtype="Unveröffentlicht"
             status="notLocated"
             sameAs="pmb32073">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb32073">Wiener Brief</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36152">Neue deutsche Rundschau</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
                <date when="1893-12">Dezember 1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Dieser »Wiener Brief« ist im Nachlass Bahrs als Druckfahne in der lateinischen
                      Satztypographie der »Neuen Deutschen Rundschau« erhalten, aber nicht in Druck
                      gegangen. Die Umstellung von Freier Bühne zur Neuen deutschen Rundschau samt
@@ -61,13 +61,13 @@
                      nicht schreiben, sondern blos kurze Theaternotizen von 2-3 Seiten liefern,
                      unmöglich anders als mit dem bei uns üblichen Seitenhonorar bezahlen.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich soll Ihnen monatlich notieren, was hier etwa künstlerisch
+         <note type="incipit">Ich soll Ihnen monatlich notieren, was hier etwa künstlerisch
                   gelten, Wert verlangen, Wirkung hoffen darf.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr berichtet, warum er Schnitzler Gerhart Hauptmann vorzieht,
+         <note type="summary">Bahr berichtet, warum er Schnitzler Gerhart Hauptmann vorzieht,
                   warum das »Märchen« ebenso wie »Hannele« durchfallen musste, erwähnt die Besetzung
                   Adam Müller-Guttenbrunns zum Leiter des Raimundtheaters und begründet seine
                   Kündigung bei der Deutschen Zeitung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28457"/>
                <ptr type="pmb" target="#2850"/>

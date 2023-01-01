@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1486" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Österreich</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Taschenbuch auf das Kriegsjahr 1914/15. Mitarbeiter: Karl
                      Langsrecht, Hermann Bahr, Dora Hohlfeld, Ricarda Huch. E. G. Kolbenheyer, Ernst
                      Lissauer, Max Ludwig, Richard Schaukal, Walter v. Molo</title>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">79–86</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Datiert mit »Salzburg, 10. November 1914«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dieser Krieg hat eine unglaubliche Kraft, alles
+         <note type="incipit">Dieser Krieg hat eine unglaubliche Kraft, alles
                   klarzustellen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Österreich muß zu sich selbst finden, die Nationen müssen sich
+         <note type="summary">Österreich muß zu sich selbst finden, die Nationen müssen sich
                   selbst verwirklichen, so dass ein Europa deutscher Prägung entstehen kann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11036"/>
                <ptr type="pmb" target="#11941"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_1326_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1914_kriegsjahr.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1914_kriegsjahr.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">6. Januar [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">I, 19–20</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vor zwei Jahren saß ich einmal in meinem
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Vor zwei Jahren saß ich einmal in meinem
                   Burgtheaterkammerl</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Anekdote, die Grundlage für seinen »Unmenschen«
+         <note type="summary">Über die Anekdote, die Grundlage für seinen »Unmenschen«
                   bildet.</note>
       </body>
    </text>

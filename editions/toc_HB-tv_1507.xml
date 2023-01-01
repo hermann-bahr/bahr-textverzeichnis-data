@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1507" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Enrica Handel-Mazzetti]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Enrica Handel-Mazetti 60. Festschrift der »Katholischen
                      Schulblätter«</title>
             <imprint>
@@ -47,15 +47,15 @@
                <biblScope unit="pages">9</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Erscheinungsjahr eigentlich [1931].</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der größte Dichter, dessen sich in der Gegenwart die
+         <note type="incipit">Der größte Dichter, dessen sich in der Gegenwart die
                   französische Nation rühmen darf, Paul Claudel, ist gläubiger Katholik. Die
                   verehrte Handel-Mazzetti, die reinste dichtende Kraft, deren wir uns rühmen
                   dürfen, bekennt sich wie er zur katholischen Kirche. Soll das bloß ein »Zufall«
                   sein oder ist es eine Mahnung an das Urwesen aller echten Kunst? |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#6660"/>
                <ptr type="pmb" target="#11575"/>

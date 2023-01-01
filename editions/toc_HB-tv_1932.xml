@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1932" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -45,21 +45,21 @@
                <date when="1903-05-04">4.5.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Tags darauf ( #123, 9. (5.5.1903)) folgt eine Fehlerkorrektur: »Gorki« hätte es
                      statt »Goethe« heißen müssen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Familienidyll« von Oskar Méténier. »Kollegen« von Annie
+         <note type="review-of">»Familienidyll« von Oskar Méténier. »Kollegen« von Annie
                   Neumann-Hofer »Serenissimus und der Dichter«</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zweite Vorstellung des Kleinen Theaters: »Familienidyll« von
+         <note type="incipit">Zweite Vorstellung des Kleinen Theaters: »Familienidyll« von
                   Oskar Metenier, »Kollegen« von Annie Neumann-Hofer und der Spaß mit dem
                   Serenissimus</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht die Leistung der Berliner nicht in den Schauspielern
+         <note type="summary">Bahr sieht die Leistung der Berliner nicht in den Schauspielern
                   - solche fände man zur Not auch in Wien - sondern in dem, der auf das
                   Zusammenspiel achtet und die Schauspieler dazu bringt, den Text als eigenen zu
                   sprechen. Schauspieler, die durch einen Ton verraten, den Text nicht zu begreifen,
                   den sie sprechen, bringen ihn jedesmal zum lachen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5125"/>
                <ptr type="pmb" target="#17244"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_1932_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

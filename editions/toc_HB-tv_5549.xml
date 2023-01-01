@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Juli [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">171–175</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Otokar Březina: Winde vom Mittag nach Mitternacht. In
+         <note type="review-of">Otokar Březina: Winde vom Mittag nach Mitternacht. In
                   deutscher Nachdichtung von Emil Saudek und Franz Werfel. München: Kurt Wolff
                   1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir sind reich an mittleren Begabungen. Aber nicht bloß ihre
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Wir sind reich an mittleren Begabungen. Aber nicht bloß ihre
                   Zahl erregt Staunen, sondern doch auch ihr hoher Rang. Wir haben mehr mittlere
                   Begabungen und diese mittleren Begabungen reichen jetzt höher als je, mit dem
                   Können, das heute jeder Liebhaber der Kunst hat, war man früher schon ein Virtuos
@@ -168,7 +168,7 @@
                   blutigen Händen, du heißt ihn als Lilie aufblüh’n« – ist es nicht das Merkwort
                   dieses kreißenden Augenblicks? Wo schlug seit Walts Salut au monde das Herz der
                   Menschheit jemals mit solcher Gewalt? |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nirgendwo sind mehr Mittelmäßige wie in Deutschland. Otokar
+         <note type="summary">Nirgendwo sind mehr Mittelmäßige wie in Deutschland. Otokar
                   Březina ist der eine, der es nicht ist, nicht nur hat er den Nobelpreis nicht,
                   noch ist er Deutscher.</note>
       </body>

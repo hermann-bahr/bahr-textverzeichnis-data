@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4186" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Deutschlands größte Dichterin</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -45,11 +45,11 @@
                <date when="1931-01-11">11.1.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die weitaus stärksten, zugleich aber auch weitaus reinsten
+         <note type="incipit">Die weitaus stärksten, zugleich aber auch weitaus reinsten
                   deutschen Dichtungen der Gegenwart danken wir einer geborenen Wienerin, Enrica
                   Freiin v. Handel-Mazzetti.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Zum 60. Geburtstag von Enrica Handel-Mazzetti.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Zum 60. Geburtstag von Enrica Handel-Mazzetti.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11575"/>
                <ptr type="pmb" target="#37250"/>

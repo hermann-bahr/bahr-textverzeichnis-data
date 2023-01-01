@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1651" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sankt Philippus Neri</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20984, Morgenblatt</biblScope>
@@ -44,13 +44,13 @@
                <date when="1923-02-10">10.2.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 55 (1923) #71, 1. Beilage, 1.
+         <note type="first-printing">Berliner Börsen–Courier, 55 (1923) #71, 1. Beilage, 1.
                   (11.2.1923)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Wir müssen es einmal sagen, weil es uns schon lange auf dem
+         <note type="incipit">»Wir müssen es einmal sagen, weil es uns schon lange auf dem
                   Herzen liegt: Voltaire, Hume, Lamettrie, Helvetius, Rousseau und ihre ganze Schule
                   haben der Moralität und der Religion noch lange nicht so viel geschadet als der
                   strenge kranke Pascal</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-2-10_sankt-philippus-neri.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-2-10_sankt-philippus-neri.pdf</ref>
       </body>
    </text>
 </TEI>

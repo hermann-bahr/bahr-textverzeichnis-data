@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Macht der Reinen, Stillen, Kleinen…</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,13 +49,13 @@
                <date when="1924-05-17">17.5.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinem ’Tagebuch’ im ’N. Wiener Journal’, vom 4.
                      Mai d. J., schreibt Hermann Bahr in einem Aufsatz über den Goethephilologen
                      Gerhard Gräf unter anderem:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 4.5.1924</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn Goethe Menschen oder Sachen ehren will, gebraucht er am
+         <note type="first-printing">Neues Wiener Journal, 4.5.1924</note>
+         <note type="incipit">Wenn Goethe Menschen oder Sachen ehren will, gebraucht er am
                   liebsten das Wort: rein.</note>
       </body>
    </text>

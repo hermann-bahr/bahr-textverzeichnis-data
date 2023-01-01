@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Candida. (Komödie in drei Akten von Bernard Shaw, deutsch von
                      Siegfried Trebitsch. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 8.
                      Oktober 1904)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -53,11 +53,11 @@
                <biblScope unit="pages">182–189</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 38 (1904) #280, 9–10.
+         <note type="first-printing">Neues Wiener Tagblatt, 38 (1904) #280, 9–10.
                   (9.10.1904)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   169–173</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lieber Bernard Shaw! Sie haben sich voriges Jahr einmal über
+         <note type="incipit">Lieber Bernard Shaw! Sie haben sich voriges Jahr einmal über
                   Ihre Candida lustig gemacht</note>
       </body>
    </text>

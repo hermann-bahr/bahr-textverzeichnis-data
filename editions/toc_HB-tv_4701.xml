@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater in der Josephstadt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -48,10 +48,10 @@
                <date when="1901-12-28">28.12.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Franzla« von Otto Fuchs-Talad</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Franzla«, von Otto Fuchs-Talad, ist ein sorgfältig und sauber
+         <note type="review-of">»Franzla« von Otto Fuchs-Talad</note>
+         <note type="incipit">»Franzla«, von Otto Fuchs-Talad, ist ein sorgfältig und sauber
                   gearbeitetes Schauspiel</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11763"/>
                <ptr type="pmb" target="#23838"/>
@@ -68,7 +68,7 @@
                <ptr type="HB-tv" target="HB-tv_4701_p10"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">23. September [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">226–230</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Sternheim: Berlin oder juste milieu. München: Kurt Wolff
+         <note type="review-of">Karl Sternheim: Berlin oder juste milieu. München: Kurt Wolff
                   1920. [O. N.:] Die Isolierung Japans. Eine Darstellung der politischen Lage Japans
                   nach dem Kriege. Charlottenburg: Deutsche Verlagsgesellschaft für Politik und
                   Geschichte 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Glanz dieser herrlich manikürten Sätze Karl Sternheims, des
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Der Glanz dieser herrlich manikürten Sätze Karl Sternheims, des
                   elegantesten Stilturners unserer Zeit, macht mir so viel Freude, der selbstgewisse
                   Stolz, mit dem er, niemals sich zum Publikum herablassend, jahrelang ruhig
                   gewartet hat, bis es ihm nachlaufen wird, und nun, seit es ihm nachläuft,
@@ -180,7 +180,7 @@
                   Selbstbeherrschung und Selbstverleugnung! Welches Japan ist nun das echte?
                   Vielleicht ist in allen Völkern das Echte gerade das, was in dieser Zeit ein jedes
                   mit Leidenschaft geheimhält. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Gegen die Schelte Berlins: Einerseits ist Berlin besser als sein
+         <note type="summary">Gegen die Schelte Berlins: Einerseits ist Berlin besser als sein
                   Ruf, andererseits gibt es ein zweites, ein geistiges Berlin. Ähnliches gilt für
                   Japan, da gibt es auch unterschiedliche.</note>
       </body>

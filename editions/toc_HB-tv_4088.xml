@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 8. September</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43849">Der Weg. Wochenschrift für Politik und
                      Kultur</title>
             <imprint>
@@ -49,8 +49,8 @@
                <date when="1905-10-01">1.10.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 7-9</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mein Büchel über Kainz fertig.</note>
+         <note type="other-prints">Tagebuch (1909), 7-9</note>
+         <note type="incipit">Mein Büchel über Kainz fertig.</note>
       </body>
    </text>
 </TEI>

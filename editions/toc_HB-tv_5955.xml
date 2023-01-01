@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage_Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Deutschlands Geistesarbeit im Kriegsjahr</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">8 Uhr Abendblatt der National-Zeitung, Berlin</title>
             <imprint>
                <biblScope unit="jg">68</biblScope>
@@ -48,22 +48,22 @@
                <date when="1915-10-07">7.10.1915</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Weitere Antworten von Peter Altenberg, Paul Apel, Leo Ascher, Raoul
                      Auernheimer, Julius Bittner, Oskar Blumenthal, Dora Duncker, Julius
                      Einödshofer, Edmund Eysler, Ludwig Fulda, Max Grube, Wilhem Kienzl, Franz
                      Lehar, Thomas Mann, Siegfried Ochs, Franz Schreker, Richard Strauß und Fedor
                      von Zobeltitz.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Deutschlands Schöpferische Geisteskraft im
+         <note type="first-printing">Als »Deutschlands Schöpferische Geisteskraft im
                   Kriegsjahre« in: Leipziger Abendzeitung und Handelsblatt für Sachsen, 29 (1915)
                   #233, Sonntag–Morgenausgabe, [5–6, hier: 5]. (3.10.1915)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zur Antwort auf Ihre Frage vom 16. d.: Habe vor ein paar Tagen
+         <note type="incipit">Zur Antwort auf Ihre Frage vom 16. d.: Habe vor ein paar Tagen
                   einen Roman vollendet, den vierten in meiner Reihe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr rechnet damit, dass sein eben fertiggestellter Roman
+         <note type="summary">Bahr rechnet damit, dass sein eben fertiggestellter Roman
                   »Himmelfahrt« und seine »von der modernen Malerei« handelnde Studie
                   »Expressionismus« erst nach dem Krieg publiziert werden wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/national-zeitung/1915_geistesarbeit.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/national-zeitung/1915_geistesarbeit.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3718" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Benedetto Croce. Zum sechzigsten Geburtstag. II</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22080, Morgenblatt</biblScope>
@@ -44,11 +44,11 @@
                <date when="1926-02-25">25.2.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Literarische Umschau. Wochenschrift der Badischen Presse,
+         <note type="first-printing">Literarische Umschau. Wochenschrift der Badischen Presse,
                   2 (1926) #11, 42–43. (17.3.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man kann einwenden, Benedetto Croce habe ja keine deuschte
+         <note type="incipit">Man kann einwenden, Benedetto Croce habe ja keine deuschte
                   Literaturgeschichte schreiben wollen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#11933"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_3718_p14"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-3-4_benedetto-croce-2.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1926-3-4_benedetto-croce-2.pdf</ref>
       </body>
    </text>
 </TEI>

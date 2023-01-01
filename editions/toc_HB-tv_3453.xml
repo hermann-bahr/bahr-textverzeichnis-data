@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Friede</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30035">Inventur</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,18 +48,18 @@
                <biblScope unit="pages">126–131</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 41 (1912) #436, Abend–Ausgabe, 1–2.
+         <note type="first-printing">Berliner Tageblatt, 41 (1912) #436, Abend–Ausgabe, 1–2.
                   (27.8.1912) Als »Berta von Suttner« in: Neue Freie Presse, (1912) #17079,
                   Morgenblatt, 30–31. (10.3.1912) Demokratisches Volksblatt, Salzburg, 29.12.1945
                   Wochenpost, Innsbruck, 2.2.1946</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Berliner Deutschen Theater wird jetzt ein Stück gespielt,
+         <note type="incipit">Im Berliner Deutschen Theater wird jetzt ein Stück gespielt,
                   »Offiziere«, von einem jungen Offizier, Herrn Fritz von Unruh...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Mit einem Stück von Fritz von Unruh fragt Bahr, ob es innerhalb
+         <note type="summary">Mit einem Stück von Fritz von Unruh fragt Bahr, ob es innerhalb
                   der aktuellen Gesellschaft (zu der eben auch die Gruppe der Soldaten gehört)
                   möglich oder auch nur sinnvoll sei, den Frieden zu erhalten. Dies könne nur
                   gelingen, wenn aus der bloßen Vermeidung des Krieges ein positiver Wille für
                   Friede werde.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12993"/>
                <ptr type="pmb" target="#3394"/>
@@ -74,7 +74,7 @@
                <ptr type="HB-tv" target="HB-tv_3453_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
       </body>
    </text>
 </TEI>

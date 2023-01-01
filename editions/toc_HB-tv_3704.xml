@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Was planen Sie für das neue Jahr?. Eine Umfrage bei den Dichtern
                      Deutschlands</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hannoverscher Kurier</title>
             <imprint>
                <biblScope unit="issue">1</biblScope>
@@ -49,10 +49,10 @@
                <date when="1925-01-01">1.1.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Neben Bahrs sind noch 58 weitere Antworten abgedruckt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin eben mit einem neuen Lustspiel fertig: »Altweibersommer«
+         <note type="incipit">Ich bin eben mit einem neuen Lustspiel fertig: »Altweibersommer«
                   (ein Liebesschwank in drei Aufzügen) und wende mich nun wieder meinem großen Roman
                   zu, an dem ich seit Jahren spinne, leider aber in der Art der Penelope, die dann
                   nachts wieder alles auftrennt. |</note>

@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb30803"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30803">Schwarzgelb</title>
             <imprint>
@@ -45,13 +45,13 @@
             </imprint>
             <extent>216 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Widmung: »Dem großen Österreicher Richard von Kralik. Salzburg, Weihnachten
                      1916.«</p>
             <p>Rezensionen: Im Archiv ab dem 20. April 1917. Donauland, #5, Juni 1917.</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=86</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=schwarzgelb%20bahr</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=86</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=schwarzgelb%20bahr</ref>
       </body>
    </text>
 </TEI>

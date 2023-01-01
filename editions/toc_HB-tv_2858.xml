@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Klein Eyolf. (Schauspiel in drei Aufzügen von Henrik Ibsen. Zum
                      ersten Mal aufgeführt am 27. Februar). II</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,8 +50,8 @@
                <biblScope unit="pages">54–59</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 2 (1895) #22, 139–140. (2.3.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wer ein Werk von Ibsen nach den anderen hernehmen, seinen Sinn
+         <note type="first-printing">Die Zeit, 2 (1895) #22, 139–140. (2.3.1895)</note>
+         <note type="incipit">Wer ein Werk von Ibsen nach den anderen hernehmen, seinen Sinn
                   suchen und seine Art verzeichnen würde. würde damit die ganze Entwicklung der
                   Literatur seit sechzig Jahren verzeichnen</note>
       </body>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1079" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der verlassene Student</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">16205, Morgenblatt</biblScope>
@@ -44,16 +44,16 @@
                <date when="1909-10-01">1.10.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr leiht sich für den Text die Biographie Gladstones bei Josef Redlich aus
                      (Bahr/Redlich, 49).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Austriaca. 12« in: Austriaca, 112–121 Als »Väter und
+         <note type="other-prints">Als »Austriaca. 12« in: Austriaca, 112–121 Als »Väter und
                   Söhne« in: Das Hermann-Bahr-Buch, 308-316</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich sehe noch meinen alten Vater traurig un unserem kleinen
+         <note type="incipit">Ich sehe noch meinen alten Vater traurig un unserem kleinen
                   Garten sitzen, hilflos betrübt, als ich, kaum 19 Jahre alt, zum erstenmal von der
                   Universität kam;</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1909-10-1_der-verlassene-student.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1909-10-1_der-verlassene-student.pdf</ref>
       </body>
    </text>
 </TEI>

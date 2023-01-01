@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4799" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater und Literatur. Burgtheater vor fünfzig Jahren</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -45,8 +45,8 @@
                <date when="1905-03-31">31.3.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 116–122</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">1832 wurde Schreyvogel fortgejagt, weil er unbequem war.</note>
+         <note type="other-prints">Glossen, 116–122</note>
+         <note type="incipit">1832 wurde Schreyvogel fortgejagt, weil er unbequem war.</note>
       </body>
    </text>
 </TEI>

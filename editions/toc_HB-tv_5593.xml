@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. November [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">260</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Franzos fragt mich: Was fällt den Deutschen ein, Romain
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ein Franzos fragt mich: Was fällt den Deutschen ein, Romain
                   Rolland für einen großen Dichter zu halten? Ich antworte: Gerade weil er kein
                   Franzos sondern ein Deutscher ist, seiner geistigen Rasse nach! |</note>
       </body>

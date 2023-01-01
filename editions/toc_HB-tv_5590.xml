@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">2. November [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">256–257</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Emil Ludwig: Goethe. Geschichte eines Menschen. Erster Band.
+         <note type="review-of">Emil Ludwig: Goethe. Geschichte eines Menschen. Erster Band.
                   Stuttgart, Berlin: Cotta 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Indessen begießt man einen Garten, da man dem Lande keinen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Indessen begießt man einen Garten, da man dem Lande keinen
                   Regen verschaffen kann.« Dieser pragmatische Rat Goethes enthält alles, was uns
                   armen Rumpfösterreichern zu tun noch allenfalls übrig bleibt. Trachte jeder sein
                   Gärtchen zu begießen, vielleicht, daß ihm noch ein paar Blümchen erblühen. Wer
@@ -89,7 +89,7 @@
                   selbst noch nie rührender, ergreifender gezeigt worden. Halten sich die beiden
                   anderen Bände des Werkes auf dieser Höhe, so kann es für das deutsche Haus werden,
                   was in meiner Jugend Lewes’ indessen längst überholtes Goethe-Buch war. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der erste Band von Emil Ludwigs Goethe-Biografie ist für Bahr
+         <note type="summary">Der erste Band von Emil Ludwigs Goethe-Biografie ist für Bahr
                   sehr vielversprechend.</note>
       </body>
    </text>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_195" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Neue französische Romane</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Magazin für die Litteratur des In- und Auslandes</title>
             <imprint>
                <biblScope unit="jg">60</biblScope>
@@ -45,16 +45,16 @@
                <date when="1891-07-24">24.7.1891</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Fünf Schulen: 1.) Flaubert, Zola, 2.) Stendhal, Bourget, Barrès, 3.) Goncourt,
                      4.) Huysmans, 5.) Josephin Péladan; und der Roman von morgen: Marcel
                      Prévost</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Vom jüngsten Frankreich« in: Studien zur Kritik der
+         <note type="other-prints">Als »Vom jüngsten Frankreich« in: Studien zur Kritik der
                   Moderne, 96–100 Wunberg: Das junge Wien, 94.3</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Zwist der Meinungen ist heftig. Alle Tage erscheint eine
+         <note type="incipit">Der Zwist der Meinungen ist heftig. Alle Tage erscheint eine
                   neue Ästhetik der Zukunft.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/magazin-fuer-litteratur/1891-30_neue-franzoesische-romane.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/magazin-fuer-litteratur/1891-30_neue-franzoesische-romane.pdf</ref>
       </body>
    </text>
 </TEI>

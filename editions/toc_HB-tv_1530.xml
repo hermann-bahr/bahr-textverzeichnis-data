@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1530" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Das Tschaperl. Ein Wiener Stück in vier Aufzügen</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>VIII, 170 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Unserem Wiener Aristophanes, meinem Lieben Freund C. Karlweis«. Das Stück
                      dürfte sich an Ereignissen des Ehepaars Langkammer orientiert zu haben,
                      zumindest legen das Eintragungen in Bahrs Tagebuch nahe (Tagebücher (Csáky),
@@ -61,11 +61,11 @@
                      Litteratur des Auslandes, 66 (1897) #39, 1192-95 Wiener Abendpost, 1913 #206,
                      4. (6.9.1913) [Zur Neuinszenierung]</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">»Das Tschaperl« bezeichnet Fanny Lampl, die eine Oper komponiert
+         <note type="summary">»Das Tschaperl« bezeichnet Fanny Lampl, die eine Oper komponiert
                   und durch Zutun ihres Mannes Alois Lampl Erfolg hat. Mit dem Erfolg kommen die
                   Beziehungsprobleme und die Schwierigkeiten Lampls, der Mann einer erfolgreichen
                   Frau zu sein. Am Ende verlässt sie ihn, während Lampl alleine zurückbleibt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=50</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=50</ref>
       </body>
    </text>
 </TEI>

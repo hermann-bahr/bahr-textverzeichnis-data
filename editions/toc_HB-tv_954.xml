@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_954" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Faktum in der Kunst</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Preußische Jahrbücher</title>
             <imprint>
                <biblScope unit="jg">186</biblScope>
@@ -45,12 +45,12 @@
                <date when="1921">1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Auszug als »Abriß meiner Ästhetik« in: Der Schloßpark,
+         <note type="first-printing">Auszug als »Abriß meiner Ästhetik« in: Der Schloßpark,
                   (1921) #11, 152–155.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Sendung des Künstlers, 7-32</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zuweilen wenn unversehens der Mond aus den Wolken tritt, oder
+         <note type="other-prints">Sendung des Künstlers, 7-32</note>
+         <note type="incipit">Zuweilen wenn unversehens der Mond aus den Wolken tritt, oder
                   beim Anblick des Meers, von Gebirgen oder des Veilchens im März</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1921-186_faktum-in-der-kunst.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1921-186_faktum-in-der-kunst.pdf</ref>
       </body>
    </text>
 </TEI>

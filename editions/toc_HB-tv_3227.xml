@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novella d’Andrea. (Schauspiel in vier Aufzügen von Ludwig Fulda.
                      Zum ersten Mal aufgeführt im Burgtheater am 21. November 1903)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -51,9 +51,9 @@
                <biblScope unit="pages">36–41</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #321, 2 (2
+         <note type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #321, 2 (2
                   Kreuzer–Ausgabe: 8 und 25). (22.11.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Giovanni d’Andrea, der greise Lehrer des Rechts in Bologna, hat
+         <note type="incipit">Giovanni d’Andrea, der greise Lehrer des Rechts in Bologna, hat
                   zwei Töchter, die zierlich heitere Bettina, ein »loses Jungfräulein«</note>
       </body>
    </text>

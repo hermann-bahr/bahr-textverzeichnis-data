@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Gesellschaft Jesu</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">170–176</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Telegramm–Zeitung, 8 (1929) #124, 2.
+         <note type="first-printing">Münchner Telegramm–Zeitung, 8 (1929) #124, 2.
                   (2.7.1929)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zu den Suchern der Wahrheit darf ich mich nicht zählen, ich zog
+         <note type="incipit">Zu den Suchern der Wahrheit darf ich mich nicht zählen, ich zog
                   es vor, mich von ihr finden zu lassen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Von einem kurzen Abriss der Geschichte der Jesuiten (und der
+         <note type="summary">Von einem kurzen Abriss der Geschichte der Jesuiten (und der
                   ihnen entgegenschlagenden Kritik) kommt Bahr zu einer Rezension von Przywaras
                   zweibändigem Werk über die »Gesellschaft Jesu«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3888"/>
                <ptr type="pmb" target="#5733"/>
@@ -85,7 +85,7 @@
                <ptr type="HB-tv" target="HB-tv_3524_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

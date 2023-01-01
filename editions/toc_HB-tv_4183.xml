@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ahnengeist</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -48,15 +48,15 @@
                <date when="1929-11-04">4.11.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In den ’Münchner Neuesten Nachrichten’ vom 29. 4. 1928
                      fanden sich folgende, in einer geschichtsverachtenden Zeit des besonderen
                      Nachdenkens werte Ausführungen aus der Feder von Hermann Bahr:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #117, 1–2.
+         <note type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #117, 1–2.
                   (29.4.1928)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 71-76</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was bin ich: Eine Rinne</note>
+         <note type="other-prints">Labyrinth der Gegenwart, 71-76</note>
+         <note type="incipit">Was bin ich: Eine Rinne</note>
       </body>
    </text>
 </TEI>

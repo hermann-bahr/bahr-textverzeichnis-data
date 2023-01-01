@@ -35,12 +35,12 @@
             type="Journal-Article"
             subtype="Aphorismen_Sammlung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#13212">Zweig, Stefan, Hg.</author>
             <title level="a">Erkenntnisse. (Aus Hermann Bahrs Büchern)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36156">Die neue Rundschau</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -49,15 +49,15 @@
                <date when="1923-06-01">Juni 1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Zusammenstellung von Zitaten aus Büchern Bahrs stammt von Anna
                      Bahr-Mildenburg, die Einleitung verfasste Stefan Zweig.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck, gekürzt: Hermann Bahr: Erkenntnisse. Neue
+         <note type="first-printing">Nachdruck, gekürzt: Hermann Bahr: Erkenntnisse. Neue
                   Leipziger Zeitung, 72 (1923) #164, 2. (16.6.1923)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Und was ist denn Kunst anderes als Nachricht von Gott an die
+         <note type="incipit">Und was ist denn Kunst anderes als Nachricht von Gott an die
                   menschlichen Sinne?</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-rundschau/1923_erkenntnisse.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-rundschau/1923_erkenntnisse.pdf</ref>
       </body>
    </text>
 </TEI>

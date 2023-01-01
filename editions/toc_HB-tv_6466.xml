@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 16. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">32</biblScope>
@@ -48,13 +48,13 @@
                <date when="1924-02-17">17.2.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Otto Grautoff (Hg.): Bernhard von der Marwitz, eine Jugend in
+         <note type="review-of">Otto Grautoff (Hg.): Bernhard von der Marwitz, eine Jugend in
                   Dichtung und Briefen an Götz von Seckendorff, J. von Winterfeldt und andere.
                   Dresden: Sibyllen-Verlag 1924.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Zauberstab, 16-23</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Bernhard von der Marwitz, eine Jugend in Dichtung und Briefen,«
+         <note type="other-prints">Der Zauberstab, 16-23</note>
+         <note type="incipit">»Bernhard von der Marwitz, eine Jugend in Dichtung und Briefen,«
                   herausgegeben von Otto Grautoff</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

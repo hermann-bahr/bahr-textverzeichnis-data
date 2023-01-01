@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Salzburg, 7. April [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">120–126</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf einer Beleuchtungsprobe von »Jaákobs Traum« fragte ich
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Auf einer Beleuchtungsprobe von »Jaákobs Traum« fragte ich
                   Richard Beer-Hofmann unversehens:</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Jesuitentheater war die Vorwegnahme des Wagnerschen
+         <note type="summary">Das Jesuitentheater war die Vorwegnahme des Wagnerschen
                   Gesamtkunstwerks. Erstmals ist die Gegenwart wieder in der Lage, sich an die
                   Umsetzung desselben zu wagen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10863"/>
                <ptr type="pmb" target="#12548"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">[O.V.]</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,15 +48,15 @@
                <date when="1901-12-18">18.12.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Anonym veröffentlichte, stark gekürzte Fassung des Feuilletons in der
                      »Österreichischen Volks-Zeitung«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Nacht und Morgen« von Paul Lindau</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig: Österreichische Volks–Zeitung, 47 (1901)
+         <note type="review-of">»Nacht und Morgen« von Paul Lindau</note>
+         <note type="first-printing">Vollständig: Österreichische Volks–Zeitung, 47 (1901)
                   #347, 1. (18.12.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 9–12</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Paul Lindau’s Schauspiel »Nacht und Morgen« wurde gestern auf
+         <note type="other-prints">Rezensionen, 9–12</note>
+         <note type="incipit">Paul Lindau’s Schauspiel »Nacht und Morgen« wurde gestern auf
                   dieser Bühne zum erstenmale dargestellt.</note>
       </body>
    </text>

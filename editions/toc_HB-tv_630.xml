@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_630" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">François de Curel. (L’invitée, die Wiederkehr, Schauspiel in drei
                      Acten von François de Curel. Zum ersten Male aufgeführt im Deutschen
                      Volkstheater am 6. September 1902)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -49,10 +49,10 @@
                <date when="1902-09-07">7.9.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 351-361</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr François de Curel, der jetzt auch schon an die Fünfzig sein
+         <note type="other-prints">Rezensionen, 351-361</note>
+         <note type="incipit">Herr François de Curel, der jetzt auch schon an die Fünfzig sein
                   muß, ergeht es seltsam</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

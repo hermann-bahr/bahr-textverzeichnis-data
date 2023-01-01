@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">27. März [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">113–116</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Der Mensch ist gut!« beteuert Leonhard Frank</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Für Bahr ist der Mensch so lange nicht gut, kann es nicht sein,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Der Mensch ist gut!« beteuert Leonhard Frank</note>
+         <note type="summary">Für Bahr ist der Mensch so lange nicht gut, kann es nicht sein,
                   so lange er nicht die Freiheit besitzt, seine Eigenart zu Leben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#7209"/>
                <ptr type="pmb" target="#10955"/>

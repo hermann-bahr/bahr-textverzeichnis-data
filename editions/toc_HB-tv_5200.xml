@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. Mai [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">162–163</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der »Neuen Erde« schreibt Dr. Max Ermers: »Die Regierenden -
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In der »Neuen Erde« schreibt Dr. Max Ermers: »Die Regierenden -
                   wie immer blind</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr zitiert Ermers in dessen Aufruf, eine Menschheitspolitik zu
+         <note type="summary">Bahr zitiert Ermers in dessen Aufruf, eine Menschheitspolitik zu
                   machen und dessen Resignation, dass zwar die Personen gewechselt, die
                   Sozialdemokraten durch die Kommunisten ausgewechselt wurden, aber die Politik
                   gleich bleibt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12896"/>
                <ptr type="pmb" target="#12507"/>

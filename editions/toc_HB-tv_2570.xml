@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2570" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Heinrich Mann</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41531">Berliner Tageblatt</title>
             <imprint>
                <biblScope unit="jg">59</biblScope>
@@ -45,10 +45,10 @@
                <date when="1930-02-14">14.2.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ernest Hello sah »das Verbrechen des neunzehnten Jahrhunderts«
+         <note type="incipit">Ernest Hello sah »das Verbrechen des neunzehnten Jahrhunderts«
                   darin, dass es, statt das Böse zu hassen, sich mit ihm in Verhandlungen einlassen
                   will</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1930_mann.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1930_mann.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -48,12 +48,12 @@
                <date when="1902-09-18">18.9.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Meineidbauer« von Ludwig Anzengruber</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Claar, vom Landestheater in Linz, der gestern als Jakob im
+         <note type="review-of">»Der Meineidbauer« von Ludwig Anzengruber</note>
+         <note type="incipit">Herr Claar, vom Landestheater in Linz, der gestern als Jakob im
                   »Meineidbauern« debutierte, ist uns seit Jahren als ein sehr tüchtiger und
                   verwendbarer Schauspieler bekannt, der sich, an seinem Platze, gewiß auch hier
                   bewähren wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#14989"/>
                <ptr type="pmb" target="#10772"/>

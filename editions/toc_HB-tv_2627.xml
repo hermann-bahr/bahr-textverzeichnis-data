@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die sogenannte »historische« Schule der Nationalökonomie</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">114–120</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Bedeutung der sogenannten »historischen« Schule
+         <note type="first-printing">Als »Die Bedeutung der sogenannten »historischen« Schule
                   der National–Ökonomie« in: Deutsche Worte, Wien, 6 (1886) #2 (Februar),
                   71–76</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Deutschland ist seit einiger Zeit unter den akademischen
+         <note type="incipit">In Deutschland ist seit einiger Zeit unter den akademischen
                   Lehrern der Nationalökonomie eine heftige Fehde über Fragen der Methode entbrannt.
                   Induktiv oder deduktiv, exakt-historisch oder abstrakt-dogmatisch – das sind die
                   Schlagworte, die der Kampf herüber und hinüber schleudert. Die herrschende Schule
@@ -68,11 +68,11 @@
                   vornehmlich um Gustav Schmoller schaart, ist undankbar genug, diese seine
                   eigentlichen Väter geradezu zu verleugnen, auch sie mit verachtender Geberde
                   kurzab zu den »Dogmatischen Köpfen« zu werfen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr stellt die historische Schule Gustav Schmollers der
+         <note type="summary">Bahr stellt die historische Schule Gustav Schmollers der
                   analytischen Nationalökonomie Karl Mengers gegenüber und betont, dass diesen
                   beiden Bewegungen trotz heftiger rhetorischen Kontroversen zentrale methodische
                   Aspekte gemein seien.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3940"/>
                <ptr type="pmb" target="#11098"/>
@@ -104,7 +104,7 @@
                <ptr type="HB-tv" target="HB-tv_4858_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1358" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Rede über Klimt</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>25 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Gehalten am 24. März 1901 im Bösendorfer-Saale, Leseabend der Concordia. Die
                      Österreichische Volkszeitung berichtet am 6. April 1901: »Hermann Bahr’s ’Rede
                      über Klimt’, die am 24. v. M. am Leseabend der ’Concordia’ gehalten wurde, ist
@@ -55,8 +55,8 @@
             <p>Rezensionen: L. B. [=Ludwig Brehm?]: Von neuen Büchern. In: Südwestdeutsche
                      Rundschau, 1 (1901) #15 (1. August-Heft), 487.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritische Schriften, VIII. Weimar: VDG 2009</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/8-klimt.pdf</ref>
+         <note type="other-prints">Kritische Schriften, VIII. Weimar: VDG 2009</note>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/8-klimt.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. April [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">110</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novalis sagt: »Alle Zufälle unseres Lebens sind Materialien, aus
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Novalis sagt: »Alle Zufälle unseres Lebens sind Materialien, aus
                   denen wir machen können, was wir wollen; wer viel Geist hat, macht viel aus seinem
                   Leben.« Es kommt also jetzt nur darauf an, was wir aus dem »Material« unserer
                   Niederlage machen werden; die Preußen zum Beispiel haben aus dem »Material« von
                   Jena die Völkerschlacht von Leipzig gemacht. So werden wir in ein paar Jahren den
                   Augenschein davon haben, wie viel Geist der Deutsche jetzt hat. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Novalis-Zitat verbindet Bahr mit der Frage, wie man aus der
+         <note type="summary">Ein Novalis-Zitat verbindet Bahr mit der Frage, wie man aus der
                   Niederlage gestärkt hervorgehen wolle.</note>
       </body>
    </text>

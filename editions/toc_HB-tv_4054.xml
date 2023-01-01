@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Zuschreibung_zweifelhaft"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Das deutsche Volkslied. Ein Wort an die Gesangsvereine</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Wochenschrift</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -48,7 +48,7 @@
                <date when="1887-07-09">9.7.1887</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Obwohl Nimmervoll in seiner Bibliografie die anderen beiden mit »H. B.«
                      gekennzeichneten Texte, die 1887 in der »Deutschen Wochenschrift« publiziert
                      wurden, aufführt, vergisst er auf diesen. Zur mutmaßlichen Verfasserschaft
@@ -59,7 +59,7 @@
                      bezahlt. Dass der Sozialist Bahr das wirklich als zentrales Argument
                      geschrieben haben soll, wäre in jedem Fall ungewöhnlich.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die künstlerische Leitung des Wiener Männergesangsvereins
+         <note type="incipit">Die künstlerische Leitung des Wiener Männergesangsvereins
                   »Gutenbergbund«</note>
       </body>
    </text>

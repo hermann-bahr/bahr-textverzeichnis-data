@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Malerei 1894</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">175–184</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 1 (1894) #3, 42–44. (20.10.1894)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die dritte Wiener Internationale, die zwei Pariser Salons, die
+         <note type="first-printing">Die Zeit, 1 (1894) #3, 42–44. (20.10.1894)</note>
+         <note type="incipit">Die dritte Wiener Internationale, die zwei Pariser Salons, die
                   Neoimpressionisten in der Rue Lafitte, eine Sammlung von vierzig Monets...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Angesichts zahlreicher Kunstausstellungen 1894 ist Bahr
+         <note type="summary">Angesichts zahlreicher Kunstausstellungen 1894 ist Bahr
                   enttäuscht angesichts der großen Zahl von bloßen »Copisten«, die zwar technisch
                   einwandfreie Werke lieferten, aber keinerlei Originalität besäßen. Gleichzeitig
                   aber würde deutlich, dass die Malerei sich zu einer autonomen Kunstform entwickle,
                   indem sie sich ganz auf Licht und Farbe konzentriert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12068"/>
                <ptr type="pmb" target="#4579"/>
@@ -104,7 +104,7 @@
                <ptr type="HB-tv" target="HB-tv_2842_p36"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 2. März</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,24 +48,24 @@
                <date when="1921-03-20">20.3.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In einer leichten sprachlichen Überarbeitung - z. B. wird aus dem »Untersberg«
                      ein »Salzburger Berg« - ist dies der am häufigsten nachgedruckte Text Hermann
                      Bahrs.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Steuern und der Bürger« in: Rostocker Zeitung,
+         <note type="first-printing">Als »Die Steuern und der Bürger« in: Rostocker Zeitung,
                   211 (1921) #72, 3. (29.3.1921) Nürnberger Zeitung, (1921) #71, 4. (26.3.1921)
                   Dresden ?, 27.3.1921 Leipziger Tageblatt und Handelszeitung, (1921) #151,
                   Morgenausgabe, 2. (30.3.1921) Neue Badische Landeszeitung, 31.3.1921 Bonner
                   Anzeiger, 31 (1921) #10977, 2. (1.4.1921) Dresdner Nachrichten, 8.4.1921 Hamburger
                   Nachrichten, 12.4.1921 Als »Ich soll Steuern zahlen« in: Das Kleine Journal,
                   (1921) #13, 1–2 ? (26.2.1921)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 88-90</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zuschrift der Steueradministration, mich tadelnd, weil ich das
+         <note type="other-prints">Liebe der Lebenden, I, 88-90</note>
+         <note type="incipit">Zuschrift der Steueradministration, mich tadelnd, weil ich das
                   Formular zur Erwerbssteuer nicht richtig ausgefüllt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr findet, dass Steuerformulare so gestaltet sein müssen, dass
+         <note type="summary">Bahr findet, dass Steuerformulare so gestaltet sein müssen, dass
                   auch ein mittlerer Kopf sie ausfüllen kann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

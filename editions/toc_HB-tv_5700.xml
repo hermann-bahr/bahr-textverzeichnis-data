@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. August [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">I, 262–271</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Max Brod: Heidentum, Christentum, Judentum. Ein
+         <note type="review-of">Max Brod: Heidentum, Christentum, Judentum. Ein
                   Bekenntnisbuch. München: Kurt Wolff 1921. Karl Kamillo Schneider: Die Möglichkeit
                   einer neuen deutschen Kultur. Wien, Leipzig: Wila 1921.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist jetzt Brauch, daß sich unter uns jederman seinen
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Es ist jetzt Brauch, daß sich unter uns jederman seinen
                   Gott</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr will nicht über das Judentum Brods reden können und spricht
+         <note type="summary">Bahr will nicht über das Judentum Brods reden können und spricht
                   im Gegenzug Brod ab, das Heidentum und das Christentum begriffen zu haben.</note>
       </body>
    </text>

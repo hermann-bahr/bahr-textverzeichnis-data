@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 5. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,15 +48,15 @@
                <date when="1919-07-27">27.7.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ernst Robert Curtius: Die literarischen Wegbereiter des neuen
+         <note type="review-of">Ernst Robert Curtius: Die literarischen Wegbereiter des neuen
                   Frankreich. Potsdam: Kiepenheuer 1919. Oskar Walzel: Deutsche Dichtung seit
                   Goethes Tod. Berlin: Askanischer Verlag 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 218-226</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich im Herbst 1888 auf ein Jahr nach Paris ging</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wäre hätte mit dem Glanz gerechnet, mit dem Frankreich plötzlich
+         <note type="other-prints">1919. Tagebuch, 218-226</note>
+         <note type="incipit">Als ich im Herbst 1888 auf ein Jahr nach Paris ging</note>
+         <note type="summary">Wäre hätte mit dem Glanz gerechnet, mit dem Frankreich plötzlich
                   dasteht, während es an der deutschen Kunst ist, jetzt für eine Zeit in eine
                   Dachkammer zu übersiedeln.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#12543"/>
@@ -112,7 +112,7 @@
                <ptr type="HB-tv" target="HB-tv_5430_p21"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

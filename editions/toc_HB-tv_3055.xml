@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. (Gastspiel im Raimundtheater) 14. Die letzten Tage
                      Goldonis. Am 5. Mai 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -50,10 +50,10 @@
                <biblScope unit="pages">163–166</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Gli ultimi giorni di Goldoni« von Valentin Carrera</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #122, 10.
+         <note type="review-of">»Gli ultimi giorni di Goldoni« von Valentin Carrera</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #122, 10.
                   (5.5.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novelli spielte heute »Gli ultimi giorni di Goldoni«, in zwei
+         <note type="incipit">Novelli spielte heute »Gli ultimi giorni di Goldoni«, in zwei
                   Akten und einem Intermezzo von Valentin Carrera, das Stück, mit dem er im November
                   sein Theatro Goldoni in Rom eröffnen wird.</note>
       </body>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -48,17 +48,17 @@
                <date when="1900-11-10">10.11.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr moniert, dass die Operette sich nicht durch die Fortschritte der
                      sezessionistischen Malerei motivieren lässt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»San Toy« von Edward Morton, Musik von Sidney Jones, Liedtexte
+         <note type="review-of">»San Toy« von Edward Morton, Musik von Sidney Jones, Liedtexte
                   von Harry Greenbank und Adrian Ross</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»San Toy« oder »Des Kaisers Garde«, chinesische Operette in zwei
+         <note type="incipit">»San Toy« oder »Des Kaisers Garde«, chinesische Operette in zwei
                   Abtheilungen von Edward Morton, Greenbank und Roß, die Übertragung der Verse von
                   Sidney Jones. Ein Mandarin will verhindern, daß seine Tochter, San Toy, in die
                   weibliche Garde des Kaisers eingereiht wird</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8041"/>
                <ptr type="pmb" target="#3167"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_2356_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

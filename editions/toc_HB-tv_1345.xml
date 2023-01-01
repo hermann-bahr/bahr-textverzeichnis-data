@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1345" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -45,13 +45,13 @@
                <date when="1900-06-03">3.6.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Frau im Fenster« von Hugo von Hofmannsthal und
+         <note type="review-of">»Die Frau im Fenster« von Hugo von Hofmannsthal und
                   »Winterschlaf« von Max Dreyer</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 220-224 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Premièren, 220-224 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 110–113 Wunberg: Das junge Wien, 00.22</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Berliner haben gestern »Die Frau im Fenster« von Hugo von
+         <note type="incipit">Die Berliner haben gestern »Die Frau im Fenster« von Hugo von
                   Hofmannsthal und Max Dreyer’s »Winterschlaf« gebracht</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

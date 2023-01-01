@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Salon 1889. I</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">204–210</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einige Zeit war die Rede, dieses Jahr den Salon zu lassen: die
+         <note type="incipit">Einige Zeit war die Rede, dieses Jahr den Salon zu lassen: die
                   Ausstellungen auf dem Marsfelde, die zehnjährige und die hundertjährige, würden
                   die beste Aufmerksamkeit abschöpfen. Man hat diesen Vorsatz wieder verworfen,
                   bald. Das ist erfreulich, für die Künstler und für die Kunstfreunde, für die
                   Heimischen wie für die Fremden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr rühmt an der französischen bildenden der letzten hundert
+         <note type="summary">Bahr rühmt an der französischen bildenden der letzten hundert
                   Jahre Kunst vor allem deren technische Meisterschaft.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#14920"/>
                <ptr type="pmb" target="#11134"/>
@@ -100,7 +100,7 @@
                <ptr type="HB-tv" target="HB-tv_2639_p37"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Bildende Kunst in Österreich. Die Kunst und der Staat</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,19 +49,19 @@
                <biblScope unit="pages">200–206</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7526, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7526, Morgen–Ausgabe,
                   1–2. (10.12.1892) Russisch als »Вопросы Искусства [Voprosy iskusstva]. Искуссмво
                   иравимельсмво« in: Мир иску́сства [Mir iskusstva], St. Petersburg, 2 (1899) #7–8,
                   70–74.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich von langer Wanderung durch Europa wieder nach Wien kam,
+         <note type="incipit">Als ich von langer Wanderung durch Europa wieder nach Wien kam,
                   mit fremden Sitten vertraut und darum für die heimischen erst empfänglich, da
                   hat mich schmerzlicher nichts erstaunt, als dass es hier eigentlich keine bildende
                   Kunst gibt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Beispiel Frankreichs inspiriert Bahr zu der Forderung, der
+         <note type="summary">Das Beispiel Frankreichs inspiriert Bahr zu der Forderung, der
                   österreichische Staat solle mehr Museen, auch in der Peripherie, bauen und so
                   einerseits die Laien in der Wahrnehmung von Kunst schulen und andererseits einen
                   größeren Markt für heimische Künstler herstellen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10899"/>
                <ptr type="pmb" target="#11763"/>
@@ -83,7 +83,7 @@
                <ptr type="HB-tv" target="HB-tv_4862_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_93" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Alten und die Jungen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Moderne Dichtung</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,13 +45,13 @@
                <date when="1890-05-01">1.5.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Als Aufenthaltsort des Autors ist neben seinem Namen »Paris« angegeben</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Überwindung des Naturalismus, 7–16 Wunberg: Das junge Wien,
+         <note type="other-prints">Überwindung des Naturalismus, 7–16 Wunberg: Das junge Wien,
                   90.12</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es kommt mir vor, als ob wir verleumdet würden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/moderne-dichtung/1890_alten.pdf</ref>
+         <note type="incipit">Es kommt mir vor, als ob wir verleumdet würden.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/moderne-dichtung/1890_alten.pdf</ref>
       </body>
    </text>
 </TEI>

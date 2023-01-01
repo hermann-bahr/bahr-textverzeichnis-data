@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Conrad Dreher. (Als Gast im Theater a. d. Wien, 1. September
                      1898)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,8 +50,8 @@
                <biblScope unit="pages">448–452</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 4 (1895) #49, 154–55. (7.9.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es giebt ein Bild von Lenbach, das einen späten Römer
+         <note type="first-printing">Die Zeit, 4 (1895) #49, 154–55. (7.9.1895)</note>
+         <note type="incipit">Es giebt ein Bild von Lenbach, das einen späten Römer
                   dazustellen scheint</note>
       </body>
    </text>

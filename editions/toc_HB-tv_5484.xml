@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. November [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">2–5</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Walter Rode: Wien und die Republik. Wien, Leipzig: Wilhelm
+         <note type="review-of">Walter Rode: Wien und die Republik. Wien, Leipzig: Wilhelm
                   Stern 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die Schlamperei der Revolution hat uns das ganze alte
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Die Schlamperei der Revolution hat uns das ganze alte
                   Österreich unangetastet erhalten,« sagt Walter Rode in einer kleinen Schrift über
                   »Wien und die Republik« (Verlag Karl Wilhelm Stern, Wien und Leipzig) und an einer
                   anderen Stelle fragt er da: »Glaubt man, daß unsere Bureaukratie, weil sie die
@@ -119,7 +119,7 @@
                   sah, brummt heute befriedigt: Los von Wien! ... Jetzt muß Wien einmal zeigen, was
                   es aus eigener Kraft vermag. Verschwender, dritter Akt. Aber kein Valentin weit
                   und breit! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Beamtentum ist in Österreich institutionalisierte
+         <note type="summary">Das Beamtentum ist in Österreich institutionalisierte
                   Schlamperei, Ausdruck eines gesteigerten Handlungsunwillens der Mächtigen.</note>
       </body>
    </text>

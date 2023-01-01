@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Ostermontag [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Tagebücher 2</title>
             <imprint>
                <pubPlace>Innsbruck, Wien, München</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">101</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 14.4.1918</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hochamt in der Pfarrkirche, dann im neuen Dom. Rudigiers, des
+         <note type="first-printing">Neues Wiener Journal, 14.4.1918</note>
+         <note type="incipit">Hochamt in der Pfarrkirche, dann im neuen Dom. Rudigiers, des
                   großen Bischofs von Linz, fromm gedenkend, des reinsten Mannes seit Klemes Maria
                   Hofbauer, des stärksten Willens, der im Österreich des neunzehnten Jahrhunderts
                   erschienen ist, eines Willens von Granit! – Mittags weiter nach Hohenfurt und

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3559" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Geisterbann. Ein Gedenkblatt für Kant</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">21414, Morgenblatt</biblScope>
@@ -44,19 +44,19 @@
                <date when="1924-04-23">23.4.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Das Manuskript wird in der Monacensia-Bibliothek in München aufbewahrt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 57 (1924) #187, 1. Beilage, 5–7.
+         <note type="first-printing">Berliner Börsen–Courier, 57 (1924) #187, 1. Beilage, 5–7.
                   (20.4.1924)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kant war unter allen deutschen Denkern der gewaltigste
+         <note type="incipit">Kant war unter allen deutschen Denkern der gewaltigste
                   Beschwörer und in jedem Sinn</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11871"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-4-23_geisterbann.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-4-23_geisterbann.pdf</ref>
       </body>
    </text>
 </TEI>

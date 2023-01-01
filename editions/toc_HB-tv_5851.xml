@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">29. März [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">III, 80–84</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Eduard Berend: Karoline von Feuchtersleben. In: Jahrbuch der
+         <note type="review-of">Eduard Berend: Karoline von Feuchtersleben. In: Jahrbuch der
                   Sammlung Kippenberg. Zweiter Band. Mit sieben Bildtafeln. Leipzig: Insel 1922.
                   Jean Paul: Der ewige Frühling. Vorwort von Hermann Hesse. Die Auswahl besorgte
                   Carl Seelig. Die Illustrationen sind von Karl Walser. Leipzig: E. P. Tal
                   1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vom »Jahrbuch der Sammlung Kippenberg« liegt nun der zweite Band
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Vom »Jahrbuch der Sammlung Kippenberg« liegt nun der zweite Band
                   vor</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Jean Paul und Karoline von Feuchtersleben, mit beiden kann
+         <note type="summary">Über Jean Paul und Karoline von Feuchtersleben, mit beiden kann
                   Bahr nichts anfangen. Und mit Kotzebue gleich auch nicht.</note>
       </body>
    </text>

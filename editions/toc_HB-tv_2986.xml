@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Unter Statuen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">128–133</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 19 (1899) #241, 108–109. (13.5.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unter alten Statuen verweilend, im Vatican, im capitolinischen
+         <note type="first-printing">Die Zeit, 19 (1899) #241, 108–109. (13.5.1899)</note>
+         <note type="incipit">Unter alten Statuen verweilend, im Vatican, im capitolinischen
                   und im Museum von Neapel, habe ich jetzt viel an das antike Wesen gedacht. Zuerst
                   ist man ganz bestürzt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr vor griechischen Statuen: diese seien Ausdruck moralischer
+         <note type="summary">Bahr vor griechischen Statuen: diese seien Ausdruck moralischer
                   Vorstellungen, ja ethischer Gewissheiten, die der Künstler zu kommunizieren
                   versucht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

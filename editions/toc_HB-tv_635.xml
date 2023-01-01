@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_635" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Karlweis</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -45,16 +45,16 @@
                <date when="1902-10-26">26.10.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Von einem Wiener Dichter« in: Heimgarten, 28 (1904)
+         <note type="first-printing">Als »Von einem Wiener Dichter« in: Heimgarten, 28 (1904)
                   #2 (November), 122–127.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Vorwort. Karlweis als Dramatiker« in: Carl Karlweis:
+         <note type="other-prints">Als »Vorwort. Karlweis als Dramatiker« in: Carl Karlweis:
                   Wien, das bist du! Stuttgart: 1903</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Morgen jährt es sich, daß wir unseren Karlweis verloren
+         <note type="incipit">Morgen jährt es sich, daß wir unseren Karlweis verloren
                   haben.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Erinnerung an Karlweis setzt mit einer Schilderung seiner
+         <note type="summary">Bahrs Erinnerung an Karlweis setzt mit einer Schilderung seiner
                   letzten Wochen ein, dann kommen einige Aussagen zu den Tagebüchern, den Großteil
                   machen aber Briefe C. K.’s an H. B. aus, die vor allem von – H. B. handeln.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#17109"/>
                <ptr type="pmb" target="#18273"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_2399_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

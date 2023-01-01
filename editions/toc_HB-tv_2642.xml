@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Kunst auf der Pariser Weltausstellung 1889. II. Die
                      »Exposition centenale«</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -50,9 +50,9 @@
                <biblScope unit="pages">219–224</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Pariser Kunstbriefe. II. Die ’Exposition centenale’«
+         <note type="first-printing">Als »Pariser Kunstbriefe. II. Die ’Exposition centenale’«
                   in: Der Kunstwart, 2 (1889) #18, 283–284 und #19, 299</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Kunst vor der Renaissance, die ganze Malerei des
+         <note type="incipit">Die Kunst vor der Renaissance, die ganze Malerei des
                   Mittelalters, in allen Ländern, wie alle Kunst überhaupt und zuletzt das ganze
                   Leben, ist dem Dienste eines Zweckes unterworfen, der außer ihr ist und über ihr
                   ist, dessen Bedürfnissen sie gehorcht, für dessen Wohlfahrt allein sie lebt. Auf
@@ -73,11 +73,11 @@
                   himmlischen Idee, sondern fortan der menschlichen Persönlichkeit, die Malerei als
                   Sprache der Seele, ist die Malerei von der französischen Revolution ab zwei lange
                   Menschenalter hindurch.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der französische Klassizismus zeigt sich Bahr als ambivalente
+         <note type="summary">Der französische Klassizismus zeigt sich Bahr als ambivalente
                   Kunstform: während die wahren Künstler so ihre Persönlichkeit in lobenswerten
                   Werken ausdrücken konnten, wurde dieselbe Manier in den Händen von Epigonen ohne
                   »eine Spur von Persönlichkeit« zum »Schablonenklassizismus«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10866"/>
                <ptr type="pmb" target="#2412"/>
@@ -127,7 +127,7 @@
                <ptr type="HB-tv" target="HB-tv_2642_p35"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

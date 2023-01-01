@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vom Wiener Theater. 4. König und Bauer (Von Lope de Vega)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">90–92</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Wochenschrift, 6 (1888) #19, 5–6</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das ist ja überhaupt immer ein müssiger Streit, wer der
+         <note type="first-printing">Deutsche Wochenschrift, 6 (1888) #19, 5–6</note>
+         <note type="incipit">Das ist ja überhaupt immer ein müssiger Streit, wer der
                   Größere gewesen, und nur den engen Pedantensinn gelehrter Rubrikfanatiker
                   verlangt nach solcher Lokation, daß einfür allemal die Folge der Dichter gesetzt
                   werde, und wem vor dem anderen der Vortritt gebühre. Aber daß er der reichste
@@ -65,9 +65,9 @@
                   Gedanken, allen Gefühlen, in Höhen und Tiefen. Darum war sie so unstät und
                   atemlos, weil ihr solches Riesenwerk die Rast abbrach, irgendwo weilen zu
                   dürfen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lobt die Dichtung Lope de Vegas und findet auch an der
+         <note type="summary">Bahr lobt die Dichtung Lope de Vegas und findet auch an der
                   Vorstellung im Burgtheater nichts auszusetzen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5591"/>
                <ptr type="pmb" target="#28476"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_2621_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

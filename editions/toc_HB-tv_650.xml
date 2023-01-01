@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_650" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein Teufelskerl. (The devil’s disciple. Schauspiel in drei Akten
                      von Bernard Shaw, deutsch von Siegfried Trebitsch. Zum ersten Mal aufgeführt im
                      Raimund-Theater am 25. Februar 1903)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -49,11 +49,11 @@
                <date when="1903-02-26">26.2.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 440-453 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Rezensionen, 440-453 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 161–168</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sucht man Shaw unterzubringen und anzuschließen, so kommt man
+         <note type="incipit">Sucht man Shaw unterzubringen und anzuschließen, so kommt man
                   bald auf die Franzosen, bald auf Oskar Wilde, bald auf Ibsen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Spanischer Naturalismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">237–246</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Von welschen Litteraturen. IV. Spanischer
+         <note type="first-printing">Als »Von welschen Litteraturen. IV. Spanischer
                   Naturalismus.« in: Moderne Dichtung, 2 (1890) #4, 645–647. (1.10.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Los ist mit der spanischen Moderne nicht allzu viel. Was daran
+         <note type="incipit">Los ist mit der spanischen Moderne nicht allzu viel. Was daran
                   spanisch ist, ist nicht modern, sondern nach der bewährten romantischen
                   Schablone, in welcher sich der Geist dieser Rasse am heimischsten fühlt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12913"/>
                <ptr type="pmb" target="#10992"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_2690_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vorwort. Meister Olbrich in froher Bewunderung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">V–VIII</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Widmung an Meister Olbrich« in: Das Hermann-Bahr-Buch,
+         <note type="other-prints">Als »Widmung an Meister Olbrich« in: Das Hermann-Bahr-Buch,
                   149–151</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sie werden sich gar nicht mehr erinnern, lieber Olbrich, wie wir
+         <note type="incipit">Sie werden sich gar nicht mehr erinnern, lieber Olbrich, wie wir
                   zwei uns kennen gelernt haben. Sie richteten damals gerade das Haus der
                   Gartenbaugesellschaft für die erste Ausstellung der »Vereinigung« her; da kam ich
                   hin, ein paar Tage vor der Eröffnung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#6602"/>
@@ -63,7 +63,7 @@
                <ptr type="HB-tv" target="HB-tv_2963_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

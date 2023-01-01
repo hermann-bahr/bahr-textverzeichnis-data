@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_525" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Contrefaçon. (Epilog zur Winterausstellung des Österreichischen
                      Museums)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -47,10 +47,10 @@
                <date when="1900-01-04">4.1.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Secession, 188–198</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mit dem Schreiben ist es zu merkwürdig, man macht da die
+         <note type="other-prints">Secession, 188–198</note>
+         <note type="incipit">Mit dem Schreiben ist es zu merkwürdig, man macht da die
                   seltsamsten Erfahrungen!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

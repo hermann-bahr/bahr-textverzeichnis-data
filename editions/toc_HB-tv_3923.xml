@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Glosse"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Mepherl</author>
             <title level="a">Elan!</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -48,16 +48,16 @@
                <date when="1892-11-03">3.11.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn Sie glauben, daß mir das imponirt!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Satire über die Beliebigkeit eines Textes für seinen Autor, wenn
+         <note type="incipit">Wenn Sie glauben, daß mir das imponirt!</note>
+         <note type="summary">Satire über die Beliebigkeit eines Textes für seinen Autor, wenn
                   nur die Bezahlung stimmt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12816"/>
                <ptr type="HB-tv" target="HB-tv_3923_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74893.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74893.pdf</ref>
       </body>
    </text>
 </TEI>

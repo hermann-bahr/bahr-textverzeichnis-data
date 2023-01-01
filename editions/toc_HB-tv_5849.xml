@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">25. März [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">III, 75–78</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Adalbert Stifter: Die bunten Steine. Leipzig: Insel 1923. Paul
+         <note type="review-of">Adalbert Stifter: Die bunten Steine. Leipzig: Insel 1923. Paul
                   Ferdinand Schmidt: Philipp Otto Runge. Sein Leben und sein Werk. Leipzig: Insel
                   1923. Otto Hamman und Johannes Mayerhofer: Hans Hueber. Ein Kleinmaler der
                   deutschen Spätromantik. München: Parcus &amp; Komp. 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mit dem fünften Band ist nun die Stifterausgabe des Inselverlags
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Mit dem fünften Band ist nun die Stifterausgabe des Inselverlags
                   abgeschlossen, die schönste von allen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über den Abschluß der Stifter-Ausgabe und über Bücher über
+         <note type="summary">Über den Abschluß der Stifter-Ausgabe und über Bücher über
                   Philipp Otto Runge und Hans Hueber.</note>
       </body>
    </text>

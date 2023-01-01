@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. Juni [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">200–202</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Felix Cleve: Die Philosophie des Anaxagoras. Wien: Konegen
+         <note type="review-of">Felix Cleve: Die Philosophie des Anaxagoras. Wien: Konegen
                   1917.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Goethe sagt: »Wie irgend jemand über einen gewissen Fall denke,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Goethe sagt: »Wie irgend jemand über einen gewissen Fall denke,
                   wird man erst nur recht einsehen, wemm man weiß, wie er überhaupt gesinnt
                   ist.«</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In Anaxagoras entdeckt Bahr die Gegenfigur zu Empedokles.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">In Anaxagoras entdeckt Bahr die Gegenfigur zu Empedokles.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#5146"/>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Kroatisch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Junaštvo</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hrvatski pokret</title>
             <imprint>
                <biblScope unit="jg">10</biblScope>
@@ -48,12 +48,12 @@
                <date when="1914-12-24">24.12.1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Heldentum« in: Berliner Tageblatt, 43 (1914) #622,
+         <note type="first-printing">Als »Heldentum« in: Berliner Tageblatt, 43 (1914) #622,
                   Ausgabe für Berlin und Umgegend, Abend–Ausgabe, 3. (7.12.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kriegssegen, 44-47 Gekürzt in: Heldenkränze, Berlin 1915,
+         <note type="other-prints">Kriegssegen, 44-47 Gekürzt in: Heldenkränze, Berlin 1915,
                   53-54</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ovaj se vijek činio sve više nego herojski.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/hrvatski-pokret/1914_junastvo.pdf</ref>
+         <note type="incipit">Ovaj se vijek činio sve više nego herojski.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/hrvatski-pokret/1914_junastvo.pdf</ref>
       </body>
    </text>
 </TEI>

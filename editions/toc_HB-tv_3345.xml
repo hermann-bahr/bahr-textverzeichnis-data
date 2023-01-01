@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Johannes Müller</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">107–111</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Ein Nothelfer« in: Berliner Tageblatt, 43 (1914)
+         <note type="first-printing">Als »Ein Nothelfer« in: Berliner Tageblatt, 43 (1914)
                   #193, Ausgabe für Berlin und Umgegend, Abend–Ausgabe, 1–2. (17.4.1914)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man Johannes Müller nennt, nickt heute jeder Deutsche
+         <note type="incipit">Wenn man Johannes Müller nennt, nickt heute jeder Deutsche
                   zustimmend.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Den Theologen und Philosophen Johannes Müller schildert Bahr als
+         <note type="summary">Den Theologen und Philosophen Johannes Müller schildert Bahr als
                   einen, der sich auf seine »innere Wünschelrute« verlassen könne und daher keine
                   »Weltanschauungen« notwendig habe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3849"/>
                <ptr type="pmb" target="#3849"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_3345_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vortrag"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Juden in Österreich</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">19</biblScope>
@@ -48,7 +48,7 @@
                <date when="1911-02-21">21.2.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Fußnote: »Hermann Bahr hat am Sonntag im Saal des jüdischen
                      Rathauses in Prag über Einladung der Rede- und Lesehalle jüdischer Hochschüler
                      einen Vortrag über dieses Thema gehalten. Wenn wir uns auch nicht mit allen
@@ -56,12 +56,12 @@
                      halten wir sie doch für so interessant, daß wir sie unseren Lesern vermitteln
                      zu sollen glauben. (D. Red.)«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Juden« in: Selbstwehr, (1911) 1–4. (24.2.1911)
+         <note type="first-printing">Als »Die Juden« in: Selbstwehr, (1911) 1–4. (24.2.1911)
                   Dr. Bloch’s österreichische Wochenschrift, 28 (1911) #10, 163–165.
                   (10.3.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich möchte hier über das so merkwürdige, für alle
+         <note type="incipit">Ich möchte hier über das so merkwürdige, für alle
                   Nationen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/6227.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/6227.pdf</ref>
       </body>
    </text>
 </TEI>

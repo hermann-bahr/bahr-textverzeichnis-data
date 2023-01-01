@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Goethedämmerung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,18 +48,18 @@
                <biblScope unit="pages">14–19</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten ?, nach dem 3.6.1928
+         <note type="first-printing">Münchner Neueste Nachrichten ?, nach dem 3.6.1928
                   ?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Das Buch des Gesamtverbandes schaffender Künstler
+         <note type="other-prints">In: Das Buch des Gesamtverbandes schaffender Künstler
                   Österreichs. Wien: Gesamtverband schaffender Künstler Österreichs 1929,
                   16-20</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den Weltkrieg nahm der deutsche Jüngling einen Band Goethe
+         <note type="incipit">In den Weltkrieg nahm der deutsche Jüngling einen Band Goethe
                   mit.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Obwohl er in jüngster Zeit den Aufstieg Kleist und Hölderlins
+         <note type="summary">Obwohl er in jüngster Zeit den Aufstieg Kleist und Hölderlins
                   zuungunsten Goethes konstatieren muss, kündigt Bahr (zum wiederholten Male) eine
                   Renaissance Goethes an, der doch gerade die durch den Krieg gegangene Jugend
                   ansprechen müsse.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#4996"/>
@@ -93,7 +93,7 @@
                <ptr type="HB-tv" target="HB-tv_3492_p13"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

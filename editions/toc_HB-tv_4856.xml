@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">XV</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Selbstbildnis</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">147–166</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Erinnerungen. XV« in: Das Neue Reich, 5 (1922) #6,
+         <note type="first-printing">Als »Erinnerungen. XV« in: Das Neue Reich, 5 (1922) #6,
                   112–116. (11.11.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">So war ich aus Wien verbannt. Meine Burschenschaft gab mir noch
+         <note type="incipit">So war ich aus Wien verbannt. Meine Burschenschaft gab mir noch
                   bis Liesing das Geleit, wir saßen, des Abendzugs nach Graz gewärtig, zechend auf
                   der Höhe des Felsenkellers, während drüben das sanfte Tal mit dem Petersdorfer
                   Turm im gelinden Dunst des Märzabends allmählich erblassend verschwamm.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Fortführung großdeutscher Umtriebe in Graz – Bekanntschaft mit
+         <note type="summary">Fortführung großdeutscher Umtriebe in Graz – Bekanntschaft mit
                   Hugo Wolf am Steinkogl – Studium und Ausschweifungen in Czernowitz –
                   »Straßendiktator« und Vorstrafe – Wohngemeinschaft mit Hugo Wolf in Wien –
                   Nationalökonomie bei Schmoller und Wagner in Berlin</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10966"/>
                <ptr type="pmb" target="#2132"/>
@@ -91,7 +91,7 @@
                <ptr type="HB-tv" target="HB-tv_115_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
       </body>
    </text>
 </TEI>

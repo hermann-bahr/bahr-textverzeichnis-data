@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1053" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Kunstgeschichte</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">21353, Morgenblatt</biblScope>
@@ -44,9 +44,9 @@
                <date when="1924-02-21">21.2.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unsere Kunstgeschichte beginnt mit Vasaris Werk, und schon indem
+         <note type="incipit">Unsere Kunstgeschichte beginnt mit Vasaris Werk, und schon indem
                   er es</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-2-21_kunstgeschichte.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-2-21_kunstgeschichte.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Volksbildung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Essays</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">181–187</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 33 (1899) #283, 1–2.
+         <note type="first-printing">Neues Wiener Tagblatt, 33 (1899) #283, 1–2.
                   (14.10.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bildung, 29-36 Leicht verändert als »Goethisch« in: Um
+         <note type="other-prints">Bildung, 29-36 Leicht verändert als »Goethisch« in: Um
                   Goethe (1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Volksbildung ist keine gar so neue Sache, wie man wohl
+         <note type="incipit">Volksbildung ist keine gar so neue Sache, wie man wohl
                   meint.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr wendet sich gegen die Meinung, Bildung wäre als eine bloße
+         <note type="summary">Bahr wendet sich gegen die Meinung, Bildung wäre als eine bloße
                   Akkumulation von Wissen zu verstehen, und setzt dieser den allseits gebildeten
                   Menschen gegenüber, den etwa auch Castiglione und Goethe gefordert hatten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12428"/>
                <ptr type="pmb" target="#3641"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_3429_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
       </body>
    </text>
 </TEI>

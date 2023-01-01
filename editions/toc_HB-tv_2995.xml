@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Bund »Hagen«</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,18 +48,18 @@
                <biblScope unit="pages">209–215</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #32, 3–4.
+         <note type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #32, 3–4.
                   (3.2.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Endlich ist einmal im Künstlerhause eine erfreuliche
+         <note type="incipit">Endlich ist einmal im Künstlerhause eine erfreuliche
                   Ausstellung, die künstlerischen Ansprüchen und Forderungen genügt. Das ist die
                   Ausstellung des Bundes »Hagen«, einer Vereinigung von jungen Leuten, die sich
                   gerne mit der Gruppe »Luitpold« in München vergleichen hört, ähnliche Absichten
                   mit ähnlichen Mitteln verfolgt und auch in einem ähnlichen Verhältnisse zur
                   Secession stehen will.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Ausstellung des Bundes »Hagen« im Künstlerhaus erfreut Bahr
+         <note type="summary">Die Ausstellung des Bundes »Hagen« im Künstlerhaus erfreut Bahr
                   durch die lockere Hängung der Bilder und die Werke von Wilhelm Hejda und Alfred
                   Zoff, die er als »zwei wirklich bedeutende Künstler« bezeichnet.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#19168"/>
                <ptr type="pmb" target="#11461"/>
@@ -80,7 +80,7 @@
                <ptr type="HB-tv" target="HB-tv_2995_p11"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Gottfinder</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">91–97</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck in: Heimgarten, 33 (1909) #6 (März),
+         <note type="first-printing">Nachdruck in: Heimgarten, 33 (1909) #6 (März),
                   447–451.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das finstere Mittelalter, sagt man. In tiefer Nacht scheint es
+         <note type="incipit">Das finstere Mittelalter, sagt man. In tiefer Nacht scheint es
                   zu schlafen, erloschenen Geistes, verknechteter Seelen. Aber plötzlich schlagen
                   dann solche Flammen aus ihm auf und ein solches Feuer wird leuchtend und so wild,
                   so herrisch, so zügellos erkühnt sich, befreit sich, vermisst sich unversehens
                   der Mensch, dass er in Fernen, in Weiten, in Höhen verschwebt, in Tiefen
                   entsinkt, über Grenzen entrückt, wohin kein Geist sonst geriet, nicht eher noch
                   später.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In der Kirche wirke eine aus ihrer Sicht durchaus begründete
+         <note type="summary">In der Kirche wirke eine aus ihrer Sicht durchaus begründete
                   Furcht vor Mystikern, da deren Glauben vollkommen unabhängig von jeder Kirche
                   sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11161"/>
                <ptr type="pmb" target="#12031"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_3291_p10"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

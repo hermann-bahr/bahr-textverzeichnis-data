@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1256" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Spanisch…</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">84</biblScope>
@@ -45,14 +45,14 @@
                <date when="1931-04-26">26.4.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Primeras lecturas castellanas« von Velhagen &amp;
+         <note type="review-of">»Primeras lecturas castellanas« von Velhagen &amp;
                   Klasing</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Menschenalter ist es her, daß ich zum erstenmal nach Spanien
+         <note type="incipit">Ein Menschenalter ist es her, daß ich zum erstenmal nach Spanien
                   kam</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs eher lose Aneinanderreihung der Erinnerung an seinen
+         <note type="summary">Bahrs eher lose Aneinanderreihung der Erinnerung an seinen
                   ersten Aufenthalt (»Gente nueva«), seiner Ansichten über den Stierkampf und das
                   Heroische in der spanischen Sprache sowie neuere Politik.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10951"/>
                <ptr type="pmb" target="#12314"/>

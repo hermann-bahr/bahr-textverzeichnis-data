@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_679" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vorwort</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Traum im Tag</title>
             <editor>Karl Christian Reh</editor>
             <imprint>
@@ -46,9 +46,9 @@
                <biblScope unit="pages">3–6</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Von der Welt abgewiesen, ausgewiesen, ist unser deutsches Volk
+         <note type="incipit">Von der Welt abgewiesen, ausgewiesen, ist unser deutsches Volk
                   jetzt ganz auf sich selbst angewiesen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_reh_traum-im-tag_vorwort.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_reh_traum-im-tag_vorwort.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">12. Juli [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">235</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Walt Whitman, im Song of the open road</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wer den Berg überwindet, findet dahinter einen neuen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Walt Whitman, im Song of the open road</note>
+         <note type="summary">Wer den Berg überwindet, findet dahinter einen neuen
                   vorher.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13102"/>
             </listRef>

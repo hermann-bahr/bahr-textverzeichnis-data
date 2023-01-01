@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,9 +48,9 @@
                <date when="1900-10-21">21.10.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Nixe« von Friedrich Gustav Triesch</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Lustspiel aus den Achtzigerjahren, »Die Nixe«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="review-of">»Die Nixe« von Friedrich Gustav Triesch</note>
+         <note type="incipit">Ein Lustspiel aus den Achtzigerjahren, »Die Nixe«</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12974"/>
                <ptr type="pmb" target="#12268"/>

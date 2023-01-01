@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1776" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Walt Whitman</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36156">Die neue Rundschau</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -45,15 +45,15 @@
                <date when="1919-05-01">Mai 1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als » Walt Whitman. Zum 100. Geburtstag« in: Prager
+         <note type="first-printing">Als » Walt Whitman. Zum 100. Geburtstag« in: Prager
                   Tagblatt, 44 (1919) #128, Morgen–Ausgabe, 2. (31.5.1919) Gekürzt in: Das
                   literarische Echo, 21 (1919) #18, 1127. (15.6.1919)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Summula, 151–166 Als unbetiteltes Vorwort in: Walt Whitman:
+         <note type="other-prints">Summula, 151–166 Als unbetiteltes Vorwort in: Walt Whitman:
                   Ich singe das Leben. Leipzig 1919, 5–14 Englisch von Walter Grünzweig in: Gay
                   Wilson Allen, Ed Folsom {Hgg): Walt Whitman &amp; the world. Iowa: University of
                   Iowa Press 1995, 193-201</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Väterlich stammt Walt Whitman von englischen Quäkern</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-rundschau/1919_whitman.pdf</ref>
+         <note type="incipit">Väterlich stammt Walt Whitman von englischen Quäkern</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-rundschau/1919_whitman.pdf</ref>
       </body>
    </text>
 </TEI>

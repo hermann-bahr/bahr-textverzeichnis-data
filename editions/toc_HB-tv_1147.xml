@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1147" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Musterung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">84</biblScope>
@@ -45,11 +45,11 @@
                <date when="1931-06-13">13.6.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man muß immer wieder von Zeit zu Zeit alle Werte durchmustern,
+         <note type="incipit">Man muß immer wieder von Zeit zu Zeit alle Werte durchmustern,
                   sie verstauben sonst.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine lose Fetzen aus einem Aufsatz Braigs über das Drama
+         <note type="summary">Eine lose Fetzen aus einem Aufsatz Braigs über das Drama
                   wiedergebende Rezension ohne eigentlichen Zusammenhalt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11933"/>
                <ptr type="pmb" target="#11871"/>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4666" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sezession. II</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -45,12 +45,12 @@
                <date when="1901-04-12">12.4.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im dritten Saal, an der Wand links von der »Medizin«</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Bild »Herbst« von Adolf Böhm gibt Bahr Anlass, über die
+         <note type="incipit">Im dritten Saal, an der Wand links von der »Medizin«</note>
+         <note type="summary">Das Bild »Herbst« von Adolf Böhm gibt Bahr Anlass, über die
                   Schwierigkeiten zu reflektieren, die es den Menschen bereitet, Kunst als (schöner)
                   Selbstzweck zu begreifen, die nicht auf Bedeutung in der Wirklichkeit
                   abzielt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
                <ptr type="pmb" target="#28194"/>

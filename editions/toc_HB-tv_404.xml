@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_404" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das grobe Hemd. (Volksstück in vier Acten von C. Karlweis. Zum
                      ersten Mal aufgeführt im Deutschen Volkstheater am 1. Februar 1897)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">10</biblScope>
@@ -47,11 +47,11 @@
                <date when="1897-02-06">6.2.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 359-365 Das Hermann-Bahr-Buch, 204-208 H.
+         <note type="other-prints">Wiener Theater, 359-365 Das Hermann-Bahr-Buch, 204-208 H.
                   B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963, 335-338</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In seinem neuen Stücke, dem »groben Hemd«, hat Karlweis alle
+         <note type="incipit">In seinem neuen Stücke, dem »groben Hemd«, hat Karlweis alle
                   Erwartungen übertroffen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13473"/>
                <ptr type="pmb" target="#10854"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_2399_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/123-92.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/123-92.pdf</ref>
       </body>
    </text>
 </TEI>

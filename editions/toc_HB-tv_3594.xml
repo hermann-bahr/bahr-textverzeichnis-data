@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Erziehung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">37–44</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Länger: Berliner Tageblatt, 40 (1911) #663,
+         <note type="first-printing">Länger: Berliner Tageblatt, 40 (1911) #663,
                   Morgen–Ausgabe, 2. Beiblatt, 1–2. (31.12.1911) Länger: Urania, 5 (1912) #11,
                   197–199. (16.3.1912)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Länger: Inventur, 88-94</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ob es wohl unter uns einen Menschen in reifen Jahren gibt, der
+         <note type="other-prints">Länger: Inventur, 88-94</note>
+         <note type="incipit">Ob es wohl unter uns einen Menschen in reifen Jahren gibt, der
                   mit sich zufrieden wäre?</note>
       </body>
    </text>

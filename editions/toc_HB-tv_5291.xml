@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. Juli [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">227–228</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das allen Expressionismus in Wort und Bild zugleich treibende
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Das allen Expressionismus in Wort und Bild zugleich treibende
                   wie lenkende Motiv</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über ein Zitat Charles-Louis Philippes, demzufolge die neuen
+         <note type="summary">Über ein Zitat Charles-Louis Philippes, demzufolge die neuen
                   Schriftsteller gottnahe Barbaren sein müssten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5604"/>
                <ptr type="pmb" target="#6738"/>

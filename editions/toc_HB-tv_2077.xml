@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Nachdruck_Gekürzt"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Aus dem »Selbstbildnis«</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Jahrbuch katholischer Dichter 1934. Mit 32 Bildnissen</title>
             <editor>Hagn, Hugo</editor>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">11–19</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Mit einer Fotografie Bahrs. Auszug aus dem 19. Kapitel des »Selbstbildnis«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Selbstbildnis</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Der in mir mehr von mir ist, als ich in Person bin« war seit
+         <note type="other-prints">Selbstbildnis</note>
+         <note type="incipit">»Der in mir mehr von mir ist, als ich in Person bin« war seit
                   der Entlassung aus der benediktinischen sanften Zucht meines unvergeßlichen
                   Salzburger Lehrers Joseph Steger</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_4469_p2"/>
             </listRef>

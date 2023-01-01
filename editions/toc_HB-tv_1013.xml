@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1013" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ibsen und die Jugend</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22811, Morgenblatt</biblScope>
@@ -44,12 +44,12 @@
                <date when="1928-03-18">18.3.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Korrekturabzug hat den Titel: »Ibsen. (Geboren am 20. März 1828)«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich, das fröhlich überstandene Freiwilligenjahr hinter mir,
+         <note type="incipit">Als ich, das fröhlich überstandene Freiwilligenjahr hinter mir,
                   im Oktober 1888 nach Paris entfuhr</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1928-3-18_ibsen-und-die-jugend.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1928-3-18_ibsen-und-die-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

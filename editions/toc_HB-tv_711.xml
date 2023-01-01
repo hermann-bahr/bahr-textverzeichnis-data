@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzmeldung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-02-07">7.2.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Piccolomini« aus »Wallenstein« von Friedrich
+         <note type="review-of">»Die Piccolomini« aus »Wallenstein« von Friedrich
                   Schiller</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Neubesetzungen alter Stücke haben doch nur einen Sinn</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Neubesetzungen alter Stücke haben doch nur einen Sinn</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12671"/>
                <ptr type="pmb" target="#12809"/>

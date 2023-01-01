@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Zitat"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Gedanken über Kunst</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Kunst. Monatshefte für freie und angewandte Kunst</title>
             <imprint>
                <biblScope unit="jg">18</biblScope>
@@ -48,10 +48,10 @@
                <date when="1917">1917</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Über dem Zitat von Bahr steht eines von Anselm Feuerbach.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Alle Geschichte der Malerei ist immer Geschichte des Sehens. Die
+         <note type="incipit">Alle Geschichte der Malerei ist immer Geschichte des Sehens. Die
                   Technik verändert sich erst, wenn sich das Sehen verändert hat. Sie verändert sich
                   nur, um den Veränderungen des Sehens nachzukommen. Das Sehen aber verändert sich
                   mit der Beziehung der Menschen zur Welt. Wie der Mensch zur Welt steht, so sieht

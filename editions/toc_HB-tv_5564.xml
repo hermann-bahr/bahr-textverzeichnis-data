@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. August [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">200–201</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Laotse: Tao Teh King. Übertragung von H. Federmann. München:
+         <note type="review-of">Laotse: Tao Teh King. Übertragung von H. Federmann. München:
                   Becksche 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Aus einer neuen, sehr handlichen Ausgabe von Laotses »Tao Teh
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Aus einer neuen, sehr handlichen Ausgabe von Laotses »Tao Teh
                   King« (Übertragung von H. Federmann. C. H. Becksche Verlagsbuchhandlung, München
                   1920) notiert: Nur wer frei von den Dingen, Geistigkeit begreift. Wer noch strebt
                   nach den Dingen, nur die Schale ergreift,
@@ -86,7 +86,7 @@
                   eine wahre innere Aktivität, um eine göttliche Gelassenheit, etwa in dem Sinn, wie
                   Philo der Neuplatoniker Gott als den apoios den Nichthandelnden bezeichnet.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Handeln und Passivität bei Laozi.</note>
+         <note type="summary">Über Handeln und Passivität bei Laozi.</note>
       </body>
    </text>
 </TEI>

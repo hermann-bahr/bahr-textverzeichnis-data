@@ -35,11 +35,11 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb31083">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31083">Prozeß Friedjung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb36156">Die neue Rundschau</title>
             <imprint>
                <biblScope unit="jg">21</biblScope>
@@ -48,16 +48,16 @@
                <date when="1910-02-01">Februar 1910</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im Archiv ist als »Varia« eine braune Umschlagsmappe mit einer Sammlung an
                      Zeitungsausschnitten zum Prozess erhalten.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzter Nachdruck in: Neues Wiener Journal, 18 (1910)
+         <note type="first-printing">Gekürzter Nachdruck in: Neues Wiener Journal, 18 (1910)
                   #5844, 2–3. (29.1.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Austriaca, 146–168</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Österreich ist ein Verband von Nationen, die alle das Gefühl
+         <note type="other-prints">Austriaca, 146–168</note>
+         <note type="incipit">Österreich ist ein Verband von Nationen, die alle das Gefühl
                   haben, es wäre für jede besser</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-neue-rundschau/1910_friedjung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-neue-rundschau/1910_friedjung.pdf</ref>
       </body>
    </text>
 </TEI>

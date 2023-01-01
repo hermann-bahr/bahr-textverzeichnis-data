@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur.
                      Kaiserjubiläums-Stadttheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -50,11 +50,11 @@
                <date when="1901-09-01">1.9.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Im Zeichen des Kreuzes« von Wilson Barrett, deutsch von
+         <note type="review-of">»Im Zeichen des Kreuzes« von Wilson Barrett, deutsch von
                   Heinrich Bohrmann-Riegen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Laube warnte immer vor der »Bumbumkunst, die mit der großen
+         <note type="incipit">Laube warnte immer vor der »Bumbumkunst, die mit der großen
                   Trommel und klirrendem Becken« daherkommt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2702"/>
                <ptr type="HB-tv" target="HB-tv_4696_p1"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_4696_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

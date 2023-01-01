@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6819" type="Journal-Article">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Monolog</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hamburger Nachrichten</title>
             <imprint>
                <biblScope unit="jg">136</biblScope>
@@ -45,7 +45,7 @@
                <date when="1927-04-23">23.4.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nachweis von Hans-Joachim Heerde. Fehlt im »Textverzeichnis«.</p>
          </note>
       </body>

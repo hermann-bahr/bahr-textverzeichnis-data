@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. Dezember [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">I, 374–375</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich nannte neulich Brezina den größten Dichter unserer Zeit. Das
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Ich nannte neulich Brezina den größten Dichter unserer Zeit. Das
                   ist mein Urteil.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr will von seinem Urteil nicht abgehen, nur weil es ein
+         <note type="summary">Bahr will von seinem Urteil nicht abgehen, nur weil es ein
                   lobendes für einen Tschechen ist.</note>
       </body>
    </text>

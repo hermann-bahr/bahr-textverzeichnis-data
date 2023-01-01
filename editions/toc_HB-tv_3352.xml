@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Italien</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">197–202</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Für Italien« in: Prager Tagblatt, 37 (1912) #209,
+         <note type="first-printing">Als »Für Italien« in: Prager Tagblatt, 37 (1912) #209,
                   Morgen–Ausgabe, 1–2. (31.7.1912) Als »Für Italien« in: Straßburger Post, (1912)
                   #903, Morgen–Ausgabe, 2. Blatt, 1. (1.8.1912) Als »Das Erwachen des italienischen
                   Nationalgefühls« in: Hagener Zeitung, (1912) #179, 1. (1.8.1912) Als »Für Italien«
                   in: Kultur–Beiträge. Arbeiten erster Autoren für Tageszeitungen, Berlin, 3 (1912)
                   #64, 2–4. (1.8.1912)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich wundere mich seit Jahren, daß Italien den Deutschen ein
+         <note type="incipit">Ich wundere mich seit Jahren, daß Italien den Deutschen ein
                   unbekanntes Land ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Italien wird von europäischen Ausland v. a. als Ansammlung von
+         <note type="summary">Italien wird von europäischen Ausland v. a. als Ansammlung von
                   Natur- und Kunstschätzen betrachtet: Bahr erinnert daran, dass hier auch eine
                   auftrebende Bevölkerung lebt, die dabei ist, sich zu einer Nation zu
                   entwickeln.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11040"/>
                <ptr type="pmb" target="#11377"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_3352_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

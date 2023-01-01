@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Beitrag]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Zukunft der deutschen Literatur im Urteil unserer Dichter und
                      Denker. Eine Enquete</title>
             <editor>Grottewitz, Curt</editor>
@@ -50,16 +50,16 @@
                <biblScope unit="pages">105</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In seiner Besprechung des Buches in der Deutschen Zeitung verschweigt Bahr
                      seine Teilnahme am Buch: Hermann Bahr: Die Zukunft der Literatur. Deutsche
                      Zeitung, Wien, 22 (1892) #7469, Morgen-Ausgabe, 1-2. (14.10.1892)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Linz, Donau, den 16. Sept. Geehrter Freund, – – – – Was Ihre
+         <note type="incipit">Linz, Donau, den 16. Sept. Geehrter Freund, – – – – Was Ihre
                   Enquête betrifft, so antworte ich auf Ihre Frage: »Was hat die deutsche Litteratur
                   für eine Zukunft« kurz und deutlich: »Gar keine«. Mit herzlichsten Grüßen Ihr
                   ergebener Hermann Bahr |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1892_zukunft.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1892_zukunft.pdf</ref>
       </body>
    </text>
 </TEI>

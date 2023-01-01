@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">31. Dezember [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">27–28</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe dieses Jahr in Stifter zugebracht;</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Während er das abgelaufene Jahr mit Stifter zugebracht hat, will
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ich habe dieses Jahr in Stifter zugebracht;</note>
+         <note type="summary">Während er das abgelaufene Jahr mit Stifter zugebracht hat, will
                   Bahr das nächste Whitman widmen: Und findet Ähnlichkeiten zwischen beiden
                   Autoren.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12851"/>
                <ptr type="pmb" target="#13102"/>

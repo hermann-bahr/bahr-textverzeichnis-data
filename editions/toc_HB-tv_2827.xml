@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Romane. Johanna Ambrosius</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">87–93</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 3 (1895) #36, 153–154. (8.6.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Edwin Bormann, sonst als sächselnder Poet der »Fliegenden«
+         <note type="first-printing">Die Zeit, 3 (1895) #36, 153–154. (8.6.1895)</note>
+         <note type="incipit">Herr Edwin Bormann, sonst als sächselnder Poet der »Fliegenden«
                   beliebt, fröhnt jetzt einem so albernen als schändlichen Sport: in allerhand
                   confusen und verruchten Schriften möchte er behaupten, daß die Dramen des
                   Shakespeare von Francis Bacon sind.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Dichter wird man nicht, man ist es gleichsam von Natur aus;
+         <note type="summary">Ein Dichter wird man nicht, man ist es gleichsam von Natur aus;
                   nachdem Bahr diesen Gedanken beginnend mit Shakespeare durch die Jahrhunderte
                   gejagt hat, gebraucht er ihn, um die Volksdichterin Ambrosius zu
                   charakterisieren.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#10992"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_2827_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

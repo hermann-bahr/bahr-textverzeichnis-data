@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">»Pelleas und Melisande«. (Von Maurice Maeterlinck, deutsch von
                      Friedrich v. Oppeln-Bronikowski)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -51,13 +51,13 @@
                <biblScope unit="pages">248–255</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Pelléas und Mélisande« von Maurice Maeterlinck, deutsch von
+         <note type="review-of">»Pelléas und Mélisande« von Maurice Maeterlinck, deutsch von
                   Friedrich v. Oppeln-Bronikowski</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #125, 9–10.
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #125, 9–10.
                   (7.5.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   233-237</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">An diesem Stücke, das man ja auch bei uns schon aus einer
+         <note type="incipit">An diesem Stücke, das man ja auch bei uns schon aus einer
                   Aufführung in der Josefstadt kennt (durch die Sezessionsbühne im Juli 1900)</note>
       </body>
    </text>

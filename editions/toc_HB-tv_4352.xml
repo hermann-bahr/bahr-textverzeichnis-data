@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Teufel im Leibe</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Kleine Journal</title>
             <imprint>
                <biblScope unit="jg">16</biblScope>
@@ -48,11 +48,11 @@
                <date when="1894-02-03">3.2.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neue Freie Volksbühne. Vereinsblatt für die Mitglieder,
+         <note type="first-printing">Neue Freie Volksbühne. Vereinsblatt für die Mitglieder,
                   22 (1911) #2, 43–46. (1.11.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Caph, 78-87</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn es winterlich wettert</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/kleine-journal/1894_teufel.pdf</ref>
+         <note type="other-prints">Caph, 78-87</note>
+         <note type="incipit">Wenn es winterlich wettert</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/kleine-journal/1894_teufel.pdf</ref>
       </body>
    </text>
 </TEI>

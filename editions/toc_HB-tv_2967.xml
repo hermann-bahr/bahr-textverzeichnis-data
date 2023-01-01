@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Erste Kunstausstellung der Vereinigung bildender Künstler
                      Österreichs. In der Gartenbaugesellschaft am Parkring</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -50,14 +50,14 @@
                <biblScope unit="pages">15–20</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Secession« in: Die Zeit, 15 (1898) #183, 11–12.
+         <note type="first-printing">Als »Die Secession« in: Die Zeit, 15 (1898) #183, 11–12.
                   (2.4.1898)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">So eine Ausstellung haben wir noch nicht gesehen. Eine
+         <note type="incipit">So eine Ausstellung haben wir noch nicht gesehen. Eine
                   Ausstellung, in der es kein schlechtes Bild gibt. Eine Ausstellung in Wien, die
                   ein Resumé der ganzen modernen Malerei ist!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine detaillierte Schilderung der Ausstellung, die als großer
+         <note type="summary">Eine detaillierte Schilderung der Ausstellung, die als großer
                   Erfolg beschrieben wird. Herausragend seien die Werke Segantinis.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#9845"/>
                <ptr type="pmb" target="#12201"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_3337_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

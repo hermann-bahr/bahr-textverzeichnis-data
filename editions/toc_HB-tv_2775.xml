@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Henri Lavedan</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,15 +49,15 @@
                <biblScope unit="pages">157–162</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Le Nouveau Jeu« in: Berliner Tageblatt, 21 (1892)
+         <note type="first-printing">Als »Le Nouveau Jeu« in: Berliner Tageblatt, 21 (1892)
                   #488, Beilage Der Zeitgeist #39, 4. (26.9.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Fin de siècle war ein hübsches Wort und lief bald durch
+         <note type="incipit">Fin de siècle war ein hübsches Wort und lief bald durch
                   Europa. Nur, wie Vielen es gefiel, es wusste Keiner recht, was es denn eigentlich
                   heisst. Jeder deutete es anders, wie er es brauchte, und das gab viel
                   Confusion.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr rezensiert Lavedans »Le Noveau Jeu« wohlwollend, aber nicht
+         <note type="summary">Bahr rezensiert Lavedans »Le Noveau Jeu« wohlwollend, aber nicht
                   eigentlich begeistert.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2488"/>
                <ptr type="pmb" target="#20005"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_2775_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

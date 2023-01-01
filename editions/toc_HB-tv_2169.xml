@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,10 +48,10 @@
                <date when="1901-09-07">7.9.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Tochter des Herrn Fabricius« von Adolf Wilbrandt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Demmler in der »Tochter des Herrn Fabricius« hat sich
+         <note type="review-of">»Die Tochter des Herrn Fabricius« von Adolf Wilbrandt</note>
+         <note type="incipit">Als Demmler in der »Tochter des Herrn Fabricius« hat sich
                   vorgestern Herr Baumgartner aus Salzburg vorgestellt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5208"/>
                <ptr type="pmb" target="#13863"/>

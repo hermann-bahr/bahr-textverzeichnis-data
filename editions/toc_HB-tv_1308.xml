@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1308" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Von deutscher Art…</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">84</biblScope>
@@ -45,15 +45,15 @@
                <date when="1931-06-30">30.6.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr bemüht sich zu zeigen, was die deutsche Eigenart ausmacht (Form!) und was
                      die österreichische: »Und daß in Österreich stets, wenn sein Geist schon ganz
                      entkräftet scheint, doch immer wieder ein ’völliger’ Mann auftritt, darin liegt
                      Österreichs Kraft. Wir vertrauen ihr.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Goethes Großvater, der als Schöff von Frankfurt bei der Krönung
+         <note type="incipit">Goethes Großvater, der als Schöff von Frankfurt bei der Krönung
                   Franz des Ersten den Himmel trug</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11461"/>

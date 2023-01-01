@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. August [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">203–206</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Paul Gauguin: Briefe an Georges-Daniel de Monfreid. Einl.
+         <note type="review-of">Paul Gauguin: Briefe an Georges-Daniel de Monfreid. Einl.
                   Viktor Segalen. Übers. Hans Jacob. Potsdam: Kiepenheuer 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit Jahren las ich nichts so Sterbenstrauriges als die Briefe
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Seit Jahren las ich nichts so Sterbenstrauriges als die Briefe
                   Gauguins an Georges Daniel de Monfreid, einen das Ruhmeslicht meidenden Maler. Sie
                   sind in Tahiti geschrieben (jetzt, von Viktor Segalen eingeleitet, von Hans Jacob
                   übersetzt, bei Gustav Kiepenheuer in Potsdam erschienen), erstrecken sich über elf
@@ -138,7 +138,7 @@
                   bleiben, so wird die Erinnerung an einen Künstler bleiben, der die Malerei von
                   alten akademischen Verschrobenheiten und von symbolistischen Schiefheiten (auch
                   eine Art Sentimentalismus) befreit hat.« |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Paul Gauguin.</note>
+         <note type="summary">Über Paul Gauguin.</note>
       </body>
    </text>
 </TEI>

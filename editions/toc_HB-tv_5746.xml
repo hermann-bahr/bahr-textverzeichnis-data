@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. Januar [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">II, 17–23</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Otto Bismarck: Erinnerung und Gedanken. Stuttgart, Berlin:
+         <note type="review-of">Otto Bismarck: Erinnerung und Gedanken. Stuttgart, Berlin:
                   Cotta 1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit etwa dreißig Jahren wächst das Gedränge mittlerer
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Seit etwa dreißig Jahren wächst das Gedränge mittlerer
                   Begabungen in Deutschland</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Erinnerungen Bismarcks führen Bahr zu der Frage, wie sich
+         <note type="summary">Die Erinnerungen Bismarcks führen Bahr zu der Frage, wie sich
                   Begabung in Deutschland verwirklichen kann.</note>
       </body>
    </text>

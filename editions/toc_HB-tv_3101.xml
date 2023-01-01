@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der arme Heinrich. Ein Drama aus der deutschen Sage in fünf Akten
                      von Gerhart Hauptmann. Zum erstenmal aufgeführt im Burgtheater am 29. November
                      1902</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -52,10 +52,10 @@
                <biblScope unit="pages">65–75</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 48 (1902) #328, 5–6.
+         <note type="first-printing">Österreichische Volks–Zeitung, 48 (1902) #328, 5–6.
                   (30.11.1902) Österreichische Volks–Zeitung. 2 Kreuzer–Ausgabe, 48 (1902) #328, 8
                   und 25. (30.11.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nach einer lateinischen Aufzeichnung hat Hartmann von Aue mit
+         <note type="incipit">Nach einer lateinischen Aufzeichnung hat Hartmann von Aue mit
                   »seinen krystallenen Wörtelein«, wie Gottfried sie preist, die Geschichte vom
                   armen Ritter Heinrich in Schwaben erzählt</note>
       </body>

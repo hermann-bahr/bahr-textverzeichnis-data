@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">6. März [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">85–92</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Edgar Zilsel: Die Geniereligion. Ein kritischer Versuch über
+         <note type="review-of">Edgar Zilsel: Die Geniereligion. Ein kritischer Versuch über
                   das moderne Persönlichkeitsideal mit einer historischen Begründung. Wien, Leipzig:
                   Braumüller 1918.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die Geniereligion, ein kritischer Versuch über das moderne
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Die Geniereligion, ein kritischer Versuch über das moderne
                   Persönlichkeitsideal mit einer historischen Begründung« von Edgar Zilsel (erster
                   kritischer Band Wien – Leipzig: Braumüller 1918). Kurz: ein Anticarlyle.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Zilsels Buch inspiriert Bahr zu einer langen Abhandlung über
+         <note type="summary">Zilsels Buch inspiriert Bahr zu einer langen Abhandlung über
                   sein Bild des Genies, und warum er es bedauert, nicht in der Lage zu sein, in
                   jedem Menschen ein Genie zu verehren.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#27491"/>
                <ptr type="pmb" target="#11074"/>

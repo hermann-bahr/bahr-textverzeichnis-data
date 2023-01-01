@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Rasse</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">63–71</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Neueste Nachrichten, 80 (1927) #194, 1–2.
+         <note type="first-printing">Münchner Neueste Nachrichten, 80 (1927) #194, 1–2.
                   (19.7.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jede Zeit hat sozusagen ihr eigenes Vocabular</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr gibt einen Abriss des aktuellen Stands der
+         <note type="incipit">Jede Zeit hat sozusagen ihr eigenes Vocabular</note>
+         <note type="summary">Bahr gibt einen Abriss des aktuellen Stands der
                   Rassentheorie.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#15229"/>
                <ptr type="pmb" target="#11134"/>
@@ -99,7 +99,7 @@
                <ptr type="HB-tv" target="HB-tv_3502_p23"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

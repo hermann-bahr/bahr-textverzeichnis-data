@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1313" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Warnung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">83</biblScope>
@@ -45,16 +45,16 @@
                <date when="1930-02-12">12.2.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Ähnlich äußert sich Bahr auch in »Erziehung…« (M.N.N., 23.1.1932)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Friedrich Kayßler: Hintergrund, Besinnungen und
+         <note type="review-of">Friedrich Kayßler: Hintergrund, Besinnungen und
                   Schauspielernotizen. Berlin: Horen 1930. (3. Band)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gegenwart lächelt uns nicht</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Ansichten von Kindererziehung: Man kann nicht früh genug
+         <note type="incipit">Gegenwart lächelt uns nicht</note>
+         <note type="summary">Bahrs Ansichten von Kindererziehung: Man kann nicht früh genug
                   mit Spiel aufhören und mit der Härte und dem Ernst des Lebens beginnen. Und
                   deswegen ist auch Kunst nichts für unreife Kinder.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="pmb" target="#11895"/>

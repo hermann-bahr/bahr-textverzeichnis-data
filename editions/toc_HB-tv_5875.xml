@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">4. Juli [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">III, 175</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf der Fahrt nach Millstatt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr begleicht Rechnungen und stellt fest, dass ein Augenarzt,
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Auf der Fahrt nach Millstatt.</note>
+         <note type="summary">Bahr begleicht Rechnungen und stellt fest, dass ein Augenarzt,
                   ein Friseur und ein Kutscher das gleiche verlangen, weswegen er es heutzutage für
                   unangebracht hält, zu studieren, wenn man nicht ohnehin schon reich sei.</note>
       </body>

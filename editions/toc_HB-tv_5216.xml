@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Februar [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">51–56</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novelli war das Beispiel einer Schauspielkunst, von der ich kein
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Novelli war das Beispiel einer Schauspielkunst, von der ich kein
                   zweites erlebt habe.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr denkt in einem Nachruf über die besten Schauspieler nach,
+         <note type="summary">Bahr denkt in einem Nachruf über die besten Schauspieler nach,
                   und warum ihm Novelli darunter noch immer besonders hervorsticht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2189"/>
                <ptr type="pmb" target="#12064"/>

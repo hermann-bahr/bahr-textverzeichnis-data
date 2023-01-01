@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 1. Dezember</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">26</biblScope>
@@ -48,14 +48,14 @@
                <date when="1918-12-08">8.12.1918</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebücher 2, 291-297</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wenn man von einer Monarchie den Monarchen wegläßt, ist das dann
+         <note type="other-prints">Tagebücher 2, 291-297</note>
+         <note type="incipit">Wenn man von einer Monarchie den Monarchen wegläßt, ist das dann
                   schon eine Republik?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr bedauert, daß beim Schaffen des neuen Österreichs und
+         <note type="summary">Bahr bedauert, daß beim Schaffen des neuen Österreichs und
                   Deutschlands zu viel übernommen wird, statt eine Idee zu verwirklichen. Er selbst
                   wünscht sich eine Welt der Regionen, wo nach Stadt und Region gleich eine
                   Weltregierung kommt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

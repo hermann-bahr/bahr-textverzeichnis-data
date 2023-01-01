@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -48,10 +48,10 @@
                <date when="1900-04-21">21.4.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Alcade de Zalamea (König und Bauer)« von Lope de Vega</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»König und Bauer«, in einer sogenannten »Neubesetzung«. Wenn man
+         <note type="review-of">»Alcade de Zalamea (König und Bauer)« von Lope de Vega</note>
+         <note type="incipit">»König und Bauer«, in einer sogenannten »Neubesetzung«. Wenn man
                   sich nämlich gar nicht zu helfen weiß</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12399"/>
                <ptr type="pmb" target="#28476"/>

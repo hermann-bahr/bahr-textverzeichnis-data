@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. Dezember [1916]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb47732">1917</title>
             <imprint>
                <pubPlace>Innsbruck, München, Wien</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">20–24</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 24 (1916) #8323, 8. (31.12.1916)
+         <note type="first-printing">Neues Wiener Journal, 24 (1916) #8323, 8. (31.12.1916)
                   Berliner Börsen–Courier, 49 (1917) #130, Morgen–Ausgabe, 1. Beilage, 5.
                   (18.3.1917) Hamburgischer Correspondent, 187 (1917) #160, Abend–Ausgabe, 2.
                   (28.3.1917) Saale–Zeitung, 51 (1917) #214, Abend–Ausgabe, 1. Beiblatt, [1].
                   (8.5.1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der »Neuen Rundschau« klagt Thomas Mann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schließt sich an Thomas Manns Verdikt an, dass der Deutsche
+         <note type="incipit">In der »Neuen Rundschau« klagt Thomas Mann</note>
+         <note type="summary">Bahr schließt sich an Thomas Manns Verdikt an, dass der Deutsche
                   verlernt habe, Taugenichts zu sein.</note>
       </body>
    </text>

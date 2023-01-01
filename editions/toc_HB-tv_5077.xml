@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. Februar [1924]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">38–40</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wie Wetterprognosen wird nun bald jede Zeitung, die auf sich
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Wie Wetterprognosen wird nun bald jede Zeitung, die auf sich
                   hält, auch Geschichtsprognosen bringen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr spricht - leicht ironisch - über die »Historionomie«, eine
+         <note type="summary">Bahr spricht - leicht ironisch - über die »Historionomie«, eine
                   von Stromer-Reichenbach erfundene vermeintliche Wissenschaft, die Geschichte
                   intelligibel und Zukunft vorhersagbar zu machen versuche.</note>
       </body>

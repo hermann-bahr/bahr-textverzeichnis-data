@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Telegramm"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zum ersten Wiener Gastspiel des Nationaltheaters</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Union früher Politik (Hauptblatt)</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,7 +48,7 @@
                <date when="1908-04-09">9.4.1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Wir erhalten folgende Mitteilung: Der hervorragende
                      deutsche Schriftsteller und Kritiker Hermann Bahr sandte gestern dem
                      Oberregisseur des Nationaltheaters Jaroslav Kvapil aus Wien folgende
@@ -57,11 +57,11 @@
                      die Hetze gewisser deutscher Kreise gegen das Gastspiel des
                      Nationaltheaters.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bahr/Kvapil, #7 und S. 299</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es drängt mich gerade jetzt, Ihnen meine herzliche Sympathie und
+         <note type="other-prints">Bahr/Kvapil, #7 und S. 299</note>
+         <note type="incipit">Es drängt mich gerade jetzt, Ihnen meine herzliche Sympathie und
                   Ihrem Theater meine aufrichtigste Bewunderung auszusprechen. Hermann Bahr.«
                   |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12011"/>
             </listRef>

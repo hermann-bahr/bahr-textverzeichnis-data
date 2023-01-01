@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_748" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Nacht und Morgen. Schauspiel in vier Aufzügen von Paul Lindau.
                      Zum erstenmal aufgeführt im Burgtheater am 17. Dezember 1901</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -47,15 +47,15 @@
                <date when="1901-12-18">18.12.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
+         <note type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
                   Kreuzer–Ausgabe, 47 (1901) #347, 8. (18.12.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 9–12</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Paul Lindau hat auch alle Launen des Pubilkums
+         <note type="other-prints">Rezensionen, 9–12</note>
+         <note type="incipit">Paul Lindau hat auch alle Launen des Pubilkums
                   ausgekostet.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die gemischte Bedeutung Lindaus gibt Bahr wieder, wenn er ihn
+         <note type="summary">Die gemischte Bedeutung Lindaus gibt Bahr wieder, wenn er ihn
                   der Unfähigkeit, die neue Generation von 1890 zu erfassen, bezichtigt, aber in ihm
                   doch einer der ersten Handwerker des Theaters erkennt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12078"/>
                <ptr type="pmb" target="#2702"/>

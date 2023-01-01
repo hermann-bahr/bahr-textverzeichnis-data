@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_771" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Frau vom Meere. Schauspiel in fünf Akten von Henrik Ibsen. Im
                      Burgtheater zum erstenmale aufgeführt am 24. April 1903</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">49</biblScope>
@@ -47,11 +47,11 @@
                <date when="1903-04-25">25.4.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
+         <note type="first-printing">Gekürzt: Österreichische Volks–Zeitung. 2
                   Kreuzer–Ausgabe, 49 (1903) #113, 8. (25.4.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 12–16 H. B.: Kritiken. Hg. Kindermann. Wien: Bauer
+         <note type="other-prints">Glossen, 12–16 H. B.: Kritiken. Hg. Kindermann. Wien: Bauer
                   1963, 33-36</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ellida, das Kind eines Wächters auf dem Leuchtturm, wird</note>
+         <note type="incipit">Ellida, das Kind eines Wächters auf dem Leuchtturm, wird</note>
       </body>
    </text>
 </TEI>

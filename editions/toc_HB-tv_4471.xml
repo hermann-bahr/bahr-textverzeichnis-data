@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4471" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Hermann von Kürenberg</author>
             <title level="a">Reisebriefe eines lachenden Philosophen. V. Interlacken im
                      Oktober 1881</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Salzburger Nachrichten</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -47,11 +47,11 @@
                <date when="1881-11-06">6.11.1881</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lieber Freund! Du wirst Dich gewaltig wundern</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Erzähler rechtfertigt die Schreibpause mit seiner Reise über
+         <note type="incipit">Lieber Freund! Du wirst Dich gewaltig wundern</note>
+         <note type="summary">Der Erzähler rechtfertigt die Schreibpause mit seiner Reise über
                   den Gotthard, die er zu Fuß machte und kompensiert das Verpasste mit einem
                   Hochlied auf Luzern.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#26034"/>
                <ptr type="pmb" target="#11190"/>
@@ -60,7 +60,7 @@
                <ptr type="HB-tv" target="HB-tv_4471_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
       </body>
    </text>
 </TEI>

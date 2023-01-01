@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Einladung nach Salzburg</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das österreichische Wunder. Einladung nach Salzburg</title>
             <imprint>
                <pubPlace>Stuttgart</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">37–47</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 44 (1915) #200, Abend–Ausgabe für
+         <note type="first-printing">Berliner Tageblatt, 44 (1915) #200, Abend–Ausgabe für
                   Berlin und Umgegend, 2. (20.4.1915) Nachdruck in: Salzburger Wacht, 16 (1915) #92,
                   1–3. (24.4.1915)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Bahr/Kvapil, 552-555.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auch mir, lieber Freund, tut es herzlich leid, daß wir uns heuer
+         <note type="other-prints">Bahr/Kvapil, 552-555.</note>
+         <note type="incipit">Auch mir, lieber Freund, tut es herzlich leid, daß wir uns heuer
                   nicht auf dem Lido sehen sollen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lädt nach Salzburg ein, die Stadt Mozarts, der klaren
+         <note type="summary">Bahr lädt nach Salzburg ein, die Stadt Mozarts, der klaren
                   Formen und der kraftvollen österreichischen Gemeinde</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12303"/>
                <ptr type="pmb" target="#3561"/>

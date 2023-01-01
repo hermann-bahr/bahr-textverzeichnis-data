@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Dezember [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">289–291</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Grillparzer als Prophet: Sie regen sich, doch immerdar im Kreis.
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Grillparzer als Prophet: Sie regen sich, doch immerdar im Kreis.
                   Die Zeit hat keine Männer, Freund wie Feind. --------------------- Der Reichsfürst
                   will sich lösen von dem Reich, Dann kommt der Adel und bekämpft die Fürsten; Den
                   gibt die Not, die Tochter der Verschwendung, Drauf in des Bürgers Hand, des
@@ -97,7 +97,7 @@
                   an sich selbst, Und einmal Ehrfurcht in sich selbst gespalten, Lebt sie als
                   Ehrsucht nur noch und als Furcht. Maßt euch nicht an, zu deuteln Gottes Wahrheit.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Zitat Grillparzers lässt sich wohl im letzten Vers als
+         <note type="summary">Ein Zitat Grillparzers lässt sich wohl im letzten Vers als
                   Zusammenfassung von Bahrs Intention verstehen: »Maßt euch nicht an, zu deuteln
                   Gottes Wahrheit.«</note>
       </body>

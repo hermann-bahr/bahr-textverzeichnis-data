@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tschechisch"
             status="notChecked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Extase</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Literární listy. Časopis věnovaný moderní kritice
                      literární</title>
             <imprint>
@@ -49,7 +49,7 @@
                <date when="1904-08-06">6.8.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Ekstase</note>
+         <note type="first-printing">Ekstase</note>
       </body>
    </text>
 </TEI>

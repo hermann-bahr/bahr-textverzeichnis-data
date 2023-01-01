@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2584" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Aus vier Weltteilen. Tagebücher einer Frau</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">79</biblScope>
@@ -45,11 +45,11 @@
                <date when="1926-12-16">16.12.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Elisabeth von Heyking: Tagebücher aus vier Weltteilen,
+         <note type="review-of">Elisabeth von Heyking: Tagebücher aus vier Weltteilen,
                   1886/1904. Hg. G. Litzmann. Leipzig: Koehler &amp; Amelang 1926</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als voriges Jahr Frau von Heyking starb, erinnerten sich
+         <note type="incipit">Als voriges Jahr Frau von Heyking starb, erinnerten sich
                   Gebildete meines Alters bei der Todesnachricht dunkel ihres Mannes</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3709"/>
                <ptr type="pmb" target="#5888"/>

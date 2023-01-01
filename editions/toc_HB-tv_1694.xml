@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1694" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Elektra« in Dresden. Persönliche Stimmungen</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">15963, Morgenblatt</biblScope>
@@ -44,13 +44,13 @@
                <date when="1909-01-29">29.1.1909</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Nach der Uraufführung, Bahr ist noch in Dresden, datiert: 25.1.1909.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Richard Strauss. I. Elektra in Dresden« in: Essays
+         <note type="other-prints">Als »Richard Strauss. I. Elektra in Dresden« in: Essays
                   (1912), 71-79</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wunderlich ist’s in Dresden jetzt,</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1909-1-29_elektra-in-dresden.pdf</ref>
+         <note type="incipit">Wunderlich ist’s in Dresden jetzt,</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1909-1-29_elektra-in-dresden.pdf</ref>
       </body>
    </text>
 </TEI>

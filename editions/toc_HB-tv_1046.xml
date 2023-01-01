@@ -34,7 +34,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1046" type="Pamphlet" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Kriegssegen. Das deutsche Wesen ist uns erschienen. Vortrag
                      gehalten zu Gunsten der durch den Krieg in Not geratenen Schriftsteller und
@@ -46,13 +46,13 @@
             </imprint>
             <extent>o. P. Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Trotz des von Bahr verwendeten Titels »Kriegssegen« handelt es sich bei dieser
                      vierseitigen Handreichung um den Text »Das deutsche Wesen ist uns
                      erschienen«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kriegssegen, 5-8</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Und wenn ich hundert Jahre würde, diese Tage werd’ ich nie
+         <note type="other-prints">Kriegssegen, 5-8</note>
+         <note type="incipit">Und wenn ich hundert Jahre würde, diese Tage werd’ ich nie
                   vergessen!</note>
       </body>
    </text>

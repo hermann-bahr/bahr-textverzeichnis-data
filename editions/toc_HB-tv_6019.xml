@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 16. April</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-05-16">16.5.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 115–118</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich suchte Goethe lange vergeblich nach einem Urteil über Pascal
+         <note type="other-prints">Kritik der Gegenwart, 115–118</note>
+         <note type="incipit">Ich suchte Goethe lange vergeblich nach einem Urteil über Pascal
                   ab und fand nichts als im neunten Band der Naturwissenschaftlichen Schriften in
                   einem Exzerpt Goethes aus Karl Wilhelm Noses »Kritik der geologischen Theorie« die
                   Stelle: »nach Pascal am menschlichen Geiste verzweifelnd«. Da kommt mir aber jetzt
@@ -123,9 +123,9 @@
                   beklagenswert, dem Stilisten beneidenswert: es scheint gar nicht darauf
                   anzukommen, was einer sagt, sondern nur wie, gar nicht auf den Gehalt, sondern nur
                   auf die Gewalt des Sagens. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr suchte, was Goethe über Pascal schrieb, und fand, dass der
+         <note type="summary">Bahr suchte, was Goethe über Pascal schrieb, und fand, dass der
                   Weimarianer den Katholizismus nicht richtig kannte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

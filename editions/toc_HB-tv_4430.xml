@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4430" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das deutsche Wesen ist uns erschienen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Eiserne Buch. Die führenden Männer und Frauen zum Weltkrieg
                      1914/15</title>
             <editor>Gellert, Georg</editor>
@@ -47,13 +47,13 @@
                <biblScope unit="pages">73–76</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Datiert mit »Bayreuth, 12. August«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 43 (1914) #410, Ausgabe für Berlin
+         <note type="first-printing">Berliner Tageblatt, 43 (1914) #410, Ausgabe für Berlin
                   und Umgegend, Abend–Ausgabe, 2. (14.8.1914) Gekürzt in: Die Aktion, 5 (1915)
                   #18/19, 236. (1.5.1915)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Und wenn ich hundert Jahre würde, diese Tage werde ich nie
+         <note type="incipit">Und wenn ich hundert Jahre würde, diese Tage werde ich nie
                   vergessen!</note>
       </body>
    </text>

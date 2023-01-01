@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kroatisch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Treba li glumac da osjeća ono što glumi?</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Kulisa</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -48,7 +48,7 @@
                <date when="1930-02-10">10.2.1930</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Übersetzung des Titels: »Soll der Schauspieler empfinden, was er spielt?«.
                      Editorische Einleitung: »Kad se govori o glumačkoj umjetnosti, ni u kojem
                      pitanju valjda nema toliko kontradiktornih mišljenja, kao baš u tome, ima li
@@ -56,9 +56,9 @@
                      Bahr, govoreći o tom pitanju, iznosi neke primjere iz života glumaca, koji
                      imaju da potvrde njegovo mišljenje.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Pozornica ne pita za to, ima li glumac osjećaja, već ima li
+         <note type="incipit">Pozornica ne pita za to, ima li glumac osjećaja, već ima li
                   izražajne</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/kulisa/1930_glumac.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/kulisa/1930_glumac.pdf</ref>
       </body>
    </text>
 </TEI>

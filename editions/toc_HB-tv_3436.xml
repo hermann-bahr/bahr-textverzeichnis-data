@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das Recht der Schauspieler</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Essays</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">213–217</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 19 (1911) #6327, 1–2. (4.6.1911)
+         <note type="first-printing">Neues Wiener Journal, 19 (1911) #6327, 1–2. (4.6.1911)
                   Die Zukunft, 20 (1912) #79, 402–404. (22.6.1912)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als vor fünfzehn Jahren eine Schrift erschien, verfaßt von Dr.
+         <note type="incipit">Als vor fünfzehn Jahren eine Schrift erschien, verfaßt von Dr.
                   Max Burckhard</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr setzt sich für ein verbrieftes Recht ein, das es
+         <note type="summary">Bahr setzt sich für ein verbrieftes Recht ein, das es
                   Theaterdirektoren verunmöglichen würde, Schauspieler zu verpflichten und dann
                   nicht spielen zu lassen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11036"/>
                <ptr type="pmb" target="#4748"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_3436_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
       </body>
    </text>
 </TEI>

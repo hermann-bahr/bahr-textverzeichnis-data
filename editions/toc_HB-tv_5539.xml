@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">29. Mai [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">142–144</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seit Burckhard fortging, ist mir kein Abschied mehr so schwer
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Seit Burckhard fortging, ist mir kein Abschied mehr so schwer
                   geworden wie von Willi Handl. Da zerbricht mir der reinste Spiegel; keines anderen
                   Freundes unbestechlicher Blick gab mir je mein Bild heller durch Neigung verschönt
                   zurück! Was sich so gemeinhin Freund zu nennen pflegt, das will doch immer etwas
@@ -101,7 +101,7 @@
                   Österreichern; sie haben sich in Berlin ja noch am ehesten erhalten. Und wenn es
                   erst gar keinen mehr geben wird, bemerkt Europa vielle cht, daß doch eigentlich
                   schad um sie ist. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nachruf auf Willi Handl</note>
+         <note type="summary">Nachruf auf Willi Handl</note>
       </body>
    </text>
 </TEI>

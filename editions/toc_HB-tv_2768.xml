@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Vom jüngsten Spanien</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,15 +49,15 @@
                <biblScope unit="pages">100–105</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Magazin für die Litteratur des In– und Auslandes, 60
+         <note type="first-printing">Das Magazin für die Litteratur des In– und Auslandes, 60
                   (1891) #37, 580–582</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man braucht mir nicht erst die Sünden der »Jungen« umständlich
+         <note type="incipit">Man braucht mir nicht erst die Sünden der »Jungen« umständlich
                   vorzurechnen: ich weiss sie selber alle ganz genau, ich kenne den langen
                   Beichtzettel der neuen Laster. Nur leider nützt er mir wenig: er vermehrt meine
                   Liebe bloss, statt mich von ihr zu heilen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die literarische Moderne Spaniens nennt Bahr die »jüngste«. Doch
+         <note type="summary">Die literarische Moderne Spaniens nennt Bahr die »jüngste«. Doch
                   auch in Spanien scheint der Naturalismus an sein Ende gekommen zu sein.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#10992"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_2768_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

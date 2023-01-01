@@ -37,13 +37,13 @@
             type="Journal-Article"
             sameAs="pmb31145"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb31145">Sturm und Drang. (»Die Kindermörderin«, ein
                      Trauerspiel von Heinrich Leopold Wagner. Zum ersten Mal aufgeführt durch den
                      Musik- und Theaterverein »Sezession« im Beatrixsaal am 27. August 1904)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -52,16 +52,16 @@
                <date when="1904-08-28">28.8.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Kontroverse um einen gestrichenen und letztlich wieder restituierten Satz
                      siehe Bahr: Tagebücher, Skizzenbücher, Notizhefte, IV, 269-270.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 414-422</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In einer Geschichte der deutschen Literatur, die noch immer gern
+         <note type="other-prints">Glossen, 414-422</note>
+         <note type="incipit">In einer Geschichte der deutschen Literatur, die noch immer gern
                   jungen Leuten zu Weihnachten geschenkt wird, steht</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht die Nachwirkung der Epoche des »Sturm und Drangs«
+         <note type="summary">Bahr versucht die Nachwirkung der Epoche des »Sturm und Drangs«
                   auf die gegenwärtige Literatur zu skizzieren.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13021"/>
                <ptr type="pmb" target="#11461"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_1977_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

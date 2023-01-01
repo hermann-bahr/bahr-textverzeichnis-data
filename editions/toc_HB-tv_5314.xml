@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">28. Oktober [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">306–310</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Wilhelm Hausenstein: Wir und das Barock, in: Neuer
+         <note type="review-of">Wilhelm Hausenstein: Wir und das Barock, in: Neuer
                   Merkur</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die guten Freunde, die sich teilnehmend erkundigen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht die Zeit des 2. Barocks gekommen. Alles dazwischen:
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Die guten Freunde, die sich teilnehmend erkundigen</note>
+         <note type="summary">Bahr sieht die Zeit des 2. Barocks gekommen. Alles dazwischen:
                   Pipifax!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11036"/>

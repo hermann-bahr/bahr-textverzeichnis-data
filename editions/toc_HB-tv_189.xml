@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Campbell</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Strom</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,9 +48,9 @@
                <date when="1912">1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die neue Theologie« von John Reginald Campbell</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Inventur, 75-80</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Reverend R. J. Campbell, Verweser des City Temple, wo er
+         <note type="review-of">»Die neue Theologie« von John Reginald Campbell</note>
+         <note type="other-prints">Inventur, 75-80</note>
+         <note type="incipit">Der Reverend R. J. Campbell, Verweser des City Temple, wo er
                   gelegentlich von seiner Kanzel Bernhard [!] Shaw, die Buddhistin Annie Besand und
                   den Finanzminister Lloyd George</note>
       </body>

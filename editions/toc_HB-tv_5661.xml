@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">21. April [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">I, 130–138</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Gustav Landauer: Shakespeare, dargestellt in Vorträgen. Im
+         <note type="review-of">Gustav Landauer: Shakespeare, dargestellt in Vorträgen. Im
                   letztwilligen Auftrag des Verfassers herausgegeben von Martin Buber.
                   Frankfurt/Main: Rütten &amp; Loening 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Ohne Unreinheit vielfacher Art ist weder Politik noch Krieg
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">»Ohne Unreinheit vielfacher Art ist weder Politik noch Krieg
                   irgend möglich</note>
       </body>
    </text>

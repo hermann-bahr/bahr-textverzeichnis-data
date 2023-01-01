@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Whitman</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Essays</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">34–36</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bei diesem Artikel dürfte es sich um die Vorlage für die Ausarbeitung des
                      Artikels »Walt Whitman« handeln, den Bahr 1919 als Vorwort zu einer Ausgabe
                      Whitmans und in Folge in Summula veröffentlicht.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Walt Whitman« in: Der Strom, 1 (1911) #1, April,
+         <note type="first-printing">Als »Walt Whitman« in: Der Strom, 1 (1911) #1, April,
                   17–19 Gekürzt in: Das literarische Echo, 13 (1911) #19, 1398–1399.
                   (1.7.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Whitman stammt väterlich und mütterlich von Quäkern ab.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nach einem kurzen biographischen Abriss macht Bahr Whitmans
+         <note type="incipit">Whitman stammt väterlich und mütterlich von Quäkern ab.</note>
+         <note type="summary">Nach einem kurzen biographischen Abriss macht Bahr Whitmans
                   Bedeutung in dem Umstand fest, dass dieser »den demokratischen Menschen für die
                   Kunst entdeckt« habe.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13102"/>
                <ptr type="pmb" target="#11461"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_3576_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
       </body>
    </text>
 </TEI>

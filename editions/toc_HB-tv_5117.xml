@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">München, 28. September [1924]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">138–140</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Phantasie wird unterschätzt. Für Künstler schreibt man ihr eine
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Phantasie wird unterschätzt. Für Künstler schreibt man ihr eine
                   gewisse Bedeutung zu</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr zeiht die Menschen der Phantasielosigkeit: Niemand könne
+         <note type="summary">Bahr zeiht die Menschen der Phantasielosigkeit: Niemand könne
                   sich vorstellen, sein Gegenüber wäre anders als er selbst.</note>
       </body>
    </text>

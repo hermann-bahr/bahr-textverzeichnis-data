@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2426" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Ideen von 1914. Eine Abwandlung des Themas</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Zur Vertiefung des Sozialismus</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -45,13 +45,13 @@
                <biblScope unit="pages">38–66</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Grazer Volksblatt, 10.12.1916 Hochland 14 (1917) #Januar,
+         <note type="first-printing">Grazer Volksblatt, 10.12.1916 Hochland 14 (1917) #Januar,
                   431–448</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Schwarzgelb, 131–168</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Kriege, dächte man, hätte die Tat das Wort, da wäre keine
+         <note type="other-prints">Schwarzgelb, 131–168</note>
+         <note type="incipit">Im Kriege, dächte man, hätte die Tat das Wort, da wäre keine
                   Zeit zur Betrachtung, und doch haben wir, seit wir uns erinnern, niemals eine so
                   gesteigerte Selbstbestimmung</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1919_plenge.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1919_plenge.pdf</ref>
       </body>
    </text>
 </TEI>

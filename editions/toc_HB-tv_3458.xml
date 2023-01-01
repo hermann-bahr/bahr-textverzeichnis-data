@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Was empört sich?</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Expressionismus</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">28–29</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962, 192</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wie stimmt damit nun aber, daß sich jetzt auf einmal der
+         <note type="other-prints">H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962, 192</note>
+         <note type="incipit">Wie stimmt damit nun aber, daß sich jetzt auf einmal der
                   »Gebildete« doch wieder empört?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wenn es aber Geschmack nicht gibt, »was empört sich« dann gegen
+         <note type="summary">Wenn es aber Geschmack nicht gibt, »was empört sich« dann gegen
                   den Expressionismus? Bahr meint, es handle sich um eine moralische
                   Empörung.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
       </body>
    </text>
 </TEI>

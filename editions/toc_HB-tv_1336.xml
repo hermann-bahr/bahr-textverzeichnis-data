@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Raimund-Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -48,12 +48,12 @@
                <date when="1900-05-01">1.5.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Ma femme manque de Chic« von William Busnach und Henri Debrit
+         <note type="review-of">»Ma femme manque de Chic« von William Busnach und Henri Debrit
                   »Kean« von Alexandre Dumas Père</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 152–154</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novelli hat Sonntag den Kean, gestern den Chaponet, eine
+         <note type="other-prints">Premièren, 152–154</note>
+         <note type="incipit">Novelli hat Sonntag den Kean, gestern den Chaponet, eine
                   Maran-Rolle</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

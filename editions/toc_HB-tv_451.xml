@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Rede"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Für Liliencron. (Gesprochen im Festsaal des
                      Niederösterreichischen Gewerbevereines am 22. März 1898)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">14</biblScope>
@@ -50,12 +50,12 @@
                <date when="1898-03-26">26.3.1898</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wunberg: Das junge Wien, 98.14</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Finden Sie nicht, dass sich das eigentlich gar nicht gehört, was
+         <note type="other-prints">Wunberg: Das junge Wien, 98.14</note>
+         <note type="incipit">Finden Sie nicht, dass sich das eigentlich gar nicht gehört, was
                   ich da jetzt thun soll?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lobt Liliencron als den ersten Dichter, mit dem zwanzig
+         <note type="summary">Bahr lobt Liliencron als den ersten Dichter, mit dem zwanzig
                   Jahre zuvor das Zeitalter der Epigonen beendet wurde.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12071"/>
                <ptr type="pmb" target="#19441"/>
@@ -65,8 +65,8 @@
                <ptr type="HB-tv" target="HB-tv_451_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/182-200.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/182-201.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/182-200.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/182-201.pdf</ref>
       </body>
    </text>
 </TEI>

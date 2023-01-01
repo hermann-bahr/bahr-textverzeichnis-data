@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Garten</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Wirkung in die Ferne. Und Anderes</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">59–66</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #95, 3.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #95, 3.
                   (7.4.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wirkung in die Ferne. Wien: Bauer 1947, 72-76</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Wird Ihnen da aber nicht doch manchmal ein bisschen zeitlang?«
+         <note type="other-prints">Wirkung in die Ferne. Wien: Bauer 1947, 72-76</note>
+         <note type="incipit">»Wird Ihnen da aber nicht doch manchmal ein bisschen zeitlang?«
                   fragte die kleine Dame, indem sie etwas hochmütig über den Garten sah, der noch
                   recht wüst war.</note>
       </body>

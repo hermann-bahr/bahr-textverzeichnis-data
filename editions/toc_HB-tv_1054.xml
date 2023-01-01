@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1054" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Paul de Lagarde. (Geboren am 2. November 1827)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22675, Morgenblatt</biblScope>
@@ -44,12 +44,12 @@
                <date when="1927-11-01">1.11.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Telegramm–Zeitung, 6 (1927) #209, 2.
+         <note type="first-printing">Münchner Telegramm–Zeitung, 6 (1927) #209, 2.
                   (31.10.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 35-38</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den achtziger Jahren blüht das neue Deutsche Reich; und es
+         <note type="other-prints">Labyrinth der Gegenwart, 35-38</note>
+         <note type="incipit">In den achtziger Jahren blüht das neue Deutsche Reich; und es
                   verblüht auch gleich schon langsam.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-11-1_paul-de-lagarde.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-11-1_paul-de-lagarde.pdf</ref>
       </body>
    </text>
 </TEI>

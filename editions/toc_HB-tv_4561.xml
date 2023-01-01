@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -48,10 +48,10 @@
                <date when="1902-06-08">8.6.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Jugend von heute« von Otto Ernst</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Den Hermann in der »Jugend von heute« gab Herr Wanka gestern
+         <note type="review-of">»Jugend von heute« von Otto Ernst</note>
+         <note type="incipit">Den Hermann in der »Jugend von heute« gab Herr Wanka gestern
                   viel besser als neulich den Max Piccolomini.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11260"/>
                <ptr type="pmb" target="#12654"/>

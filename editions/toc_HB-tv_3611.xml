@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Englands grosser Mann</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Hermann-Bahr-Buch. Zum 19. Juli 1913</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">119–122</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Tageblatt, 39 (1910) #541, Abend–Ausgabe, 1.
+         <note type="first-printing">Berliner Tageblatt, 39 (1910) #541, Abend–Ausgabe, 1.
                   (24.10.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Engländer müssen immer ihren großen Mann haben, einen, an
+         <note type="incipit">Die Engländer müssen immer ihren großen Mann haben, einen, an
                   dem die Menge ihr Wesen, und wohin es will, ablesen kann. Der letzte war
                   Chamberlain.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#20530"/>
                <ptr type="pmb" target="#11617"/>

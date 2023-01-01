@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_605" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Herakles. (Von Euripides, übersetzt von Ulrich von
                      Wilamowitz-Moellendorf; Matinée des Akademischen Vereins für Kunst und
                      Literatur im Theater in der Josephstadt am 6. Jänner 1902)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -49,15 +49,15 @@
                <date when="1902-01-07">7.1.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 112–120</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich weiß nicht, ob man je bemerkt hat, wie sehr der Herakles des
+         <note type="other-prints">Rezensionen, 112–120</note>
+         <note type="incipit">Ich weiß nicht, ob man je bemerkt hat, wie sehr der Herakles des
                   Euripides</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_2387_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

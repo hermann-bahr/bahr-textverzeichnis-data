@@ -36,7 +36,7 @@
             type="Pamphlet"
             subtype="Umfrage"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">40 deutsche Gelehrte, Politiker, Schriftsteller und Künstler
                      urteilen über die Buchorganisation »Deutsche Volkheit«</title>
@@ -47,22 +47,22 @@
             </imprint>
             <extent>17 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Geheftete Beilage zu: »Das deutsche Gesicht. Ein Weg zur Zukunft.«, im Umschlag
                      ergänzt um: »Zum XXX. Jahr des Verlages Eugen Diederichs in Jena«. Jena:
                      Diederichs 1926. Bahr wird falsch als »Schriftsteller in Salzburg«
                      bezeichnet.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Tapferkeit, Entschlossenheit und Unverdrossenheit, mit der
+         <note type="incipit">Die Tapferkeit, Entschlossenheit und Unverdrossenheit, mit der
                   Sie nicht ablassen, die deutsche Nation</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lobt Diederichs, dem »Amerikanismus« - der »geistigen
+         <note type="summary">Bahr lobt Diederichs, dem »Amerikanismus« - der »geistigen
                   Verpöbelung« - den Sinn des Deutschtums entgegen zu setzen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11161"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1926_diederichs.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1926_diederichs.pdf</ref>
       </body>
    </text>
 </TEI>

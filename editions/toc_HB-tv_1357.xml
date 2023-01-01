@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb32578"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb32578">Secession</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>VIII, 266 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Einbandzeichnung von Josef Olbrich. Die handschriftliche Widmung im Exemplar
                      von Hugo von Hofmannsthal ist mit 28. Mai 1900 datiert. Die Österreichische
                      Volkszeitung, 46 (1900) #159, 4 meldet am 12. Juni 1900, dass das Buch in 2.
@@ -59,16 +59,16 @@
                      in: Neue deutsche Rundschau, 11 (1899) #10, 1119. Richard Muther in: Die Zeit,
                      26 (1901) #330, 61-62.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritische Schriften, VI. Weimar: VDG 2007</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="other-prints">Kritische Schriften, VI. Weimar: VDG 2007</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#13115"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=55</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://archive.org/search.php?query=hermann%20bahr%20secession</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=55</ref>
+         <ref type="URL">http://archive.org/search.php?query=hermann%20bahr%20secession</ref>
       </body>
    </text>
 </TEI>

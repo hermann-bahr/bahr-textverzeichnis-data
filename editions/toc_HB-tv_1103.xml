@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1103" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">G. Macasy</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neue Revue. Wiener Literatur-Zeitung</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -45,10 +45,10 @@
                <date when="1894-02-14">14.2.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Studien zur Kritik der Moderne, 129–139</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mir ist eine wunderliche Sache passirt – wunderlich, das genügt
+         <note type="other-prints">Studien zur Kritik der Moderne, 129–139</note>
+         <note type="incipit">Mir ist eine wunderliche Sache passirt – wunderlich, das genügt
                   kaum;</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-revue/1894_macasy.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-revue/1894_macasy.pdf</ref>
       </body>
    </text>
 </TEI>

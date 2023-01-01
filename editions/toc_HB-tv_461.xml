@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_461" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">15</biblScope>
@@ -45,13 +45,13 @@
                <date when="1898-06-18">18.6.1898</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Paul Schlenther« in: Wiener Theater, 195-201</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In diesen Tagen soll sich entscheiden, ob Herr Schlenther gehen
+         <note type="other-prints">Als »Paul Schlenther« in: Wiener Theater, 195-201</note>
+         <note type="incipit">In diesen Tagen soll sich entscheiden, ob Herr Schlenther gehen
                   muss oder am Burgtheater bleiben darf.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr fasst die ersten fünf Monate der Direktion Paul Schlenther
+         <note type="summary">Bahr fasst die ersten fünf Monate der Direktion Paul Schlenther
                   zusammen und sieht nur Misserfolge, bis auf jene Bereiche, in denen Schlenther das
                   Erbe Burckhards weiter führte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12671"/>
                <ptr type="pmb" target="#11036"/>
@@ -77,8 +77,8 @@
                <ptr type="HB-tv" target="HB-tv_4466_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/194-187.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/194-188.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/194-187.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-15/194-188.pdf</ref>
       </body>
    </text>
 </TEI>

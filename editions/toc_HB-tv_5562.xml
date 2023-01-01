@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">4. August [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">196–197</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Aus dem Augustheft von » Thee London Mercury« (Editor J. C.
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Aus dem Augustheft von » Thee London Mercury« (Editor J. C.
                   Squire) ersehe ich, daß London zurzeit über ein Bauprojekt in einem Aufruhr ist,
                   den Kunstfragen dort selten erregen. Es handelt sich um einen von Sir Frank Baines
                   am Hyde park Corner geplanten »Turm« zur Erinnerung an die Toten des Krieges. Der
@@ -65,7 +65,7 @@
                   Sachunverständigen entschieden wurden, daß jetzt auch dort schon dazu das Urteil
                   aller Ahnungslosen eingeholt wird, ist doch eine bedenkliche Näherung an
                   Mitteleuropa. Sie sollten sich nicht zu sehr entinseln! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Dass in London über ein zeitgenössisches Bauprojekt gestritten
+         <note type="summary">Dass in London über ein zeitgenössisches Bauprojekt gestritten
                   wird, begrüßt Bahr, der es abzulehnen scheint. Dass aber nicht nur Menschen mit
                   Sachverstand gefragt werden, findet er falsch.</note>
       </body>

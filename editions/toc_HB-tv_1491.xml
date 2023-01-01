@@ -35,11 +35,11 @@
             type="Book_Section"
             status="checked"
             sameAs="pmb31451">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a" ref="pmb31451">Vorwort</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" sameAs="pmb30833" ref="pmb31451">Das Jesusproblem</title>
             <imprint>
                <pubPlace>Wien, Berlin, Leipzig, München</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">5–14</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Das Vorwort ist datiert mit 1. August 1921</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Der historische Jesus Christus«, Salzburg: Pallas
+         <note type="other-prints">Als »Der historische Jesus Christus«, Salzburg: Pallas
                   1947</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Lieber Egon Friedell! Das sieht Ihnen ähnlich, das ist echtester
+         <note type="incipit">Lieber Egon Friedell! Das sieht Ihnen ähnlich, das ist echtester
                   Friedell!</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2771"/>
                <ptr type="pmb" target="#2381"/>
@@ -77,7 +77,7 @@
                <ptr type="HB-tv" target="HB-tv_1491_p11"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_friedell_jesusproblem.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1921_friedell_jesusproblem.pdf</ref>
       </body>
    </text>
 </TEI>

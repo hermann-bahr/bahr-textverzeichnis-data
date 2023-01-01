@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Reisebilder. Biarritz</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">280–286</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsches Volksblatt, Wien, 1 (1889) #297,
+         <note type="first-printing">Deutsches Volksblatt, Wien, 1 (1889) #297,
                   Morgen–Ausgabe, 1–2. (31.10.1889)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bayonne ist schon halb spanisch. Das macht die Heimat der
+         <note type="incipit">Bayonne ist schon halb spanisch. Das macht die Heimat der
                   Bajonette laut, freudig und farbig, in wunderlichem Gegensatze zu der kalten,
                   finsteren, schwarzen Festung, zwischen deren jähe, schroffe Wände ihr
                   fröhliches Gedränge eingezwängt ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12913"/>
                <ptr type="pmb" target="#5359"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_3606_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

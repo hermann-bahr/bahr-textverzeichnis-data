@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">47</biblScope>
@@ -48,11 +48,11 @@
                <date when="1901-03-05">5.3.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Endlich allein« von Friedrich Gustav Triesch »Hannele« von
+         <note type="review-of">»Endlich allein« von Friedrich Gustav Triesch »Hannele« von
                   Gerhart Hauptmann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Endlich allein«, ein Schwank von Friedrich Gustav Triesch, den
+         <note type="incipit">»Endlich allein«, ein Schwank von Friedrich Gustav Triesch, den
                   man schon vor einigen Jahren in einer Matinée gesehen hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12974"/>
                <ptr type="pmb" target="#11860"/>

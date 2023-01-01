@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_390" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Die Athenerin«. (Drama in drei Aufzügen von Leo Ebermann. Zum
                      ersten Mal aufgeführt im Burgtheater am 19. September 1896)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">8</biblScope>
@@ -47,10 +47,10 @@
                <date when="1896-09-26">26.9.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wiener Theater, 99–105</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nun ist eine Zeit gekommen, da wenden sich die Menschen wieder
+         <note type="other-prints">Wiener Theater, 99–105</note>
+         <note type="incipit">Nun ist eine Zeit gekommen, da wenden sich die Menschen wieder
                   vom Heutigen ab, das Land der Griechen mit der Seele suchend.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2157"/>
                <ptr type="pmb" target="#11610"/>
@@ -70,8 +70,8 @@
                <ptr type="HB-tv" target="HB-tv_390_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/104-202</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/104-203.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/104-202</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/104-203.pdf</ref>
       </body>
    </text>
 </TEI>

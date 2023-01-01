@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Glaube an das Leben</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bildung</title>
             <imprint>
                <pubPlace>Berlin und Leipzig</pubPlace>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">69–80</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 33 (1899) #289, 1–5.
+         <note type="first-printing">Neues Wiener Tagblatt, 33 (1899) #289, 1–5.
                   (20.10.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Merkwürdig, wie sich der Mensch, ohne selbst eigentlich anders
+         <note type="incipit">Merkwürdig, wie sich der Mensch, ohne selbst eigentlich anders
                   zu werden, doch im Urtheile der Leute unablässig zu verändern scheint! Alle zehn
                   Jahre etwa nimmt er, indem er in andere Beziehungen zur Welt, in andere
                   Verhältnisse kommt, sozusagen eine andere Gestalt an, oder doch eine neue
                   Beleuchtung, die ihn anders erscheinen lässt, immer wieder anders.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Zola hätte sich in seinem Leben und Schreiben immer wieder stark
+         <note type="summary">Zola hätte sich in seinem Leben und Schreiben immer wieder stark
                   verändert, doch - wie Bahr unter Heranziehung des »Journal« der Brüder Goncourt
                   plausibel zu machen versucht - lässt ein kurzer Aufenthalt in Lourdes in ihm den
                   Moralisten über den Artisten siegen, und wieder zu Plänen zurückfinden, die er
                   bereits als junger Mann gehegt hatte.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13194"/>
                <ptr type="pmb" target="#3892"/>
@@ -80,7 +80,7 @@
                <ptr type="HB-tv" target="HB-tv_2938_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/7-bildung.pdf</ref>
       </body>
    </text>
 </TEI>

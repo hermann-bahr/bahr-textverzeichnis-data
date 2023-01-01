@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_4488" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#10928">Bierbaum, Otto Julius</author>
             <author ref="#11265">Ernst, Paul</author>
@@ -43,7 +43,7 @@
             <author ref="#12664">Schlaf, Johannes</author>
             <title level="a">Erklärung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Magazin für die Litteratur des In- und Auslandes</title>
             <imprint>
                <biblScope unit="jg">59</biblScope>
@@ -52,19 +52,19 @@
                <date when="1890-08-02">2.8.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die »Erklärung« des Austritts aus der »Freien Bühne« wird von der Redaktion zur
                      Gänze wiedergegeben und positiv beurteilt, weil sie, wie unverblümt kundgetan
                      wird, Brahm nicht schätzt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Theater, Kunst, Wissenschaft. Erklärung.« in:
+         <note type="first-printing">Als »Theater, Kunst, Wissenschaft. Erklärung.« in:
                   Berliner Tageblatt, 19 (1890) #372, Morgen–Ausgabe, 2. (26.7.1890) Vossische
                   Zeitung, (1890) #343, Morgenausgabe, 4. (26.7.1890) Als »Erklärung« in: Der
                   Kunstwart, 3 (1890) #21, 336. (1.8.1890) Als »Zur realistischen Bewegung« in: Die
                   Gesellschaft, 6 (1890) #9 (September), 1367–1368, hier 1367.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Unterzeichneten erklären, dass sie jede Verbindung mit der
+         <note type="incipit">Die Unterzeichneten erklären, dass sie jede Verbindung mit der
                   von Herrn Dr. Otto Brahm</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/magazin-fuer-litteratur/1890_erklaerung.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/magazin-fuer-litteratur/1890_erklaerung.pdf</ref>
       </body>
    </text>
 </TEI>

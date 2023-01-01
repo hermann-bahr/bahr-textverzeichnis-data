@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_237" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Berlin. I</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -45,12 +45,12 @@
                <date when="1893-02-24">24.2.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Gaea« von Adalbert von Goldschmidt, vorgetragen von Emanuel
+         <note type="review-of">»Gaea« von Adalbert von Goldschmidt, vorgetragen von Emanuel
                   Reicher</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin letzten Samstag nach Berlin, um Emanuel Reicher die
+         <note type="incipit">Ich bin letzten Samstag nach Berlin, um Emanuel Reicher die
                   »Gaea« des Adalbert v. Goldschmidt vortragen zu hören.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76011.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76012.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76011.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/76012.pdf</ref>
       </body>
    </text>
 </TEI>

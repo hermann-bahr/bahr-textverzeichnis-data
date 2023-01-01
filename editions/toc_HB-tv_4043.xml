@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Glosse"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H–R</author>
             <title level="a">Eine Wette</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Gleichheit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,7 +48,7 @@
                <date when="1887-02-19">19.2.1887</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr von Plener sagt: »Der reine volle Ertrag, den gewisse
+         <note type="incipit">Herr von Plener sagt: »Der reine volle Ertrag, den gewisse
                   Sozialdemokraten dem Arbeiter geben wollen</note>
       </body>
    </text>

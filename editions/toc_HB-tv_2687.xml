@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Théâtre libre</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,17 +49,17 @@
                <biblScope unit="pages">199–211</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Die Pariser Freie Bühne« in: Freie Bühne für
+         <note type="first-printing">Als »Die Pariser Freie Bühne« in: Freie Bühne für
                   modernes Leben, 1 (1890) #18, 495–497 und #19, 513–516</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Ausschnitt als »Antoine« in: Das Hermann-Bahr-Buch, 181–183
+         <note type="other-prints">Ausschnitt als »Antoine« in: Das Hermann-Bahr-Buch, 181–183
                   Als »Théâtre libre« in: H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962,
                   162–170</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als der Karneval 1887 dem Frühling wich, in jenen nebelgrauen
+         <note type="incipit">Als der Karneval 1887 dem Frühling wich, in jenen nebelgrauen
                   Tagen des ersten Februar hatte die »Compagnie du gaz« einen jungen Mann zum
                   Beamten, der gerne an den Federn kaute und bedeutend vor sich hin starrte, mit
                   ausschweifenden, unsachlichen Blicken in romantische Azure hinaus.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2211"/>
                <ptr type="pmb" target="#2412"/>
@@ -106,7 +106,7 @@
                <ptr type="HB-tv" target="HB-tv_688_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

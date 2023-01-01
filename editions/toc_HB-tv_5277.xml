@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. Juni [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">206–209</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Friedrich Nowak: Der Weg zur Katastrophe. Berlin: E. Reiß
+         <note type="review-of">Karl Friedrich Nowak: Der Weg zur Katastrophe. Berlin: E. Reiß
                   1919.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein französischer General, der eine Schlacht verliert</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Hagiographie Conrad von Hötzendorfs findet Bahr falsch,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ein französischer General, der eine Schlacht verliert</note>
+         <note type="summary">Die Hagiographie Conrad von Hötzendorfs findet Bahr falsch,
                   dieser war zu schwach, um den großen Aufgaben, die ihm gestellt wurden, gerecht
                   werden zu können.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2790"/>
                <ptr type="pmb" target="#12896"/>

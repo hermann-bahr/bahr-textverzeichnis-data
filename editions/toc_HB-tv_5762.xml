@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">15. März [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">II, 79</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hauskrieg in Salzburg.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Wasserpreis in Salzburg sorgt für Unfrieden unter
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Hauskrieg in Salzburg.</note>
+         <note type="summary">Der Wasserpreis in Salzburg sorgt für Unfrieden unter
                   Nachbarn.</note>
       </body>
    </text>

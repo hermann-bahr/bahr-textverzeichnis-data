@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Übersetzung_Norwegisch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ernest Hello</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Samtiden</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -47,13 +47,13 @@
                <date when="1895">1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Fußnote zum Titel weist es als Abdruck aus der »Zeit« vom 29. Juni aus.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Tchechisch in: Literární listy, 19 (1898) #8, 127–128.
+         <note type="first-printing">Tchechisch in: Literární listy, 19 (1898) #8, 127–128.
                   (16.2.1898)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">De unge franskmænd, generationen af 1870</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/samtiden/1895_hello.pdf</ref>
+         <note type="incipit">De unge franskmænd, generationen af 1870</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/samtiden/1895_hello.pdf</ref>
       </body>
    </text>
 </TEI>

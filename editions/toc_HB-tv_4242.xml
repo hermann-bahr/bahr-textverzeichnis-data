@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das Dogma und sein Kulturwert</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
             <imprint>
@@ -49,14 +49,14 @@
                <date when="1921-04-17">17.4.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »In seinem Tagebuch im ’N.W.J.’ vom 27. März 1921
                      schreibt Hermann Bahr:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 27.3.1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jahre vergingen noch, bis ich den Reiz der griechischen Sprache
+         <note type="first-printing">Neues Wiener Journal, 27.3.1921</note>
+         <note type="incipit">Jahre vergingen noch, bis ich den Reiz der griechischen Sprache
                   verstehen lernte:</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_dogma.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-reich/1921_dogma.pdf</ref>
       </body>
    </text>
 </TEI>

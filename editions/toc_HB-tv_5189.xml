@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">21. April [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">140</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>In der Buchausgabe wurde zwischen 21. und 30. April eine neue Chronologie
                      eingeführt, indem Einträge aus dem »Neuen Wiener Journal« umdatiert wurden. In
                      diesem Fall ist jedoch ein Fehler entstanden, da zweimal der 21. April vergeben
                      wurde, der zweite aber in der Chronologie des 25. Aprils steht.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal (als 25. April)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Gott sei Dank, der Hofrat bleibt uns also doch!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr, gehässig darüber, wie es geht, dass der Hofrat überlebt,
+         <note type="first-printing">Neues Wiener Journal (als 25. April)</note>
+         <note type="incipit">Gott sei Dank, der Hofrat bleibt uns also doch!</note>
+         <note type="summary">Bahr, gehässig darüber, wie es geht, dass der Hofrat überlebt,
                   wo doch der Hof nicht mehr besteht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12654"/>
                <ptr type="HB-tv" target="HB-tv_5189_p1"/>

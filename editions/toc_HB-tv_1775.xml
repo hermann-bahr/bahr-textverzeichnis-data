@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch_Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Vom neuen Drama</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Flöte. Monatsschrift für neue Dichtung</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,15 +48,15 @@
                <date when="1919">1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Fußnote zum Titel: »Unter diesem Titel bringen wir – als Probe – den Eintrag
                      vom 6. November aus H. Bahrs neuem Tagebuch ’1918’. Vergl. die Besprechung im
                      selben Heft.« Die angesprochene Rezension stammt von Julius Kühn und findet
                      sich auf den Seiten 61-62.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch 1918</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der junge Dichter Walter Eidlitz bei mir, förmlich überfließend
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="other-prints">Tagebuch 1918</note>
+         <note type="incipit">Der junge Dichter Walter Eidlitz bei mir, förmlich überfließend
                   von Jugend</note>
       </body>
    </text>

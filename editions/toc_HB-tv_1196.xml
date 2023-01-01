@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Prinz. Ein Sittenbild</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Zuschauer. Monatsschrift für Kunst, Litteratur und
                      Kritik</title>
             <imprint>
@@ -49,14 +49,14 @@
                <date when="1894-04-15">15.4.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Tschechisch als »Princ« in: Divadelní listy, 2 (1900) #1,
+         <note type="first-printing">Tschechisch als »Princ« in: Divadelní listy, 2 (1900) #1,
                   7–10 und #2, 30. (5. und 20.12.1900) Neue Freie Volksbühne. Vereinsblatt für die
                   Mitglieder, 21 (1910) #5, 150–154. (1.5.1910)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Caph, 160–171. Leander. Hg. Konrad Paul. Berlin: Aufbau
+         <note type="other-prints">Caph, 160–171. Leander. Hg. Konrad Paul. Berlin: Aufbau
                   1986.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Marino, der schöne Liebling, der gepriesene Tenor, ist sehr
+         <note type="incipit">Marino, der schöne Liebling, der gepriesene Tenor, ist sehr
                   verdrießlich.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/zuschauer/1894_prinz.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/zuschauer/1894_prinz.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb88023">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb88023">Décadence</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,12 +48,12 @@
                <date when="1894-11-10">10.11.1894</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 1–11 Wunberg: Das junge Wien, 94.17</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Pariser schwärmt für Conferencen. Diese zierliche, kokette
+         <note type="other-prints">Renaissance, 1–11 Wunberg: Das junge Wien, 94.17</note>
+         <note type="incipit">Der Pariser schwärmt für Conferencen. Diese zierliche, kokette
                   und unversehens doch</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/6-87.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/6-88.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/6-89.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/6-87.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/6-88.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/6-89.pdf</ref>
       </body>
    </text>
 </TEI>

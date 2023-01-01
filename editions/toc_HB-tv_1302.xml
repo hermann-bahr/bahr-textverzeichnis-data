@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1302" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Verhältnis zu Schopenhauer</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Jahrbuch der Schopenhauer-Gesellschaft</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -44,11 +44,11 @@
                <date when="1915">1915</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als wir zu Pfingsten in München versammelt waren, kam jemand auf
+         <note type="incipit">Als wir zu Pfingsten in München versammelt waren, kam jemand auf
                   mich zu, drückte mir die Hand und sagte angenehm überrascht: »Auch Sie schwören
                   auf Schopenhauer? Das ist schön!« Ich konnte ihm nicht die Freude machen, es zu
                   bejahen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1914_schopenhauer.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1914_schopenhauer.pdf</ref>
       </body>
    </text>
 </TEI>

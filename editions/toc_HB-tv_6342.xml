@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 29. November</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -48,14 +48,14 @@
                <date when="1922-12-24">24.12.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans Feist, Leonello Vincenti, Hgg.: Frühe italienische
+         <note type="review-of">Hans Feist, Leonello Vincenti, Hgg.: Frühe italienische
                   Dichtung. Übertragen und mit dem Urtext versehen. München: Hyperion 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, II, 277-284</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Frühe italienische Dichtung«, übertragen und mit dem Urtext
+         <note type="other-prints">Liebe der Lebenden, II, 277-284</note>
+         <note type="incipit">»Frühe italienische Dichtung«, übertragen und mit dem Urtext
                   herausgegeben von Hans Feist</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr nimmt die Gelegenheit des Buchs »Frühe italienische
+         <note type="summary">Bahr nimmt die Gelegenheit des Buchs »Frühe italienische
                   Dichtung«, um über die Renaissance und Italien zu sprechen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

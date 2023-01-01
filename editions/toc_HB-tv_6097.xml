@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 1. Dezember</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-12-25">25.12.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 289-291</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Grillparzer als Prophet: Sie regen sich, doch immerdar im Kreis.
+         <note type="other-prints">Kritik der Gegenwart, 289-291</note>
+         <note type="incipit">Grillparzer als Prophet: Sie regen sich, doch immerdar im Kreis.
                   Die Zeit hat keine Männer, Freund wie Feind. --------------------- Der Reichsfürst
                   will sich lösen von dem Reich, Dann kommt der Adel und bekämpft die Fürsten; Den
                   gibt die Not, die Tochter der Verschwendung, Drauf in des Bürgers Hand, des
@@ -97,10 +97,10 @@
                   an sich selbst, Und einmal Ehrfurcht in sich selbst gespalten, Lebt sie als
                   Ehrsucht nur noch und als Furcht. Maßt euch nicht an, zu deuteln Gottes Wahrheit.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Zitat Grillparzers lässt sich wohl im letzten Vers als
+         <note type="summary">Ein Zitat Grillparzers lässt sich wohl im letzten Vers als
                   Zusammenfassung von Bahrs Intention verstehen: »Maßt euch nicht an, zu deuteln
                   Gottes Wahrheit.«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

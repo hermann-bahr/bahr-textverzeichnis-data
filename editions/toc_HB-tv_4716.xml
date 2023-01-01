@@ -36,11 +36,11 @@
             type="Journal-Article"
             subtype="Nachdruck_gekürzt"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Timandra. Trauerspiel in fünf Aufzügen von Adolf Wilbrandt. Zum
                      erstenmal aufgeführt im Burgtheater am 6. Mai 1904</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
             <imprint>
                <biblScope unit="jg">50</biblScope>
@@ -49,14 +49,14 @@
                <date when="1904-05-07">7.5.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Gekürzter Nachdruck ohne Verfasserangabe aus der Hauptausgabe der
                      Österreichischen Volks-Zeitung.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig in: Österreichische Volks–Zeitung, 50 (1904)
+         <note type="first-printing">Vollständig in: Österreichische Volks–Zeitung, 50 (1904)
                   #127, 2. (7.5.1904)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Glossen, 44-47</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Plutarch erzählt im neununddreißigsten Kapitel seines
+         <note type="other-prints">Glossen, 44-47</note>
+         <note type="incipit">Plutarch erzählt im neununddreißigsten Kapitel seines
                   Alkibiades</note>
       </body>
    </text>

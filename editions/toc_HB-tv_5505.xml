@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">30. Januar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">45–46</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im »Neuen Buch«, einer Berliner »Zeitschrift für Bücherfreunde«,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Im »Neuen Buch«, einer Berliner »Zeitschrift für Bücherfreunde«,
                   bläst Sophie Hoechstetter Alarm für Dornburg, Goethes Dornburg, das von der
                   Sozialisierung bedroht wird: »Mietlustige ziehen über den Berg und betrachten auf
                   ihre Nützlichkeit die alten Zimmer Goethes, Leute, die sich bisher in Wohnküchen
@@ -81,7 +81,7 @@
                   hat mirs dann einmal lachend vorgespielt). Da kann einem Goethe wirklich für
                   Lebenszeit vergehen! Aber daß jetzt auch das deutsche Volk mit ihm ebenso wenig
                   anzufangen weiß wie jener arme Großherzog, ist nicht schön. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beklagt die Bewohnung der Goethe-Pilgerstätte
+         <note type="summary">Bahr beklagt die Bewohnung der Goethe-Pilgerstätte
                   Dornburg.</note>
       </body>
    </text>

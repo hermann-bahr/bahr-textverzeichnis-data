@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_77" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Klemens Brentano</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Katholische Kirchenzeitung, Salzburg</title>
             <imprint>
                <biblScope unit="jg">57</biblScope>
@@ -45,11 +45,11 @@
                <date when="1917-04-26">26.4.1917</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Brentano zwischen Tradition und Ursprung: Bahr verweist auf die Gesamtausgabe
                      bei Georg Müller.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das zwanzigste Heft der so dankenswerten Gladbacher Sammlung von
+         <note type="incipit">Das zwanzigste Heft der so dankenswerten Gladbacher Sammlung von
                   Zeit- und Lebensbildern bringt eine Darstellung Brentanos von Dr. Willhelm
                   Schallberg, der ebenda schon Görres geschildert hat.</note>
       </body>

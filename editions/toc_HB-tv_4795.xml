@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -48,10 +48,10 @@
                <date when="1905-03-10">10.3.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Henry IV. (Heinrich IV)« von William Shakespeare</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Stürmisch begrüßt und in jeder Szene von nur immer noch
+         <note type="review-of">»Henry IV. (Heinrich IV)« von William Shakespeare</note>
+         <note type="incipit">Stürmisch begrüßt und in jeder Szene von nur immer noch
                   herzlicherer Begeisterung umrauscht, gab Baumeister aus langer Krankheit</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#28476"/>
                <ptr type="pmb" target="#2412"/>

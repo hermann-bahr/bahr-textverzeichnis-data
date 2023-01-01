@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1139" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Mozartstadt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Musica Divina</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,7 +45,7 @@
                <date when="1914">1914</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Herausgeber haben die Bemerkung Bahrs, das heutige Verständnis Mozarts
                      »verdanken wir Mahler und Mottl« mit dieser Fußnote kommentiert: »Die
                      persönliche Meinung des hochgeschätzten Verfassers betreffs Mahlers und Mottls
@@ -54,13 +54,13 @@
                      tief innerlichen Überzeugung ein neues Stück Bahrschrer Eigenart, das genau
                      besehen werden will. – Die Red.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Salzburg ist stolz darauf, die Mozartstadt zu heißen. Mit
+         <note type="incipit">Salzburg ist stolz darauf, die Mozartstadt zu heißen. Mit
                   welchem Recht aber eigentlich?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beginnt mit der These, dass Salzburg auch ohne Mozart wie
+         <note type="summary">Bahr beginnt mit der These, dass Salzburg auch ohne Mozart wie
                   Mozart klingen würde, dass er viel von der Stadt aufgenommen habe, um dann auf das
                   Mozarteum einzugehen, das endlich eine echte Mozart-Forschung in Angriff nehmen
                   solle.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12303"/>
                <ptr type="pmb" target="#19317"/>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_955" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Feuchtersleben</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Preußische Jahrbücher</title>
             <imprint>
                <biblScope unit="jg">187</biblScope>
@@ -45,17 +45,17 @@
                <date when="1922">1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Bibliothek der Princeton-University bewahrt in der Collection »German
                      Authors (C0095)«, Schachtel I/F.2 das handschriftliche Manuskript auf, datiert:
                      Salzburg Dezember 1921.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Sendung des Künstlers, 100–121 H. B.: Österreichischer
+         <note type="other-prints">Sendung des Künstlers, 100–121 H. B.: Österreichischer
                   Genius. Wien: Bellaria 1947, 71-94 H. B.: Essays. Hg. Heinz Kindermann. Wien:
                   Bauer 1962, 71-87</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nennt man Feuchtersleben, antwortet der Gebildete prompt:
+         <note type="incipit">Nennt man Feuchtersleben, antwortet der Gebildete prompt:
                   Diätetik der Seele.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1921_187_feuchtersleben.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1921_187_feuchtersleben.pdf</ref>
       </body>
    </text>
 </TEI>

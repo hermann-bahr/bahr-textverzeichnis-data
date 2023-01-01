@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1645" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Das österreichische Staats- und Reichsproblem. I</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Preußische Jahrbücher</title>
             <imprint>
                <biblScope unit="jg">183</biblScope>
@@ -45,12 +45,12 @@
                <date when="1921">1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Das Österreichische Problem. 1« in: Summula,
+         <note type="other-prints">Als »Das Österreichische Problem. 1« in: Summula,
                   185-202</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unsere Patrioten hatten immer eine seltsame Scheu, das Vaterland
+         <note type="incipit">Unsere Patrioten hatten immer eine seltsame Scheu, das Vaterland
                   bei seinem Namen zu nennen, sie sprachen nie von Österreich, sie sagten
                   dafür</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1921_183_staats-und-reichsproblem-i.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/preussische-jahrbuecher/1921_183_staats-und-reichsproblem-i.pdf</ref>
       </body>
    </text>
 </TEI>

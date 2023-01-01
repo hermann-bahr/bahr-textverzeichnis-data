@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das Buch der Frauen. Das »Journal des Goncourt«</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">134–140</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 3 (1895) #34, 123–124. (25.5.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man war gern bei Daudet zur Bouillabaisse, der berühmten
+         <note type="first-printing">Die Zeit, 3 (1895) #34, 123–124. (25.5.1895)</note>
+         <note type="incipit">Man war gern bei Daudet zur Bouillabaisse, der berühmten
                   Fischsuppe der Provençalen, die das Blut treibt und die Sinne weckt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nicht zum letzten Mal beschreibt Bahr das Journal der Brüder
+         <note type="summary">Nicht zum letzten Mal beschreibt Bahr das Journal der Brüder
                   Goncourt als Ort, in dem die Literatur sich daran versucht, neue Eindrücke zu
                   beschreiben und damit erst ins Leben zu rufen. In der konkreten Rezension des
                   achten Bandes (1889–1891) aber interessiert Bahr aber vor allem, welche
                   Berühmtheiten auftreten und wie sie beschrieben werden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11500"/>
                <ptr type="pmb" target="#2925"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_2835_p13"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

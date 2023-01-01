@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3764" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der Geist der Barocke</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Österreichischer Almanach auf das Jahr 1916</title>
             <editor>Hofmannsthal, Hugo von</editor>
             <imprint>
@@ -46,11 +46,11 @@
                <biblScope unit="pages">127–134</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Stark gekürzt aus dem vierten Kapitel von Bahrs »Wien«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wien</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der Leopoldstadt steht eine kleine Kirche, kahl, streng, fast
+         <note type="other-prints">Wien</note>
+         <note type="incipit">In der Leopoldstadt steht eine kleine Kirche, kahl, streng, fast
                   böse</note>
       </body>
    </text>

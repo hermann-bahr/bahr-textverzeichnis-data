@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 24. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,17 +48,17 @@
                <date when="1921-08-14">14.8.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Norbert von Hellingrath: Hölderlin. Zwei Vorträge. München:
+         <note type="review-of">Norbert von Hellingrath: Hölderlin. Zwei Vorträge. München:
                   Bruckmann 1921. Friedrich Hölderlin: Die Briefe der Diotima. Hg. Frieda Arnold und
                   Karl Victor. Leipzig: Insel 1921. Ernst Cassirer: Hölderlin und der deutsche
                   Idealismus. In: E. C.: Idee und Gestalt. Berlin: Bruno Cassirer 1921,
                   113–155.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 241-246</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eines ganz großen Dichters, vielleicht des größten deutschen
+         <note type="other-prints">Liebe der Lebenden, I, 241-246</note>
+         <note type="incipit">Eines ganz großen Dichters, vielleicht des größten deutschen
                   Dichters</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Erst in den letzten Jahren ist Hölderlin als der möglicherweise
+         <note type="summary">Erst in den letzten Jahren ist Hölderlin als der möglicherweise
                   größte deutschsprachige Dichter erkannt worden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Huldigung der Welt für Gerhart Hauptmann. Schriftsteller des
                      Auslandes grüßen den deutschen Dichter</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Neue Badische Landes-Zeitung, Mannheim</title>
             <imprint>
                <biblScope unit="jg">77</biblScope>
@@ -50,17 +50,17 @@
                <date when="1932-11-13">13.11.1932</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zu Gerhart Hauptmanns 70. Geburtstag am 15. November 1932. Neben Bahr, der
                      Österreich vertritt, antworten Knut Hamsun, Selma Lagerlöf, Maxim Gorki, Peter
                      Nansen und Henri Guilbeaux.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Österreich hat es Hauptmann anfangs noch schwerer
+         <note type="incipit">In Österreich hat es Hauptmann anfangs noch schwerer
                   gehabt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs frühe Abneigung gegen Hauptmann wird hier als
+         <note type="summary">Bahrs frühe Abneigung gegen Hauptmann wird hier als
                   österreichische gerechtfertigt. Dass Hauptmann heutzutage die deutsche Einheit
                   repräsentiere, liege darin, dass er Schlesier sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11617"/>
                <ptr type="pmb" target="#11740"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_4485_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-badische-landeszeitung/1932-hauptmann.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-badische-landeszeitung/1932-hauptmann.pdf</ref>
       </body>
    </text>
 </TEI>

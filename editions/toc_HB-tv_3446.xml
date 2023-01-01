@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das unrettbare Ich</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30035">Inventur</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">36–50</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #99, 1–4.
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #99, 1–4.
                   (10.4.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Dialog vom Tragischen, 79–101. Das Hermann-Bahr-Buch,
+         <note type="other-prints">Dialog vom Tragischen, 79–101. Das Hermann-Bahr-Buch,
                   87–100.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich noch ein kleiner Bub war, ging mein Vater, in der Früh,
+         <note type="incipit">Als ich noch ein kleiner Bub war, ging mein Vater, in der Früh,
                   bevor er in die Kanzlei mußte...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Jugenderlebnisse, die Lektüre Kants und an Nietzsche gemahnende
+         <note type="summary">Jugenderlebnisse, die Lektüre Kants und an Nietzsche gemahnende
                   Selbstexperimente führen Bahr direkt zu Mach und dessen Befund, dass das »Ich
                   unrettbar« sei.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#2132"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_3606_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Internationale Enquete des Eherechtsreformvereines in Wien über
                      Eherechtsreform und Ehemoral</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Fessel. Zentral-Organ für Eherechtsreform</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -50,7 +50,7 @@
                <date when="1908">1908</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Andere Beiträger: August Bebel, Marcel Bernès, Émile Boutroux, Max Burckhard,
                      Hector Denis, Émile Durkheim, Christian Freiherr von Ehrenfels, Havelock Ellis,
                      Otto Ernst, Alfred Espinas, August Forel, Alfred Fouillée, Eberhard Gothein,
@@ -58,7 +58,7 @@
                      Tomáš Garrigue Masaryk, Julius Ofner, Otto Pfleiderer, George Bernard Shaw,
                      Ludwig Stein, Ferdinand Tönnies, Ludwig Wahrmund.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sehr geehrter Herr! Solange die Ehe ihr heutiges Wesen eines
+         <note type="incipit">Sehr geehrter Herr! Solange die Ehe ihr heutiges Wesen eines
                   bloß wirtschaftlichen Vereins hat, kann ich ihr einen »sozial-ethischen Charakter«
                   nicht zuschreiben. Vielmehr scheint mir diese jetzige Form der Ehe selbst gerade
                   die schwerste »sittliche und soziale« Gefahr. Hermann Bahr. |</note>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das freie Volk. Demokratisches Wochenblatt</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,14 +48,14 @@
                <date when="1911-04-22">22.4.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Fußnote: »Aus Hermann Bahr ’Theater’ (Berlin S. Fischer). Vergl.
                      die Besprechung unter ’Neue Bücher’ in der vorliegenden Nummer des ’Freien
                      Volks’.« Die Besprechung und der Auszug sind durch die Neuausgabe in Fischers
                      »Bibliothek zeitgenössischer Romane« motiviert.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B: Theater. Berlin: S. Fischer 1897.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Diese Welt ist seltsam, so bunt</note>
+         <note type="other-prints">H. B: Theater. Berlin: S. Fischer 1897.</note>
+         <note type="incipit">Diese Welt ist seltsam, so bunt</note>
       </body>
    </text>
 </TEI>

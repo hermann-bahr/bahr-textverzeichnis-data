@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1310" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein Vorschlag</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Telegramm-Zeitung</title>
             <imprint>
                <biblScope unit="jg">7</biblScope>
@@ -45,16 +45,16 @@
                <date when="1928-01-23">23.1.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eine Reaktion von Hofmannsthal bringt die Telegramm-Zeitung im Zuge eines
                      Interviews in der folgenden Nummer am folgenden Tag, Seite 2. Ein erster
                      »Vorschlag« liefert Hans Brandenburg und empfiehlt zugleich Bahrs »Der
                      inwendige Garten« (Hans Brandenburg: Antwort auf Bahrs »Vorschlag«. Münchner
                      Telegramm-Zeitung, 7 (1928) #31, 1. (31.1.1928))</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Zeiten, die sich sicher fühlen, sind ihrer besonderen Sendung so
+         <note type="incipit">Zeiten, die sich sicher fühlen, sind ihrer besonderen Sendung so
                   gewiß</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/telegrammzeitung/1928_vorschlag.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/telegrammzeitung/1928_vorschlag.pdf</ref>
       </body>
    </text>
 </TEI>

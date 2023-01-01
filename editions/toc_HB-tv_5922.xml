@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. Dezember [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">III, 299–305</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Luitpold Griesser: Nietzsche und Wagner. Wien, Leipzig:
+         <note type="review-of">Luitpold Griesser: Nietzsche und Wagner. Wien, Leipzig:
                   Hölder-Pichler-Tempsky 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nietzsche war zum deutschen Nationalheiligen vorbestimmt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr über Nietzsche, dessen Verhältnis zu Wagner und seine
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">Nietzsche war zum deutschen Nationalheiligen vorbestimmt.</note>
+         <note type="summary">Bahr über Nietzsche, dessen Verhältnis zu Wagner und seine
                   eigene letzte Begegnung mit Cosima Wagner.</note>
       </body>
    </text>

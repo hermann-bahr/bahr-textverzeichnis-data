@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Leserbrief_Wiederabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über den Durchfall der »Jungfern von
                      Bischofsberg«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">15</biblScope>
@@ -50,18 +50,18 @@
                <date when="1907-02-20">20.2.1907</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Berlin, 19. Februar. (Privat-Telegramm des ’Neuen
                      Wiener Journal«.) Hermann Bahr hat an den Herausgeber einer hiesigen
                      Kunstzeitschrift ein Schreiben gerichtet, in welchem er sich über den Durchfall
                      der ’Jungfern von Bischofsberg’ äußert. Das Schreiben Bahrs lautet
                      folgendermaßen:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Brahm« in: Die Schaubühne, 3 (1907) #8, 205–209.
+         <note type="first-printing">Als »Brahm« in: Die Schaubühne, 3 (1907) #8, 205–209.
                   (21.2.1907)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Meinung gegen Meinung. Ihnen hat Hauptmanns neues Stück
+         <note type="incipit">Meinung gegen Meinung. Ihnen hat Hauptmanns neues Stück
                   mißfallen, Ihren Kollegen auch, dem Publikum auch.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1907-2-20_jungfern.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/1907-2-20_jungfern.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Burgtheater. (»Mutter«, Schauspiel in einem Akt von M. E. delle
                      Grazie. »Die stillen Stuben,« Schauspiel in drei Akten von Sven Lange. Am 13.
                      Mai 1903)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -53,10 +53,10 @@
                <biblScope unit="pages">17–21</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #131, 6.
+         <note type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #131, 6.
                   (13.5.1903) Gekürzt: Österreichische Volks–Zeitung. 2 Kreuzer–Ausgabe, 49 (1903)
                   #131, 8–9. (13.5.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sven Lange hat einen merkwürdigen Roman geschrieben: Hertha
+         <note type="incipit">Sven Lange hat einen merkwürdigen Roman geschrieben: Hertha
                   Junker.</note>
       </body>
    </text>

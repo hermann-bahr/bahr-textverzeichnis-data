@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1916" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ehrbare Mädchen. (Le vergini, Komödie in vier Akten von Marco
                      Praga, deutsch von Otto Sommerstorff. Zum erstenmale aufgeführt im Theater in
                      der Josephstadt am 5. September 1902)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -49,9 +49,9 @@
                <date when="1902-09-06">6.9.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 410-415</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Tossi, ein kleiner Beamter bei der Steuer</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <note type="other-prints">Rezensionen, 410-415</note>
+         <note type="incipit">Herr Tossi, ein kleiner Beamter bei der Steuer</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

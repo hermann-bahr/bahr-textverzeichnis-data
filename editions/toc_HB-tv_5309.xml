@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">8. Oktober [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">300</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In diesen unwirtlichen Tagen des sich verdrossen einwinternden
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">In diesen unwirtlichen Tagen des sich verdrossen einwinternden
                   Herbstes lernt man fröstelnd Goethes ferrarischen Seufzer auf die Stein erst recht
                   verstehen: »Wenn ich nur wie Dido so viel Klima mitnehmen könnte, als ich mit
                   meiner Kuhhaut umspannen könnte, um es um unseres Wohnung zu legen.«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="HB-tv" target="HB-tv_3706_p3"/>

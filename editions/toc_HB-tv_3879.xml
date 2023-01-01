@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3879" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Die Post</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">19</biblScope>
@@ -45,7 +45,7 @@
                <date when="1911-04-16">16.4.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die monatlich erscheinende »Deutschösterreichische Post. Unabhängiges Fachblatt
                      für die deutschen Postbeamten und Bediensteten Österreichs« bringt am 1. Mai
                      1911 (Jg. 4, #5, 7-8) eine ihrer Empörung breiten Raum gebende, kommentierende
@@ -53,11 +53,11 @@
                      darauffolgenden Nummer. Am 24. d. M. bringt das Neue Wiener Journal die Kritik
                      Egon Friedells an der Post.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Austriaca. 11« in: Austriaca, 101–109 Auszug als »Die
+         <note type="other-prints">Als »Austriaca. 11« in: Austriaca, 101–109 Auszug als »Die
                   pünktliche Post« in: Das Hermann-Bahr-Buch, 289-297</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Österreicher sollte man nicht ins Ausland reisen lassen. Sie
+         <note type="incipit">Österreicher sollte man nicht ins Ausland reisen lassen. Sie
                   werden dort verwöhnt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/6280.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/6280.pdf</ref>
       </body>
    </text>
 </TEI>

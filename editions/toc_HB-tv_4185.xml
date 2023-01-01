@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck_Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zu Fülöp-Millers Buch »Macht und Geheimnis der Jesuiten«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Schönere Zukunft</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -48,16 +48,16 @@
                <date when="1929-11-24">24.11.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Gegenwärtig findet das Buch eines Nichtkatholiken über
                      den Jesuitenorden viel Beachtung. Übermäßig lobenden Urteilen stehen sehr
                      starke kritische Stimmen im katholischen Lager gegenüber. Interessant ist, wie
                      Hermann Bahr im »Neuen Wiener Journal« vom 10. 11. 1929 über das Buch schreibt.
                      Wir lesen dort:«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Tagebuch. 26. Oktober« in: Neues Wiener Journal, 37
+         <note type="first-printing">Als »Tagebuch. 26. Oktober« in: Neues Wiener Journal, 37
                   (1929) #12921, 14. (10.11.1929)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">René Fülöp-Miller, dem wir lesenswerte Schriften über
+         <note type="incipit">René Fülöp-Miller, dem wir lesenswerte Schriften über
                   Dostojewski, Lenin und den Bolschewismus verdanken</note>
       </body>
    </text>

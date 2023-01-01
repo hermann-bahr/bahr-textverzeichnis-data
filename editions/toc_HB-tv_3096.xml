@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Pantomime vom braven Manne</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Wirkung in die Ferne. Und Anderes</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">127–141</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Magazin für Litteratur, 62 (1893) #6, 93–95.
+         <note type="first-printing">Das Magazin für Litteratur, 62 (1893) #6, 93–95.
                   (11.2.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Variété. Ein Buch der Autoren des Wiener Verlags. Wien:
+         <note type="other-prints">Variété. Ein Buch der Autoren des Wiener Verlags. Wien:
                   Wiener Verlag 1902, 26-33 Wirkung in die Ferne. Wien: Bauer 1947, 87-97</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Motiv der Colombine, von der treuen Liebe. Ein heiterer,
+         <note type="incipit">Das Motiv der Colombine, von der treuen Liebe. Ein heiterer,
                   herzlicher, schlichter Walzer, etwa im Geiste der Lannerschen, wenn er unbegleitet
                   und rein erscheint;</note>
       </body>

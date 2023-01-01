@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb30901"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30901">Rudigier</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>61 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Thomasberger datiert auf [1916], vermutlich sich an dem Abdruck im 14. Jg.
                      (1916) im »Hochland« orientierend. Sowohl »Berliner Titeldrucke«, das
                      »Verzeichnis der von der Königlichen Bibliothek zu Berlin und den Preussischen
@@ -57,18 +57,18 @@
             <p>Rezensionen: Im Archiv ab dem 18.1.1918. Max Foges: Hermann Bahrs »Rudigier«.
                      In: Neues Wiener Journal, 26 (1918) #8740, 11–12. (3.3.1918)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Der gute Kriegsmann unseres Herrn Jesu« in:
+         <note type="first-printing">Als »Der gute Kriegsmann unseres Herrn Jesu« in:
                   Hochland, 14 (1916), 52–69 und 181–196 Auszug als: Hermann Bahr über Bischof
                   Rudigier. Linzer Volksblatt, 49 (1917) #30, Illustrierte Kriegsbeilage, #5, [2–3].
                   (4.2.1917)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Faksimile-Reprint Linz: Oberösterreichischer Landesverlag
+         <note type="other-prints">Faksimile-Reprint Linz: Oberösterreichischer Landesverlag
                   1984</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mein Vater war im oberösterreichischen Landtag ein Hauptredner
+         <note type="incipit">Mein Vater war im oberösterreichischen Landtag ein Hauptredner
                   gegen den streitbaren Bischof Rudigier.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beschreibt das Wirken des Bischofs Franz Joseph Rudigier im
+         <note type="summary">Bahr beschreibt das Wirken des Bischofs Franz Joseph Rudigier im
                   historischen und ideologischen Kontext seiner Zeit und ordnet ihn in die Reihe
                   Linzer Bischöfe ein.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2132"/>
                <ptr type="pmb" target="#11216"/>
@@ -214,7 +214,7 @@
                <ptr type="HB-tv" target="HB-tv_1376_p77"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buch/1917_rudigier.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buch/1917_rudigier.pdf</ref>
       </body>
    </text>
 </TEI>

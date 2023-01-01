@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1366" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Austriaca</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>211 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Redlich bedankt sich am 29. September 1911 bei Bahr für den Erhalt des Buchs
                      (Bahr/Redlich, 76). Rezensionen Im Archiv ab dem 21. September 1911. Die
                      Aktion, 1 (1911) #34, 1083. (9.10.1911) Westermanns Monatshefte, 109 (1912),
@@ -51,12 +51,12 @@
                      Verlagsanzeigen von »Inventur« wird eine Rezension Stefan Zweigs im
                      »Bücherwurm« erwähnt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Tschechische Ausgabe mit eigenem Vorwort: Austriaca. Se
+         <note type="translations">Tschechische Ausgabe mit eigenem Vorwort: Austriaca. Se
                   svolením Autora přeložil Dr. J. B. Novák. Turnov: Ing. R. Ptáčník 1912. (=Knihovna
                   Slunovrat, Sv. II)</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/11-austriaca.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20austriaca</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=73</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/11-austriaca.pdf</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20austriaca</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=73</ref>
       </body>
    </text>
 </TEI>

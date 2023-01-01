@@ -36,7 +36,7 @@
             type="Journal-Article"
             subtype="Erklärung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <author ref="#2150">Bauer, Julius</author>
             <author ref="#2416">David, J. J.</author>
@@ -46,7 +46,7 @@
             <title level="a">»Der Schleier der Beatrice«. Ein Konflikt mit dem
                      Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -55,17 +55,17 @@
                <date when="1900-09-14">14.9.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Antwort Schlenthers am Folgetag: #253, 9 und eine Erklärung Schnitzlers in
                      #254, 13 (16.9.). Beide sind nicht in die 2 Kreuzer-Ausgabe aufgenommen
                      worden.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Behandlung, welche der Direktor des Hofburgtheaters, Herr
+         <note type="incipit">Die Behandlung, welche der Direktor des Hofburgtheaters, Herr
                   Dr. Schlenther einem der bewährtesten Wiener Bühnendichter, Herrn Dr. Arthur
                   Schnitzler, zu Theil werden ließ</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Protest gegen Schlenther wegen der Ablehnung des gleichnamigen
+         <note type="summary">Protest gegen Schlenther wegen der Ablehnung des gleichnamigen
                   Bühnenstückes von Schnitzler.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12671"/>
                <ptr type="pmb" target="#2121"/>

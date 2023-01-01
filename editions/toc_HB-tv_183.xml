@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_183" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Münchener Brief</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">18</biblScope>
@@ -45,18 +45,18 @@
                <date when="1888-11-23">23.11.1888</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr beklagt sich bei seinem Vater (1.12.1888), dass das Ende einen frivolen
                      Witz enthielt, der einfach gestrichen wurde, das Verbleibende dadurch aber
                      unleserlich wurde. In der Buchfassung ist das Ende nicht wiederhergestellt,
                      sondern komplett weggekürzt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Intermezzo. 1. Münchener Brief« in: Kritik der
+         <note type="other-prints">Als »Intermezzo. 1. Münchener Brief« in: Kritik der
                   Moderne, 125–130</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es gibt lustige Possen, wo bei getheilter Bühne zu ebener Erde
+         <note type="incipit">Es gibt lustige Possen, wo bei getheilter Bühne zu ebener Erde
                   und im ersten Stock zugleich gespielt wird</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60721.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60722.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60721.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/60722.pdf</ref>
       </body>
    </text>
 </TEI>

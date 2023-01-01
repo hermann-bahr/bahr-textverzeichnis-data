@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1122" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Franz Marc</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Stella Peregrina. Achtzehn Faksimile-Nachbildungen nach den
                      Originalen. Handkoloriert von Frau Annette v. Eckardt. Mit einer Einleitung von
                      Hermann Bahr</title>
@@ -48,19 +48,19 @@
                <biblScope unit="pages">o.P. (1–4)</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr schickt den Text am 8. Juni ab, die Korrekturen sind am 3. November
                      fertig.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Franz Marc war eben die Zwanzig vorüber, als diese Blätter
+         <note type="incipit">Franz Marc war eben die Zwanzig vorüber, als diese Blätter
                   entstanden. Sie gleichen solchen Träumen am Morgen, die noch voll mit Nacht
                   behängt sind</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#20956"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1917_franz-marc.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1917_franz-marc.pdf</ref>
       </body>
    </text>
 </TEI>

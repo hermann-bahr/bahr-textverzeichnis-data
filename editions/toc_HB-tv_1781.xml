@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1781" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Nestroy</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Blätter des Deutschen Theaters</title>
             <imprint>
                <biblScope unit="jg">8</biblScope>
@@ -45,21 +45,21 @@
                <date when="1922">1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Ungekürzt als: »Der Zerrissene« in: Die Zeit, 7 (1896)
+         <note type="first-printing">Ungekürzt als: »Der Zerrissene« in: Die Zeit, 7 (1896)
                   #87, 139–140. (30.5.1896)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Ungekürzt als: »Der Zerissene« in: Wiener Theater, 460-467
+         <note type="other-prints">Ungekürzt als: »Der Zerissene« in: Wiener Theater, 460-467
                   Wunberg: Das junge Wien, 96.28</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ob denn Nestroy heute eigentlich noch wirkt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht in Nestroy den ersten Erkenner des neuen Österreichs,
+         <note type="incipit">Ob denn Nestroy heute eigentlich noch wirkt</note>
+         <note type="summary">Bahr sieht in Nestroy den ersten Erkenner des neuen Österreichs,
                   Österreichs Balzac. Zugleich betont er die Notwendigkeit zur Aktualisierung, damit
                   er seine Wirkung halten kann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12338"/>
                <ptr type="pmb" target="#10825"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/blaetter-des-deutschen-theaters/1922_nestroy.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/blaetter-des-deutschen-theaters/1922_nestroy.pdf</ref>
       </body>
    </text>
 </TEI>

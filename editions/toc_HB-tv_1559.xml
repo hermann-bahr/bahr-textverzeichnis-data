@@ -36,7 +36,7 @@
             type="Book"
             sameAs="pmb30375"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb30375">Das Prinzip. Lustspiel. Mit zwei
                      Dekorationsskizzen und zwei Bühnenplänen von Koloman Moser</title>
@@ -47,7 +47,7 @@
             </imprint>
             <extent>155 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>»Koloman Moser in herzlicher Freundschaft. Semmering 1912«. Rezensionen: Neues
                      Wiener Journal, 20 (1912) #6826, 10 (24.10.1912) [Buchausgabe, Kurznotiz]
                      Wiener Abendpost, 1912 #246, 6. (24.10.1912) Das literarische Echo, 15 (1912)
@@ -70,10 +70,10 @@
                      (6.10.1927) Tim Klein in: Münchner Neueste Nachrichten, 80 (1927) #273, 1-2.
                      (7.10.1927)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Tschechische Übersetzung: Princip. Veselohra o třech
+         <note type="translations">Tschechische Übersetzung: Princip. Veselohra o třech
                   jednáních. Autorisovaný překlad Bořivoje Prusíka [=Jiří Ščerbinský]. Praha: Knapp
                   [1913?]. (=Ochotnické divadlo, Sv. 475)</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=76</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=76</ref>
       </body>
    </text>
 </TEI>

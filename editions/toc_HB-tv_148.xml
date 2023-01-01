@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_148" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">A Letter from Germany. Salzburg, July, 1920</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb89478">The London Mercury</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,12 +45,12 @@
                <date when="1920-08-01">August 1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Oswald Spengler: Der Untergang des Abendlandes. Umrisse einer
+         <note type="review-of">Oswald Spengler: Der Untergang des Abendlandes. Umrisse einer
                   Morphologie der Weltgeschichte. Wien, Leipzig: Braumüller 1918–1922 Hermann Graf
                   Keyserling: Das Reisetagebuch eines Philosophen. München: Duncker 1919</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In Germany there is always a book which everyone is supposed to
+         <note type="incipit">In Germany there is always a book which everyone is supposed to
                   have read.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12248"/>
                <ptr type="pmb" target="#3490"/>
@@ -91,7 +91,7 @@
                <ptr type="HB-tv" target="HB-tv_148_p20"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1920-10.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/london-mercury/1920-10.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1067" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Liturgie</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">78</biblScope>
@@ -45,14 +45,14 @@
                <date when="1925-03-21">21.3.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hans Joachim Moser: Geschichte der deutschen Musik. Berlin,
+         <note type="review-of">Hans Joachim Moser: Geschichte der deutschen Musik. Berlin,
                   Stuttgart: Cotta 1920 Ildefons Herwegen: Einführung in den Geist der Liturgie.
                   Freiburg: Herder 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Schon Papst Pius X. mahnte die Gläubigen: Ihr nicht in der Messe
+         <note type="incipit">Schon Papst Pius X. mahnte die Gläubigen: Ihr nicht in der Messe
                   so für Euch hin beten, Ihr sollt selber die Messe mitbeten!</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versammelt Gedanken zur Liturgie, zum eigenständigen Beten
+         <note type="summary">Bahr versammelt Gedanken zur Liturgie, zum eigenständigen Beten
                   und zum Kirchengesang.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8978"/>
                <ptr type="HB-tv" target="HB-tv_1067_p1"/>

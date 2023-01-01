@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 17. Februar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">31</biblScope>
@@ -48,12 +48,12 @@
                <date when="1923-03-04">4.3.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, III, 40-46</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ergiebig sind Gespräche, wenn wir sie nicht führen, sondern uns
+         <note type="other-prints">Liebe der Lebenden, III, 40-46</note>
+         <note type="incipit">Ergiebig sind Gespräche, wenn wir sie nicht führen, sondern uns
                   darin von Wort zu Wort</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr hat einen Brief Josef Matthias Hauers erhalten und
+         <note type="summary">Bahr hat einen Brief Josef Matthias Hauers erhalten und
                   referiert nun dessen Theorien zu Melos und Musik.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -48,10 +48,10 @@
                <date when="1896-10-31">31.10.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Jüdin von Toledo« von Franz Grillparzer</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Woher kommt es, dass die Schauspieler so gerne Rollen spielen,
+         <note type="review-of">»Die Jüdin von Toledo« von Franz Grillparzer</note>
+         <note type="incipit">Woher kommt es, dass die Schauspieler so gerne Rollen spielen,
                   die in ihrer Natur nicht liegen?</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#22098"/>
                <ptr type="pmb" target="#11518"/>
@@ -61,7 +61,7 @@
                <ptr type="HB-tv" target="HB-tv_2510_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/109-81.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/109-81.pdf</ref>
       </body>
    </text>
 </TEI>

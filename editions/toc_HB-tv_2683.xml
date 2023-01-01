@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Jean Richepin</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,9 +49,9 @@
                <biblScope unit="pages">168–172</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Von welschen Litteraturen. III. Jean Richepin« in:
+         <note type="first-printing">Als »Von welschen Litteraturen. III. Jean Richepin« in:
                   Moderne Dichtung, 2 (1890) #1, 452–453. (1.7.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einer von den problematischen Künstlern; das sind solche, welche
+         <note type="incipit">Einer von den problematischen Künstlern; das sind solche, welche
                   die Formel ihres Geistes verfehlen, die angemessene Formel, in der ihre
                   künstlerische Begierde ganz ohne Rest aufgehen könnte. Was sie schaffen, man
                   sagt von ihren Werken und vor ihren Werken, statt durch sie aus dem Persönlichen
@@ -60,8 +60,8 @@
                   vollbracht wird, in Kunst umzusetzen, aus sich heraus und von sich weg, hinter
                   welcher jede Erinnerung an das Persönliche verschwände, das völlig an sie
                   weggegeben wäre...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4954"/>
                <ptr type="pmb" target="#4950"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_2683_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

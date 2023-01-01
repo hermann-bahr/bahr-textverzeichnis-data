@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Zuloaga</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Frankfurter Zeitung</title>
             <imprint>
                <biblScope unit="jg">56</biblScope>
@@ -48,7 +48,7 @@
                <date when="1912-06-07">7.6.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung als Fußnote zum Titel: »Hermann Bahr läßt dieser Tage im
                      ’Insel-Verlag’ zu Leipzig einen Band ’Essays’ erscheinen, in dem er diejenigen
                      seiner Aufsätze sammelt, denen er selbst die größte und dauerndste Wirksamkeit
@@ -59,8 +59,8 @@
                      nahezu gleichlautenden Einleitungen zu Vorabdrucken in den Hamburger
                      Nachrichten und dem Prager Tagblatt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Essays</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Neulich stand, bevor der Sturm kam, im Norden eine schwarze
+         <note type="other-prints">Essays</note>
+         <note type="incipit">Neulich stand, bevor der Sturm kam, im Norden eine schwarze
                   Wolke</note>
       </body>
    </text>

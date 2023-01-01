@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 1. Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,15 +48,15 @@
                <date when="1920-05-20">20.5.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Friedrich Mitterwurzer absolvierte von Mitte März bis Ende April 1890 ein
                      Gastspiel am Deutschen Volkstheater, die von Bahr angesprochene Aufführung von
                      Bjørnstjerne Bjørnsons »En Hanske (Ein Handschuh)« (1888) konnte nicht
                      nachgewiesen werden, die Aufführung von Arthur Fitgers Stück stimmt
                      hingegen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 127–134</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dreißig Jahre sind’s am heutigen Tag, daß ich im Sonnenschein
+         <note type="other-prints">Kritik der Gegenwart, 127–134</note>
+         <note type="incipit">Dreißig Jahre sind’s am heutigen Tag, daß ich im Sonnenschein
                   durchs Böhmerland neugierig nach Berlin fuhr. Ich war im Herbst von Paris fort,
                   Spanien hinab, hatte Velasquez erlebt, in Toledos vernichtendem Gelb und Tangers
                   betörendem Weiß geschwelgt, nebenher mir meinen ersten Roman halb wie
@@ -233,11 +233,11 @@
                   geschrieben, und das wäre vielleicht mehr. Aber man soll nicht mit dem Schicksal
                   hadern, ich will ihm lieber danken, daß es mir überhaupt gewährt hat, mich doch
                   noch zu finden. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr lässt sich ausführlich über die Bedeutung von Paris und
+         <note type="summary">Bahr lässt sich ausführlich über die Bedeutung von Paris und
                   Berlin für seine Entwicklung aus. Er berichtet von den Anfängen der Freien Bühne
                   1890 und von den Veränderungen in Berlin zwischen seiner Studienzeit und seiner
                   Rückkehr.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

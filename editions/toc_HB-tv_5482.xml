@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_5482" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Arcachon</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsches Volksblatt, Wien</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -45,8 +45,8 @@
                <date when="1890-01-16">16.1.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Die Überwindung des Naturalismus, 260-267</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Arcachon ist jetzt, seit ein paar Jahren, sehr in der
+         <note type="other-prints">Die Überwindung des Naturalismus, 260-267</note>
+         <note type="incipit">Arcachon ist jetzt, seit ein paar Jahren, sehr in der
                   Moder;</note>
       </body>
    </text>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2137" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Hugo Thimig</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">45</biblScope>
@@ -45,12 +45,12 @@
                <date when="1899-10-07">7.10.1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Heute sind es fünfundzwanzig Jahre, daß Herr Hugo Thimig als
+         <note type="incipit">Heute sind es fünfundzwanzig Jahre, daß Herr Hugo Thimig als
                   Wilhelm im »Verwunschenen Prinzen« in unser Burgtheater gesprungen ist.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein böser »Festartikel«, der die halbe Zeit ausbreitet, dass
+         <note type="summary">Ein böser »Festartikel«, der die halbe Zeit ausbreitet, dass
                   Thimig, nach Jahren des Erfolgs, nunmehr seit zehn Jahren den Kontakt zu seiner
                   Kunst verloren hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12948"/>
                <ptr type="HB-tv" target="HB-tv_2137_p1"/>

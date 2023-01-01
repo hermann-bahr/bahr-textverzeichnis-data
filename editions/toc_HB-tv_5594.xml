@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">10. November [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">260–271</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
+         <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
                   Geschichtliche Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang
                   des Reiches. I. Band: Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861. Leipzig: Der neue
                   Geist 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Das österreichische Staats- und Reichsproblem«. Geschichtliche
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Das österreichische Staats- und Reichsproblem«. Geschichtliche
                   Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang des Reiches.
                   Von Josef Redlich. I. Band: »Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861«. (»Der neue Geist«,
@@ -348,7 +348,7 @@
                   Bureaukratie, um sich in dieser Macht zu behaupten, dadurch, daß es ihr gelang,
                   den Deutschen einzureden, sie seien’s, die den »deutschen Charakter« Österreichs
                   bewachen, immer wieder ein lebendiges Österreich zu verhindern gewußt. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Das Buch von seinem Freund Josef Redlich ist für Bahr ein
+         <note type="summary">Das Buch von seinem Freund Josef Redlich ist für Bahr ein
                   Geschichtsbuch zu der von ihm propagierten Idee von Österreich. Es zeigt auch in
                   der Bürokratie den Fehler auf, an dem Österreich scheiterte.</note>
       </body>

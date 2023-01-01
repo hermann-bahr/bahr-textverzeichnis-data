@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_213" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Alte und neue Kunst in Österreich</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -45,13 +45,13 @@
                <date when="1892-12-11">11.12.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr begrüsst einen ersten Versuch einer österreichischen Kunstgeschichte.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Albert Ilg [Hg.]: Kunstgeschichtliche Charakterbilder aus
+         <note type="review-of">Albert Ilg [Hg.]: Kunstgeschichtliche Charakterbilder aus
                   Österreich-Ungarn. Wien, Prag: F. Tempsky 1893</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir haben in Österreich manche löbliche Tugend</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Wir haben in Österreich manche löbliche Tugend</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10121"/>
                <ptr type="pmb" target="#2430"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_213_p14"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75273.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75273.pdf</ref>
       </body>
    </text>
 </TEI>

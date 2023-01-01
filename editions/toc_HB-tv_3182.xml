@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">* * *. 20. September 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">161–163</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Rezension des Gastspieles von Ernst von Wolzogens Buntem
+         <note type="review-of">Rezension des Gastspieles von Ernst von Wolzogens Buntem
                   Theater (Überbrettl)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #264, 8.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #264, 8.
                   (26.9.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das »Überbrettl« hat gestern in sein Programm eine Pantomime von
+         <note type="incipit">Das »Überbrettl« hat gestern in sein Programm eine Pantomime von
                   Carl von Levetzow, »Die beiden Pierrots«, Musik von Wendland, eingefügt. Herr v.
                   Levetzow trat selbst vor</note>
       </body>

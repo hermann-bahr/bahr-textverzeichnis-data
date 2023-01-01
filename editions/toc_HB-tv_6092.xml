@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 16. November</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,13 +48,13 @@
                <date when="1920-12-12">12.12.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
+         <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
                   Geschichtliche Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang
                   des Reiches. I. Band: Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861. Leipzig: Der neue
                   Geist 1920. Franz Werfel: Spiegelmenschen. München: Kurt Wolff 1920.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 277-281</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich stecke noch immer in Josef Redlichs unerschöpflichem
+         <note type="other-prints">Kritik der Gegenwart, 277-281</note>
+         <note type="incipit">Ich stecke noch immer in Josef Redlichs unerschöpflichem
                   »Reichsproblem« fest! In seiner Zeichnung Franz Josefs zeigt Redlich eine
                   Meisterschaft, die nur von den höchsten Künstlern geschichtlicher Darstellung
                   zuweilen erreicht wird; nur etwa mit dem unvergänglich über die Zeiten hin
@@ -147,8 +147,8 @@
                   Heine so; denn von »Dies irae« über »Jakobs Traum« zum »Spiegelmenschen«,
                   wahrhaftig, eine so gewaltige Klimax ist lange keinem Burgtheaterdirektor
                   beschieden worden! |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über Kaiser Franz Josef.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <note type="summary">Über Kaiser Franz Josef.</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

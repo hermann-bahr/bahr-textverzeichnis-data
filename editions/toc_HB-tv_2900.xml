@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das grobe Hemd. (Volksstück in vier Acten von C. Karlweis. Zum
                      ersten Mal aufgeführt im Deutschen Volkstheater am 1. Februar 1897)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,10 +50,10 @@
                <biblScope unit="pages">359–365</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 10 (1897) #123, 92. (6.2.1897)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Das Hermann-Bahr-Buch, 204-207 H. B.: Kritiken. Hg.
+         <note type="first-printing">Die Zeit, 10 (1897) #123, 92. (6.2.1897)</note>
+         <note type="other-prints">Das Hermann-Bahr-Buch, 204-207 H. B.: Kritiken. Hg.
                   Kindermann. Wien: Bauer 1963, 335-338</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mit seinem neuen Stücke, dem »groben Hemd«, hat Karlweis alle
+         <note type="incipit">Mit seinem neuen Stücke, dem »groben Hemd«, hat Karlweis alle
                   Erwartungen übertroffen;</note>
       </body>
    </text>

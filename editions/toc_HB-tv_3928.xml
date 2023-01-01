@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. (Theater an der Wien)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -48,10 +48,10 @@
                <date when="1893-01-03">3.1.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Fédora« von Victorien Sardou</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bernhardt, la grande Sarrrah, wie die Pariser sagen, mit einem
+         <note type="review-of">»Fédora« von Victorien Sardou</note>
+         <note type="incipit">Bernhardt, la grande Sarrrah, wie die Pariser sagen, mit einem
                   dreifachen »r«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75496.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75496.pdf</ref>
       </body>
    </text>
 </TEI>

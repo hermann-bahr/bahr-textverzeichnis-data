@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">10</biblScope>
@@ -48,11 +48,11 @@
                <date when="1897-01-16">16.1.1897</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Meerleuchten« von Ludwig Ganghofer</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Deutschen Volkstheater hat eine Dame neulich nach dem
+         <note type="review-of">»Meerleuchten« von Ludwig Ganghofer</note>
+         <note type="incipit">Im Deutschen Volkstheater hat eine Dame neulich nach dem
                   »Meerleuchten« am Ende gesagt: »Es ist ja wahrscheinlich sehr schön, aber wozu hat
                   der Ganghofer das eigentlich geschrieben?«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11402"/>
                <ptr type="pmb" target="#11093"/>
@@ -60,7 +60,7 @@
                <ptr type="pmb" target="#10752"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/120-44.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/120-44.pdf</ref>
       </body>
    </text>
 </TEI>

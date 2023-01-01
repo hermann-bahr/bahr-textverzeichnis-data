@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 25. Dezember</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#43849">Der Weg. Wochenschrift für Politik und
                      Kultur</title>
             <imprint>
@@ -49,11 +49,11 @@
                <date when="1906-01-13">13.1.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vgl. Don Juan, Hamlet und Faust. In: Die Schaubühne, 2 (1906) #1, 117–118</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Tagebuch (1909), 88-89</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir sprech noch immer vom Don Giovanni.</note>
+         <note type="other-prints">Tagebuch (1909), 88-89</note>
+         <note type="incipit">Wir sprech noch immer vom Don Giovanni.</note>
       </body>
    </text>
 </TEI>

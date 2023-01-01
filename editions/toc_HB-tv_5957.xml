@@ -35,12 +35,12 @@
             type="Journal-Article"
             subtype="Nachdruck_Russisch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Баръ, Германъ</author>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">О Колоніяхъ [O kolonijach]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Мир иску́сства [Mir iskusstva], St. Petersburg</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -48,10 +48,10 @@
                <date when="1901">1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Nachdruck aus: Südwestdeutsche Rundschau, 1901, #6</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Dialog vom Tragischen, 120–130.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Въ настоящее</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/mir-iskusstva/1901_kolonjach.pdf</ref>
+         <note type="first-printing">Nachdruck aus: Südwestdeutsche Rundschau, 1901, #6</note>
+         <note type="other-prints">Dialog vom Tragischen, 120–130.</note>
+         <note type="incipit">Въ настоящее</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/mir-iskusstva/1901_kolonjach.pdf</ref>
       </body>
    </text>
 </TEI>

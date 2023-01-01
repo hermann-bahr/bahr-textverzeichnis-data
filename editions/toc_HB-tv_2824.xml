@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Lyrisches. Colour Musik</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">59–66</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Colour Music« in: Die Zeit, 4 (1895) #45, 91–92.
+         <note type="first-printing">Als »Colour Music« in: Die Zeit, 4 (1895) #45, 91–92.
                   (10.8.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Colour Musik« in: Das Hermann-Bahr-Buch, 129</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man konnte in den Zeitungen neulich Notizen über die Colour
+         <note type="other-prints">Als »Colour Musik« in: Das Hermann-Bahr-Buch, 129</note>
+         <note type="incipit">Man konnte in den Zeitungen neulich Notizen über die Colour
                   Musik lesen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr referiert zum Modethema Synästhesie und bringt Beispiele
+         <note type="summary">Bahr referiert zum Modethema Synästhesie und bringt Beispiele
                   aus der Literatur, der Kunst und der Wissenschaft, die das Phänomen belegen
                   sollen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8679"/>
                <ptr type="pmb" target="#4950"/>
@@ -75,7 +75,7 @@
                <ptr type="HB-tv" target="HB-tv_2824_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

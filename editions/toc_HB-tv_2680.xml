@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Kunst und Kritik</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,10 +49,10 @@
                <biblScope unit="pages">118–127</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Frankfurter Zeitung, 35 (1890) #254, 1. Morgenblatt,
+         <note type="first-printing">Frankfurter Zeitung, 35 (1890) #254, 1. Morgenblatt,
                   1–2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wunberg: Das junge Wien, 91.2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man trägt oft eine Erkenntnis lange in sich herum, ganz fertig,
+         <note type="other-prints">Wunberg: Das junge Wien, 91.2</note>
+         <note type="incipit">Man trägt oft eine Erkenntnis lange in sich herum, ganz fertig,
                   ausgewachsen und bereit; aber sie will Einem nicht zum Bewußtsein aufgehen, zu
                   keiner deutlichen und entschiedenen Formel. Sie liegt im Grunde unseres Denkens
                   und drängt ihre Wirkung jeder Meinung, jedem Urteile, jedem Entschlusse auf; aber
@@ -61,8 +61,8 @@
                   aufgehen und sich häuslich niederlassen möchte; sondern wir streifen ihr Rätsel
                   nur immer mit Tappen und Tasten und sie bleibt verwölkt, in einer
                   demi-propriété de termes, schwank und zage.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5449"/>
                <ptr type="pmb" target="#11330"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_3665_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

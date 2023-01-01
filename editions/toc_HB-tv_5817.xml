@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">18. November [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">II, 260–264</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Sigbert Feuchtwanger: Die freien Berufe, im besonderen: die
+         <note type="review-of">Sigbert Feuchtwanger: Die freien Berufe, im besonderen: die
                   Anwaltschaft. Versuch einer allgemeinen Kulturwirtschaftslehre. München, Leipzig:
                   Duncker &amp; Humblot 1922.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jemand hat den Drang, etwas zu sagen</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Kritik Sigbert Feuchtwangers an den freien Berufen - der
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Jemand hat den Drang, etwas zu sagen</note>
+         <note type="summary">Die Kritik Sigbert Feuchtwangers an den freien Berufen - der
                   Anwalt verkauft Gerechtigkeit, hat also ein Interesse daran, dass wenig
                   Gerechtigkeit vorhanden ist - führt Feuchtwanger zur ständisch organisierten
                   Gesellschaft und Bahr zum Gildensozialismus.</note>

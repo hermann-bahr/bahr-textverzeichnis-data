@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 11. April</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,14 +48,14 @@
                <date when="1921-04-24">24.4.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Oswald Spengler: Pessimismus? In; Preußische Jahrbücher, 184
+         <note type="review-of">Oswald Spengler: Pessimismus? In; Preußische Jahrbücher, 184
                   (1921), 73-84.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 120–122</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Aprilheft der »Preußischen Jahrbücher« verteidigt sich Oswald
+         <note type="other-prints">Liebe der Lebenden, I, 120–122</note>
+         <note type="incipit">Im Aprilheft der »Preußischen Jahrbücher« verteidigt sich Oswald
                   Spengler</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr zitiert länger (und kommentiert kürzer) Spenglers
+         <note type="summary">Bahr zitiert länger (und kommentiert kürzer) Spenglers
                   Verteidigung, sein »Untergang des Abendlands« sei pessimistisch.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Feuilleton. Emilia Pardo Bazan »Por Francia y Alemania.« Madrid,
                      la España Editorial</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -51,13 +51,13 @@
                <biblScope unit="pages">29–32</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Von neuer Kunst« in: Freie Bühne für modernes Leben,
+         <note type="first-printing">Als »Von neuer Kunst« in: Freie Bühne für modernes Leben,
                   1 (1890) #23, 617–619. (9.7.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein wunderliches Durcheinander draußen, auf dem Titel: die
+         <note type="incipit">Ein wunderliches Durcheinander draußen, auf dem Titel: die
                   phrygische Mütze mit Wappen der République française neben der Deutschen
                   Kaiserkrone über dem einköpfigen Aar, ganz brüderlich zusammen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5864"/>
                <ptr type="pmb" target="#4954"/>
@@ -79,7 +79,7 @@
                <ptr type="HB-tv" target="HB-tv_4053_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

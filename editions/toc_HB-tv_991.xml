@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_991" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Grillparzer</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">20618, Morgenblatt</biblScope>
@@ -44,13 +44,13 @@
                <date when="1922-01-22">22.1.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Berliner Börsen–Courier, 54 (1922) #25, 1. Beilage, 5.
+         <note type="first-printing">Berliner Börsen–Courier, 54 (1922) #25, 1. Beilage, 5.
                   (15.1.1922)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Sendung des Künstlers, 122–128 H. B.: Österreichischer
+         <note type="other-prints">Sendung des Künstlers, 122–128 H. B.: Österreichischer
                   Genius. Wien: Bellaria 1947, 5–14 H. B.: Essays. Hg. Heinz Kindermann. Wien: Bauer
                   1962, 65-70</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am 15. Januar 1872 fühlte sich Grillparzer unwohl.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-1-22_grillparzer.pdf</ref>
+         <note type="incipit">Am 15. Januar 1872 fühlte sich Grillparzer unwohl.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1922-1-22_grillparzer.pdf</ref>
       </body>
    </text>
 </TEI>

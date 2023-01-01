@@ -36,7 +36,7 @@
             type="Pamphlet"
             subtype="Aufruf"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10759">Alt, Rudolf von</author>
             <author ref="#10769">Antropp, Theodor</author>
             <author ref="#6023">Arlt, Ferdinand</author>
@@ -203,7 +203,7 @@
                <date when="1899">1899</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Aufruf ist datiert mit: »Wien, im Februar 1899« und wurde auf ein einmal
                      gefaltetes Blatt gedruckt, von dem sich der Aufruf über drei Seiten erstreckt.
                      Rudolf Steiner: »Ein Denkmal für Ludwig Anzengruber soll in Wien errichtet
@@ -213,13 +213,13 @@
                      zustande komme.« (Rudolf Steiner: Gesamtausgabe, XXXII, 498). Das Denkmal wurde
                      am 30. April 1905 enthüllt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unsere Zeit ist beßer [!] als ihr Ruf.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Unsere Zeit ist beßer [!] als ihr Ruf.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10772"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/sonderdrucke/1899_anzengruber.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/sonderdrucke/1899_anzengruber.pdf</ref>
       </body>
    </text>
 </TEI>

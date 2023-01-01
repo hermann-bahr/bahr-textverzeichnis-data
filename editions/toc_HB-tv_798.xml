@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Der Faun. Ein Akt. [III]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb41564">Die Schaubühne</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,8 +48,8 @@
                <date when="1906-10-18">18.10.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Grotesken. Wien: Konegen 1907</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Hans (winkt dem Mädchen zu und kneift sie im Vorbeigehen in die
+         <note type="other-prints">In: Grotesken. Wien: Konegen 1907</note>
+         <note type="incipit">Hans (winkt dem Mädchen zu und kneift sie im Vorbeigehen in die
                   Wange; leichthin, leise, selbstgefällig)</note>
       </body>
    </text>

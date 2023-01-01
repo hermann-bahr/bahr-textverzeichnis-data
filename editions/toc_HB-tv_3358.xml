@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Geisterchor</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Summula</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,9 +48,9 @@
                <biblScope unit="pages">29–52</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Über Ernst Cassirer« in: Die neue Rundschau, 28
+         <note type="first-printing">Als »Über Ernst Cassirer« in: Die neue Rundschau, 28
                   (1917) #11, 1483–1499</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein zusammenfassender, den ganzen Raum ausfüllender und nicht
+         <note type="incipit">Ein zusammenfassender, den ganzen Raum ausfüllender und nicht
                   bloß den Inhalt der eigenen Zeit, sondern auch ihrer Vorbereitungen in sich
                   tragender Mann, der nun auch noch die Kraft hätte, den gesamten Geist der Nation
                   uns nicht bloß wie die alten Steinmetzen, etwa der des Naumburger Doms oder Tilman
@@ -59,13 +59,13 @@
                   lassen, sondern ihn in klaren Worten auszusprechen, der also nicht bloß vor
                   unserem Gemüte, vor dem Willen, sondern auch vor der still betrachtenden Vernunft
                   Rechenschaft von ihm ablegt, ein solcher Mann der vollen Weite, des Ganzen;</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Von dem Befund ausgehend, dass es - anders als noch vor 100
+         <note type="summary">Von dem Befund ausgehend, dass es - anders als noch vor 100
                   Jahren - heute keinen Menschen gäbe, der in Wissensbelangen universelle Autorität
                   besäße, nennt Bahr einige Männer, denen er eine solche Stellung eigentlich
                   zutrauen würde. Besonders eingängig beschäftigt er sich mit Ernst Cassirer, in dem
                   er nicht die Stimme der Zeit, wohl aber denjenigen erkennt, der deren Vielzahl
                   aufeinander bezöge und orchestriere.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10806"/>
                <ptr type="pmb" target="#10866"/>
@@ -127,7 +127,7 @@
                <ptr type="HB-tv" target="HB-tv_3358_p31"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
       </body>
    </text>
 </TEI>

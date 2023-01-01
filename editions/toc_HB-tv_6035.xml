@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 24. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-07-18">18.7.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 165–168</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Immer einen der schmiegsamen Inselbände Goethes im Rucksack,
+         <note type="other-prints">Kritik der Gegenwart, 165–168</note>
+         <note type="incipit">Immer einen der schmiegsamen Inselbände Goethes im Rucksack,
                   erschrak ich gestern auf dem Untersberg bei den »Unterhaltungen deutscher
                   Ausgewanderten«, deren Einleitung ich, so vertraut sie mir sonst sind, lange nicht
                   gelesen und halb vergessen, über die Ähnlichkeit ihrer Situation mit der unseren.
@@ -129,10 +129,10 @@
                   ganze Vergangenheit und auch unsere Zukunft, wenn wir überhaupt noch eine haben,
                   enthält er. Aber es machen die Franzosen ebenso wenig Gebrauch von Balzac wie wir
                   von Goethe. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Deutschen kennen ihren Goethe nicht: Sonst wüssten sie, was
+         <note type="summary">Die Deutschen kennen ihren Goethe nicht: Sonst wüssten sie, was
                   Bruderzwiste - wie der zwischen Thomas und Heinrich Mann - über sie
                   aussagen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

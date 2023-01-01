@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Sir Charles Wentworth Dilke</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">188–190</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7780, 1–2.
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7780, 1–2.
                   (25.8.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Charles Wentworth Dilke ist der Enkel des großen Publizisten,
+         <note type="incipit">Charles Wentworth Dilke ist der Enkel des großen Publizisten,
                   der das »Athenaeum« und dann mit Dickens die »Daily News« gründete, und ist der
                   Sohn des eifrigen Unternehmers, der 1847 mit Cole und Russell die erste
                   Ausstellung der englischen Industrie und vier Jahre später die erste
                   Weltausstellung schuf.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11153"/>
                <ptr type="pmb" target="#10866"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_2748_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

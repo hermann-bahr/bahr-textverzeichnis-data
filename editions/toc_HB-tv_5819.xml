@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">25. November [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">II, 270–274</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Gustav Reckeis: Der Fährmann. Ein Buch für werdende Männer.
+         <note type="review-of">Gustav Reckeis: Der Fährmann. Ein Buch für werdende Männer.
                   Freiburg/Breisgau: Herder 1923. Wilhelm Mathiessen: Auf dem Dache der Welt.
                   Zürich: Neue Zürcher Nachrichten-Verlag 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Weihnachten kommt, Vater will dem Buben was zu lesen
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Weihnachten kommt, Vater will dem Buben was zu lesen
                   schenken</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist gegen die Unterscheidung zwischen Jugend- und
+         <note type="summary">Bahr ist gegen die Unterscheidung zwischen Jugend- und
                   Erwachsenenliteratur. Stattdessen empfiehlt er Weltliteratur für Jung und
                   Alt.</note>
       </body>

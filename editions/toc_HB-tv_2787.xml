@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Mounet Sully</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,16 +49,16 @@
                <biblScope unit="pages">257–261</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Kleine Journal, 16 (1894) #44, Morgen–Ausgabe, 1–2.
+         <note type="first-printing">Das Kleine Journal, 16 (1894) #44, Morgen–Ausgabe, 1–2.
                   (25.1.1894)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es gibt zwei Arten von Schauspielerei. Manche wollen der
+         <note type="incipit">Es gibt zwei Arten von Schauspielerei. Manche wollen der
                   Dichtung dienen, fühlen sich nur als Mittel, Instrumente des Dichters und
                   gehorchen seinen Zwecken.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr geht von zwei Typen im Schauspiel aus; diejenigen, die mit
+         <note type="summary">Bahr geht von zwei Typen im Schauspiel aus; diejenigen, die mit
                   jeder neuen Rolle alles, Stimme, Bewegungen, Haltung etc. wechseln und diejenigen,
                   die immer nur sich selbst spielen. Mounet Sully gehört in die zweite
                   Kategorie.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#11461"/>
@@ -86,7 +86,7 @@
                <ptr type="HB-tv" target="HB-tv_3517_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

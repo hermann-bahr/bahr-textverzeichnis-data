@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Maurice Maeterlinck</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,16 +49,16 @@
                <biblScope unit="pages">189–198</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Das Magazin für die Litteratur des In– und Auslandes, 60
+         <note type="first-printing">Das Magazin für die Litteratur des In– und Auslandes, 60
                   (1891) #2, 25–27</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Essays. Hg. Heinz Kindermann. Wien: Bauer 1962,
+         <note type="other-prints">H. B.: Essays. Hg. Heinz Kindermann. Wien: Bauer 1962,
                   155–161 Wunberg: Das junge Wien, 91.5</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im August dieses beglückten Jahres, eines schönen, warmen
+         <note type="incipit">Im August dieses beglückten Jahres, eines schönen, warmen
                   Sommersonntags, geschah es, daß der »Figaro« wieder einmal einen neuen Dichter
                   entdeckte. Er hat darin schon einige Übung und um keinen Preis möchte er von der
                   freundlichen und nützlichen Gewohnheit lassen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12156"/>
                <ptr type="pmb" target="#8948"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_1847_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

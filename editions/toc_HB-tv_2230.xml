@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2230" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater-Briefe. Wien</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Allgemeine Theater-Revue für Bühne und Welt</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -45,20 +45,20 @@
                <date when="1892">1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Abdruck im Archiv hat eine händische Streichung Bahrs der ersten drei
                      Absätze und ein neuer, händischer Titel: »Das symbolistische Experiment. Ein
                      Epilog zur symbolistischen Vorstellung in der Josefstadt«. Der dritte Teil,
                      über die die Blamage ist ebenfalls gestrichen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">L’Intruse von Maurice Maeterlinck</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Drei Ereignisse in den letzten Wochen des Wiener Theaters – der
+         <note type="review-of">L’Intruse von Maurice Maeterlinck</note>
+         <note type="incipit">Drei Ereignisse in den letzten Wochen des Wiener Theaters – der
                   Rest, was sich sonst noch versuchen wollte, verschwindet daneben: Das Gastspiel
                   der »Münchener«, das symbolistische Experiment in der Josefstadt und die Blamage
                   des »Deutschen Theaters« in der Ausstellung unten. […] Dann das symbolistische
                   Experiment in der Josefstadt. Das war die erste That der »Jungen« in Österreich.
                   Sonst saßen sie nur im Kafé und bramarbasirten und wurden verlacht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/allgemeine-theater-revue/1892_wien.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/allgemeine-theater-revue/1892_wien.pdf</ref>
       </body>
    </text>
 </TEI>

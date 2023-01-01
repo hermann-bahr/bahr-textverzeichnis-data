@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 6. Januar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">29</biblScope>
@@ -48,12 +48,12 @@
                <date when="1921-01-18">18.1.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, I, 19-20</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Vor zwei Jahren saß ich einmal in meinem
+         <note type="other-prints">Liebe der Lebenden, I, 19-20</note>
+         <note type="incipit">Vor zwei Jahren saß ich einmal in meinem
                   Burgtheaterkammerl</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Anekdote, die Grundlage für seinen »Unmenschen«
+         <note type="summary">Über die Anekdote, die Grundlage für seinen »Unmenschen«
                   bildet.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Secessionisten in Wien</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">191–196</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Künstlerhaus« in: Die Zeit, 1 (1894) #12, 186–187.
+         <note type="first-printing">Als »Künstlerhaus« in: Die Zeit, 1 (1894) #12, 186–187.
                   (22.12.1894)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als: »Die Sezessionisten in Wien« in: Das
+         <note type="other-prints">Als: »Die Sezessionisten in Wien« in: Das
                   Hermann-Bahr-Buch, 140</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was sagen denn nun die Wiener zu diesen Secessionisten?
+         <note type="incipit">Was sagen denn nun die Wiener zu diesen Secessionisten?
                   Schwärmen oder spotten sie?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr wirft einen Blick auf die Entwicklung der jungen Secession
+         <note type="summary">Bahr wirft einen Blick auf die Entwicklung der jungen Secession
                   und sieht in ihr eine Rückkehr zum »ewige[n] Wesen der Kunst«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3264"/>
                <ptr type="pmb" target="#3869"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_562_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Neue Zeichen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">240–245</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe letzten Frühling, letzten Sommer der Reihe nach die
+         <note type="incipit">Ich habe letzten Frühling, letzten Sommer der Reihe nach die
                   Jahresausstellung in unserem Künstlerhaus, die Berliner Ausstellung der Elf, den
                   alten und den neuen Salon von Paris, in London die Royal Academy und die New
                   Gallery und endlich allerhand von den belgischen Symbolisten gesehen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht, anhand von Whistler, Carrière, Forain, Jones und
+         <note type="summary">Bahr versucht, anhand von Whistler, Carrière, Forain, Jones und
                   Khnopff die neue Malerei zu beschreiben.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10271"/>
                <ptr type="pmb" target="#9647"/>
@@ -70,7 +70,7 @@
                <ptr type="HB-tv" target="HB-tv_3429_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

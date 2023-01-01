@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Autobiographische Skizze</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Der Schloßpark</title>
             <imprint>
                <biblScope unit="issue">11</biblScope>
@@ -47,20 +47,20 @@
                <date when="1921">1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Aufführung von Hermann Bahrs »Konzert«. Die Aufsätze sind vom Autor für das
                      Schloßpark-Heft von ihm selber zusammengestellt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Um einen Absatz länger als »Im Spiegel. Autobiographische
+         <note type="first-printing">Um einen Absatz länger als »Im Spiegel. Autobiographische
                   Skizzen. XLII« in: Das literarische Echo, 13 (1911) #7, 492–494. Als »Hermann
                   Bahr« in: Prager Tagblatt 38 (1913) #150, Morgen–Ausgabe, 9. (29.6.1913) Als »Eine
                   Selbstbiographie Hermann Bahrs« in: Salzburger Volksblatt, 43 (1913) #150, 1–2.
                   (4.7.1913) Illustrirtes Wiener Extrablatt, 42 (1913) #196, 6. (19.7.1913)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Lesezirkel Hottingen, Vierter Abend, 13. Januar 1913,
+         <note type="other-prints">In: Lesezirkel Hottingen, Vierter Abend, 13. Januar 1913,
                   4-7 Das Hermann-Bahr-Buch, 15–18</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin am 19. Juli 1863 in Linz an der Donau geboren als das
+         <note type="incipit">Ich bin am 19. Juli 1863 in Linz an der Donau geboren als das
                   erste Kind des k. k. Notars Dr. Alois Bahr</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/schlosspark/1921_schlosspark.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/schlosspark/1921_schlosspark.pdf</ref>
       </body>
    </text>
 </TEI>

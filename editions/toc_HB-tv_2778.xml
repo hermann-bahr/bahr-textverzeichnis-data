@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">José-Maria de Heredia</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">181–184</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da neulich die Akademie José-Maria de Heredia unter die
+         <note type="incipit">Da neulich die Akademie José-Maria de Heredia unter die
                   Unsterblichen nahm, brachte das »Journal« des Xau, der so rasch aus dem Könige
                   der Reporter ein König der Herausgeber wurde, eine jener listigen, gesuchten und
                   gemiedenen Legenden, die Lucien Descaves auf die Helden des Tages spitzt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Heredia schreibt wenig, ist aber dennoch eine zentrale Figur der
+         <note type="summary">Heredia schreibt wenig, ist aber dennoch eine zentrale Figur der
                   Parnassiens. Bahr interessiert sich vor allem für sein Auftreten, Aussehen und die
                   Faszination, die von ihm ausgeht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13194"/>
                <ptr type="pmb" target="#21317"/>
@@ -93,7 +93,7 @@
                <ptr type="HB-tv" target="HB-tv_46_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

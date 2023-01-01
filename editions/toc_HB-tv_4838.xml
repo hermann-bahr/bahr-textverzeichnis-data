@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Wiener Meister der Feder. Girardi zum 50. Geburtstag</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">61</biblScope>
@@ -48,16 +48,16 @@
                <date when="1927-03-06">6.3.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Festnummer zum Sechzigerjubiläum des Neuen Wiener Tagblatts druckt unter
                      dem Titel »Meister der Feder« in ihrem Blatt erschienene Feuilletons nach.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #331, 1–2.
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #331, 1–2.
                   (2.12.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 257-260 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Premièren, 257-260 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 359-361</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Girardi als Jubilar</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwt/1927_girardi.pdf</ref>
+         <note type="incipit">Girardi als Jubilar</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwt/1927_girardi.pdf</ref>
       </body>
    </text>
 </TEI>

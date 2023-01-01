@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1286" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theater in Linz</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">23838, Morgenblatt</biblScope>
@@ -44,9 +44,9 @@
                <date when="1931-01-25">25.1.1931</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In dem jetzt von Schließung bedrohten Linzer Stadttheater wurde
+         <note type="incipit">In dem jetzt von Schließung bedrohten Linzer Stadttheater wurde
                   zum</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1931-1-25_theater-in-linz.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1931-1-25_theater-in-linz.pdf</ref>
       </body>
    </text>
 </TEI>

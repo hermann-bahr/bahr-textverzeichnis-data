@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">29. Dezember [1919]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,13 +48,13 @@
                <biblScope unit="pages">26</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»C’est ainsi que toutes les opinions sont possibles et sortent
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»C’est ainsi que toutes les opinions sont possibles et sortent
                   un jour ou l’autre comme d’une loterie dans cette grand contradiction kumaine«
                   (Sainte-Beuve in Port Royal). Die ganze Geistesgeschichte kommt einem wirklich
                   zuweilen wie eine große Tombola vor; aber am nächsten Tag freilich wieder wie eine
                   einzige prachtvolle Fuge. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ein Zitat Sainte-Beuves, ergänzt von Bahr zu der Aussage, dass
+         <note type="summary">Ein Zitat Sainte-Beuves, ergänzt von Bahr zu der Aussage, dass
                   die Welt am einen Tag eine Lotterie sei, am anderen eine Fuge.</note>
       </body>
    </text>

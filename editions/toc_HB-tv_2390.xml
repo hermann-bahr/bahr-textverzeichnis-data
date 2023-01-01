@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2390" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Shakespeareübersetzung</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Almanach des Paul List Verlages auf das Jahr 1928. Mit 8
                      Lichtdrucktafeln</title>
             <editor>Rothe, Hans</editor>
@@ -47,9 +47,9 @@
                <biblScope unit="pages">18–25</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Shakespeare ist primär Schauspieler, aber er ist ein abnormer
+         <note type="incipit">Shakespeare ist primär Schauspieler, aber er ist ein abnormer
                   Fall des Schauspielers, er ist ein lyrischer Schauspieler</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#4132"/>
@@ -72,7 +72,7 @@
                <ptr type="HB-tv" target="HB-tv_2390_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1927_almanach-list_shakespeareuebersetzungen.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1927_almanach-list_shakespeareuebersetzungen.pdf</ref>
       </body>
    </text>
 </TEI>

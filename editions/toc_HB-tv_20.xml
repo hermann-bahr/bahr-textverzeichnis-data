@@ -37,13 +37,13 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Literarische Anzeigen. »Die Geschichte der ersten
                      sozialpolitischen Arbeiterbewegung in Deutschland mit besonderer Rücksicht auf
                      die einwirkenden Theorien«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Worte, Wien</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -52,13 +52,13 @@
                <date when="1886">1886</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Georg Adler: Die Geschichte der ersten sozialpolitischen
+         <note type="review-of">Georg Adler: Die Geschichte der ersten sozialpolitischen
                   Arbeiterbewegung in Deutschland mit besonderer Rücksicht auf die einwirkenden
                   Theorien. Ein Beitrag zur Entwicklungsgeschichte der sozialen Frage. Breslau:
                   Trewendt 1885</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man kann ein Buch zwiefach beurtheilen: nach dem, was es ist,
+         <note type="incipit">Man kann ein Buch zwiefach beurtheilen: nach dem, was es ist,
                   und nach dem, was es sein will und zu sein vorgibt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1886_deutsche-worte.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1886_deutsche-worte.pdf</ref>
       </body>
    </text>
 </TEI>

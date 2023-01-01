@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. März [1923]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">III, 59–65</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Karl Möhlig: Strindberg’s Weltanschauung. 1. Strindberg und
+         <note type="review-of">Karl Möhlig: Strindberg’s Weltanschauung. 1. Strindberg und
                   der Katholizismus. Elberfeld: Bergland 1923. Athanasius Miller: Die Psalmen. Die
                   fünf Bücher der Psalmen mit einem Anhang und den Cantica des römischen Breviers.
                   Freiburg/Breisgau: Herder 1923. (Ecclesia orans, hg. Ildefons Herwegen) Joris-Karl
                   Huysmans: Gegen den Strich. Deutsche Übersetzung von Hans Jacob. Potsdam:
                   Kiepenheuer 1921. Émile Baumann: Der Geopferte. Deutsch von Franz Faßbinder.
                   Augsburg: Benno Filser 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1923</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Strindbergs Weltanschauung« von Karl Möhlig</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr fragt sich, warum Strindberg nicht auch äußerlich Katholik
+         <note type="first-printing">Neues Wiener Journal, 1923</note>
+         <note type="incipit">»Strindbergs Weltanschauung« von Karl Möhlig</note>
+         <note type="summary">Bahr fragt sich, warum Strindberg nicht auch äußerlich Katholik
                   wurde, wo er es doch innerlich schon längst war?</note>
       </body>
    </text>

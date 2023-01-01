@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der neue Stil. Van Dyck</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">298–301</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7483, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7483, Morgen–Ausgabe,
                   1–2. (28.10.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein »Petit Hôtel« in der Belvederegasse, reich und vornehm, und
+         <note type="incipit">Ein »Petit Hôtel« in der Belvederegasse, reich und vornehm, und
                   man fühlt in dem dunklen Flur und die schmale Treppe über den Teppich hinauf den
                   Stil der gallischen Poeten, von graziöser, kluger, wissentlich gedämpfter Freude,
                   etwa wie bei Catulle Mendes.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Interview zu Stilfragen in der Schauspielerei</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">Interview zu Stilfragen in der Schauspielerei</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#21317"/>
                <ptr type="pmb" target="#2211"/>
@@ -66,7 +66,7 @@
                <ptr type="HB-tv" target="HB-tv_2461_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

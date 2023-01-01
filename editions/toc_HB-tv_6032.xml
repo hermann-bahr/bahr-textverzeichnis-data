@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 12. Juni</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,11 +48,11 @@
                <date when="1920-07-04">4.7.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Text enthält Entwürfe des 6. und 8. Kapitels des »Selbstbildnis«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 154–160</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Jetzt ist es gerade fünfzig Jahre her, daß der Theaterteufel in
+         <note type="other-prints">Kritik der Gegenwart, 154–160</note>
+         <note type="incipit">Jetzt ist es gerade fünfzig Jahre her, daß der Theaterteufel in
                   mich fuhr; ganz bin ich ihn ja noch immer nicht los. Dies begab sich in Kreuzen
                   bei Grein an der Donau. Einen »fashionableren« (so sagte man zu jener Zeit) Kurort
                   ließ sich damals der Linzer nicht träumen; es ging ein Gerücht, sogar Herrschaften
@@ -210,10 +210,10 @@
                   uns dadurch unterschlagen worden! Aber bald wird ja jetzt auch Wagner definitiv so
                   zusammengestrichen sein, daß er nur noch der Ohrenlust von Säuglingen dient. Wir
                   sind das Volk der Denker und Dichter. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr referiert seinen Kuraufenthalt in Bad Kreuzen vermutlich
+         <note type="summary">Bahr referiert seinen Kuraufenthalt in Bad Kreuzen vermutlich
                   1870, erste Theater- und Lektüreerfahrungen (»Faust«, »Robinson Crusoe«) sowie das
                   Ende von Onkel Anastas Weidlich.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

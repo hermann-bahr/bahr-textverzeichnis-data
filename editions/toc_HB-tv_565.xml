@@ -37,13 +37,13 @@
             type="Journal-Article"
             sameAs="pmb30997"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30997">Der Schleier der Beatrice. (Schauspiel in fünf
                      Acten von Arthur Schnitzler. Zum ersten Male aufgeführt am Breslauer
                      Lobe-Theater am 1. December 1900)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -52,12 +52,12 @@
                <date when="1900-12-05">5.12.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 260-268 H. B.: Kritiken. Hg. Kindermann. Wien:
+         <note type="other-prints">Premièren, 260-268 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 188–195</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Schnitzler ist einige Zeit in sein Thema vom Anatol und vom
+         <note type="incipit">Schnitzler ist einige Zeit in sein Thema vom Anatol und vom
                   süßen Mädel so verliebt gewesen, daß man schon fast befürchten mußter, er werde
                   gar nicht mehr loskommen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

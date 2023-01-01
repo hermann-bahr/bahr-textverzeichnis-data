@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1587" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Die Rahl. Roman</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>306 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Im November 1908 wurden die Belegexemplare verschickt, am 14. November 1908
                      erschienen die ersten Besprechungen. Für Max Messer ist das offensichtliche
                      Vorbild für die Schauspielerin Rahl Charlotte Wolter.</p>
@@ -66,11 +66,11 @@
                      Theaterkultur. Düsseldorfer Schauspielhaus, 6 (1910/11) #23, 356-358.
                      (13.2.1911)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Wien: H. Bauer [1946], 292 S.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="translations">Tschechische Übersetzung: Herečka. Die Rahl. Román z
+         <note type="other-prints">Wien: H. Bauer [1946], 292 S.</note>
+         <note type="translations">Tschechische Übersetzung: Herečka. Die Rahl. Román z
                   vídeňského života. Přeložil Karel Šípek. Praha: Otto [Dezember 1910]. (=Knihovna
                   Zlaté Prahy, Svazek 55)</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.literaturdownload.at/bahr.html</ref>
+         <ref type="URL">http://www.literaturdownload.at/bahr.html</ref>
       </body>
    </text>
 </TEI>

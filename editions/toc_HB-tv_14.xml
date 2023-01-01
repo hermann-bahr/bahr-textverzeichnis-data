@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">F. W. H. Wagener. »Die Mängel der christlich-sozialen
                      Bewegung«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Worte, Wien</title>
             <imprint>
                <biblScope unit="jg">5</biblScope>
@@ -50,9 +50,9 @@
                <date when="1885">1885</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Friedrich Wilhelm Hermann Wagener: Die Mängel der
+         <note type="review-of">Friedrich Wilhelm Hermann Wagener: Die Mängel der
                   christlich-sozialen Bewegung. Minden: Brun’s Verlag 1885</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unter dem Titel: »Soziale Zeitfragen« läßt Herr Ernst Henriet
+         <note type="incipit">Unter dem Titel: »Soziale Zeitfragen« läßt Herr Ernst Henriet
                   Lehnsmann bei Bruns in Minden eine Reihe gemeinverständlicher Flugschriften
                   erscheinen</note>
       </body>

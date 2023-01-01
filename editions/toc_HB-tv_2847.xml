@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Graphische Künstler</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">209–216</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Künstlerhaus. (Graphische Ausstellung der
+         <note type="first-printing">Als »Künstlerhaus. (Graphische Ausstellung der
                   Gesellschaft für vervielfältigende Kunst)« in: Die Zeit, 5 (1895) #57, 75–76.
                   (2.11.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Einen Maler nach dem anderen sehen wir jetzt mit Ungeduld nach
+         <note type="incipit">Einen Maler nach dem anderen sehen wir jetzt mit Ungeduld nach
                   der Nadel greifen und das Radieren, so lange verrufen, vom Künstler
                   gemieden...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Radierungen stünden zur Malerei etwa so, wie das Gedicht zum
+         <note type="summary">Radierungen stünden zur Malerei etwa so, wie das Gedicht zum
                   Roman. Anders Zorn, Max Liebermann, Paul Helleu, Felicien Rops und Whistler werden
                   als Beispiele solcher graphischen Lyriker vorgestellt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12913"/>
                <ptr type="pmb" target="#4026"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_2847_p12"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

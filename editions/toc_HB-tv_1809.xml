@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Welches war das Lieblingsbuch Ihrer Knabenjahre?</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die literarische Welt. Unabhängiges Organ für das deutsche
                      Schrifttum</title>
             <imprint>
@@ -49,7 +49,7 @@
                <date when="1929-06-28">28.6.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bahr Antwort schafft es, bei 14 Zeichen einen Druckfehler zu enthalten und
                      deckt sich ansonsten völlig mit der Hermann Hesses: »Robinson Crusoe«. Andere,
                      meist nicht so wortkarge Antworten von: Thomas Mann, Hugo v. Hofmannsthal,
@@ -59,10 +59,10 @@
                      Loerke, Ina Seidel, Oskar Maria Graf, Georg von der Vring, Guido Kolbenheyer
                      u.a.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Willy Haas, Hg.: Zeitgemäßes aus der »Literarischen
+         <note type="other-prints">In: Willy Haas, Hg.: Zeitgemäßes aus der »Literarischen
                   Welt«. Stuttgart: Cotta 1963, 261.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Robinso Crusoe.« |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">»Robinso Crusoe.« |</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_4428_p1"/>
             </listRef>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 9. Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,17 +48,17 @@
                <date when="1919-05-25">25.5.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 159–160</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In einem Gespräch darüber, was wohl jenes Gericht über den
+         <note type="other-prints">1919. Tagebuch, 159–160</note>
+         <note type="incipit">In einem Gespräch darüber, was wohl jenes Gericht über den
                   Kaiser Wilhelm beschließen wird, schlug jemand vor: Er sollte verurteilt werden,
                   in Deutschland zu leben und so täglich jetzt den Reinertrag seiner Regierung vor
                   Augen zu haben; das wäre mehr als genug. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2566"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

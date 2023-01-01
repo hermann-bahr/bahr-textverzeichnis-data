@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Arthur Schnitzler. Zu seinem sechzigsten Geburtstag am 15.
                      Mai</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Düsseldorfer Lokal-Zeitung</title>
             <imprint>
                <biblScope unit="jg">17</biblScope>
@@ -50,14 +50,14 @@
                <date when="1922-05-13">13.5.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die editorische Einleitung weist die Texte Bahrs und Heinrich Manns als
                      Nachdrucke ihrer Geburtstagswünsche an Schnitzler aus der »Neuen Rundschau«
                      aus, die helfen sollen, den durch die »Reigen-Hetze« getrübten Blick auf den
                      »vornehmen wie reinen Dichter« Schnitzler wieder zu gewinnen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die neue Rundschau, 33 (1922) #5, 499–501.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Was meinst Du, lieber Arthur, wieviel wird in hundert Jahren von
+         <note type="first-printing">Die neue Rundschau, 33 (1922) #5, 499–501.</note>
+         <note type="incipit">Was meinst Du, lieber Arthur, wieviel wird in hundert Jahren von
                   Dir noch am Leben sein? Und wieviel von mir?</note>
       </body>
    </text>

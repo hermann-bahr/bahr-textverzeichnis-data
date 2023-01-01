@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Raimundtheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">8</biblScope>
@@ -48,11 +48,11 @@
                <date when="1896-09-12">12.9.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Bauer als Millionär« von Ferdinand Raimund</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Ernst Gettke aus Elberfeld, das das Deutsche Volksblatt so
+         <note type="review-of">»Der Bauer als Millionär« von Ferdinand Raimund</note>
+         <note type="incipit">Herr Ernst Gettke aus Elberfeld, das das Deutsche Volksblatt so
                   verachtet, weil es an der Wupper liegt, woran er doch eigentlich gar nicht schuld
                   ist, soll im Raimundtheater jetzt zeigen, was er kann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2164"/>
                <ptr type="pmb" target="#12331"/>
@@ -65,7 +65,7 @@
                <ptr type="HB-tv" target="HB-tv_2336_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/102-172.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/102-172.pdf</ref>
       </body>
    </text>
 </TEI>

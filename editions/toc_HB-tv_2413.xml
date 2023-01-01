@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2413" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Metternich</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Wienerin im Spiegel der Jahrhunderte</title>
             <editor>Auernheimer, Raoul</editor>
             <imprint>
@@ -46,16 +46,16 @@
                <biblScope unit="pages">230–236</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Rezension im 8 Uhr Abendblatt, Berlin am 3.1.1928</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als in jenen seltsamen Novembertagen 1918 der Wiener sich
+         <note type="incipit">Als in jenen seltsamen Novembertagen 1918 der Wiener sich
                   plötzlich zum Republikaner geboren entdeckte und die Hofräte Franz Josefs wie
                   früher den Saum ihres gefalteten Sacktuchs fortan den Kopf der »Arbeiter-Zeitung«
                   aus ihrer Rocktasche leuchten ließen, war man in der Umgebung der Fürstin Pauline
                   Metternich-Sandor besorg, weil die hohe Frau sich nicht nehmen ließ, die Last
                   ihrer 82 Jahre</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11441"/>
                <ptr type="pmb" target="#19764"/>
@@ -73,7 +73,7 @@
                <ptr type="HB-tv" target="HB-tv_2413_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1928_wienerin_die-metternich.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1928_wienerin_die-metternich.pdf</ref>
       </body>
    </text>
 </TEI>

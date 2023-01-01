@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">28. Oktober [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">249–253</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Ludwig Anzengruber in fünfzehn Bänden im Kunstverlag Anton
+         <note type="review-of">Ludwig Anzengruber in fünfzehn Bänden im Kunstverlag Anton
                   Schroll</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Kunstverlag Anton Schroll in Wien bringt jetzt den ganzen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Der Kunstverlag Anton Schroll in Wien bringt jetzt den ganzen
                   Anzengruber in fünfzehn Bänden, unter Mitwirkung seines Sohnes, herausgegeben von
                   Dr. Rudolf Latzke und Dr. Otto Rommel. Zunächst sind zwei Bände »Dorfgeschichten«,
                   ein Band »Vorstadtgeschichten« und, zum erstenmal, der »Dramatische Nachlaß«
@@ -170,7 +170,7 @@
                   vielleicht anläßlich dieser höchst dankenswerten Ausgabe Schrolls, zu revidieren
                   sein, wieviel von Anzengrubers Ruhm sein gutes Eigentum ist und wieviel auch davon
                   bloß Stammtischlerei. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist sich seines Verhältnisses zu Anzengruber noch immer
+         <note type="summary">Bahr ist sich seines Verhältnisses zu Anzengruber noch immer
                   nicht im Klaren: Unberührt von Zeitgenossen wie Nietzsche, von tieferen Problemen
                   der Gegenwart, sieht er Anzengruber zwischen Kolportageroman und Shakespeare
                   oszillieren. Die neue Ausgabe seiner Werke lässt das nun erkunden.</note>

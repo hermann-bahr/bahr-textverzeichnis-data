@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2409" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -45,13 +45,13 @@
                <date when="1904-11-10">10.11.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»La Sorcière« von Victorien Sardou</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die »Sorcière« des Sardou, die die Bernhardt gestern gab, ist
+         <note type="review-of">»La Sorcière« von Victorien Sardou</note>
+         <note type="incipit">Die »Sorcière« des Sardou, die die Bernhardt gestern gab, ist
                   das richtige Stück für den Export über See.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr glaubt, dass nur Mexikaner auf das populäre Stück
+         <note type="summary">Bahr glaubt, dass nur Mexikaner auf das populäre Stück
                   hereinfallen können. Ob diese es zu sehen kriegen, ist ungewiss, aber es gibt
                   zweifelsohne Mexikaner in jedem Publikum.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12624"/>
                <ptr type="pmb" target="#10899"/>
@@ -59,7 +59,7 @@
                <ptr type="HB-tv" target="HB-tv_2409_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

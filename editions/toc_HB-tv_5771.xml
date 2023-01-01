@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">14. April [1922]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">II, 114–117</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1922</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich muß jetzt täglich sagen hören, es sei nicht schön von mir,
+         <note type="first-printing">Neues Wiener Journal, 1922</note>
+         <note type="incipit">Ich muß jetzt täglich sagen hören, es sei nicht schön von mir,
                   daß ich Salzburg verlassen will.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Nicht Bahr verlässt Salzburg, sondern sein Salzburg hat
+         <note type="summary">Nicht Bahr verlässt Salzburg, sondern sein Salzburg hat
                   aufgehört zu existieren.</note>
       </body>
    </text>

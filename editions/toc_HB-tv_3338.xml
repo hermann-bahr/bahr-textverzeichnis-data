@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Klimt</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Bilderbuch</title>
             <imprint>
                <pubPlace>Wien, Leipzig</pubPlace>
@@ -48,23 +48,23 @@
                <biblScope unit="pages">52–58</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Am Ende des Aufsatzes steht die Datierung »Mai 1913«. Dabei handelt es sich
                      höchstwahrscheinlich um einen Fehler, das Jahr dürfte 1918 sein, wo der Text in
                      Die Zukunft erschien. Auch die Rechnung aus dem ersten Satz wird so
                      wahrscheinlicher: 1883 war in Bahrs herkömmlicher Geschichtsschreibung in
                      Österreich noch nicht viel los, 1890 trifft das schon eher.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Klimt« in: Die Zukunft, 26 (1918) #101, 298–301.
+         <note type="first-printing">Als »Klimt« in: Die Zukunft, 26 (1918) #101, 298–301.
                   (15.6.1918)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Das Werk von Gustav Klimt. Wien, Leipzig: Hugo Heller
+         <note type="other-prints">In: Das Werk von Gustav Klimt. Wien, Leipzig: Hugo Heller
                   1918. H. B.: Essays. Hg. Kindermann. Wien: Bauer 1962, 287-291</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist jetzt bald an dreißig Jahre her, daß unser altes
+         <note type="incipit">Es ist jetzt bald an dreißig Jahre her, daß unser altes
                   Valterland auf einmal geheimnisvoll in Bewegung geriet</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr geht davon aus, dass die Bedeutung Gustav Klimts erst jetzt
+         <note type="summary">Bahr geht davon aus, dass die Bedeutung Gustav Klimts erst jetzt
                   (1913), nach Ende des Impressionismus, wirklich zutage trete: insofern seine Werke
                   auch noch außerhalb des Zeitkontextes wirken, in dem sie geschaffen wurden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11941"/>
                <ptr type="pmb" target="#43719"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_3338_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
       </body>
    </text>
 </TEI>

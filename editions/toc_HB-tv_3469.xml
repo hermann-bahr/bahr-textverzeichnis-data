@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der ganze Goethe</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Expressionismus</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,16 +48,16 @@
                <biblScope unit="pages">133–162</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Expressionismus und Goethe. 2« in: Die neue
+         <note type="first-printing">Als »Expressionismus und Goethe. 2« in: Die neue
                   Rundschau, 25 (1914) #2, 916–926.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Um Goethe, 72-90 Am Anfang gekürzt in: H. B.: Essays. Hg.
+         <note type="other-prints">Um Goethe, 72-90 Am Anfang gekürzt in: H. B.: Essays. Hg.
                   Kindermann. Wien: Bauer 1962, 227-235</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Goethes Geschichte wäre nun einnmal zu schreiben...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Noch einmal referiert Bahr ausführlich Goethe. Nicht nur, so
+         <note type="incipit">Goethes Geschichte wäre nun einnmal zu schreiben...</note>
+         <note type="summary">Noch einmal referiert Bahr ausführlich Goethe. Nicht nur, so
                   könnte man mit Blick auf das erste Kapitel des Buches sagen, um seine Gedanken zum
                   Expressionismus bestätigt bzw. »vorgeformt« zu sehen, sondern auch, um deren
                   Darstellung als eine auszuweisen, die dem Thema entspricht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11461"/>
                <ptr type="pmb" target="#11691"/>
@@ -134,7 +134,7 @@
                <ptr type="HB-tv" target="HB-tv_3469_p45"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/14-expressionismus.pdf</ref>
       </body>
    </text>
 </TEI>

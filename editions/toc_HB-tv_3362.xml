@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Walt Whitman</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Summula</title>
             <imprint>
                <pubPlace>Leipzig</pubPlace>
@@ -48,27 +48,27 @@
                <biblScope unit="pages">151–166</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt als »Der gute graue Dichter vom fischförmigen
+         <note type="first-printing">Gekürzt als »Der gute graue Dichter vom fischförmigen
                   Paumanok« in: Neue Erde, 1 (1919) #15, 247–250 Die neue Rundschau, 30 (1919) #5,
                   555–564. Als » Walt Whitman. Zum 100. Geburtstag« in: Prager Tagblatt, 44 (1919)
                   #128, Morgen–Ausgabe, 2. (31.5.1919) Gekürzt in: Das literarische Echo, 21 (1919)
                   #18, 1127. (15.6.1919) Als »Der Botschafter Amerikas: Walt Whitman« In: Deutsche
                   Blätter für ein europäisches Deutschland, gegen ein deutsches Europa, Santiago de
                   Chile, 1 (1943) #9, 4–7.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">In: Walt Whitman: Ich singe das Leben. Übertragung dieser
+         <note type="other-prints">In: Walt Whitman: Ich singe das Leben. Übertragung dieser
                   Auswahl von Max Hayek. Leipzig, Wien: E. P. Tal 1919, 5–14. Englisch von Walter
                   Grünzweig in: Gay Wilson Allen, Ed Folsom {Hgg): Walt Whitman &amp; the world.
                   Iowa: University of Iowa Press 1995, 193-201.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Väterlich stammt Walt Whitman von englischen Quäkern,
+         <note type="incipit">Väterlich stammt Walt Whitman von englischen Quäkern,
                   mütterlich aus Holland. Die Sekte der Quäker läßt keine Kirche, läßt selbst
                   die Heilige Schrift nicht gelten, ihr ist die Wahrheit nirgends als auf dem
                   eigenen Seelengrund, unser »inneres Licht« muß uns leuchten; so nennen sie sich
                   auch gern »Kinder des Lichts«.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In der freien Selbstüberhebung Whitmans erkennt Bahr keinen
+         <note type="summary">In der freien Selbstüberhebung Whitmans erkennt Bahr keinen
                   Narzissmus, sondern vielmehr die Voraussetzung für jede Verbindung mit dem
                   anderen. Wieder interessiert Bahr dieses Modell auch auf der Ebene des Staates,
                   genauer der Demokratie.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13102"/>
                <ptr type="pmb" target="#2495"/>
@@ -90,7 +90,7 @@
                <ptr type="HB-tv" target="HB-tv_3364_p13"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/17-summula.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1851" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">»Un dramma nuovo«. (Drama in drei Acten von Manuel Tamayo y Baus.
                      Nach dem Spanischen bearbeitet von Ermete Novelli. Zur ersten Aufführung im
                      Raimund-Theater am 19. April 1901)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -49,10 +49,10 @@
                <date when="1901-04-19">19.4.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Un Drama nuevo« von Manuel Tamayo y Baus</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 192–195</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Dasselbe Thema wie im »Tabarin« des Mendès,</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <note type="review-of">»Un Drama nuevo« von Manuel Tamayo y Baus</note>
+         <note type="other-prints">Premièren, 192–195</note>
+         <note type="incipit">Dasselbe Thema wie im »Tabarin« des Mendès,</note>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -48,10 +48,10 @@
                <date when="1902-05-06">6.5.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Le verre d’eau (Das Glas Wasser)« von Eugène Scribe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auch als Königin Anna im »Glas Wasser« war Fräulein Kögl wieder
+         <note type="review-of">»Le verre d’eau (Das Glas Wasser)« von Eugène Scribe</note>
+         <note type="incipit">Auch als Königin Anna im »Glas Wasser« war Fräulein Kögl wieder
                   sehr nett.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="HB-tv" target="HB-tv_1908_p1"/>
             </listRef>

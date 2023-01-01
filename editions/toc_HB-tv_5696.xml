@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. Juli [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">I, 241–246</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Norbert von Hellingrath: Hölderlin. Zwei Vorträge. München:
+         <note type="review-of">Norbert von Hellingrath: Hölderlin. Zwei Vorträge. München:
                   Bruckmann 1921. Friedrich Hölderlin: Die Briefe der Diotima. Hg. Frieda Arnold und
                   Karl Victor. Leipzig: Insel 1921. Ernst Cassirer: Hölderlin und der deutsche
                   Idealismus. In: E. C.: Idee und Gestalt. Berlin: Bruno Cassirer 1921,
                   113–155.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eines ganz großen Dichters, vielleicht des größten deutschen
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Eines ganz großen Dichters, vielleicht des größten deutschen
                   Dichters</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Erst in den letzten Jahren ist Hölderlin als der möglicherweise
+         <note type="summary">Erst in den letzten Jahren ist Hölderlin als der möglicherweise
                   größte deutschsprachige Dichter erkannt worden.</note>
       </body>
    </text>

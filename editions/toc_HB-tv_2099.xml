@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben. [Raimundtheater]</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">4</biblScope>
@@ -48,17 +48,17 @@
                <date when="1895-09-21">21.9.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Graf Essex« von Heinrich Laube</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Klein muß sich nur vor einem hüten: er trachte, daß er
+         <note type="review-of">»Graf Essex« von Heinrich Laube</note>
+         <note type="incipit">Herr Klein muß sich nur vor einem hüten: er trachte, daß er
                   nicht ein Virtuose der großen Scenen wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#14473"/>
                <ptr type="pmb" target="#28392"/>
                <ptr type="HB-tv" target="HB-tv_4068_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/51-189.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/51-189.pdf</ref>
       </body>
    </text>
 </TEI>

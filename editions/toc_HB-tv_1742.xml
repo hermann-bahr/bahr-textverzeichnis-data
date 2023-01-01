@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1742" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Literatur in hundert Jahren</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Welt in hundert Jahren</title>
             <editor>Brehmer, Arthur</editor>
             <imprint>
@@ -46,17 +46,17 @@
                <biblScope unit="pages">201–207</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Auf der ersten Seite des Textes ist der Autor als »Herman Bahr« angegeben.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Phaeton. Monatsschrift für Lyrik, 1 (1920) #12 (April),
+         <note type="first-printing">Phaeton. Monatsschrift für Lyrik, 1 (1920) #12 (April),
                   18–22.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Reprint der Ausgabe Berlin 1910: Hildesheim u.a.: Olms
+         <note type="other-prints">Reprint der Ausgabe Berlin 1910: Hildesheim u.a.: Olms
                   1988. 2. Aufl. Olms 2010. Reprint der Erstausgabe: Hildesheim: Silberfund
                   2008</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man muß kein Prophet sein, um sagen zu können, daß das, was
+         <note type="incipit">Man muß kein Prophet sein, um sagen zu können, daß das, was
                   heute Literatur genannt wird</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1908_welt-in-100-jahren_literatur.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1908_welt-in-100-jahren_literatur.pdf</ref>
       </body>
    </text>
 </TEI>

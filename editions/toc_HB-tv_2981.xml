@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Secession. (Zur dritten Kunstausstellung der Vereinigung
                      bildender Künstler Österreichs)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -50,15 +50,15 @@
                <biblScope unit="pages">96–100</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Secession. (Zur dritten Kunstausstellung der
+         <note type="first-printing">Als »Secession. (Zur dritten Kunstausstellung der
                   »Vereinigung bildender Künstler Österreichs«)« in: Die Zeit, 18 (1899) #227, 74.
                   (4.2.1899)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich vermuthe, dass nach uns eine Zeit großer Menschen kommen
+         <note type="incipit">Ich vermuthe, dass nach uns eine Zeit großer Menschen kommen
                   wird: diese sollen wir bereiten helfen. Das mag der Sinn unseres wunderlichen
                   Wesens sein.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ebenfalls zur dritten Ausstellung. In diesem Aufsatz widmet sich
+         <note type="summary">Ebenfalls zur dritten Ausstellung. In diesem Aufsatz widmet sich
                   Bahr vor allem Max Klinger.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11944"/>
                <ptr type="pmb" target="#3723"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_2981_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

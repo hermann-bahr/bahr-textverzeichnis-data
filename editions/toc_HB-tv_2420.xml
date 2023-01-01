@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2420" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Alexander Moissi]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Moissi. Der Mensch und der Künstler in Worten und Bildern. Mit 40
                      Beiträgen von namhaften Persönlichkeiten der internationalen Kunstwelt. Drei
                      kleinen Aufsätzen von Alexander Moissi. Zeichnungen von Emil Orlik, Henrik Lund
@@ -49,7 +49,7 @@
                <biblScope unit="pages">49</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Welches Glück für uns, Moissi zu haben! Seine leuchtende Gestalt
+         <note type="incipit">Welches Glück für uns, Moissi zu haben! Seine leuchtende Gestalt
                   sorgt dafür, daß im Abendland der Begriff von Anmut, der Glück spendenden, Sorge
                   brechenden, Unruhe stillenden, Herz erquickenden, Sinne betörenden und eben
                   dadurch aus allen Qualen und Dunst erlösenden Anmut, der lieblichsten und in ihrer
@@ -58,7 +58,7 @@
                   nicht erlischt! Eros und Psyche sind in ihm vermählt, und schon die Griechen
                   kannten das Kind dieser holden Begegnung beim Namen: es heißt Glückseligkeit.
                   |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12274"/>
             </listRef>

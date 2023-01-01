@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vorabdruck_Dichtung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Neben der Liebe. Wiener Sitten. (Schluß)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36166">Freie Bühne für den Entwickelungskampf der
                      Zeit</title>
             <imprint>
@@ -49,8 +49,8 @@
                <date when="1892">1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Berlin: S. Fischer 1893</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">März – Wind und Regen und Schnee und Frost und Kot wüst
+         <note type="other-prints">Berlin: S. Fischer 1893</note>
+         <note type="incipit">März – Wind und Regen und Schnee und Frost und Kot wüst
                   durcheinander</note>
       </body>
    </text>

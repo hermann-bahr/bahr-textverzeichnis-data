@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Wolter. (Gestorben am 14. Juni 1897)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">150–156</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 11 (1897) #142, 186–187. (19.6.1897)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="first-printing">Die Zeit, 11 (1897) #142, 186–187. (19.6.1897)</note>
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   343-347</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist jetzt fünf Jahre her, daß ich einmal bei der Wolter
+         <note type="incipit">Es ist jetzt fünf Jahre her, daß ich einmal bei der Wolter
                   saß</note>
       </body>
    </text>

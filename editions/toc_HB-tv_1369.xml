@@ -32,7 +32,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1369" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m">Essays</title>
             <imprint>
@@ -42,7 +42,7 @@
             </imprint>
             <extent>255 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eine Sonderstellung nimmt dieser Band unter Bahrs kritischen Werken ein, weil
                      einige Texte aus »Bildung« wiederaufgenommen wurden. Die Frankfurter Zeitung
                      bringt am 7. Juni einen Vorabdruck des »dieser Tage« erscheinenden Buches. Am
@@ -65,7 +65,7 @@
                      Bücherkarren). (22.5.1921) Charlotte Fraenkel-Eisner in: Berliner Tageblatt, 50
                      (1921) #524, Morgen-Ausgabe, 4. Beiblatt, 2 (13.11.1921)</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">In »Essays« von 1912 versammelt Hermann Bahr Texte aus beinahe
+         <note type="summary">In »Essays« von 1912 versammelt Hermann Bahr Texte aus beinahe
                   15 Jahren kulturjournalistischer und kunstkritischer Tätigkeit. Portraits (Goethe,
                   Whitman, Otto Wagner) stehen neben programmatischen Essays (Impressionismus, Gegen
                   die große Stadt), Artikel zu breiten kulturellen Strömungen (Modernisten,
@@ -73,8 +73,8 @@
                   Zukunft des deutschen Studenten, Rollenverweigerung). Die thematische wie
                   zeitliche Breite dieser Sammlung macht sie zum wohl heterogensten Werk
                   Bahrs.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=78</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/12-essays.pdf</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=78</ref>
       </body>
    </text>
 </TEI>

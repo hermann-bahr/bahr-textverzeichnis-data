@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Braut von Messina</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -49,10 +49,10 @@
                <biblScope unit="pages">41–43</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Braut von Messina« von Johann Wolfgang Goethe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #96, 4 (2
+         <note type="review-of">»Die Braut von Messina« von Johann Wolfgang Goethe</note>
+         <note type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #96, 4 (2
                   Kreuzer–Ausgabe: 7). (7.4.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Am 4. Juli 1803 schrieb Zelter an Goethe über die dritte
+         <note type="incipit">Am 4. Juli 1803 schrieb Zelter an Goethe über die dritte
                   Aufführung der »Braut von Messina« in Berlin</note>
       </body>
    </text>

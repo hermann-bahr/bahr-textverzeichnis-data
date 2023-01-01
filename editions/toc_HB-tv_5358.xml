@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 18. Februar</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">27</biblScope>
@@ -48,15 +48,15 @@
                <date when="1919-03-02">2.3.1919</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Hugo Ball: Zur Kritik der deutschen Intelligenz. Bern: Der
+         <note type="review-of">Hugo Ball: Zur Kritik der deutschen Intelligenz. Bern: Der
                   freie Verlag 1919</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">1919. Tagebuch, 73-76</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ob mit dem Kaiser Wilhelm denn aber auch der Kaiserismus weg
+         <note type="other-prints">1919. Tagebuch, 73-76</note>
+         <note type="incipit">Ob mit dem Kaiser Wilhelm denn aber auch der Kaiserismus weg
                   sei</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Ball findet Bahr zwar desöfteren über die Stränge schlagend,
+         <note type="summary">Ball findet Bahr zwar desöfteren über die Stränge schlagend,
                   schätzt aber dessen »Kurasche«, sich den Sozialismus und die preussische Monarchie
                   historisch zu denken.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2566"/>
                <ptr type="pmb" target="#12122"/>
@@ -97,7 +97,7 @@
                <ptr type="HB-tv" target="HB-tv_1300_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

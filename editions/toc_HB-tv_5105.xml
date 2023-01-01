@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Unterach, 7. August [1924]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">116–118</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ein dicker Knirps von fünf Jahren, kam ich 1868 zum
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Als ein dicker Knirps von fünf Jahren, kam ich 1868 zum
                   erstenmal nach Unterach und es gefiel den Eltern so gut, daß wir dann 1869 den
                   ganzen Sommer hier verbrachten;</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr schreibt über seinen Kindheitsausflug nach und die
+         <note type="summary">Bahr schreibt über seinen Kindheitsausflug nach und die
                   Verschandelung von Unterach am Attersee durch den Ringstrassenstil seit den
                   1870ern.</note>
       </body>

@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_754" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Klingers Beethoven. Vierzehnte Kunstausstellung der Vereinigung
                      bildender Künstler Österreichs, Sezession</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -47,11 +47,11 @@
                <date when="1902-04-16">16.4.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als die Jünglinge der Sezession erfuhren, Klingers</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht die Verbindung von Klimt und Max Klinger, der in
+         <note type="incipit">Als die Jünglinge der Sezession erfuhren, Klingers</note>
+         <note type="summary">Bahr sieht die Verbindung von Klimt und Max Klinger, der in
                   Beethoven das »Göttliche« dar, das irdische Form angenommen hat und die Kraft, die
                   zur Bewahrung der Form vonnöten ist.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10866"/>
                <ptr type="pmb" target="#11944"/>

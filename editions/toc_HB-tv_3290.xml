@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Chronik von Dirnau. Geschichte eines Dorfes von Gustav Macasy
                      Wien 1903. C. W. Stern</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -50,20 +50,20 @@
                <biblScope unit="pages">85–90</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 37 (1903) #282, 1–2.
+         <note type="first-printing">Neues Wiener Tagblatt, 37 (1903) #282, 1–2.
                   (14.10.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Omnibus oder in der Tramway, wenn man mit fremden Leuten
+         <note type="incipit">Im Omnibus oder in der Tramway, wenn man mit fremden Leuten
                   fährt, die allein und in Gedanken sind, erschrickt man oft, welche Tücke,
                   welcher Neid zuweilen, während sie ihren Wünschen oder ihren Sorgen nachsinnen
                   mögen, über ihre müden Mienen schleicht oder ihnen plötzlich aus den Augen
                   schlägt. Die Menschen, die wir kennen, sehen wir ja immer nur, wie sie sich
                   zeigen, und das Lächeln, das uns begrüsst, verwischt ihre Geheimnisse
                   gleich.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Dass in jedem Menschen ein ziemlich erschreckendes Quantum
+         <note type="summary">Dass in jedem Menschen ein ziemlich erschreckendes Quantum
                   Bosheit liege, meint Bahr anhand alltäglicher Beobachtungen zu bemerken; gleichsam
                   einen literarischen Beweis für diese Vermutung findet er in der »Chronik von
                   Dirnau« Gustav Macasys.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3487"/>
                <ptr type="pmb" target="#11284"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_1319_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

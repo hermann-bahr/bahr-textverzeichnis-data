@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1015" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ideen von 1914</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Hochland</title>
             <imprint>
                <biblScope unit="jg">14</biblScope>
@@ -45,14 +45,14 @@
                <date when="1917">1917</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vortragsmitschrift? in: Grazer Volksblatt, 49 (1916)
+         <note type="first-printing">Vortragsmitschrift? in: Grazer Volksblatt, 49 (1916)
                   #851, 5–6. (10.12.1916)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Erweitert um die Absätze nach »Gotteskindschaft« (166) in:
+         <note type="other-prints">Erweitert um die Absätze nach »Gotteskindschaft« (166) in:
                   Schwarzgelb, 131–168 Als »Ideen von 1914. Eine Abwandlung des Themas« in: Johann
                   Plenge: Zur Vertiefung des Sozialismus. Leipzig: Der Neue Geist 1919,
                   38-66.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Im Kriege, dächte man</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1917-14_ideen-von-1914.pdf</ref>
+         <note type="incipit">Im Kriege, dächte man</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1917-14_ideen-von-1914.pdf</ref>
       </body>
    </text>
 </TEI>

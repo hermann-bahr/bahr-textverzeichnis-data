@@ -37,12 +37,12 @@
             subtype="Nachtkritik"
             sameAs="pmb30099"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a" ref="pmb30099">Theater, Kunst und Literatur. Deutsches
                      Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">37</biblScope>
@@ -51,13 +51,13 @@
                <date when="1903-10-04">4.10.1903</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Kontroverse, die sich an dieser Rezension entbrannt hat, ist in den
                      Tagebüchern (Csáky), Band III, 395-397 nachzulesen. Kraus Kommentar findet sich
                      in der Fackel, 5 (1903) #144, 26.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Der Tugendhof« von Richard Skowronnek</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe mich gestern geschämt, daß ich einst im Volkstheater
+         <note type="review-of">»Der Tugendhof« von Richard Skowronnek</note>
+         <note type="incipit">Ich habe mich gestern geschämt, daß ich einst im Volkstheater
                   aufgeführt worden bin. Ein so grimmig, abgrundschlechtes und infernalisch
                   langweiliges Stück ist dieser »Tugendhof«. Mit Leo Leipziger fing es an, nun sind
                   wir heuer hier angekommen, wie weit noch?… Und sonderbar, wie Herr Weisse ist: Vor
@@ -66,14 +66,14 @@
                   Stück um das andere durch, jede Woche, und er schließt daraus nur, daß es offenbar
                   immer noch nicht schlecht genug war. So schätzt er sein Publikum. Es wird ihm
                   schon antworten. |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#26880"/>
                <ptr type="pmb" target="#2827"/>
                <ptr type="HB-tv" target="HB-tv_2543_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_568" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Jugend. (Ein Liebesdrama in drei Aufzügen von Max Halbe. Zum
                      ersten Male aufgeführt im Deutschen Volkstheater am 23. Jänner 1901)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -47,11 +47,11 @@
                <date when="1901-01-24">24.1.1901</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Jugend« von Max Halbe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">1893, im Jahre, das uns den Biberpelz</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr versucht die Stimmung zu Beschreiben, die sich vorfand, als
+         <note type="review-of">»Jugend« von Max Halbe</note>
+         <note type="incipit">1893, im Jahre, das uns den Biberpelz</note>
+         <note type="summary">Bahr versucht die Stimmung zu Beschreiben, die sich vorfand, als
                   »Jugend« von Max Halbe die erste Inszenierung erhielt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11798"/>
                <ptr type="pmb" target="#11565"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_1932_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 28. November</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">33</biblScope>
@@ -48,14 +48,14 @@
                <date when="1925-12-06">6.12.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Martha Berger: Das Leben einer Frau. Mit einem Geleitwort von
+         <note type="review-of">Martha Berger: Das Leben einer Frau. Mit einem Geleitwort von
                   Hermann Bahr. Wien, Leipzig u. a.: Rikola, 1925.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Auszug: Salzburger Volksblatt, 55 (1925) #278, 6.
+         <note type="first-printing">Auszug: Salzburger Volksblatt, 55 (1925) #278, 6.
                   (7.12.1925)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Zauberstab, 282-288</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Voriges Jahr geriet ein Romanmanuskript in meine Hand, aus dem
+         <note type="other-prints">Der Zauberstab, 282-288</note>
+         <note type="incipit">Voriges Jahr geriet ein Romanmanuskript in meine Hand, aus dem
                   mir auf den ersten Seiten scho ein erregtes Talent entgegenschlug</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

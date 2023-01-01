@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_292" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Mauerblümchen«. (Lustspiel in 4 Acten von Oskar Blumenthal und
                      Gustav Kadelburg. Zum ersten Male aufgeführt am Deutschen Volkstheater den 18.
                      November)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -49,8 +49,8 @@
                <date when="1893-11-19">19.11.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Herr Oskar Blumenthal hatte Geist und Geschmack.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78668.pdf</ref>
+         <note type="incipit">Herr Oskar Blumenthal hatte Geist und Geschmack.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78668.pdf</ref>
       </body>
    </text>
 </TEI>

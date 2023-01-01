@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">19. November [1921]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,17 +48,17 @@
                <biblScope unit="pages">I, 359–363</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Benedetto Croce: Goethe. Mit Genehmigung des Verfassers
+         <note type="review-of">Benedetto Croce: Goethe. Mit Genehmigung des Verfassers
                   verdeutscht von Julius Schlosser. Zürich: Amalthea 1920. Peter Hume Brown: Life of
                   Goethe. London: John Murray 1920. Emil Ludwig: Goethe. Geschichte eines Menschen.
                   Stuttgart, Berlin: Cotta 1920. Hans Gerhard Gräf: Goethes Ehe in Briefen.
                   Frankfurt/Main: Rütten &amp; Loening 1921. Georg Brandes: Goethe. Berlin: E. Reiß
                   1922. Dmitrij Umanskij: Tolstoi. Band 1: Denkwürdigkeiten, Erinnerungen und
                   Briefe. Wien: Verlag der Wiener Graphischen Werkstätte 1921.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 1921</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich zum erstenmal hörte, daß Thomas Mann jetzt Goethe und
+         <note type="first-printing">Neues Wiener Journal, 1921</note>
+         <note type="incipit">Als ich zum erstenmal hörte, daß Thomas Mann jetzt Goethe und
                   Schiller gern mit Tolstoi</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr wehrt sich gegen die Parallelbildung »Tolstoi und
+         <note type="summary">Bahr wehrt sich gegen die Parallelbildung »Tolstoi und
                   Dostojewskij« zu »Schiller und Goethe« und sowieso gegen das »und«
                   dazwischen.</note>
       </body>

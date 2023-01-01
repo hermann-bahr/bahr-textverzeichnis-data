@@ -34,13 +34,13 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_620" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Walter Pater. (Die Renaissance. Studien in Kunst und Poesie.
                      Übertragen und mit einer Einleitung von Wilhelm Schölermann, Buchausstattung
                      von Fritz Schumacher. Verlegt in Leipzig 1902 bei Eugen Diederichs)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -49,13 +49,13 @@
                <date when="1902-06-26">26.6.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bei Diederichs sind jetzt, von Wilhelm Schölermann übersetzt,
+         <note type="incipit">Bei Diederichs sind jetzt, von Wilhelm Schölermann übersetzt,
                   Walter Pater’s Studien</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr unterscheidet drei Formen der Kunstrezeption, ein
+         <note type="summary">Bahr unterscheidet drei Formen der Kunstrezeption, ein
                   »Botaniker« wie Taine, der seziert um zu begreifen, ein »Erzieher«, wie Ruskin,
                   der nach der Wirkung auf das Volk fragt – und Walter Pater, der als »Vortänzer«
                   und »Medium« die Eindrücke, die ein Kunstwerk hinterlässt, empfindet.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11161"/>
                <ptr type="pmb" target="#3430"/>
@@ -78,7 +78,7 @@
                <ptr type="HB-tv" target="HB-tv_3893_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

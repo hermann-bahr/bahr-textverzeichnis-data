@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2437" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater. (»Der Schleier des Glücks« von Georges Clemenceau,
                      Deutsch von Theodor Wolff. »Das Rätsel« von Paul Hervieu)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">51</biblScope>
@@ -47,13 +47,13 @@
                <date when="1905-09-20">20.9.1905</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Le Voile du Bonheur« von Georges Clemenceau. »Das Rätsel« von
+         <note type="review-of">»Le Voile du Bonheur« von Georges Clemenceau. »Das Rätsel« von
                   Paul Hervieu</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Gekürzt in: Kleine Österreichische Volks–Zeitung, 51
+         <note type="first-printing">Gekürzt in: Kleine Österreichische Volks–Zeitung, 51
                   (1905) #260, 10. (20.9.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Paul Hervieu hat zuerst sonderbare Novellen geschrieben</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr verreißt zwei Stücke.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Paul Hervieu hat zuerst sonderbare Novellen geschrieben</note>
+         <note type="summary">Bahr verreißt zwei Stücke.</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#18201"/>
                <ptr type="pmb" target="#4719"/>

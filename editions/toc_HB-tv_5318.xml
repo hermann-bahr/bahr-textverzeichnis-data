@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. Dezember [1918]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb119073">1919</title>
             <imprint>
                <pubPlace>Leipzig, Wien, Zürich</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">9–11</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, #9023</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Kisch, dieser schier schon sagenhafte Kisch, der Jaromir der
+         <note type="first-printing">Neues Wiener Journal, #9023</note>
+         <note type="incipit">Kisch, dieser schier schon sagenhafte Kisch, der Jaromir der
                   Roten Garde, Egon Erwin Kisch ist zum wahren Bürgerschreck geworden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht in Kisch einen echten Revolutionär, der nur nicht
+         <note type="summary">Bahr sieht in Kisch einen echten Revolutionär, der nur nicht
                   eingeladen wird, an der Revolution mitzumachen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#8211"/>
                <ptr type="pmb" target="#2907"/>

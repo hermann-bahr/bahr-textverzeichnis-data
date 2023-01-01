@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachdruck"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über die Tragik des deutschen Zionisten</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Israelitisches Familienblatt</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,7 +48,7 @@
                <date when="1926-01-07">7.1.1926</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Einer der geistreichsten deutschreibenden
                      Schriftsteller der Gegenwart, der Österreicher Hermann Bahr, hat unlängst in
                      einem Feuilleton der »N. Fr. Presse«, das zionistische Problem angeschnitten.
@@ -61,9 +61,9 @@
                      Nationaljuden in der deutschen Literatur (auch Arnold Zweig und Max Brod
                      gehören hierher) reagiert. Die Red.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig als »Zionismus« in: Neue Freie Presse, (1925)
+         <note type="first-printing">Vollständig als »Zionismus« in: Neue Freie Presse, (1925)
                   #21888, Morgenblatt, 1–3. (22.8.1925)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der erste Zionist im heutigen Sinne war, meines Wissens, der
+         <note type="incipit">Der erste Zionist im heutigen Sinne war, meines Wissens, der
                   geistreichste Mann des geistreichsten Jahrhunderts: der Fürst von Ligne.</note>
       </body>
    </text>

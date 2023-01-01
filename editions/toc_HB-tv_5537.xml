@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">7. Mai [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">135–139</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Bernhard Wilhelm von Bülow: Revision durch oder ohne
+         <note type="review-of">Bernhard Wilhelm von Bülow: Revision durch oder ohne
                   Völkerbund. In: Deutsche Nation</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Aprilheft der »Deutschen Nation«, einer von Mark Neven du
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Das Aprilheft der »Deutschen Nation«, einer von Mark Neven du
                   Mont geführten (bei der Deutschen Verlagsgesellschaft für Politik und Geschichte,
                   Charlottenburg, erscheinenden) Zeitschrift, die tapfer noch immer an ein zwischen
                   Bolschewismus und Reaktion schließlich doch durchdringendes Deutschland eigener,
@@ -163,7 +163,7 @@
                   Waffenmacht zugestanden wird. Sich einen Zweck zu setzen, dann aber die Mittel zu
                   diesem Zweck zu versagen, ist die Art der heutigen Deutschen. Und sie meinen
                   immer, daß sich ihnen zuliebe der Mensch auf einmal ändern wird. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Man sollte sich die Frage erlauben, ob Deutschland politisch
+         <note type="summary">Man sollte sich die Frage erlauben, ob Deutschland politisch
                   unbegabt sei und deswegen völlig auf Politik verzichten und sich einer
                   Innerlichkeit zuwenden solle. Aber die Pazifisten begriffen das nicht.</note>
       </body>

@@ -35,7 +35,7 @@
             type="Book"
             status="checked"
             sameAs="pmb32246">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="32246">Fin de Siècle</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>192 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>[O.N.: O.T.] Moderne Dichtung, 2 (1890) #4, 657. (1.10.1890) meldet kurz, dass
                      »Die gute Schule« und »Fin de Siècle« gleichzeitig erscheinen, also im Herbst
                      1890, auf 1891 vordatiert. Das Berliner Tageblatt verlautbart am 4.1.1891 (20
@@ -56,7 +56,7 @@
                      Umschlagseite 2 (vorne) und Umschlagseite 1 (hinten). [Sammelrezension]
                      Positive Erwähnung in: Revue Bleue, 47 (1891) #1, 32. (3.1.1891)</p>
          </note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20fin</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20fin</ref>
       </body>
    </text>
 </TEI>

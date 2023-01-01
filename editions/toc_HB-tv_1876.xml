@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">[O.V.]</author>
             <title level="a">Theater und Kunst. Burgtheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
             <imprint>
                <biblScope unit="jg">48</biblScope>
@@ -48,14 +48,14 @@
                <date when="1902-02-08">8.2.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Kurzfassung des Feuilletons der »Österreichischen Volks-Zeitung«.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Es lebe das Leben« von Hermann Sudermann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Vollständig in: Österreichische Volks–Zeitung, 48 (1902)
+         <note type="review-of">»Es lebe das Leben« von Hermann Sudermann</note>
+         <note type="first-printing">Vollständig in: Österreichische Volks–Zeitung, 48 (1902)
                   #38, 2. (8.2.1902)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 26-33</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Sudermann’s fünfaktiges Drama »Es lebe das Leben« gelangte
+         <note type="other-prints">Rezensionen, 26-33</note>
+         <note type="incipit">Sudermann’s fünfaktiges Drama »Es lebe das Leben« gelangte
                   gestern an dieser Bühne zur ersten Aufführung.</note>
       </body>
    </text>

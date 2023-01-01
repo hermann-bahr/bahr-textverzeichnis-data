@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">2. August [1926]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">347–352</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich 1890 aus Paris und Spanien nach Berlin zurückkam,
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Als ich 1890 aus Paris und Spanien nach Berlin zurückkam,
                   erschrak ich, wie seltsam sich die Stadt, seit ich fort war, in diesen drei Jahren
                   verändert hatte.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über die Veränderungen in Deutschland ab 1890, besonders den
+         <note type="summary">Über die Veränderungen in Deutschland ab 1890, besonders den
                   Einfluss Julius’ Langbehns.</note>
       </body>
    </text>

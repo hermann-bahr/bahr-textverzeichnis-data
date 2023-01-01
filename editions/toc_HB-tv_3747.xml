@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Leserbrief"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Was gibt uns die Courths-Mahler?</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Die Weltbühne</title>
             <imprint>
                <biblScope unit="jg">25</biblScope>
@@ -48,16 +48,16 @@
                <date when="1929-07-16">16.7.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»…Ja, die Courths-Mahler auch, in deren Verspottung einzustimmen
+         <note type="incipit">»…Ja, die Courths-Mahler auch, in deren Verspottung einzustimmen
                   ich darum auch durchaus nicht willens bin, denn sie kann etwas, was unsere
                   sämtlichen großen Schriftsteller heute nicht können, sie gibt uns den Rohstoff des
                   Daseins.« |</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#6715"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/weltbuehne/1929_courths-mahler.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/weltbuehne/1929_courths-mahler.pdf</ref>
       </body>
    </text>
 </TEI>

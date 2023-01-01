@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 26. Oktober</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">31</biblScope>
@@ -48,18 +48,18 @@
                <date when="1923-12-02">2.12.1923</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Rundschreiben unseres heiligsten Vaters Pius XI., durch
+         <note type="review-of">Rundschreiben unseres heiligsten Vaters Pius XI., durch
                   göttliche Vorsehung Papst, zur sechsten Jahrhundertfeier der Heiligsprechung des
                   Thomas von Aquin (29. Juni 1923: »Studiorum ducem«) Freiburg: Herder 1923.
                   Rundschreiben unseres heiligsten Vaters Pius XI : durch göttliche Vorsehung
                   Papst, über den heiligen Franz von Sales zur Dreijahrhundertfeier seines
                   Heimgangs (26. Januar 1923: Rerum omnium) Freiburg: Herder 1923.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Liebe der Lebenden, III, 270-273</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Der Enzyklika des Heiligen Vaters vom 26. Januar über Franz von
+         <note type="other-prints">Liebe der Lebenden, III, 270-273</note>
+         <note type="incipit">Der Enzyklika des Heiligen Vaters vom 26. Januar über Franz von
                   Sales ist eine vom 29. Juni über Thomas von Aquin gefolgt</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr muss seine Neigung bekämpfen, über dem großen Stilisten
+         <note type="summary">Bahr muss seine Neigung bekämpfen, über dem großen Stilisten
                   Pius XI. den Inhalt seiner Enzykliken nicht zu vergessen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

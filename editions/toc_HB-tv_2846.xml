@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Malerei. (Walter Crane-Ausstellung im Österreichischen Museum.
                      XXIII. Jahresausstellung im Künstlerhaus)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -50,14 +50,14 @@
                <biblScope unit="pages">203–208</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 3 (1895) #28, 27–28. (13.4.1895)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Den ganz großen Menschen gelingt es, aus sich die ganze Welt zu
+         <note type="first-printing">Die Zeit, 3 (1895) #28, 27–28. (13.4.1895)</note>
+         <note type="incipit">Den ganz großen Menschen gelingt es, aus sich die ganze Welt zu
                   beleben, indem sie die Strahlen ihrer Seele in alle Dinge zur Erleuchtung
                   senden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr zeigt sich begeistert von der Originalität von Walter Crane
+         <note type="summary">Bahr zeigt sich begeistert von der Originalität von Walter Crane
                   und Fernand Khnopff und beklagt parallel dazu die große Zahl bloßer »Copisten«
                   unter den Wiener Malern.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2412"/>
                <ptr type="pmb" target="#12156"/>
@@ -69,7 +69,7 @@
                <ptr type="HB-tv" target="HB-tv_1929_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
       </body>
    </text>
 </TEI>

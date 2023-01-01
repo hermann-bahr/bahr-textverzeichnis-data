@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1967" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Maskerade. (Schauspiel in vier Aufzügen von Ludwig Fulda. Zum
                      erstenmal aufgeführt im Burgtheater am 12. November 1904)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">50</biblScope>
@@ -47,13 +47,13 @@
                <date when="1904-11-13">13.11.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mir kommt allmählich alles, was wir da mit strengen Mienen
+         <note type="incipit">Mir kommt allmählich alles, was wir da mit strengen Mienen
                   treiben, wir von der Kritik des Theaters, nur noch wie ein höchst lächerliches
                   Mißverständnis vor.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr verreißt »Maskerade«, weil es Unterhaltungstheater ist,
+         <note type="summary">Bahr verreißt »Maskerade«, weil es Unterhaltungstheater ist,
                   aber gern mehr sein möchte. Er hat auch kein Mitleid mit den Figuren, die zu der
                   Gesellschaft gehören wollen, die sie ausstößt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11391"/>
                <ptr type="pmb" target="#10866"/>

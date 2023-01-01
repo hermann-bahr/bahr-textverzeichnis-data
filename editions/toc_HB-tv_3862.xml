@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3862" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">B.</author>
             <title level="a">Die Museen – dem Volke</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">3</biblScope>
@@ -45,7 +45,7 @@
                <date when="1895-04-27">27.4.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zur Zuschreibung an Bahr vgl. einerseits die in Heft #11 unter diesem Kürzel
                      veröffentlichte Rezension des »Journal intime« von Benjamin Constant. Für Bahr
                      spricht, dass auch in diesem Text Kulturthemen angesprochen sind. Zusätzlich
@@ -58,12 +58,12 @@
                      einem Fall, am 7.1.1899, kommt es zur Kollision, zeichnet »B« eine Kurzkritik
                      über »H. B.« .</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">England war das erste Land, welches die Kunst
+         <note type="incipit">England war das erste Land, welches die Kunst
                   demokratisierte.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Der Text behandelt, wie nach England hat auch Frankreich
+         <note type="summary">Der Text behandelt, wie nach England hat auch Frankreich
                   begonnen hat, seine Museen gezielt für die arbeitende Klasse umzubauen. Nur in
                   Österreich fehlen bislang die Versuche, den Kunstgenuss zu demokratisieren.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#7894"/>
                <ptr type="pmb" target="#4719"/>
@@ -76,7 +76,7 @@
                <ptr type="HB-tv" target="HB-tv_4874_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/30_58-59.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1895-3/30_58-59.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Schmelz, der Nibelunge. (Komödie in vier Akten von Franz Adamus.
                      Zum ersten Mal aufgeführt im Raimund-Theater am 6. März 1905)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -51,9 +51,9 @@
                <biblScope unit="pages">454–462</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 39 (1905) #66, 9–10.
+         <note type="first-printing">Neues Wiener Tagblatt, 39 (1905) #66, 9–10.
                   (7.3.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die »Familie Wawroch« des Franz Adamus, die am 21. April 1900 im
+         <note type="incipit">Die »Familie Wawroch« des Franz Adamus, die am 21. April 1900 im
                   Deutschen Volkstheater gegeben wurde, enthält eine Szene</note>
       </body>
    </text>

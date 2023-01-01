@@ -37,13 +37,13 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Monna Vanna. Schauspiel in drei Akten von Maurice Maeterlinck,
                      deutsch von Friedrich v. Oppeln-Bronikowski. Zum erstenmal aufgeführt im
                      Burgtheater am 17. Januar 1903</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -52,12 +52,12 @@
                <biblScope unit="pages">76–83</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Österreichische Volkszeitung, 49 (1903) #18, 5–6.
+         <note type="first-printing">Österreichische Volkszeitung, 49 (1903) #18, 5–6.
                   (18.1.1903) Gekürzt: Österreichische Volks–Zeitung. 2 Kreuzer–Ausgabe, 49 (1903)
                   #18, 17. (18.1.1903)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   222-226</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin in Verlegenheit, was ich über Monna Vanna sagen
+         <note type="incipit">Ich bin in Verlegenheit, was ich über Monna Vanna sagen
                   soll</note>
       </body>
    </text>

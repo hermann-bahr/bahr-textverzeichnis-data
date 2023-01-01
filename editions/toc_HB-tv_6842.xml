@@ -32,20 +32,20 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_6842" type="Journal-Article" subtype="Nachdruck">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Theatergesetz</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="pages">3</biblScope>
                <date when="1922-09-01">1.9.1922</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Editorische Einleitung, die es als Nachdruck aus der Festschrift
+         <note type="summary">Editorische Einleitung, die es als Nachdruck aus der Festschrift
                   ausweist.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19220901&amp;seite=3</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19220901&amp;seite=3</ref>
       </body>
    </text>
 </TEI>

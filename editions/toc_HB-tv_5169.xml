@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">24. April [1926]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">315–319</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Niemand ist zurzeit so gewaltig von Ruhm, aber auch von Wut
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Niemand ist zurzeit so gewaltig von Ruhm, aber auch von Wut
                   umtost, niemand weckt rings soviel Haß, Neid und Furcht der anderen Völker und
                   soviel Tatbereitschaft, Entschlossenheit und Zukunftsgewißheit im eigenen Volk wie
                   Mussolini.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr über Mussolini als Führer und die Führerfigur überhaupt; er
+         <note type="summary">Bahr über Mussolini als Führer und die Führerfigur überhaupt; er
                   endet bei Stefan George.</note>
       </body>
    </text>

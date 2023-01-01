@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3546" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#11324">Fischer, Samuel</author>
             <author ref="#2657">Fischer, Hedwig</author>
             <title level="m">Briefwechsel mit den Autoren. Mit einer Einführung von Bernhard
@@ -46,7 +46,7 @@
                <date when="1989">1989</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Auswahl von Briefen von und an Bahr findet sich auf den Seiten 165–183</p>
          </note>
       </body>

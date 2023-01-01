@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Der schöne Mann</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Caph. (Mit einer Zeichnung von Ferry Bératon)</title>
             <imprint>
                <pubPlace>Berlin</pubPlace>
@@ -48,14 +48,14 @@
                <biblScope unit="pages">28–42</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7485,
+         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7485,
                   Sonntags–Ausgabe, 1–2. (30.10.1892)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Wir kannten uns schon als Studenten. Es war im Jahre
+         <note type="incipit">Wir kannten uns schon als Studenten. Es war im Jahre
                   1881.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eine reiche Dame interessiert sich für den armen Johannes Lange.
+         <note type="summary">Eine reiche Dame interessiert sich für den armen Johannes Lange.
                   So auserkoren, beginnen sich die anderen für ihn zu interessieren, dass er wenige
                   Jahre später für schön gilt und reich ist.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11324"/>
                <ptr type="pmb" target="#11763"/>

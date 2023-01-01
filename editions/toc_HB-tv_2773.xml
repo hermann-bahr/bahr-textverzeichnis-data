@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Anatole France</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
             <imprint>
@@ -49,19 +49,19 @@
                <biblScope unit="pages">140–149</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Anatole France: La vie littéraire. Paris: Calman Lévy 1888,
+         <note type="review-of">Anatole France: La vie littéraire. Paris: Calman Lévy 1888,
                   1890 und 1891.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Frankfurter Zeitung, 36 (1891) #280, 1. Morgenblatt,
+         <note type="first-printing">Frankfurter Zeitung, 36 (1891) #280, 1. Morgenblatt,
                   1–2</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In den Künsten ist heute viel Zwist und Verwirrung. Jeder hat
+         <note type="incipit">In den Künsten ist heute viel Zwist und Verwirrung. Jeder hat
                   andere Begierden und sie verstehen sich nicht mehr. Sie mögen sich trösten: es
                   geht der Kritik auch nicht besser. Wir haben heute eben so viele Formen der
                   Kritik, als wir Kritiker haben; und vielleicht sogar noch um einige mehr, denn
                   mancher übt gleich zwei oder drei, wie es sich gerade trifft, und kann sich für
                   keine entscheiden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">France wird von Bahr als ein Vertreter derjenigen Kritik
+         <note type="summary">France wird von Bahr als ein Vertreter derjenigen Kritik
                   genannt, der es hauptsächlich um eigenen Genuss an den Kunstwerken geht.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4279"/>
                <ptr type="pmb" target="#13024"/>
@@ -94,7 +94,7 @@
                <ptr type="HB-tv" target="HB-tv_3497_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
       </body>
    </text>
 </TEI>

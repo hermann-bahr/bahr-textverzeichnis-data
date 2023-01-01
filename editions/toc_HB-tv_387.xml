@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_387" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Pläne</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">8</biblScope>
@@ -45,7 +45,7 @@
                <date when="1896-09-05">5.9.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Reaktion auf seinen Text »An die Jugend« (#100, 140). Bahr fordert die
                      Abtrennung der Literatur von der Kunst. Es soll nicht immer mit künstlerischem
                      Anspruch geschrieben werden, sondern mit gestaltendem, um ein Gefühl für die
@@ -53,11 +53,11 @@
                      verfassen, die einem eine Vorstellung geben können, wie es ist, in Salzburg
                      oder der Steiermark – der Provinz – aufzuwachsen.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">An die Jugend habe ich neulich geschrieben und ihr angerathen,
+         <note type="incipit">An die Jugend habe ich neulich geschrieben und ihr angerathen,
                   statt sich zu vermessen und auszuschweifen, doch lieber zu entsagen und sich bei
                   nützlichen Werken, Memoiren der Gegenwart, Chroniken von jetzt, Berichten unseres
                   Lebens, zu bescheiden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/101-155.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-8/101-155.pdf</ref>
       </body>
    </text>
 </TEI>

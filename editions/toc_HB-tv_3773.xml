@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3773" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Altweibersommer. Ein Liebessschwank in drei Aufzügen</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Novellen. Band 48</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -45,7 +45,7 @@
                <biblScope unit="pages">67–138</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">1. Akt. Ordinationszimmer.</note>
+         <note type="incipit">1. Akt. Ordinationszimmer.</note>
       </body>
    </text>
 </TEI>

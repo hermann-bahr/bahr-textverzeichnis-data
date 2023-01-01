@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Buddhismus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Die Überwindung des Naturalismus. Als zweite Reihe von »Zur
                      Kritik der Moderne«</title>
             <imprint>
@@ -49,14 +49,14 @@
                <biblScope unit="pages">93–100</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Nation, 7 (1890) #50, 751–753. (13.9.1890)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Diesen Frühling lief ganz Paris nach der Sorbonne, die
+         <note type="first-printing">Die Nation, 7 (1890) #50, 751–753. (13.9.1890)</note>
+         <note type="incipit">Diesen Frühling lief ganz Paris nach der Sorbonne, die
                   buddhistischen Vorträge Léon de Rosny’s zu hören, über die heiligen Gesetze
                   des Cakya-Mouni. Gelehrte und Weltleute saßen in einträchtiger Andacht beisammen
                   und in dem bunten Gemisch von berühmten und berüchtigten Namen war, wie vor dem
                   Grand Prix, ein knisterndes Froufrou der jüngsten Sommermoden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">A</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="summary">A</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2836"/>
                <ptr type="pmb" target="#4026"/>
@@ -105,7 +105,7 @@
                <ptr type="HB-tv" target="HB-tv_1922_p3"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/2-ueberwindung.pdf</ref>
       </body>
    </text>
 </TEI>

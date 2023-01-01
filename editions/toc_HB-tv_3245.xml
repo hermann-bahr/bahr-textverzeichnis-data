@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Duse. 11. Oktober 1904</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -49,10 +49,10 @@
                <biblScope unit="pages">344</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Heimat« von Hermann Sudermann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 38 (1904) #282, 10.
+         <note type="review-of">»Heimat« von Hermann Sudermann</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 38 (1904) #282, 10.
                   (11.10.1904)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die Magda der Duse kennt man ja längst. Aber sie ist in allen
+         <note type="incipit">Die Magda der Duse kennt man ja längst. Aber sie ist in allen
                   diesen Rollen jetzt ganz anders.</note>
       </body>
    </text>

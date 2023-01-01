@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_917" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ein deutsches Lesebuch</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Vossische Zeitung</title>
             <imprint>
                <biblScope unit="issue">33, Morgen-Ausgabe</biblScope>
@@ -44,9 +44,9 @@
                <date when="1921-01-21">21.1.1921</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Timm Klein, Hg.: Das Erbe</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Daß wir keine Nation sind, ist ewig wieder unsere Not.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1921_lesebuch.pdf</ref>
+         <note type="review-of">Timm Klein, Hg.: Das Erbe</note>
+         <note type="incipit">Daß wir keine Nation sind, ist ewig wieder unsere Not.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1921_lesebuch.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1195" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Predigt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">77</biblScope>
@@ -45,13 +45,13 @@
                <date when="1924-12-24">24.12.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als ich vor Jahren einem befreundeten Geistlichen, scherzhaft
+         <note type="incipit">Als ich vor Jahren einem befreundeten Geistlichen, scherzhaft
                   etwas übetreibend, eingestand, von allen Christenpflichten werde mir doch keine so
                   schwer als das Wort Gottes zu hören, weil ich mich da meist des Einschlafens kaum
                   erwehren kann</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr stellt die Frage, wie es gelingen kann, mit einer Predigt
+         <note type="summary">Bahr stellt die Frage, wie es gelingen kann, mit einer Predigt
                   alle anzusprechen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2495"/>
                <ptr type="pmb" target="#14905"/>

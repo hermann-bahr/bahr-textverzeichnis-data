@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">16. August [1926]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Der Zauberstab</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">325–331</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Bei der Chronologie der Buchausgabe ist dem Setzer ein Fehler unterlaufen, der
                      »16. August« ist zwischen »11. Mai« und »28. Mai« eingeschoben. Der Erstdruck
                      im Neuen Wiener Journal bringt den Text in der richtigen Reihenfolge.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Franzosen wie Deutsche besinnen sich nun allmählich wieder, daß
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Franzosen wie Deutsche besinnen sich nun allmählich wieder, daß
                   sie einander unentbehrlich sind.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über deutsche und französische Literatur und die Relation
+         <note type="summary">Über deutsche und französische Literatur und die Relation
                   zwischen diesen.</note>
       </body>
    </text>

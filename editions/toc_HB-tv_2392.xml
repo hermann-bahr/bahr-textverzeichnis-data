@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">38</biblScope>
@@ -48,11 +48,11 @@
                <date when="1904-05-01">1.5.1904</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»The Tyranny of Tears (Die Tyrannei der Tränen)« von Charles
+         <note type="review-of">»The Tyranny of Tears (Die Tyrannei der Tränen)« von Charles
                   Haddon Spurgeon Chambers</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es gibt ein altes Stück aus dem Französischen in einem Akt:
+         <note type="incipit">Es gibt ein altes Stück aus dem Französischen in einem Akt:
                   »Wenn Frauen weinen«, das sehr nett die »Tyrannei der Tränen« zeigt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#22824"/>
                <ptr type="pmb" target="#26628"/>
@@ -63,7 +63,7 @@
                <ptr type="HB-tv" target="HB-tv_2035_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

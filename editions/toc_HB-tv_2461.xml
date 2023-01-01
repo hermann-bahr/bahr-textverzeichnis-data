@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Kunst und Leben</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -48,15 +48,15 @@
                <date when="1895-03-09">9.3.1895</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zwei Zitate, zum ersten Mal angewendet in dieser Kurzmeldung, baut Bahr gut
                      einen Monat später nahezu ident in seinen Text über das Theater (#29, S. 42)
                      ein.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Das Käthchen von Heilbronn« von Heinrich Kleist</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Kleists Dramen, schrieb Tieck, geben dem Schauspieler große
+         <note type="review-of">»Das Käthchen von Heilbronn« von Heinrich Kleist</note>
+         <note type="incipit">»Kleists Dramen, schrieb Tieck, geben dem Schauspieler große
                   Veranlassung, seine Kunst zu zeigen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11933"/>
                <ptr type="pmb" target="#4124"/>
@@ -71,7 +71,7 @@
                <ptr type="HB-tv" target="HB-tv_4645_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/23-158.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/23-158.pdf</ref>
       </body>
    </text>
 </TEI>

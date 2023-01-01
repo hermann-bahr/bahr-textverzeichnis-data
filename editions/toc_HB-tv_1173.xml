@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1173" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Emil Zola über den Panama-Scandal. (Drahtbericht unseres
                      Special-Correspondenten)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">22</biblScope>
@@ -47,20 +47,20 @@
                <date when="1892-12-28">28.12.1892</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Politischer Aufmacher über dem Strich. Für Zola stellt der Panama-Skandal keine
                      Überraschung dar, die Politiker seien überall und immer korrupt. Trotzdem
                      glaubt er, dass die Zeit der Sozialisten noch nicht gekommen ist.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe heute Emil Zola in seinem neuen Hotel aufgesucht,
+         <note type="incipit">Ich habe heute Emil Zola in seinem neuen Hotel aufgesucht,
                   welches der Altmeister des Naturalismus vor nicht allzu langer Zeit bezogen
                   hat.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13194"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75431.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75431.pdf</ref>
       </body>
    </text>
 </TEI>

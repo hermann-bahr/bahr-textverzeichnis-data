@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Séverine</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,15 +49,15 @@
                <biblScope unit="pages">143–153</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Erster Teil (143–149) als »Séverine« in: Deutsche
+         <note type="first-printing">Erster Teil (143–149) als »Séverine« in: Deutsche
                   Zeitung, Wien, 23 (1893) #7763, Morgen–Ausgabe, 2–3. (8.8.1893) Zweiter Teil
                   (149–153) als »Der Antisemitismus. Ein internationales Interview. 26. Séverine.
                   27. Charles Morice«, ebenda, 1–2.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Man trifft ihren Namen täglich. Sie schreibt im Figaro, im
+         <note type="incipit">Man trifft ihren Namen täglich. Sie schreibt im Figaro, im
                   Gaulois, im Echo de Paris, im Journal. Es giebt sechs, sieben Artikel die Woche
                   und mehr. Sie scheint unerschöpflich. Nur Henri Fouquier darf sich etwa
                   messen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12195"/>
                <ptr type="pmb" target="#5864"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_1448_p9"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

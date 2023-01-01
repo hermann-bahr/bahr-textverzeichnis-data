@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Bücher zum wirklichen Leben. Brief an den Buchhändler Hugo
                      Heller</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb31097">Buch der Jugend</title>
             <imprint>
                <pubPlace>Wien und Leipzig</pubPlace>
@@ -50,19 +50,19 @@
                <biblScope unit="pages">144–150</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Hermann Bahr: Einleitung. In: Hugo Heller, Hg.: Die Bücher
+         <note type="other-prints">Hermann Bahr: Einleitung. In: Hugo Heller, Hg.: Die Bücher
                   zum wirklichen Leben. Wien: Hugo Heller &amp; Cie 1908, 1-4. (Weihnachtskatalog
                   der Buchhandlung)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Als Sie, lieber Herr Heller, voriges Jahr allerhand Menschen um
+         <note type="incipit">Als Sie, lieber Herr Heller, voriges Jahr allerhand Menschen um
                   zehn gute Bücher fragten, fand ich das sehr hübsch. Freilich in einer Art, die
                   vielleicht von Ihnen gar nicht gemeint war.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Eingedenk des Narzissmus der Schriftsteller, steht Bahr dem
+         <note type="summary">Eingedenk des Narzissmus der Schriftsteller, steht Bahr dem
                   Projekt Hugo Hellers, diese nach den »bedeutendsten« Büchern zu befragen und ihre
                   Ansichten dann zu drucken, skeptisch gegenüber. Das hindert ihn jedoch nicht, der
                   Jugend einige Texte zu empfehlen die, politischen, naturwissenschaftlichen,
                   soziologischen und literarischen Inhalts, eine Jugend formen könnten, die ihr Ziel
                   nicht mehr darin sähe, möglichst schnell »Hofrat« zu werden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11646"/>
                <ptr type="pmb" target="#3892"/>
@@ -97,7 +97,7 @@
                <ptr type="HB-tv" target="HB-tv_3675_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
       </body>
    </text>
 </TEI>

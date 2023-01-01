@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Unsere Secession</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,15 +48,15 @@
                <biblScope unit="pages">6–10</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 11 (1897) #139, 139–40. (29.5.1897)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">In der letzten Versammlung der Wiener Künstler ist es zu einer
+         <note type="first-printing">Die Zeit, 11 (1897) #139, 139–40. (29.5.1897)</note>
+         <note type="incipit">In der letzten Versammlung der Wiener Künstler ist es zu einer
                   hässlichen Scene gekommen. Man hat gelärmt, man hat geschrien, es fehlte nicht
                   viel und man wäre thätlich geworden.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Anders als in Paris oder München, wo die Secession die
+         <note type="summary">Anders als in Paris oder München, wo die Secession die
                   Abspaltung der jungen von der alten Kunst bedeutete, stellte sich nach Bahr die
                   Sache in Wien als eine Abspaltung der Kunst von der Fabrikation unkünstlerischer
                   Dekorationen dar.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#3527"/>
                <ptr type="pmb" target="#3904"/>
@@ -67,7 +67,7 @@
                <ptr type="HB-tv" target="HB-tv_3543_p14"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

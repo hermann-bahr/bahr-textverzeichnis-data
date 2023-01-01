@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Carl-Theater. 18. September 1901</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
             <imprint>
                <publisher>S. Fischer</publisher>
@@ -47,11 +47,11 @@
                <biblScope unit="pages">159–161</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Gastspiel von Ernst von Wolzogens Buntem Theater
+         <note type="review-of">Gastspiel von Ernst von Wolzogens Buntem Theater
                   (Überbrettl)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 35 (1901) #256, 6–7.
+         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #256, 6–7.
                   (18.9.1901)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das Urüberbrettl ist wieder da</note>
+         <note type="incipit">Das Urüberbrettl ist wieder da</note>
       </body>
    </text>
 </TEI>

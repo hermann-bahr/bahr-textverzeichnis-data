@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. (Gastspiel im Raimundtheater) 5. Le Père
                      Lebonnard</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -50,10 +50,10 @@
                <biblScope unit="pages">142–144</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Le Père Lebonnard« von Jean Aicard</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #114, 5–6.
+         <note type="review-of">»Le Père Lebonnard« von Jean Aicard</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #114, 5–6.
                   (27.4.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Mit dem Père Lebonnard hat sich Novelli seinen ersten großen
+         <note type="incipit">Mit dem Père Lebonnard hat sich Novelli seinen ersten großen
                   Pariser Erfolg geholt</note>
       </body>
    </text>

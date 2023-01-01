@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_721" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Burgtheater. »Der Misanthrop« und »Tartuffe« von Molière,
                      übersetzt von Ludwig Fulda</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
             <imprint>
                <biblScope unit="jg">46</biblScope>
@@ -47,8 +47,8 @@
                <date when="1900-05-04">4.5.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Premièren, 24-28</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Es ist seltsam, daß Molière genau im nämlichen Alter wie
+         <note type="other-prints">Premièren, 24-28</note>
+         <note type="incipit">Es ist seltsam, daß Molière genau im nämlichen Alter wie
                   Shakespeare</note>
       </body>
    </text>

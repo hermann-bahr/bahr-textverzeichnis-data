@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Das Landhaus</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Secession</title>
             <imprint>
                <pubPlace>Wien</pubPlace>
@@ -48,21 +48,21 @@
                <biblScope unit="pages">48–53</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Die Zeit, 15 (1898) #191, 139–140. (28.5.1898)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich bin jetzt vierzehn Tage in Ischl gewesen, um mein neues
+         <note type="first-printing">Die Zeit, 15 (1898) #191, 139–140. (28.5.1898)</note>
+         <note type="incipit">Ich bin jetzt vierzehn Tage in Ischl gewesen, um mein neues
                   Stück fertig zu machen. Um diese Zeit ist Ischl ganz anders, als wir es kennen.
                   Im Sommer will es elegant sein, da lässt es die Fremden herrschen, selber scheint
                   es sich zu verstecken.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Die Landhäuser in Ischl werden von Bahr gegen die historistische
+         <note type="summary">Die Landhäuser in Ischl werden von Bahr gegen die historistische
                   Architektur der Ringstrasse ins Feld geführt; ihre schnörkellose Funktionalität
                   verweist auf die neue secessionistische Architektur.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11944"/>
                <ptr type="pmb" target="#4579"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/6-secession.pdf</ref>
       </body>
    </text>
 </TEI>

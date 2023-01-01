@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Gustav Schmoller</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
             <imprint>
@@ -49,13 +49,13 @@
                <biblScope unit="pages">32–38</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7647, Morgen–Ausgabe,
+         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7647, Morgen–Ausgabe,
                   1–2. (13.4.1893)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich muß, wie ich da in der großen, weiten Bibliothek seines
+         <note type="incipit">Ich muß, wie ich da in der großen, weiten Bibliothek seines
                   Häuschens wieder vor ihm sitze, der einst mein Lehrer war, an das Wort des Marx
                   denken: »Der Kleinbürger ist zusammengesetzt aus einerseits und
                   andererseits.«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12195"/>
                <ptr type="HB-tv" target="HB-tv_6695_p2"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_1443_p5"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -37,13 +37,13 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Sozial-politische Rundschau. XIX. »Der vierte Stand und der
                      Staatssocialismus. Zur Signatur der deutschen Gegenwart von einem
                      Nichtpolitiker«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Wochenschrift</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -52,12 +52,12 @@
                <date when="1884-06-15">15.6.1884</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Der vierte Stand und der Staatssozialismus. Zur Signatur des
+         <note type="review-of">Der vierte Stand und der Staatssozialismus. Zur Signatur des
                   deutschen Gegenwart. Von einem Nichtpolitiker. Leipzig: Hirzel 1884.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Unter dem etwas anspruchsvollen Titel: »Der vierte Stand und der
+         <note type="incipit">Unter dem etwas anspruchsvollen Titel: »Der vierte Stand und der
                   Staatssocialismus. Zur Signatur der deutschen Gegegnwart von einem Nichtpolitiker«
                   bietet uns Hirzel’s Verlag (Leipzig) ein anziehend geschriebenes Werkchen</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10943"/>
                <ptr type="HB-tv" target="HB-tv_4858_p3"/>

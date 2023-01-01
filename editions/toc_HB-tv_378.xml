@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_378" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Lyrisches</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36340">Die Zeit</title>
             <imprint>
                <biblScope unit="jg">7</biblScope>
@@ -45,18 +45,18 @@
                <date when="1896-05-16">16.5.1896</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Renaissance, 53-66 Wunberg: Das junge Wien, 96.26</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Neulich haben hier zwei junge Leute eine Vorlesung
+         <note type="other-prints">Renaissance, 53-66 Wunberg: Das junge Wien, 96.26</note>
+         <note type="incipit">Neulich haben hier zwei junge Leute eine Vorlesung
                   gehalten.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#14971"/>
                <ptr type="pmb" target="#4464"/>
                <ptr type="HB-tv" target="HB-tv_378_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/85-107.pdf</ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/85-108.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/85-107.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-7/85-108.pdf</ref>
       </body>
    </text>
 </TEI>

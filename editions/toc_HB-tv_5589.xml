@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">1. November [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">253–256</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">P. Heribert Holzapfel: Die Bedeutung des heiligen Franz von
+         <note type="review-of">P. Heribert Holzapfel: Die Bedeutung des heiligen Franz von
                   Assisi für die Gegenwart. In: Jahrbuch des Verbandes der Vereine katholischer
                   Akademiker zur Pflege der katholischen Weltanschauung. Düsseldorf: Schwann
                   1919</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ob ich nicht aber im Grunde vielleicht, ohne das selber zu
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Ob ich nicht aber im Grunde vielleicht, ohne das selber zu
                   wissen, doch eigentlich selber ein – Kommunist sei, fragt mich jemand und meint,
                   ich müßte darüber umfallen vor Schreck. Er sieht mich ratlos an, als ich antworte:
                   Kommunist? Hoffentlich! Schon weil mich ja verlangt, ein katholischer Christ zu
@@ -119,7 +119,7 @@
                   aushalten, er setzt Mächtige, die es in der Macht nicht mehr aushalten, voraus.
                   Arme sind meistens dem Kommunismus totfeind: sie wünschen sich ja noch reich zu
                   werden. Dem Kommunismus fehlt noch immer sein Mirabeau. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr ist Kommunist, wie jeder Franziskaner Kommunist ist.
+         <note type="summary">Bahr ist Kommunist, wie jeder Franziskaner Kommunist ist.
                   Voraussetzung für den Kommunisten alias radikalen Christen ist, dass man reich
                   ist, um geben zu können, und dass man geben kann, und nicht genommen wird.</note>
       </body>

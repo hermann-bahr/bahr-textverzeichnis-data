@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Novelli. (Gastspiel im Raimundtheater) 15. 6. Mai 1900</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
             <imprint>
                <pubPlace>München</pubPlace>
@@ -48,10 +48,10 @@
                <biblScope unit="pages">166–168</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Gli ultimi giorni di Goldoni« von Valentin Carrera</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 34 (1900) #123, 9.
+         <note type="review-of">»Gli ultimi giorni di Goldoni« von Valentin Carrera</note>
+         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #123, 9.
                   (6.5.1900)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Novelli in Gli ultimi giorni di Goldoni. Je länger man das
+         <note type="incipit">Novelli in Gli ultimi giorni di Goldoni. Je länger man das
                   wunderbare Wesen Novellis beobachtend zu erforschen sucht, desto deutlicher wird
                   man gewahr, worin das Geheimnis seiner einzigen Wirkung besteht</note>
       </body>

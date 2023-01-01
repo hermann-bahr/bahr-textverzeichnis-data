@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3863" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Weg und Ziel des deutschen Theaters</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Das Goldene Buch der Jungen</title>
             <editor>Bodenstedt, Hans</editor>
             <imprint>
@@ -46,17 +46,17 @@
                <biblScope unit="pages">148–153</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Eigentlich [1928].</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Deutsche Presse, 15 (1925) #47/48, 3–5. (25.11.1925)
+         <note type="first-printing">Deutsche Presse, 15 (1925) #47/48, 3–5. (25.11.1925)
                   Sächsische Volks–Zeitung, Dresden, 25 (1926) #31, [7]. (7.2.1926)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Bei den Griechen ist das Schauspiel in seinen Anfängen eine
+         <note type="incipit">Bei den Griechen ist das Schauspiel in seinen Anfängen eine
                   heilige Handlung. Hades raubt Demeter</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr beschreibt die gesellschaftliche Bedeutung des Theaters
+         <note type="summary">Bahr beschreibt die gesellschaftliche Bedeutung des Theaters
                   seit den Griechen und skizziert, auf welchem Weg das Theater diese wiederbekommen
                   kann.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11068"/>
                <ptr type="pmb" target="#11461"/>

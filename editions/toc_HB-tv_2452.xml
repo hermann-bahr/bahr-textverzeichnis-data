@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Woran arbeiten Sie?. Eine Rundfrage des »Neuen Wiener Journals«
                      an Schriftsteller und Musiker</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">33</biblScope>
@@ -50,7 +50,7 @@
                <date when="1925-04-02">2.4.1925</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Das Schreiben Bahrs an das Neue Wiener Journal, datiert vom 18. März, findet
                      sich in der Wienbibliothek. Neben Bahr antworten: Eugen d’Albert, Raoul
                      Auernheimer, Julius Bittner, Wilhelm Bölsche, Woldemar Bonsels, Max Brod,
@@ -60,11 +60,11 @@
                      Molo, Hans Müller, Rudolf Schanzer, Richard v. Schaukal, Wilhelm Speyer, Jakob
                      Wassermann, Felix Weingartner, Anton Wildgans und Stefan Zweig.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich arbeite zurzeit an einer kleinen Schrift über die neueste
+         <note type="incipit">Ich arbeite zurzeit an einer kleinen Schrift über die neueste
                   spanische Literatur</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr arbeitet an den »Notizen zur neueren spanischen Literatur«,
+         <note type="summary">Bahr arbeitet an den »Notizen zur neueren spanischen Literatur«,
                   einem Text zu Europa und an einem Roman, mutmaßlich der »Inwendige Garten«.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/19250402.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/19250402.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3768" type="Book_Section" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">[Beitrag]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Meister des Stils über Sprach- und Stillehre. Beiträge
                      zeitgenössischer Dichter und Schriftsteller zur Erneuerung des
                      Aufsatzunterrichts</title>
@@ -48,18 +48,18 @@
                <biblScope unit="pages">7</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Unter Bahrs Namen steht: »Salzburg. Geboren in Linz (Deutschösterreich) 1863«.
                      Bahrs Rezension des Buches im »Tagebuch« vom 6. Dezember 1921 (Liebe der
                      Lebenden, I, 369-374.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Auf Ihre Frage nach der Lehrbarkeit deutscher Prosa scheint mit
+         <note type="incipit">Auf Ihre Frage nach der Lehrbarkeit deutscher Prosa scheint mit
                   Antwort erst möglich nach Entscheidung einer Vorfrage, der Frage nämlich, zu
                   welcher Art deutscher Prosa wir uns bekennen sollen oder wollen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahr sieht die Frage darin aufgehend, ob das Deutsche lateinisch
+         <note type="summary">Bahr sieht die Frage darin aufgehend, ob das Deutsche lateinisch
                   konstruiert werden müsse, oder nach deutschen Regeln. Die Entscheidung kann für
                   ihn nur durch den »unbewußten Willen der Nation« gebracht werden.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11043"/>
                <ptr type="pmb" target="#2975"/>

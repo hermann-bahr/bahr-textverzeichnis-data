@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1193" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Politische Prognose</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36374">Neue Freie Presse</title>
             <imprint>
                <biblScope unit="issue">22797, Morgenblatt</biblScope>
@@ -44,19 +44,19 @@
                <date when="1928-03-04">4.3.1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Vorangestellt ist eine Distanzierung der Redaktion: »Wir veröffentlichen die
                      nachfolgenden Ausführungen des verehrten Verfassers, obwohl sie, wie unseren
                      Lesern genau bekannt, unserem Standpunkt widersprechen.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Willy Hellpach: Politische Prognose für Deutschland. Berlin:
+         <note type="review-of">Willy Hellpach: Politische Prognose für Deutschland. Berlin:
                   S. Fischer 1928</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Münchner Telegramm–Zeitung, 7 (1928) #47, 2.
+         <note type="first-printing">Münchner Telegramm–Zeitung, 7 (1928) #47, 2.
                   (7.3.1928)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 131–136</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ein Buch, das uns eine »Politische Prognose« verheißt, ist einer
+         <note type="other-prints">Labyrinth der Gegenwart, 131–136</note>
+         <note type="incipit">Ein Buch, das uns eine »Politische Prognose« verheißt, ist einer
                   neugierigen Leserschaft gewiß</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11933"/>
                <ptr type="HB-tv" target="HB-tv_3519_p1"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_3519_p4"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1928-3-4_politische-prognose.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1928-3-4_politische-prognose.pdf</ref>
       </body>
    </text>
 </TEI>

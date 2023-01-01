@@ -36,12 +36,12 @@
             type="Journal-Article"
             status="checked"
             sameAs="pmb30041">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a" ref="pmb30041">Drei Briefe von Hermann Bahr an den
                      Herausgeber</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="pmb30041">Die Opale</title>
             <imprint>
                <biblScope unit="jg">2</biblScope>
@@ -49,15 +49,15 @@
                <date when="1907">1907</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Als »Drei Briefe an Blei. Frühling 1907« in: Tagebuch
+         <note type="other-prints">Als »Drei Briefe an Blei. Frühling 1907« in: Tagebuch
                   (1909), 135–141</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Trotzdem, lieber Franz Blei</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <note type="incipit">Trotzdem, lieber Franz Blei</note>
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#10955"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/opale/1907_2_drei-briefe.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/opale/1907_2_drei-briefe.pdf</ref>
       </body>
    </text>
 </TEI>

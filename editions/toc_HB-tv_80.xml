@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_80" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Martin Buber</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Das Inselschiff. Eine Zeitschrift für die Freunde des
                      Insel-Verlages</title>
             <imprint>
@@ -46,14 +46,14 @@
                <date when="1928">1928</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Mit einer Fotografie Bubers von J. Schweig, Jerusalem. An den Text
                      anschließend: Martin Buber: An das Gleichzeitige (Geschrieben im Herbst
                      1914).</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Labyrinth der Gegenwart, 44-52</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Martin Buber ist Wiener und Jude von Geburt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/inselschiff/9-2_martin-buber.pdf</ref>
+         <note type="other-prints">Labyrinth der Gegenwart, 44-52</note>
+         <note type="incipit">Martin Buber ist Wiener und Jude von Geburt.</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/inselschiff/9-2_martin-buber.pdf</ref>
       </body>
    </text>
 </TEI>

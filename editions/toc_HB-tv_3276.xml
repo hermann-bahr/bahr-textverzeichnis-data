@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Timon von Athen. (Von Shakespeare. Im
                      Kaiserjubiläums-Stadttheater aufgeführt am 31. Januar 1905)</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
             <imprint>
@@ -51,9 +51,9 @@
                <biblScope unit="pages">449–454</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Tagblatt, 39 (1905) #32, 15.
+         <note type="first-printing">Neues Wiener Tagblatt, 39 (1905) #32, 15.
                   (1.2.1905)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">So ist die Reihe: Lear, dann Antonius, nun holt er Atem, Troilus
+         <note type="incipit">So ist die Reihe: Lear, dann Antonius, nun holt er Atem, Troilus
                   folgt, Coriolan, aber wie einer, der sinnlos losschlägt</note>
       </body>
    </text>

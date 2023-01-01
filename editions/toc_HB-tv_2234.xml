@@ -36,12 +36,12 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur.
                      Kaiserjubiläums-Stadttheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">40</biblScope>
@@ -50,10 +50,10 @@
                <date when="1906-03-17">17.3.1906</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Teut« von Robert Hamerling</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Studenten im Parkett und in den Logen, Studenten auf der Bühne,
+         <note type="review-of">»Teut« von Robert Hamerling</note>
+         <note type="incipit">Studenten im Parkett und in den Logen, Studenten auf der Bühne,
                   überall Lust und Mut und blitzendes Auge. Das Gaudeamus steigt</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#7674"/>
                <ptr type="pmb" target="#4030"/>
@@ -63,7 +63,7 @@
                <ptr type="HB-tv" target="HB-tv_2234_p2"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -33,7 +33,7 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3555" type="Book" status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#5024">Manzoni, Alessandro</author>
             <title level="m">Schriften zur Philosophie und Ästhetik. Ins Deutsche übertragen
                      von Franz Arens</title>
@@ -46,10 +46,10 @@
             </imprint>
             <extent>614 Seiten</extent>
          </monogr>
-         <series xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <series>
             <title level="s">Werke. 5</title>
          </series>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Von den geplanten 10 Bänden sind nur die Bände 3 - 6 erschienen. Von diesen
                      gibt es jeweils eine numerierte Vorzugsausgabe auf Bütten von 250
                      Exemplaren.</p>

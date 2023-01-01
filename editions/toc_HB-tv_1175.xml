@@ -35,10 +35,10 @@
             type="Journal-Article"
             subtype="Unsichere_Zuschreibung"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Clémenceau</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41471">Deutsche Zeitung</title>
             <imprint>
                <biblScope unit="jg">23</biblScope>
@@ -47,7 +47,7 @@
                <date when="1893-06-21">21.6.1893</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Der Artikel ist datiert mit »Wien, 20. Juni« und von keinem Autor gezeichnet.
                      Erste Motivation für die Zuschreibung ist ein Fragment der linken oberen Ecke
                      der Titelseite, das sich im Nachlass Bahrs findet und auf das Anna
@@ -68,11 +68,11 @@
                      Bahrs!) Linzer Bauernkönig Hans Kirchmayr, für dessen Sonntagsblatt Bahr
                      geschrieben hatte, und auf Zola und Stendhal.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Die französische Kammer hat gestern eine beispiellose Scene
+         <note type="incipit">Die französische Kammer hat gestern eine beispiellose Scene
                   erlebt.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Wieso so viel Freude beim politischen Fall von Clémenceau
+         <note type="summary">Wieso so viel Freude beim politischen Fall von Clémenceau
                   empfunden wird.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4719"/>
                <ptr type="pmb" target="#21481"/>

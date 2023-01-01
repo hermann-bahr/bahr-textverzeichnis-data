@@ -37,13 +37,13 @@
             type="Journal-Article"
             subtype="Rezension"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Literarische Anzeigen. Die Theorie des Aristoteles und die
                      Tragödie der antiken, christlichen, naturwissenschaftlichen
                      Weltanschauung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Worte, Wien</title>
             <imprint>
                <biblScope unit="jg">9</biblScope>
@@ -52,12 +52,12 @@
                <date when="1889">1889</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">A. Dehlen: Die Theorie des Aristoteles und die Tragödie der
+         <note type="review-of">A. Dehlen: Die Theorie des Aristoteles und die Tragödie der
                   antiken, christlichen, naturwissenschaftlichen Weltanschauung. Göttingen:
                   Vandenhoeck &amp; Ruprecht 1885.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Eine fesselnde Abhandlung, die freien Geist und befangene
+         <note type="incipit">Eine fesselnde Abhandlung, die freien Geist und befangene
                   Pedanten wunderlich gemischt zeigt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#13474"/>
                <ptr type="pmb" target="#12654"/>
@@ -65,7 +65,7 @@
                <ptr type="HB-tv" target="HB-tv_3917_p1"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1889_deutsche-worte.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1889_deutsche-worte.pdf</ref>
       </body>
    </text>
 </TEI>

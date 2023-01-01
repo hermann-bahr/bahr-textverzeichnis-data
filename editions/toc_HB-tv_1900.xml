@@ -33,12 +33,12 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_1900" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur.
                      Kaiserjubiläums-Stadttheater</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">36</biblScope>
@@ -47,12 +47,12 @@
                <date when="1902-04-22">22.4.1902</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Die Tochter des Oedipus« von Eugen von Jagow</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Rezensionen, 460-464</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Die Tochter des Oedipus«, Trauerspiel in fünf Acten, unter
+         <note type="review-of">»Die Tochter des Oedipus« von Eugen von Jagow</note>
+         <note type="other-prints">Rezensionen, 460-464</note>
+         <note type="incipit">»Die Tochter des Oedipus«, Trauerspiel in fünf Acten, unter
                   freier Benützung des »König Oedipus« und der »Antigone« von Sophokles, von Eugen
                   v. Jagow. Der Autor hat sich selbst über seine Absichten so geäußert:</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

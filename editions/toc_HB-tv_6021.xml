@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. 24. April</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">28</biblScope>
@@ -48,8 +48,8 @@
                <date when="1920-05-16">16.5.1920</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Kritik der Gegenwart, 120</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das gefährlichste monarchistische Komplott ist aber doch diese
+         <note type="other-prints">Kritik der Gegenwart, 120</note>
+         <note type="incipit">Das gefährlichste monarchistische Komplott ist aber doch diese
                   Republik selber! Vor ihr waren wir eigentlich alle doch heimliche Republikaner;
                   erst jetzt wird’s uns unheimlich. Denn damals wirkte ja bis tief in meine
                   Generation hinein, ja selbst über sie hinaus das Jahr Achtundvierzig noch nach.
@@ -64,9 +64,9 @@
                   zwischen einer aristokratischen und einer demokratischen Republik. Die dritte Form
                   ahnte man noch nicht. Man wußte nicht, daß es auch eine Kleptokratie gibt.
                   |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Österreich sei keine demokratische Republik geworden, sondern
+         <note type="summary">Österreich sei keine demokratische Republik geworden, sondern
                   eine Klepotkratie.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

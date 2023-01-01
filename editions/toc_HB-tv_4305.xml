@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Vortrag"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Hermann Bahr über freie Erziehung</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">19</biblScope>
@@ -48,7 +48,7 @@
                <date when="1911-03-27">27.3.1911</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Editorische Einleitung: »Nach der am Samstag im Turnsaal des neuen
                      Vereinshauses abgehaltenen Generalversammlung des Vereines »Freie Schule«, bei
                      der nach den Referaten des Abgeordneten Baron Hock und des Sekretärs Spreiser
@@ -58,14 +58,14 @@
                      und mutigen Ausführungen, mit starkem Temperament und großer oratischer Kunst
                      vorgebracht, fanden an vielen Stellen stürmische Zustimmung.«</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Hermann Bahr über freie Erziehung« in: Salzburger
+         <note type="first-printing">Als »Hermann Bahr über freie Erziehung« in: Salzburger
                   Wacht, 12 (1911) #75, 10–11 und #92, 9–10. (1. bzw. 22.4.1911)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Hermann Bahr: Freie Erziehung. Vortrag, gehalten anlässlich
+         <note type="other-prints">Hermann Bahr: Freie Erziehung. Vortrag, gehalten anlässlich
                   der Jahres-Versammlung des Vereines Freie Schule am 26. März 1911 im Wiener
                   Kolosseum. Wien: Verlag des Vereines Freie Schule 1911.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Ist jemand unter Ihnen«, begann Hermann Bahr, »der einen
+         <note type="incipit">»Ist jemand unter Ihnen«, begann Hermann Bahr, »der einen
                   Menschen kennt?«</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/6260.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/6260.pdf</ref>
       </body>
    </text>
 </TEI>

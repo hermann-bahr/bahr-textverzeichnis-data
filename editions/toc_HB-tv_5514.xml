@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">23. Februar [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,8 +48,8 @@
                <biblScope unit="pages">64–68</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Seltsam: von Pascal aus, an den mich das Barock als an seinen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">Seltsam: von Pascal aus, an den mich das Barock als an seinen
                   größten Widersacher, da doch jede Sache der Widersacher erst ganz verstehen lehrt,
                   wies, ist mir jetzt erst der volle Sinn der Karamasoff Dostojewskis aufgegangen.
                   Denn so wenig man dies anzunehmen zunächst geneigt sein wird, sie behandeln beide
@@ -151,7 +151,7 @@
                   Wirklichkeit zu brechen. Und vielleicht hängt alle Zukunft des Abendlands davon
                   ab, ob es noch gelingen wird, Lenin »auf den Jesuitenweg« zu bringen: zur
                   Anerkennung der Wirklichkeit. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Über das Verhältnis von Pascal und Dostojewskij.</note>
+         <note type="summary">Über das Verhältnis von Pascal und Dostojewskij.</note>
       </body>
    </text>
 </TEI>

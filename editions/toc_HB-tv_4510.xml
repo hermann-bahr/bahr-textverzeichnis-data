@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Umfrage"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Ostereiersprüche</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Berliner Lokalanzeiger</title>
             <imprint>
                <biblScope unit="jg">30</biblScope>
@@ -48,9 +48,9 @@
                <date when="1912-04-07">7.4.1912</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal, 20 (1912) #6630, 3.
+         <note type="first-printing">Neues Wiener Journal, 20 (1912) #6630, 3.
                   (9.4.1912)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da sie einen Osterwunsch für unser Volk freistellen, sei’s der,
+         <note type="incipit">Da sie einen Osterwunsch für unser Volk freistellen, sei’s der,
                   daß jeder Deutsche sich und das Seine freudig bejahen lerne, statt nur immer die
                   anderen und das ihre hämisch kritisch zu verneinen.</note>
       </body>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3712" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">»Vokabular«</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Dresdner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">35</biblScope>
@@ -45,9 +45,9 @@
                <date when="1927-04-17">17.4.1927</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Vocabular« in: Münchner Neueste Nachrichten, 80
+         <note type="first-printing">Als »Vocabular« in: Münchner Neueste Nachrichten, 80
                   (1927) #50, 1–2. (20.2.1927)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Demokratie beruht auf der Annahme, daß jedemann selbst am besten
+         <note type="incipit">Demokratie beruht auf der Annahme, daß jedemann selbst am besten
                   wissen muß</note>
       </body>
    </text>

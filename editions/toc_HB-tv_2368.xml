@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Nachtkritik"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">H. B.</author>
             <title level="a">Theater, Kunst und Literatur. Theater in der Josephstadt</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
             <imprint>
                <biblScope unit="jg">34</biblScope>
@@ -48,13 +48,13 @@
                <date when="1900-12-08">8.12.1900</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Coralie &amp; Cie.« von Albin Valabrègue und Maurice
+         <note type="review-of">»Coralie &amp; Cie.« von Albin Valabrègue und Maurice
                   Hennequin, deutsch von Otto Eisenschitz</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Coralie &amp; Cie.«, Schwank in drei Acten von Albin Valabregue
+         <note type="incipit">»Coralie &amp; Cie.«, Schwank in drei Acten von Albin Valabregue
                   und Maurice Hennequin für die deutsche Bühne bearbeitet von Otto Eisenschitz.
                   Madame Coralie ist eine große Pariser Schneiderin, die nebenbei auch galante
                   Abenteuer vermittelt.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#26355"/>
                <ptr type="pmb" target="#18114"/>
@@ -64,7 +64,7 @@
                <ptr type="HB-tv" target="HB-tv_1917_p8"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
       </body>
    </text>
 </TEI>

@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Tagebuch_Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">22. November [1920]</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Kritik der Gegenwart</title>
             <imprint>
                <pubPlace>Augsburg</pubPlace>
@@ -48,11 +48,11 @@
                <biblScope unit="pages">281–283</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">Paschalis Schmid: Als Herre Krist geboren ward.
+         <note type="review-of">Paschalis Schmid: Als Herre Krist geboren ward.
                   Christnachtsröselein gebrochen dem ewigen Lieb. München: Gesellschaft für
                   christliche Kunst 1921.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Neues Wiener Journal</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">»Als Herre Krist geboren ward. Christnachtsröselein gebrochen
+         <note type="first-printing">Neues Wiener Journal</note>
+         <note type="incipit">»Als Herre Krist geboren ward. Christnachtsröselein gebrochen
                   dem ewigen Lieb« von Paschalis Schmid; mit hundertvier meist ganzseitigen Bildern
                   in Tonüberdruck sowie zahlreichen Initialen in Altrot (München 1921, Gesellschaft
                   für christliche Kunst). Das ist für Aug und Ohr, für Kopf und Herz, für alt und
@@ -88,7 +88,7 @@
                   Händen, das bißl Zeit, das mir noch bleibt, getrost auf einer einsamen Insel
                   verbringen, ich nähme die Heilige Schrift mit und brauchte dann für den Rest
                   wahrhaftig mein Lebtag nichts Gedrucktes mehr. |</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Auf die Insel nähme Bahr dieses Weihnachtsbuch und die Bibel
+         <note type="summary">Auf die Insel nähme Bahr dieses Weihnachtsbuch und die Bibel
                   mit.</note>
       </body>
    </text>

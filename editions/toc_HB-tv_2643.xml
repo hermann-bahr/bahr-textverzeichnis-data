@@ -36,12 +36,12 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Die Kunst auf der Pariser Weltausstellung 1889. III. L’exposition
                      des artistes étrangers</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
             <imprint>
                <pubPlace>Zürich</pubPlace>
@@ -50,15 +50,15 @@
                <biblScope unit="pages">224–232</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Pariser Kunstbriefe« Teil III, IV und V in: Der
+         <note type="first-printing">Als »Pariser Kunstbriefe« Teil III, IV und V in: Der
                   Kunstwart, 2 (1889) #20, 314–315, #22, 347–348 und #23, 362–363</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Ich habe, bevor ich mich nach der Ausstellung des Auslandes
+         <note type="incipit">Ich habe, bevor ich mich nach der Ausstellung des Auslandes
                   wende, noch einiges über die französische nachzutragen.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Kurz und mit eindeutig wertend beschreibt Bahr die Ausstellung
+         <note type="summary">Kurz und mit eindeutig wertend beschreibt Bahr die Ausstellung
                   der ausländischen Werke, von der skandinavischen als der lobenswertesten bis zu
                   den italienischen, spanischen und griechischen Ausstellung, die sich »jämmerlich«
                   ausnehmen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#12582"/>
                <ptr type="pmb" target="#5359"/>
@@ -242,7 +242,7 @@
                <ptr type="HB-tv" target="HB-tv_115_p6"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -35,7 +35,7 @@
             type="Book"
             sameAs="pmb29945"
             status="checked">
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="m" ref="pmb29945">Erinnerung an Burckhard</title>
             <imprint>
@@ -45,7 +45,7 @@
             </imprint>
             <extent>136 Seiten</extent>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Mit drei Porträts von Burckhard. Am 28.6.1913 teilt Bahr Fischer mit, dass das
                      Manuskript fast fertig ist. Im 1. Juli-Heft des »Merkers« ist das 2. Kapitel
                      vorabgedruckt, das Buch wird für Herbst angekündigt. Am 18. August ist es
@@ -62,17 +62,17 @@
                      Hermann Bahr: Erinnerungen an Burckhard. In: Die Persönlichkeit, 1 (1914) #2
                      (Februar), 141–142.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Burckhards Burgtheater« in: Der Merker 4 (1913),
+         <note type="first-printing">Als »Burckhards Burgtheater« in: Der Merker 4 (1913),
                   496–507 Als »Burckhards Karriere« in: Neue Freie Presse, 30.7.1913 Als »Erinnerung
                   an Burckhard« in: Die neue Rundschau, 24 (1913) #2, 943–956.</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Auszug in: Das 27. Jahr. Berlin: S. Fischer 1913,
+         <note type="other-prints">Auszug in: Das 27. Jahr. Berlin: S. Fischer 1913,
                   52-57.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#11036"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20burckhard</ref>
+         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20burckhard</ref>
       </body>
    </text>
 </TEI>

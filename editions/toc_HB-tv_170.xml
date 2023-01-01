@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Kurzbesprechungen"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Von neuer Kunst</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="#36149">Freie Bühne für modernes Leben</title>
             <imprint>
                <biblScope unit="jg">1</biblScope>
@@ -48,15 +48,15 @@
                <date when="1890-07-09">9.7.1890</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Zwei weitere Texte sind von O. B. [=Otto Brahm] verfasst.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Die Überwindung des Naturalismus, 29-32</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Emilia Pardo Bazan »Por Francia y por Alemania« (Madrid, la
+         <note type="other-prints">Die Überwindung des Naturalismus, 29-32</note>
+         <note type="incipit">Emilia Pardo Bazan »Por Francia y por Alemania« (Madrid, la
                   España Editorial). Ein wunderliches Durcheinander draußen, auf dem Titel</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Emilia Pardo Bazan; Ola Hansson, »Parias«; Naturalismus und
+         <note type="summary">Emilia Pardo Bazan; Ola Hansson, »Parias«; Naturalismus und
                   Theater</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#5864"/>
                <ptr type="pmb" target="#4954"/>
@@ -81,7 +81,7 @@
                <ptr type="HB-tv" target="HB-tv_4053_p7"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1890-23_von-neuer-kunst.pdf</ref>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/freie-buehne/1890-23_von-neuer-kunst.pdf</ref>
       </body>
    </text>
 </TEI>

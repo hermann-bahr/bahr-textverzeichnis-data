@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_2578" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Dichter und Journalist</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Münchner Neueste Nachrichten</title>
             <imprint>
                <biblScope unit="jg">82</biblScope>
@@ -45,14 +45,14 @@
                <date when="1929-09-06">6.9.1929</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Als »Felix Salten zum 60. Geburtstag« in: Neue Freie
+         <note type="first-printing">Als »Felix Salten zum 60. Geburtstag« in: Neue Freie
                   Presse, (1929) #23340, Morgenblatt, 1–2. (6.9.1929)</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Emile Zola starb am 29. September 1902. Die Nachricht kam
+         <note type="incipit">Emile Zola starb am 29. September 1902. Die Nachricht kam
                   nachmittag nach Wien</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Bahrs Lob Saltens ist eigentlich ein Aufsatz über das Wiener
+         <note type="summary">Bahrs Lob Saltens ist eigentlich ein Aufsatz über das Wiener
                   Feuilleton, worin Salten nur am Rande vorkommt, sozusagen als äußerer
                   Rahmen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#2167"/>
                <ptr type="pmb" target="#13194"/>

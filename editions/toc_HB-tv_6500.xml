@@ -35,11 +35,11 @@
             type="Journal-Article"
             subtype="Tagebuch"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">Bahr, Hermann</author>
             <title level="a">Tagebuch. Unterach am Attersee, 28. Juli</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j" ref="36376">Neues Wiener Journal</title>
             <imprint>
                <biblScope unit="jg">32</biblScope>
@@ -48,12 +48,12 @@
                <date when="1924-08-03">3.8.1924</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Der Zauberstab, 112–116</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Nie wieder Krieg! Wer stimmte nicht freudig in den frommen
+         <note type="other-prints">Der Zauberstab, 112–116</note>
+         <note type="incipit">Nie wieder Krieg! Wer stimmte nicht freudig in den frommen
                   Wunsch ein?</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Insofern Leben seinen Wert erst durch Gefahr bekomme, scheint
+         <note type="summary">Insofern Leben seinen Wert erst durch Gefahr bekomme, scheint
                   Bahr der Satz »Nie wieder Krieg« eine falsche Forderung zu sein.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
       </body>
    </text>
 </TEI>

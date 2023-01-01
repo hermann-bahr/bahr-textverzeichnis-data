@@ -35,11 +35,11 @@
             type="Book_Section"
             subtype="Buchtext"
             status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <title level="a">Herder</title>
             <author ref="#10815">Bahr, Hermann</author>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="m">Labyrinth der Gegenwart</title>
             <imprint>
                <pubPlace>Hildesheim</pubPlace>
@@ -48,12 +48,12 @@
                <biblScope unit="pages">19–27</biblScope>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="first-printing">Preußische Jahrbücher, 213 (1928) #1, 11–16</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Da wir Deutschen nun einmal schon ohne irgendeinen Ismus nicht
+         <note type="first-printing">Preußische Jahrbücher, 213 (1928) #1, 11–16</note>
+         <note type="incipit">Da wir Deutschen nun einmal schon ohne irgendeinen Ismus nicht
                   leben können...</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">Herder, von Bahr zwischen Barock und Aufklärung verortet, wird
+         <note type="summary">Herder, von Bahr zwischen Barock und Aufklärung verortet, wird
                   der Jugend als Zusatz zu Hölderlin und Kleist empfohlen.</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="personenindex">
+         <ref type="personenindex">
             <listRef>
                <ptr type="pmb" target="#4996"/>
                <ptr type="pmb" target="#11461"/>
@@ -82,7 +82,7 @@
                <ptr type="HB-tv" target="HB-tv_3493_p10"/>
             </listRef>
          </ref>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
       </body>
    </text>
 </TEI>

@@ -32,11 +32,11 @@
    </teiHeader>
    <text>
       <body xml:id="HB-tv_3920" type="Journal-Article" status="checked">
-         <analytic xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <analytic>
             <author ref="#10815">hr</author>
             <title level="a">König und Bauer. (Von Lope de Vega)</title>
          </analytic>
-         <monogr xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <monogr>
             <title level="j">Deutsche Wochenschrift</title>
             <imprint>
                <biblScope unit="jg">6</biblScope>
@@ -45,14 +45,14 @@
                <date when="1888">1888</date>
             </imprint>
          </monogr>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <note>
             <p>Die Première im Burgtheater fand am 29.4.1888 statt.</p>
          </note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="review-of">»Alcade de Zalamea (König und Bauer)« von Lope de Vega,
+         <note type="review-of">»Alcade de Zalamea (König und Bauer)« von Lope de Vega,
                   deutsch von Ludwig Halm</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="other-prints">Zur Kritik der Moderne, 90-92</note>
-         <note xmlns:tei="http://www.tei-c.org/ns/1.0" type="incipit">Das ist ja überhaupt ein müßiger Streit</note>
-         <ref xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-wochenschrift/1888_deutschte-wochenschrift.pdf</ref>
+         <note type="other-prints">Zur Kritik der Moderne, 90-92</note>
+         <note type="incipit">Das ist ja überhaupt ein müßiger Streit</note>
+         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-wochenschrift/1888_deutschte-wochenschrift.pdf</ref>
       </body>
    </text>
 </TEI>
