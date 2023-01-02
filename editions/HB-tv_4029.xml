@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Die Arbeiter und die Cultur</title>
-            <title when-iso=""/>
+            <title type="iso-date">1887</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4029" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Die Arbeiter und die Cultur</title>
-            <author ref="#10815">H–R</author>
-         </analytic>
-         <monogr>
-            <title level="m">Österreichischer Arbeiterkalender auf das Jahr 1888</title>
-            <editor>Redaction des »Volksfreund« in Brünn</editor>
-            <imprint>
-               <pubPlace>Wien</pubPlace>
-               <publisher>W. Jacobi</publisher>
-               <date when="1887">1887</date>
-               <biblScope unit="pages">61–64</biblScope>
-            </imprint>
-         </monogr>
-         <note type="incipit">Einige sind der Ansicht, der Socialismus wäre nichts als eine
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4029" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Die Arbeiter und die Cultur</title>
+                  <author ref="#10815">H–R</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Österreichischer Arbeiterkalender auf das Jahr 1888</title>
+                  <editor>Redaction des »Volksfreund« in Brünn</editor>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>W. Jacobi</publisher>
+                     <date when="1887">1887</date>
+                     <biblScope unit="pages">61–64</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Einige sind der Ansicht, der Socialismus wäre nichts als eine
                   Magenfrage.</note>
-         <note type="summary">Bahrs Text stellt den Sozialismus als Produkt der bürgerlichen
+               <note type="summary">Bahrs Text stellt den Sozialismus als Produkt der bürgerlichen
                   Freiheitsbewegung dar, die einerseits zu Arbeitssklaven geführt hat, andererseits
                   in der Fabrik auch dem Menschen Unterordnung, Gleichheit und Gemeinschaft erkennen
                   hat lassen.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1887_arbeiterkalender.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1887_arbeiterkalender.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

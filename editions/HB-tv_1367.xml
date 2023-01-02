@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Parsifalschutz ohne Ausnahmegesetz</title>
-            <title when-iso=""/>
+            <title type="iso-date">1912</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1367"
-            type="Book"
-            sameAs="pmb30037"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30037">Parsifalschutz ohne Ausnahmegesetz</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>Schuster &amp; Loeffler</publisher>
-               <date when="1912">1912</date>
-            </imprint>
-            <extent>44 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Eine Vorbemerkung ist datiert mit: »Bayreuth, 10. August 1912«. Am 17.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1367"
+                        type="Book"
+                        sameAs="pmb30037"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30037">Parsifalschutz ohne Ausnahmegesetz</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>Schuster &amp; Loeffler</publisher>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <extent>44 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Eine Vorbemerkung ist datiert mit: »Bayreuth, 10. August 1912«. Am 17.
                      September fragt Bahr Redlich, ob er das Buch schon erhalten habe (Bahr/Redlich,
                      83).</p>
-            <p>Rezensionen: »lm« in: Börsenblatt des deutschen Buchhandels, 79 (1912) #224,
+                  <p>Rezensionen: »lm« in: Börsenblatt des deutschen Buchhandels, 79 (1912) #224,
                      11276–11277. (25.12.1912)</p>
-         </note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=77</ref>
+               </note>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=77</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

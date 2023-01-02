@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Welche Bücher schenken Sie zu Weihnachten?</title>
-            <title when-iso=""/>
+            <title type="iso-date">1925-11-29</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,37 +26,41 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3562"
-            type="Journal-Article"
-            subtype="Umfrage"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Welche Bücher schenken Sie zu Weihnachten?</title>
-         </analytic>
-         <monogr>
-            <title level="j">Prager Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">50</biblScope>
-               <biblScope unit="issue">278</biblScope>
-               <biblScope unit="pages">3</biblScope>
-               <date when="1925-11-29">29.11.1925</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Leipziger Tageblatt und Handelszeitung, 119 (1925) #329,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3562"
+                        type="Journal-Article"
+                        subtype="Umfrage"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Welche Bücher schenken Sie zu Weihnachten?</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Prager Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">50</biblScope>
+                     <biblScope unit="issue">278</biblScope>
+                     <biblScope unit="pages">3</biblScope>
+                     <date when="1925-11-29">29.11.1925</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Leipziger Tageblatt und Handelszeitung, 119 (1925) #329,
                   3–4, hier: 4. (29.11.1925)</note>
-         <note type="incipit">Auf Ihre Anfrage, welches Buch ich einer Frau, einem Kinde und
+               <note type="incipit">Auf Ihre Anfrage, welches Buch ich einer Frau, einem Kinde und
                   meinem Freunde zu Weihnachten schenken würde, antworte ich: dem Kinde den
                   »Robinson«, der Frau Goethes »Wahlverwandschaften« und dem Freunde Stifters
                   »Witiko«.|</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#12851"/>
-               <ptr type="HB-tv" target="HB-tv_4428_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1925-11-29_welche-buecher.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#12851"/>
+                     <ptr type="HB-tv" target="HB-tv_4428_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prager-tagblatt/1925-11-29_welche-buecher.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

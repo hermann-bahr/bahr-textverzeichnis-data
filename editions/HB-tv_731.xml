@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      Aischylos. – Nach der Übersetzung Ullrich [!] v. Wilamowitz.Moellendorff’s für
                      die moderne Bühne bearbeitet. – Zum erstenmal aufgeführt im Burgtheater am 6.
                      Dezember</title>
-            <title when-iso=""/>
+            <title type="iso-date">1900-12-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,32 +29,36 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_731" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Die Orestie. Tragödie in drei Stücken aus dem Griechischen des
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_731" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Die Orestie. Tragödie in drei Stücken aus dem Griechischen des
                      Aischylos. – Nach der Übersetzung Ullrich [!] v. Wilamowitz.Moellendorff’s für
                      die moderne Bühne bearbeitet. – Zum erstenmal aufgeführt im Burgtheater am 6.
                      Dezember</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">46</biblScope>
-               <biblScope unit="issue">336</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1900-12-07">7.12.1900</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Nicht in die 2 Kreuzer-Ausgabe aufgenommen.</p>
-         </note>
-         <note type="review-of">»Die Orestie« von Aischylos, deutsch von Ulrich
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">46</biblScope>
+                     <biblScope unit="issue">336</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1900-12-07">7.12.1900</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Nicht in die 2 Kreuzer-Ausgabe aufgenommen.</p>
+               </note>
+               <note type="review-of">»Die Orestie« von Aischylos, deutsch von Ulrich
                   Wilamowitz-Moellendorf</note>
-         <note type="other-prints">Premièren, 33-40 H. B.: Kritiken. Hg. Kindermann. Wien:
+               <note type="other-prints">Premièren, 33-40 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 265-271</note>
-         <note type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
+               <note type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
                   erkennen</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

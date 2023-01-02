@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Schwarz und Weiß</title>
-            <title when-iso=""/>
+            <title type="iso-date">1910-07-09</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,38 +26,42 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3708" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Schwarz und Weiß</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36374">Neue Freie Presse</title>
-            <imprint>
-               <biblScope unit="issue">16479, Morgenblatt</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1910-07-09">9.7.1910</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Über den Boxkampf zwischen James J. Jeffries und »Jack« Johnson am 4. Juli
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3708" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Schwarz und Weiß</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36374">Neue Freie Presse</title>
+                  <imprint>
+                     <biblScope unit="issue">16479, Morgenblatt</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1910-07-09">9.7.1910</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Über den Boxkampf zwischen James J. Jeffries und »Jack« Johnson am 4. Juli
                      1910, der von Jeffries zu einer Auseinandersetzung zwischen schwarzer und
                      weißer Rasse stilisiert wurde.</p>
-         </note>
-         <note type="incipit">Reno in Nevada, bei den Amerikanern sehr beliebt und gern
+               </note>
+               <note type="incipit">Reno in Nevada, bei den Amerikanern sehr beliebt und gern
                   ausgesucht</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2381"/>
-               <ptr type="pmb" target="#3504"/>
-               <ptr type="pmb" target="#4337"/>
-               <ptr type="HB-tv" target="HB-tv_3708_p1"/>
-               <ptr type="HB-tv" target="HB-tv_3708_p2"/>
-               <ptr type="HB-tv" target="HB-tv_3506_p1"/>
-               <ptr type="HB-tv" target="HB-tv_147_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1910-7-9_schwarz-und-weiss.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2381"/>
+                     <ptr type="pmb" target="#3504"/>
+                     <ptr type="pmb" target="#4337"/>
+                     <ptr type="HB-tv" target="HB-tv_3708_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_3708_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_3506_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_147_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1910-7-9_schwarz-und-weiss.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

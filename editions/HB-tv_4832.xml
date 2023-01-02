@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
-            <title when-iso=""/>
+            <title type="iso-date">1905-01-13</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,32 +26,36 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4832" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">H. B.</author>
-            <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">39</biblScope>
-               <biblScope unit="issue">13</biblScope>
-               <biblScope unit="pages">9–10</biblScope>
-               <date when="1905-01-13">13.1.1905</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Mirandolina (La Locandiera)« von Carlo Goldoni</note>
-         <note type="other-prints">Glossen, 354-356. H. B.: Kritiken. Hg. Kindermann. Wien:
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4832" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">H. B.</author>
+                  <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">39</biblScope>
+                     <biblScope unit="issue">13</biblScope>
+                     <biblScope unit="pages">9–10</biblScope>
+                     <date when="1905-01-13">13.1.1905</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Mirandolina (La Locandiera)« von Carlo Goldoni</note>
+               <note type="other-prints">Glossen, 354-356. H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 380-381.</note>
-         <note type="incipit">Die Duse hat nun auch die Locandiera wieder einmal
+               <note type="incipit">Die Duse hat nun auch die Locandiera wieder einmal
                   gespielt</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#5892"/>
-               <ptr type="pmb" target="#11201"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#5892"/>
+                     <ptr type="pmb" target="#11201"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

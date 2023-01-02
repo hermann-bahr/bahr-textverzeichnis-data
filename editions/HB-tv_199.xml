@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der neue Stil. Ein Wiener Interview. I. Josef Lewinsky. II. Hugo
                      Thimig</title>
-            <title when-iso=""/>
+            <title type="iso-date">1892-10-09</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,28 +27,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_199" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Der neue Stil. Ein Wiener Interview. I. Josef Lewinsky. II. Hugo
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_199" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Der neue Stil. Ein Wiener Interview. I. Josef Lewinsky. II. Hugo
                      Thimig</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41471">Deutsche Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">22</biblScope>
-               <biblScope unit="issue">7464, Sonntags-Ausgabe</biblScope>
-               <biblScope unit="pages">1–4</biblScope>
-               <date when="1892-10-09">9.10.1892</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Studien zur Kritik der Moderne, 269-278</note>
-         <note type="incipit">Man hört jetzt viel von einem neuen Stil der
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41471">Deutsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">22</biblScope>
+                     <biblScope unit="issue">7464, Sonntags-Ausgabe</biblScope>
+                     <biblScope unit="pages">1–4</biblScope>
+                     <date when="1892-10-09">9.10.1892</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Studien zur Kritik der Moderne, 269-278</note>
+               <note type="incipit">Man hört jetzt viel von einem neuen Stil der
                   Schauspielerei</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74641.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74642.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74643.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74644.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74641.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74642.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74643.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74644.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

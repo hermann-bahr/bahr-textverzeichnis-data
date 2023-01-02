@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">4. August [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5562"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">4. August [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">196–197</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Aus dem Augustheft von » Thee London Mercury« (Editor J. C.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5562"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">4. August [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">196–197</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Aus dem Augustheft von » Thee London Mercury« (Editor J. C.
                   Squire) ersehe ich, daß London zurzeit über ein Bauprojekt in einem Aufruhr ist,
                   den Kunstfragen dort selten erregen. Es handelt sich um einen von Sir Frank Baines
                   am Hyde park Corner geplanten »Turm« zur Erinnerung an die Toten des Krieges. Der
@@ -65,9 +62,11 @@
                   Sachunverständigen entschieden wurden, daß jetzt auch dort schon dazu das Urteil
                   aller Ahnungslosen eingeholt wird, ist doch eine bedenkliche Näherung an
                   Mitteleuropa. Sie sollten sich nicht zu sehr entinseln! |</note>
-         <note type="summary">Dass in London über ein zeitgenössisches Bauprojekt gestritten
+               <note type="summary">Dass in London über ein zeitgenössisches Bauprojekt gestritten
                   wird, begrüßt Bahr, der es abzulehnen scheint. Dass aber nicht nur Menschen mit
                   Sachverstand gefragt werden, findet er falsch.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

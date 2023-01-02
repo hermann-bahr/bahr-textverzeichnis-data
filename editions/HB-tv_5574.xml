@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">7. September [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5574"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">7. September [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">215–216</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Kerr zieht im Septemberheft der »Neuen Rundschau« Fischers die
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5574"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">7. September [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">215–216</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Kerr zieht im Septemberheft der »Neuen Rundschau« Fischers die
                   Bilanz des heutigen deutschen Theaters: »Zwei Gegenrichtungen werden kenntlich.
                   Links: das gelallte Stück. Rechts: das gefingerte Stück. Links: die
                   verantwortungslose Nebelei, die kein Stück ist. Rechts: die feste Zimmerei, die
@@ -80,9 +77,11 @@
                   Unruh, der nur dazu noch ein bischen »fingern« zu lernen hätte, ja vielleicht sich
                   bloß auf das Fingern zu besinnen hätte, das er doch in den »Offizieren« schon ganz
                   gut verstand und nur dann über den Krieg halb vergaß. |</note>
-         <note type="summary">Aus Alfred Kerrs Flüchen über die abgelaufene Theatersaison
+               <note type="summary">Aus Alfred Kerrs Flüchen über die abgelaufene Theatersaison
                   nimmt Bahr, dass es einen dramatischen »Kerl« brauche. Und fragt sich, ob Fritz
                   von Unruh das nicht wäre.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

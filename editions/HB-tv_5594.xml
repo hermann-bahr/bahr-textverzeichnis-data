@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">10. November [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5594"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">10. November [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">260–271</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5594"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">10. November [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">260–271</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
                   Geschichtliche Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang
                   des Reiches. I. Band: Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861. Leipzig: Der neue
                   Geist 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">»Das österreichische Staats- und Reichsproblem«. Geschichtliche
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">»Das österreichische Staats- und Reichsproblem«. Geschichtliche
                   Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang des Reiches.
                   Von Josef Redlich. I. Band: »Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861«. (»Der neue Geist«,
@@ -348,9 +345,11 @@
                   Bureaukratie, um sich in dieser Macht zu behaupten, dadurch, daß es ihr gelang,
                   den Deutschen einzureden, sie seien’s, die den »deutschen Charakter« Österreichs
                   bewachen, immer wieder ein lebendiges Österreich zu verhindern gewußt. |</note>
-         <note type="summary">Das Buch von seinem Freund Josef Redlich ist für Bahr ein
+               <note type="summary">Das Buch von seinem Freund Josef Redlich ist für Bahr ein
                   Geschichtsbuch zu der von ihm propagierten Idee von Österreich. Es zeigt auch in
                   der Bürokratie den Fehler auf, an dem Österreich scheiterte.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

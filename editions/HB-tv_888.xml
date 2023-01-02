@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">L’Autriche</title>
-            <title when-iso=""/>
+            <title type="iso-date">1917-12-15</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_888" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">L’Autriche</title>
-         </analytic>
-         <monogr>
-            <title level="j">Revue d’Autriche</title>
-            <imprint>
-               <biblScope unit="jg">1</biblScope>
-               <biblScope unit="issue">2</biblScope>
-               <biblScope unit="pages">33–34</biblScope>
-               <date when="1917-12-15">15.12.1917</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Il me semble qu’on éprouve à l’étranger une certaine sympathie à
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_888" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">L’Autriche</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Revue d’Autriche</title>
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">2</biblScope>
+                     <biblScope unit="pages">33–34</biblScope>
+                     <date when="1917-12-15">15.12.1917</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Il me semble qu’on éprouve à l’étranger une certaine sympathie à
                   l’égard de l’Autriche. Mais c’est une sympathie un peu vague</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#10090"/>
-               <ptr type="pmb" target="#12303"/>
-               <ptr type="pmb" target="#12481"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#10090"/>
+                     <ptr type="pmb" target="#12303"/>
+                     <ptr type="pmb" target="#12481"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

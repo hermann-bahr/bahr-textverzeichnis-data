@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Haus Rosenhagen. (Drama in drei Aufzügen von Max Halbe. Zum
                      erstenmal aufgeführt im Deutschen Volkstheater am 30. November 1901)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1903</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,30 +27,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3147"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Haus Rosenhagen. (Drama in drei Aufzügen von Max Halbe. Zum
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3147"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Haus Rosenhagen. (Drama in drei Aufzügen von Max Halbe. Zum
                      erstenmal aufgeführt im Deutschen Volkstheater am 30. November 1901)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1903">1903</date>
-               <biblScope unit="pages">309–316</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #330, 2–3.
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1903">1903</date>
+                     <biblScope unit="pages">309–316</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #330, 2–3.
                   (1.12.1901)</note>
-         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+               <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   84-88.</note>
-         <note type="incipit">Der Fall Halbe ist seltsam. Ganz jung, hat Halbe, mit der
+               <note type="incipit">Der Fall Halbe ist seltsam. Ganz jung, hat Halbe, mit der
                   »Jugend«, einen ungewöhnlichen Erfolg.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

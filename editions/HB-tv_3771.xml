@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Hermann Bahr</title>
-            <title when-iso=""/>
+            <title type="iso-date">1927</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,24 +26,26 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3771"
-            type="Pamphlet"
-            subtype="Zitat_Nachdruck"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Hermann Bahr</title>
-            <imprint>
-               <pubPlace>Feldafing</pubPlace>
-               <publisher>Hans Carl</publisher>
-               <date when="1927">1927</date>
-            </imprint>
-         </monogr>
-         <series>
-            <title level="s">Stimmen über das Werk von Rudolf Pannwitz</title>
-         </series>
-         <note>
-            <p>Eigtl. [1927]. Der Broschüre: Paul Wegwitz: Einführung in das Werk von Rudolf
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3771"
+                        type="Pamphlet"
+                        subtype="Zitat_Nachdruck"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Hermann Bahr</title>
+                  <imprint>
+                     <pubPlace>Feldafing</pubPlace>
+                     <publisher>Hans Carl</publisher>
+                     <date when="1927">1927</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Stimmen über das Werk von Rudolf Pannwitz</title>
+               </series>
+               <note>
+                  <p>Eigtl. [1927]. Der Broschüre: Paul Wegwitz: Einführung in das Werk von Rudolf
                      Pannwitz. Feldafing: Hans Carl [1927]. als Faltblatt beigelegt. Der Aufsatz
                      Wegwitz’ ist mit »November 1927« datiert. Auf dem Faltblatt sind neben Bahr
                      Theodor Däubler, Alexander von Gleichen-Russwurm, Graf Hermann Keyserling,
@@ -57,20 +54,22 @@
                      Tag (Johannes Schlaf), Münchner Neueste Nachrichten, Die neue Rundschau, Die
                      schöne Literatur und Die Tat zititert. Das Zitat Bahrs stammt aus dem
                      »Tagebuch« Bahrs zum 8. November 1917, Buchausgabe S. 207.</p>
-         </note>
-         <note type="review-of">Rudolf Pannwitz: Die Krisis der europäischen Kultur. Nürnberg:
+               </note>
+               <note type="review-of">Rudolf Pannwitz: Die Krisis der europäischen Kultur. Nürnberg:
                   Hans Carl 1917.</note>
-         <note type="first-printing">Vollständig: Neues Wiener Journal, 25 (1917) #8640, 4–5.
+               <note type="first-printing">Vollständig: Neues Wiener Journal, 25 (1917) #8640, 4–5.
                   (18.11.1917)</note>
-         <note type="other-prints">Vollständig: Tagebuch »1917«, 203-210, hier: 207</note>
-         <note type="incipit">Die Stimme dieser Tragödien, ihr metallener Klang, die Fülle von
+               <note type="other-prints">Vollständig: Tagebuch »1917«, 203-210, hier: 207</note>
+               <note type="incipit">Die Stimme dieser Tragödien, ihr metallener Klang, die Fülle von
                   Seele</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12392"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1927_pannwitz.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12392"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1927_pannwitz.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

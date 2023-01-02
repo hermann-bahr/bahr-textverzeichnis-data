@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">19. Juli [1918]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5034"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">19. Juli [1918]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Tagebücher 2</title>
-            <imprint>
-               <pubPlace>Innsbruck, Wien, München</pubPlace>
-               <publisher>Tyrolia</publisher>
-               <date when="1919">1919</date>
-               <biblScope unit="pages">216–217</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal, 28.7.1918</note>
-         <note type="incipit">Gastspiel Czernin. Er fühlt sich ja jetzt als Bassermann der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5034"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">19. Juli [1918]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Tagebücher 2</title>
+                  <imprint>
+                     <pubPlace>Innsbruck, Wien, München</pubPlace>
+                     <publisher>Tyrolia</publisher>
+                     <date when="1919">1919</date>
+                     <biblScope unit="pages">216–217</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal, 28.7.1918</note>
+               <note type="incipit">Gastspiel Czernin. Er fühlt sich ja jetzt als Bassermann der
                   mitteleuropäischen Diplomatie.</note>
-         <note type="summary">Bahr kommentiert Ottokar Czernin und endet schließlich
+               <note type="summary">Bahr kommentiert Ottokar Czernin und endet schließlich
                   schrecklich prophetisch: »Deutschland hat uns doch auch einst einen großen
                   Staatsmann geschenkt: den Grafen Beust. Wir sollten nicht kleinlich sein und uns
                   einmal revanchieren.«</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

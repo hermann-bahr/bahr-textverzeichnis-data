@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Cluseret</title>
-            <title when-iso=""/>
+            <title type="iso-date">1894</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,58 +26,62 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2744"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Cluseret</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2744"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Cluseret</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1894">1894</date>
-               <biblScope unit="pages">158–167</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7759, Morgen–Ausgabe,
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1894">1894</date>
+                     <biblScope unit="pages">158–167</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7759, Morgen–Ausgabe,
                   1–2. (4.8.1893)</note>
-         <note type="incipit">Der General Cluseret scheint wunderlich und fremd zwischen den
+               <note type="incipit">Der General Cluseret scheint wunderlich und fremd zwischen den
                   anderen Menschen von heute. Seine Rasse abenteurischer Empörer, mit der
                   ungeheuren Lust an neuen, bunten, üppigen Ereignissen und der unversieglichen
                   Begierde, sich ein großes Leben in heroischen Zügen zu zeichnen, kennen wir sonst
                   heute nicht mehr.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2484"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p1"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p2"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p3"/>
-               <ptr type="HB-tv" target="HB-tv_6349_p17"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p5"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p6"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p7"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p8"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p9"/>
-               <ptr type="HB-tv" target="HB-tv_2182_p5"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p11"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p12"/>
-               <ptr type="HB-tv" target="HB-tv_4861_p17"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p14"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p15"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p16"/>
-               <ptr type="HB-tv" target="HB-tv_1448_p9"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p18"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p19"/>
-               <ptr type="HB-tv" target="HB-tv_3885_p2"/>
-               <ptr type="HB-tv" target="HB-tv_2744_p21"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2484"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_6349_p17"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p5"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p6"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p7"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p8"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p9"/>
+                     <ptr type="HB-tv" target="HB-tv_2182_p5"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p11"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p12"/>
+                     <ptr type="HB-tv" target="HB-tv_4861_p17"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p14"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p15"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p16"/>
+                     <ptr type="HB-tv" target="HB-tv_1448_p9"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p18"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p19"/>
+                     <ptr type="HB-tv" target="HB-tv_3885_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_2744_p21"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

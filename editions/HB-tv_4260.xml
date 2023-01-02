@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Erinnerungen. XVI</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922-11-25</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4260"
-            type="Journal-Article"
-            subtype="Vorabdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Erinnerungen. XVI</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4260"
+                        type="Journal-Article"
+                        subtype="Vorabdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Erinnerungen. XVI</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
-            <imprint>
-               <biblScope unit="jg">5</biblScope>
-               <biblScope unit="issue">8</biblScope>
-               <biblScope unit="pages">152–155</biblScope>
-               <date when="1922-11-25">25.11.1922</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Im Hinblick auf die letzten und dermaligen Themate der
+                  <imprint>
+                     <biblScope unit="jg">5</biblScope>
+                     <biblScope unit="issue">8</biblScope>
+                     <biblScope unit="pages">152–155</biblScope>
+                     <date when="1922-11-25">25.11.1922</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Im Hinblick auf die letzten und dermaligen Themate der
                      ’Erinnerungen’ Hermann Bahrs, in denen sich nicht nur eine große
                      Individualität, sondern ein ganzes Zeitalter spiegelt, können wir nicht umhin,
                      auf das Interessante hinzuweisen, das darin liegt, daß der Mann, der in seiner
@@ -59,9 +56,11 @@
                      als Student ein so ausgeprägter Schönerianer, Alldeutscher, Bismarckschwärmer
                      war, in seinem reifen Alter zum besonderen Lobsänger der österreichischen Idee
                      geworden ist.«</p>
-         </note>
-         <note type="other-prints">Selbstbildnis, 167–179 (Kapitel 16, 1. Teil)</note>
-         <note type="incipit">Noch heute kehrt mir, bei der bloßen Erinnerung</note>
+               </note>
+               <note type="other-prints">Selbstbildnis, 167–179 (Kapitel 16, 1. Teil)</note>
+               <note type="incipit">Noch heute kehrt mir, bei der bloßen Erinnerung</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

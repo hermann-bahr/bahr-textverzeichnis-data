@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Max Burckhard †. Ein Freiluftmensch und Bücherwurm</title>
-            <title when-iso=""/>
+            <title type="iso-date">1914</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,42 +26,46 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1722" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Max Burckhard †. Ein Freiluftmensch und Bücherwurm</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Deutscher Bibliophilen-Kalender für das Jahr 1914. Zweiter
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1722" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Max Burckhard †. Ein Freiluftmensch und Bücherwurm</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Deutscher Bibliophilen-Kalender für das Jahr 1914. Zweiter
                      Jahrgang. Jahrbuch für Bücherfreunde und Büchersammler</title>
-            <editor>Feigl, Hans</editor>
-            <imprint>
-               <pubPlace>Wien</pubPlace>
-               <publisher>Moritz Perles</publisher>
-               <date when="1914">1914</date>
-               <biblScope unit="pages">117–120</biblScope>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Vordatiert auf 1914.</p>
-         </note>
-         <note type="first-printing">Als »Burckhards Bücher« in: Neue Freie Presse, (1912)
+                  <editor>Feigl, Hans</editor>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>Moritz Perles</publisher>
+                     <date when="1914">1914</date>
+                     <biblScope unit="pages">117–120</biblScope>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Vordatiert auf 1914.</p>
+               </note>
+               <note type="first-printing">Als »Burckhards Bücher« in: Neue Freie Presse, (1912)
                   #17297, Morgenblatt, 11. (18.10.1912)</note>
-         <note type="other-prints">In: Bibliothek Max Burckhard. Auktionskatalog. Wien: Hugo
+               <note type="other-prints">In: Bibliothek Max Burckhard. Auktionskatalog. Wien: Hugo
                   Heller 1912, V-VIII.</note>
-         <note type="incipit">Wenn ich an Burckhard denke, erscheint er mir immer in der
+               <note type="incipit">Wenn ich an Burckhard denke, erscheint er mir immer in der
                   Ledernen, mit nackten Knieen, im winzigen</note>
-         <note type="summary">Bahr beschreibt Burckhards Bildungsideal, das nicht das stete
+               <note type="summary">Bahr beschreibt Burckhards Bildungsideal, das nicht das stete
                   Wissen, sehr wohl aber das Wissen um den Ort, wo dasselbe aufbewahrt ist,
                   beinhaltet.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11036"/>
-               <ptr type="pmb" target="#12163"/>
-               <ptr type="pmb" target="#11851"/>
-               <ptr type="HB-tv" target="HB-tv_1722_p1"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11036"/>
+                     <ptr type="pmb" target="#12163"/>
+                     <ptr type="pmb" target="#11851"/>
+                     <ptr type="HB-tv" target="HB-tv_1722_p1"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

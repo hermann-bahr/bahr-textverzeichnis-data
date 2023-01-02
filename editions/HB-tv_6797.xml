@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Was planen Sie für fürs neue Jahr</title>
-            <title when-iso=""/>
+            <title type="iso-date">1925-03-06</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6797"
-            type="Journal-Article"
-            subtype="Umfrage_Nachdruck_Fälschung_Satire">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Was planen Sie für fürs neue Jahr</title>
-         </analytic>
-         <monogr>
-            <title level="j">Königsberger Hartungsche Zeitung</title>
-            <imprint>
-               <biblScope unit="issue">110, Abendblatt, 2. Blatt</biblScope>
-               <biblScope unit="pages">[2]</biblScope>
-               <date when="1925-03-06">6.3.1925</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Nachdruck aus dem Bücherwurm.</p>
-         </note>
-         <note type="first-printing">Der Bücherwurm, 10 (1925) #5 (Faschingsheft), 140.</note>
-         <note type="incipit">Hermann Bahr spinnt – wie er sagt, an einem Roman. |</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/koenigsberger-hartungsche/1925_umfrage.pdf</ref>
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6797"
+                        type="Journal-Article"
+                        subtype="Umfrage_Nachdruck_Fälschung_Satire">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Was planen Sie für fürs neue Jahr</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Königsberger Hartungsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="issue">110, Abendblatt, 2. Blatt</biblScope>
+                     <biblScope unit="pages">[2]</biblScope>
+                     <date when="1925-03-06">6.3.1925</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Nachdruck aus dem Bücherwurm.</p>
+               </note>
+               <note type="first-printing">Der Bücherwurm, 10 (1925) #5 (Faschingsheft), 140.</note>
+               <note type="incipit">Hermann Bahr spinnt – wie er sagt, an einem Roman. |</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/koenigsberger-hartungsche/1925_umfrage.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

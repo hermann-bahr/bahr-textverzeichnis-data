@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der Bergsturz in Elm. (Original-Bericht der »Salzburger
                      Nachrichten«)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1881-09-18</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,26 +27,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4470"
-            type="Journal-Article"
-            subtype="Zweifelhafte_Zuschreibung"
-            status="checked">
-         <analytic>
-            <author ref="#10815">B.</author>
-            <title level="a">Der Bergsturz in Elm. (Original-Bericht der »Salzburger
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4470"
+                        type="Journal-Article"
+                        subtype="Zweifelhafte_Zuschreibung"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">B.</author>
+                  <title level="a">Der Bergsturz in Elm. (Original-Bericht der »Salzburger
                      Nachrichten«)</title>
-         </analytic>
-         <monogr>
-            <title level="j">Salzburger Nachrichten</title>
-            <imprint>
-               <biblScope unit="jg">1</biblScope>
-               <biblScope unit="issue">112</biblScope>
-               <biblScope unit="pages">2–3</biblScope>
-               <date when="1881-09-18">18.9.1881</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Die Zuschreibung an Bahr erfolgt anhand des darüber abgedruckten »Reisebriefe
+               </analytic>
+               <monogr>
+                  <title level="j">Salzburger Nachrichten</title>
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">112</biblScope>
+                     <biblScope unit="pages">2–3</biblScope>
+                     <date when="1881-09-18">18.9.1881</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Die Zuschreibung an Bahr erfolgt anhand des darüber abgedruckten »Reisebriefe
                      eines lachenden Philosophen«, der ebenfalls aus Zürich stammt, ist aber trotz
                      des Kürzels »B.« nicht zwingend. Dagegen spricht vor allem, dass Bahr zum
                      Zeitpunkt des Felssturzs nicht mehr in der Schweiz ist und die »Reisebriefe«
@@ -62,23 +59,25 @@
                      Zusammentreffen auf den Bauern Rhiner begründet wird, den Text als literarische
                      Fiktion fasslich machen, da diese Geschichte auch in der sonstigen Presse zum
                      Felssturz wiedergegeben wird.</p>
-         </note>
-         <note type="incipit">Über die furchtbare Katastrophe, welche am Sonntag den 11.
+               </note>
+               <note type="incipit">Über die furchtbare Katastrophe, welche am Sonntag den 11.
                   September das schöne Dörfchen Elm im Kanton Glarus heimgesucht hat, berichtet uns
                   ein am Unglücksorte anwesender Salzburger Folgendes: Wenn man sich von
                   Glarus</note>
-         <note type="summary">Eine Beschreibung eines der größten Felsstürze des 19.
+               <note type="summary">Eine Beschreibung eines der größten Felsstürze des 19.
                   Jahrhunderts, der sich als Folge des lokalen Schieferabbaus am 11. September 1881
                   in Elm erreignete.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="HB-tv" target="HB-tv_4470_p1"/>
-               <ptr type="HB-tv" target="HB-tv_4470_p2"/>
-               <ptr type="HB-tv" target="HB-tv_4470_p3"/>
-               <ptr type="HB-tv" target="HB-tv_4470_p4"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_elm.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="HB-tv" target="HB-tv_4470_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_4470_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_4470_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_4470_p4"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_elm.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

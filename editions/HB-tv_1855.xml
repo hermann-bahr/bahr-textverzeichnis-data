@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Die Pantomime vom braven Manne</title>
-            <title when-iso=""/>
+            <title type="iso-date">1893-02-11</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,33 +26,37 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1855"
-            type="Journal-Article"
-            subtype="Dichtung"
-            sameAs="pmb30043"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a" ref="pmb30043">Die Pantomime vom braven Manne</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="pmb30043">Das Magazin für Litteratur</title>
-            <imprint>
-               <biblScope unit="jg">62</biblScope>
-               <biblScope unit="issue">6</biblScope>
-               <biblScope unit="pages">93–95</biblScope>
-               <date when="1893-02-11">11.2.1893</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Wirkung in die Ferne, 127–141 Varieté. Wien: Wiener Verlag,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1855"
+                        type="Journal-Article"
+                        subtype="Dichtung"
+                        sameAs="pmb30043"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a" ref="pmb30043">Die Pantomime vom braven Manne</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="pmb30043">Das Magazin für Litteratur</title>
+                  <imprint>
+                     <biblScope unit="jg">62</biblScope>
+                     <biblScope unit="issue">6</biblScope>
+                     <biblScope unit="pages">93–95</biblScope>
+                     <date when="1893-02-11">11.2.1893</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Wirkung in die Ferne, 127–141 Varieté. Wien: Wiener Verlag,
                   26-33</note>
-         <note type="translations">Italienische Übersetzung in: Hermann Bahr, Arthur
+               <note type="translations">Italienische Übersetzung in: Hermann Bahr, Arthur
                   Schnitzler: La parola muta. A cura di Paola Maria Filippi. Faenza : Mobydick
                   1997</note>
-         <note type="incipit">Personen: Pantalon. Arlequin. Pierrot. Scaramouche. Colombine.
+               <note type="incipit">Personen: Pantalon. Arlequin. Pierrot. Scaramouche. Colombine.
                   Die Polizei. Motive: Das Motiv der Colombine, von der treuen Liebe. Ein
                   herzlicher</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/magazin-fuer-litteratur/1893_braven.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/magazin-fuer-litteratur/1893_braven.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

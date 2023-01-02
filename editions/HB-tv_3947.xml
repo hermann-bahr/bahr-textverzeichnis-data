@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Geschmack</title>
-            <title when-iso=""/>
+            <title type="iso-date">1913-12-12</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3947" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Geschmack</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41531">Berliner Tageblatt</title>
-            <imprint>
-               <biblScope unit="jg">42</biblScope>
-               <biblScope unit="issue">631, Ausgabe für Berlin und Umgegend,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3947" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Geschmack</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41531">Berliner Tageblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">42</biblScope>
+                     <biblScope unit="issue">631, Ausgabe für Berlin und Umgegend,
                         Abend-Ausgabe</biblScope>
-               <biblScope unit="pages">1</biblScope>
-               <date when="1913-12-12">12.12.1913</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Das Bild, 10 (1914) #1 (April), 7–9.</note>
-         <note type="other-prints">Expressionismus, 21-28 H. B.: Essays. Hg. Kindermann. Wien:
+                     <biblScope unit="pages">1</biblScope>
+                     <date when="1913-12-12">12.12.1913</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Das Bild, 10 (1914) #1 (April), 7–9.</note>
+               <note type="other-prints">Expressionismus, 21-28 H. B.: Essays. Hg. Kindermann. Wien:
                   Bauer 1962, 190–192</note>
-         <note type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
+               <note type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
                   Geschmack ist, sagt Nietzsche.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1913_geschmack.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1913_geschmack.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">28. Oktober [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5588"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">28. Oktober [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">249–253</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Ludwig Anzengruber in fünfzehn Bänden im Kunstverlag Anton
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5588"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">28. Oktober [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">249–253</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Ludwig Anzengruber in fünfzehn Bänden im Kunstverlag Anton
                   Schroll</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Der Kunstverlag Anton Schroll in Wien bringt jetzt den ganzen
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Der Kunstverlag Anton Schroll in Wien bringt jetzt den ganzen
                   Anzengruber in fünfzehn Bänden, unter Mitwirkung seines Sohnes, herausgegeben von
                   Dr. Rudolf Latzke und Dr. Otto Rommel. Zunächst sind zwei Bände »Dorfgeschichten«,
                   ein Band »Vorstadtgeschichten« und, zum erstenmal, der »Dramatische Nachlaß«
@@ -170,10 +167,12 @@
                   vielleicht anläßlich dieser höchst dankenswerten Ausgabe Schrolls, zu revidieren
                   sein, wieviel von Anzengrubers Ruhm sein gutes Eigentum ist und wieviel auch davon
                   bloß Stammtischlerei. |</note>
-         <note type="summary">Bahr ist sich seines Verhältnisses zu Anzengruber noch immer
+               <note type="summary">Bahr ist sich seines Verhältnisses zu Anzengruber noch immer
                   nicht im Klaren: Unberührt von Zeitgenossen wie Nietzsche, von tieferen Problemen
                   der Gegenwart, sieht er Anzengruber zwischen Kolportageroman und Shakespeare
                   oszillieren. Die neue Ausgabe seiner Werke lässt das nun erkunden.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

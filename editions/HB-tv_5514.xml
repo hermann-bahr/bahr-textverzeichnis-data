@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">23. Februar [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5514"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">23. Februar [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">64–68</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Seltsam: von Pascal aus, an den mich das Barock als an seinen
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5514"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">23. Februar [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">64–68</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Seltsam: von Pascal aus, an den mich das Barock als an seinen
                   größten Widersacher, da doch jede Sache der Widersacher erst ganz verstehen lehrt,
                   wies, ist mir jetzt erst der volle Sinn der Karamasoff Dostojewskis aufgegangen.
                   Denn so wenig man dies anzunehmen zunächst geneigt sein wird, sie behandeln beide
@@ -151,7 +148,9 @@
                   Wirklichkeit zu brechen. Und vielleicht hängt alle Zukunft des Abendlands davon
                   ab, ob es noch gelingen wird, Lenin »auf den Jesuitenweg« zu bringen: zur
                   Anerkennung der Wirklichkeit. |</note>
-         <note type="summary">Über das Verhältnis von Pascal und Dostojewskij.</note>
+               <note type="summary">Über das Verhältnis von Pascal und Dostojewskij.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

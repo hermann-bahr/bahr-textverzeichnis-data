@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der erste Erfolg. Eine Rundfrage der »Österreichischen
                      Volks-Zeitung«</title>
-            <title when-iso=""/>
+            <title type="iso-date">1905-06-11</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,32 +27,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4801"
-            type="Journal-Article"
-            subtype="Umfrage_Brief_Zitat"
-            status="checked">
-         <analytic>
-            <author ref="#2147">Altenberg, Peter</author>
-            <title level="a">Der erste Erfolg. Eine Rundfrage der »Österreichischen
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4801"
+                        type="Journal-Article"
+                        subtype="Umfrage_Brief_Zitat"
+                        status="checked">
+               <analytic>
+                  <author ref="#2147">Altenberg, Peter</author>
+                  <title level="a">Der erste Erfolg. Eine Rundfrage der »Österreichischen
                      Volks-Zeitung«</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">51</biblScope>
-               <biblScope unit="issue">160</biblScope>
-               <biblScope unit="pages">13–15, hier 13</biblScope>
-               <date when="1905-06-11">11.6.1905</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Auf die Umfrage zum »ersten Erfolg« antworten: Rosa Albach-Retty, Raoul
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">51</biblScope>
+                     <biblScope unit="issue">160</biblScope>
+                     <biblScope unit="pages">13–15, hier 13</biblScope>
+                     <date when="1905-06-11">11.6.1905</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Auf die Umfrage zum »ersten Erfolg« antworten: Rosa Albach-Retty, Raoul
                      Auernheimer, Goswina von Berlepsch, Tina Blau-Lang, Alexander Girardi,
                      Ferdinand Gregori, Hermine von Preuschen-Telman, Hugo Salus, Louis Treumann,
                      Olga Türk-Rohn, Rudolf Weyr, Olga Wiesinger-Florian und Peter Altenberg, der in
                      seiner Antwort einen Brief Bahrs abdruckt.</p>
-         </note>
-         <note type="incipit">Erster Lichtblick. »Lieber Herr Altenberg, ich gebe am 1.
+               </note>
+               <note type="incipit">Erster Lichtblick. »Lieber Herr Altenberg, ich gebe am 1.
                   Oktober eine Zeitschrift, Wochenschrift »Die Zeit« heraus. Bitte, senden Sie mir
                   doch eine Ihrer zarten merkwürdigen Sagen, die Herr Hugo v. Hoffmannsthal [!] mir
                   eines Abends aus den Manuskripten vorgelesen hat. Ergebenst Hermann Bahr« Zweiter
@@ -67,6 +64,8 @@
                   die ich zeitlebens um Dein verlorenes Dasein geweint habe. Dein glücklicher und
                   dankbarer Vater.« Dritter Lichtblick »Der fliegende Holländer«, in der »Wiener
                   Rundschau« … 7 Gulden 50 Kreuzerl</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

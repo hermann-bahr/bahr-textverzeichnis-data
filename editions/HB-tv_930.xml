@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Ehret die Frauen!</title>
-            <title when-iso=""/>
+            <title type="iso-date">1892-12-11</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,44 +26,48 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_930"
-            type="Journal-Article"
-            subtype="Glosse"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Mepherl</author>
-            <title level="a">Ehret die Frauen!</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41471">Deutsche Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">22</biblScope>
-               <biblScope unit="issue">7527, Sonntags-Ausgabe</biblScope>
-               <biblScope unit="pages">4</biblScope>
-               <date when="1892-12-11">11.12.1892</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Während es wieder in Mode käme, Frauen um Rat zu fragen, stellt »Mepherl« fest,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_930"
+                        type="Journal-Article"
+                        subtype="Glosse"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Mepherl</author>
+                  <title level="a">Ehret die Frauen!</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41471">Deutsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">22</biblScope>
+                     <biblScope unit="issue">7527, Sonntags-Ausgabe</biblScope>
+                     <biblScope unit="pages">4</biblScope>
+                     <date when="1892-12-11">11.12.1892</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Während es wieder in Mode käme, Frauen um Rat zu fragen, stellt »Mepherl« fest,
                      dass diese keine Zeit mehr hätten, um Rat zu geben.</p>
-         </note>
-         <note type="incipit">Sagen Sie mir, Maecen der Scheerenschleifer, wie ist das?</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#5787"/>
-               <ptr type="pmb" target="#12877"/>
-               <ptr type="pmb" target="#12358"/>
-               <ptr type="pmb" target="#5449"/>
-               <ptr type="pmb" target="#5892"/>
-               <ptr type="pmb" target="#5329"/>
-               <ptr type="HB-tv" target="HB-tv_930_p1"/>
-               <ptr type="HB-tv" target="HB-tv_930_p2"/>
-               <ptr type="HB-tv" target="HB-tv_930_p3"/>
-               <ptr type="HB-tv" target="HB-tv_1450_p1"/>
-               <ptr type="HB-tv" target="HB-tv_930_p5"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75274.pdf</ref>
+               </note>
+               <note type="incipit">Sagen Sie mir, Maecen der Scheerenschleifer, wie ist das?</note>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#5787"/>
+                     <ptr type="pmb" target="#12877"/>
+                     <ptr type="pmb" target="#12358"/>
+                     <ptr type="pmb" target="#5449"/>
+                     <ptr type="pmb" target="#5892"/>
+                     <ptr type="pmb" target="#5329"/>
+                     <ptr type="HB-tv" target="HB-tv_930_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_930_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_930_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_1450_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_930_p5"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75274.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

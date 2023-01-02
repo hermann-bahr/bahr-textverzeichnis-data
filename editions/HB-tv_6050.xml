@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 2. August</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-08-22</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6050"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 2. August</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9625</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1920-08-22">22.8.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">E. K. Ludhard [=Ernst Ludwig von Hessen Darmstadt]: Ostern.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6050"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 2. August</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9625</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1920-08-22">22.8.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">E. K. Ludhard [=Ernst Ludwig von Hessen Darmstadt]: Ostern.
                   Ein Mysterium in 3 Aufzügen. Darmstadt: Manuskriptdruck der Gesellschaft
                   hessischer Bücherfreunde, Wittich 1919.</note>
-         <note type="other-prints">Kritik der Gegenwart, 195–196</note>
-         <note type="incipit">Zu schad! sagte mir in verklungenen schöneren Tagen Olbrich oft,
+               <note type="other-prints">Kritik der Gegenwart, 195–196</note>
+               <note type="incipit">Zu schad! sagte mir in verklungenen schöneren Tagen Olbrich oft,
                   zu schad, daß der Großherzog grad Großherzog sein muß: das brave Hessen könnt sich
                   sicher auch selber regieren und welch einen Baukünstler hätten wir dafür an Ernst
                   Ludwig gewonnen! Übrigens auch einen Regisseur. Vielleicht auch einen Tonkünstler.
@@ -95,9 +92,11 @@
                   Stille der Ergebung von einem Seelenglanz, der zuweilen fast an die Gelassenheit,
                   Zerlassenheit Meister Eckarts erinnert. Kein schöneres Vorspiel konnte sich die
                   »Weisheitsschule« wünschen! |</note>
-         <note type="summary">Bahr begrüßt den Wechsel des Großherzogs Ernst Ludwig von Hessen
+               <note type="summary">Bahr begrüßt den Wechsel des Großherzogs Ernst Ludwig von Hessen
                   Darmstadt von der Regierung ins dramatische Fach.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

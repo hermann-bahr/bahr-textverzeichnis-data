@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuchblätter. (Aus der im Verlaufe der nächsten Woche
                      erscheinenden Nummer der Wochenschrift »Der Weg«)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1906</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,25 +27,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6839"
-            type="Journal-Article"
-            subtype="Nachdruck_Tagebuch">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuchblätter. (Aus der im Verlaufe der nächsten Woche
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6839"
+                        type="Journal-Article"
+                        subtype="Nachdruck_Tagebuch">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuchblätter. (Aus der im Verlaufe der nächsten Woche
                      erscheinenden Nummer der Wochenschrift »Der Weg«)</title>
-         </analytic>
-         <monogr>
-            <title level="j"/>
-            <imprint>
-               <date when="1906">1906</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Nachdruck aus dem Weg</p>
-         </note>
-         <note type="incipit">Wien, 20. Feber 1906. Merwürdige Menschen das, diese
+               </analytic>
+               <monogr>
+                  <title level="j"/>
+                  <imprint>
+                     <date when="1906">1906</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Nachdruck aus dem Weg</p>
+               </note>
+               <note type="incipit">Wien, 20. Feber 1906. Merwürdige Menschen das, diese
                   Wiener</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

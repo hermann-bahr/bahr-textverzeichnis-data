@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">[Konfiszierter Aufsatz]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1915-05-21</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1622"
-            type="Journal-Article"
-            subtype="Nicht_nachgewiesen"
-            status="notLocated">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">[Konfiszierter Aufsatz]</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <date when="1915-05-21">21.5.1915</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Am 30. Mai schickt Bahr an Redlich einen Brief (Bahr/Redlich, Nr. 187, S. 117)
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1622"
+                        type="Journal-Article"
+                        subtype="Nicht_nachgewiesen"
+                        status="notLocated">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">[Konfiszierter Aufsatz]</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <date when="1915-05-21">21.5.1915</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Am 30. Mai schickt Bahr an Redlich einen Brief (Bahr/Redlich, Nr. 187, S. 117)
                      mit einem Aufsatz, den er für die Pfingstnummer des Neuen Wiener Journals
                      verfasst hat, der aber zur Gänze konfisziert wurde. Er schreibt: »Es wird Ihnen
                      Spaß machen zu erkennen, wie unerlaubt Ihre Gedanken sind. Bitte werfen Sie den
@@ -57,7 +54,9 @@
                      A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und
                      Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 54) notiert sich
                      Redlich, dass es neben der Verwaltungsreform auch von ihm selbst handle.</p>
-         </note>
+               </note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

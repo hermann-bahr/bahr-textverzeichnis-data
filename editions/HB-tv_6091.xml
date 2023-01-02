@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 15. November</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-12-05</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6091"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 15. November</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9728</biblScope>
-               <biblScope unit="pages">6–7</biblScope>
-               <date when="1920-12-05">5.12.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6091"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 15. November</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9728</biblScope>
+                     <biblScope unit="pages">6–7</biblScope>
+                     <date when="1920-12-05">5.12.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
                   Geschichtliche Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang
                   des Reiches. I. Band: Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861. Leipzig: Der neue
                   Geist 1920.</note>
-         <note type="other-prints">Kritik der Gegenwart, 271-277</note>
-         <note type="incipit">Josef Redlichs unvergleichliches Buch über »Das österreichische
+               <note type="other-prints">Kritik der Gegenwart, 271-277</note>
+               <note type="incipit">Josef Redlichs unvergleichliches Buch über »Das österreichische
                   Staats- und Reichsproblem« (Der neue Geist, Verlag, Leipzig) läßt mich noch immer
                   nicht los: welch schmerzliches Glück, unserm alten heiligen Österreich da noch
                   einmal in sein brechendes Auge zu sehen! Die Bedeutung des erstaunlichen Werkes,
@@ -240,10 +237,12 @@
                   ließ. Minima non curat praetor, heißt’s, aber Franz Josef ist gar kein praetor
                   gewesen, gerade nur auf die minima verstand er sich am liebsten, bis so sein
                   ganzes Land selber eines Tages nur noch ein Minimum war. |</note>
-         <note type="summary">Über die Bedeutung der Kremsierer Verfassung, den Beginn des
+               <note type="summary">Über die Bedeutung der Kremsierer Verfassung, den Beginn des
                   österreichischen Nationalismus und die Projektionen des Bürgertums und Kaiser
                   Franz Josefs.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

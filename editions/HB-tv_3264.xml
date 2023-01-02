@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Der verlorene Vater. (Komödie in vier Akten von Bernard Shaw.
                      Deutsch von Siegfried Trebitsch. Zum ersten Mal aufgeführt im Burgtheater am
                      17. März 1906)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1907</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,30 +28,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3264"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Der verlorene Vater. (Komödie in vier Akten von Bernard Shaw.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3264"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Der verlorene Vater. (Komödie in vier Akten von Bernard Shaw.
                      Deutsch von Siegfried Trebitsch. Zum ersten Mal aufgeführt im Burgtheater am
                      17. März 1906)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1907">1907</date>
-               <biblScope unit="pages">112–116</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Österreichische Volks–Zeitung, 52 (1906) #76, 2.
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1907">1907</date>
+                     <biblScope unit="pages">112–116</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Österreichische Volks–Zeitung, 52 (1906) #76, 2.
                   (18.3.1906) Gekürzt: Kleine Österreichische Volks–Zeitung, 52 (1906) #76, 8 und
                   25. (18.3.1906)</note>
-         <note type="incipit">Vor vier Jahren hätte Schlenther Candida haben können.</note>
+               <note type="incipit">Vor vier Jahren hätte Schlenther Candida haben können.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

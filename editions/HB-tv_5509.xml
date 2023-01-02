@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">5. Februar [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5509"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">5. Februar [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">55–58</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Arno Holz: Das ausgewählte Werk. Berlin: Bong 1919.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">In einem Entwurf, den er unausgeführt ließ, erzählt Fontane von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5509"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">5. Februar [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">55–58</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Arno Holz: Das ausgewählte Werk. Berlin: Bong 1919.</note>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">In einem Entwurf, den er unausgeführt ließ, erzählt Fontane von
                   einem Ehepaar, das, als es zur goldenen Hochzeit kam, beschloß, die
                   Hochzeitsreise, die es vor fünfzig Jahren gemacht, noch einmal zu machen,
                   neugierig, wer sich inzwischen mehr verändert hätte, die Welt oder sie selbst. Und
@@ -134,8 +131,10 @@
                   sträubt. Im »Buch der Zeit« aber hat’s einen ganz eigenen lieben Reiz gerade
                   dadurch, daß im Grunde dazu noch immer die Schalmei der guten alten Zeit geblasen
                   wird. |</note>
-         <note type="summary">Über Fontane, Arno Holz und den Umstand, dass sich die Menschen
+               <note type="summary">Über Fontane, Arno Holz und den Umstand, dass sich die Menschen
                   ändern, die Welt aber nicht.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

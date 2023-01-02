@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">The Spiritual Sources of Reinhardt</title>
-            <title when-iso=""/>
+            <title type="iso-date">1924</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,71 +26,75 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3769"
-            type="Book_Section"
-            subtype="Englisch"
-            status="checked">
-         <analytic>
-            <title level="a">The Spiritual Sources of Reinhardt</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Max Reinhardt and his Theatre. Translations from the german by
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3769"
+                        type="Book_Section"
+                        subtype="Englisch"
+                        status="checked">
+               <analytic>
+                  <title level="a">The Spiritual Sources of Reinhardt</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Max Reinhardt and his Theatre. Translations from the german by
                      Mariele S. Gudernatsch and Others</title>
-            <editor>Sayler, Oliver M.</editor>
-            <imprint>
-               <pubPlace>New York</pubPlace>
-               <publisher>Brentano’s</publisher>
-               <date when="1924">1924</date>
-               <biblScope unit="pages">28–43</biblScope>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Bahrs Text: English Translation by Mrs. Frank E. Washburn-Freund. Eine
+                  <editor>Sayler, Oliver M.</editor>
+                  <imprint>
+                     <pubPlace>New York</pubPlace>
+                     <publisher>Brentano’s</publisher>
+                     <date when="1924">1924</date>
+                     <biblScope unit="pages">28–43</biblScope>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Bahrs Text: English Translation by Mrs. Frank E. Washburn-Freund. Eine
                      Einleitung erklärt, warum the »genial, conversational, shaggy-headed Hermann
                      Bahr« der richtige ist, die Anfänge Reinhardts darzustellen. Weitere Beiträge
                      v. Hugo von Hofmannsthal, Arthur Kahane, Gertrud Eysoldt, Richard Beer-Hofmann,
                      Ernst Deutsch, Julius Bab, Alfred Roller, Heinz Herald, Rudolf Borchardt,
                      Maximilian Harden u. a. Rezension in: The Times Literary Supplement, 15.5.1924,
                      301.</p>
-         </note>
-         <note type="incipit">I have known Max Reinhardt ever since he began his career in
+               </note>
+               <note type="incipit">I have known Max Reinhardt ever since he began his career in
                   Berlin.</note>
-         <note type="summary">Bahr schildert, mit verblüffend wenig eigenen Anekdoten,
+               <note type="summary">Bahr schildert, mit verblüffend wenig eigenen Anekdoten,
                   Reinhardts Werdegang. Die kulturellen Wurzeln sieht er im Barock- und
                   Jesuitentheater, die Leistung in der Schaffung einer Berliner
                   Theater-Öffentlichkeit und das künstlerisch Herausragende in der Überwindung des
                   naturalistischen Stils hin zu einer Nachfolge Wagners beim Gesamtkunstwerk.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12504"/>
-               <ptr type="pmb" target="#2412"/>
-               <ptr type="pmb" target="#19136"/>
-               <ptr type="pmb" target="#12654"/>
-               <ptr type="pmb" target="#10986"/>
-               <ptr type="pmb" target="#2211"/>
-               <ptr type="pmb" target="#11617"/>
-               <ptr type="pmb" target="#4194"/>
-               <ptr type="pmb" target="#7966"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#2702"/>
-               <ptr type="pmb" target="#4142"/>
-               <ptr type="pmb" target="#11036"/>
-               <ptr type="pmb" target="#12163"/>
-               <ptr type="pmb" target="#11798"/>
-               <ptr type="pmb" target="#11763"/>
-               <ptr type="pmb" target="#13024"/>
-               <ptr type="HB-tv" target="HB-tv_3769_p1"/>
-               <ptr type="HB-tv" target="HB-tv_3769_p2"/>
-               <ptr type="HB-tv" target="HB-tv_3769_p3"/>
-               <ptr type="HB-tv" target="HB-tv_3769_p4"/>
-               <ptr type="HB-tv" target="HB-tv_3769_p5"/>
-               <ptr type="HB-tv" target="HB-tv_3769_p6"/>
-               <ptr type="HB-tv" target="HB-tv_2173_p3"/>
-               <ptr type="HB-tv" target="HB-tv_3769_p8"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1924_reinhardt.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12504"/>
+                     <ptr type="pmb" target="#2412"/>
+                     <ptr type="pmb" target="#19136"/>
+                     <ptr type="pmb" target="#12654"/>
+                     <ptr type="pmb" target="#10986"/>
+                     <ptr type="pmb" target="#2211"/>
+                     <ptr type="pmb" target="#11617"/>
+                     <ptr type="pmb" target="#4194"/>
+                     <ptr type="pmb" target="#7966"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#2702"/>
+                     <ptr type="pmb" target="#4142"/>
+                     <ptr type="pmb" target="#11036"/>
+                     <ptr type="pmb" target="#12163"/>
+                     <ptr type="pmb" target="#11798"/>
+                     <ptr type="pmb" target="#11763"/>
+                     <ptr type="pmb" target="#13024"/>
+                     <ptr type="HB-tv" target="HB-tv_3769_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_3769_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_3769_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_3769_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_3769_p5"/>
+                     <ptr type="HB-tv" target="HB-tv_3769_p6"/>
+                     <ptr type="HB-tv" target="HB-tv_2173_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_3769_p8"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1924_reinhardt.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

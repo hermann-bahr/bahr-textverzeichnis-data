@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">7. Mai [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5537"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">7. Mai [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">135–139</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Bernhard Wilhelm von Bülow: Revision durch oder ohne
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5537"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">7. Mai [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">135–139</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Bernhard Wilhelm von Bülow: Revision durch oder ohne
                   Völkerbund. In: Deutsche Nation</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Das Aprilheft der »Deutschen Nation«, einer von Mark Neven du
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Das Aprilheft der »Deutschen Nation«, einer von Mark Neven du
                   Mont geführten (bei der Deutschen Verlagsgesellschaft für Politik und Geschichte,
                   Charlottenburg, erscheinenden) Zeitschrift, die tapfer noch immer an ein zwischen
                   Bolschewismus und Reaktion schließlich doch durchdringendes Deutschland eigener,
@@ -163,9 +160,11 @@
                   Waffenmacht zugestanden wird. Sich einen Zweck zu setzen, dann aber die Mittel zu
                   diesem Zweck zu versagen, ist die Art der heutigen Deutschen. Und sie meinen
                   immer, daß sich ihnen zuliebe der Mensch auf einmal ändern wird. |</note>
-         <note type="summary">Man sollte sich die Frage erlauben, ob Deutschland politisch
+               <note type="summary">Man sollte sich die Frage erlauben, ob Deutschland politisch
                   unbegabt sei und deswegen völlig auf Politik verzichten und sich einer
                   Innerlichkeit zuwenden solle. Aber die Pazifisten begriffen das nicht.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

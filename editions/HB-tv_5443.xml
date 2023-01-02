@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 29. Juli</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919-08-17</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,38 +26,42 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5443"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 29. Juli</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">27</biblScope>
-               <biblScope unit="issue">9263</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1919-08-17">17.8.1919</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Otto Weininger: Taschenbuch und Briefe an einen Freund. Hg.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5443"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 29. Juli</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">27</biblScope>
+                     <biblScope unit="issue">9263</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1919-08-17">17.8.1919</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Otto Weininger: Taschenbuch und Briefe an einen Freund. Hg.
                   Artur Gerber. Wien: E. P. Tal 1919.</note>
-         <note type="other-prints">1919. Tagebuch, 245</note>
-         <note type="incipit">Otto Weiningers »Taschenbuch und Briefe an einen Freund«,
+               <note type="other-prints">1919. Tagebuch, 245</note>
+               <note type="incipit">Otto Weiningers »Taschenbuch und Briefe an einen Freund«,
                   herausgegeben von Artur Gerber</note>
-         <note type="summary">Wer sich näher zum Guten bewege, gewinne trotzdem keinen Abstand
+               <note type="summary">Wer sich näher zum Guten bewege, gewinne trotzdem keinen Abstand
                   zum Bösen: Ohne Gott sei es unmöglich, Mensch zu sein.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2630"/>
-               <ptr type="pmb" target="#12877"/>
-               <ptr type="HB-tv" target="HB-tv_5443_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2630"/>
+                     <ptr type="pmb" target="#12877"/>
+                     <ptr type="HB-tv" target="HB-tv_5443_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

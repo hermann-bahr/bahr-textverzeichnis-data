@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Hermann Bahr und sein Buch</title>
-            <title when-iso=""/>
+            <title type="iso-date">1907-05-21</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,35 +26,39 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3933"
-            type="Journal-Article"
-            subtype="Leserbrief"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Hermann Bahr und sein Buch</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41531">Berliner Tageblatt</title>
-            <imprint>
-               <biblScope unit="jg">36</biblScope>
-               <biblScope unit="issue">252, Abend-Ausgabe</biblScope>
-               <biblScope unit="pages">3</biblScope>
-               <date when="1907-05-21">21.5.1907</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Von Herrn Hermann Bahr erhalten wir die folgende
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3933"
+                        type="Journal-Article"
+                        subtype="Leserbrief"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Hermann Bahr und sein Buch</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41531">Berliner Tageblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">36</biblScope>
+                     <biblScope unit="issue">252, Abend-Ausgabe</biblScope>
+                     <biblScope unit="pages">3</biblScope>
+                     <date when="1907-05-21">21.5.1907</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Von Herrn Hermann Bahr erhalten wir die folgende
                      Zuschrift:« Bahr schreibt bezüglich der Auseinandersetzung um sein Buch »Wien«,
                      daß er nicht die Ansicht des Verlegers teilt, der es zu einer Zensur an die
                      Oberstaatsanwalt schickte.</p>
-         </note>
-         <note type="first-printing">Neues Wiener Journal, 15 (1907) #487, 23.
+               </note>
+               <note type="first-printing">Neues Wiener Journal, 15 (1907) #487, 23.
                   (19.5.1907)</note>
-         <note type="incipit">Sehr geehrter Herr Redakteur! Sie würden mich sehr verpflichten,
+               <note type="incipit">Sehr geehrter Herr Redakteur! Sie würden mich sehr verpflichten,
                   wenn Sie dir Freundlichkeit hätten, Ihren Lesern folgendes mitzuteilen: Vorigen
                   Sommer von Leo Gärtner aufgefordert</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1907_buch.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1907_buch.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

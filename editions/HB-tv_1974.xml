@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Timon von Athen. (Von Shakespeare. Im
                      Kaiserjubiläums-Stadttheater aufgeführt am 31. Jänner 1905)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1905-02-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,24 +27,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1974" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Timon von Athen. (Von Shakespeare. Im
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1974" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Timon von Athen. (Von Shakespeare. Im
                      Kaiserjubiläums-Stadttheater aufgeführt am 31. Jänner 1905)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">39</biblScope>
-               <biblScope unit="issue">32</biblScope>
-               <biblScope unit="pages">15</biblScope>
-               <date when="1905-02-01">1.2.1905</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Glossen, 449-454</note>
-         <note type="incipit">So ist die Reihe: Lear, dann Antonius</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">39</biblScope>
+                     <biblScope unit="issue">32</biblScope>
+                     <biblScope unit="pages">15</biblScope>
+                     <date when="1905-02-01">1.2.1905</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Glossen, 449-454</note>
+               <note type="incipit">So ist die Reihe: Lear, dann Antonius</note>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

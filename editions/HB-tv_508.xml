@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Freie Gedanken. [II]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1882-10-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,41 +26,45 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_508" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Kieselak</author>
-            <title level="a">Freie Gedanken. [II]</title>
-         </analytic>
-         <monogr>
-            <title level="j">Linzer Sonntagsblatt</title>
-            <imprint>
-               <biblScope unit="jg">3</biblScope>
-               <biblScope unit="issue">40</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1882-10-01">1.10.1882</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Daß unsere Partei weder mit den windbeuteligen Schnorrern,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_508" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Kieselak</author>
+                  <title level="a">Freie Gedanken. [II]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Linzer Sonntagsblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">3</biblScope>
+                     <biblScope unit="issue">40</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1882-10-01">1.10.1882</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Daß unsere Partei weder mit den windbeuteligen Schnorrern,
                   Mäklern, Jobbern</note>
-         <note type="summary">In seiner zweiten Kolumne als Kieselak schießt sich Bahr auf die
+               <note type="summary">In seiner zweiten Kolumne als Kieselak schießt sich Bahr auf die
                   Demokraten und vor allem die Sozialisten ein, denn gerade im Umgang mit letzteren
                   zeigt es sich ihm, dass die Deutschnationalen die »eigentlichen« Sozialisten
                   sind.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2412"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#5329"/>
-               <ptr type="pmb" target="#3471"/>
-               <ptr type="pmb" target="#12195"/>
-               <ptr type="pmb" target="#10943"/>
-               <ptr type="pmb" target="#10966"/>
-               <ptr type="HB-tv" target="HB-tv_508_p1"/>
-               <ptr type="HB-tv" target="HB-tv_508_p2"/>
-               <ptr type="HB-tv" target="HB-tv_509_p1"/>
-               <ptr type="HB-tv" target="HB-tv_508_p4"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2412"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#5329"/>
+                     <ptr type="pmb" target="#3471"/>
+                     <ptr type="pmb" target="#12195"/>
+                     <ptr type="pmb" target="#10943"/>
+                     <ptr type="pmb" target="#10966"/>
+                     <ptr type="HB-tv" target="HB-tv_508_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_508_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_509_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_508_p4"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

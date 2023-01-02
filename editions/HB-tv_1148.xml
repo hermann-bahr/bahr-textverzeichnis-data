@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Mystisch. I</title>
-            <title when-iso=""/>
+            <title type="iso-date">1924-11-15</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,42 +26,46 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1148" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Mystisch. I</title>
-         </analytic>
-         <monogr>
-            <title level="j">Münchner Neueste Nachrichten</title>
-            <imprint>
-               <biblScope unit="jg">77</biblScope>
-               <biblScope unit="issue">312</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1924-11-15">15.11.1924</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Bernhard Jansen: Wege der Weltweisheit. Freiburg i.Br.: Herder
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1148" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Mystisch. I</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Münchner Neueste Nachrichten</title>
+                  <imprint>
+                     <biblScope unit="jg">77</biblScope>
+                     <biblScope unit="issue">312</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1924-11-15">15.11.1924</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Bernhard Jansen: Wege der Weltweisheit. Freiburg i.Br.: Herder
                   1924.</note>
-         <note type="first-printing">Abgeänderte Fassung: Neue Leipziger Zeitung ?, 19.11.1924
+               <note type="first-printing">Abgeänderte Fassung: Neue Leipziger Zeitung ?, 19.11.1924
                   ?</note>
-         <note type="incipit">Daß die Jugend dieser Zeit, immer nur den Wassern des Relativen
+               <note type="incipit">Daß die Jugend dieser Zeit, immer nur den Wassern des Relativen
                   treibend und immer wieder damit vertröstet, es liege nun einmal in der Natur des
                   menschlichen Geistes</note>
-         <note type="summary">Bahr sieht das aktuelle Streben der Jugend zur Kirche hin in
+               <note type="summary">Bahr sieht das aktuelle Streben der Jugend zur Kirche hin in
                   ihrer Fähigkeit antworten zu geben. Den Reiz macht die Mystik aus, der man ihre
                   Basis bei Thomas von Aquin oft verkennt.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12832"/>
-               <ptr type="pmb" target="#8190"/>
-               <ptr type="pmb" target="#3386"/>
-               <ptr type="HB-tv" target="HB-tv_1148_p1"/>
-               <ptr type="HB-tv" target="HB-tv_1149_p5"/>
-               <ptr type="HB-tv" target="HB-tv_1148_p3"/>
-               <ptr type="HB-tv" target="HB-tv_1148_p4"/>
-               <ptr type="HB-tv" target="HB-tv_1223_p2"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12832"/>
+                     <ptr type="pmb" target="#8190"/>
+                     <ptr type="pmb" target="#3386"/>
+                     <ptr type="HB-tv" target="HB-tv_1148_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_1149_p5"/>
+                     <ptr type="HB-tv" target="HB-tv_1148_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_1148_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_1223_p2"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

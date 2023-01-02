@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">1. Januar [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5498"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">1. Januar [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">28–29</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Hessische Freiheitsblätter«, Monatsschrift von Fritz
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5498"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">1. Januar [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">28–29</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Hessische Freiheitsblätter«, Monatsschrift von Fritz
                   Stück</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Aus dem Brief einer Amerikanerin: »Die deutsche Propaganda war
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Aus dem Brief einer Amerikanerin: »Die deutsche Propaganda war
                   drüben nicht glücklich, weil ein seelisches Ziel fehlte, das lebhafte Interessen
                   bei den Anglikanern zu erwecken vermocht hätte. Man war nicht nur falsch und
                   ungenügend über die Vorgänge in Deutschland informiert, sondern man interessierte
@@ -102,8 +99,10 @@
                   Seiten muß er sich wehren, um den »Weg zur stämmischen Gliederung« Deutschlands zu
                   bahnen. Im Grund ist’s auch nur wieder der ewige Kampf des Organischen gegen das
                   Mechanische! |</note>
-         <note type="summary">Deutschlands Unfähigkeit, sein Wesen dem Ausland begreiflich zu
+               <note type="summary">Deutschlands Unfähigkeit, sein Wesen dem Ausland begreiflich zu
                   machen.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

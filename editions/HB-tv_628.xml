@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Im Engadin. II</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902-08-12</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,40 +26,44 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_628" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Im Engadin. II</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">36</biblScope>
-               <biblScope unit="issue">221</biblScope>
-               <biblScope unit="pages">1–3</biblScope>
-               <date when="1902-08-12">12.8.1902</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Pontresina, 7. August. Die Erinnerung an Segantini zu hegen, bin
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_628" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Im Engadin. II</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">36</biblScope>
+                     <biblScope unit="issue">221</biblScope>
+                     <biblScope unit="pages">1–3</biblScope>
+                     <date when="1902-08-12">12.8.1902</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Pontresina, 7. August. Die Erinnerung an Segantini zu hegen, bin
                   ich aus den Munt della Bescha, den Schafberg</note>
-         <note type="summary">Bahr liefert weitere Stimmungsbilder von seinem Rad- und
+               <note type="summary">Bahr liefert weitere Stimmungsbilder von seinem Rad- und
                   Wanderurlaub im Engadin: Am Sterbeort von Segantini, auf Bergen und in
                   Berghütten.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#9845"/>
-               <ptr type="pmb" target="#13024"/>
-               <ptr type="pmb" target="#11441"/>
-               <ptr type="HB-tv" target="HB-tv_628_p1"/>
-               <ptr type="HB-tv" target="HB-tv_628_p2"/>
-               <ptr type="HB-tv" target="HB-tv_628_p3"/>
-               <ptr type="HB-tv" target="HB-tv_628_p4"/>
-               <ptr type="HB-tv" target="HB-tv_3665_p9"/>
-               <ptr type="HB-tv" target="HB-tv_3893_p12"/>
-               <ptr type="HB-tv" target="HB-tv_628_p7"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#9845"/>
+                     <ptr type="pmb" target="#13024"/>
+                     <ptr type="pmb" target="#11441"/>
+                     <ptr type="HB-tv" target="HB-tv_628_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_628_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_628_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_628_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_3665_p9"/>
+                     <ptr type="HB-tv" target="HB-tv_3893_p12"/>
+                     <ptr type="HB-tv" target="HB-tv_628_p7"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

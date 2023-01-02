@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Pariser Brief. Paris, 27. Mai</title>
-            <title when-iso=""/>
+            <title type="iso-date">1889-06-02</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,33 +26,37 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1180" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Pariser Brief. Paris, 27. Mai</title>
-         </analytic>
-         <monogr>
-            <title level="j">Wiener Salonblatt</title>
-            <imprint>
-               <biblScope unit="jg">20</biblScope>
-               <biblScope unit="issue">22</biblScope>
-               <biblScope unit="pages">2–3</biblScope>
-               <date when="1889-06-02">2.6.1889</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Der Wiener Vergnügungszug zur Weltausstellung kam am Bahnhof an, Bahr war vor
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1180" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Pariser Brief. Paris, 27. Mai</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Wiener Salonblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">20</biblScope>
+                     <biblScope unit="issue">22</biblScope>
+                     <biblScope unit="pages">2–3</biblScope>
+                     <date when="1889-06-02">2.6.1889</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Der Wiener Vergnügungszug zur Weltausstellung kam am Bahnhof an, Bahr war vor
                      Ort.</p>
-         </note>
-         <note type="incipit">Wollen wir einmal aufrichtig sein?</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11441"/>
-               <ptr type="pmb" target="#5579"/>
-               <ptr type="HB-tv" target="HB-tv_1180_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-salonblatt/20-22_pariser-brief.pdf</ref>
+               </note>
+               <note type="incipit">Wollen wir einmal aufrichtig sein?</note>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11441"/>
+                     <ptr type="pmb" target="#5579"/>
+                     <ptr type="HB-tv" target="HB-tv_1180_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-salonblatt/20-22_pariser-brief.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

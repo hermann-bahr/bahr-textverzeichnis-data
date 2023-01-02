@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Wort</title>
-            <title when-iso=""/>
+            <title type="iso-date">1923-09-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1429" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Wort</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36374">Neue Freie Presse</title>
-            <imprint>
-               <biblScope unit="issue">21191, Morgenblatt</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1923-09-07">7.9.1923</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Ernst Cassirer: Philosophie der symbolischen Formen. Berlin:
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1429" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Wort</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36374">Neue Freie Presse</title>
+                  <imprint>
+                     <biblScope unit="issue">21191, Morgenblatt</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1923-09-07">7.9.1923</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Ernst Cassirer: Philosophie der symbolischen Formen. Berlin:
                   Bruno Cassirer 1923.</note>
-         <note type="first-printing">Berliner Börsen–Courier, 55 (1923) #411, 1. Beilage, 5.
+               <note type="first-printing">Berliner Börsen–Courier, 55 (1923) #411, 1. Beilage, 5.
                   (2.9.1923) Leipziger Tageblatt und Handelszeitung, (1923) #213, 3.
                   (8.9.1923)</note>
-         <note type="incipit">Burckhard ließ als junger Bezirksrichter in Gmunden einmal zwei
+               <note type="incipit">Burckhard ließ als junger Bezirksrichter in Gmunden einmal zwei
                   Weiber, die gegenseitig auf Ehrenbeleidigung klagten</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-9-7_wort.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1923-9-7_wort.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

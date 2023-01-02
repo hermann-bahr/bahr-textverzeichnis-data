@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Literarische Anzeigen. »Die Geschichte der ersten
                      sozialpolitischen Arbeiterbewegung in Deutschland mit besonderer Rücksicht auf
                      die einwirkenden Theorien«</title>
-            <title when-iso=""/>
+            <title type="iso-date">1886</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,32 +28,36 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_20"
-            type="Journal-Article"
-            subtype="Rezension"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Literarische Anzeigen. »Die Geschichte der ersten
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_20"
+                        type="Journal-Article"
+                        subtype="Rezension"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Literarische Anzeigen. »Die Geschichte der ersten
                      sozialpolitischen Arbeiterbewegung in Deutschland mit besonderer Rücksicht auf
                      die einwirkenden Theorien«</title>
-         </analytic>
-         <monogr>
-            <title level="j">Deutsche Worte, Wien</title>
-            <imprint>
-               <biblScope unit="jg">6</biblScope>
-               <biblScope unit="issue">2 (Februar)</biblScope>
-               <biblScope unit="pages">91</biblScope>
-               <date when="1886">1886</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Georg Adler: Die Geschichte der ersten sozialpolitischen
+               </analytic>
+               <monogr>
+                  <title level="j">Deutsche Worte, Wien</title>
+                  <imprint>
+                     <biblScope unit="jg">6</biblScope>
+                     <biblScope unit="issue">2 (Februar)</biblScope>
+                     <biblScope unit="pages">91</biblScope>
+                     <date when="1886">1886</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Georg Adler: Die Geschichte der ersten sozialpolitischen
                   Arbeiterbewegung in Deutschland mit besonderer Rücksicht auf die einwirkenden
                   Theorien. Ein Beitrag zur Entwicklungsgeschichte der sozialen Frage. Breslau:
                   Trewendt 1885</note>
-         <note type="incipit">Man kann ein Buch zwiefach beurtheilen: nach dem, was es ist,
+               <note type="incipit">Man kann ein Buch zwiefach beurtheilen: nach dem, was es ist,
                   und nach dem, was es sein will und zu sein vorgibt.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1886_deutsche-worte.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1886_deutsche-worte.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

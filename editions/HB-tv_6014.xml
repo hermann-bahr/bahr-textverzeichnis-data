@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 6. April</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-05-09</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6014"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 6. April</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9521</biblScope>
-               <biblScope unit="pages">4</biblScope>
-               <date when="1920-05-09">9.5.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 108–109</note>
-         <note type="incipit">Ein selbstgefällig perorierender Knirps belehrt einen geduldigen
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6014"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 6. April</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9521</biblScope>
+                     <biblScope unit="pages">4</biblScope>
+                     <date when="1920-05-09">9.5.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 108–109</note>
+               <note type="incipit">Ein selbstgefällig perorierender Knirps belehrt einen geduldigen
                   alten Herrn so laut, daß auch wir andern alle, die den sich immer noch mehr
                   verspätenden Zug erwarten, gezwungen sind zuzuhören. »Daß diese Wirtschaft nicht
                   weiter geht,« erklärt er, »das weiß doch schon ein jeder! Denn warum? Das Geld
@@ -80,11 +77,13 @@
                   regieren, also da wären sie ja dann doch Narren, sich erst anzustrengen, daß sie
                   gut regieren!« Volkesstimme. Man sieht daraus, daß wir erst gar keine Clarté mehr
                   brauchen, um uns den Nationalstolz abzugewöhnen. |</note>
-         <note type="summary">Bahr referiert einen Vorschlag, die Bundesländer
+               <note type="summary">Bahr referiert einen Vorschlag, die Bundesländer
                   Rest-Österreichs zu versteigern: Die neuen Eigentümer würden sicher gut regieren,
                   weil sie wüssten, dass es ihr Eigentum wäre, wohingegen die jetzigen Politiker
                   anderer Leute Geld ausgeben.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 24. März</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-04-18</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,24 +26,26 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6011"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 24. März</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9501</biblScope>
-               <biblScope unit="pages">5–6</biblScope>
-               <date when="1920-04-18">18.4.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Otto Hoetzsch: Tschecho-Slowakei und Polen, Neue Rundschau,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6011"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 24. März</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9501</biblScope>
+                     <biblScope unit="pages">5–6</biblScope>
+                     <date when="1920-04-18">18.4.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Otto Hoetzsch: Tschecho-Slowakei und Polen, Neue Rundschau,
                   März 1920 Hermann Hesse: Die Brüder Karamasow oder der Untergang Europas, Neue
                   Rundschau, März 1920 Otto Hoetzsch: Russland. Eine Einführung auf Grund seiner
                   Geschichte vom Japanischen bis zum Weltkrieg. 2. vollst. umgearbeitete Aufl.
@@ -56,8 +53,8 @@
                   geistigen Strömungen in Russland. Jena: Diederichs 1913. Rudolf Pannwitz: Der
                   Geist der Tschechen. Wien: Der Friede 1919. Leo Seifert in: Der Strahl, Verlag
                   Bund der geistig Tätigen</note>
-         <note type="other-prints">Kritik der Gegenwart, 90-98</note>
-         <note type="incipit">Im Märzheft der »Neuen Rundschau« ein bemerkenswerter Aufsatz
+               <note type="other-prints">Kritik der Gegenwart, 90-98</note>
+               <note type="incipit">Im Märzheft der »Neuen Rundschau« ein bemerkenswerter Aufsatz
                   von Otto Hoetzsch über »Tschecho-Slowakei und Polen«. Hoetzsch hat schon vor dem
                   Krieg, als es noch unter Deutschen guter Ton war, von Slawen nichts wissen zu
                   wollen, Interesse für ihre Probleme gezeigt, er kennt sie nicht bloß, sondern
@@ -278,11 +275,13 @@
                   in jedem Sinne katholisches Barock, ein Barock, das ins erste nun auch noch Walt
                   Whitman mit Dostojewski hineinzunehmen die weltumspannende Seelenkraft hätte!
                   |</note>
-         <note type="summary">Eine Beschäftigung mit neuerer Literatur über Osteuropa führt
+               <note type="summary">Eine Beschäftigung mit neuerer Literatur über Osteuropa führt
                   Bahr zu der Frage, ob der Mensch bei Dostojewskij mit Nietzsche gedacht werden
                   muss, oder bereits die Überwindung Nietzsches formuliert und so eine Vorlage für
                   den zukünftigen Europäer bilden kann.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

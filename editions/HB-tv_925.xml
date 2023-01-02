@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Schwindler</title>
-            <title when-iso=""/>
+            <title type="iso-date">1914-03-02</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,24 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_925" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Schwindler</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41531">Berliner Tageblatt</title>
-            <imprint>
-               <biblScope unit="jg">43</biblScope>
-               <biblScope unit="issue">111, Abend-Ausgabe</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1914-03-02">2.3.1914</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Expressionismus, 30-41</note>
-         <note type="incipit">Leute, die seit zwanzig Jahren meinem Urteil über Maler
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_925" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Schwindler</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41531">Berliner Tageblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">43</biblScope>
+                     <biblScope unit="issue">111, Abend-Ausgabe</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1914-03-02">2.3.1914</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Expressionismus, 30-41</note>
+               <note type="incipit">Leute, die seit zwanzig Jahren meinem Urteil über Maler
                   vertrauen, sind jetzt auf einmal wütend auf mich</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_schwindler.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_schwindler.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

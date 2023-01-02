@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Renaissance. Neue Studien zur Kritik der
                      Moderne</title>
-            <title when-iso=""/>
+            <title type="iso-date">1897</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,31 +27,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1356"
-            type="Book"
-            sameAs="pmb30383"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30383">Renaissance. Neue Studien zur Kritik der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1356"
+                        type="Book"
+                        sameAs="pmb30383"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30383">Renaissance. Neue Studien zur Kritik der
                      Moderne</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1897">1897</date>
-            </imprint>
-            <extent>244 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Erschienen am 1. Februar 1897 (Tagebücher (Csáky), II, 235). An S. Fischer
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1897">1897</date>
+                  </imprint>
+                  <extent>244 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Erschienen am 1. Februar 1897 (Tagebücher (Csáky), II, 235). An S. Fischer
                      schreibt Bahr (3. Juni 1896), dass er 30 Mark pro Bogen verlangt, 300 Mark bei
                      Annahme des Manuskripts. Als Auflage stellt er sich 1200 vor. Rezensionen:
                      Bartels, Adolf: Hermann Bahr, der Kritiker. In: Der Kunstwart, 11 (1898/99) #1,
                      S. 276-281. Westermanns Illustrierte Deutsche Monatshefte, 85 (1898), 684.</p>
-         </note>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
-         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20renaissance</ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=49</ref>
+               </note>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+               <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20renaissance</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=49</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

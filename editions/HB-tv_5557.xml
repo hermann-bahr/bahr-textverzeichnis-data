@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">25. Juli [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5557"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">25. Juli [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">189–190</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Ich gelte für sehr gutmütig und man wundert sich, wie wenig ich
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5557"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">25. Juli [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">189–190</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Ich gelte für sehr gutmütig und man wundert sich, wie wenig ich
                   Kränkungen empfinde, wie leicht ich sie nehme, wie rasch ich sie vergesse. Das ist
                   aber ein Mißverständnis. Mein Verhältnis zum Nächsten wird leider nicht durch
                   Güte, Wohlwollen und Nachsicht bestimmt, sondern ich bin nur, nach meiner Kenntnis
@@ -72,9 +69,11 @@
                   Leonhard Frank hätte recht und der Mensch wäre, wenn auch gefallen, im Grunde doch
                   gut? Aber warum ist dann der gute Mensch so feig und schweigt? Warum steht keiner
                   auf und gibt allen das Zeichen zum Guten? |</note>
-         <note type="summary">Bahr misstraut den Menschen zutiefst, ist aber umso gerühter,
+               <note type="summary">Bahr misstraut den Menschen zutiefst, ist aber umso gerühter,
                   wenn dann einer doch etwas Gutes tut. Nur, warum die Guten sich zur Zeit kein
                   Gehör verschaffen, will er nicht recht begreifen.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

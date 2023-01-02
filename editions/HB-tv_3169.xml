@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Ehrbare Mädchen. (Le vergini, Komödie in vier Akten von Marco
                      Praga, deutsch von Otto Sommerstorff. Zum erstenmale aufgeführt im Theater in
                      der Josephstadt am 5. September 1902)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1903</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,29 +28,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3169"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Ehrbare Mädchen. (Le vergini, Komödie in vier Akten von Marco
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3169"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Ehrbare Mädchen. (Le vergini, Komödie in vier Akten von Marco
                      Praga, deutsch von Otto Sommerstorff. Zum erstenmale aufgeführt im Theater in
                      der Josephstadt am 5. September 1902)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1903">1903</date>
-               <biblScope unit="pages">410–415</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #246, 6–7.
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1903">1903</date>
+                     <biblScope unit="pages">410–415</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #246, 6–7.
                   (6.9.1902)</note>
-         <note type="incipit">Herr Tossi, ein kleiner Beamter bei der Steuer, stirbt und nun
+               <note type="incipit">Herr Tossi, ein kleiner Beamter bei der Steuer, stirbt und nun
                   steht seine Frau Delfina, eine gute, dumme, träge Person</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

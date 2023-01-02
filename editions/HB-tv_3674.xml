@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der Richter</title>
-            <title when-iso=""/>
+            <title type="iso-date">1910</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3674" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Der Richter</title>
-         </analytic>
-         <monogr>
-            <title level="j">Jahrbuch der Freien Generation. Volkskalender und Dokumente der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3674" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Der Richter</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Jahrbuch der Freien Generation. Volkskalender und Dokumente der
                      Weltanschauung des Sozialismus-Anarchismus</title>
-            <imprint>
-               <biblScope unit="jg">Neue Folge, 1</biblScope>
-               <biblScope unit="pages">68–72</biblScope>
-               <date when="1910">1910</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal, 17 (1909) #5639, 1–2.
+                  <imprint>
+                     <biblScope unit="jg">Neue Folge, 1</biblScope>
+                     <biblScope unit="pages">68–72</biblScope>
+                     <date when="1910">1910</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal, 17 (1909) #5639, 1–2.
                   (4.7.1909)</note>
-         <note type="other-prints">Als »Austriaca. 7« in: Austriaca, 63-71.</note>
-         <note type="incipit">In einem Buche, das ich jetzt gelesen habe, kommt ein
+               <note type="other-prints">Als »Austriaca. 7« in: Austriaca, 63-71.</note>
+               <note type="incipit">In einem Buche, das ich jetzt gelesen habe, kommt ein
                   merkwürdiges Gespräch über die Rechtspflege vor</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Theaterfragen</title>
-            <title when-iso=""/>
+            <title type="iso-date">1912-05-31</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4421"
-            type="Journal-Article"
-            subtype="Vorabdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Theaterfragen</title>
-         </analytic>
-         <monogr>
-            <title level="j">Hamburger Nachrichten</title>
-            <imprint>
-               <biblScope unit="jg">121</biblScope>
-               <biblScope unit="issue">250, Morgen-Ausgabe</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1912-05-31">31.5.1912</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Hermann Bahr läßt Anfang Juni im Insel-Verlag zu
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4421"
+                        type="Journal-Article"
+                        subtype="Vorabdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Theaterfragen</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Hamburger Nachrichten</title>
+                  <imprint>
+                     <biblScope unit="jg">121</biblScope>
+                     <biblScope unit="issue">250, Morgen-Ausgabe</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1912-05-31">31.5.1912</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Hermann Bahr läßt Anfang Juni im Insel-Verlag zu
                      Leipzig einen Band ’Essays’ erscheinen, in dem er diejenigen seiner Aufsätze
                      sammelt, denen er selbst die größte und dauerndste Wirkung zuspricht. Neben
                      Charakteristiken bedeutender Menschen der Vergangenheit und Gegenwart
@@ -59,12 +56,14 @@
                      zugänglich machen.« Die Textvorlage für die Einleitung stammt aus dem
                      Insel-Verlag, vergleiche die nahezu gleichlautenden Einleitungen zu
                      Vorabdrucken in der Frankfurter Zeitung und dem Prager Tagblatt.</p>
-         </note>
-         <note type="first-printing">Neue Freie Presse, (1911) #16809, Morgenblatt, 1–2.
+               </note>
+               <note type="first-printing">Neue Freie Presse, (1911) #16809, Morgenblatt, 1–2.
                   (10.6.1911) Neue Theater–Zeitschrift, 1 (1911) #1, 4–5. (5.7.1911)</note>
-         <note type="other-prints">Essays (1912), 205-210</note>
-         <note type="incipit">Einer begabten und beliebten Wiener Schauspielerin wird
+               <note type="other-prints">Essays (1912), 205-210</note>
+               <note type="incipit">Einer begabten und beliebten Wiener Schauspielerin wird
                   ein</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

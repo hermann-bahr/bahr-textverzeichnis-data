@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Artur Schnitzler</title>
-            <title when-iso=""/>
+            <title type="iso-date">1931-10-25</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,21 +26,23 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6827" type="Journal-Article" sameAs="pmb31875">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a" ref="pmb31875">Artur Schnitzler</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">65</biblScope>
-               <biblScope unit="issue">294</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1931-10-25">25.10.1931</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Artur Schnitzler. Nachruf von Hermann Bahr, Mitglied der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6827" type="Journal-Article" sameAs="pmb31875">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a" ref="pmb31875">Artur Schnitzler</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">65</biblScope>
+                     <biblScope unit="issue">294</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1931-10-25">25.10.1931</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Artur Schnitzler. Nachruf von Hermann Bahr, Mitglied der
                   preußischen Dichterakademie Artur Schnitzler wuchs in den sechziger Jahren auf, in
                   der Zeit der Schlacht von Sadowa, deren Ergebnis alle Hoffnungen Oesterreichs
                   knickte. Seit Oesterreich im Abendland nicht mehr mitzusprechen oder gar
@@ -60,13 +57,15 @@
                   »Freiwild«, »Reigen«, »Der einsame Weg«, »Der Gang zum Weiher« und das »Buch der
                   Sprüche«, mögen sie zuweilen eine Zeitlang vergessen sein, doch immer wieder
                   fröhlichen Urstand feiern werden. |</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2121"/>
-               <ptr type="pmb" target="#10863"/>
-               <ptr type="pmb" target="#11740"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2121"/>
+                     <ptr type="pmb" target="#10863"/>
+                     <ptr type="pmb" target="#11740"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

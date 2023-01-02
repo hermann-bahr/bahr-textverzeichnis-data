@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Das goldene Kalb. (Les Ventres Dorés. Schauspiel in vier Aufzügen
                      von Emile Fabre. Deutsch von Stephan Estienne. Zum ersten Mal aufgeführt im
                      Deutschen Volkstheater am 7. April 1906)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1906-04-08</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,44 +28,48 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2451" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Das goldene Kalb. (Les Ventres Dorés. Schauspiel in vier Aufzügen
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2451" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Das goldene Kalb. (Les Ventres Dorés. Schauspiel in vier Aufzügen
                      von Emile Fabre. Deutsch von Stephan Estienne. Zum ersten Mal aufgeführt im
                      Deutschen Volkstheater am 7. April 1906)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">40</biblScope>
-               <biblScope unit="issue">97</biblScope>
-               <biblScope unit="pages">13</biblScope>
-               <date when="1906-04-08">8.4.1906</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Les Ventres dorés (Das goldene Kalb)« von Émile Fabre,
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">40</biblScope>
+                     <biblScope unit="issue">97</biblScope>
+                     <biblScope unit="pages">13</biblScope>
+                     <date when="1906-04-08">8.4.1906</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Les Ventres dorés (Das goldene Kalb)« von Émile Fabre,
                   deutsch von Stephan Estienne</note>
-         <note type="incipit">Man staunt, wie sich das Verhältnis der französischen Autoren
+               <note type="incipit">Man staunt, wie sich das Verhältnis der französischen Autoren
                   zur deutschen Bühne verändert hat.</note>
-         <note type="summary">Bahr untersucht, warum das französische Theater auf den
+               <note type="summary">Bahr untersucht, warum das französische Theater auf den
                   deutschen Bühnen seinen Einfluss verloren hat und erkennt die unterschiedlichen
                   Interessen: Suchen die Franzosen die Wirkung, interessiert hier die Ausgestaltung
                   einer Rolle.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#16075"/>
-               <ptr type="pmb" target="#8948"/>
-               <ptr type="pmb" target="#10825"/>
-               <ptr type="pmb" target="#2235"/>
-               <ptr type="pmb" target="#4179"/>
-               <ptr type="pmb" target="#26880"/>
-               <ptr type="HB-tv" target="HB-tv_2451_p1"/>
-               <ptr type="HB-tv" target="HB-tv_2402_p2"/>
-               <ptr type="HB-tv" target="HB-tv_2035_p2"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#16075"/>
+                     <ptr type="pmb" target="#8948"/>
+                     <ptr type="pmb" target="#10825"/>
+                     <ptr type="pmb" target="#2235"/>
+                     <ptr type="pmb" target="#4179"/>
+                     <ptr type="pmb" target="#26880"/>
+                     <ptr type="HB-tv" target="HB-tv_2451_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_2402_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_2035_p2"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

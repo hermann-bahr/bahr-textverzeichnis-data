@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Das Veilchen. Schwank in drei Aufzügen</title>
-            <title when-iso=""/>
+            <title type="iso-date">1890</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,18 +26,20 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1087" type="Book" status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Das Veilchen. Schwank in drei Aufzügen</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <date when="1890">1890</date>
-            </imprint>
-            <extent>66 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Es handelt sich um ein gesetztes Manuskript, noch ohne Verlag. Eine
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1087" type="Book" status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Das Veilchen. Schwank in drei Aufzügen</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1890">1890</date>
+                  </imprint>
+                  <extent>66 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Es handelt sich um ein gesetztes Manuskript, noch ohne Verlag. Eine
                      handschriftliche Ergänzung von dreieinhalb Seiten ersetzt den gestrichenen
                      vierten Akt. Dies ist die einzige Publikation Bahrs, die in der Bibliographie
                      von Kurt Thomasberger fehlt. Sie wird erstmals bei Reinhard Farkas: Prophet der
@@ -56,8 +53,8 @@
                      drei Aufzügen von Hermann Bahr Personen Advokat Gustav Klemm Alice&lt;?&gt;,
                      seine Frau Hans Jummel&lt;?&gt;, Bildhauer Kathi Wimmerl Erschienen bei S.
                      Fischer, Berlin =====</p>
-         </note>
-         <note type="summary">1. Akt: Die junge Frau eines Anwalts fühlt sich von diesem
+               </note>
+               <note type="summary">1. Akt: Die junge Frau eines Anwalts fühlt sich von diesem
                   vernachlässigt und überlegt gemeinsam mit dem Hausfreund, einem Bildhauer, wie sie
                   die Situation verändern kann. Nach dem Abgang des Künstlers kommt es zum
                   Ehestreit, worin Themen von Hausfrau und weiblicher Selbstbestimmung behandelt
@@ -72,6 +69,8 @@
                   Akt: Der Ehemann konfrontiert seine Frau, die behauptet, den Künstler nur besucht
                   zu haben, um ihn eifersüchtig zu machen. Am Ende hat die Frau die Oberhand und sie
                   kann ihrem Mann die neuen Regeln des Zusammenlebens diktieren.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

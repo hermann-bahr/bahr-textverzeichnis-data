@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 4. August</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-08-22</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6051"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 4. August</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9625</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1920-08-22">22.8.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 196–197</note>
-         <note type="incipit">Aus dem Augustheft von » The London Mercury« (Editor J. C.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6051"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 4. August</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9625</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1920-08-22">22.8.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 196–197</note>
+               <note type="incipit">Aus dem Augustheft von » The London Mercury« (Editor J. C.
                   Squire) ersehe ich, daß London zurzeit über ein Bauprojekt in einem Aufruhr ist,
                   den Kunstfragen dort selten erregen. Es handelt sich um einen von Sir Frank Baines
                   am Hyde park Corner geplanten »Turm« zur Erinnerung an die Toten des Krieges. Der
@@ -65,10 +62,12 @@
                   Sachunverständigen entschieden wurden, daß jetzt auch dort schon dazu das Urteil
                   aller Ahnungslosen eingeholt wird, ist doch eine bedenkliche Näherung an
                   Mitteleuropa. Sie sollten sich nicht zu sehr entinseln! |</note>
-         <note type="summary">Dass in London über ein zeitgenössisches Bauprojekt gestritten
+               <note type="summary">Dass in London über ein zeitgenössisches Bauprojekt gestritten
                   wird, begrüßt Bahr, der es abzulehnen scheint. Dass aber nicht nur Menschen mit
                   Sachverstand gefragt werden, findet er falsch.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

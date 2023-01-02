@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">12. September [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5577"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">12. September [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">222</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Alfons Goldschmidt: Moskau 1920. Reinbek: Rowohlt 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Alfons Goldschmidts »Moskau 1920« (Ernst Rowohlt Verlag,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5577"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">12. September [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">222</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Alfons Goldschmidt: Moskau 1920. Reinbek: Rowohlt 1920.</note>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Alfons Goldschmidts »Moskau 1920« (Ernst Rowohlt Verlag,
                   Berlin), Tagebuchblätter von einer raschen Reise, handfesten Skizzen
                   Sowjetrußlands, fällt mir eine glückliche Metapher auf: er liebe, sagt er einmal,
                   die Leute nicht, die »sich auf den Boden der Tatsachen stellen ... die Leute mit
@@ -60,7 +57,9 @@
                   muß nur sicher sein, daß die Drehbühne doch irgendwie fixiert ist, daß sie dann
                   unter sich noch einen Boden hat, etwas Festes. Dann mag er sie nach Herzenslust
                   unbesorgt nur immer drehen! |</note>
-         <note type="summary">Der Mann von Übermorgen hat eine Drehbühne im Herzen.</note>
+               <note type="summary">Der Mann von Übermorgen hat eine Drehbühne im Herzen.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

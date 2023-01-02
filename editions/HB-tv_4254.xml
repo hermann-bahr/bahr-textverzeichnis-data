@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Wenn Burckhard mich als Kirchgänger sähe…</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922-10-21</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,32 +26,36 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4254"
-            type="Journal-Article"
-            subtype="Nachdruck_Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Wenn Burckhard mich als Kirchgänger sähe…</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4254"
+                        type="Journal-Article"
+                        subtype="Nachdruck_Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Wenn Burckhard mich als Kirchgänger sähe…</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
-            <imprint>
-               <biblScope unit="jg">5</biblScope>
-               <biblScope unit="issue">3</biblScope>
-               <biblScope unit="pages">57</biblScope>
-               <date when="1922-10-21">21.10.1922</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »In seinem Tagebuch im ’N. W. J.’ (4. Juni 1922)
+                  <imprint>
+                     <biblScope unit="jg">5</biblScope>
+                     <biblScope unit="issue">3</biblScope>
+                     <biblScope unit="pages">57</biblScope>
+                     <date when="1922-10-21">21.10.1922</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »In seinem Tagebuch im ’N. W. J.’ (4. Juni 1922)
                      schrieb unlängst Hermann Bahr:«</p>
-         </note>
-         <note type="first-printing">Neues Wiener Journal, 4.6.1922</note>
-         <note type="incipit">Man fragt mich zuweilen vorwurfsvoll, was denn wohl Burckhard,
+               </note>
+               <note type="first-printing">Neues Wiener Journal, 4.6.1922</note>
+               <note type="incipit">Man fragt mich zuweilen vorwurfsvoll, was denn wohl Burckhard,
                   mein besseres Ich, dazu gesagt hätte, mich plötzlich als Kirchgänger zu
                   sehen?</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

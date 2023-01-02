@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Ein Nothelfer. Zum fünfzigsten Geburtstag Johannes
                      Müllers</title>
-            <title when-iso=""/>
+            <title type="iso-date">1914-04-17</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,33 +27,37 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1158" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Ein Nothelfer. Zum fünfzigsten Geburtstag Johannes
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1158" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Ein Nothelfer. Zum fünfzigsten Geburtstag Johannes
                      Müllers</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41531">Berliner Tageblatt</title>
-            <imprint>
-               <biblScope unit="jg">43</biblScope>
-               <biblScope unit="issue">193, Abend-Ausgabe</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1914-04-17">17.4.1914</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Dr. Johannes Müller in Mainberg, der Herausgeber der
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41531">Berliner Tageblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">43</biblScope>
+                     <biblScope unit="issue">193, Abend-Ausgabe</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1914-04-17">17.4.1914</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Dr. Johannes Müller in Mainberg, der Herausgeber der
                      »Blätter zur Pflege persönlichen Lebens«, wird am Sonntag fünfzig Jahre alt.
                      Johannes Müller hat sich durch seine kraftvolle Eigenart und den persönlichen
                      Gehalt seiner Lebenslehre eine große Gemeinde treuer Anhänger gewonnen. Wir
                      haben Hermann Bahr gebeten, den geistigen Umriß dieses sehr bemerkenswerten
                      Menschen unserer Zeit für unsere Leser festzuhalten.«</p>
-         </note>
-         <note type="other-prints">Als »Johannes Müller« in: Bilderbuch, 107–111</note>
-         <note type="incipit">Wenn man Johannes Müller nennt, nickt heute jeder Deutsche
+               </note>
+               <note type="other-prints">Als »Johannes Müller« in: Bilderbuch, 107–111</note>
+               <note type="incipit">Wenn man Johannes Müller nennt, nickt heute jeder Deutsche
                   zustimmend.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_mueller.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1914_mueller.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

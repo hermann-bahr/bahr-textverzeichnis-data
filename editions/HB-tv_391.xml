@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Das Lustspiel. (»Ein unbeschriebenes Blatt«, Lustspiel in drei
                      Aufzügen von Ernst von Wolzogen. Zum ersten Mal aufgeführt am 26. September
                      1896)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1896-10-03</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,39 +28,43 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_391" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Das Lustspiel. (»Ein unbeschriebenes Blatt«, Lustspiel in drei
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_391" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Das Lustspiel. (»Ein unbeschriebenes Blatt«, Lustspiel in drei
                      Aufzügen von Ernst von Wolzogen. Zum ersten Mal aufgeführt am 26. September
                      1896)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#36340">Die Zeit</title>
-            <imprint>
-               <biblScope unit="jg">9</biblScope>
-               <biblScope unit="issue">105</biblScope>
-               <biblScope unit="pages">11–12</biblScope>
-               <date when="1896-10-03">3.10.1896</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Als »Ein unbeschriebenes Blatt« in: Wiener Theater,
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#36340">Die Zeit</title>
+                  <imprint>
+                     <biblScope unit="jg">9</biblScope>
+                     <biblScope unit="issue">105</biblScope>
+                     <biblScope unit="pages">11–12</biblScope>
+                     <date when="1896-10-03">3.10.1896</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Als »Ein unbeschriebenes Blatt« in: Wiener Theater,
                   334-339</note>
-         <note type="incipit">Mit vertrauen sieht man seit Jahren auf Ernst von Wolzogen
+               <note type="incipit">Mit vertrauen sieht man seit Jahren auf Ernst von Wolzogen
                   hin</note>
-         <note type="summary">Wolzogen ist an der Erneuerung des Lustspiels für die Gegenwart
+               <note type="summary">Wolzogen ist an der Erneuerung des Lustspiels für die Gegenwart
                   gescheitert.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#13169"/>
-               <ptr type="pmb" target="#11617"/>
-               <ptr type="pmb" target="#11565"/>
-               <ptr type="pmb" target="#11798"/>
-               <ptr type="HB-tv" target="HB-tv_1966_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/105-11.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/105-12.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#13169"/>
+                     <ptr type="pmb" target="#11617"/>
+                     <ptr type="pmb" target="#11565"/>
+                     <ptr type="pmb" target="#11798"/>
+                     <ptr type="HB-tv" target="HB-tv_1966_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/105-11.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-9/105-12.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

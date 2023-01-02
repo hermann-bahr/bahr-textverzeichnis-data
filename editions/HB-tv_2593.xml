@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Von Religion und Kultur. Hermann Bahr über die katholische
                      Kirche</title>
-            <title when-iso=""/>
+            <title type="iso-date">1914-02-19</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,28 +27,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2593" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Von Religion und Kultur. Hermann Bahr über die katholische
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2593" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Von Religion und Kultur. Hermann Bahr über die katholische
                      Kirche</title>
-         </analytic>
-         <monogr>
-            <title level="j">Reichspost</title>
-            <imprint>
-               <biblScope unit="jg">21</biblScope>
-               <biblScope unit="issue">82, Morgenblatt</biblScope>
-               <biblScope unit="pages">11</biblScope>
-               <date when="1914-02-19">19.2.1914</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Johannes Müller und Hermann Bahr: Eine Unterhaltung mit
+               </analytic>
+               <monogr>
+                  <title level="j">Reichspost</title>
+                  <imprint>
+                     <biblScope unit="jg">21</biblScope>
+                     <biblScope unit="issue">82, Morgenblatt</biblScope>
+                     <biblScope unit="pages">11</biblScope>
+                     <date when="1914-02-19">19.2.1914</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Johannes Müller und Hermann Bahr: Eine Unterhaltung mit
                   Hermann Bahr über die Kirche. Nachschrift von Hermann Bahr. Blätter zur Pflege
                   persönlichen Lebens, 16 (1913) #4, 178–192, hier: 190–192. Nachdruck in:
                   Salzburger Volksblatt, 44 (1914) #42, 3–4. (21.2.1914)</note>
-         <note type="incipit">Leute, die im Bannkreis der sogenannten modernen Weltanschauung
+               <note type="incipit">Leute, die im Bannkreis der sogenannten modernen Weltanschauung
                   aufgewachsen sind, machen seltsame Entwicklungen durch.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1914-2-19_religion-und-kultur.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/reichspost/1914-2-19_religion-und-kultur.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

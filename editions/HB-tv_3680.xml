@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der Dilettirfer. Eine Decemberstudie</title>
-            <title when-iso=""/>
+            <title type="iso-date">1883-01-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3680"
-            type="Journal-Article"
-            subtype="Feuilleton"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Der Dilettirfer. Eine Decemberstudie</title>
-         </analytic>
-         <monogr>
-            <title level="j">Deutsche Hochschule. Organ der deutschen Studentenschaft</title>
-            <imprint>
-               <biblScope unit="jg">2</biblScope>
-               <biblScope unit="issue">44</biblScope>
-               <biblScope unit="pages">1–4</biblScope>
-               <date when="1883-01-01">1.1.1883</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Text datiert mit »Wien, im December 1882«. Die zweite Gruppe der »Dilettirfer«
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3680"
+                        type="Journal-Article"
+                        subtype="Feuilleton"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Der Dilettirfer. Eine Decemberstudie</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Deutsche Hochschule. Organ der deutschen Studentenschaft</title>
+                  <imprint>
+                     <biblScope unit="jg">2</biblScope>
+                     <biblScope unit="issue">44</biblScope>
+                     <biblScope unit="pages">1–4</biblScope>
+                     <date when="1883-01-01">1.1.1883</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Text datiert mit »Wien, im December 1882«. Die zweite Gruppe der »Dilettirfer«
                      ist insofern von Interesse, als Bahr mit den Laienaufführungen im
                      Tegetthof-Saal abrechnet, an denen er im Vorjahr ebenfalls teilgenommen hat und
                      wo auch sein erstes Stück, »Der fixe Punkt« aufgeführt wurde. Am 2. Mai 1883
@@ -67,22 +64,24 @@
                      Studentenversammlung in Wien. In Heft #41 widersprechen aber zwei Mitglieder
                      von Bahrs Burschenschaft »Albia« dem Bericht, was impliziert, dass sich hinter
                      »M.« kein Albe verbirgt.</p>
-         </note>
-         <note type="incipit">Des einen Lust ist des anderen Schmerz. Eine alte
+               </note>
+               <note type="incipit">Des einen Lust ist des anderen Schmerz. Eine alte
                   Wahrheit</note>
-         <note type="summary">Eine Glosse über zwei Typen von groß auftretenden Dilettanten -
+               <note type="summary">Eine Glosse über zwei Typen von groß auftretenden Dilettanten -
                   Dilettirfer genannt.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#10293"/>
-               <ptr type="pmb" target="#2412"/>
-               <ptr type="pmb" target="#24269"/>
-               <ptr type="pmb" target="#13166"/>
-               <ptr type="HB-tv" target="HB-tv_1930_p3"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-hochschule/1883_dilettirfer.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#10293"/>
+                     <ptr type="pmb" target="#2412"/>
+                     <ptr type="pmb" target="#24269"/>
+                     <ptr type="pmb" target="#13166"/>
+                     <ptr type="HB-tv" target="HB-tv_1930_p3"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-hochschule/1883_dilettirfer.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

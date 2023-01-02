@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Denkmal für Bruckner</title>
-            <title when-iso=""/>
+            <title type="iso-date">1924-09-04</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,21 +26,25 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_914" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Denkmal für Bruckner</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36374">Neue Freie Presse</title>
-            <imprint>
-               <biblScope unit="issue">21547, Morgenblatt</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1924-09-04">4.9.1924</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Linz war in den sechziger Jahren nicht sehr aufregend.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-9-4_denkmal-fuer-bruckner.pdf</ref>
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_914" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Denkmal für Bruckner</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36374">Neue Freie Presse</title>
+                  <imprint>
+                     <biblScope unit="issue">21547, Morgenblatt</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1924-09-04">4.9.1924</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Linz war in den sechziger Jahren nicht sehr aufregend.</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1924-9-4_denkmal-fuer-bruckner.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

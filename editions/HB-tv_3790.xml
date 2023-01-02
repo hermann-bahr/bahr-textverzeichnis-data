@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Ehelei. Lustspiel in drei Akten. [1. Akt] (6.
                      Fortsetzung)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-11-14</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,26 +27,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3790"
-            type="Journal-Article"
-            subtype="Vorabdruck_Theaterstück"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Ehelei. Lustspiel in drei Akten. [1. Akt] (6.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3790"
+                        type="Journal-Article"
+                        subtype="Vorabdruck_Theaterstück"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Ehelei. Lustspiel in drei Akten. [1. Akt] (6.
                      Fortsetzung)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36374">Neue Freie Presse</title>
-            <imprint>
-               <biblScope unit="issue">20193, Morgenblatt</biblScope>
-               <biblScope unit="pages">36</biblScope>
-               <date when="1920-11-14">14.11.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Berlin: E. Reiss 1920</note>
-         <note type="incipit">Erl. Die das selber wissen, sind noch harmlos! –</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1920_ehelei.pdf</ref>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36374">Neue Freie Presse</title>
+                  <imprint>
+                     <biblScope unit="issue">20193, Morgenblatt</biblScope>
+                     <biblScope unit="pages">36</biblScope>
+                     <date when="1920-11-14">14.11.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Berlin: E. Reiss 1920</note>
+               <note type="incipit">Erl. Die das selber wissen, sind noch harmlos! –</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1920_ehelei.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

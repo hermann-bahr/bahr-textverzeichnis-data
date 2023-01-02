@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">2. August [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5561"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">2. August [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">195–196</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">E. K. Ludhard [=Ernst Ludwig von Hessen Darmstadt]: Ostern.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5561"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">2. August [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">195–196</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">E. K. Ludhard [=Ernst Ludwig von Hessen Darmstadt]: Ostern.
                   Ein Mysterium in 3 Aufzügen. Darmstadt: Manuskriptdruck der Gesellschaft
                   hessischer Bücherfreunde, Wittich 1919.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Zu schad! sagte mir in verklungenen schöneren Tagen Olbrich oft,
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Zu schad! sagte mir in verklungenen schöneren Tagen Olbrich oft,
                   zu schad, daß der Großherzog grad Großherzog sein muß: das brave Hessen könnt sich
                   sicher auch selber regieren und welch einen Baukünstler hätten wir dafür an Ernst
                   Ludwig gewonnen! Übrigens auch einen Regisseur. Vielleicht auch einen Tonkünstler.
@@ -95,8 +92,10 @@
                   Stille der Ergebung von einem Seelenglanz, der zuweilen fast an die Gelassenheit,
                   Zerlassenheit Meister Eckarts erinnert. Kein schöneres Vorspiel konnte sich die
                   »Weisheitsschule« wünschen! |</note>
-         <note type="summary">Bahr begrüßt den Wechsel des Großherzogs Ernst Ludwig von Hessen
+               <note type="summary">Bahr begrüßt den Wechsel des Großherzogs Ernst Ludwig von Hessen
                   Darmstadt von der Regierung ins dramatische Fach.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

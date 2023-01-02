@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Enquête sur André Gide</title>
-            <title when-iso=""/>
+            <title type="iso-date">1931-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6835" type="Journal-Article" subtype="Umfrage">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Enquête sur André Gide</title>
-         </analytic>
-         <monogr>
-            <title level="j">Latinité. Revue du Pays d’Occident</title>
-            <imprint>
-               <biblScope unit="jg">3</biblScope>
-               <biblScope unit="issue">1</biblScope>
-               <biblScope unit="pages">35–132, hier 60–61</biblScope>
-               <date when="1931-01">Januar 1931</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Hermann Bahr (né en 1863) a été en Allemagne le chef
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6835" type="Journal-Article" subtype="Umfrage">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Enquête sur André Gide</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Latinité. Revue du Pays d’Occident</title>
+                  <imprint>
+                     <biblScope unit="jg">3</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <biblScope unit="pages">35–132, hier 60–61</biblScope>
+                     <date when="1931-01">Januar 1931</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Hermann Bahr (né en 1863) a été en Allemagne le chef
                      du mouvement naturaliste. Puis, sous l’influence de Paul Bourget, il évolua
                      vers la psychologie et l’impressionnisme. Écrivain extrêmement fécond, critique
                      prodigieusement averti, il a écrit une centaine de volumes, dont les plus
@@ -60,8 +57,8 @@
                      sien. Il faut cependant tenir compte de cette disposition religieuse pour bien
                      comprendre le jugement que M. Hermann Bahr a bien voulu nous adresser sur André
                      Gide:«</p>
-         </note>
-         <note type="incipit">La France est restée, même après 1789, la gardienne autorisée du
+               </note>
+               <note type="incipit">La France est restée, même après 1789, la gardienne autorisée du
                   grand style en Occident ; elle était de plus la Fille préférée de l’Église. Gide
                   par contre est calviniste et, en sa qualité de partisan fanatique de Tolstoï, il
                   est déjà sur la voie du bolchevisme. La confusion ne lui fait pas peur ; elle
@@ -75,6 +72,8 @@
                   sert de pont pour arriver à connaître l’esprit français : les « Réflexions »
                   d’Albert Thibaudet nous y dirigent à travers tous les méandres de l’actualité en
                   France. HERMANN BAHR. |</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

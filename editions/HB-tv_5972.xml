@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 20. November</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919-12-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5972"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 20. November</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">27</biblScope>
-               <biblScope unit="issue">9372</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1919-12-07">7.12.1919</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Genesius« von Ilse von Stach</note>
-         <note type="other-prints">Kritik der Gegenwart, 5-8</note>
-         <note type="incipit">»Lieber Albert Heine! Den ganzen Tag muß ich heute an Sie
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5972"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 20. November</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">27</biblScope>
+                     <biblScope unit="issue">9372</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1919-12-07">7.12.1919</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Genesius« von Ilse von Stach</note>
+               <note type="other-prints">Kritik der Gegenwart, 5-8</note>
+               <note type="incipit">»Lieber Albert Heine! Den ganzen Tag muß ich heute an Sie
                   denken, neidgeschwollen: Denn wonach ich mich damals in meinem Burgtheaterkammerl
                   vor Sehnsucht fast blind geblickt, siehe, das fällt Ihnen jetzt, fliegt Ihnen zu,
                   Sie haben nur die Hand aufzutun! Nein, ich will nicht undankbar sein: mir ward
@@ -141,10 +138,12 @@
                   stark, daß Heiden und Juden und Türken und Ketzer und Spötter und Leugner, ich
                   möchte wetten, überhören werden, wie fromm es schlägt, also könnten Sie’s doch
                   ruhig wagen, lieber Freund!« |</note>
-         <note type="summary">Bahr hat endlich das von ihm gerade während seiner
+               <note type="summary">Bahr hat endlich das von ihm gerade während seiner
                   Burgtheaterdirektoriumszeit gesuchte katholische Kunstwerk gefunden und legt es
                   dem Schauspieler Albert Heine dringend ans Herz.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

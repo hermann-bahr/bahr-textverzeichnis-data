@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Burgtheater. (»Zwei Eisen im Feuer.« Lustspiel in drei Akten.
                      Frei nach Calderon von Friedrich Adler. Zum erstenmal aufgeführt am 12. Oktober
                      1900)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1900-10-13</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,28 +28,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_727" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Burgtheater. (»Zwei Eisen im Feuer.« Lustspiel in drei Akten.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_727" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Burgtheater. (»Zwei Eisen im Feuer.« Lustspiel in drei Akten.
                      Frei nach Calderon von Friedrich Adler. Zum erstenmal aufgeführt am 12. Oktober
                      1900)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">46</biblScope>
-               <biblScope unit="issue">281</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1900-10-13">13.10.1900</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Diese Rezension Bahrs wurde nicht in der »2 Kreuzer-Ausgabe« aufgenommen, wo
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">46</biblScope>
+                     <biblScope unit="issue">281</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1900-10-13">13.10.1900</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Diese Rezension Bahrs wurde nicht in der »2 Kreuzer-Ausgabe« aufgenommen, wo
                      das Stück von »A. L.« besprochen wird.</p>
-         </note>
-         <note type="other-prints">Premièren, 28-33</note>
-         <note type="incipit">Calderon gehört zu den Dichtern, die wir in einemfort</note>
+               </note>
+               <note type="other-prints">Premièren, 28-33</note>
+               <note type="incipit">Calderon gehört zu den Dichtern, die wir in einemfort</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

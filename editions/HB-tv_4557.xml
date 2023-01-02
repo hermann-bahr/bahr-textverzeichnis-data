@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Theater und Kunst. Burgtheater</title>
-            <title when-iso=""/>
+            <title type="iso-date">1901-12-18</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,33 +26,37 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4557"
-            type="Journal-Article"
-            subtype="Nachtkritik"
-            status="checked">
-         <analytic>
-            <author ref="#10815">[O.V.]</author>
-            <title level="a">Theater und Kunst. Burgtheater</title>
-         </analytic>
-         <monogr>
-            <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
-            <imprint>
-               <biblScope unit="jg">47</biblScope>
-               <biblScope unit="issue">347</biblScope>
-               <biblScope unit="pages">8</biblScope>
-               <date when="1901-12-18">18.12.1901</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Anonym veröffentlichte, stark gekürzte Fassung des Feuilletons in der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4557"
+                        type="Journal-Article"
+                        subtype="Nachtkritik"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">[O.V.]</author>
+                  <title level="a">Theater und Kunst. Burgtheater</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
+                  <imprint>
+                     <biblScope unit="jg">47</biblScope>
+                     <biblScope unit="issue">347</biblScope>
+                     <biblScope unit="pages">8</biblScope>
+                     <date when="1901-12-18">18.12.1901</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Anonym veröffentlichte, stark gekürzte Fassung des Feuilletons in der
                      »Österreichischen Volks-Zeitung«.</p>
-         </note>
-         <note type="review-of">»Nacht und Morgen« von Paul Lindau</note>
-         <note type="first-printing">Vollständig: Österreichische Volks–Zeitung, 47 (1901)
+               </note>
+               <note type="review-of">»Nacht und Morgen« von Paul Lindau</note>
+               <note type="first-printing">Vollständig: Österreichische Volks–Zeitung, 47 (1901)
                   #347, 1. (18.12.1901)</note>
-         <note type="other-prints">Rezensionen, 9–12</note>
-         <note type="incipit">Paul Lindau’s Schauspiel »Nacht und Morgen« wurde gestern auf
+               <note type="other-prints">Rezensionen, 9–12</note>
+               <note type="incipit">Paul Lindau’s Schauspiel »Nacht und Morgen« wurde gestern auf
                   dieser Bühne zum erstenmale dargestellt.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

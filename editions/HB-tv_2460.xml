@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Selbstanzeige des Verfassers. Hermann Bahr, Die Rahl.
                      Roman</title>
-            <title when-iso=""/>
+            <title type="iso-date">1908</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,26 +27,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2460" type="Pamphlet" status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Selbstanzeige des Verfassers. Hermann Bahr, Die Rahl.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2460" type="Pamphlet" status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Selbstanzeige des Verfassers. Hermann Bahr, Die Rahl.
                      Roman</title>
-            <imprint>
-               <date when="1908">1908</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Einzelblattdruck, wohl Verlagsbeilage zur Versendung der
+                  <imprint>
+                     <date when="1908">1908</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Einzelblattdruck, wohl Verlagsbeilage zur Versendung der
                      Rezensionsexemplare.</p>
-         </note>
-         <note type="first-printing">Königsberger Hartungsche Zeitung, (1908) #539,
+               </note>
+               <note type="first-printing">Königsberger Hartungsche Zeitung, (1908) #539,
                   Morgenausgabe, Literarische Rundschau. (15.11.1908) In: Das Blaubuch, 3 (1908)
                   #47, 1411–1412. (19.11.1908) In: Die Gegenwart, 38 (1909) #5, 78–79. Als »Meine
                   Romane« in: Der Demokrat, 2 (1910) #32, Beilage, 2. (3.8.1910)</note>
-         <note type="incipit">Ich soll selbst anzeigen, was die Reihe von Romanen will, die
+               <note type="incipit">Ich soll selbst anzeigen, was die Reihe von Romanen will, die
                   mit der »Rahl« beginnt?</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1908_selbstanzeige-rahl.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/prospekte/1908_selbstanzeige-rahl.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Maximen</title>
-            <title when-iso=""/>
+            <title type="iso-date">1904</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,38 +26,42 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3186"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Maximen</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="#32814">Dialog vom Tragischen</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1904">1904</date>
-               <biblScope unit="pages">115–119</biblScope>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Vgl. Tagebücher (Csáky), III, 296 zur geplanten Verwendung.</p>
-         </note>
-         <note type="first-printing">Tschechischer Nachdruck: Als »Zásady« in: Národní obzor,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3186"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Maximen</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="#32814">Dialog vom Tragischen</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1904">1904</date>
+                     <biblScope unit="pages">115–119</biblScope>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Vgl. Tagebücher (Csáky), III, 296 zur geplanten Verwendung.</p>
+               </note>
+               <note type="first-printing">Tschechischer Nachdruck: Als »Zásady« in: Národní obzor,
                   4 (1910) #39, 1. (10.9.1910)</note>
-         <note type="incipit">Das Leben der Menschen bewegt sich zwischen Ekstasen und
+               <note type="incipit">Das Leben der Menschen bewegt sich zwischen Ekstasen und
                   Depressionen. Die große Frage, die jeder zu lösen hat, jeder Einzelne und jede
                   Nation, ist nun, was wichtiger: die höchsten Ekstasen zu erreichen (sei es auch um
                   den Preis furchtbarer Depressionen) oder die Depressionen zu vermeiden (sei es
                   selbst durch Verzicht auf Ekstasen).</note>
-         <note type="summary">Bahr unterscheidet zwei Lebensentwürfe: Der eine hält sich von
+               <note type="summary">Bahr unterscheidet zwei Lebensentwürfe: Der eine hält sich von
                   einschneidenden Erlebnissen fern; aus Angst vor tiefen Depressionen. Der andere
                   bindet den Wert des Menschen an die Intensität von Emotionen; seien diese auch
                   noch so kurz. Bahr zieht die zweite Möglichkeit vor.</note>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/9-dialog.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

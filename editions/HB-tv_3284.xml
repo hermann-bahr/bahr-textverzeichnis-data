@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Stelzhamer</title>
-            <title when-iso=""/>
+            <title type="iso-date">1908</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3284"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Stelzhamer</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb31097">Buch der Jugend</title>
-            <imprint>
-               <pubPlace>Wien und Leipzig</pubPlace>
-               <publisher>H. Heller</publisher>
-               <date when="1908">1908</date>
-               <biblScope unit="pages">37–44</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #319, 1–3.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3284"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Stelzhamer</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb31097">Buch der Jugend</title>
+                  <imprint>
+                     <pubPlace>Wien und Leipzig</pubPlace>
+                     <publisher>H. Heller</publisher>
+                     <date when="1908">1908</date>
+                     <biblScope unit="pages">37–44</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #319, 1–3.
                   (21.11.1902)</note>
-         <note type="incipit">Ein so seltsamer Fall konnte sich auch nur in unserem Lande
+               <note type="incipit">Ein so seltsamer Fall konnte sich auch nur in unserem Lande
                   ereignen. Man denke bloss: Ein Dichter erscheint, er hat Glück, er wirkt
                   sogleich, auf sein Volk zuerst, bald auch ins Weite; er ist mit dreissig Jahren
                   berühmt, man sicht auf ihn, man hört ihm zu; seine Erscheinung, von einem ganz
@@ -64,24 +61,26 @@
                   sein Werk nicht mehr, sie kennen es kaum noch, und, es gibt heute nicht zwölf
                   unter uns, die wissen, was er gewesen ist: der einzige grosse epische Dichter der
                   Deutschen nach Goethe.</note>
-         <note type="summary">Stelzhamer gilt Bahr nicht nur als einer der bedeutendsten
+               <note type="summary">Stelzhamer gilt Bahr nicht nur als einer der bedeutendsten
                   Lyriker, sondern auch als ein Epiker, der neben Goethe zu stellen wäre. An einigen
                   Beispielen, v. a. an dem Epos »D’Ahnl«, versucht er dies deutlich zu
                   machen.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#3622"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#11518"/>
-               <ptr type="pmb" target="#12851"/>
-               <ptr type="pmb" target="#22532"/>
-               <ptr type="pmb" target="#10825"/>
-               <ptr type="HB-tv" target="HB-tv_3284_p1"/>
-               <ptr type="HB-tv" target="HB-tv_3284_p2"/>
-               <ptr type="HB-tv" target="HB-tv_3284_p3"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#3622"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#11518"/>
+                     <ptr type="pmb" target="#12851"/>
+                     <ptr type="pmb" target="#22532"/>
+                     <ptr type="pmb" target="#10825"/>
+                     <ptr type="HB-tv" target="HB-tv_3284_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_3284_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_3284_p3"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/10-jugend.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

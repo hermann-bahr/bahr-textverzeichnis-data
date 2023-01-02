@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Josephine</title>
-            <title when-iso=""/>
+            <title type="iso-date">1912</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3833" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Josephine</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Das Münchener Lustspielhaus. Unter Mitwirkung von Hermann Bahr /
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3833" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Josephine</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Das Münchener Lustspielhaus. Unter Mitwirkung von Hermann Bahr /
                      Franz Blei / Friedrich Freksa / Max Halbe / Alfred Kerr / Julius Meier-Graefe /
                      Ernst Rosmer / Frank Wedekind</title>
-            <editor>Rehse, Bernhart</editor>
-            <imprint>
-               <pubPlace>München, Leipzig</pubPlace>
-               <publisher>Georg Müller</publisher>
-               <date when="1912">1912</date>
-               <biblScope unit="pages">18</biblScope>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Mit einer Szenenfotografie aus der Inszenierung.</p>
-         </note>
-         <note type="incipit">Die Vorstellung meiner »Josephine« im Münchener Lustspielhaus
+                  <editor>Rehse, Bernhart</editor>
+                  <imprint>
+                     <pubPlace>München, Leipzig</pubPlace>
+                     <publisher>Georg Müller</publisher>
+                     <date when="1912">1912</date>
+                     <biblScope unit="pages">18</biblScope>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Mit einer Szenenfotografie aus der Inszenierung.</p>
+               </note>
+               <note type="incipit">Die Vorstellung meiner »Josephine« im Münchener Lustspielhaus
                   war mir besonders durch ihre strenge künstlerische Durcharbeitung wert: nicht ein
                   einziger toter Punkt ist darin, kein leerer Fleck, nichts, was nicht irgendwie
                   verarbeitet, aufs Ganze bezogen und in Zusammenhang gebracht wäre. Das ist auf
@@ -62,17 +59,19 @@
                   Josephine der Frau Roland, der hinreißende, durch seine echte Naivität bezwingende
                   Bonaparte Feldhammers, und Frische, Tempo, Jugend in jeder Szene – ich habe selten
                   eine so erfreuliche Vorstellung gesehen. |</note>
-         <note type="summary">Ein kurzes Lob der Aufführung von Bahrs »Josephine« im Münchener
+               <note type="summary">Ein kurzes Lob der Aufführung von Bahrs »Josephine« im Münchener
                   Schauspielhaus.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12540"/>
-               <ptr type="pmb" target="#16150"/>
-               <ptr type="HB-tv" target="HB-tv_3833_p1"/>
-               <ptr type="HB-tv" target="HB-tv_5318_p3"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1912_josephine.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12540"/>
+                     <ptr type="pmb" target="#16150"/>
+                     <ptr type="HB-tv" target="HB-tv_3833_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_5318_p3"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1912_josephine.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

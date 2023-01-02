@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Předmluva</title>
-            <title when-iso=""/>
+            <title type="iso-date">1896</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1476" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Předmluva</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Režie. Poznámky ku knize příruční. S. předmluvou Hermanna Bahra.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1476" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Předmluva</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Režie. Poznámky ku knize příruční. S. předmluvou Hermanna Bahra.
                      Přreložil J. E. Šlechta</title>
-            <imprint>
-               <pubPlace>Praha-Karlín</pubPlace>
-               <publisher>M. Knapp</publisher>
-               <date when="1896">1896</date>
-               <biblScope unit="pages">3–9</biblScope>
-            </imprint>
-         </monogr>
-         <series>
-            <title level="s">Divadelní katechismy</title>
-         </series>
-         <note>
-            <p>Erscheinungsjahr eigentlich [1896]</p>
-         </note>
-         <note type="first-printing">Divadelní listy, 2 (1901) #7, 147–151. (5.3.1901)</note>
-         <note type="incipit">Děkuji Vám, milý Léone</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1896_rezie.pdf</ref>
+                  <imprint>
+                     <pubPlace>Praha-Karlín</pubPlace>
+                     <publisher>M. Knapp</publisher>
+                     <date when="1896">1896</date>
+                     <biblScope unit="pages">3–9</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title level="s">Divadelní katechismy</title>
+               </series>
+               <note>
+                  <p>Erscheinungsjahr eigentlich [1896]</p>
+               </note>
+               <note type="first-printing">Divadelní listy, 2 (1901) #7, 147–151. (5.3.1901)</note>
+               <note type="incipit">Děkuji Vám, milý Léone</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1896_rezie.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

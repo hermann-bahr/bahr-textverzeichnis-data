@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 6. September</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-09-26</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6065"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 6. September</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9660</biblScope>
-               <biblScope unit="pages">5</biblScope>
-               <date when="1920-09-26">26.9.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 212-213</note>
-         <note type="incipit">Seit acht Tagen gießt’s und das ist nicht mehr der gewohnte,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6065"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 6. September</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9660</biblScope>
+                     <biblScope unit="pages">5</biblScope>
+                     <date when="1920-09-26">26.9.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 212-213</note>
+               <note type="incipit">Seit acht Tagen gießt’s und das ist nicht mehr der gewohnte,
                   lieb lullende Salzburger Schnürlregen, das sanfte Tropfengespinst, sondern
                   sozusagen ein permanenter Platzregen, ein ewiger Wolkenbruch, als wäre gleichsam
                   irgendwo dort oben ein ungeheures Geschwür aufgestochen worden, das nun sein seit
@@ -61,9 +58,11 @@
                   geknickt. Und alles scheint heute näher als sonst, scheint bös, als winde sich
                   heute die Welt vor Grimm; es liegt überall ein hämisches Lauern auf dem Sprung.
                   Und eine Schwüle, die frösteln macht. |</note>
-         <note type="summary">Im Wetter entdeckt Bahr seine lyrische Ader für apokalyptische
+               <note type="summary">Im Wetter entdeckt Bahr seine lyrische Ader für apokalyptische
                   Herbstbilder Salzburgs.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Welttheater. Internationale Enquête</title>
-            <title when-iso=""/>
+            <title type="iso-date">1928</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,39 +26,43 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1808"
-            type="Journal-Article"
-            subtype="Umfrage"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Welttheater. Internationale Enquête</title>
-         </analytic>
-         <monogr>
-            <title level="j">Die Böttcherstraße. Internationale Zeitschrift</title>
-            <imprint>
-               <biblScope unit="jg">1</biblScope>
-               <biblScope unit="issue">2 (Juni)</biblScope>
-               <biblScope unit="pages">36</biblScope>
-               <date when="1928">1928</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>»Wir veröffentlichen die Ergebnisse einer internationalen Erhebung über die
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1808"
+                        type="Journal-Article"
+                        subtype="Umfrage"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Welttheater. Internationale Enquête</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Die Böttcherstraße. Internationale Zeitschrift</title>
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">2 (Juni)</biblScope>
+                     <biblScope unit="pages">36</biblScope>
+                     <date when="1928">1928</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>»Wir veröffentlichen die Ergebnisse einer internationalen Erhebung über die
                      Möglichkeiten eines Welttheaters.«</p>
-         </note>
-         <note type="incipit">Theater paßt sich entweder dem Geschmack des Publikums an oder
+               </note>
+               <note type="incipit">Theater paßt sich entweder dem Geschmack des Publikums an oder
                   aber es ist (allerdings sehr selten) stark genug, seinen eigenen Geschmack dem
                   Publikum aufzuzwingen; das Weimarer Theater unter Goethes Herrschaft beweist, daß
                   auch dies möglich ist.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#2702"/>
-               <ptr type="HB-tv" target="HB-tv_2310_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-boettcherstrasse/1928-2_welttheater.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#2702"/>
+                     <ptr type="HB-tv" target="HB-tv_2310_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-boettcherstrasse/1928-2_welttheater.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

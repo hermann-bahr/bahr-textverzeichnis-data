@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Das Prinzip. Lustspiel. Mit zwei
                      Dekorationsskizzen und zwei Bühnenplänen von Koloman Moser</title>
-            <title when-iso=""/>
+            <title type="iso-date">1912</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,23 +27,25 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1559"
-            type="Book"
-            sameAs="pmb30375"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30375">Das Prinzip. Lustspiel. Mit zwei
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1559"
+                        type="Book"
+                        sameAs="pmb30375"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30375">Das Prinzip. Lustspiel. Mit zwei
                      Dekorationsskizzen und zwei Bühnenplänen von Koloman Moser</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1912">1912</date>
-            </imprint>
-            <extent>155 Seiten</extent>
-         </monogr>
-         <note>
-            <p>»Koloman Moser in herzlicher Freundschaft. Semmering 1912«. Rezensionen: Neues
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <extent>155 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>»Koloman Moser in herzlicher Freundschaft. Semmering 1912«. Rezensionen: Neues
                      Wiener Journal, 20 (1912) #6826, 10 (24.10.1912) [Buchausgabe, Kurznotiz]
                      Wiener Abendpost, 1912 #246, 6. (24.10.1912) Das literarische Echo, 15 (1912)
                      #4, 261-262. [Auff. Köln] Fritz Engel in: Berliner Tageblatt, 41 (1912) #538,
@@ -69,11 +66,13 @@
                      #192, 2. (6.10.1927) Hanns Braun in: Münchner Zeitung, 36 (1927) #273, 2.
                      (6.10.1927) Tim Klein in: Münchner Neueste Nachrichten, 80 (1927) #273, 1-2.
                      (7.10.1927)</p>
-         </note>
-         <note type="translations">Tschechische Übersetzung: Princip. Veselohra o třech
+               </note>
+               <note type="translations">Tschechische Übersetzung: Princip. Veselohra o třech
                   jednáních. Autorisovaný překlad Bořivoje Prusíka [=Jiří Ščerbinský]. Praha: Knapp
                   [1913?]. (=Ochotnické divadlo, Sv. 475)</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=76</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=76</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

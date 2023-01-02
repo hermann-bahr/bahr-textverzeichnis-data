@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Kathi Schratt</title>
-            <title when-iso=""/>
+            <title type="iso-date">1900-10-02</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,38 +26,42 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_726" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Kathi Schratt</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">46</biblScope>
-               <biblScope unit="issue">270</biblScope>
-               <biblScope unit="pages">1 (2 Kreuzer–Ausgabe: 1–2)</biblScope>
-               <date when="1900-10-02">2.10.1900</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Seit ein paar Wochen hat man Gerüchte aus dem Burgtheater
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_726" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Kathi Schratt</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">46</biblScope>
+                     <biblScope unit="issue">270</biblScope>
+                     <biblScope unit="pages">1 (2 Kreuzer–Ausgabe: 1–2)</biblScope>
+                     <date when="1900-10-02">2.10.1900</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Seit ein paar Wochen hat man Gerüchte aus dem Burgtheater
                   vernommen, die der Wiener gar nicht glauben konnte.</note>
-         <note type="summary">Bahr sieht im Abschied von Katharina Schratt vom Burgtheater ein
+               <note type="summary">Bahr sieht im Abschied von Katharina Schratt vom Burgtheater ein
                   weiteres Beispiel, wie Schlenther die Talente vertreibt. Außer Baumeister und
                   Kainz gäbe es daselbst keine mehr, und letzterer werde der nächste sein, der gehe.
                   An Katharina Schratt lobt er, dass sie in der Lage wäre, keine Rolle notwendig zu
                   haben, um eine Beziehung zum Publikum aufzubauen.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2680"/>
-               <ptr type="pmb" target="#12654"/>
-               <ptr type="pmb" target="#22901"/>
-               <ptr type="pmb" target="#11441"/>
-               <ptr type="pmb" target="#28476"/>
-               <ptr type="pmb" target="#11851"/>
-               <ptr type="pmb" target="#12671"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2680"/>
+                     <ptr type="pmb" target="#12654"/>
+                     <ptr type="pmb" target="#22901"/>
+                     <ptr type="pmb" target="#11441"/>
+                     <ptr type="pmb" target="#28476"/>
+                     <ptr type="pmb" target="#11851"/>
+                     <ptr type="pmb" target="#12671"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

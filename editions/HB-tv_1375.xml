@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Das österreichische Wunder. Einladung nach
                      Salzburg</title>
-            <title when-iso=""/>
+            <title type="iso-date">1915</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,30 +27,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1375"
-            type="Book"
-            sameAs="pmb32336"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb32336">Das österreichische Wunder. Einladung nach
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1375"
+                        type="Book"
+                        sameAs="pmb32336"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb32336">Das österreichische Wunder. Einladung nach
                      Salzburg</title>
-            <imprint>
-               <pubPlace>Stuttgart</pubPlace>
-               <publisher>Die Lese</publisher>
-               <date when="1915">1915</date>
-            </imprint>
-            <extent>47 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Eigentlich [1915]. S. 2: »Den Ausführungen ’Das österreichische Wunder’ liegt
+                  <imprint>
+                     <pubPlace>Stuttgart</pubPlace>
+                     <publisher>Die Lese</publisher>
+                     <date when="1915">1915</date>
+                  </imprint>
+                  <extent>47 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Eigentlich [1915]. S. 2: »Den Ausführungen ’Das österreichische Wunder’ liegt
                      ein Vortrag zugrunde, den Hermann Bahr auf Veranlassung der Zeitschrift »Die
                      Lese« im März 1915 in Stuttgart hielt.« Als Neuerscheinung angezeigt im
                      Literaturblatt der Frankfurter Zeitung, 23.5.1915. Kvapil bedankt sich am 9.
                      Juni bei Bahr für den Erhalt. (Bahr/Kvapil, 172).</p>
-            <p>Rezensionen: Budweiser Zeitung, 11.6.1915, 7.</p>
-         </note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=84</ref>
+                  <p>Rezensionen: Budweiser Zeitung, 11.6.1915, 7.</p>
+               </note>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=84</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

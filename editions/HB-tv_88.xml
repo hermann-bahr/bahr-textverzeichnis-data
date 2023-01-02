@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Wahrheit, Wahrheit!</title>
-            <title when-iso=""/>
+            <title type="iso-date">1891-03-21</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_88" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Wahrheit, Wahrheit!</title>
-         </analytic>
-         <monogr>
-            <title level="j">Die Nation. Wochenschrift für Politik, Volkswirtschaft und
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_88" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Wahrheit, Wahrheit!</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Die Nation. Wochenschrift für Politik, Volkswirtschaft und
                      Literatur</title>
-            <imprint>
-               <biblScope unit="jg">8</biblScope>
-               <biblScope unit="issue">25</biblScope>
-               <biblScope unit="pages">390–393</biblScope>
-               <date when="1891-03-21">21.3.1891</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Überwindung des Naturalismus, 141–151 H. B.: Essays. Hg.
+                  <imprint>
+                     <biblScope unit="jg">8</biblScope>
+                     <biblScope unit="issue">25</biblScope>
+                     <biblScope unit="pages">390–393</biblScope>
+                     <date when="1891-03-21">21.3.1891</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Überwindung des Naturalismus, 141–151 H. B.: Essays. Hg.
                   Heinz Kindermann. Wien: Bauer 1962, 142–149</note>
-         <note type="incipit">Das ist das Verhängniß, so bald einmal in einer Kunst das
+               <note type="incipit">Das ist das Verhängniß, so bald einmal in einer Kunst das
                   Schlagwort von der Wahrheit ausbricht, daß es durchaus keinen halt</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-nation/1891_wahrheit.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-nation/1891_wahrheit.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

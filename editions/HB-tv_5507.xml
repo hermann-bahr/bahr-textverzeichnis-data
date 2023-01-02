@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">1. Februar [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5507"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">1. Februar [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">48–50</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Hans Ferdindand Redlich: Gustav Mahler. Eine Erkenntnis.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5507"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">1. Februar [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">48–50</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Hans Ferdindand Redlich: Gustav Mahler. Eine Erkenntnis.
                   Nürnberg: Carl 1919.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Eine neue Schrift über Mahler (Verlag Hans Carl, Nürnberg,
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Eine neue Schrift über Mahler (Verlag Hans Carl, Nürnberg,
                   1919), knapp dreißig Seiten, aber mehr sagend, als bisher jemals über Mahler noch
                   ausgesagt worden ist. Und wenn sie der Autor etwas hochtrabend »eine Erkenntnis«
                   nennt, er hat ein Recht dazu! Nur darf er sich deshalb freilich nicht erdreisten,
@@ -110,8 +107,10 @@
                   Gesamtschaffen das Symbol eines zukünftigen idealeren geistigeren Österreich. Die
                   Linie Schubert, Bruckner, Hugo Wolf mit Mahler als Spitze: die Manifestation
                   totalösterreichischen Geistes. |</note>
-         <note type="summary">Am Buch des Sohnes seines Freundes Josef Redlich freut Bahr,
+               <note type="summary">Am Buch des Sohnes seines Freundes Josef Redlich freut Bahr,
                   dass Mahler nun von der Nachwelt und für den Nachruhm entdeckt wird.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Theater, Kunst und Literatur.
                      Kaiserjubiläums-Stadttheater</title>
-            <title when-iso=""/>
+            <title type="iso-date">1900-11-22</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,26 +27,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4649" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">H. B.</author>
-            <title level="a">Theater, Kunst und Literatur.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4649" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">H. B.</author>
+                  <title level="a">Theater, Kunst und Literatur.
                      Kaiserjubiläums-Stadttheater</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">34</biblScope>
-               <biblScope unit="issue">321</biblScope>
-               <biblScope unit="pages">7</biblScope>
-               <date when="1900-11-22">22.11.1900</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Das Kind« von Antonie Baumberg</note>
-         <note type="other-prints">Premièren, 255-257</note>
-         <note type="incipit">»Das Kind,« Volksstück in vier Acten von A. Baumberg. Herr
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">34</biblScope>
+                     <biblScope unit="issue">321</biblScope>
+                     <biblScope unit="pages">7</biblScope>
+                     <date when="1900-11-22">22.11.1900</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Das Kind« von Antonie Baumberg</note>
+               <note type="other-prints">Premièren, 255-257</note>
+               <note type="incipit">»Das Kind,« Volksstück in vier Acten von A. Baumberg. Herr
                   Thomas Lozinsky sieht wie eine Künstler aus</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Und sie bewegt sich doch nicht!</title>
-            <title when-iso=""/>
+            <title type="iso-date">1927-12-05</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,26 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1298" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Und sie bewegt sich doch nicht!</title>
-         </analytic>
-         <monogr>
-            <title level="j">Münchner Telegramm-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">6</biblScope>
-               <biblScope unit="issue">233</biblScope>
-               <biblScope unit="pages">2</biblScope>
-               <date when="1927-12-05">5.12.1927</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Irrtum gewinnt, wenn er zu Jahren kommt</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/telegrammzeitung/1927_bewegt.pdf</ref>
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1298" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Und sie bewegt sich doch nicht!</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Münchner Telegramm-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">6</biblScope>
+                     <biblScope unit="issue">233</biblScope>
+                     <biblScope unit="pages">2</biblScope>
+                     <date when="1927-12-05">5.12.1927</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Irrtum gewinnt, wenn er zu Jahren kommt</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/telegrammzeitung/1927_bewegt.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

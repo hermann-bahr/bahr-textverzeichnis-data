@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 11. Juni</title>
-            <title when-iso=""/>
+            <title type="iso-date">1921-07-24</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6196"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 11. Juni</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">29</biblScope>
-               <biblScope unit="issue">9954</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1921-07-24">24.7.1921</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Liebe der Lebenden, I, 221-223. Erweitert: Ferdinand
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6196"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 11. Juni</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">29</biblScope>
+                     <biblScope unit="issue">9954</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1921-07-24">24.7.1921</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Liebe der Lebenden, I, 221-223. Erweitert: Ferdinand
                   Avenarius, Max Liebermann und Max von Schillings, Hgg.: Arno Holz und sein Werk.
                   Deutsche Stimmen zu seinem 60. Geburtstage. Berlin: Werk-Verlag 1923,
                   49-50.</note>
-         <note type="incipit">Da tritt Arno Holz ins Zimmer, als käme meine eigene Jugend in
+               <note type="incipit">Da tritt Arno Holz ins Zimmer, als käme meine eigene Jugend in
                   Person! Bald vierzig Jahre wird’s, daß wir im ersten Stock des Café Bauer zu
                   Berlin Nacht für Nacht perorierten, und einunddreißig Jahre sind’s, daß wir mit
                   Otto Brahm die «Freie Bühne für modernes Leben” schufen, er aber ist noch ganz der
@@ -81,15 +78,17 @@
                   Kraft, den Berg unserer Literatur zu versetzen, gezweifelt hat, Sie sind der
                   einzige, den man inbrünstig beneiden darf! … Und er hörte mich geduldig lächelnd
                   an und hat es mir, scheint’s, nicht einmal übel genommen. |</note>
-         <note type="summary">Besuch von Arno Holz, dem Einzigen ihrer Generation, der sich
+               <note type="summary">Besuch von Arno Holz, dem Einzigen ihrer Generation, der sich
                   nicht anpasste und »der noch immer mit dem Kopf durch die Wand geht«.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11763"/>
-               <ptr type="pmb" target="#10986"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11763"/>
+                     <ptr type="pmb" target="#10986"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

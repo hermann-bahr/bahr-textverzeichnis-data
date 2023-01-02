@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Zur Reform der Tracht</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1440" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Zur Reform der Tracht</title>
-         </analytic>
-         <monogr>
-            <title level="j">Dokumente der Frauen</title>
-            <imprint>
-               <biblScope unit="jg">6</biblScope>
-               <biblScope unit="issue">23</biblScope>
-               <biblScope unit="pages">664–666</biblScope>
-               <date when="1902">1902</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Die Schönheit, 1 (1903), 68–71</note>
-         <note type="incipit">WENN man heute von einer Reform der Tracht spricht, so wendet
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1440" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Zur Reform der Tracht</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Dokumente der Frauen</title>
+                  <imprint>
+                     <biblScope unit="jg">6</biblScope>
+                     <biblScope unit="issue">23</biblScope>
+                     <biblScope unit="pages">664–666</biblScope>
+                     <date when="1902">1902</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Die Schönheit, 1 (1903), 68–71</note>
+               <note type="incipit">WENN man heute von einer Reform der Tracht spricht, so wendet
                   man eigentlich nur unserem Begriff von Cultur endlich auch auf die Erscheinung des
                   Menschen an. Wir haben gelernt: »Du bleibst doch immer, was du bist.« Also trachte
                   nicht, dir zu entgehen, dich zu verbergen, sondern lerne zeigen, was an dir ist,
@@ -118,13 +115,15 @@
                   Deutsche finden nur bei Cocotten jene schöne äussere Form der Liebe, ohne welche
                   sie kaum erträglich ist, während es ihren Frauen für tugendhaft gilt, sie ihnen
                   zu versagen. |</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="HB-tv" target="HB-tv_3973_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1902_dokumente_reform.pdf</ref>
-         <ref type="URL">http://www.modetheorie.de/bahr-hermann.1513.0.html</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="HB-tv" target="HB-tv_3973_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1902_dokumente_reform.pdf</ref>
+               <ref type="URL">http://www.modetheorie.de/bahr-hermann.1513.0.html</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

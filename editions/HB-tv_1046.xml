@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Kriegssegen. Das deutsche Wesen ist uns erschienen. Vortrag
                      gehalten zu Gunsten der durch den Krieg in Not geratenen Schriftsteller und
                      Journalisten</title>
-            <title when-iso=""/>
+            <title type="iso-date">1914-10-27</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,27 +28,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1046" type="Pamphlet" status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Kriegssegen. Das deutsche Wesen ist uns erschienen. Vortrag
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1046" type="Pamphlet" status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Kriegssegen. Das deutsche Wesen ist uns erschienen. Vortrag
                      gehalten zu Gunsten der durch den Krieg in Not geratenen Schriftsteller und
                      Journalisten</title>
-            <imprint>
-               <pubPlace>München</pubPlace>
-               <publisher>Schutzverband Deutscher Schriftsteller</publisher>
-               <date when="1914-10-27">27.10.1914</date>
-            </imprint>
-            <extent>o. P. Seiten</extent>
-         </monogr>
-         <note>
-            <p>Trotz des von Bahr verwendeten Titels »Kriegssegen« handelt es sich bei dieser
+                  <imprint>
+                     <pubPlace>München</pubPlace>
+                     <publisher>Schutzverband Deutscher Schriftsteller</publisher>
+                     <date when="1914-10-27">27.10.1914</date>
+                  </imprint>
+                  <extent>o. P. Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Trotz des von Bahr verwendeten Titels »Kriegssegen« handelt es sich bei dieser
                      vierseitigen Handreichung um den Text »Das deutsche Wesen ist uns
                      erschienen«.</p>
-         </note>
-         <note type="other-prints">Kriegssegen, 5-8</note>
-         <note type="incipit">Und wenn ich hundert Jahre würde, diese Tage werd’ ich nie
+               </note>
+               <note type="other-prints">Kriegssegen, 5-8</note>
+               <note type="incipit">Und wenn ich hundert Jahre würde, diese Tage werd’ ich nie
                   vergessen!</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

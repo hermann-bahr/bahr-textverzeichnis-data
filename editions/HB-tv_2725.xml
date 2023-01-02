@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Gustav Schmoller</title>
-            <title when-iso=""/>
+            <title type="iso-date">1894</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,40 +26,44 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2725"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Gustav Schmoller</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2725"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Gustav Schmoller</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1894">1894</date>
-               <biblScope unit="pages">32–38</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7647, Morgen–Ausgabe,
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1894">1894</date>
+                     <biblScope unit="pages">32–38</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7647, Morgen–Ausgabe,
                   1–2. (13.4.1893)</note>
-         <note type="incipit">Ich muß, wie ich da in der großen, weiten Bibliothek seines
+               <note type="incipit">Ich muß, wie ich da in der großen, weiten Bibliothek seines
                   Häuschens wieder vor ihm sitze, der einst mein Lehrer war, an das Wort des Marx
                   denken: »Der Kleinbürger ist zusammengesetzt aus einerseits und
                   andererseits.«</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12195"/>
-               <ptr type="HB-tv" target="HB-tv_6695_p2"/>
-               <ptr type="HB-tv" target="HB-tv_2725_p2"/>
-               <ptr type="HB-tv" target="HB-tv_2725_p3"/>
-               <ptr type="HB-tv" target="HB-tv_1443_p5"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12195"/>
+                     <ptr type="HB-tv" target="HB-tv_6695_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_2725_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_2725_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_1443_p5"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

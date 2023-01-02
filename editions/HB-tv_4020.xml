@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Gegen die Theaterräte!</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919-05-20</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,65 +26,67 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4020"
-            type="Journal-Article"
-            subtype="Aufruf"
-            status="checked">
-         <analytic>
-            <author ref="#5903">Abel, Alfred</author>
-            <author ref="#10815">Bahr, Hermann</author>
-            <author ref="#10833">Barnowsky, Victor</author>
-            <author ref="#10844">Bassermann, Albert</author>
-            <author ref="#10863">Beer-Hofmann, Dr. Richard</author>
-            <author ref="#6325">Blech, Leo</author>
-            <author ref="#118919">Bohnen, Michael</author>
-            <author ref="#11195">Dumont, Luise</author>
-            <author ref="#15561">Dux, Claire</author>
-            <author ref="#11273">Eulenberg, Herbert</author>
-            <author ref="#64816">Goering, Reinhard</author>
-            <author ref="#11561">Hagemann, Carl</author>
-            <author ref="#7722">Hasenclever, Walter</author>
-            <author ref="#11617">Hauptmann, Gerhart</author>
-            <author ref="#11740">Hofmannsthal, Hugo von</author>
-            <author ref="#11895">Kayßler, Friedrich</author>
-            <author ref="#11958">Kokoschka, Oscar</author>
-            <author ref="#8336">Krauß, Werner</author>
-            <author ref="#2865">Lehmann, Else</author>
-            <author ref="#38988">Lichnowsky, Mechtild</author>
-            <author ref="#12170">Mann, Heinrich</author>
-            <author ref="#55562">Martin, Carlheinz</author>
-            <author ref="#12274">Moissi, Alexander</author>
-            <author ref="#9085">Nikisch, Arthur</author>
-            <author ref="#12504">Reinhardt, Max</author>
-            <author ref="#12657">Schillings, Max von</author>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <author ref="#9756">Scholz, Wilhelm von</author>
-            <author ref="#12718">Schrecker, Franz</author>
-            <author ref="#12870">Strauss, Richard</author>
-            <author ref="#12977">Triesch, Irene</author>
-            <author ref="#13041">Walter, Bruno</author>
-            <author ref="#10457">Wegener, Paul</author>
-            <author ref="#13075">Weingartner, Felix von</author>
-            <author ref="#10627">Wüllner, Dr. Ludwig</author>
-            <author ref="#10656">Zeiß, Carl</author>
-            <title level="a">Gegen die Theaterräte!</title>
-         </analytic>
-         <monogr>
-            <title level="j">Vossische Zeitung</title>
-            <imprint>
-               <biblScope unit="issue">254, Abend-Ausgabe</biblScope>
-               <biblScope unit="pages">2</biblScope>
-               <date when="1919-05-20">20.5.1919</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Von den angesehenen Künstlern, Dichtern und Musikern
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4020"
+                        type="Journal-Article"
+                        subtype="Aufruf"
+                        status="checked">
+               <analytic>
+                  <author ref="#5903">Abel, Alfred</author>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="#10833">Barnowsky, Victor</author>
+                  <author ref="#10844">Bassermann, Albert</author>
+                  <author ref="#10863">Beer-Hofmann, Dr. Richard</author>
+                  <author ref="#6325">Blech, Leo</author>
+                  <author ref="#118919">Bohnen, Michael</author>
+                  <author ref="#11195">Dumont, Luise</author>
+                  <author ref="#15561">Dux, Claire</author>
+                  <author ref="#11273">Eulenberg, Herbert</author>
+                  <author ref="#64816">Goering, Reinhard</author>
+                  <author ref="#11561">Hagemann, Carl</author>
+                  <author ref="#7722">Hasenclever, Walter</author>
+                  <author ref="#11617">Hauptmann, Gerhart</author>
+                  <author ref="#11740">Hofmannsthal, Hugo von</author>
+                  <author ref="#11895">Kayßler, Friedrich</author>
+                  <author ref="#11958">Kokoschka, Oscar</author>
+                  <author ref="#8336">Krauß, Werner</author>
+                  <author ref="#2865">Lehmann, Else</author>
+                  <author ref="#38988">Lichnowsky, Mechtild</author>
+                  <author ref="#12170">Mann, Heinrich</author>
+                  <author ref="#55562">Martin, Carlheinz</author>
+                  <author ref="#12274">Moissi, Alexander</author>
+                  <author ref="#9085">Nikisch, Arthur</author>
+                  <author ref="#12504">Reinhardt, Max</author>
+                  <author ref="#12657">Schillings, Max von</author>
+                  <author ref="#2121">Schnitzler, Arthur</author>
+                  <author ref="#9756">Scholz, Wilhelm von</author>
+                  <author ref="#12718">Schrecker, Franz</author>
+                  <author ref="#12870">Strauss, Richard</author>
+                  <author ref="#12977">Triesch, Irene</author>
+                  <author ref="#13041">Walter, Bruno</author>
+                  <author ref="#10457">Wegener, Paul</author>
+                  <author ref="#13075">Weingartner, Felix von</author>
+                  <author ref="#10627">Wüllner, Dr. Ludwig</author>
+                  <author ref="#10656">Zeiß, Carl</author>
+                  <title level="a">Gegen die Theaterräte!</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Vossische Zeitung</title>
+                  <imprint>
+                     <biblScope unit="issue">254, Abend-Ausgabe</biblScope>
+                     <biblScope unit="pages">2</biblScope>
+                     <date when="1919-05-20">20.5.1919</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Von den angesehenen Künstlern, Dichtern und Musikern
                      Deutschlands geht uns eine Denkschrift zu, die wir gekürzt wiedergeben. Sie
                      wird wohl auch bei den Regierungsstellen gebührende Würdigung finden.«</p>
-         </note>
-         <note type="other-prints">Wilhelm Widman: Theater und Revolution. Berlin: Oesterheld
+               </note>
+               <note type="other-prints">Wilhelm Widman: Theater und Revolution. Berlin: Oesterheld
                   1920, 161–163.</note>
-         <note type="incipit">Das Theater, mit der ganzen Welt aus den Fugen geraten, soll
+               <note type="incipit">Das Theater, mit der ganzen Welt aus den Fugen geraten, soll
                   umgebaut werden auf der Grundlage neuer Gesetze. Den Schauspielern werden größere
                   Rechte eingeräumt, insbesondere soll die Mehrheit der schwächeren Kräfte
                   wirtschaftlich auch in der Beschäftigung gesichert werden. Wird in dem Neubau auch
@@ -124,7 +121,9 @@
                   haben. Das Theater gehört nicht allein dem Schauspieler, sondern ebensosehr dem
                   Dichter und dem Tonsschöpfer und ist nicht zuletzt eine Angelegenheit des ganzen
                   Volkes. |</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1919_theaterraete.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1919_theaterraete.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

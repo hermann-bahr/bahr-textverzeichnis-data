@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Erinnerung</title>
-            <title when-iso=""/>
+            <title type="iso-date">1894</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2710"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Erinnerung</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Caph. (Mit einer Zeichnung von Ferry Bératon)</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1894">1894</date>
-               <biblScope unit="pages">72–77</biblScope>
-            </imprint>
-         </monogr>
-         <note type="incipit">Nun sinds vier Jahre. Es war Sylvester 1889. Da fuhr ich aus
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2710"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Erinnerung</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Caph. (Mit einer Zeichnung von Ferry Bératon)</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1894">1894</date>
+                     <biblScope unit="pages">72–77</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Nun sinds vier Jahre. Es war Sylvester 1889. Da fuhr ich aus
                   Europa.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

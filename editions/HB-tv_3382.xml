@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Ce monsieur de Linz qui inventa Vienne. Hermann Bahr. Textes
                      d’Eduard Michael Kafka, Hugo von Hofmannsthal, Karl Kraus et Otto Stoessl.
                      Trad. et présentés par Jean Launay</title>
-            <title when-iso=""/>
+            <title type="iso-date">2006</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,22 +28,26 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3382" type="Book" status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Ce monsieur de Linz qui inventa Vienne. Hermann Bahr. Textes
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3382" type="Book" status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Ce monsieur de Linz qui inventa Vienne. Hermann Bahr. Textes
                      d’Eduard Michael Kafka, Hugo von Hofmannsthal, Karl Kraus et Otto Stoessl.
                      Trad. et présentés par Jean Launay</title>
-            <imprint>
-               <pubPlace>Monaco</pubPlace>
-               <publisher>Éd. du Rocher</publisher>
-               <date when="2006">2006</date>
-            </imprint>
-            <extent>267 Seiten</extent>
-         </monogr>
-         <series>
-            <title level="s">Anatolia</title>
-         </series>
+                  <imprint>
+                     <pubPlace>Monaco</pubPlace>
+                     <publisher>Éd. du Rocher</publisher>
+                     <date when="2006">2006</date>
+                  </imprint>
+                  <extent>267 Seiten</extent>
+               </monogr>
+               <series>
+                  <title level="s">Anatolia</title>
+               </series>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

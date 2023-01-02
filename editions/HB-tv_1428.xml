@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Wörterbuch</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922-12-23</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,35 +26,39 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1428" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Wörterbuch</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="pmb39950">Wiener Allgemeine Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">43</biblScope>
-               <biblScope unit="issue">13383</biblScope>
-               <biblScope unit="pages">5</biblScope>
-               <date when="1922-12-23">23.12.1922</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Datiert mit »München, Dezember 1922«.</p>
-         </note>
-         <note type="incipit">Vor dreißig Jahren zog ich einen Kreis von Gesprächen um mich,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1428" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Wörterbuch</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="pmb39950">Wiener Allgemeine Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">43</biblScope>
+                     <biblScope unit="issue">13383</biblScope>
+                     <biblScope unit="pages">5</biblScope>
+                     <date when="1922-12-23">23.12.1922</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Datiert mit »München, Dezember 1922«.</p>
+               </note>
+               <note type="incipit">Vor dreißig Jahren zog ich einen Kreis von Gesprächen um mich,
                   worin geboren wurde, was man später »Das junge Wien« hieß; heute sind’s lauter
                   ältere Herren</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11740"/>
-               <ptr type="pmb" target="#28907"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#2412"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-allgemeine-zeitung/1922_woerterbuch.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11740"/>
+                     <ptr type="pmb" target="#28907"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#2412"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/wiener-allgemeine-zeitung/1922_woerterbuch.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Burgtheater. (»Die Schmetterlingsschlacht«.
                      Komödie in vier Akten von Hermann Sudermann. Zum ersten Mal aufgeführt am 6.
                      October 1894)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1894-10-13</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,60 +28,64 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_303"
-            type="Journal-Article"
-            sameAs="pmb31909"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a" ref="pmb31909">Burgtheater. (»Die Schmetterlingsschlacht«.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_303"
+                        type="Journal-Article"
+                        sameAs="pmb31909"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a" ref="pmb31909">Burgtheater. (»Die Schmetterlingsschlacht«.
                      Komödie in vier Akten von Hermann Sudermann. Zum ersten Mal aufgeführt am 6.
                      October 1894)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#36340">Die Zeit</title>
-            <imprint>
-               <biblScope unit="jg">1</biblScope>
-               <biblScope unit="issue">2</biblScope>
-               <biblScope unit="pages">26</biblScope>
-               <date when="1894-10-13">13.10.1894</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Vgl. dazu Olga Schnitzler: Spiegelbild der Freundschaft. Salzburg: Residenz
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#36340">Die Zeit</title>
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">2</biblScope>
+                     <biblScope unit="pages">26</biblScope>
+                     <date when="1894-10-13">13.10.1894</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Vgl. dazu Olga Schnitzler: Spiegelbild der Freundschaft. Salzburg: Residenz
                      1962, 103.</p>
-         </note>
-         <note type="other-prints">Wiener Theater, 30-36 H. B.: Kritiken. Hg. Kindermann.
+               </note>
+               <note type="other-prints">Wiener Theater, 30-36 H. B.: Kritiken. Hg. Kindermann.
                   Wien: Bauer 1963, 123–126</note>
-         <note type="incipit">»Freilich, Humor müsstest du haben, dann ließe sich manches
+               <note type="incipit">»Freilich, Humor müsstest du haben, dann ließe sich manches
                   ertragen,« sagt in der »Ehre« Graf Trast</note>
-         <note type="summary">Bahr schätzt das Stück, weil es nicht von einem Entrüsteten
+               <note type="summary">Bahr schätzt das Stück, weil es nicht von einem Entrüsteten
                   stamme, sondern von einem milde Verzeihenden und darüber hinaus in einer
                   »dramatischen Sprache« verfasst sei.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12899"/>
-               <ptr type="pmb" target="#15512"/>
-               <ptr type="pmb" target="#13897"/>
-               <ptr type="pmb" target="#11763"/>
-               <ptr type="pmb" target="#12664"/>
-               <ptr type="pmb" target="#11617"/>
-               <ptr type="pmb" target="#11845"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#11518"/>
-               <ptr type="pmb" target="#2412"/>
-               <ptr type="pmb" target="#17889"/>
-               <ptr type="pmb" target="#28476"/>
-               <ptr type="pmb" target="#12265"/>
-               <ptr type="pmb" target="#12498"/>
-               <ptr type="pmb" target="#12618"/>
-               <ptr type="pmb" target="#2850"/>
-               <ptr type="pmb" target="#18595"/>
-               <ptr type="pmb" target="#13180"/>
-               <ptr type="HB-tv" target="HB-tv_1443_p2"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/2-26.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12899"/>
+                     <ptr type="pmb" target="#15512"/>
+                     <ptr type="pmb" target="#13897"/>
+                     <ptr type="pmb" target="#11763"/>
+                     <ptr type="pmb" target="#12664"/>
+                     <ptr type="pmb" target="#11617"/>
+                     <ptr type="pmb" target="#11845"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#11518"/>
+                     <ptr type="pmb" target="#2412"/>
+                     <ptr type="pmb" target="#17889"/>
+                     <ptr type="pmb" target="#28476"/>
+                     <ptr type="pmb" target="#12265"/>
+                     <ptr type="pmb" target="#12498"/>
+                     <ptr type="pmb" target="#12618"/>
+                     <ptr type="pmb" target="#2850"/>
+                     <ptr type="pmb" target="#18595"/>
+                     <ptr type="pmb" target="#13180"/>
+                     <ptr type="HB-tv" target="HB-tv_1443_p2"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/2-26.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

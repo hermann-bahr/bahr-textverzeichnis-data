@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">1. Oktober [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5580"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">1. Oktober [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">230–235</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Schon als Student fiel mir Robert Müller unter seinen Kameraden
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5580"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">1. Oktober [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">230–235</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Schon als Student fiel mir Robert Müller unter seinen Kameraden
                   auf durch das Wesentliche seiner Bemühungen, als einer, der nicht bloß jongliert,
                   sondern nach der Wahrheit späht. In seinem Blut ist dem schweren Ernst nordischer
                   Geistesart ein österreichischer Glanz beweglich aufgesetzt und ragt er schon durch
@@ -199,9 +196,11 @@
                   seinem unbändigen Freiheitssinn noch das Johanniswort: »So euch nur der Sohn frei
                   macht, so seid ihr recht frei!« Der Bolschewismus ist im Grund eine religiöse
                   Frage. Im Grund gibt es doch überhaupt nur religiöse Fragen. |</note>
-         <note type="summary">Über Robert Müller, die Neigung des Gentlemans zum
+               <note type="summary">Über Robert Müller, die Neigung des Gentlemans zum
                   Bolschewismus, Bahrs Verständnis für tiefe Denker des Unglaubens und das
                   Verständnis, dass letztlich alles Fragen des Glaubens sind.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

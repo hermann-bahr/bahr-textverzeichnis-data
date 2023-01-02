@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 22. August</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-09-12</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6060"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 22. August</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9646</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1920-09-12">12.9.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 202-203</note>
-         <note type="incipit">Komisch, wie stark mein Burgtheaterbüchl doch wirkt! Offenbar
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6060"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 22. August</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9646</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1920-09-12">12.9.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 202-203</note>
+               <note type="incipit">Komisch, wie stark mein Burgtheaterbüchl doch wirkt! Offenbar
                   erfahren viele daraus erst, daß dort, wo jetzt unsere Bettelrepublik verendet, in
                   alten Zeiten das Herz eines mächtigen, das Abendland führenden Reiches schlug und
                   daß dieses strahlende Reich anderthalb Jahrhunderte lang der abendländischen
@@ -93,9 +90,11 @@
                   dionysischen Kunst, aber ebenso dann auch noch der für gotisch verkannte tiefste
                   Drang aller Expressionisten, daß dies alles schon im Grunde nur Heimweh nach dem
                   vergessenen Barock war. |</note>
-         <note type="summary">Die Wirkung seines Buchs über das »Burgtheater« (1920) lässt ihn
+               <note type="summary">Die Wirkung seines Buchs über das »Burgtheater« (1920) lässt ihn
                   hoffen, dass nunmehr das Barock richtig verstanden und wiederkehren wird.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

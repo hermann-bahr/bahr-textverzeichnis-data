@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der Strom. (Drama in drei Aufzügen von Max Halbe. Zum ersten Mal
                      aufgeführt im Burgtheater am 19. Oktober 1903)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1907</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,31 +27,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3240"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Der Strom. (Drama in drei Aufzügen von Max Halbe. Zum ersten Mal
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3240"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Der Strom. (Drama in drei Aufzügen von Max Halbe. Zum ersten Mal
                      aufgeführt im Burgtheater am 19. Oktober 1903)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1907">1907</date>
-               <biblScope unit="pages">29–35</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #288, 1–2 (2
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1907">1907</date>
+                     <biblScope unit="pages">29–35</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Österreichische Volks–Zeitung, 49 (1903) #288, 1–2 (2
                   Kreuzer–Ausgabe: 1–4). (20.10.1903)</note>
-         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+               <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   89-93</note>
-         <note type="incipit">An der Weichsel. Durch das Fenster sieht man auf den hohen Deich
+               <note type="incipit">An der Weichsel. Durch das Fenster sieht man auf den hohen Deich
                   hinaus.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

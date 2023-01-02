@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">16. November [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5596"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">16. November [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">277–281</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5596"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">16. November [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">277–281</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
                   Geschichtliche Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang
                   des Reiches. I. Band: Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861. Leipzig: Der neue
                   Geist 1920. Franz Werfel: Spiegelmenschen. München: Kurt Wolff 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Ich stecke noch immer in Josef Redlichs unerschöpflichem
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Ich stecke noch immer in Josef Redlichs unerschöpflichem
                   »Reichsproblem« fest! In seiner Zeichnung Franz Josefs zeigt Redlich eine
                   Meisterschaft, die nur von den höchsten Künstlern geschichtlicher Darstellung
                   zuweilen erreicht wird; nur etwa mit dem unvergänglich über die Zeiten hin
@@ -147,7 +144,9 @@
                   Heine so; denn von »Dies irae« über »Jakobs Traum« zum »Spiegelmenschen«,
                   wahrhaftig, eine so gewaltige Klimax ist lange keinem Burgtheaterdirektor
                   beschieden worden! |</note>
-         <note type="summary">Über Kaiser Franz Josef.</note>
+               <note type="summary">Über Kaiser Franz Josef.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

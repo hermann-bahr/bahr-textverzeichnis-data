@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Barock und Richard Wagner</title>
-            <title when-iso=""/>
+            <title type="iso-date">1928-09-09</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,33 +26,37 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4181"
-            type="Journal-Article"
-            subtype="Nachdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Barock und Richard Wagner</title>
-         </analytic>
-         <monogr>
-            <title level="j">Schönere Zukunft</title>
-            <imprint>
-               <biblScope unit="jg">3</biblScope>
-               <biblScope unit="issue">50</biblScope>
-               <biblScope unit="pages">1079–1080</biblScope>
-               <date when="1928-09-09">9.9.1928</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »In den ’Münchner Neusten Nachrichten’ vom 18. 7. 1928
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4181"
+                        type="Journal-Article"
+                        subtype="Nachdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Barock und Richard Wagner</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Schönere Zukunft</title>
+                  <imprint>
+                     <biblScope unit="jg">3</biblScope>
+                     <biblScope unit="issue">50</biblScope>
+                     <biblScope unit="pages">1079–1080</biblScope>
+                     <date when="1928-09-09">9.9.1928</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »In den ’Münchner Neusten Nachrichten’ vom 18. 7. 1928
                      schreibt Hermann Bahr anläßlich des Erscheinens der letzten der vier Bände der
                      ’Literaturgeschichte der deutschen Stämme und Landschaften’ von Josef Nadler
                      u.a. die folgenden Sätze zum Thema Barock:«</p>
-         </note>
-         <note type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #194, 1–2.
+               </note>
+               <note type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #194, 1–2.
                   (18.7.1928)</note>
-         <note type="incipit">In meiner Kindheit galt, was irgendwie bloß im leisesten
+               <note type="incipit">In meiner Kindheit galt, was irgendwie bloß im leisesten
                   Verdacht stand, an Barock zu streifen</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

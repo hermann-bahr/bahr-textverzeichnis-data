@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
-            <title when-iso=""/>
+            <title type="iso-date">1901-03-10</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1840" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">35</biblScope>
-               <biblScope unit="issue">68</biblScope>
-               <biblScope unit="pages">8–9</biblScope>
-               <date when="1901-03-10">10.3.1901</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Der Ausflug ins Sittliche«, Komödie in vier Akten von Georg
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1840" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">35</biblScope>
+                     <biblScope unit="issue">68</biblScope>
+                     <biblScope unit="pages">8–9</biblScope>
+                     <date when="1901-03-10">10.3.1901</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Der Ausflug ins Sittliche«, Komödie in vier Akten von Georg
                   Engel</note>
-         <note type="other-prints">Premièren, 100–102</note>
-         <note type="incipit">»Der Ausflug ins Sittliche«, Komödie in vier Akten von Georg
+               <note type="other-prints">Premièren, 100–102</note>
+               <note type="incipit">»Der Ausflug ins Sittliche«, Komödie in vier Akten von Georg
                   Engel. Das Stück könnte auch heißen:</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

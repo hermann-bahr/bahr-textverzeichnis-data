@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Die Rotte Korahs. Roman</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1591"
-            type="Book"
-            sameAs="pmb30621"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30621">Die Rotte Korahs. Roman</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1919">1919</date>
-            </imprint>
-            <extent>489 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Redlich liest es um den 30. Dezember 1918 (Fritz Fellner und Doris A. Corradini
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1591"
+                        type="Book"
+                        sameAs="pmb30621"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30621">Die Rotte Korahs. Roman</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1919">1919</date>
+                  </imprint>
+                  <extent>489 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Redlich liest es um den 30. Dezember 1918 (Fritz Fellner und Doris A. Corradini
                      (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef
                      Redlichs 1869–1936. Wien: Böhlau 2011, II, 481). Nachdem er üblicherweise keine
                      Vorabdrucke in Fortsetzungen las, hat er möglicherweise das Erscheinen der
@@ -54,7 +51,7 @@
                      Gerty von Hofmannsthal bei Bahr für das gedruckte Exemplar. (Briefwechsel
                      Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In
                      Vorbereitung)).</p>
-            <p>Rezensionen: Der Vorabdruck im »Neuen Reich« von F. E.: »Die Juden und der
+                  <p>Rezensionen: Der Vorabdruck im »Neuen Reich« von F. E.: »Die Juden und der
                      mammonistische Betrieb«, 1 (1918/1919) #15, 258. (9.1.1919) Die Buchausgabe im
                      Archiv besprochen ab dem 16.4.1919. Max Pirker in der Österreichischen
                      Rundschau, vor dem 26. April 1919 [vgl. Bahr: 1919. Tagebücher, 141] [O. N.]
@@ -68,9 +65,11 @@
                      Ph. Baader] in: Die Rampe, 1 (1919) #4 (Dezember), 86. Robert Müller in:
                      Werkausgabe in Einzelbänden. Hg. G. Helmes. Paderborn: Igel 1995, X,
                      387-388.</p>
-         </note>
-         <note type="first-printing">Donauland 2 (1918) #1–#10 (10 Folgen)</note>
-         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20rotte</ref>
+               </note>
+               <note type="first-printing">Donauland 2 (1918) #1–#10 (10 Folgen)</note>
+               <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20rotte</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

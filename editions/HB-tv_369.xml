@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      Benützung einer dramatischen Skizze Karl Immermanns nach dem Princip der
                      altenglischen Bühne eingerichtet von Richard Fellner. Zum ersten Male
                      aufgeführt im Deutschen Volkstheater am 17.2.1896)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1896-02-22</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,44 +29,48 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_369" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Was ihr wollt. (Ein Lustspiel von William Shakespeare. Mit
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_369" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Was ihr wollt. (Ein Lustspiel von William Shakespeare. Mit
                      Benützung einer dramatischen Skizze Karl Immermanns nach dem Princip der
                      altenglischen Bühne eingerichtet von Richard Fellner. Zum ersten Male
                      aufgeführt im Deutschen Volkstheater am 17.2.1896)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#36340">Die Zeit</title>
-            <imprint>
-               <biblScope unit="jg">6</biblScope>
-               <biblScope unit="issue">73</biblScope>
-               <biblScope unit="pages">127–129</biblScope>
-               <date when="1896-02-22">22.2.1896</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Wiener Theater, 318-334 H. B.: Kritiken. Hg. Kindermann.
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#36340">Die Zeit</title>
+                  <imprint>
+                     <biblScope unit="jg">6</biblScope>
+                     <biblScope unit="issue">73</biblScope>
+                     <biblScope unit="pages">127–129</biblScope>
+                     <date when="1896-02-22">22.2.1896</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Wiener Theater, 318-334 H. B.: Kritiken. Hg. Kindermann.
                   Wien: Bauer 1963, 272-281</note>
-         <note type="incipit">»Was ihr wollt« ist 1601 geschrieben, ein Jahr nach »Wie es euch
+               <note type="incipit">»Was ihr wollt« ist 1601 geschrieben, ein Jahr nach »Wie es euch
                   gefällt«.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2412"/>
-               <ptr type="pmb" target="#10992"/>
-               <ptr type="pmb" target="#11308"/>
-               <ptr type="pmb" target="#26531"/>
-               <ptr type="pmb" target="#11093"/>
-               <ptr type="HB-tv" target="HB-tv_3401_p3"/>
-               <ptr type="HB-tv" target="HB-tv_369_p2"/>
-               <ptr type="HB-tv" target="HB-tv_2399_p4"/>
-               <ptr type="HB-tv" target="HB-tv_369_p4"/>
-               <ptr type="HB-tv" target="HB-tv_369_p5"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/73-127.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/73-128.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/73-129.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2412"/>
+                     <ptr type="pmb" target="#10992"/>
+                     <ptr type="pmb" target="#11308"/>
+                     <ptr type="pmb" target="#26531"/>
+                     <ptr type="pmb" target="#11093"/>
+                     <ptr type="HB-tv" target="HB-tv_3401_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_369_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_2399_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_369_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_369_p5"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/73-127.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/73-128.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/73-129.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

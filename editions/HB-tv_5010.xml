@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">12. Mai [1918]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,31 +26,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5010"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">12. Mai [1918]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Tagebücher 2</title>
-            <imprint>
-               <pubPlace>Innsbruck, Wien, München</pubPlace>
-               <publisher>Tyrolia</publisher>
-               <date when="1919">1919</date>
-               <biblScope unit="pages">137–145</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">O. A. H. Schmitz: Menschheitsdämmerung. München: Georg Müller
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5010"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">12. Mai [1918]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Tagebücher 2</title>
+                  <imprint>
+                     <pubPlace>Innsbruck, Wien, München</pubPlace>
+                     <publisher>Tyrolia</publisher>
+                     <date when="1919">1919</date>
+                     <biblScope unit="pages">137–145</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">O. A. H. Schmitz: Menschheitsdämmerung. München: Georg Müller
                   1918.</note>
-         <note type="first-printing">Neues Wiener Journal, 26.5.1918</note>
-         <note type="incipit">»Menschheitsdämmerung« Märchenhafte Geschichten von Oskar A. H.
+               <note type="first-printing">Neues Wiener Journal, 26.5.1918</note>
+               <note type="incipit">»Menschheitsdämmerung« Märchenhafte Geschichten von Oskar A. H.
                   Schmitz (München 1918 bei Georg Müller). Schmitz ist mir seit seiner ersten Jugend
                   wert.</note>
-         <note type="summary">Die allgemeine Lobrede auf Schmitz führt Bahr über in einen
+               <note type="summary">Die allgemeine Lobrede auf Schmitz führt Bahr über in einen
                   Vergleich der fernöstlichen Philosophie desselben mit Tolstois Tagebüchern.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

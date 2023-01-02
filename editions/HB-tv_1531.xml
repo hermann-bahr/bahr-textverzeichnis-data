@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der Star. Ein Wiener Stück in vier Akten</title>
-            <title when-iso=""/>
+            <title type="iso-date">1899</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1531"
-            type="Book"
-            status="checked"
-            sameAs="pmb30127">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30127">Der Star. Ein Wiener Stück in vier Akten</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1899">1899</date>
-            </imprint>
-            <extent>279 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Bahr erzählt die Entstehungsgeschichte – spontan, beim Besuch von Helene Odilon
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1531"
+                        type="Book"
+                        status="checked"
+                        sameAs="pmb30127">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30127">Der Star. Ein Wiener Stück in vier Akten</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1899">1899</date>
+                  </imprint>
+                  <extent>279 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Bahr erzählt die Entstehungsgeschichte – spontan, beim Besuch von Helene Odilon
                      – in: Hermann Bahr: Aus der Werkstätte des Dramatikers. Bekenntnisse und
                      Selbstbetrachtungen. Neues Wiener Journal, 7 (1899) #1955, 3-5, hier: 3-4.
                      (2.4.1899). Vom Literarischen Echo am 1.1.1899 als erschienen verzeichnet. Für
@@ -54,7 +51,7 @@
                      Tantiemen vom Volkstheater (Neues Wiener Abendblatt, 35 (1901) #53, 3.
                      (23.2.1901)). Über Odilons Kostüm: Neues Wiener Tagblatt, 35 (1901) #138, 11.
                      (21.5.1901) </p>
-            <p>Rezensionen: Sport und Salon, 1 (1898) #27, 8. (15.12.1898) Rudolf Steiner in:
+                  <p>Rezensionen: Sport und Salon, 1 (1898) #27, 8. (15.12.1898) Rudolf Steiner in:
                      Magazin für Literatur, 67 (1898) #47. Hevesi, Ludwig in: Wiener Fremdenblatt,
                      1898, #345. Lesser, M. in: Neues Wiener Tagblatt, 1898, #314. Kerr, Alfred in:
                      Nation, 1898 #16, 113–114. Zabel, E. in: Nationalzeitung, 1898, #621. Dr. H. F.
@@ -75,14 +72,16 @@
                      Abend-Ausgabe, 2. Vossische Zeitung, #187, Abend-Ausgabe, 3. (11.4.1919) Alfred
                      Kerr: Hermann Bahr. »Der Star«. Kammerspielhaus (Berlin). In: Der Tag, 19
                      (1919) #78, Ausgabe A, 1-2. (12.4.1919)</p>
-         </note>
-         <note type="translations">1905 wurde in Orleneff’s Russian Lyceum eine russische
+               </note>
+               <note type="translations">1905 wurde in Orleneff’s Russian Lyceum eine russische
                   Übersetzung von N. Budkevitch aufgeführt, zu der es eine englische Zusammenfassung
                   von Isabel Hapgood gibt</note>
-         <ref type="URL">http://books.google.com/books?id=KlwTAAAAQAAJ</ref>
-         <ref type="URL">http://books.google.com/books?id=paEMAQAAIAAJ</ref>
-         <ref type="URL">http://books.google.com/books?id=xpEuAAAAYAAJ</ref>
-         <ref type="URL">http://books.google.com/books?id=9dosAAAAYAAJ</ref>
+               <ref type="URL">http://books.google.com/books?id=KlwTAAAAQAAJ</ref>
+               <ref type="URL">http://books.google.com/books?id=paEMAQAAIAAJ</ref>
+               <ref type="URL">http://books.google.com/books?id=xpEuAAAAYAAJ</ref>
+               <ref type="URL">http://books.google.com/books?id=9dosAAAAYAAJ</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

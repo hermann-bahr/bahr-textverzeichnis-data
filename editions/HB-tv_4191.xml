@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Hermann Bahr über Philippus Neri</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922-09-23</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4191"
-            type="Journal-Article"
-            subtype="Nachdruck_Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Hermann Bahr über Philippus Neri</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4191"
+                        type="Journal-Article"
+                        subtype="Nachdruck_Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Hermann Bahr über Philippus Neri</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
-            <imprint>
-               <biblScope unit="jg">4</biblScope>
-               <biblScope unit="issue">50/51</biblScope>
-               <biblScope unit="pages">1003–1004</biblScope>
-               <date when="1922-09-23">23.9.1922</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Vor dreihundert Jahren, so schreibt H. Bahr in seinem »Tagebuch«
+                  <imprint>
+                     <biblScope unit="jg">4</biblScope>
+                     <biblScope unit="issue">50/51</biblScope>
+                     <biblScope unit="pages">1003–1004</biblScope>
+                     <date when="1922-09-23">23.9.1922</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Vor dreihundert Jahren, so schreibt H. Bahr in seinem »Tagebuch«
                   im »N.W.J.«, ist Philippus Neri heilig gesprochen wordne.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

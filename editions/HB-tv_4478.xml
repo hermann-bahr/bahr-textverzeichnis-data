@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Hermann Bahr zum 65. Geburtstag</title>
-            <title when-iso=""/>
+            <title type="iso-date">1928-07-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4478"
-            type="Journal-Article"
-            subtype="Nachdruck_Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Hermann Bahr zum 65. Geburtstag</title>
-         </analytic>
-         <monogr>
-            <title level="j">Bayerischer Kurier, München</title>
-            <imprint>
-               <biblScope unit="jg">72</biblScope>
-               <biblScope unit="issue">183/84, Literarische Beilage #24</biblScope>
-               <biblScope unit="pages">7</biblScope>
-               <date when="1928-07-01">1.7.1928</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Um Hermann Bahr, einen der glänzendsten Essayisten
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4478"
+                        type="Journal-Article"
+                        subtype="Nachdruck_Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Hermann Bahr zum 65. Geburtstag</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Bayerischer Kurier, München</title>
+                  <imprint>
+                     <biblScope unit="jg">72</biblScope>
+                     <biblScope unit="issue">183/84, Literarische Beilage #24</biblScope>
+                     <biblScope unit="pages">7</biblScope>
+                     <date when="1928-07-01">1.7.1928</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Um Hermann Bahr, einen der glänzendsten Essayisten
                      Deutschlands, nicht allein Dichter, sondern recht eigentlich das, was die
                      Franzosen einen ’grand écrivain’ nennen, zum 65. Geburtstag am 19. Juli zu
                      würdigen, geben wir ihm selber nachstehend das Wort. Wir entnehmen diesen und
@@ -58,10 +55,12 @@
                      sub specie aeternitatis betrachtet und als köstliches Vermächtnis der Mitwelt
                      überliefert. Im gleichen Verlag ist eben erschienen Wilhelm Meridies ’Hermann
                      Bahr als epischer Gestalter und Kritiker der Gegenwart’, 1.50 RM.«</p>
-         </note>
-         <note type="other-prints">Zauberstab, 331-336</note>
-         <note type="incipit">»Wie Gott mich rief«, nennt Maria Raphaela Brentano den Bericht
+               </note>
+               <note type="other-prints">Zauberstab, 331-336</note>
+               <note type="incipit">»Wie Gott mich rief«, nennt Maria Raphaela Brentano den Bericht
                   ihrer Wandlung aus einem ungläubigen eitlen Weltkind</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

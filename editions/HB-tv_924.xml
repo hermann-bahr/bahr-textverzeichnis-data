@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Dilettant</title>
-            <title when-iso=""/>
+            <title type="iso-date">1926-02-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_924" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Dilettant</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41531">Berliner Tageblatt</title>
-            <imprint>
-               <biblScope unit="jg">55</biblScope>
-               <biblScope unit="issue">64, Ausgabe für Berlin, Morgen-Ausgabe</biblScope>
-               <biblScope unit="pages">2–3</biblScope>
-               <date when="1926-02-07">7.2.1926</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Alexander von Villers: Briefe eines Unbekannten</note>
-         <note type="first-printing">Das Schatzkästlein. Unterhaltungsbeilage der »Thüringer
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_924" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Dilettant</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41531">Berliner Tageblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">55</biblScope>
+                     <biblScope unit="issue">64, Ausgabe für Berlin, Morgen-Ausgabe</biblScope>
+                     <biblScope unit="pages">2–3</biblScope>
+                     <date when="1926-02-07">7.2.1926</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Alexander von Villers: Briefe eines Unbekannten</note>
+               <note type="first-printing">Das Schatzkästlein. Unterhaltungsbeilage der »Thüringer
                   Allgemeinen Zeitung«, 3 (1926) #49, [2–3]. (24.12.1926) Hamburger Nachrichten, 136
                   (1927) #48, Abendausgabe, 3. Beilage (Zeitschrift für Wissenschaft, Literatur und
                   Kunst). (29.1.1927)</note>
-         <note type="incipit">Jedermann wird sich heute höflichst verbitten, ein Dilettant zu
+               <note type="incipit">Jedermann wird sich heute höflichst verbitten, ein Dilettant zu
                   heißen.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1926_dilettant.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/berliner-tageblatt/1926_dilettant.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

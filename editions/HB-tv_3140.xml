@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      »Lebendige Stunden«, »Die Frau mit dem Dolche«, »Die letzten Masken« und
                      »Literatur«. Zum erstenmal aufgeführt im Carl-Theater am 6. Mai 1902. Erste
                      Vorstellung des Berliner Deutschen Theaters)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1903</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,29 +29,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3140"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Lebendige Stunden. (Vier Einakter von Arthur Schnitzler:
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3140"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Lebendige Stunden. (Vier Einakter von Arthur Schnitzler:
                      »Lebendige Stunden«, »Die Frau mit dem Dolche«, »Die letzten Masken« und
                      »Literatur«. Zum erstenmal aufgeführt im Carl-Theater am 6. Mai 1902. Erste
                      Vorstellung des Berliner Deutschen Theaters)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1903">1903</date>
-               <biblScope unit="pages">252–268</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #125, 1–4.
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1903">1903</date>
+                     <biblScope unit="pages">252–268</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Tagblatt, 36 (1902) #125, 1–4.
                   (7.5.1902)</note>
-         <note type="incipit">In einem kleinen Garten vor Wien. Gegen Abend.</note>
+               <note type="incipit">In einem kleinen Garten vor Wien. Gegen Abend.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

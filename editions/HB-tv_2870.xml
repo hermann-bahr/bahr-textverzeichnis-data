@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Hjalmar. (Zur ersten Aufführung der »Wildente« von Ibsen im
                      Burgtheater am 16. Januar 1897)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1899</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,31 +27,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2870"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Hjalmar. (Zur ersten Aufführung der »Wildente« von Ibsen im
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2870"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Hjalmar. (Zur ersten Aufführung der »Wildente« von Ibsen im
                      Burgtheater am 16. Januar 1897)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1899">1899</date>
-               <biblScope unit="pages">132–138</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Vildanden (Die Wildente)« von Henrik Ibsen</note>
-         <note type="first-printing">Die Zeit, 10 (1897) #121, 60–61. (23.1.1897)</note>
-         <note type="other-prints">Das Hermann-Bahr-Buch, 189–192 H. B.: Kritiken. Hg.
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1899">1899</date>
+                     <biblScope unit="pages">132–138</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Vildanden (Die Wildente)« von Henrik Ibsen</note>
+               <note type="first-printing">Die Zeit, 10 (1897) #121, 60–61. (23.1.1897)</note>
+               <note type="other-prints">Das Hermann-Bahr-Buch, 189–192 H. B.: Kritiken. Hg.
                   Kindermann. Wien: Bauer 1963, 24-27 Wunberg: Das junge Wien, 97.3</note>
-         <note type="incipit">Im Burgtheater ist jetzt die »Wildente«, die wunderliche
+               <note type="incipit">Im Burgtheater ist jetzt die »Wildente«, die wunderliche
                   Tragikomödie, die man so lange nicht verstehen wollte, zur größten Wirkung
                   gekommen</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

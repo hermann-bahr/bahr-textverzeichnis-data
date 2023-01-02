@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">8. Juli [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5553"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">8. Juli [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">178–182</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">John Maynard Keynes: Die wirtschaftlichen Folgen des
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5553"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">8. Juli [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">178–182</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">John Maynard Keynes: Die wirtschaftlichen Folgen des
                   Friedensvertrages. München, Leipzig: Duncker &amp; Humblot 1920. [The Economic
                   Consequences of the Peace]</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Keynes, »The economic consequences of the peace«, im Augenblick
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Keynes, »The economic consequences of the peace«, im Augenblick
                   das berühmteste Buch Europas, ist jetzt auch deutsch erschienen (bei Duncker und
                   Humblot in München und Leipzig). John Maynard Keynes, Kings College Cambridge,
                   noch nicht vierzig, seit 1912 Editor des »Economic Journal«, zunächst durch ein
@@ -153,10 +150,12 @@
                   voraus, daß man sich eigentlich eine größere Huldigung an Amerika gar nicht denken
                   kann. Es hätte dann von selbst die sittliche Weltherrschaft auf Jahrhunderte
                   hinaus. |</note>
-         <note type="summary">Bahr ist fasziniert von John Maynard Keynes’ Buch, das, wenn
+               <note type="summary">Bahr ist fasziniert von John Maynard Keynes’ Buch, das, wenn
                   eingehalten, einen europäischen Wirtschaftsbund und die Übernahme der
                   Kriegsschulden durch die Vereinigten Staaten von Amerika bedeuten würde: Die
                   hätten dann die sittliche Weltherrschaft »auf Jahrhunderte hinaus«.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

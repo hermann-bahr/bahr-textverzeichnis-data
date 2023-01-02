@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">3. Dezember [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5603"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">3. Dezember [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">292</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Robert Müller: Konstitutioneller Kapitalismus. In: Die Neue
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5603"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">3. Dezember [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">292</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Robert Müller: Konstitutioneller Kapitalismus. In: Die Neue
                   Rundschau, 31 (1920) #11, 1331–1332.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Im Novemberheft der »Neuen Rundschau« Fischers ein bedeutender
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Im Novemberheft der »Neuen Rundschau« Fischers ein bedeutender
                   Aufsatz Robert Müllers, der uns, den Süddeutschen überhaupt, aber auch Russen,
                   Ungarn und Jugoslawen diese Prognose stellt: »Die politische und wirtschaftliche
                   Verschiebung zeigt sich in einer erhöhten auch unternehmerischen Tätigkeit der
@@ -66,6 +63,8 @@
                   Hände und auch Gehirne. Er muß, bei Depopulation der Großstadt, solche
                   Händeansiedlungen begünstigen und einmal sich konstitutionell mit ihnen
                   auseinandersetzen.« |</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Das Märchen. (Schauspiel in drei Aufzügen von
                      Arthur Schnitzler. Zum ersten Male aufgeführt am Deutschen Volkstheater den 1.
                      December)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1893-12-02</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,31 +28,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_296"
-            type="Journal-Article"
-            sameAs="pmb31563"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a" ref="pmb31563">Das Märchen. (Schauspiel in drei Aufzügen von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_296"
+                        type="Journal-Article"
+                        sameAs="pmb31563"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a" ref="pmb31563">Das Märchen. (Schauspiel in drei Aufzügen von
                      Arthur Schnitzler. Zum ersten Male aufgeführt am Deutschen Volkstheater den 1.
                      December)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41471">Deutsche Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">23</biblScope>
-               <biblScope unit="issue">7879, Morgen-Ausgabe</biblScope>
-               <biblScope unit="pages">1–3</biblScope>
-               <date when="1893-12-02">2.12.1893</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Wiener Theater, 242-252 H. B.: Kritiken. Hg. Kindermann.
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41471">Deutsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">23</biblScope>
+                     <biblScope unit="issue">7879, Morgen-Ausgabe</biblScope>
+                     <biblScope unit="pages">1–3</biblScope>
+                     <date when="1893-12-02">2.12.1893</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Wiener Theater, 242-252 H. B.: Kritiken. Hg. Kindermann.
                   Wien: Bauer 1963, 177–183</note>
-         <note type="incipit">Man fühlt in jeder Scene dieses Stückes</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78791.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78792.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78793.pdf</ref>
+               <note type="incipit">Man fühlt in jeder Scene dieses Stückes</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78791.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78792.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/78793.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

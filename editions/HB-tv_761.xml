@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Sezession. (Fünfzehnte Ausstellung der Vereinigung bildender
                      Künstler Österreichs.)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902-11-25</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,38 +27,42 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_761" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Sezession. (Fünfzehnte Ausstellung der Vereinigung bildender
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_761" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Sezession. (Fünfzehnte Ausstellung der Vereinigung bildender
                      Künstler Österreichs.)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">48</biblScope>
-               <biblScope unit="issue">323</biblScope>
-               <biblScope unit="pages">1–2 (2 Kreuzer–Ausgabe: 1–4)</biblScope>
-               <date when="1902-11-25">25.11.1902</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Publikum und Kritik begehen denselben Fehler:</note>
-         <note type="summary">Bahr, seltsam unberührt von der Sezessionsausstellung, kann sich
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">48</biblScope>
+                     <biblScope unit="issue">323</biblScope>
+                     <biblScope unit="pages">1–2 (2 Kreuzer–Ausgabe: 1–4)</biblScope>
+                     <date when="1902-11-25">25.11.1902</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Publikum und Kritik begehen denselben Fehler:</note>
+               <note type="summary">Bahr, seltsam unberührt von der Sezessionsausstellung, kann sich
                   nur für die Werke von Minne, Munch, Dampt und Wilhelm Schmidt begeistern.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#23486"/>
-               <ptr type="pmb" target="#12306"/>
-               <ptr type="pmb" target="#24315"/>
-               <ptr type="pmb" target="#10759"/>
-               <ptr type="pmb" target="#12851"/>
-               <ptr type="HB-tv" target="HB-tv_3410_p2"/>
-               <ptr type="HB-tv" target="HB-tv_761_p2"/>
-               <ptr type="HB-tv" target="HB-tv_761_p3"/>
-               <ptr type="HB-tv" target="HB-tv_2578_p1"/>
-               <ptr type="HB-tv" target="HB-tv_761_p5"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#23486"/>
+                     <ptr type="pmb" target="#12306"/>
+                     <ptr type="pmb" target="#24315"/>
+                     <ptr type="pmb" target="#10759"/>
+                     <ptr type="pmb" target="#12851"/>
+                     <ptr type="HB-tv" target="HB-tv_3410_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_761_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_761_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_2578_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_761_p5"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

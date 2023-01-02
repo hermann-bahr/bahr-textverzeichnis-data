@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">[Korporal Stöhr]. 27. September 1901</title>
-            <title when-iso=""/>
+            <title type="iso-date">1903</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3171"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">[Korporal Stöhr]. 27. September 1901</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1903">1903</date>
-               <biblScope unit="pages">419–422</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Korporal Stöhr« von Philipp Langmann</note>
-         <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #265, 8.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3171"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">[Korporal Stöhr]. 27. September 1901</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Rezensionen. Wiener Theater 1901 bis 1903</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1903">1903</date>
+                     <biblScope unit="pages">419–422</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Korporal Stöhr« von Philipp Langmann</note>
+               <note type="first-printing">Neues Wiener Tagblatt, 35 (1901) #265, 8.
                   (27.9.1901)</note>
-         <note type="incipit">Philipp Langmann hat durch seinen »Bartel Turaser«, der am 11.
+               <note type="incipit">Philipp Langmann hat durch seinen »Bartel Turaser«, der am 11.
                   Dezember 1897 im Deutschen Volkstheater gegeben wurde, große Hoffnungen
                   erregt.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

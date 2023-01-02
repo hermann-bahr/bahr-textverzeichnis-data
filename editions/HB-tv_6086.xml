@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 2. November</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-11-21</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6086"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 2. November</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9714</biblScope>
-               <biblScope unit="pages">4</biblScope>
-               <date when="1920-11-21">21.11.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Emil Ludwig: Goethe. Geschichte eines Menschen. Erster Band.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6086"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 2. November</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9714</biblScope>
+                     <biblScope unit="pages">4</biblScope>
+                     <date when="1920-11-21">21.11.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Emil Ludwig: Goethe. Geschichte eines Menschen. Erster Band.
                   Stuttgart, Berlin: Cotta 1920.</note>
-         <note type="other-prints">Kritik der Gegenwart, 256-257</note>
-         <note type="incipit">»Indessen begießt man einen Garten, da man dem Lande keinen
+               <note type="other-prints">Kritik der Gegenwart, 256-257</note>
+               <note type="incipit">»Indessen begießt man einen Garten, da man dem Lande keinen
                   Regen verschaffen kann.« Dieser pragmatische Rat Goethes enthält alles, was uns
                   armen Rumpfösterreichern zu tun noch allenfalls übrig bleibt. Trachte jeder sein
                   Gärtchen zu begießen, vielleicht, daß ihm noch ein paar Blümchen erblühen. Wer
@@ -89,9 +86,11 @@
                   selbst noch nie rührender, ergreifender gezeigt worden. Halten sich die beiden
                   anderen Bände des Werkes auf dieser Höhe, so kann es für das deutsche Haus werden,
                   was in meiner Jugend Lewes’ indessen längst überholtes Goethe-Buch war. |</note>
-         <note type="summary">Der erste Band von Emil Ludwigs Goethe-Biografie ist für Bahr
+               <note type="summary">Der erste Band von Emil Ludwigs Goethe-Biografie ist für Bahr
                   sehr vielversprechend.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

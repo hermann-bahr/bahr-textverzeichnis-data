@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der neue Stil</title>
-            <title when-iso=""/>
+            <title type="iso-date">1894</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,54 +26,58 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2813"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Der neue Stil</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2813"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Der neue Stil</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Studien zur Kritik der Moderne. Mit dem Portrait des Verfassers
                      in Lichtdruck</title>
-            <imprint>
-               <pubPlace>Frankfurt am Main</pubPlace>
-               <publisher>Literarische Anstalt Rütten &amp; Loening</publisher>
-               <date when="1894">1894</date>
-               <biblScope unit="pages">266–269</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7464,
+                  <imprint>
+                     <pubPlace>Frankfurt am Main</pubPlace>
+                     <publisher>Literarische Anstalt Rütten &amp; Loening</publisher>
+                     <date when="1894">1894</date>
+                     <biblScope unit="pages">266–269</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Deutsche Zeitung, Wien, 22 (1892) #7464,
                   Sonntags–Ausgabe, 1–4. (9.10.1892)</note>
-         <note type="incipit">Man hört jetzt viel von einem neuen Stil der Schauspielerei,
+               <note type="incipit">Man hört jetzt viel von einem neuen Stil der Schauspielerei,
                   als ob der alte der Ueberlieferung abgethan und verlebt sei, ohne Kraft über das
                   Gemüth und ohne Reiz auf den Geschmack, unverträglich mit den jungen Begierden
                   dieser Zeit. Die Tradition gilt auch auf der Bühne nichts mehr. Ein neuer Stil
                   wird gefordert.</note>
-         <note type="summary">Bahr versucht den aus Berlin kommenden, neuen Stil der
+               <note type="summary">Bahr versucht den aus Berlin kommenden, neuen Stil der
                   Schauspielkunst zu beschreiben, der sich als neue Natürlichkeit darstellt und
                   interviewt im Rahmen dessen Lewinsky, Thimig, Sandrock, Krastel, Bonn, Martinelli,
                   van Dyck, Andò, Hohenfels, Wolter sowie - jedoch bloß schriftlich - Reicher,
                   Savits und l‘Arronge. Dabei zeigt sich, dass Natürlichkeit bereits lange vor dem
                   Aufkommen dieses neuen Stils ein Kriterium für gute Schauspielerei gewesen
                   war.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11851"/>
-               <ptr type="pmb" target="#12491"/>
-               <ptr type="pmb" target="#12530"/>
-               <ptr type="pmb" target="#12061"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#2412"/>
-               <ptr type="pmb" target="#13166"/>
-               <ptr type="pmb" target="#2702"/>
-               <ptr type="pmb" target="#10759"/>
-               <ptr type="pmb" target="#11798"/>
-               <ptr type="pmb" target="#10883"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11851"/>
+                     <ptr type="pmb" target="#12491"/>
+                     <ptr type="pmb" target="#12530"/>
+                     <ptr type="pmb" target="#12061"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#2412"/>
+                     <ptr type="pmb" target="#13166"/>
+                     <ptr type="pmb" target="#2702"/>
+                     <ptr type="pmb" target="#10759"/>
+                     <ptr type="pmb" target="#11798"/>
+                     <ptr type="pmb" target="#10883"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

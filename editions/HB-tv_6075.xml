@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 4. Oktober</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-10-24</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6075"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 4. Oktober</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9688</biblScope>
-               <biblScope unit="pages">5</biblScope>
-               <date when="1920-10-24">24.10.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Ludwig Schemann: Von deutscher Zukunft. Gedanken Eines, der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6075"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 4. Oktober</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9688</biblScope>
+                     <biblScope unit="pages">5</biblScope>
+                     <date when="1920-10-24">24.10.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Ludwig Schemann: Von deutscher Zukunft. Gedanken Eines, der
                   auszog, das Hoffen zu lernen. Leipzig: Weicher 1920. Eduard Keyserling:
                   Philosophie als Kunst. Darmstadt: Otto Reichel 1920.</note>
-         <note type="other-prints">Kritik der Gegenwart, 236-241</note>
-         <note type="incipit">Seltsam klingt durch die Nacht dieser Zeit die klagende Stimme
+               <note type="other-prints">Kritik der Gegenwart, 236-241</note>
+               <note type="incipit">Seltsam klingt durch die Nacht dieser Zeit die klagende Stimme
                   Ludwig Schemanns. Ein Getreuer Wahnfrieds, Gobineaus Apostel in Deutschland, das
                   Erbe Lagardes hütend, hat er, während rings Deutschland eben anfing, ein großes
                   Geschäft zu werden, sein ganzes Leben im Glauben an eine sittliche Wiedergeburt
@@ -207,10 +204,12 @@
                   auch die letzte Spur deutschen Wesens »verredet« sein wird. Die großen Völker
                   haben in ihren größten Zeiten das Wort immer an die Fläche des Daseins verwiesen:
                   Tiefen sind stumm. |</note>
-         <note type="summary">Schemann kann schimpfen, aber nicht Hoffen lehren. Überhaupt ist
+               <note type="summary">Schemann kann schimpfen, aber nicht Hoffen lehren. Überhaupt ist
                   das Deutsche Wesen für Bahr in der Nachfolge und Interpretation Keyserlings nur
                   durch heiliges Schweigen zum Geistigen zu wenden.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

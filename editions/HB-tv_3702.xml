@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Über Hedda Gabler. Brief an eine Schauspielerin</title>
-            <title when-iso=""/>
+            <title type="iso-date">1909</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3702" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Über Hedda Gabler. Brief an eine Schauspielerin</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Eine deutsche Kunstspende. Unter dem Eindruck des Erdbebens von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3702" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Über Hedda Gabler. Brief an eine Schauspielerin</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Eine deutsche Kunstspende. Unter dem Eindruck des Erdbebens von
                      Sizilien und Kalabrien. Gesammelt durch Otto Julius Bierbaum, Felix Mottl,
                      Franz von Stuck</title>
-            <editor>Ehmcke, Fritz Helmut</editor>
-            <imprint>
-               <pubPlace>München</pubPlace>
-               <publisher>Georg Müller</publisher>
-               <date when="1909">1909</date>
-               <biblScope unit="pages">130–133</biblScope>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Die Entstehungsgeschichte der Titelauflage des Buches ist eigenwillig: 1909 als
+                  <editor>Ehmcke, Fritz Helmut</editor>
+                  <imprint>
+                     <pubPlace>München</pubPlace>
+                     <publisher>Georg Müller</publisher>
+                     <date when="1909">1909</date>
+                     <biblScope unit="pages">130–133</biblScope>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Die Entstehungsgeschichte der Titelauflage des Buches ist eigenwillig: 1909 als
                      Hilfsaktion deutscher Künstler für die Opfer eines Erdbebens in Messina und
                      Süditalien begonnen, deutet das Vorwort Bierbaums an, wieso es nicht in den
                      Handel kam: Weil in Italien einerseits fahrlässig mit Spendengeld umgegangen
@@ -68,16 +65,18 @@
                      haben werden, sei der innigste Dank ausgesprochen. Daß auch Gabriele d’Annunzio
                      und andere ’Engländer’ in dem schönen Sammelbuch vertreten sind, soll uns die
                      Freude daran nicht beeinträchtigen.«</p>
-         </note>
-         <note type="incipit">Zwei Welten, die wir sonst, in der Wirklichkeit, immer
+               </note>
+               <note type="incipit">Zwei Welten, die wir sonst, in der Wirklichkeit, immer
                   ineinander, durcheinander fließen sehen, stehen hier getrennt nebeneinander,
                   gegeneinander.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11798"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1909_kunstspende.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11798"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1909_kunstspende.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

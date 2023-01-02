@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 16. November</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-12-12</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6092"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 16. November</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9735</biblScope>
-               <biblScope unit="pages">4</biblScope>
-               <date when="1920-12-12">12.12.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6092"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 16. November</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9735</biblScope>
+                     <biblScope unit="pages">4</biblScope>
+                     <date when="1920-12-12">12.12.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
                   Geschichtliche Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang
                   des Reiches. I. Band: Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861. Leipzig: Der neue
                   Geist 1920. Franz Werfel: Spiegelmenschen. München: Kurt Wolff 1920.</note>
-         <note type="other-prints">Kritik der Gegenwart, 277-281</note>
-         <note type="incipit">Ich stecke noch immer in Josef Redlichs unerschöpflichem
+               <note type="other-prints">Kritik der Gegenwart, 277-281</note>
+               <note type="incipit">Ich stecke noch immer in Josef Redlichs unerschöpflichem
                   »Reichsproblem« fest! In seiner Zeichnung Franz Josefs zeigt Redlich eine
                   Meisterschaft, die nur von den höchsten Künstlern geschichtlicher Darstellung
                   zuweilen erreicht wird; nur etwa mit dem unvergänglich über die Zeiten hin
@@ -147,8 +144,10 @@
                   Heine so; denn von »Dies irae« über »Jakobs Traum« zum »Spiegelmenschen«,
                   wahrhaftig, eine so gewaltige Klimax ist lange keinem Burgtheaterdirektor
                   beschieden worden! |</note>
-         <note type="summary">Über Kaiser Franz Josef.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <note type="summary">Über Kaiser Franz Josef.</note>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

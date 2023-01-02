@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">2. September [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5569"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">2. September [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">208–211</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Rabindranath Tagore: Das Heim und die Welt. Aus der englischen
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5569"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">2. September [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">208–211</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Rabindranath Tagore: Das Heim und die Welt. Aus der englischen
                   Übersetzung von Helene Meyer-Franck. München: Kurt Wolff 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Da schlägt man das Buch eines Inders auf und findet sich mitten
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Da schlägt man das Buch eines Inders auf und findet sich mitten
                   unter unseren Fragen, Sorgen und Nöten! Rabindranath Tagores »Das Heim und die
                   Welt« (aus der englischen Übersetzung verdeutscht von Helene Meyer-Franck, im Kurt
                   Wolff-Verlag, München, 1920) ist eigentlich ein Ludendorff-Roman und man könnte
@@ -133,8 +130,10 @@
                   Notwendigkeit von »Swadeschi-Bewegungen« in Deutschland. Und zu retten ist es nur
                   dadurch, daß sich vielleicht doch dereinst ein deutscher Nikhil noch der
                   »Swadeschi-Bewegung« bemächtigt. Er könnte Hermann Keyserling heißen. |</note>
-         <note type="summary">Das Buch Rabindranath Thakur zeigt Bahr, dass Nationalismus ein
+               <note type="summary">Das Buch Rabindranath Thakur zeigt Bahr, dass Nationalismus ein
                   internationales Problem ist.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

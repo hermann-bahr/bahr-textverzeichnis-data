@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Freund Fritz. (Ländliches Sittengemälde in drei Acten von
                      Erckmann und Chatrian. Im Raimund-Theater zum ersten Male aufgeführt am 4.
                      October 1902)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902-10-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,42 +28,46 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1922" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Freund Fritz. (Ländliches Sittengemälde in drei Acten von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1922" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Freund Fritz. (Ländliches Sittengemälde in drei Acten von
                      Erckmann und Chatrian. Im Raimund-Theater zum ersten Male aufgeführt am 4.
                      October 1902)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">36</biblScope>
-               <biblScope unit="issue">276</biblScope>
-               <biblScope unit="pages">8–9</biblScope>
-               <date when="1902-10-07">7.10.1902</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Rezensionen, 422-429</note>
-         <note type="incipit">Wissen Sie, daß »Freund Fritz«, dies niedliche Gemälde
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">36</biblScope>
+                     <biblScope unit="issue">276</biblScope>
+                     <biblScope unit="pages">8–9</biblScope>
+                     <date when="1902-10-07">7.10.1902</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Rezensionen, 422-429</note>
+               <note type="incipit">Wissen Sie, daß »Freund Fritz«, dies niedliche Gemälde
                   elsässischer Sitten</note>
-         <note type="summary">Bahr erklärt, wie ein Stück einmal revolutionär gewesen sein,
+               <note type="summary">Bahr erklärt, wie ein Stück einmal revolutionär gewesen sein,
                   heute aber die biederste Anmutung haben kann.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#13194"/>
-               <ptr type="pmb" target="#11791"/>
-               <ptr type="pmb" target="#12053"/>
-               <ptr type="pmb" target="#10825"/>
-               <ptr type="pmb" target="#4120"/>
-               <ptr type="HB-tv" target="HB-tv_1968_p2"/>
-               <ptr type="HB-tv" target="HB-tv_1968_p1"/>
-               <ptr type="HB-tv" target="HB-tv_1922_p3"/>
-               <ptr type="HB-tv" target="HB-tv_2244_p2"/>
-               <ptr type="HB-tv" target="HB-tv_1922_p5"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#13194"/>
+                     <ptr type="pmb" target="#11791"/>
+                     <ptr type="pmb" target="#12053"/>
+                     <ptr type="pmb" target="#10825"/>
+                     <ptr type="pmb" target="#4120"/>
+                     <ptr type="HB-tv" target="HB-tv_1968_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_1968_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_1922_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_2244_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_1922_p5"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

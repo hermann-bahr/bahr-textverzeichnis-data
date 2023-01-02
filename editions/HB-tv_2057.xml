@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Schriftstellerprotest gegen Wiener Zensurverfügungen</title>
-            <title when-iso=""/>
+            <title type="iso-date">1918-02-05</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,43 +26,47 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2057"
-            type="Journal-Article"
-            subtype="Aufruf"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <author ref="#10955">Blei, Franz</author>
-            <author ref="#2121">Schnitzler, Arthur</author>
-            <author ref="#13055">Wassermann, Jakob</author>
-            <author ref="#13094">Werfel, Franz</author>
-            <title level="a">Schriftstellerprotest gegen Wiener Zensurverfügungen</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41289">Berliner Börsen-Courier</title>
-            <imprint>
-               <biblScope unit="jg">50</biblScope>
-               <biblScope unit="issue">59, Morgen-Ausgabe, Beilage</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1918-02-05">5.2.1918</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Hermann Bahr, Franz Blei, Artur [!] Schnitzler, Jakob
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2057"
+                        type="Journal-Article"
+                        subtype="Aufruf"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="#10955">Blei, Franz</author>
+                  <author ref="#2121">Schnitzler, Arthur</author>
+                  <author ref="#13055">Wassermann, Jakob</author>
+                  <author ref="#13094">Werfel, Franz</author>
+                  <title level="a">Schriftstellerprotest gegen Wiener Zensurverfügungen</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41289">Berliner Börsen-Courier</title>
+                  <imprint>
+                     <biblScope unit="jg">50</biblScope>
+                     <biblScope unit="issue">59, Morgen-Ausgabe, Beilage</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1918-02-05">5.2.1918</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Hermann Bahr, Franz Blei, Artur [!] Schnitzler, Jakob
                      Wassermann, Franz Werfel u.a. haben nachstehenen Protest gegen die Wiener
                      Zensurverbote der Stücke von Schickele und Claudel den dortigen Blättern
                      übermittelt:«</p>
-         </note>
-         <note type="incipit">Wir unterzeichneten Schriftsteller fühlen uns zu einem Protest
+               </note>
+               <note type="incipit">Wir unterzeichneten Schriftsteller fühlen uns zu einem Protest
                   gegen das amtliche Verbot veranlaßt, mit dem man die Aufführungen der Werke von
                   Schickele und Claudel belegt hat.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12640"/>
-               <ptr type="pmb" target="#6660"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1918_protest.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12640"/>
+                     <ptr type="pmb" target="#6660"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/boersen-courier/1918_protest.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

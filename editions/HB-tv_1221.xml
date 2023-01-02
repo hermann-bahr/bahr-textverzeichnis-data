@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Georges Rochegrosse. (Zur bevorstehenden Ausstellung im
                      Künstlerhause)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1892-11-11</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,49 +27,53 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1221" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Georges Rochegrosse. (Zur bevorstehenden Ausstellung im
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1221" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Georges Rochegrosse. (Zur bevorstehenden Ausstellung im
                      Künstlerhause)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41471">Deutsche Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">22</biblScope>
-               <biblScope unit="issue">7497, Morgen-Ausgabe</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1892-11-11">11.11.1892</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Die von Bahr angekündigte Besprechung von Rochegrosse’s »Der Fall Babylons«
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41471">Deutsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">22</biblScope>
+                     <biblScope unit="issue">7497, Morgen-Ausgabe</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1892-11-11">11.11.1892</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Die von Bahr angekündigte Besprechung von Rochegrosse’s »Der Fall Babylons«
                      durch Hans Grasberger findet sich in der Morgen-Ausgabe, 12.11.1892, 1.</p>
-         </note>
-         <note type="incipit">Er war, kaum zwanzigjährig, über Nacht berühmt.</note>
-         <note type="summary">Rochegrosse ist für Bahr der Maler der Dekadenz.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#4283"/>
-               <ptr type="pmb" target="#4950"/>
-               <ptr type="pmb" target="#3971"/>
-               <ptr type="HB-tv" target="HB-tv_3922_p1"/>
-               <ptr type="HB-tv" target="HB-tv_46_p3"/>
-               <ptr type="HB-tv" target="HB-tv_1221_p3"/>
-               <ptr type="HB-tv" target="HB-tv_1221_p4"/>
-               <ptr type="HB-tv" target="HB-tv_48_p11"/>
-               <ptr type="HB-tv" target="HB-tv_1847_p5"/>
-               <ptr type="HB-tv" target="HB-tv_2747_p4"/>
-               <ptr type="HB-tv" target="HB-tv_4862_p18"/>
-               <ptr type="HB-tv" target="HB-tv_1221_p9"/>
-               <ptr type="HB-tv" target="HB-tv_333_p8"/>
-               <ptr type="HB-tv" target="HB-tv_2787_p8"/>
-               <ptr type="HB-tv" target="HB-tv_1221_p12"/>
-               <ptr type="HB-tv" target="HB-tv_1221_p13"/>
-               <ptr type="HB-tv" target="HB-tv_1221_p14"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74976.pdf</ref>
+               </note>
+               <note type="incipit">Er war, kaum zwanzigjährig, über Nacht berühmt.</note>
+               <note type="summary">Rochegrosse ist für Bahr der Maler der Dekadenz.</note>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#4283"/>
+                     <ptr type="pmb" target="#4950"/>
+                     <ptr type="pmb" target="#3971"/>
+                     <ptr type="HB-tv" target="HB-tv_3922_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_46_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_1221_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_1221_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_48_p11"/>
+                     <ptr type="HB-tv" target="HB-tv_1847_p5"/>
+                     <ptr type="HB-tv" target="HB-tv_2747_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_4862_p18"/>
+                     <ptr type="HB-tv" target="HB-tv_1221_p9"/>
+                     <ptr type="HB-tv" target="HB-tv_333_p8"/>
+                     <ptr type="HB-tv" target="HB-tv_2787_p8"/>
+                     <ptr type="HB-tv" target="HB-tv_1221_p12"/>
+                     <ptr type="HB-tv" target="HB-tv_1221_p13"/>
+                     <ptr type="HB-tv" target="HB-tv_1221_p14"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/74976.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Maria Magdalena. (Ein bürgerliches Trauerspiel in drei Aufzügen
                      von Friedrich Hebbel. Zum ersten Mal aufgeführt am 4. Mai)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1899</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,30 +27,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2888"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Maria Magdalena. (Ein bürgerliches Trauerspiel in drei Aufzügen
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2888"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Maria Magdalena. (Ein bürgerliches Trauerspiel in drei Aufzügen
                      von Friedrich Hebbel. Zum ersten Mal aufgeführt am 4. Mai)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1899">1899</date>
-               <biblScope unit="pages">270–279</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Als »Maria Magdalene« in: Die Zeit, 3 (1895) #32, 91–92.
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1899">1899</date>
+                     <biblScope unit="pages">270–279</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Als »Maria Magdalene« in: Die Zeit, 3 (1895) #32, 91–92.
                   (11.5.1895)</note>
-         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+               <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   304-309</note>
-         <note type="incipit">Als Shakespeare dichtete, hatten seine Collegen, die anderen
+               <note type="incipit">Als Shakespeare dichtete, hatten seine Collegen, die anderen
                   Schauspieler, immer nur eine Klage.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      Italienischen des G. Rovetta von A. M. Zeltern. »Eine Schachpartie,«
                      dramatisches Gedicht von Giuseppe Giacosa. »Der Diener zweier Herren,«
                      Lustspiel von Goldoni)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1888</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,25 +29,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3919" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">hr</author>
-            <title level="a">Burgtheater. (»Eine Lection,« Lustspiel in einem Act nach dem
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3919" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">hr</author>
+                  <title level="a">Burgtheater. (»Eine Lection,« Lustspiel in einem Act nach dem
                      Italienischen des G. Rovetta von A. M. Zeltern. »Eine Schachpartie,«
                      dramatisches Gedicht von Giuseppe Giacosa. »Der Diener zweier Herren,«
                      Lustspiel von Goldoni)</title>
-         </analytic>
-         <monogr>
-            <title level="j">Deutsche Wochenschrift</title>
-            <imprint>
-               <biblScope unit="jg">6</biblScope>
-               <biblScope unit="issue">9</biblScope>
-               <biblScope unit="pages">7–8</biblScope>
-               <date when="1888">1888</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Die Première war am 27.2.1888. In ihrer unveröffentlichten Autobiografie
+               </analytic>
+               <monogr>
+                  <title level="j">Deutsche Wochenschrift</title>
+                  <imprint>
+                     <biblScope unit="jg">6</biblScope>
+                     <biblScope unit="issue">9</biblScope>
+                     <biblScope unit="pages">7–8</biblScope>
+                     <date when="1888">1888</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Die Première war am 27.2.1888. In ihrer unveröffentlichten Autobiografie
                      erzählt Emma Adler, dass Bahr als Tischnachbar in der Berggasse ihrer Kritik
                      der Schratt in der »Gezähmten Widerspenstigen« lauschte und sie dann im Grunde
                      unverfälscht in der Deutschen Wochenschrift brachte, einschließlich der
@@ -65,10 +62,12 @@
                      es nicht nötig hat, woran sie neuestens besonderen Gefallen zu finden scheint,
                      durch solche Ungunst der Haartracht ihre Ohren noch geflissentlich zu
                      vergrößern.«</p>
-         </note>
-         <note type="other-prints">Zur Kritik der Moderne, 87-89</note>
-         <note type="incipit">Man schleift das befestigte Ansehen des Burgtheaters</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-wochenschrift/1888_deutschte-wochenschrift.pdf</ref>
+               </note>
+               <note type="other-prints">Zur Kritik der Moderne, 87-89</note>
+               <note type="incipit">Man schleift das befestigte Ansehen des Burgtheaters</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-wochenschrift/1888_deutschte-wochenschrift.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

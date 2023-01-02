@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Elektra. (Tragödie in einem Aufzuge, frei nach Sophokles, von
                      Hugo von Hofmannsthal. Zum ersten Mal aufgeführt von der Truppe des Berliner
                      Kleinen Theaters im Theater an der Wien am 13. Mai 1905)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1907</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,32 +28,36 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3208"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Elektra. (Tragödie in einem Aufzuge, frei nach Sophokles, von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3208"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Elektra. (Tragödie in einem Aufzuge, frei nach Sophokles, von
                      Hugo von Hofmannsthal. Zum ersten Mal aufgeführt von der Truppe des Berliner
                      Kleinen Theaters im Theater an der Wien am 13. Mai 1905)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb30685">Glossen. Zum Wiener Theater (1903 bis
                      1906)</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1907">1907</date>
-               <biblScope unit="pages">269–277</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Tagblatt, 39 (1905) #132, 11.
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1907">1907</date>
+                     <biblScope unit="pages">269–277</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Tagblatt, 39 (1905) #132, 11.
                   (14.5.1905)</note>
-         <note type="other-prints">Das Hermann-Bahr-Buch, 208-213 H. B.: Kritiken. Hg.
+               <note type="other-prints">Das Hermann-Bahr-Buch, 208-213 H. B.: Kritiken. Hg.
                   Kindermann. Wien: Bauer 1963, 238-242</note>
-         <note type="incipit">Im zweiten Saale des Athenischen Museums sind die mykenischen
+               <note type="incipit">Im zweiten Saale des Athenischen Museums sind die mykenischen
                   Funde. Waffen, Geräte, Schmuck.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Das Phantom. Komödie in drei Akten. Mit
                      Dekorationsskizzen von Koloman Moser</title>
-            <title when-iso=""/>
+            <title type="iso-date">1913</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,23 +27,25 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1576"
-            type="Book"
-            sameAs="pmb30083"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30083">Das Phantom. Komödie in drei Akten. Mit
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1576"
+                        type="Book"
+                        sameAs="pmb30083"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30083">Das Phantom. Komödie in drei Akten. Mit
                      Dekorationsskizzen von Koloman Moser</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1913">1913</date>
-            </imprint>
-            <extent>153 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Thomasberger: »Bühnenmanuskript: Berlin: Ahn &amp; Simrock 1913«. Die
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1913">1913</date>
+                  </imprint>
+                  <extent>153 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Thomasberger: »Bühnenmanuskript: Berlin: Ahn &amp; Simrock 1913«. Die
                      Österreichische Volkszeitung (59 (1913) #195, 7. 18.7.1913) meldet den
                      Manuskriptdruck als Erschienen und kündigt die Uraufführung für das Theater der
                      Sozietät in Berlin an. Aufführungsrechte erwarben sich nach Erscheinen das
@@ -68,12 +65,14 @@
                      Jacobsohn. In: Zeit im Bild, 12 (1914) #9, 491-493. (26.2.1914) Neu: Gesammelte
                      Schriften, III, 380-383. Hamburger Nachrichten, 20.3.1914 Ernst von Wolzogen
                      in: Das literarische Echo, 16 (1914) #7, 474-475</p>
-         </note>
-         <note type="summary">Die Gattin des Brauers Schmorr verliebt sich in einen
+               </note>
+               <note type="summary">Die Gattin des Brauers Schmorr verliebt sich in einen
                   Theosophen, wird aber vom Objekt ihrer Begierde zurückgewiesen. Schmorr versucht,
                   ihr über diese Verletzung des Ichs hinwegzuhelfen, indem er den Angebeten bittet,
                   doch seiner Frau eine Liebeserklärung zu machen.</note>
-         <ref type="URL">http://books.google.at/books?q=editions:UOM39015031324612&amp;id=5twqAAAAMAAJ</ref>
+               <ref type="URL">http://books.google.at/books?q=editions:UOM39015031324612&amp;id=5twqAAAAMAAJ</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

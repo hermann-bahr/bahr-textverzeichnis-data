@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Die schöne Frau</title>
-            <title when-iso=""/>
+            <title type="iso-date">1899</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2924"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Die schöne Frau</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Die schöne Frau</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1899">1899</date>
-               <biblScope unit="pages">9–29</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Die Zeit, 11 (1897) #131, 15–16. (3.4.1897)</note>
-         <note type="other-prints">Die schöne Frau. Leipzig: Reclam 1924, 3–12 Wirkung in die
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2924"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Die schöne Frau</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Die schöne Frau</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1899">1899</date>
+                     <biblScope unit="pages">9–29</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Die Zeit, 11 (1897) #131, 15–16. (3.4.1897)</note>
+               <note type="other-prints">Die schöne Frau. Leipzig: Reclam 1924, 3–12 Wirkung in die
                   Ferne. Wien: Bauer 1947, 54-66</note>
-         <note type="incipit">Ich treffe meinen lieben alten Freund Paul Dorn auf der
+               <note type="incipit">Ich treffe meinen lieben alten Freund Paul Dorn auf der
                   Gasse.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

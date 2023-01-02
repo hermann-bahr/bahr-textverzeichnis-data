@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Weltdeutsch</title>
-            <title when-iso=""/>
+            <title type="iso-date">1915-07-16</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1409"
-            type="Journal-Article"
-            subtype="Auszug_Nachdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Weltdeutsch</title>
-         </analytic>
-         <monogr>
-            <title level="j">Heidelberger Tageblatt</title>
-            <imprint>
-               <biblScope unit="jg">33</biblScope>
-               <biblScope unit="issue">163</biblScope>
-               <biblScope unit="pages">2</biblScope>
-               <date when="1915-07-16">16.7.1915</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Zeit–Echo, 1 (1915) #15, 228–232.</note>
-         <note type="incipit">Wir erwarten alle von diesem Krieg, daß er Deutschland stark
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1409"
+                        type="Journal-Article"
+                        subtype="Auszug_Nachdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Weltdeutsch</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Heidelberger Tageblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">33</biblScope>
+                     <biblScope unit="issue">163</biblScope>
+                     <biblScope unit="pages">2</biblScope>
+                     <date when="1915-07-16">16.7.1915</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Zeit–Echo, 1 (1915) #15, 228–232.</note>
+               <note type="incipit">Wir erwarten alle von diesem Krieg, daß er Deutschland stark
                   machen soll</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

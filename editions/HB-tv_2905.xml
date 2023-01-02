@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      Otto Erich Hartleben; »Die Erziehung zur Ehe«. Satire in drei Acten von Otto
                      Erich Hartleben. Zum ersten Male aufgeführt im Deutschen Volkstheater am 11.
                      September 1897)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1899</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,29 +29,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2905"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Die Erziehung zur Ehe. (»Die Lore«, Plauderei in einem Act von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2905"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Die Erziehung zur Ehe. (»Die Lore«, Plauderei in einem Act von
                      Otto Erich Hartleben; »Die Erziehung zur Ehe«. Satire in drei Acten von Otto
                      Erich Hartleben. Zum ersten Male aufgeführt im Deutschen Volkstheater am 11.
                      September 1897)</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1899">1899</date>
-               <biblScope unit="pages">388–393</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Die Zeit, 12 (1897) #155, 188–189. (18.9.1897)</note>
-         <note type="incipit">Als voriges Jahr die »sittliche Forderung« bei uns gespielt
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="31839">Wiener Theater. (1892–1898)</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1899">1899</date>
+                     <biblScope unit="pages">388–393</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Die Zeit, 12 (1897) #155, 188–189. (18.9.1897)</note>
+               <note type="incipit">Als voriges Jahr die »sittliche Forderung« bei uns gespielt
                   wurde, habe ich Otto Erich Hartleben, unseren dicken Freund</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

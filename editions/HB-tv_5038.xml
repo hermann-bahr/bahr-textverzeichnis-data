@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">26. Juli [1918]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5038"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">26. Juli [1918]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Tagebücher 2</title>
-            <imprint>
-               <pubPlace>Innsbruck, Wien, München</pubPlace>
-               <publisher>Tyrolia</publisher>
-               <date when="1919">1919</date>
-               <biblScope unit="pages">225</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal, 11.8.1918</note>
-         <note type="incipit">In der »Italienischen Reise« finde ich einen Satz, der ganz
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5038"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">26. Juli [1918]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Tagebücher 2</title>
+                  <imprint>
+                     <pubPlace>Innsbruck, Wien, München</pubPlace>
+                     <publisher>Tyrolia</publisher>
+                     <date when="1919">1919</date>
+                     <biblScope unit="pages">225</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal, 11.8.1918</note>
+               <note type="incipit">In der »Italienischen Reise« finde ich einen Satz, der ganz
                   ausspricht, was ich mir jetzt so oft denke: »Gott sei Dank, wie mir alles wieder
                   lieb wird, was mir von Jugend auf wert war!«</note>
-         <note type="summary">Am 26. Juli 1918 fand Bahr wieder einmal bei Goethe formuliert,
+               <note type="summary">Am 26. Juli 1918 fand Bahr wieder einmal bei Goethe formuliert,
                   was er selber gerne gedacht hätte.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

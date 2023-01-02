@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">50 Jahre Hoftheater. Geschichte der beiden Wiener Hoftheater
                      unter der Regierungszeit des Kaisers Franz Joseph I. I. Unter Mitwirkung von
                      Hermann Bahr</title>
-            <title when-iso=""/>
+            <title type="iso-date">1898</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,19 +28,23 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_683" type="Book" status="checked">
-         <monogr>
-            <author ref="#2570">Lothar, Rudolph</author>
-            <author ref="#3162">Stern, Julius</author>
-            <title level="m">50 Jahre Hoftheater. Geschichte der beiden Wiener Hoftheater
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_683" type="Book" status="checked">
+               <monogr>
+                  <author ref="#2570">Lothar, Rudolph</author>
+                  <author ref="#3162">Stern, Julius</author>
+                  <title level="m">50 Jahre Hoftheater. Geschichte der beiden Wiener Hoftheater
                      unter der Regierungszeit des Kaisers Franz Joseph I. I. Unter Mitwirkung von
                      Hermann Bahr</title>
-            <imprint>
-               <pubPlace>Wien</pubPlace>
-               <publisher>Steyrermühl</publisher>
-               <date when="1898">1898</date>
-            </imprint>
-         </monogr>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>Steyrermühl</publisher>
+                     <date when="1898">1898</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

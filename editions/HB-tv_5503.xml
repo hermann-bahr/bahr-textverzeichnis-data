@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">16. Januar [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5503"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">16. Januar [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">39–41</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">In der »Neuen Zürcher Zeitung« erzählt Alfred H. Fried, er habe
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5503"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">16. Januar [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">39–41</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">In der »Neuen Zürcher Zeitung« erzählt Alfred H. Fried, er habe
                   Lammasch für den nächsten Friedenspreis der Nobelstiftung vorgeschlagen (den nun
                   wohl Barbusse erhalten wird): »Lammasch, meint Fried, hätte nicht bloß diese
                   Ehrung verdient, sondern leider auch die damit verbundene materielle Gabe
@@ -89,8 +86,10 @@
                   besitzenden, also jetzt ganz unbrauchbaren Leuten Unterkunft und irgendeine
                   Möglichkeit sich ihr Brot zu verdienen gewährt. Den Regierungen ist das nicht
                   zuzumuten: denn der Geistige »leistet« ja nichts. |</note>
-         <note type="summary">»Sonderlinge«, die aus innerem Antrieb und nicht für Geld
+               <note type="summary">»Sonderlinge«, die aus innerem Antrieb und nicht für Geld
                   arbeiteten, hätten es in der gegenwärtigen Welt besonders schwer.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

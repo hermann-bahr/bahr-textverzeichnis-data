@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Zur zweiten Auflage</title>
-            <title when-iso=""/>
+            <title type="iso-date">1898</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3541" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Zur zweiten Auflage</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Die gute Schule. Seelenzustände</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1898">1898</date>
-               <biblScope unit="pages">I–IV</biblScope>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Eine Fassung des Vorworts zur 2. Auflage hat Bahr am 30. Juli 1897 an den
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3541" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Zur zweiten Auflage</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Die gute Schule. Seelenzustände</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1898">1898</date>
+                     <biblScope unit="pages">I–IV</biblScope>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Eine Fassung des Vorworts zur 2. Auflage hat Bahr am 30. Juli 1897 an den
                      Verlag geschickt. Fischer lehnte es ab, weil es den Absatz des Buches schädigen
                      würde, da Bahr nicht mehr zum Buch stünde. Ob Bahr sich durchsetzte oder ob
                      eine zumindest leicht entschärfte Fassung publiziert wurde, ist nicht zu
                      eruieren.</p>
-         </note>
-         <note type="first-printing">Leicht verändert als »Damals« in: Die Zeit,
+               </note>
+               <note type="first-printing">Leicht verändert als »Damals« in: Die Zeit,
                   31.7.1897</note>
-         <note type="incipit">Als ich dieser Tage, um die Korrekturen zu machen, die »gute
+               <note type="incipit">Als ich dieser Tage, um die Korrekturen zu machen, die »gute
                   Schule« wieder las, ist es mir seltsam ergangen. Das soll ich einmal gewesen sein?
                   So hätte ich einst empfunden, so gesprochen? Es ist noch keine acht Jahre, daß ich
                   sie schrieb, im Winter von 1889 auf 90, auf der Reise durch Spanien und Marokko.
@@ -127,6 +124,8 @@
                   haben. Aber hätten wir es nicht, so könnten wir heute nicht lächeln. Darum wollen
                   wir nicht stolz werden, sondern unsere Vergangenheiten in Ehren halten.
                   Schliersee, August 1897. Hermann Bahr. |</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

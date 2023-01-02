@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Impressionismus. Sechzehnte Ausstellung der Vereinigung bildender
                      Künstler Österreichs. Entwicklung des Impressionismus in Malerei und Plastik.
                      II</title>
-            <title when-iso=""/>
+            <title type="iso-date">1903-01-23</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,24 +28,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_765" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Impressionismus. Sechzehnte Ausstellung der Vereinigung bildender
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_765" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Impressionismus. Sechzehnte Ausstellung der Vereinigung bildender
                      Künstler Österreichs. Entwicklung des Impressionismus in Malerei und Plastik.
                      II</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">49</biblScope>
-               <biblScope unit="issue">23</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1903-01-23">23.1.1903</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Essays, 167–170</note>
-         <note type="incipit">Das Bild des Vormeer [!] zeigt einen Maler</note>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">49</biblScope>
+                     <biblScope unit="issue">23</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1903-01-23">23.1.1903</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Essays, 167–170</note>
+               <note type="incipit">Das Bild des Vormeer [!] zeigt einen Maler</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Zur Kritik der Moderne</title>
-            <title when-iso=""/>
+            <title type="iso-date">1890</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1350"
-            type="Book"
-            status="checked"
-            sameAs="pmb32440">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
-            <imprint>
-               <pubPlace>Zürich</pubPlace>
-               <publisher>J. Schabelitz</publisher>
-               <date when="1890">1890</date>
-            </imprint>
-            <extent>268 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Eigentlich 1889, vordatiert auf 1890. In einem Brief am Vater kündigt Bahr am
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1350"
+                        type="Book"
+                        status="checked"
+                        sameAs="pmb32440">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb32440">Zur Kritik der Moderne</title>
+                  <imprint>
+                     <pubPlace>Zürich</pubPlace>
+                     <publisher>J. Schabelitz</publisher>
+                     <date when="1890">1890</date>
+                  </imprint>
+                  <extent>268 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Eigentlich 1889, vordatiert auf 1890. In einem Brief am Vater kündigt Bahr am
                      9.6.1889 das Erscheinen für Oktober an. Die Texte wolle er im August fertig
                      machen. Die Widmung an Wolfgang Heine ist datiert mit »September 1889«. Bahr
                      erhält sein Exemplar in Biarritz, wie er am 12. Oktober seinem Vater schreibt.
                      Die Schweizer Nationalbiografie führt es im Jänner 1890.</p>
-            <p>Rezensionen: Eine erste Rezension aus der Niederlausitzer Zeitung vom
+                  <p>Rezensionen: Eine erste Rezension aus der Niederlausitzer Zeitung vom
                      10.11.1889 ist im Archiv (Z M Ba 15) fälschlich der Mappe »Überwindung des
                      Naturalismus« zugeordnet. Deutsche Zeitung, 22.11.1889 Erwin Sturm in: Der
                      Kunstwart, 3 (1890) #9, 138–139 (31.1.1890) E. M. Kafka in: Moderne Dichtung, 1
@@ -63,17 +60,19 @@
                      Bühne, 1 (1890), 371-373. Westermanns Illustrierte Deutsche Monatshefte, 71
                      (1891), 570. Loris [=Hugo von Hofmannsthal: Die Mutter. In: Moderne Rundschau,
                      2 (1891) #2, 75-77. (15.4.1891) [Mit Bahrs Stück: »Die Mutter«]</p>
-         </note>
-         <note type="other-prints">Kritische Schriften, I. Weimar: VDG 2004</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#38364"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik-2.pdf</ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
-         <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20moderne</ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=42</ref>
+               </note>
+               <note type="other-prints">Kritische Schriften, I. Weimar: VDG 2004</note>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#38364"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik-2.pdf</ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/1-zur-kritik.pdf</ref>
+               <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20moderne</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=42</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

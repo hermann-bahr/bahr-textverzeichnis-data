@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      einem Act von Giovanni Verga, »Es hat so sollen sein,« Lustspiel in einem Act
                      von Hans Hopfen, »Die Taube der Messalina,« Schauspiel in einem Act von Sigmund
                      Schlesinger)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1893-01-09</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,26 +29,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_223" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Deutsches Volkstheater. (»Bauernehre,« sicilianische Volkscene in
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_223" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Deutsches Volkstheater. (»Bauernehre,« sicilianische Volkscene in
                      einem Act von Giovanni Verga, »Es hat so sollen sein,« Lustspiel in einem Act
                      von Hans Hopfen, »Die Taube der Messalina,« Schauspiel in einem Act von Sigmund
                      Schlesinger)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41471">Deutsche Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">23</biblScope>
-               <biblScope unit="issue">7555, Abend-Ausgabe</biblScope>
-               <biblScope unit="pages">1</biblScope>
-               <date when="1893-01-09">9.1.1893</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Der »Cavalleria rusticana« des Giovanni Verga ist in Wien
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41471">Deutsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">23</biblScope>
+                     <biblScope unit="issue">7555, Abend-Ausgabe</biblScope>
+                     <biblScope unit="pages">1</biblScope>
+                     <date when="1893-01-09">9.1.1893</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Der »Cavalleria rusticana« des Giovanni Verga ist in Wien
                   gestern genau das Nämliche geschehen wie unlängst in Berlin</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75551.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75551.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

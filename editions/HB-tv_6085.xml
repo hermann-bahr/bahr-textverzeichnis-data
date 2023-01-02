@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 1. November</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-11-21</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6085"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 1. November</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9714</biblScope>
-               <biblScope unit="pages">4</biblScope>
-               <date when="1920-11-21">21.11.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">P. Heribert Holzapfel: Die Bedeutung des heiligen Franz von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6085"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 1. November</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9714</biblScope>
+                     <biblScope unit="pages">4</biblScope>
+                     <date when="1920-11-21">21.11.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">P. Heribert Holzapfel: Die Bedeutung des heiligen Franz von
                   Assisi für die Gegenwart. In: Jahrbuch des Verbandes der Vereine katholischer
                   Akademiker zur Pflege der katholischen Weltanschauung. Düsseldorf: Schwann
                   1919,</note>
-         <note type="other-prints">Kritik der Gegenwart, 253-256</note>
-         <note type="incipit">Ob ich nicht aber im Grunde vielleicht, ohne das selber zu
+               <note type="other-prints">Kritik der Gegenwart, 253-256</note>
+               <note type="incipit">Ob ich nicht aber im Grunde vielleicht, ohne das selber zu
                   wissen, doch eigentlich selber ein – Kommunist sei, fragt mich jemand und meint,
                   ich müßte darüber umfallen vor Schreck. Er sieht mich ratlos an, als ich antworte:
                   Kommunist? Hoffentlich! Schon weil mich ja verlangt, ein katholischer Christ zu
@@ -119,10 +116,12 @@
                   aushalten, er setzt Mächtige, die es in der Macht nicht mehr aushalten, voraus.
                   Arme sind meistens dem Kommunismus totfeind: sie wünschen sich ja noch reich zu
                   werden. Dem Kommunismus fehlt noch immer sein Mirabeau. |</note>
-         <note type="summary">Bahr ist Kommunist, wie jeder Franziskaner Kommunist ist.
+               <note type="summary">Bahr ist Kommunist, wie jeder Franziskaner Kommunist ist.
                   Voraussetzung für den Kommunisten alias radikalen Christen ist, dass man reich
                   ist, um geben zu können, und dass man geben kann, und nicht genommen wird.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

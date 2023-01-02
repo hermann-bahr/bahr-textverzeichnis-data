@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Deutsches Volkstheater. (»Zwei glückliche Tage.«
                      Schwank von Franz von Schönthan u. Gustav Kadelburg)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1893-01-27</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,30 +27,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_232"
-            type="Journal-Article"
-            sameAs="pmb32105"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a" ref="pmb32105">Deutsches Volkstheater. (»Zwei glückliche Tage.«
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_232"
+                        type="Journal-Article"
+                        sameAs="pmb32105"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a" ref="pmb32105">Deutsches Volkstheater. (»Zwei glückliche Tage.«
                      Schwank von Franz von Schönthan u. Gustav Kadelburg)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41471">Deutsche Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">23</biblScope>
-               <biblScope unit="issue">7573, Morgen-Ausgabe</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1893-01-27">27.1.1893</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Als »Zwei glückliche Tage« in: Wiener Theater,
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41471">Deutsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">23</biblScope>
+                     <biblScope unit="issue">7573, Morgen-Ausgabe</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1893-01-27">27.1.1893</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Als »Zwei glückliche Tage« in: Wiener Theater,
                   205-211</note>
-         <note type="incipit">Das neue Glück von Schönthan und Kadelburg ist
+               <note type="incipit">Das neue Glück von Schönthan und Kadelburg ist
                   vortrefflich.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75731.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75732.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75731.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75732.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

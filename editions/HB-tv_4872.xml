@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 14. November</title>
-            <title when-iso=""/>
+            <title type="iso-date">1929-12-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,24 +26,26 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4872"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 14. November</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">37</biblScope>
-               <biblScope unit="issue">12942</biblScope>
-               <biblScope unit="pages">22</biblScope>
-               <date when="1929-12-01">1.12.1929</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Auch wir Österreicher warten mit Ehren für einen Dichter, bis er
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4872"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 14. November</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">37</biblScope>
+                     <biblScope unit="issue">12942</biblScope>
+                     <biblScope unit="pages">22</biblScope>
+                     <date when="1929-12-01">1.12.1929</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Auch wir Österreicher warten mit Ehren für einen Dichter, bis er
                   stirbt, aber in Deutschland muß er gar erst jahrelang begraben liegen, bis er des
                   Nachruhms gewürdigt wird. Als wir Hofmannsthal verloren, erinnerten wir uns
                   sogleich der Bedeutung dieses Verlustes, Deutschland aber scheint heute schon
@@ -64,19 +61,21 @@
                   Nachwelt, stets gerechter als die Mitwelt, wird erkennen, daß, wie das Zeitalter
                   Goethes sich ohne Herder, das unsere sich ohne Arno Holz nicht denken läßt.
                   |</note>
-         <note type="summary">Bahr wirft den Zeitgenossen vor, Arno Holz vergessen zu haben,
+               <note type="summary">Bahr wirft den Zeitgenossen vor, Arno Holz vergessen zu haben,
                   dessen Bedeutung von der Nachwelt erkannt werden würde.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11763"/>
-               <ptr type="pmb" target="#11740"/>
-               <ptr type="pmb" target="#11617"/>
-               <ptr type="pmb" target="#11324"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#4996"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11763"/>
+                     <ptr type="pmb" target="#11740"/>
+                     <ptr type="pmb" target="#11617"/>
+                     <ptr type="pmb" target="#11324"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#4996"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

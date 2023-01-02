@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Sozial-politische Rundschau. XIX. »Der vierte Stand und der
                      Staatssocialismus. Zur Signatur der deutschen Gegenwart von einem
                      Nichtpolitiker«</title>
-            <title when-iso=""/>
+            <title type="iso-date">1884-06-15</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,36 +28,40 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3"
-            type="Journal-Article"
-            subtype="Rezension"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Sozial-politische Rundschau. XIX. »Der vierte Stand und der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3"
+                        type="Journal-Article"
+                        subtype="Rezension"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Sozial-politische Rundschau. XIX. »Der vierte Stand und der
                      Staatssocialismus. Zur Signatur der deutschen Gegenwart von einem
                      Nichtpolitiker«</title>
-         </analytic>
-         <monogr>
-            <title level="j">Deutsche Wochenschrift</title>
-            <imprint>
-               <biblScope unit="jg">2</biblScope>
-               <biblScope unit="issue">24</biblScope>
-               <biblScope unit="pages">9–10</biblScope>
-               <date when="1884-06-15">15.6.1884</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Der vierte Stand und der Staatssozialismus. Zur Signatur des
+               </analytic>
+               <monogr>
+                  <title level="j">Deutsche Wochenschrift</title>
+                  <imprint>
+                     <biblScope unit="jg">2</biblScope>
+                     <biblScope unit="issue">24</biblScope>
+                     <biblScope unit="pages">9–10</biblScope>
+                     <date when="1884-06-15">15.6.1884</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Der vierte Stand und der Staatssozialismus. Zur Signatur des
                   deutschen Gegenwart. Von einem Nichtpolitiker. Leipzig: Hirzel 1884.</note>
-         <note type="incipit">Unter dem etwas anspruchsvollen Titel: »Der vierte Stand und der
+               <note type="incipit">Unter dem etwas anspruchsvollen Titel: »Der vierte Stand und der
                   Staatssocialismus. Zur Signatur der deutschen Gegegnwart von einem Nichtpolitiker«
                   bietet uns Hirzel’s Verlag (Leipzig) ein anziehend geschriebenes Werkchen</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#10943"/>
-               <ptr type="HB-tv" target="HB-tv_4858_p3"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#10943"/>
+                     <ptr type="HB-tv" target="HB-tv_4858_p3"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

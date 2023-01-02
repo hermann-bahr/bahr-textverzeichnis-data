@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Selbstbildnis</title>
-            <title when-iso=""/>
+            <title type="iso-date">1923</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1385"
-            type="Book"
-            sameAs="pmb30813"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30813">Selbstbildnis</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1923">1923</date>
-            </imprint>
-            <extent>310 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Widmung: »Meiner Frau. München, Ostern 1923.« Der texidente Erstdruck erschien
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1385"
+                        type="Book"
+                        sameAs="pmb30813"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30813">Selbstbildnis</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1923">1923</date>
+                  </imprint>
+                  <extent>310 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Widmung: »Meiner Frau. München, Ostern 1923.« Der texidente Erstdruck erschien
                      ab Oktober 1920 im »Neuen Reich«. Eine erste Fassung des Manuskripts schickte
                      Bahr am 4. März 1922 an S. Fischer. Im Neuen Reich, 5 (1923) #41, 933.
                      (14.7.1923) wird aus dem Verlagsprospekt zitiert, dass das Buch passend zu
@@ -62,8 +59,8 @@
                      Zusammenfassung lautet: »Substanzlos«]. Louis Gillet: Le Témoignage d’Hermann
                      Bahr. In: Le Gaulois, 59 (1924) #16942 , 3. (23.2.1924) M. [=Anton Mayer?] in:
                      Bayerische Blätter für das Gymnasialschulwesen, 60 (1924), 307.</p>
-         </note>
-         <note type="first-printing">Als »Erinnerungen« vollständig in: Das Neue Reich,
+               </note>
+               <note type="first-printing">Als »Erinnerungen« vollständig in: Das Neue Reich,
                   3.10.1920–16.6.1923 Das Schlusskapitel in: Die neue Rundschau, 34 (1923) #6,
                   510–523. Dasselbe in: Frankfurter Zeitung, 12.6.1923, 1–2 Der Anfang in: Blätter
                   des Deutschen Theaters, 10 (1923) #3 (Oktober), 18–19. Auszug: »Erinnerung an Hugo
@@ -76,7 +73,7 @@
                   relegiert wurde« in: Deutsche Zeitung für Spanien / Revista Alemana de España, 8
                   (1923) #170, 6–7. (25.7.1923) Auszug in der Neuen Zürcher Zeitung,
                   29.1.1934</note>
-         <note type="other-prints">Auszug in: Bianca Segantini und Francesco von Mendelssohn,
+               <note type="other-prints">Auszug in: Bianca Segantini und Francesco von Mendelssohn,
                   Hgg.: Eleonora Duse. Bildnisse und Worte. Berlin: Rudolf Kaemmerer 1926, 16–19.
                   Auszug in: Hugo Hagn, Hg.: Jahrbuch katholischer Dichter 1934. Mit 32 Bildnissen.
                   Saarbrücken: Saarbrücker Druckerei 1934, 11–19. Auszug: »Erinnere dich an
@@ -84,8 +81,10 @@
                   deutschsprachige Nationalitäten-Universität in Czernowitz. München: Meschendörfer
                   1975, 330-332 Dass. erneut: Peter Rychlo (Hg.): Europa erlesen. Czernowitz.
                   Klagenfurt: Wieser 2004, 94-99</note>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=99</ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/18-selbstbildnis.pdf</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=99</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

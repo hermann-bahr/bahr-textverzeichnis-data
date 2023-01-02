@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Alejandro Sawa</title>
-            <title when-iso=""/>
+            <title type="iso-date">1894</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,56 +26,60 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2745"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Alejandro Sawa</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2745"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Alejandro Sawa</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb32362">Der Antisemitismus. Ein internationales
                      Interview</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1894">1894</date>
-               <biblScope unit="pages">168–174</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7766, Morgen–Ausgabe,
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1894">1894</date>
+                     <biblScope unit="pages">168–174</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Deutsche Zeitung, Wien, 23 (1893) #7766, Morgen–Ausgabe,
                   2–3. (11.8.1893)</note>
-         <note type="incipit">Als ich 1889 nach Spanien kam, da flog der erste Ruhm des jungen
+               <note type="incipit">Als ich 1889 nach Spanien kam, da flog der erste Ruhm des jungen
                   Sawa durch die Städte. Die Neuerer jauchzten und die Wächter der Schablonen, vor
                   seiner ungestümen, trunkenen Leidenschaft erschrocken, konnten doch einen
                   starken, reichen Geist nicht verkennen. Er wirkte unwiderstehlich.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#5359"/>
-               <ptr type="pmb" target="#13194"/>
-               <ptr type="pmb" target="#8841"/>
-               <ptr type="pmb" target="#13011"/>
-               <ptr type="pmb" target="#3723"/>
-               <ptr type="pmb" target="#11640"/>
-               <ptr type="pmb" target="#12195"/>
-               <ptr type="pmb" target="#3471"/>
-               <ptr type="HB-tv" target="HB-tv_1256_p3"/>
-               <ptr type="HB-tv" target="HB-tv_1387_p93"/>
-               <ptr type="HB-tv" target="HB-tv_4862_p18"/>
-               <ptr type="HB-tv" target="HB-tv_2745_p4"/>
-               <ptr type="HB-tv" target="HB-tv_4873_p10"/>
-               <ptr type="HB-tv" target="HB-tv_2745_p6"/>
-               <ptr type="HB-tv" target="HB-tv_2745_p7"/>
-               <ptr type="HB-tv" target="HB-tv_2745_p8"/>
-               <ptr type="HB-tv" target="HB-tv_4862_p22"/>
-               <ptr type="HB-tv" target="HB-tv_2745_p10"/>
-               <ptr type="HB-tv" target="HB-tv_4862_p37"/>
-               <ptr type="HB-tv" target="HB-tv_2747_p10"/>
-               <ptr type="HB-tv" target="HB-tv_2745_p13"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#5359"/>
+                     <ptr type="pmb" target="#13194"/>
+                     <ptr type="pmb" target="#8841"/>
+                     <ptr type="pmb" target="#13011"/>
+                     <ptr type="pmb" target="#3723"/>
+                     <ptr type="pmb" target="#11640"/>
+                     <ptr type="pmb" target="#12195"/>
+                     <ptr type="pmb" target="#3471"/>
+                     <ptr type="HB-tv" target="HB-tv_1256_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_1387_p93"/>
+                     <ptr type="HB-tv" target="HB-tv_4862_p18"/>
+                     <ptr type="HB-tv" target="HB-tv_2745_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_4873_p10"/>
+                     <ptr type="HB-tv" target="HB-tv_2745_p6"/>
+                     <ptr type="HB-tv" target="HB-tv_2745_p7"/>
+                     <ptr type="HB-tv" target="HB-tv_2745_p8"/>
+                     <ptr type="HB-tv" target="HB-tv_4862_p22"/>
+                     <ptr type="HB-tv" target="HB-tv_2745_p10"/>
+                     <ptr type="HB-tv" target="HB-tv_4862_p37"/>
+                     <ptr type="HB-tv" target="HB-tv_2747_p10"/>
+                     <ptr type="HB-tv" target="HB-tv_2745_p13"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/3-antisemitismus.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

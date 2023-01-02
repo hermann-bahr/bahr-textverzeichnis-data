@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">12. April [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5527"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">12. April [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">110–112</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Hermann Hefele: Das Gesetz der Form. Briefe an Tote. Jena:
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5527"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">12. April [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">110–112</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Hermann Hefele: Das Gesetz der Form. Briefe an Tote. Jena:
                   Diederichs 1919.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">In Stephan Großmanns regsamer Wochenschrift »Das Tagebuch« (Heft
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">In Stephan Großmanns regsamer Wochenschrift »Das Tagebuch« (Heft
                   11 und 12 vom 31. März; Ernst Rohwolt Verlag, Berlin) stimmt Keyserlings in
                   Darmstadt geplanter »Schule für Weisheit«, meiner letzten deutschen Hoffnung, nun
                   auch Thomas Mann herzhaft zu. Vor allem ist es die Prophezeiung des Balten, daß
@@ -115,9 +112,11 @@
                   deutschen Jünglingen wacht, und ihrer sind zehntausende!, mag man getrost die
                   Banditen der offiziellen deutschen Politik ungestört schieben lassen, bis sie der
                   Morgenwind verwehen wird. |</note>
-         <note type="summary">Die Zustimmung Thomas Manns zu Keyserlings »Schule der Weisheit«
+               <note type="summary">Die Zustimmung Thomas Manns zu Keyserlings »Schule der Weisheit«
                   begrüßt Bahr, findet aber, dass mehr die Synthese von Synthese von Seele und Geist
                   betont werden müsse - wie im Barock.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

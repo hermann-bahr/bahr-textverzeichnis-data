@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Erziehung. IV</title>
-            <title when-iso=""/>
+            <title type="iso-date">1912</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,54 +26,58 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4886"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Erziehung. IV</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m" ref="pmb30035">Inventur</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1912">1912</date>
-               <biblScope unit="pages">108–116</biblScope>
-            </imprint>
-         </monogr>
-         <note type="incipit">Beim bloßen Anblick eines Gymnasiums, ja schon bei diesem Wort
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4886"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Erziehung. IV</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m" ref="pmb30035">Inventur</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1912">1912</date>
+                     <biblScope unit="pages">108–116</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Beim bloßen Anblick eines Gymnasiums, ja schon bei diesem Wort
                   muß ich heute noch in Wut geraten, die dann aber freilich immer gleich durch eine
                   ganz andere Erinnerung überzogen, besänftigt, ja verdrängt wird.</note>
-         <note type="summary">Bahr klagt über seine »schrecklichste« Zeit im Gymnasium, trennt
+               <note type="summary">Bahr klagt über seine »schrecklichste« Zeit im Gymnasium, trennt
                   jedoch die Institution von der Person des Lehrers: dieser könne auch in einem
                   bedenklichen Rahmen gut wirken.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#9023"/>
-               <ptr type="pmb" target="#9546"/>
-               <ptr type="pmb" target="#10915"/>
-               <ptr type="pmb" target="#11832"/>
-               <ptr type="pmb" target="#11871"/>
-               <ptr type="pmb" target="#4234"/>
-               <ptr type="pmb" target="#3923"/>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="HB-tv" target="HB-tv_4469_p2"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p2"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p3"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p4"/>
-               <ptr type="HB-tv" target="HB-tv_3335_p6"/>
-               <ptr type="HB-tv" target="HB-tv_3369_p24"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p7"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p8"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p9"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p10"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p11"/>
-               <ptr type="HB-tv" target="HB-tv_4886_p12"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#9023"/>
+                     <ptr type="pmb" target="#9546"/>
+                     <ptr type="pmb" target="#10915"/>
+                     <ptr type="pmb" target="#11832"/>
+                     <ptr type="pmb" target="#11871"/>
+                     <ptr type="pmb" target="#4234"/>
+                     <ptr type="pmb" target="#3923"/>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="HB-tv" target="HB-tv_4469_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_3335_p6"/>
+                     <ptr type="HB-tv" target="HB-tv_3369_p24"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p7"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p8"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p9"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p10"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p11"/>
+                     <ptr type="HB-tv" target="HB-tv_4886_p12"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Ahnengeist</title>
-            <title when-iso=""/>
+            <title type="iso-date">1929</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,46 +26,50 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3503"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Ahnengeist</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Labyrinth der Gegenwart</title>
-            <imprint>
-               <pubPlace>Hildesheim</pubPlace>
-               <publisher>F. Borgmeyer</publisher>
-               <date when="1929">1929</date>
-               <biblScope unit="pages">71–76</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #117, 1–2.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3503"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Ahnengeist</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Labyrinth der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Hildesheim</pubPlace>
+                     <publisher>F. Borgmeyer</publisher>
+                     <date when="1929">1929</date>
+                     <biblScope unit="pages">71–76</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Münchner Neueste Nachrichten, 81 (1928) #117, 1–2.
                   (29.4.1928) Auszug in: Schönere Zukunft, 4 (1929) #6, 122. (4.11.1929)</note>
-         <note type="incipit">Was bin ich? Eine Rinne für mein angestammtes Blut.</note>
-         <note type="summary">Den Versuch der Aufklärung, von der Bedeutung des »Herkommens«
+               <note type="incipit">Was bin ich? Eine Rinne für mein angestammtes Blut.</note>
+               <note type="summary">Den Versuch der Aufklärung, von der Bedeutung des »Herkommens«
                   absehen zu können, hält Bahr für gescheitert, das »Ahnenerbe« (Bahr rezensiert das
                   gleichnamige Buch Mayrhofers) zu bewahren sei heute so wichtig wie jemals.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11461"/>
-               <ptr type="pmb" target="#12053"/>
-               <ptr type="pmb" target="#12819"/>
-               <ptr type="pmb" target="#21215"/>
-               <ptr type="pmb" target="#10943"/>
-               <ptr type="pmb" target="#12280"/>
-               <ptr type="HB-tv" target="HB-tv_3503_p1"/>
-               <ptr type="HB-tv" target="HB-tv_3516_p3"/>
-               <ptr type="HB-tv" target="HB-tv_6637_p2"/>
-               <ptr type="HB-tv" target="HB-tv_6637_p4"/>
-               <ptr type="HB-tv" target="HB-tv_3503_p5"/>
-               <ptr type="HB-tv" target="HB-tv_3503_p6"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="#12053"/>
+                     <ptr type="pmb" target="#12819"/>
+                     <ptr type="pmb" target="#21215"/>
+                     <ptr type="pmb" target="#10943"/>
+                     <ptr type="pmb" target="#12280"/>
+                     <ptr type="HB-tv" target="HB-tv_3503_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_3516_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_6637_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_6637_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_3503_p5"/>
+                     <ptr type="HB-tv" target="HB-tv_3503_p6"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/21-labyrinth.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

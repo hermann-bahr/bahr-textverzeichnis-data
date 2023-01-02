@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 30. Juli</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-08-22</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6048"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 30. Juli</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9625</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1920-08-22">22.8.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 193–194</note>
-         <note type="incipit">Der Theaterdirektor einer Stadt im mittleren Deutschland klagt
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6048"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 30. Juli</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9625</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1920-08-22">22.8.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 193–194</note>
+               <note type="incipit">Der Theaterdirektor einer Stadt im mittleren Deutschland klagt
                   mir seine Situation, die typisch ist. Er hat ein gut bürgerliches Publikum: brave
                   Leute, die tagsüber redlich schanzen, aber abends dafür sich unterhalten und
                   womöglich lachen wollen; gelegentlich läßt man sich, da man weiß, daß dies zur
@@ -83,11 +80,13 @@
                   daß ihnen dann auch die Begeisterung der Hyänen am nächsten Tag schon nichts mehr
                   hilft! Jetzt sagen Sie mir nur, klagte mein Direktor, was man da anfangen soll?
                   Ich schlug ihm vor: selber Hyäne zu werden. |</note>
-         <note type="summary">Über das Leid des Theaterdirektors, dass Stücke, die dem
+               <note type="summary">Über das Leid des Theaterdirektors, dass Stücke, die dem
                   Publikum gefallen, in der Zeitung verrissen werden und so kein Publikum bekommen,
                   umgekehrt aber Kritikerbeifall bedeutet, dass dem Publikum das Stück
                   missfällt.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

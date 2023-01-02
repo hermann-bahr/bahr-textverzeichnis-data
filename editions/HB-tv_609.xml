@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Isadora Duncan</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902-02-15</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_609" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Isadora Duncan</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">36</biblScope>
-               <biblScope unit="issue">45</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1902-02-15">15.2.1902</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Rezensionen, 218-224 H. B.: Kritiken. Hg. Kindermann. Wien:
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_609" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Isadora Duncan</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">36</biblScope>
+                     <biblScope unit="issue">45</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1902-02-15">15.2.1902</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Rezensionen, 218-224 H. B.: Kritiken. Hg. Kindermann. Wien:
                   Bauer 1963, 388-391</note>
-         <note type="incipit">Diesen Namen, der wie eine Ballade klingt, wird man sich merken
+               <note type="incipit">Diesen Namen, der wie eine Ballade klingt, wird man sich merken
                   müssen:</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

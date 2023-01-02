@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">[Richard Strauß]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4318" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">[Richard Strauß]</title>
-         </analytic>
-         <monogr>
-            <title level="j">Blätter des Operntheaters</title>
-            <imprint>
-               <biblScope unit="jg">1</biblScope>
-               <biblScope unit="issue">1</biblScope>
-               <biblScope unit="pages">3</biblScope>
-               <date when="1919">1919</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Sonderheft: Die Frau ohne Schatten. Erwähnt in der Wiener Abendpost, 10.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4318" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">[Richard Strauß]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Blätter des Operntheaters</title>
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <biblScope unit="pages">3</biblScope>
+                     <date when="1919">1919</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Sonderheft: Die Frau ohne Schatten. Erwähnt in der Wiener Abendpost, 10.
                      Oktober 1919, 3.</p>
-         </note>
-         <note type="incipit">Richard Strauß begann als Wunderkind, wurde dann ein Exzedent,
+               </note>
+               <note type="incipit">Richard Strauß begann als Wunderkind, wurde dann ein Exzedent,
                   aus diesem zum Weltmeister und ist heute für die Jugend ein Kitschist. Zu Grunde
                   liegt dem allen ein richtiger bayrischer Musikant, von der alten barocken Art.
                   Dieser kommt immer vom Handwerk her und geht zunächst immer wieder aufs Handwerk
@@ -61,11 +58,13 @@
                   Schatten« höre, läßt mich vermuten, daß sie der Versuch Straußens ist, sich eine
                   Weltanschauung gewissermaßen anzumusizieren. Salzburg, 28. September 1919 Hermann
                   Bahr |</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12870"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12870"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

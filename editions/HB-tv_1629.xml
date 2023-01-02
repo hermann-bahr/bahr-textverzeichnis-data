@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Nationalismus</title>
-            <title when-iso=""/>
+            <title type="iso-date">1917</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1629" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Nationalismus</title>
-         </analytic>
-         <monogr>
-            <title level="j">Hochland</title>
-            <imprint>
-               <biblScope unit="jg">14</biblScope>
-               <biblScope unit="issue">9 (Juni)</biblScope>
-               <biblScope unit="pages">257–269</biblScope>
-               <date when="1917">1917</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Auszug als »Deutsches Sittengesetz oder Ordnung Gottes« in:
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1629" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Nationalismus</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Hochland</title>
+                  <imprint>
+                     <biblScope unit="jg">14</biblScope>
+                     <biblScope unit="issue">9 (Juni)</biblScope>
+                     <biblScope unit="pages">257–269</biblScope>
+                     <date when="1917">1917</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Auszug als »Deutsches Sittengesetz oder Ordnung Gottes« in:
                   Johann Plenge: Zur Vertiefung des Sozialismus. Leipzig: Der Neue Geist 1919,
                   76-83.</note>
-         <note type="incipit">Johannes Plenge war der erste, der, schon im Herbste 1915, den
+               <note type="incipit">Johannes Plenge war der erste, der, schon im Herbste 1915, den
                   Sinn des Krieges in der Überwindung der Ideen von 1789 durch die Ideen von
                   1914</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1917-14_nationalismus.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/hochland/1917-14_nationalismus.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

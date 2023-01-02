@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 23. September</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-10-10</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6072"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 23. September</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9674</biblScope>
-               <biblScope unit="pages">4–5</biblScope>
-               <date when="1920-10-10">10.10.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Karl Sternheim: Berlin oder juste milieu. München: Kurt Wolff
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6072"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 23. September</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9674</biblScope>
+                     <biblScope unit="pages">4–5</biblScope>
+                     <date when="1920-10-10">10.10.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Karl Sternheim: Berlin oder juste milieu. München: Kurt Wolff
                   1920. [O. N.:] Die Isolierung Japans. Eine Darstellung der politischen Lage Japans
                   nach dem Kriege. Charlottenburg: Deutsche Verlagsgesellschaft für Politik und
                   Geschichte 1920.</note>
-         <note type="other-prints">Kritik der Gegenwart, 226-230</note>
-         <note type="incipit">Der Glanz dieser herrlich manikürten Sätze Karl Sternheims, des
+               <note type="other-prints">Kritik der Gegenwart, 226-230</note>
+               <note type="incipit">Der Glanz dieser herrlich manikürten Sätze Karl Sternheims, des
                   elegantesten Stilturners unserer Zeit, macht mir so viel Freude, der selbstgewisse
                   Stolz, mit dem er, niemals sich zum Publikum herablassend, jahrelang ruhig
                   gewartet hat, bis es ihm nachlaufen wird, und nun, seit es ihm nachläuft,
@@ -180,10 +177,12 @@
                   Selbstbeherrschung und Selbstverleugnung! Welches Japan ist nun das echte?
                   Vielleicht ist in allen Völkern das Echte gerade das, was in dieser Zeit ein jedes
                   mit Leidenschaft geheimhält. |</note>
-         <note type="summary">Gegen die Schelte Berlins: Einerseits ist Berlin besser als sein
+               <note type="summary">Gegen die Schelte Berlins: Einerseits ist Berlin besser als sein
                   Ruf, andererseits gibt es ein zweites, ein geistiges Berlin. Ähnliches gilt für
                   Japan, da gibt es auch unterschiedliche.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

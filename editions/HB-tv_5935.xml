@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Schreiben der beiden nach dem Wagner-Kommers relegierten
                      Burschenschafter</title>
-            <title when-iso=""/>
+            <title type="iso-date">1883</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,24 +27,26 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5935"
-            type="Journal-Article"
-            subtype="Brief_Nicht_nachgewiesen"
-            status="notLocated">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Schreiben der beiden nach dem Wagner-Kommers relegierten
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5935"
+                        type="Journal-Article"
+                        subtype="Brief_Nicht_nachgewiesen"
+                        status="notLocated">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Schreiben der beiden nach dem Wagner-Kommers relegierten
                      Burschenschafter</title>
-         </analytic>
-         <monogr>
-            <title level="j">Schlesisches Morgenblatt</title>
-            <imprint>
-               <biblScope unit="jg">4</biblScope>
-               <date when="1883">1883</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>»Am 10. und 11. Juni [1883] beging nun der Verein Deutscher Studenten zu
+               </analytic>
+               <monogr>
+                  <title level="j">Schlesisches Morgenblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">4</biblScope>
+                     <date when="1883">1883</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>»Am 10. und 11. Juni [1883] beging nun der Verein Deutscher Studenten zu
                      Breslau in gewohnter glanzvoller Weise sein drittes Stiftungsfest. […] Nach dem
                      Kommers brachte das ’Schlesische Morgenblatt’ […] in einer Sonderbeilage eine
                      eingehende Schilderung dieses Stiftungsfestes […] dann die Schreiben der beiden
@@ -58,9 +55,11 @@
                      akademischer Kämpfe. 2. verm. Aufl. Leipzig: Breitkopf und Härtel 1895, 151.
                      Keine Bibliothek mit Bestand der Sonderbeilage im fraglichen Zeitraum konnte
                      nachgewiesen werden. Der Kyffhäuser druckt nach.</p>
-         </note>
-         <note type="first-printing">Kyffhäuser–Zeitung, 2.4 (1883) #Außerordentliche Beilage,
+               </note>
+               <note type="first-printing">Kyffhäuser–Zeitung, 2.4 (1883) #Außerordentliche Beilage,
                   [4]. (Juli?)</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

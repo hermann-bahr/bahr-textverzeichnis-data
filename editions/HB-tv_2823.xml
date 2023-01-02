@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Lyrisches</title>
-            <title when-iso=""/>
+            <title type="iso-date">1897</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,44 +26,48 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2823"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Lyrisches</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1897">1897</date>
-               <biblScope unit="pages">53–66</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Die Zeit, 7 (1896) #85, 107–108. (16.5.1896)</note>
-         <note type="incipit">Neulich haben hier zwei junge Leute eine Vorlesung gehalten.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2823"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Lyrisches</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Renaissance. Neue Studien zur Kritik der Moderne</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1897">1897</date>
+                     <biblScope unit="pages">53–66</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Die Zeit, 7 (1896) #85, 107–108. (16.5.1896)</note>
+               <note type="incipit">Neulich haben hier zwei junge Leute eine Vorlesung gehalten.
                   Herr Christomanos begann, ein Grieche...</note>
-         <note type="summary">Anlässlich von Vorlesungen von Christomanos und Morisse
+               <note type="summary">Anlässlich von Vorlesungen von Christomanos und Morisse
                   charakterisiert Bahr diese beiden Dichter; während er Christomanos große Wirkung
                   auf die Hörer zuschreibt, schildert er Morisse als Beispiel einer französischen
                   Literatur, die am absteigenden Ast ist und bloß noch Variationen der Vorbilder
                   Baudelaire oder Hugo produziert.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#14971"/>
-               <ptr type="pmb" target="#4464"/>
-               <ptr type="pmb" target="#4950"/>
-               <ptr type="pmb" target="#13011"/>
-               <ptr type="pmb" target="#5359"/>
-               <ptr type="pmb" target="#12428"/>
-               <ptr type="HB-tv" target="HB-tv_2823_p1"/>
-               <ptr type="HB-tv" target="HB-tv_2823_p2"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#14971"/>
+                     <ptr type="pmb" target="#4464"/>
+                     <ptr type="pmb" target="#4950"/>
+                     <ptr type="pmb" target="#13011"/>
+                     <ptr type="pmb" target="#5359"/>
+                     <ptr type="pmb" target="#12428"/>
+                     <ptr type="HB-tv" target="HB-tv_2823_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_2823_p2"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/5-renaissance.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

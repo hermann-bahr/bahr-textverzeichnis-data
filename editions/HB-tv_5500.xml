@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">3. Januar [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5500"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">3. Januar [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">32–33</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Horst Schöttler: Weltgeschichte in einer Stunde.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5500"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">3. Januar [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">32–33</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Horst Schöttler: Weltgeschichte in einer Stunde.
                   Leipzig-Gaschwitz: Dürr &amp; Weber 1920. Klabund: Deutsche Literaturgeschichte in
                   einer Stunde. Leipzig-Gaschwitz: Dürr &amp; Weber 1920. Raoul Heinrich Francé: Der
                   Weg zur Kultur. Leipzig-Gaschwitz: Dürr &amp; Weber 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Die »Zellenbücherei« des Verlags Dürr und Weber (Leipzig-
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Die »Zellenbücherei« des Verlags Dürr und Weber (Leipzig-
                   Gaschwitz) bringt eine »Weltgeschichte in einer Stunde« von Horst Schöttler, eine
                   »Deutsche Literaturgeschichte in einer Stunde« von Klabund, und ein Bändchen von
                   R. H. Francé »Der Weg zur Kultur«, das auch ganz gut »Kulturgeschichte in einer
@@ -76,9 +73,11 @@
                   fruchtbaren Einfall, das »Gesetz der Kultur« an der Geschichte von – Dinkelsbühl
                   darzutun: die Chronik der kleinen alten Stadt wird unter seiner Hand unversehens
                   zur Biographie des deutschen Bürgertums. |</note>
-         <note type="summary">Die »Schnellsiedekurse« in Bildung hält Bahr für einen
+               <note type="summary">Die »Schnellsiedekurse« in Bildung hält Bahr für einen
                   glücklichen Einfall, Klabund interessiert ihn am meisten, Francé findet er dem
                   Thema am gerechtesten.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Geschmack</title>
-            <title when-iso=""/>
+            <title type="iso-date">1914</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,48 +26,52 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6654" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Geschmack</title>
-         </analytic>
-         <monogr>
-            <title level="j">Das Bild. Monatsschrift für photographische Bildkunst</title>
-            <imprint>
-               <biblScope unit="jg">10</biblScope>
-               <biblScope unit="issue">1 (April)</biblScope>
-               <biblScope unit="pages">7–9</biblScope>
-               <date when="1914">1914</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Berliner Tageblatt, 42 (1913) #631, 1.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6654" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Geschmack</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Das Bild. Monatsschrift für photographische Bildkunst</title>
+                  <imprint>
+                     <biblScope unit="jg">10</biblScope>
+                     <biblScope unit="issue">1 (April)</biblScope>
+                     <biblScope unit="pages">7–9</biblScope>
+                     <date when="1914">1914</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Berliner Tageblatt, 42 (1913) #631, 1.
                   (12.12.1913)</note>
-         <note type="other-prints">Expressionismus, 21-28. H. B.: Essays. Hg. Kindermann.
+               <note type="other-prints">Expressionismus, 21-28. H. B.: Essays. Hg. Kindermann.
                   Wien: Bauer 1962, 190–192</note>
-         <note type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
+               <note type="incipit">Selig sind, die Geschmack haben, auch wenn es ein schlechter
                   Geschmack ist, sagt Nietzsche.</note>
-         <note type="summary">Anstatt das Kunstwerk auf sich wirken zu lassen, neigte man
+               <note type="summary">Anstatt das Kunstwerk auf sich wirken zu lassen, neigte man
                   früher (durch die Erziehung verbildet), sich an Vorgegebenes zu halten, wenn es um
                   Geschmack ging, derzeit gäbe es aber eine Tendenz, alles Neue für gut zu
                   halten.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#12358"/>
-               <ptr type="pmb" target="#13024"/>
-               <ptr type="pmb" target="#11024"/>
-               <ptr type="pmb" target="#13152"/>
-               <ptr type="pmb" target="#12163"/>
-               <ptr type="pmb" target="#12484"/>
-               <ptr type="pmb" target="#12870"/>
-               <ptr type="pmb" target="#2404"/>
-               <ptr type="pmb" target="#11798"/>
-               <ptr type="pmb" target="#11617"/>
-               <ptr type="pmb" target="#11148"/>
-               <ptr type="pmb" target="#28664"/>
-               <ptr type="HB-tv" target="HB-tv_6654_p1"/>
-               <ptr type="HB-tv" target="HB-tv_3543_p12"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#12358"/>
+                     <ptr type="pmb" target="#13024"/>
+                     <ptr type="pmb" target="#11024"/>
+                     <ptr type="pmb" target="#13152"/>
+                     <ptr type="pmb" target="#12163"/>
+                     <ptr type="pmb" target="#12484"/>
+                     <ptr type="pmb" target="#12870"/>
+                     <ptr type="pmb" target="#2404"/>
+                     <ptr type="pmb" target="#11798"/>
+                     <ptr type="pmb" target="#11617"/>
+                     <ptr type="pmb" target="#11148"/>
+                     <ptr type="pmb" target="#28664"/>
+                     <ptr type="HB-tv" target="HB-tv_6654_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_3543_p12"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

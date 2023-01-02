@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">An einen entfremdeten Freund</title>
-            <title when-iso=""/>
+            <title type="iso-date">1914-12-05</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2467" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">An einen entfremdeten Freund</title>
-         </analytic>
-         <monogr>
-            <title level="j">Tägliche Rundschau</title>
-            <imprint>
-               <biblScope unit="jg">34</biblScope>
-               <biblScope unit="issue">285, Unterhaltungsbeilage</biblScope>
-               <biblScope unit="pages">1137</biblScope>
-               <date when="1914-12-05">5.12.1914</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Salzburg, Allerheiligen</p>
-         </note>
-         <note type="other-prints">Kriegssegen, 34-43. Auszug in: Hermann Kellermann, Hg.: Der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2467" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">An einen entfremdeten Freund</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Tägliche Rundschau</title>
+                  <imprint>
+                     <biblScope unit="jg">34</biblScope>
+                     <biblScope unit="issue">285, Unterhaltungsbeilage</biblScope>
+                     <biblScope unit="pages">1137</biblScope>
+                     <date when="1914-12-05">5.12.1914</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Salzburg, Allerheiligen</p>
+               </note>
+               <note type="other-prints">Kriegssegen, 34-43. Auszug in: Hermann Kellermann, Hg.: Der
                   Krieg der Geister. Weimar: Vereinigung Heimat und Welt 1915, 463-465.</note>
-         <note type="incipit">Einer meiner Freunde, Deutscher von Geburt, Erziehung und Gemüt,
+               <note type="incipit">Einer meiner Freunde, Deutscher von Geburt, Erziehung und Gemüt,
                   doch seit Jahren in der Fremde, des deutschen Lebens</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/taegliche-rundschau/1914_entfremdet.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/taegliche-rundschau/1914_entfremdet.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

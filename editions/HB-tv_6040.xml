@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 7. Juli</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-08-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6040"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 7. Juli</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9604</biblScope>
-               <biblScope unit="pages">5</biblScope>
-               <date when="1920-08-01">1.8.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 177–178</note>
-         <note type="incipit">Eine Wette verloren. Denn ich hielt das für einen dummen Spaß,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6040"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 7. Juli</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9604</biblScope>
+                     <biblScope unit="pages">5</biblScope>
+                     <date when="1920-08-01">1.8.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 177–178</note>
+               <note type="incipit">Eine Wette verloren. Denn ich hielt das für einen dummen Spaß,
                   aber jetzt hab ich’s schwarz auf weiß vor Augen: »Verordnung der Gemeinde,
                   betreffend Vermietung der Wohnungen in der heurigen Saison«, datiert vom 25. Mai
                   1920, in sieben Paragraphen; und gleich der erste sagt: »Die Vermietung darf nur
@@ -75,11 +72,13 @@
                   verbringen! Mit wem soll man dann reden, wenn man nicht streiten kann? Ich muß
                   sagen, daß ich mich halt in gemischter Gesellschaft immer noch am wohlsten fühle.
                   |</note>
-         <note type="summary">Eine Urlaubsgemeinde vermietet nur an nichtjüdische Antisemiten:
+               <note type="summary">Eine Urlaubsgemeinde vermietet nur an nichtjüdische Antisemiten:
                   Bahr bedauert, nicht hinfahren zu können: Aber er ist kein Antisemit, überhaupt
                   ist er nie »anti« und fühlt sich in einer gemischen Gesellschaft am
                   wohlsten.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

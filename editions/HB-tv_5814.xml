@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">7. November [1922]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1925</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,31 +26,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5814"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">7. November [1922]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
-            <imprint>
-               <pubPlace>Hildesheim</pubPlace>
-               <publisher>Borgmeyer</publisher>
-               <date when="1925">1925</date>
-               <biblScope unit="pages">II, 245–251</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Thomas Mann: Von deutscher Republik. In: Neue Rundschau, 33
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5814"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">7. November [1922]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Liebe der Lebenden. Tagebücher 1921/23</title>
+                  <imprint>
+                     <pubPlace>Hildesheim</pubPlace>
+                     <publisher>Borgmeyer</publisher>
+                     <date when="1925">1925</date>
+                     <biblScope unit="pages">II, 245–251</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Thomas Mann: Von deutscher Republik. In: Neue Rundschau, 33
                   (1922) #11, 1072–1106 und 1097. Eugen Kühnemann: Aus dem Leben des deutschen
                   Geistes in der Gegenwart. München: C. H. Beck 1922.</note>
-         <note type="first-printing">Neues Wiener Journal, 1922</note>
-         <note type="incipit">Als im Krieg die deutschen Nerven versagten, warf sich dem
+               <note type="first-printing">Neues Wiener Journal, 1922</note>
+               <note type="incipit">Als im Krieg die deutschen Nerven versagten, warf sich dem
                   Pazifismus, wie das genannt wurde, Thomas Mann entgegen.</note>
-         <note type="summary">Bahr rezensiert zustimmend Thomas Manns »Von deutscher
+               <note type="summary">Bahr rezensiert zustimmend Thomas Manns »Von deutscher
                   Republik«.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

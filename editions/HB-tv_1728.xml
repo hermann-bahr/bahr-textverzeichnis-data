@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Beethovens Begräbnis</title>
-            <title when-iso=""/>
+            <title type="iso-date">1906</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,31 +26,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1728"
-            type="Journal-Article"
-            subtype="Nachdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Beethovens Begräbnis</title>
-         </analytic>
-         <monogr>
-            <title level="j">Die Rheinlande. Vierteljahrsschrift des Verbandes der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1728"
+                        type="Journal-Article"
+                        subtype="Nachdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Beethovens Begräbnis</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Die Rheinlande. Vierteljahrsschrift des Verbandes der
                      Kunstfreunde in den Ländern am Rhein</title>
-            <imprint>
-               <biblScope unit="jg">7</biblScope>
-               <biblScope unit="issue">11</biblScope>
-               <biblScope unit="pages">157–158</biblScope>
-               <date when="1906">1906</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Nachdruck aus »Wien«, eine Besprechung der ganzen Reihe »Städte und
+                  <imprint>
+                     <biblScope unit="jg">7</biblScope>
+                     <biblScope unit="issue">11</biblScope>
+                     <biblScope unit="pages">157–158</biblScope>
+                     <date when="1906">1906</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Nachdruck aus »Wien«, eine Besprechung der ganzen Reihe »Städte und
                      Landschaften« durch Wilhelm Schäfer folgt am Ende des Hefts, S. 160.</p>
-         </note>
-         <note type="other-prints">Wien</note>
-         <note type="incipit">Am 7. Mai 1824 wurde die neunte Symphonie zum erstenmal
+               </note>
+               <note type="other-prints">Wien</note>
+               <note type="incipit">Am 7. Mai 1824 wurde die neunte Symphonie zum erstenmal
                   gespielt.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

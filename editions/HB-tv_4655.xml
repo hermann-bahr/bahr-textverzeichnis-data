@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
-            <title when-iso=""/>
+            <title type="iso-date">1901-02-27</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4655"
-            type="Journal-Article"
-            subtype="Nachtkritik"
-            status="checked">
-         <analytic>
-            <author ref="#10815">H. B.</author>
-            <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">35</biblScope>
-               <biblScope unit="issue">57</biblScope>
-               <biblScope unit="pages">9</biblScope>
-               <date when="1901-02-27">27.2.1901</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Kraus schreibt Anfang März in der Fackel: »Im Carltheater debutiert eine
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4655"
+                        type="Journal-Article"
+                        subtype="Nachtkritik"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">H. B.</author>
+                  <title level="a">Theater, Kunst und Literatur. Carl-Theater</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">35</biblScope>
+                     <biblScope unit="issue">57</biblScope>
+                     <biblScope unit="pages">9</biblScope>
+                     <date when="1901-02-27">27.2.1901</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Kraus schreibt Anfang März in der Fackel: »Im Carltheater debutiert eine
                      mittelmäßige Soubrette, und der Jubel der Presseleute erreicht einen selbst in
                      den Tagen der Kopaczi unerhörten Grad. Bruder Schnüfferl flegelt ihr zuliebe
                      die ungleich begabtere Vorgängerin an, nennt sie eine ’wirkliche Künstlerin’,
@@ -66,17 +63,19 @@
                      beide applaudieren. Und so begehe ich ’Eingriffe ins Privatleben’, wenn das
                      Privatleben in die Sphäre öffentlicher Kunstinteressen eingreift.« (Die Fackel,
                      2 (1901) #70, 2-3.)</p>
-         </note>
-         <note type="review-of">»The Geisha (Die Geisha)« von Sidney Jones</note>
-         <note type="incipit">Als Mimosa hat gestern ein Gast, Frau Mizzi Günther</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#21142"/>
-               <ptr type="pmb" target="#8041"/>
-               <ptr type="HB-tv" target="HB-tv_4655_p1"/>
-            </listRef>
-         </ref>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               </note>
+               <note type="review-of">»The Geisha (Die Geisha)« von Sidney Jones</note>
+               <note type="incipit">Als Mimosa hat gestern ein Gast, Frau Mizzi Günther</note>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#21142"/>
+                     <ptr type="pmb" target="#8041"/>
+                     <ptr type="HB-tv" target="HB-tv_4655_p1"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

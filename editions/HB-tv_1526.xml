@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Liebe der Lebenden</title>
-            <title when-iso=""/>
+            <title type="iso-date">1925</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,23 +26,25 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1526"
-            type="Book"
-            subtype="Tagebücher"
-            sameAs="pmb32684"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb32684">Liebe der Lebenden</title>
-            <imprint>
-               <pubPlace>Hildesheim</pubPlace>
-               <publisher>F. Borgmeyer</publisher>
-               <date when="1925">1925</date>
-            </imprint>
-            <extent>I: 408, II: 317, III: 344 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Tagebücher vom 15. Dezember 1920 bis 23. Dezember 1923. Erscheinungsjahr eigtl.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1526"
+                        type="Book"
+                        subtype="Tagebücher"
+                        sameAs="pmb32684"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb32684">Liebe der Lebenden</title>
+                  <imprint>
+                     <pubPlace>Hildesheim</pubPlace>
+                     <publisher>F. Borgmeyer</publisher>
+                     <date when="1925">1925</date>
+                  </imprint>
+                  <extent>I: 408, II: 317, III: 344 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Tagebücher vom 15. Dezember 1920 bis 23. Dezember 1923. Erscheinungsjahr eigtl.
                      [1925]. Redlich erhält sein Exemplar direkt vom Verlag vor dem 25. November
                      1925 (Bahr/Redlich, 541). Auf der Titelseite einer vierseitigen
                      Verlagsankündigung des Borgmeyer-Verlags mit »Anfang November gelangt zur
@@ -60,7 +57,7 @@
                      gleiche keinem und allen.’ Hölderlin«. Als Kaufmotivation ergänzt wird: »Mit
                      ausführlichem Register das begehrte Handbuch des Literaten - Journalisten -
                      Politikers«.</p>
-            <p>Rezensionen: Die erste im Archiv erhaltene erschien am 14. November 1925.
+                  <p>Rezensionen: Die erste im Archiv erhaltene erschien am 14. November 1925.
                      Werner von der Schulenburg: Bahr, Erasmus, Hutter. In: Münchner Neueste
                      Nachrichten, 78 (1925) #351, 3. (20.12.125) Dr. v. L. im Börsenblatt des
                      deutschen Buchhandels, 93 (1926) #43, 233. (20.2.1926) Gerhard Re[hbach?] in:
@@ -69,8 +66,10 @@
                      Anderle in: Das Neue Reich, 8 (1925-26), 650. Eduard Schröder: Hermann Bahr,
                      Liebe der Lebenden. Tagebücher 1921/23, 3 Bände, Hildesheim 1925. In:
                      Literarischer Handweiser, 62 (1926) #8 (Mai), Sp. 602</p>
-         </note>
-         <ref type="URL">http://catalog.hathitrust.org/api/volumes/oclc/9335826.html</ref>
+               </note>
+               <ref type="URL">http://catalog.hathitrust.org/api/volumes/oclc/9335826.html</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

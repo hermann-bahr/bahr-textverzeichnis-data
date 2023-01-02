@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">26. Juni [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5547"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">26. Juni [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">168–169</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Wilhelm Reinhold Valentiner: Amerikanische Privatsammlungen.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5547"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">26. Juni [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">168–169</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Wilhelm Reinhold Valentiner: Amerikanische Privatsammlungen.
                   In: Kunst und Künstler, 18 (1920) #8, 347-372.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Im letzten Heft von »Kunst und Künstler« ein sehr merkwürdiger
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Im letzten Heft von »Kunst und Künstler« ein sehr merkwürdiger
                   Aufsatz R. Valentiners über »Amerikanische Privatsammlungen«. Danach sind diese
                   dummen reichen Amerikaner offenbar viel klüger, als wir denken. Sie haben nämlich
                   vor unseren »neuen Reichen« voraus, zu wissen, daß sie nichts wissen. Darum
@@ -88,8 +85,10 @@
                   Tages freilich, aber den säkularen), der Händler ist im Grund doch künstlerisch
                   zuverlässiger als der Gelehrte, besonders seit die besseren Gelehrten längst
                   selber Händler geworden. |</note>
-         <note type="summary">Die Amerikaner haben bessere Kunstsammlungen zusammengetragen
+               <note type="summary">Die Amerikaner haben bessere Kunstsammlungen zusammengetragen
                   als die Deutschen.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

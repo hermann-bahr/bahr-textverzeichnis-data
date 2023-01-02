@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Das zweite Glied des kritischen Bandwurms</title>
-            <title when-iso=""/>
+            <title type="iso-date">1881-09-30</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4463" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Hermann von Kürenberg</author>
-            <title level="a">Das zweite Glied des kritischen Bandwurms</title>
-         </analytic>
-         <monogr>
-            <title level="j">Salzburger Nachrichten</title>
-            <imprint>
-               <biblScope unit="jg">1</biblScope>
-               <biblScope unit="issue">117</biblScope>
-               <biblScope unit="pages">2–3</biblScope>
-               <date when="1881-09-30">30.9.1881</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Wittmanns Angriff auf Bahr findet sich in: Neue Freie Presse, #6134,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4463" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Hermann von Kürenberg</author>
+                  <title level="a">Das zweite Glied des kritischen Bandwurms</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Salzburger Nachrichten</title>
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">117</biblScope>
+                     <biblScope unit="pages">2–3</biblScope>
+                     <date when="1881-09-30">30.9.1881</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Wittmanns Angriff auf Bahr findet sich in: Neue Freie Presse, #6134,
                      Morgenblatt, 1-2. (25.9.1881) Darin fällt auch der Satz: »es gibt aber
                      bekanntlich übermäßig weise Leute - ’Gscheitle’ nennt sie der Schwabe, die den
                      ärgsten Unsinn wohlwollend beschnüffeln und jedes Narrenhaus für einen Tempel
@@ -57,25 +54,27 @@
                      Liebe der Lebenden, I, 32-33). Die Eröffnung Bahrs nimmt Bezug auf den Angriff
                      Wittmanns, die »Stilprobe« Bahrs beweise, dass ihr Verfasser noch länger
                      unbekannt bleiben werde.</p>
-         </note>
-         <note type="review-of">»Nora« von Henrik Ibsen</note>
-         <note type="incipit">Dem Schätzer der Kritik, Herrn Hugo Wittmann, widmet auch diese
+               </note>
+               <note type="review-of">»Nora« von Henrik Ibsen</note>
+               <note type="incipit">Dem Schätzer der Kritik, Herrn Hugo Wittmann, widmet auch diese
                   »Stylprobe«</note>
-         <note type="summary">Bahr reagiert auf Wittmanns direkten Angriff auf seine »Kritik
+               <note type="summary">Bahr reagiert auf Wittmanns direkten Angriff auf seine »Kritik
                   der Kritik«, indem er diesem vorwirft, zu argumentieren, ohne eigentliche
                   Begründungen zu liefern.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#2739"/>
-               <ptr type="pmb" target="#11798"/>
-               <ptr type="pmb" target="#2412"/>
-               <ptr type="pmb" target="#11518"/>
-               <ptr type="pmb" target="#3723"/>
-               <ptr type="HB-tv" target="HB-tv_4463_p1"/>
-               <ptr type="HB-tv" target="HB-tv_4463_p2"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_bandwurm.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#2739"/>
+                     <ptr type="pmb" target="#11798"/>
+                     <ptr type="pmb" target="#2412"/>
+                     <ptr type="pmb" target="#11518"/>
+                     <ptr type="pmb" target="#3723"/>
+                     <ptr type="HB-tv" target="HB-tv_4463_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_4463_p2"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_bandwurm.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

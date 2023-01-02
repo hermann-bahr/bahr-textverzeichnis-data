@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 4. März</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-03-28</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6006"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 4. März</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9481</biblScope>
-               <biblScope unit="pages">4–5</biblScope>
-               <date when="1920-03-28">28.3.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 74-79</note>
-         <note type="incipit">In meiner Arbeit über Pascal, der mir immer mehr zum Stammvater
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6006"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 4. März</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9481</biblScope>
+                     <biblScope unit="pages">4–5</biblScope>
+                     <date when="1920-03-28">28.3.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 74-79</note>
+               <note type="incipit">In meiner Arbeit über Pascal, der mir immer mehr zum Stammvater
                   des Bolschewismus wird, geriet ich an sein Gespräch mit Herrn de Sacy, dem er
                   Epiktet und Montaigne gewissermaßen als die beiden Pole des nur die menschliche
                   Vernunft allein gebrauchenden Denkens darstellt, und fand da zu meiner
@@ -187,9 +184,11 @@
                   bleibt, als daß jeder seine Rolle, der eine die des Auserwählten, der andere die
                   des Verdammten so gut als möglich spielt, wodurch dann aus dem großen Welttheater
                   eine recht erbärmliche Komödie wird, eine Komödie von Automaten. |</note>
-         <note type="summary">Bahr versuchte einmal, Calderòn umzudichten, scheiterte aber an
+               <note type="summary">Bahr versuchte einmal, Calderòn umzudichten, scheiterte aber an
                   der Aufgabe. Das barocke Verhältnis von Bühne zur Welt reizte ihn.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

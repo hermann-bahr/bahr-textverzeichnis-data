@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Klingers Beethoven. Vierzehnte Kunstausstellung der Vereinigung
                      bildender Künstler Österreichs, Sezession</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902-04-16</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,35 +27,39 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_754" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Klingers Beethoven. Vierzehnte Kunstausstellung der Vereinigung
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_754" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Klingers Beethoven. Vierzehnte Kunstausstellung der Vereinigung
                      bildender Künstler Österreichs, Sezession</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">48</biblScope>
-               <biblScope unit="issue">104</biblScope>
-               <biblScope unit="pages">1</biblScope>
-               <date when="1902-04-16">16.4.1902</date>
-            </imprint>
-         </monogr>
-         <note type="incipit">Als die Jünglinge der Sezession erfuhren, Klingers</note>
-         <note type="summary">Bahr sieht die Verbindung von Klimt und Max Klinger, der in
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">48</biblScope>
+                     <biblScope unit="issue">104</biblScope>
+                     <biblScope unit="pages">1</biblScope>
+                     <date when="1902-04-16">16.4.1902</date>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Als die Jünglinge der Sezession erfuhren, Klingers</note>
+               <note type="summary">Bahr sieht die Verbindung von Klimt und Max Klinger, der in
                   Beethoven das »Göttliche« dar, das irdische Form angenommen hat und die Kraft, die
                   zur Bewahrung der Form vonnöten ist.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#10866"/>
-               <ptr type="pmb" target="#11944"/>
-               <ptr type="pmb" target="#13024"/>
-               <ptr type="pmb" target="#2142"/>
-               <ptr type="pmb" target="#11941"/>
-               <ptr type="pmb" target="#11461"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#10866"/>
+                     <ptr type="pmb" target="#11944"/>
+                     <ptr type="pmb" target="#13024"/>
+                     <ptr type="pmb" target="#2142"/>
+                     <ptr type="pmb" target="#11941"/>
+                     <ptr type="pmb" target="#11461"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

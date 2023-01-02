@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Mensch, werde wesentlich. Gedanken aus seinen Werken. Auswahl von
                      Anna Bahr-Mildenburg. Anordnung von Paul Graf Thun-Hohenstein. Mit einem
                      Vorwort von Dr. Josef Nadler</title>
-            <title when-iso=""/>
+            <title type="iso-date">1934</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,25 +28,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1392" type="Book" status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Mensch, werde wesentlich. Gedanken aus seinen Werken. Auswahl von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1392" type="Book" status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Mensch, werde wesentlich. Gedanken aus seinen Werken. Auswahl von
                      Anna Bahr-Mildenburg. Anordnung von Paul Graf Thun-Hohenstein. Mit einem
                      Vorwort von Dr. Josef Nadler</title>
-            <imprint>
-               <pubPlace>Graz</pubPlace>
-               <publisher>Styria</publisher>
-               <date when="1934">1934</date>
-            </imprint>
-            <extent>208 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Die im Archiv aufbewahrten Rezensionen datieren das Buch auf Weihnachten 1933.
+                  <imprint>
+                     <pubPlace>Graz</pubPlace>
+                     <publisher>Styria</publisher>
+                     <date when="1934">1934</date>
+                  </imprint>
+                  <extent>208 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Die im Archiv aufbewahrten Rezensionen datieren das Buch auf Weihnachten 1933.
                      Es war bereits zu Bahrs Lebzeiten fertiggestellt, wie auch ein Exemplar mit
                      seiner Unterschrift beweist.</p>
-         </note>
-         <ref type="URL">http://books.google.com/books?id=QnM5AAAAMAAJ</ref>
+               </note>
+               <ref type="URL">http://books.google.com/books?id=QnM5AAAAMAAJ</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

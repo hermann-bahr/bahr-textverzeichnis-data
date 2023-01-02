@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Individualism och Socialism. En framställning af den socialistika
                      verldsåskådningen i hennes förhallånde till den bestående. Bemindigad svensk
                      öfversättning af G. F. S. (= G. F. Steffen)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1886</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,28 +28,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1349"
-            type="Book"
-            subtype="Schwedisch_Auszug"
-            status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Individualism och Socialism. En framställning af den socialistika
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1349"
+                        type="Book"
+                        subtype="Schwedisch_Auszug"
+                        status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Individualism och Socialism. En framställning af den socialistika
                      verldsåskådningen i hennes förhallånde till den bestående. Bemindigad svensk
                      öfversättning af G. F. S. (= G. F. Steffen)</title>
-            <imprint>
-               <pubPlace>Stockholm</pubPlace>
-               <publisher>Carl Suneson</publisher>
-               <date when="1886">1886</date>
-            </imprint>
-            <extent>31 Seiten</extent>
-         </monogr>
-         <note>
-            <p>Am 4.7.1886 fragt Bahr seinen Vater brieflich an, ob dieser diese »Broschüre«
+                  <imprint>
+                     <pubPlace>Stockholm</pubPlace>
+                     <publisher>Carl Suneson</publisher>
+                     <date when="1886">1886</date>
+                  </imprint>
+                  <extent>31 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>Am 4.7.1886 fragt Bahr seinen Vater brieflich an, ob dieser diese »Broschüre«
                      schon erhalten habe</p>
-         </note>
-         <note type="other-prints">Die Einsichtslosigkeit des Herrn Schäffle. Zürich:
+               </note>
+               <note type="other-prints">Die Einsichtslosigkeit des Herrn Schäffle. Zürich:
                   Schabelitz 1885</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

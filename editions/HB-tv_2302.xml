@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +7,7 @@
             <title level="a">Das schwache Geschlecht. (Schauspiel in vier Akten von Marcel
                      Prévost, deutsch von Siegmund Lautenburg. Zum erstenmal aufgeführt im
                      Burgtheater am 22. Februar 1906)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1906-02-24</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -33,26 +28,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2302" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Das schwache Geschlecht. (Schauspiel in vier Akten von Marcel
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2302" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Das schwache Geschlecht. (Schauspiel in vier Akten von Marcel
                      Prévost, deutsch von Siegmund Lautenburg. Zum erstenmal aufgeführt im
                      Burgtheater am 22. Februar 1906)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">52</biblScope>
-               <biblScope unit="issue">54</biblScope>
-               <biblScope unit="pages">7</biblScope>
-               <date when="1906-02-24">24.2.1906</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">»La plus faible (Das schwache Geschlecht)« von Marcel
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">52</biblScope>
+                     <biblScope unit="issue">54</biblScope>
+                     <biblScope unit="pages">7</biblScope>
+                     <date when="1906-02-24">24.2.1906</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»La plus faible (Das schwache Geschlecht)« von Marcel
                   Prévost</note>
-         <note type="incipit">Aber am anderen Tage lacht man sich selbst aus.</note>
-         <note type="summary">Bahr ist nunmehr gleichmütiger als ins seiner ersten Reaktion
+               <note type="incipit">Aber am anderen Tage lacht man sich selbst aus.</note>
+               <note type="summary">Bahr ist nunmehr gleichmütiger als ins seiner ersten Reaktion
                   auf das Stück am Vortag und begreift, wie es zustande kam, daß er »am liebsten
                   meinen Gucker auf die Bühne geworfen und beide Finger pfeifend in den Mund
                   gesteckt hätte. Ich tat es nicht, weil man feig ist. Obwohl ich weiß, wie ungesund
@@ -60,19 +57,21 @@
                   sich nur halt leider bei der Polizei nicht berufen kann.« Französische Autoren,
                   findet er, haben bis sie dreißig sind, Talent, dann lernen sie, dass man auch ohne
                   auskommt.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#9386"/>
-               <ptr type="pmb" target="#2598"/>
-               <ptr type="pmb" target="#11370"/>
-               <ptr type="pmb" target="#12671"/>
-               <ptr type="pmb" target="#2249"/>
-               <ptr type="pmb" target="#13068"/>
-               <ptr type="pmb" target="#11851"/>
-               <ptr type="HB-tv" target="HB-tv_2302_p1"/>
-               <ptr type="HB-tv" target="HB-tv_4809_p1"/>
-            </listRef>
-         </ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#9386"/>
+                     <ptr type="pmb" target="#2598"/>
+                     <ptr type="pmb" target="#11370"/>
+                     <ptr type="pmb" target="#12671"/>
+                     <ptr type="pmb" target="#2249"/>
+                     <ptr type="pmb" target="#13068"/>
+                     <ptr type="pmb" target="#11851"/>
+                     <ptr type="HB-tv" target="HB-tv_2302_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_4809_p1"/>
+                  </listRef>
+               </ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

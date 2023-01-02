@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Geschichte der Gegenwart</title>
-            <title when-iso=""/>
+            <title type="iso-date">1927-08-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,24 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_979" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Geschichte der Gegenwart</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36374">Neue Freie Presse</title>
-            <imprint>
-               <biblScope unit="issue">22590, Morgenblatt</biblScope>
-               <biblScope unit="pages">25</biblScope>
-               <date when="1927-08-07">7.8.1927, Morgenblatt</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Labyrinth der Gegenwart, 129–131</note>
-         <note type="incipit">Gegenwart ist in solcher Eile, daß sie, während wir, um sie zu
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_979" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Geschichte der Gegenwart</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36374">Neue Freie Presse</title>
+                  <imprint>
+                     <biblScope unit="issue">22590, Morgenblatt</biblScope>
+                     <biblScope unit="pages">25</biblScope>
+                     <date when="1927-08-07">7.8.1927, Morgenblatt</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Labyrinth der Gegenwart, 129–131</note>
+               <note type="incipit">Gegenwart ist in solcher Eile, daß sie, während wir, um sie zu
                   besehen, nach ihr greifen, schon wieder in die Dämmerung der Vergangenheit
                   entsinkt.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-8-7_geschichte-der-gegenwart.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/neue-freie-presse/1927-8-7_geschichte-der-gegenwart.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

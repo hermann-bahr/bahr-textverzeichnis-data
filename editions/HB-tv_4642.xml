@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Theater, Kunst und Literatur. Deutsches
                      Volkstheater</title>
-            <title when-iso=""/>
+            <title type="iso-date">1900-06-06</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,33 +27,37 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4642"
-            type="Journal-Article"
-            subtype="Nachtkritik"
-            sameAs="pmb32822"
-            status="checked">
-         <analytic>
-            <author ref="#10815">H. B.</author>
-            <title level="a" ref="pmb32822">Theater, Kunst und Literatur. Deutsches
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4642"
+                        type="Journal-Article"
+                        subtype="Nachtkritik"
+                        sameAs="pmb32822"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">H. B.</author>
+                  <title level="a" ref="pmb32822">Theater, Kunst und Literatur. Deutsches
                      Volkstheater</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">34</biblScope>
-               <biblScope unit="issue">153</biblScope>
-               <biblScope unit="pages">7</biblScope>
-               <date when="1900-06-06">6.6.1900</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Kraus zitiert daraus in einer Fußnote. (Fackel, 2 (1901) #69, 42.)</p>
-         </note>
-         <note type="review-of">»Rosmersholm« von Henrik Ibsen</note>
-         <note type="other-prints">Premièren, 225</note>
-         <note type="incipit">»Rosmersholm«, das die Berliner gestern brachten, haben wir vor
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">34</biblScope>
+                     <biblScope unit="issue">153</biblScope>
+                     <biblScope unit="pages">7</biblScope>
+                     <date when="1900-06-06">6.6.1900</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Kraus zitiert daraus in einer Fußnote. (Fackel, 2 (1901) #69, 42.)</p>
+               </note>
+               <note type="review-of">»Rosmersholm« von Henrik Ibsen</note>
+               <note type="other-prints">Premièren, 225</note>
+               <note type="incipit">»Rosmersholm«, das die Berliner gestern brachten, haben wir vor
                   Jahren</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

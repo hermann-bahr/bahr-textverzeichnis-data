@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">28. Dezember [1919]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5494"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">28. Dezember [1919]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">25–26</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Ein Kritiker verübelt mir mein neues Lustspiel. Wie kann, wer
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5494"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">28. Dezember [1919]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">25–26</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Ein Kritiker verübelt mir mein neues Lustspiel. Wie kann, wer
                   eben noch mit seiner »Bekehrung« groß getan, sich noch darin gegefallen, die Welt
                   zu verulken? Aber, verehrter Herr, dann doch erst recht! Denn gerade, wer »die
                   Welt« einmal durchschaut hat, dem bleibt doch wirklich nichts übrig als sie zu
@@ -78,8 +75,10 @@
                   Wahrheit viel näher, als wer es noch buchstäblich nimmt. Joculatores Domini hat
                   der heilige Franziskus seine Schar genannt, die Spaßmacher des Herrn. Dem tragisch
                   gesinnten Spießer wird’s allerdings schwer, das zu verstehen. |</note>
-         <note type="summary">Gerade wie andere barocke Dichter auch, bedeutet Bahrs Bekehrung
+               <note type="summary">Gerade wie andere barocke Dichter auch, bedeutet Bahrs Bekehrung
                   die Grundlage für eine Betrachtung der Welt durch das Lustspiel.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

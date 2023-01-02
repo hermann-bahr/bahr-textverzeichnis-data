@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Josephine. Ein Spiel in vier Akten</title>
-            <title when-iso=""/>
+            <title type="iso-date">1899</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,22 +26,24 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1528"
-            type="Book"
-            status="checked"
-            sameAs="pmb30137">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30137">Josephine. Ein Spiel in vier Akten</title>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>S. Fischer</publisher>
-               <date when="1899">1899</date>
-            </imprint>
-            <extent>XIII, 211 Seiten</extent>
-         </monogr>
-         <note>
-            <p>»Meinem lieben Freunde Emerich von Bukovics in herzlicher Verehrung gewidmet«.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1528"
+                        type="Book"
+                        status="checked"
+                        sameAs="pmb30137">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30137">Josephine. Ein Spiel in vier Akten</title>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>S. Fischer</publisher>
+                     <date when="1899">1899</date>
+                  </imprint>
+                  <extent>XIII, 211 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>»Meinem lieben Freunde Emerich von Bukovics in herzlicher Verehrung gewidmet«.
                      In einem Notizbuch schreibt Bahr: »Im Jahre 1898 erschien meine Josefine, ich
                      war damals noch jung genug mich des allgemeinen Entsetzens über meine
                      Dreistigkeit zu freuen, ja ihrer zu rühmen. Ich schwärmte für Bonaparte, da
@@ -55,7 +52,7 @@
                      Vorwurf des Plagiats durch Karl Bleibtreu siehe »Auf der Mensur« in der
                      »Gegenwart«. Für 14 Vorstellungen erhielt Bahr 4187 K. Tantiemen vom
                      Volkstheater (Neues Wiener Abendblatt, 35 (1901) #53, 3. (23.2.1901)).</p>
-            <p>Rezensionen: F. Sch.[=Schütz] in: Neue Freie Presse, 1897 #11980, 1-4.
+                  <p>Rezensionen: F. Sch.[=Schütz] in: Neue Freie Presse, 1897 #11980, 1-4.
                      (30.12.1897) [Vgl. den Eintrag in Ebner-Eschenbachs Tagebuch, IV, 445.] Rudolf
                      Lothar in: Wage, 1 (1898), 16–18. Karl Kraus: Wiener Brief. In: Breslauer
                      Zeitung, 79 (1898) #1, Morgen-Ausgabe, 2-3. (1.1.1898) Necker, Moritz in:
@@ -76,12 +73,14 @@
                      Alfred Kerr in: Berliner Tageblatt, 55 (1926) #99, Abend-Ausgabe, 4.
                      (27.02.1926) Dr. Egon-Erich Albrecht, Albert-Theater: Hermann Bahr:
                      »Josephine«. In: Pirnaer Anzeiger, 118 (1927) #211, 3. (9.9.1927)</p>
-         </note>
-         <note type="translations">Amerikanisches Manuskript: Warrior’s Love. A comedy in
+               </note>
+               <note type="translations">Amerikanisches Manuskript: Warrior’s Love. A comedy in
                   three acts. Harald Dyrenforth and Margrit Wyler. 194? [New York Public Library]
                   Dänisches Manuskript: Josephine. Skuespil i 4 akter. Overs. af Ch. Kjerulf.
                   Dagmarteatret. [Königl. Bibl. Kopenhagen]</note>
-         <ref type="URL">http://www.archive.org/search.php?query=bahr%20josephine</ref>
+               <ref type="URL">http://www.archive.org/search.php?query=bahr%20josephine</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

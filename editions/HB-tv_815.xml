@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der arme Narr. Schauspiel in einem Akt. [III]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1905-10-12</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_815"
-            type="Journal-Article"
-            subtype="Vorabdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Der arme Narr. Schauspiel in einem Akt. [III]</title>
-         </analytic>
-         <monogr>
-            <title level="j">Österreichische Rundschau</title>
-            <imprint>
-               <biblScope unit="jg">4</biblScope>
-               <biblScope unit="issue">50</biblScope>
-               <biblScope unit="pages">490–497</biblScope>
-               <date when="1905-10-12">12.10.1905</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Wien: C. Konegen 1906</note>
-         <note type="incipit">Hugo (neununddreißig Jahre; klein, schmal, zart;</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/oesterreichische-rundschau/1905_der-arme-narr-3.pdf</ref>
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_815"
+                        type="Journal-Article"
+                        subtype="Vorabdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Der arme Narr. Schauspiel in einem Akt. [III]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Österreichische Rundschau</title>
+                  <imprint>
+                     <biblScope unit="jg">4</biblScope>
+                     <biblScope unit="issue">50</biblScope>
+                     <biblScope unit="pages">490–497</biblScope>
+                     <date when="1905-10-12">12.10.1905</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Wien: C. Konegen 1906</note>
+               <note type="incipit">Hugo (neununddreißig Jahre; klein, schmal, zart;</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/oesterreichische-rundschau/1905_der-arme-narr-3.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Novelli. (Gastspiel im Raimundtheater) 15. 6. Mai 1900</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3056"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Novelli. (Gastspiel im Raimundtheater) 15. 6. Mai 1900</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
-            <imprint>
-               <pubPlace>München</pubPlace>
-               <publisher>Albert Langen</publisher>
-               <date when="1902">1902</date>
-               <biblScope unit="pages">166–168</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Gli ultimi giorni di Goldoni« von Valentin Carrera</note>
-         <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #123, 9.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3056"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Novelli. (Gastspiel im Raimundtheater) 15. 6. Mai 1900</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
+                  <imprint>
+                     <pubPlace>München</pubPlace>
+                     <publisher>Albert Langen</publisher>
+                     <date when="1902">1902</date>
+                     <biblScope unit="pages">166–168</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Gli ultimi giorni di Goldoni« von Valentin Carrera</note>
+               <note type="first-printing">Neues Wiener Tagblatt, 34 (1900) #123, 9.
                   (6.5.1900)</note>
-         <note type="incipit">Novelli in Gli ultimi giorni di Goldoni. Je länger man das
+               <note type="incipit">Novelli in Gli ultimi giorni di Goldoni. Je länger man das
                   wunderbare Wesen Novellis beobachtend zu erforschen sucht, desto deutlicher wird
                   man gewahr, worin das Geheimnis seiner einzigen Wirkung besteht</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

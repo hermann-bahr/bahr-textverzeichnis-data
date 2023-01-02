@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Der Wiener</title>
-            <title when-iso=""/>
+            <title type="iso-date">1947</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2090"
-            type="Journal-Article"
-            subtype="Nachdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Der Wiener</title>
-         </analytic>
-         <monogr>
-            <title level="j">Österreichische Rundschau</title>
-            <imprint>
-               <biblScope unit="jg">2</biblScope>
-               <biblScope unit="issue">1</biblScope>
-               <biblScope unit="pages">19–22</biblScope>
-               <date when="1947">1947</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Berliner Tageblatt, 36 (1907) #108, Abend–Ausgabe, 1–2.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2090"
+                        type="Journal-Article"
+                        subtype="Nachdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Der Wiener</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Österreichische Rundschau</title>
+                  <imprint>
+                     <biblScope unit="jg">2</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <biblScope unit="pages">19–22</biblScope>
+                     <date when="1947">1947</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Berliner Tageblatt, 36 (1907) #108, Abend–Ausgabe, 1–2.
                   (28.2.1907)</note>
-         <note type="other-prints">Wien</note>
-         <note type="incipit">Alles drängt den Wiener von der Wirklichkeit ab. Das regierende
+               <note type="other-prints">Wien</note>
+               <note type="incipit">Alles drängt den Wiener von der Wirklichkeit ab. Das regierende
                   Haus verlangt, Menschen durch den eigenen Geist zu formen. Solche fingiert es in
                   den »Familien« und setzt sie dem Wiener hin. Der alte Glaube wird ausgerissen, ein
                   neuer dringt durch, dem das Leben nur ein Traum ist.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

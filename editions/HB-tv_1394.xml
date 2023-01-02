@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      Tagebüchern und seinem Briefwechsel mit Richard Strauß, Hugo von Hofmannsthal,
                      Max Reinhardt, Josef Kainz, Eleonore Duse und Anna von Mildenburg. Ausgewählt
                      und eingeleitet von Joseph Gregor</title>
-            <title when-iso=""/>
+            <title type="iso-date">1947</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,25 +29,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1394" type="Book" status="checked">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m">Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1394" type="Book" status="checked">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m">Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen,
                      Tagebüchern und seinem Briefwechsel mit Richard Strauß, Hugo von Hofmannsthal,
                      Max Reinhardt, Josef Kainz, Eleonore Duse und Anna von Mildenburg. Ausgewählt
                      und eingeleitet von Joseph Gregor</title>
-            <imprint>
-               <pubPlace>Wien</pubPlace>
-               <publisher>Hermann Bauer</publisher>
-               <date when="1947">1947</date>
-            </imprint>
-            <extent>231 Seiten</extent>
-         </monogr>
-         <series>
-            <title level="s">Museion. Veröffentlichungen der österreichischen
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>Hermann Bauer</publisher>
+                     <date when="1947">1947</date>
+                  </imprint>
+                  <extent>231 Seiten</extent>
+               </monogr>
+               <series>
+                  <title level="s">Museion. Veröffentlichungen der österreichischen
                      Nationalbibliothek, Neue Folge. 1. Reihe: Veröffentlichungen der
                      Theatersammlung</title>
-         </series>
+               </series>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

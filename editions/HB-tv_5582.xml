@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">4. Oktober [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5582"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">4. Oktober [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">236–241</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Ludwig Schemann: Von deutscher Zukunft. Gedanken Eines, der
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5582"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">4. Oktober [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">236–241</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Ludwig Schemann: Von deutscher Zukunft. Gedanken Eines, der
                   auszog, das Hoffen zu lernen. Leipzig: Weicher 1920. Eduard Keyserling:
                   Philosophie als Kunst. Darmstadt: Otto Reichel 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Seltsam klingt durch die Nacht dieser Zeit die klagende Stimme
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Seltsam klingt durch die Nacht dieser Zeit die klagende Stimme
                   Ludwig Schemanns. Ein Getreuer Wahnfrieds, Gobineaus Apostel in Deutschland, das
                   Erbe Lagardes hütend, hat er, während rings Deutschland eben anfing, ein großes
                   Geschäft zu werden, sein ganzes Leben im Glauben an eine sittliche Wiedergeburt
@@ -207,9 +204,11 @@
                   auch die letzte Spur deutschen Wesens »verredet« sein wird. Die großen Völker
                   haben in ihren größten Zeiten das Wort immer an die Fläche des Daseins verwiesen:
                   Tiefen sind stumm. |</note>
-         <note type="summary">Schemann kann schimpfen, aber nicht Hoffen lehren. Überhaupt ist
+               <note type="summary">Schemann kann schimpfen, aber nicht Hoffen lehren. Überhaupt ist
                   das Deutsche Wesen für Bahr in der Nachfolge und Interpretation Keyserlings nur
                   durch heiliges Schweigen zum Geistigen zu wenden.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

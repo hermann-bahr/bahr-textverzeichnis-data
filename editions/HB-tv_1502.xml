@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Direktion des Burgtheaters</title>
-            <title when-iso=""/>
+            <title type="iso-date">1926</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1502" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Direktion des Burgtheaters</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Hundertfünfzig Jahre Burgtheater. 1776–1926. Eine
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1502" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Direktion des Burgtheaters</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Hundertfünfzig Jahre Burgtheater. 1776–1926. Eine
                      Festschrift</title>
-            <editor>Direktion des Burgtheaters</editor>
-            <imprint>
-               <pubPlace>Wien</pubPlace>
-               <publisher>Krystall</publisher>
-               <date when="1926">1926</date>
-               <biblScope unit="pages">22–26</biblScope>
-            </imprint>
-         </monogr>
-         <note type="incipit">Theater sind gemeinhin selber ganz unpersönlich, zunächst nichts
+                  <editor>Direktion des Burgtheaters</editor>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>Krystall</publisher>
+                     <date when="1926">1926</date>
+                     <biblScope unit="pages">22–26</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="incipit">Theater sind gemeinhin selber ganz unpersönlich, zunächst nichts
                   als roher Stoff, dem erst ihr Lenker Gehalt einhaucht und Gestalt aufprägt.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1926_direktion.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1926_direktion.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

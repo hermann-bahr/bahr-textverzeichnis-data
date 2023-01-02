@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 16. Oktober</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-11-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,28 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6080"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 16. Oktober</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9701</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1920-11-07">7.11.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Ambrosi Mappe. Geleitwort Felix Braun. Leipzig, Wien: Strache
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6080"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 16. Oktober</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9701</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1920-11-07">7.11.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Ambrosi Mappe. Geleitwort Felix Braun. Leipzig, Wien: Strache
                   1920. Franz Dornseiff: [Einleitung zu Pindar-Übersetzung]. Insel-Almanach auf das
                   Jahr 1921.</note>
-         <note type="other-prints">Kritik der Gegenwart, 244-247</note>
-         <note type="incipit">Vor Jahren ging ich einst nescio quid meditans nugarum durch die
+               <note type="other-prints">Kritik der Gegenwart, 244-247</note>
+               <note type="incipit">Vor Jahren ging ich einst nescio quid meditans nugarum durch die
                   Stadt Graz dahin, als ich mich, unweit vom Joanneum, auf einmal von einem
                   erstaunlichen Geschöpf angesprungen sah, das mit Gebärden, die den Taubstummen
                   verrieten, ungestüm, zugleich aber so bezaubernd herzlich in mich drang,
@@ -118,8 +115,10 @@
                   dann aber nach der berühmten Übersetzung des wackeren alten Friedrich Tiersch um
                   Hilfe griff, bisher immer wieder passiert, daß ich da wirklich noch eher das
                   Original verstand. |</note>
-         <note type="summary">Über Gustinus Ambrosi und eine neuere Auslegung Pindars.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <note type="summary">Über Gustinus Ambrosi und eine neuere Auslegung Pindars.</note>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

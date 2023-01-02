@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">10. Dezember [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5606"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">10. Dezember [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">293–296</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Gustav von Schmoller: Zwanzig Jahre deutscher Politik. Hg.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5606"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">10. Dezember [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">293–296</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Gustav von Schmoller: Zwanzig Jahre deutscher Politik. Hg.
                   Lucie Schmoller. München: Duncker &amp; Humblot 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Michael Hainisch Bundespräsident. Vierzig Jahre wird’s bald
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Michael Hainisch Bundespräsident. Vierzig Jahre wird’s bald
                   sein, daß wir uns begegneten, in Berlin, wohin er als junger Doktor zu Gustav
                   Schmoller und Adolf Wagner ging, deren Schüler ich war. Er bezog die Bude Richard
                   Fellners, seines Vetters, wenn mich mein Gedächtnis nicht täuscht, der damals als
@@ -141,10 +138,12 @@
                   unversehens am Ende wieder bei dem neuen Landesherrn Dr. Hainisch, der auch ein
                   Getreuer des Vereins für Sozialpolitik ist und wirklich von sich sagen kann, daß
                   er immer ein »humaner Praktiker« war. |</note>
-         <note type="summary">Bahr über seine gemeinsame Studienzeit mit dem neuen
+               <note type="summary">Bahr über seine gemeinsame Studienzeit mit dem neuen
                   Bundespräsidenten Michael Hainisch im Seminar von Adolf Wagner und von Gustav von
                   Schmoller. Er bleibt dann bei Schmoller hängen, den er erst jetzt richtig zu
                   würdigen weiß.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

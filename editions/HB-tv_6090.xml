@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 10. November</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-11-28</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,32 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6090"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 10. November</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9721</biblScope>
-               <biblScope unit="pages">5–6</biblScope>
-               <date when="1920-11-28">28.11.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6090"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 10. November</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9721</biblScope>
+                     <biblScope unit="pages">5–6</biblScope>
+                     <date when="1920-11-28">28.11.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Josef Redlich: Das österreichische Staats- und Reichsproblem.
                   Geschichtliche Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang
                   des Reiches. I. Band: Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861. Leipzig: Der neue
                   Geist 1920.</note>
-         <note type="other-prints">Kritik der Gegenwart, 260-271</note>
-         <note type="incipit">»Das österreichische Staats- und Reichsproblem«. Geschichtliche
+               <note type="other-prints">Kritik der Gegenwart, 260-271</note>
+               <note type="incipit">»Das österreichische Staats- und Reichsproblem«. Geschichtliche
                   Darstellung der habsburgischen Monarchie von 1848 bis zum Untergang des Reiches.
                   Von Josef Redlich. I. Band: »Der dynastische Reichsgedanke und die Entfaltung des
                   Problems bis zur Verkündigung der Reichsverfassung von 1861«. (»Der neue Geist«,
@@ -348,10 +345,12 @@
                   Bureaukratie, um sich in dieser Macht zu behaupten, dadurch, daß es ihr gelang,
                   den Deutschen einzureden, sie seien’s, die den »deutschen Charakter« Österreichs
                   bewachen, immer wieder ein lebendiges Österreich zu verhindern gewußt. |</note>
-         <note type="summary">Das Buch von seinem Freund Josef Redlich ist für Bahr ein
+               <note type="summary">Das Buch von seinem Freund Josef Redlich ist für Bahr ein
                   Geschichtsbuch zu der von ihm propagierten Idee von Österreich. Es zeigt auch in
                   der Bürokratie den Fehler auf, an dem Österreich scheiterte.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

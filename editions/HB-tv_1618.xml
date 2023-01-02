@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Portrét rakouského byrokrata</title>
-            <title when-iso=""/>
+            <title type="iso-date">1930-02-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1618"
-            type="Journal-Article"
-            subtype="Tschechisch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Portrét rakouského byrokrata</title>
-         </analytic>
-         <monogr>
-            <title level="j">Index. Leták kulturní informace</title>
-            <imprint>
-               <biblScope unit="jg">2</biblScope>
-               <biblScope unit="issue">2</biblScope>
-               <biblScope unit="pages">16</biblScope>
-               <date when="1930-02-01">1.2.1930</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Übersetzer nicht angeführt. Aus einem »Tagebuch« im »Neuen Wiener Journal«?</p>
-         </note>
-         <note type="incipit">Jsme dnes dál? Kdo nezná rakouského úředníka s jeho obrovskou
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1618"
+                        type="Journal-Article"
+                        subtype="Tschechisch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Portrét rakouského byrokrata</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Index. Leták kulturní informace</title>
+                  <imprint>
+                     <biblScope unit="jg">2</biblScope>
+                     <biblScope unit="issue">2</biblScope>
+                     <biblScope unit="pages">16</biblScope>
+                     <date when="1930-02-01">1.2.1930</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Übersetzer nicht angeführt. Aus einem »Tagebuch« im »Neuen Wiener Journal«?</p>
+               </note>
+               <note type="incipit">Jsme dnes dál? Kdo nezná rakouského úředníka s jeho obrovskou
                   nesvědomitostí</note>
-         <note type="summary">Kritische Typisierung des österreichischen Beamten.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/index/1930_index.pdf</ref>
+               <note type="summary">Kritische Typisierung des österreichischen Beamten.</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/index/1930_index.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

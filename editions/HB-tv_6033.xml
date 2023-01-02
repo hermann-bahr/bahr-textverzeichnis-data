@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 18. Juni</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-07-11</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6033"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 18. Juni</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9583</biblScope>
-               <biblScope unit="pages">6</biblScope>
-               <date when="1920-07-11">11.7.1920</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Kritik der Gegenwart, 160–164</note>
-         <note type="incipit">Der Vater der Réjane war ein Schmierenkomödiant, aus dem
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6033"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 18. Juni</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9583</biblScope>
+                     <biblScope unit="pages">6</biblScope>
+                     <date when="1920-07-11">11.7.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Kritik der Gegenwart, 160–164</note>
+               <note type="incipit">Der Vater der Réjane war ein Schmierenkomödiant, aus dem
                   schließlich ein Theaterkassier wurde, sie trug den Theaterteufel im Leibe.
                   Regnier, der große Schauspieler und Lehrer der Schauspielkunst, erschrak, als man
                   ihm die Kleine brachte, der zur Schauspielerin doch alles fehlte. Sie war gar
@@ -168,10 +165,12 @@
                   nie zur richtigen Liebe kommt. So könnte man sie selber eine curieuse d’art
                   nennen, die nie die Rolle fand, in der sie ganz zu sich selber hätte kommen
                   können. Ihr Schicksal war symbolisch für unsere Zeit. |</note>
-         <note type="summary">Der Nachruf auf die Réjane wird Bahr unversehens zu einem
+               <note type="summary">Der Nachruf auf die Réjane wird Bahr unversehens zu einem
                   Traktat über die unterschiedlichen Frauengeschmäcker der verschiedenen
                   Generationen zu seinen Lebzeiten.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

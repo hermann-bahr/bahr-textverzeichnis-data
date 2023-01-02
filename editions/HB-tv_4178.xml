@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Hermann Bahr über unser Literaturelend</title>
-            <title when-iso=""/>
+            <title type="iso-date">1926-11-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,31 +26,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4178"
-            type="Journal-Article"
-            subtype="Nachdruck_Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Hermann Bahr über unser Literaturelend</title>
-         </analytic>
-         <monogr>
-            <title level="j">Schönere Zukunft</title>
-            <imprint>
-               <biblScope unit="jg">2</biblScope>
-               <biblScope unit="issue">6</biblScope>
-               <biblScope unit="pages">119</biblScope>
-               <date when="1926-11-07">7.11.1926</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »In seinen Tagebuchaufzeichnungen im »Neuen Wiener
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4178"
+                        type="Journal-Article"
+                        subtype="Nachdruck_Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Hermann Bahr über unser Literaturelend</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Schönere Zukunft</title>
+                  <imprint>
+                     <biblScope unit="jg">2</biblScope>
+                     <biblScope unit="issue">6</biblScope>
+                     <biblScope unit="pages">119</biblScope>
+                     <date when="1926-11-07">7.11.1926</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »In seinen Tagebuchaufzeichnungen im »Neuen Wiener
                      Journal« vom 24. Oktober schreibt Hermann Bahr:«</p>
-         </note>
-         <note type="first-printing">Als »Tagebuch« in: Neues Wiener Journal,
+               </note>
+               <note type="first-printing">Als »Tagebuch« in: Neues Wiener Journal,
                   24.10.1926</note>
-         <note type="incipit">…Wir haben lesen verlernt. Wir sind daran, unser Schrifttum
+               <note type="incipit">…Wir haben lesen verlernt. Wir sind daran, unser Schrifttum
                   amerikanisieren zu lassen.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

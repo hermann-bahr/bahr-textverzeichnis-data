@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Haus Habsburg. 2</title>
-            <title when-iso=""/>
+            <title type="iso-date">1907-07-07</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2557"
-            type="Journal-Article"
-            subtype="Nachdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Haus Habsburg. 2</title>
-         </analytic>
-         <monogr>
-            <title level="j">Alldeutsches Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">5</biblScope>
-               <biblScope unit="issue">153</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1907-07-07">7.7.1907</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Die #153 weist den Text nicht gesondert als Abdruck aus und nennt auch Bahrs
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2557"
+                        type="Journal-Article"
+                        subtype="Nachdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Haus Habsburg. 2</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Alldeutsches Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">5</biblScope>
+                     <biblScope unit="issue">153</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1907-07-07">7.7.1907</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Die #153 weist den Text nicht gesondert als Abdruck aus und nennt auch Bahrs
                      Namen nicht. Der geht aber aus der Beilage hervor, in der noch einmal der erste
                      Teil abgedruckt ist, weil die #152 beschlagnahmt worden war.</p>
-         </note>
-         <note type="other-prints">Wien. Stuttgart: Carl Krabbe 1907</note>
-         <note type="incipit">Eine solche Zucht ist immer wieder versucht worden.</note>
+               </note>
+               <note type="other-prints">Wien. Stuttgart: Carl Krabbe 1907</note>
+               <note type="incipit">Eine solche Zucht ist immer wieder versucht worden.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

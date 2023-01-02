@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">31. Dezember [1919]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5497"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">31. Dezember [1919]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">26–27</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Das Novemberheft von » La Paix par le Droit« enthält einen sehr
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5497"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">31. Dezember [1919]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">26–27</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Das Novemberheft von » La Paix par le Droit« enthält einen sehr
                   ernsten Aufsatz von Lammasch, worin mit einer ruhigen Entschiedenheit, der man
                   doch das verhaltene Herzklopfen eines edlen Zornes anhört, alles Unrecht dargetan
                   wird, das der Friede von Saint-Germain über uns gebracht hat. Ob das aber auf den
@@ -84,8 +81,10 @@
                   Wacholderbaum sitzen müssen. So sitzt jetzt, was einst unser Vaterland war, unterm
                   Wacholderbaum. Aber es werden überbleiben alle Knie, die sich nicht gebeugt haben
                   vor Baal, und aller Mund, der ihn nicht geküßt hat! |</note>
-         <note type="summary">Über das Verhalten Frankreichs als Sieger und die Erkenntnis,
+               <note type="summary">Über das Verhalten Frankreichs als Sieger und die Erkenntnis,
                   dass kein Volk ewig Sieger bleiben wird.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">30. Juni [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5548"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">30. Juni [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">169–170</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Josef Popper: Auseinandersetzung mit dem Sozialismus und den
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5548"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">30. Juni [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">169–170</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Josef Popper: Auseinandersetzung mit dem Sozialismus und den
                   Sozialisten. Wien: Verein Allgemeine Nährpflicht 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Als Separatdruck aus der Zeitschrift »Das Ziel« ist Josef
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Als Separatdruck aus der Zeitschrift »Das Ziel« ist Josef
                   Poppers »Auseinandersetzung mit dem Sozialismus und den Sozialisten« (Verlag
                   Verein Allgemeine Nährpflicht, Wien, XVII., Sautergasse 56) erschienen. In seiner
                   stillen, hellen, festen Art legt da der ehrwürdige Denker den »Vorzug« dar, den er
@@ -93,8 +90,10 @@
                   Arbeiter, träumten wir, kämpfe nicht für seine Klasse, sondern um aller Klassen
                   Ende. Von wem aber sollen wir es uns hinfort jetzt erträumen? Und ganz traumlos
                   geworden, ist die Politik doch unerträglich. |</note>
-         <note type="summary">Bahr ist unglücklich mit der regierenden Sozialdemokratie. In
+               <note type="summary">Bahr ist unglücklich mit der regierenden Sozialdemokratie. In
                   der Jugend erhofften sie von der Arbeiterklasse das Ende aller Klassen.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

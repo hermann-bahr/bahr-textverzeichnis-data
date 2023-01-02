@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Erinnerungen an Victor Adler</title>
-            <title when-iso=""/>
+            <title type="iso-date">1923-03-31</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1788"
-            type="Journal-Article"
-            subtype="Vorabdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Erinnerungen an Victor Adler</title>
-         </analytic>
-         <monogr>
-            <title level="j">Das Tage-Buch</title>
-            <imprint>
-               <biblScope unit="jg">4</biblScope>
-               <biblScope unit="issue">13</biblScope>
-               <biblScope unit="pages">445–449</biblScope>
-               <date when="1923-03-31">31.3.1923</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Selbstbildnis, 206-214</note>
-         <note type="incipit">Also doch Agitator? Nach Freiburg gehen und, wie mir
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1788"
+                        type="Journal-Article"
+                        subtype="Vorabdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Erinnerungen an Victor Adler</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Das Tage-Buch</title>
+                  <imprint>
+                     <biblScope unit="jg">4</biblScope>
+                     <biblScope unit="issue">13</biblScope>
+                     <biblScope unit="pages">445–449</biblScope>
+                     <date when="1923-03-31">31.3.1923</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Selbstbildnis, 206-214</note>
+               <note type="incipit">Also doch Agitator? Nach Freiburg gehen und, wie mir
                   Pernerstorfers Briefe dringend rieten, dort bei meinem Freund Philippovich den
                   Doktor machen, der mir in Berlin durch die gespannten Beziehungen zu Schmoller
                   ziemlich ungewiß geworden</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1923-13_erinnerung-an-victor-adler.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1923-13_erinnerung-an-victor-adler.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Grotesken. Der Klub der Erlöser (Schauspiel in
                      einem Akt) – Der Faun – Die tiefe Natur (Ein Akt)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1907</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -32,23 +27,25 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1549"
-            type="Book"
-            status="checked"
-            sameAs="pmb30091">
-         <monogr>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="m" ref="pmb30091">Grotesken. Der Klub der Erlöser (Schauspiel in
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1549"
+                        type="Book"
+                        status="checked"
+                        sameAs="pmb30091">
+               <monogr>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="m" ref="pmb30091">Grotesken. Der Klub der Erlöser (Schauspiel in
                      einem Akt) – Der Faun – Die tiefe Natur (Ein Akt)</title>
-            <imprint>
-               <pubPlace>Wien</pubPlace>
-               <publisher>C. Konegen</publisher>
-               <date when="1907">1907</date>
-            </imprint>
-            <extent>264 Seiten</extent>
-         </monogr>
-         <note>
-            <p>1906, vordatiert auf 1907. »Der Klub« ist Felix Salten, »Der Faun« Franz Blei
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <publisher>C. Konegen</publisher>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <extent>264 Seiten</extent>
+               </monogr>
+               <note>
+                  <p>1906, vordatiert auf 1907. »Der Klub« ist Felix Salten, »Der Faun« Franz Blei
                      gewidmet, »Die tiefe Natur« »in Erinnerung an meinen lieben Anatol« verfasst.
                      »Der Klub« wurde, wie das Neue Wiener Tagblatt (39 (1905) #331, 10) am 30.
                      November 1905 berichtet, vom Kaiserjubiläums-Stadttheater angenommen, von der
@@ -60,15 +57,17 @@
                      v. W. [=Eduard von Waclawiczek] in Das literarische Deutsch-Österreich, 8
                      (1908) #12, 464-465. [»Tiefe Natur« und »Krampus« im Deutschen
                      Volkstheater]</p>
-         </note>
-         <note type="first-printing">Der Faun: Die Schaubühne, 2 (1906) #2, 316–322, 343–349,
+               </note>
+               <note type="first-printing">Der Faun: Die Schaubühne, 2 (1906) #2, 316–322, 343–349,
                   366–370, 406–411 und 426–431. Der Klub der Erlöser: Die neue Rundschau, 17 (1906)
                   #3, 461–491. Die tiefe Natur: Österreichische Rundschau, 9 (1906) #2,
                   95–111.</note>
-         <note type="other-prints">Der Klub der Erlöser: Nicht identifizierter Druck,
+               <note type="other-prints">Der Klub der Erlöser: Nicht identifizierter Druck,
                   Universität Salzburg, 38.579-I Die tiefe Natur. In: Einakter und kleine Dramen des
                   Jugendstils. Stuttgart : Philipp Reclam, 1979, 178-220.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=65</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=65</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

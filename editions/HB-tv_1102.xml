@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">The Panama Scandals. Vienna, Dec. 28</title>
-            <title when-iso=""/>
+            <title type="iso-date">1893-12-29</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,32 +26,36 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1102" type="Journal-Article" status="checked">
-         <analytic>
-            <title level="a">The Panama Scandals. Vienna, Dec. 28</title>
-         </analytic>
-         <monogr>
-            <title level="j">The Times</title>
-            <imprint>
-               <biblScope unit="issue">33834</biblScope>
-               <biblScope unit="pages">3</biblScope>
-               <date when="1893-12-29">29.12.1893</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Der Wiener Korrespondent übermittelte telegraphisch einen längeren Auszug des
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1102" type="Journal-Article" status="checked">
+               <analytic>
+                  <title level="a">The Panama Scandals. Vienna, Dec. 28</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Times</title>
+                  <imprint>
+                     <biblScope unit="issue">33834</biblScope>
+                     <biblScope unit="pages">3</biblScope>
+                     <date when="1893-12-29">29.12.1893</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Der Wiener Korrespondent übermittelte telegraphisch einen längeren Auszug des
                      Interviews mit Zola, nennt Bahrs Namen aber nicht: »To-day’s Deutsche Zeitung
                      publishes an account of an interview which a member of its staff has just had
                      in Paris with M. Zola, in the course of which the great French novelist
                      expressed himself as follows: –«</p>
-         </note>
-         <note type="incipit">It is an affair which will have no further consequences.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#13194"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/the-times/1892_the-panama-scandals.pdf</ref>
+               </note>
+               <note type="incipit">It is an affair which will have no further consequences.</note>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#13194"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/the-times/1892_the-panama-scandals.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

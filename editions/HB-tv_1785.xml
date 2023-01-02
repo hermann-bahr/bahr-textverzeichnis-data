@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Begegnung mit Hugo Wolf</title>
-            <title when-iso=""/>
+            <title type="iso-date">1923-03-24</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,38 +26,42 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1785"
-            type="Journal-Article"
-            subtype="Vorabdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Begegnung mit Hugo Wolf</title>
-         </analytic>
-         <monogr>
-            <title level="j">Das Tage-Buch</title>
-            <imprint>
-               <biblScope unit="jg">4</biblScope>
-               <biblScope unit="issue">12</biblScope>
-               <biblScope unit="pages">406–408</biblScope>
-               <date when="1923-03-24">24.3.1923</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Edit. Anmerkung: »Hermann Bahr hat sich entschlossen, die Geschichte seines
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1785"
+                        type="Journal-Article"
+                        subtype="Vorabdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Begegnung mit Hugo Wolf</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Das Tage-Buch</title>
+                  <imprint>
+                     <biblScope unit="jg">4</biblScope>
+                     <biblScope unit="issue">12</biblScope>
+                     <biblScope unit="pages">406–408</biblScope>
+                     <date when="1923-03-24">24.3.1923</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Edit. Anmerkung: »Hermann Bahr hat sich entschlossen, die Geschichte seines
                      Lebens zu schreiben. Dieses »Selbstbildnis« wird vielleicht sein schönstes
                      Buch, jedenfalls einer der merkwürdigsten Lebensberichte, die wir Deutschen
                      haben. Das Buch wird etwa zum 60. Geburtstag Bahrs (also im Juni) herauskommen.
                      Das ’T.B.’ darf mit Bahrs und S. Fischers Willen schon jetzt Einiges daraus
                      bringen.«</p>
-         </note>
-         <note type="first-printing">Als »Zusammenleben mit Hugo Wolf« in: Almanach 1925. S.
+               </note>
+               <note type="first-printing">Als »Zusammenleben mit Hugo Wolf« in: Almanach 1925. S.
                   Fischer Verlag Berlin, 1924, 151–155</note>
-         <note type="other-prints">Selbstbildnis</note>
-         <note type="incipit">Mein Vater war höflich von meinen Abenteuern verständigt worden
+               <note type="other-prints">Selbstbildnis</note>
+               <note type="incipit">Mein Vater war höflich von meinen Abenteuern verständigt worden
                   und las zwischen den Zeilen, daß meine Gegenwart in Graz unerwünscht zu sein
                   begann.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1923-12_begegnung-mit-hugo-wolf.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/tage-buch/1923-12_begegnung-mit-hugo-wolf.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

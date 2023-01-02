@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">10. Dezember [1919]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5490"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">10. Dezember [1919]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">17–22</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Thomas Mann: Herr und Hund. Gesang vom Kindchen. Zwei Idyllen.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5490"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">10. Dezember [1919]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">17–22</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Thomas Mann: Herr und Hund. Gesang vom Kindchen. Zwei Idyllen.
                   Berlin: S. Fischer 1919.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Auf meinen Glückwunsch zum Sechziger schrieb mir Karl Kautsky
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Auf meinen Glückwunsch zum Sechziger schrieb mir Karl Kautsky
                   neulich, unserer Jugendzeit nachsinnend: »Jeder von uns gedachte damals den Himmel
                   zu stürmen ... Wir haben ihn nicht erstürmt, aber aus den Wolken sind wir doch
                   auch nicht gefallen.« Dieser Satz, in seiner guten Mischung von Resignation und
@@ -179,8 +176,10 @@
                   Macht und Ruhm und Lohn? Der Deutsche hat in sich selber Welt genug, um jede
                   äußere entbehren zu können! Hört den Gesang vom Kindchen, da klingt das alte
                   heilige Deutschland wieder, das unsterbliche! |</note>
-         <note type="summary">Die Generation von 1880 bis 1920 habe zwar Vorzeigbares
+               <note type="summary">Die Generation von 1880 bis 1920 habe zwar Vorzeigbares
                   geleistet, aber nicht unbedingt das, was sie zu leisten vorhatte.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

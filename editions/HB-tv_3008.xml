@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      Aischylos. – Nach der Übersetzung Ullrich [!] v. Wilamowitz-Moellendorffs für
                      die moderne Bühne bearbeitet. – Zum ersten Male aufgeführt im Burgtheater am 6.
                      Dezember 1900</title>
-            <title when-iso=""/>
+            <title type="iso-date">1902</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,34 +29,38 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3008"
-            type="Book_Section"
-            subtype="Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">Die Orestie. Tragödie in drei Stücken aus dem Griechischen des
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3008"
+                        type="Book_Section"
+                        subtype="Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">Die Orestie. Tragödie in drei Stücken aus dem Griechischen des
                      Aischylos. – Nach der Übersetzung Ullrich [!] v. Wilamowitz-Moellendorffs für
                      die moderne Bühne bearbeitet. – Zum ersten Male aufgeführt im Burgtheater am 6.
                      Dezember 1900</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
-            <imprint>
-               <pubPlace>München</pubPlace>
-               <publisher>Albert Langen</publisher>
-               <date when="1902">1902</date>
-               <biblScope unit="pages">33–40</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #336, 1–2.
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Premièren. Winter 1900 bis Sommer 1901</title>
+                  <imprint>
+                     <pubPlace>München</pubPlace>
+                     <publisher>Albert Langen</publisher>
+                     <date when="1902">1902</date>
+                     <biblScope unit="pages">33–40</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Österreichische Volks–Zeitung, 46 (1900) #336, 1–2.
                   (7.12.1900)</note>
-         <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
+               <note type="other-prints">H. B.: Kritiken. Hg. Kindermann. Wien: Bauer 1963,
                   265-271</note>
-         <note type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
+               <note type="incipit">Geht man, um das Wesen der Tragödie bei den Griechen zu
                   erkennen, zu ihren Anfängen hinauf, so scheint es eigentlich der Arzt gewesen zu
                   sein, der zuerst die Ordnung wilder dionysischer Schwärme zu regelmäßigen Festen
                   verlangt hat.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

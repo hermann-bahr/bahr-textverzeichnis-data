@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Hlupáček</title>
-            <title when-iso=""/>
+            <title type="iso-date">1909-06-27</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,37 +26,41 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1609"
-            type="Journal-Article"
-            subtype="Dichtung_Tschechisch_Nachdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Hlupáček</title>
-         </analytic>
-         <monogr>
-            <title level="j">Dělnická besídka. Nedělní příloha Práva lidu</title>
-            <imprint>
-               <biblScope unit="jg">18</biblScope>
-               <biblScope unit="pages">unpag. [2 Seiten]</biblScope>
-               <date when="1909-06-27">27.6.1909</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Übersetzung von František Kudláček</p>
-         </note>
-         <note type="other-prints">Als »Das Dummerl« in: Caph, 65-71</note>
-         <note type="incipit">V lese, nejhustším lese. Kolem tebe něžné borovice a hluboké,
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1609"
+                        type="Journal-Article"
+                        subtype="Dichtung_Tschechisch_Nachdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Hlupáček</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Dělnická besídka. Nedělní příloha Práva lidu</title>
+                  <imprint>
+                     <biblScope unit="jg">18</biblScope>
+                     <biblScope unit="pages">unpag. [2 Seiten]</biblScope>
+                     <date when="1909-06-27">27.6.1909</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Übersetzung von František Kudláček</p>
+               </note>
+               <note type="other-prints">Als »Das Dummerl« in: Caph, 65-71</note>
+               <note type="incipit">V lese, nejhustším lese. Kolem tebe něžné borovice a hluboké,
                   těžké smrky</note>
-         <note type="summary">Der Erzähler bummelt übers Land und trifft einen Mann, den
+               <note type="summary">Der Erzähler bummelt übers Land und trifft einen Mann, den
                   sogenannten »Tropf«</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#14959"/>
-               <ptr type="pmb" target="#25217"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/pravo-lidu/1909_hlupacek.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#14959"/>
+                     <ptr type="pmb" target="#25217"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/pravo-lidu/1909_hlupacek.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

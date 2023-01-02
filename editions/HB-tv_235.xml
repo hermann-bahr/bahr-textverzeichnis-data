@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">»Gaea«</title>
-            <title when-iso=""/>
+            <title type="iso-date">1893-02-09</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,29 +26,33 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_235" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">»Gaea«</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41471">Deutsche Zeitung</title>
-            <imprint>
-               <biblScope unit="jg">23</biblScope>
-               <biblScope unit="issue">7586, Morgen-Ausgabe</biblScope>
-               <biblScope unit="pages">1–2</biblScope>
-               <date when="1893-02-09">9.2.1893</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Vgl. 4. Nov. 1892, S. 6 und 19. Jan. 1893, S. 5</p>
-         </note>
-         <note type="review-of">Adalbert Goldschmidt, französisch von Catulle Mendès, in
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_235" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">»Gaea«</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41471">Deutsche Zeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">23</biblScope>
+                     <biblScope unit="issue">7586, Morgen-Ausgabe</biblScope>
+                     <biblScope unit="pages">1–2</biblScope>
+                     <date when="1893-02-09">9.2.1893</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Vgl. 4. Nov. 1892, S. 6 und 19. Jan. 1893, S. 5</p>
+               </note>
+               <note type="review-of">Adalbert Goldschmidt, französisch von Catulle Mendès, in
                   Berlin von Emanuel Reicher gelesen</note>
-         <note type="incipit">Die »Gaea« des Adalbert v. Goldschmidt wird jetzt von Catullle
+               <note type="incipit">Die »Gaea« des Adalbert v. Goldschmidt wird jetzt von Catullle
                   Mendès übersetzt.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75861.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75862.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75861.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/deutsche-zeitung/75862.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

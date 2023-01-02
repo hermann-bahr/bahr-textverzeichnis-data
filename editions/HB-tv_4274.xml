@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Erinnerungen. XXIV</title>
-            <title when-iso=""/>
+            <title type="iso-date">1923-06-09</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4274"
-            type="Journal-Article"
-            subtype="Vorabdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Erinnerungen. XXIV</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4274"
+                        type="Journal-Article"
+                        subtype="Vorabdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Erinnerungen. XXIV</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#43848">Das Neue Reich. Wochenschrift für Kultur, Politik
                      und Volkswirtschaft</title>
-            <imprint>
-               <biblScope unit="jg">5</biblScope>
-               <biblScope unit="issue">36</biblScope>
-               <biblScope unit="pages">792–794</biblScope>
-               <date when="1923-06-09">9.6.1923</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Die neue Rundschau, 34 (1923) #6, 510–523. Als »Hermann
+                  <imprint>
+                     <biblScope unit="jg">5</biblScope>
+                     <biblScope unit="issue">36</biblScope>
+                     <biblScope unit="pages">792–794</biblScope>
+                     <date when="1923-06-09">9.6.1923</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Die neue Rundschau, 34 (1923) #6, 510–523. Als »Hermann
                   Bahrs Selbstbildnis« in: Frankfurter Zeitung, 67 (1923) #424, 1. Morgenblatt, 1–2.
                   (12.6.1923)</note>
-         <note type="other-prints">Selbstbildnis, 283-293 (Kapitel 24, 1. Teil)</note>
-         <note type="incipit">Ich frage mich immer wieder zuweilen, ob es nicht doch
+               <note type="other-prints">Selbstbildnis, 283-293 (Kapitel 24, 1. Teil)</note>
+               <note type="incipit">Ich frage mich immer wieder zuweilen, ob es nicht doch
                   gescheiter</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

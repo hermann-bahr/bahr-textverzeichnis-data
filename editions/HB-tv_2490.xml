@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1895-02-23</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,37 +26,41 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2490"
-            type="Journal-Article"
-            subtype="Nachtkritik"
-            status="checked">
-         <analytic>
-            <author ref="#10815">H. B.</author>
-            <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#36340">Die Zeit</title>
-            <imprint>
-               <biblScope unit="jg">2</biblScope>
-               <biblScope unit="issue">21</biblScope>
-               <biblScope unit="pages">125</biblScope>
-               <date when="1895-02-23">23.2.1895</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Das Schloßkind« von Bruno Köhler</note>
-         <note type="incipit">Die letzte Novität des Deutschen Volkstheaters, das
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2490"
+                        type="Journal-Article"
+                        subtype="Nachtkritik"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">H. B.</author>
+                  <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#36340">Die Zeit</title>
+                  <imprint>
+                     <biblScope unit="jg">2</biblScope>
+                     <biblScope unit="issue">21</biblScope>
+                     <biblScope unit="pages">125</biblScope>
+                     <date when="1895-02-23">23.2.1895</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Das Schloßkind« von Bruno Köhler</note>
+               <note type="incipit">Die letzte Novität des Deutschen Volkstheaters, das
                   »Schloßkind«, von einem Herrn Bruno Köhler</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#19923"/>
-               <ptr type="pmb" target="#10752"/>
-               <ptr type="pmb" target="#12355"/>
-               <ptr type="pmb" target="#11848"/>
-               <ptr type="HB-tv" target="HB-tv_2490_p1"/>
-               <ptr type="HB-tv" target="HB-tv_4645_p4"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/21-125.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#19923"/>
+                     <ptr type="pmb" target="#10752"/>
+                     <ptr type="pmb" target="#12355"/>
+                     <ptr type="pmb" target="#11848"/>
+                     <ptr type="HB-tv" target="HB-tv_2490_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_4645_p4"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/21-125.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

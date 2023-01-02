@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Die Steuern und der Bürger</title>
-            <title when-iso=""/>
+            <title type="iso-date">1921-03-30</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,31 +26,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4883" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Die Steuern und der Bürger</title>
-         </analytic>
-         <monogr>
-            <title level="j">Leipziger Tageblatt und Handelszeitung</title>
-            <imprint>
-               <biblScope unit="jg">115</biblScope>
-               <biblScope unit="issue">151, Morgenausgabe</biblScope>
-               <biblScope unit="pages">2</biblScope>
-               <date when="1921-03-30">30.3.1921</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Als »Ich soll Steuern zahlen« in: Tilsiter Allgemeine
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4883" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Die Steuern und der Bürger</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Leipziger Tageblatt und Handelszeitung</title>
+                  <imprint>
+                     <biblScope unit="jg">115</biblScope>
+                     <biblScope unit="issue">151, Morgenausgabe</biblScope>
+                     <biblScope unit="pages">2</biblScope>
+                     <date when="1921-03-30">30.3.1921</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Als »Ich soll Steuern zahlen« in: Tilsiter Allgemeine
                   Zeitung, (1921) #13, 1–2 ? (26.3.1921) Nürnberger Zeitung, (1921) #71, 4.
                   (26.3.1921) Dresdner Neueste Nachrichten, 29 (1921) #72, Osterbeilage, 20.
                   (27.3.1921) Rostocker Zeitung, 211 (1921) #72, 3. (29.3.1921) Neue Badische
                   Landeszeitung, 31.3.1921 Bonner Anzeiger, 31 (1921) #10977, 2. (1.4.1921) Dresdner
                   Nachrichten, 65 (1921) #155, 4. (3.4.1921) Hamburger Nachrichten, 130 (1921) #168
                   (84B), Abend–Ausgabe, 2. (12.4.1921)</note>
-         <note type="other-prints">Mit geringfügigen Änderungen: Als Tagebuch »2. März« In:
+               <note type="other-prints">Mit geringfügigen Änderungen: Als Tagebuch »2. März« In:
                   Liebe der Lebenden, I, 88-90</note>
-         <note type="incipit">Eine Zuschrift der Steuerverwaltung tadelt mich</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/leipziger-tageblatt/1921_steuern.pdf</ref>
+               <note type="incipit">Eine Zuschrift der Steuerverwaltung tadelt mich</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/leipziger-tageblatt/1921_steuern.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

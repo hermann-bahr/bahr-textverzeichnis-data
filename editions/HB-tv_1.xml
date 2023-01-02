@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Miscellen. (Gedanken vor einer Ruine)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1884-03-22</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_1"
-            type="Journal-Article"
-            subtype="Zweifelhafte_Zuschreibung"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Herman</author>
-            <title level="a">Miscellen. (Gedanken vor einer Ruine)</title>
-         </analytic>
-         <monogr>
-            <title level="j">Deutsche Wochenschrift</title>
-            <imprint>
-               <biblScope unit="jg">2</biblScope>
-               <biblScope unit="issue">12</biblScope>
-               <biblScope unit="pages">7–8</biblScope>
-               <date when="1884-03-22">22.3.1884</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Die kleine literarische Vignette beschreibt sehr poetisch den Abriss des
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_1"
+                        type="Journal-Article"
+                        subtype="Zweifelhafte_Zuschreibung"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Herman</author>
+                  <title level="a">Miscellen. (Gedanken vor einer Ruine)</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Deutsche Wochenschrift</title>
+                  <imprint>
+                     <biblScope unit="jg">2</biblScope>
+                     <biblScope unit="issue">12</biblScope>
+                     <biblScope unit="pages">7–8</biblScope>
+                     <date when="1884-03-22">22.3.1884</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Die kleine literarische Vignette beschreibt sehr poetisch den Abriss des
                      ehemaligen Wohnhauses des Volksvertreter am Schottenring. Hermann [sic!]
                      Nimmervoll vermutet in seiner Hausarbeit (S. 16), dass es sich bei dem »Herman«
                      gezeichneten Text um den ersten Text Bahrs in der »Wochenschrift« handeln
@@ -59,9 +56,11 @@
                      Verfasser ausschließen: »Du weißt des Daches aufragende Balken zu deuten: sehen
                      sie sich doch an wie starr gefaltete Hände, die kummervoll zum Himmel sich
                      recken … um zu beten …«</p>
-         </note>
-         <note type="incipit">Hei, wie sich der warme Frühlingswind um die kahlen Mauern
+               </note>
+               <note type="incipit">Hei, wie sich der warme Frühlingswind um die kahlen Mauern
                   tummelt</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

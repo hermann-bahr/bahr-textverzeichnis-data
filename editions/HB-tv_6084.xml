@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 28. Oktober</title>
-            <title when-iso=""/>
+            <title type="iso-date">1920-11-14</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_6084"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 28. Oktober</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">9708</biblScope>
-               <biblScope unit="pages">5–6</biblScope>
-               <date when="1920-11-14">14.11.1920</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Ludwig Anzengruber in fünfzehn Bänden im Kunstverlag Anton
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_6084"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 28. Oktober</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">9708</biblScope>
+                     <biblScope unit="pages">5–6</biblScope>
+                     <date when="1920-11-14">14.11.1920</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Ludwig Anzengruber in fünfzehn Bänden im Kunstverlag Anton
                   Schroll</note>
-         <note type="other-prints">Kritik der Gegenwart, 249-253</note>
-         <note type="incipit">Der Kunstverlag Anton Schroll in Wien bringt jetzt den ganzen
+               <note type="other-prints">Kritik der Gegenwart, 249-253</note>
+               <note type="incipit">Der Kunstverlag Anton Schroll in Wien bringt jetzt den ganzen
                   Anzengruber in fünfzehn Bänden, unter Mitwirkung seines Sohnes, herausgegeben von
                   Dr. Rudolf Latzke und Dr. Otto Rommel. Zunächst sind zwei Bände »Dorfgeschichten«,
                   ein Band »Vorstadtgeschichten« und, zum erstenmal, der »Dramatische Nachlaß«
@@ -170,11 +167,13 @@
                   vielleicht anläßlich dieser höchst dankenswerten Ausgabe Schrolls, zu revidieren
                   sein, wieviel von Anzengrubers Ruhm sein gutes Eigentum ist und wieviel auch davon
                   bloß Stammtischlerei. |</note>
-         <note type="summary">Bahr ist sich seines Verhältnisses zu Anzengruber noch immer
+               <note type="summary">Bahr ist sich seines Verhältnisses zu Anzengruber noch immer
                   nicht im Klaren: Unberührt von Zeitgenossen wie Nietzsche, von tieferen Problemen
                   der Gegenwart, sieht er Anzengruber zwischen Kolportageroman und Shakespeare
                   oszillieren. Die neue Ausgabe seiner Werke lässt das nun erkunden.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

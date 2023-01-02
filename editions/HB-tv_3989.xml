@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">In Adolf Wagners Seminar</title>
-            <title when-iso=""/>
+            <title type="iso-date">1923-07-03</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,31 +26,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3989"
-            type="Journal-Article"
-            subtype="Nachdruck"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">In Adolf Wagners Seminar</title>
-         </analytic>
-         <monogr>
-            <title level="j">Vossische Zeitung</title>
-            <imprint>
-               <biblScope unit="issue">309, Morgen-Ausgabe</biblScope>
-               <biblScope unit="pages">2–3</biblScope>
-               <date when="1923-07-03">3.7.1923</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Editorische Einleitung: »Hermann Bahrs, des Sechzigjährigen ’Selbstbildnis«
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3989"
+                        type="Journal-Article"
+                        subtype="Nachdruck"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">In Adolf Wagners Seminar</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Vossische Zeitung</title>
+                  <imprint>
+                     <biblScope unit="issue">309, Morgen-Ausgabe</biblScope>
+                     <biblScope unit="pages">2–3</biblScope>
+                     <date when="1923-07-03">3.7.1923</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Editorische Einleitung: »Hermann Bahrs, des Sechzigjährigen ’Selbstbildnis«
                      erscheint soeben bei S. Fischer, Berlin. Der Schilderung der Berliner
                      Studentenzeit gehören die folgenden Abschnitte an:«</p>
-         </note>
-         <note type="other-prints">Selbstbildnis</note>
-         <note type="incipit">Ich war (1884) nach Berlin gegangen, um Nationalökonomie zu
+               </note>
+               <note type="other-prints">Selbstbildnis</note>
+               <note type="incipit">Ich war (1884) nach Berlin gegangen, um Nationalökonomie zu
                   studieren</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1923_seminar.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/vossische-zeitung/1923_seminar.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

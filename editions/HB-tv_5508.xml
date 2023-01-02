@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">3. Februar [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5508"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">3. Februar [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">50–55</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Ethel Smyth: Impressions that remained. Memoirs. London:
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5508"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">3. Februar [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">50–55</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Ethel Smyth: Impressions that remained. Memoirs. London:
                   Longmans Green 1919.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Seit Jahren ist mir heut zum erstenmale wieder passiert, daß
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Seit Jahren ist mir heut zum erstenmale wieder passiert, daß
                   mich ein Buch einfach nicht mehr ausließ und ich nicht los konnte, bis ich durch
                   die zwei dicken Bände durch und indessen der glitzernde Wintertag erloschen war:
                   so jung hat mich unsere liebe Ethel Smyth mit ihren Erinnerungen gemacht,
@@ -189,7 +186,9 @@
                   Urväterweisheit von Polarität, Indifferenz und Docta Ignorantia, an Laotse, Walt
                   Whitman und Friedländer! Hab ich jetzt erst lesen gelernt? Oder ist’s, weil jetzt
                   Ethel Smyth dem Gedruckten die Stimme des Lebens souffliert? |</note>
-         <note type="summary">Bahr über die von ihm sehr bewunderte Ethel Smyth.</note>
+               <note type="summary">Bahr über die von ihm sehr bewunderte Ethel Smyth.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

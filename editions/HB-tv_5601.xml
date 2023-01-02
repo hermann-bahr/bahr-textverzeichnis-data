@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">1. Dezember [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,27 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5601"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">1. Dezember [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">289–291</biblScope>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Grillparzer als Prophet: Sie regen sich, doch immerdar im Kreis.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5601"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">1. Dezember [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">289–291</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Grillparzer als Prophet: Sie regen sich, doch immerdar im Kreis.
                   Die Zeit hat keine Männer, Freund wie Feind. --------------------- Der Reichsfürst
                   will sich lösen von dem Reich, Dann kommt der Adel und bekämpft die Fürsten; Den
                   gibt die Not, die Tochter der Verschwendung, Drauf in des Bürgers Hand, des
@@ -97,9 +94,11 @@
                   an sich selbst, Und einmal Ehrfurcht in sich selbst gespalten, Lebt sie als
                   Ehrsucht nur noch und als Furcht. Maßt euch nicht an, zu deuteln Gottes Wahrheit.
                   |</note>
-         <note type="summary">Ein Zitat Grillparzers lässt sich wohl im letzten Vers als
+               <note type="summary">Ein Zitat Grillparzers lässt sich wohl im letzten Vers als
                   Zusammenfassung von Bahrs Intention verstehen: »Maßt euch nicht an, zu deuteln
                   Gottes Wahrheit.«</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

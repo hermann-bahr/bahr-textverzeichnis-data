@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Tagebuch. 10. Dezember</title>
-            <title when-iso=""/>
+            <title type="iso-date">1919-12-28</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5977"
-            type="Journal-Article"
-            subtype="Tagebuch"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Tagebuch. 10. Dezember</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="36376">Neues Wiener Journal</title>
-            <imprint>
-               <biblScope unit="jg">27</biblScope>
-               <biblScope unit="issue">9391</biblScope>
-               <biblScope unit="pages">6–7</biblScope>
-               <date when="1919-12-28">28.12.1919</date>
-            </imprint>
-         </monogr>
-         <note type="review-of">Thomas Mann: Herr und Hund. Gesang vom Kindchen. Zwei Idyllen.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5977"
+                        type="Journal-Article"
+                        subtype="Tagebuch"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Tagebuch. 10. Dezember</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="36376">Neues Wiener Journal</title>
+                  <imprint>
+                     <biblScope unit="jg">27</biblScope>
+                     <biblScope unit="issue">9391</biblScope>
+                     <biblScope unit="pages">6–7</biblScope>
+                     <date when="1919-12-28">28.12.1919</date>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Thomas Mann: Herr und Hund. Gesang vom Kindchen. Zwei Idyllen.
                   Berlin: S. Fischer 1919.</note>
-         <note type="other-prints">Kritik der Gegenwart, 17-22</note>
-         <note type="incipit">Auf meinen Glückwunsch zum Sechziger schrieb mir Karl Kautsky
+               <note type="other-prints">Kritik der Gegenwart, 17-22</note>
+               <note type="incipit">Auf meinen Glückwunsch zum Sechziger schrieb mir Karl Kautsky
                   neulich, unserer Jugendzeit nachsinnend: »Jeder von uns gedachte damals den Himmel
                   zu stürmen ... Wir haben ihn nicht erstürmt, aber aus den Wolken sind wir doch
                   auch nicht gefallen.« Dieser Satz, in seiner guten Mischung von Resignation und
@@ -179,9 +176,11 @@
                   Macht und Ruhm und Lohn? Der Deutsche hat in sich selber Welt genug, um jede
                   äußere entbehren zu können! Hört den Gesang vom Kindchen, da klingt das alte
                   heilige Deutschland wieder, das unsterbliche! |</note>
-         <note type="summary">Die Generation von 1880 bis 1920 habe zwar Vorzeigbares
+               <note type="summary">Die Generation von 1880 bis 1920 habe zwar Vorzeigbares
                   geleistet, aber nicht unbedingt das, was sie zu leisten vorhatte.</note>
-         <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+               <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +8,7 @@
                      Li-King-Tao, für die deutsche Bühne frei bearbeitet und eingerichtet von
                      Heinrich Kadelburg. Zum ersten Mal aufgeführt am Volkstheaterabend im Ronacher
                      den 20. März 1897)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1897-03-27</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -34,39 +29,43 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_410" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Hoei-lan-ki. (Der Kreidekreis, ein chinesisches Drama von
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_410" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Hoei-lan-ki. (Der Kreidekreis, ein chinesisches Drama von
                      Li-King-Tao, für die deutsche Bühne frei bearbeitet und eingerichtet von
                      Heinrich Kadelburg. Zum ersten Mal aufgeführt am Volkstheaterabend im Ronacher
                      den 20. März 1897)</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#36340">Die Zeit</title>
-            <imprint>
-               <biblScope unit="jg">10</biblScope>
-               <biblScope unit="issue">130</biblScope>
-               <biblScope unit="pages">203–204</biblScope>
-               <date when="1897-03-27">27.3.1897</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Wiener Theater, 365-372</note>
-         <note type="incipit">Am Volkstheaterabend wurde uns neulich ein altes chinesisches
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#36340">Die Zeit</title>
+                  <imprint>
+                     <biblScope unit="jg">10</biblScope>
+                     <biblScope unit="issue">130</biblScope>
+                     <biblScope unit="pages">203–204</biblScope>
+                     <date when="1897-03-27">27.3.1897</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Wiener Theater, 365-372</note>
+               <note type="incipit">Am Volkstheaterabend wurde uns neulich ein altes chinesisches
                   Stück vorgespielt.</note>
-         <note type="summary">Bahr kritisiert das Publikum und lobt die Technik, dass
+               <note type="summary">Bahr kritisiert das Publikum und lobt die Technik, dass
                   Schauspieler zu Beginn ihres Auftritts an der Rampe ihre Rolle vorstellen.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#11848"/>
-               <ptr type="pmb" target="#11093"/>
-               <ptr type="pmb" target="#24335"/>
-               <ptr type="pmb" target="#26531"/>
-               <ptr type="pmb" target="#2412"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-203.pdf</ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-204.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#11848"/>
+                     <ptr type="pmb" target="#11093"/>
+                     <ptr type="pmb" target="#24335"/>
+                     <ptr type="pmb" target="#26531"/>
+                     <ptr type="pmb" target="#2412"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-203.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1897-10/130-204.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

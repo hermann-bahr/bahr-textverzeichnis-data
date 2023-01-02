@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">14. September [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5578"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">14. September [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">222–225</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Adrien Turel: Jedermanns Recht auf Genialität in: Erhebung.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5578"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">14. September [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">222–225</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Adrien Turel: Jedermanns Recht auf Genialität in: Erhebung.
                   Hg. Alfred Wolfenstein. Berlin: S. Fischer, 2. Buch</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Im zweiten Buch der von Alfred Wolfenstein bei S. Fischer
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Im zweiten Buch der von Alfred Wolfenstein bei S. Fischer
                   herausgegebenen »Erhebung«, ein mir höchst willkommener Aufsatz Adrien Turels über
                   »Jedermanns Recht auf Genialität«. Da mag mancher schon bei der Überschrift
                   auflachen, besonders wer sich selbst ein »Genie« und über die Masse der profanen
@@ -145,9 +142,11 @@
                   besondere Kraft und Fülle ihres Geisteslebens erkläre sich nur aus der
                   Lebendigkeit und Fruchtbarkeit ihrer sinnlichen Vermögen und aus ihrer
                   körperlichen Vortrefflichkeit«. |</note>
-         <note type="summary">Bahrs Geniebegriff ist nicht ein biologischer, sondern er
+               <note type="summary">Bahrs Geniebegriff ist nicht ein biologischer, sondern er
                   versteht den Mensch als Sprachrohr Gottes (des Genius). Trotzdem zweifelt er an
                   der Möglichkeit einer Demokratisierung von Genialität.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

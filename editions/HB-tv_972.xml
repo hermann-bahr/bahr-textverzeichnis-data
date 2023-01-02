@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Gegen den Materialismus</title>
-            <title when-iso=""/>
+            <title type="iso-date">1891-12-13</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,30 +26,34 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_972" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Gegen den Materialismus</title>
-         </analytic>
-         <monogr>
-            <title level="j">Die Welt. Tages-Zeitung für den Salon und die gesellschaftlichen
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_972" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Gegen den Materialismus</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Die Welt. Tages-Zeitung für den Salon und die gesellschaftlichen
                      Interessen</title>
-            <imprint>
-               <biblScope unit="jg">1</biblScope>
-               <biblScope unit="issue">67</biblScope>
-               <biblScope unit="pages">2</biblScope>
-               <date when="1891-12-13">13.12.1891</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Auf Karl du Prel ging in der »Welt« am 10. 12. schon Conrad Alberti ein (#64,
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">67</biblScope>
+                     <biblScope unit="pages">2</biblScope>
+                     <date when="1891-12-13">13.12.1891</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Auf Karl du Prel ging in der »Welt« am 10. 12. schon Conrad Alberti ein (#64,
                      1-2), in der Fortführung schreibt Leo Berg in zwei Teilen über »Die Romantik
                      der Moderne« und widmet den zweiten fast zur Gänze Bahr und dessen »Russische
                      Reise« und »Die Überwindung des Naturalismus« – #69, 2-3 und #70, 2. (16. und
                      17.12.1891).</p>
-         </note>
-         <note type="incipit">Durch fünfzig Jahre etwa ist das Denken</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/welt/1891_materialismus.pdf</ref>
+               </note>
+               <note type="incipit">Durch fünfzig Jahre etwa ist das Denken</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/welt/1891_materialismus.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

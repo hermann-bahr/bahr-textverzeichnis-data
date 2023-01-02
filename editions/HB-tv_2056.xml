@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Reinhold Siegrist</title>
-            <title when-iso=""/>
+            <title type="iso-date">1928-05-14</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,25 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2056" type="Journal-Article" status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Reinhold Siegrist</title>
-         </analytic>
-         <monogr>
-            <title level="j">Blätter des Stadttheaters Bonn</title>
-            <imprint>
-               <biblScope unit="jg">4</biblScope>
-               <biblScope unit="issue">13</biblScope>
-               <biblScope unit="pages">103</biblScope>
-               <date when="1928-05-14">14.5.1928</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Ausschnitt von »Tagebuch. 6. März« in: Neues Wiener
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2056" type="Journal-Article" status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Reinhold Siegrist</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Blätter des Stadttheaters Bonn</title>
+                  <imprint>
+                     <biblScope unit="jg">4</biblScope>
+                     <biblScope unit="issue">13</biblScope>
+                     <biblScope unit="pages">103</biblScope>
+                     <date when="1928-05-14">14.5.1928</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Ausschnitt von »Tagebuch. 6. März« in: Neues Wiener
                   Journal, 36 (1928) #12327, 8. (18.3.1928)</note>
-         <note type="other-prints">Als »Geleitwort« in: Siegrist: Cromwell, 87 Als »Siegrist«
+               <note type="other-prints">Als »Geleitwort« in: Siegrist: Cromwell, 87 Als »Siegrist«
                   in: Labyrinth der Gegenwart, 58</note>
-         <note type="incipit">Unter den jungen deutschen Dichtern</note>
+               <note type="incipit">Unter den jungen deutschen Dichtern</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

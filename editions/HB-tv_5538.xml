@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">27. Mai [1920]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,29 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5538"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">27. Mai [1920]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">139–142</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">Raoul Heinrich Francé: München. Die Lebensgesetze einer Stadt.
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5538"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">27. Mai [1920]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">139–142</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">Raoul Heinrich Francé: München. Die Lebensgesetze einer Stadt.
                   München: Bruckmann, 1920.</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">Als Wilhelm Scherer, der Unvergeßliche, mit Ottokar Lorenz
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">Als Wilhelm Scherer, der Unvergeßliche, mit Ottokar Lorenz
                   zusammen eine Geschichte des Elsasses schrieb, nahm er sich vor, darin einmal »die
                   Schicksale eines bestimmten Landstrichs darzustellen wie die allseitige Entfaltung
                   einer Persönlichkeit, eines Individuums«. Das ist jetzt bald fünfzig Jahre her und
@@ -133,8 +130,10 @@
                   nur andeutet mit einer Gebärde, die den Faust ausrufen läßt: »Pfui über dich!«
                   Aber zur lebendigen Tat dieser Harmonie kann ich mir freilich einen schöneren Weg
                   nicht leicht denken als durch diesen sternenhellen Münchener Roman. |</note>
-         <note type="summary">Mit Francés München-Biographie findet Bahr eine neue
+               <note type="summary">Mit Francés München-Biographie findet Bahr eine neue
                   Kulturwissenschaft begründet.</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

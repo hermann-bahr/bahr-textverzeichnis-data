@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Wie Freundschaft entsteht. Eine moderne Novelle</title>
-            <title when-iso=""/>
+            <title type="iso-date">1894-03-11</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,30 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4525"
-            type="Journal-Article"
-            subtype="Dichtung"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Wie Freundschaft entsteht. Eine moderne Novelle</title>
-         </analytic>
-         <monogr>
-            <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
-            <imprint>
-               <biblScope unit="jg">28</biblScope>
-               <biblScope unit="issue">68</biblScope>
-               <biblScope unit="pages">17</biblScope>
-               <date when="1894-03-11">11.3.1894</date>
-            </imprint>
-         </monogr>
-         <note type="other-prints">Als »Freundschaft« in: Caph, 127–135.</note>
-         <note type="incipit">Es ging ihr, wie den Andern.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwt/1894_freundschaft.pdf</ref>
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4525"
+                        type="Journal-Article"
+                        subtype="Dichtung"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Wie Freundschaft entsteht. Eine moderne Novelle</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="#41321">Neues Wiener Tagblatt</title>
+                  <imprint>
+                     <biblScope unit="jg">28</biblScope>
+                     <biblScope unit="issue">68</biblScope>
+                     <biblScope unit="pages">17</biblScope>
+                     <date when="1894-03-11">11.3.1894</date>
+                  </imprint>
+               </monogr>
+               <note type="other-prints">Als »Freundschaft« in: Caph, 127–135.</note>
+               <note type="incipit">Es ging ihr, wie den Andern.</note>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwt/1894_freundschaft.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

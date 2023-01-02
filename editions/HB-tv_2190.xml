@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Brief an I. Franko, Wien 10. Juni 1897</title>
-            <title when-iso=""/>
+            <title type="iso-date">1963</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,24 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_2190" type="Book_Section" status="checked">
-         <analytic>
-            <title level="a">Brief an I. Franko, Wien 10. Juni 1897</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Beiträge zur Geschichte und Kultur der Ukraine. Ausgewählte
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_2190" type="Book_Section" status="checked">
+               <analytic>
+                  <title level="a">Brief an I. Franko, Wien 10. Juni 1897</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Beiträge zur Geschichte und Kultur der Ukraine. Ausgewählte
                      deutsche Schriften des revolutionären Demokraten 1882–1915</title>
-            <editor>Winter, E.</editor>
-            <editor>Kirchner, P.</editor>
-            <imprint>
-               <pubPlace>Berlin</pubPlace>
-               <publisher>Akademie-Verlag</publisher>
-               <date when="1963">1963</date>
-               <biblScope unit="pages">470</biblScope>
-            </imprint>
-         </monogr>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1963_franko-beitraege.pdf</ref>
+                  <editor>Winter, E.</editor>
+                  <editor>Kirchner, P.</editor>
+                  <imprint>
+                     <pubPlace>Berlin</pubPlace>
+                     <publisher>Akademie-Verlag</publisher>
+                     <date when="1963">1963</date>
+                     <biblScope unit="pages">470</biblScope>
+                  </imprint>
+               </monogr>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/buchbeitraege/1963_franko-beitraege.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

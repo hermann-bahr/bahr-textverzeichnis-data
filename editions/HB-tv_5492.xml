@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">26. Dezember [1919]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1922</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,26 +26,28 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_5492"
-            type="Book_Section"
-            subtype="Tagebuch_Buchtext"
-            status="checked">
-         <analytic>
-            <title level="a">26. Dezember [1919]</title>
-            <author ref="#10815">Bahr, Hermann</author>
-         </analytic>
-         <monogr>
-            <title level="m">Kritik der Gegenwart</title>
-            <imprint>
-               <pubPlace>Augsburg</pubPlace>
-               <publisher>Haas &amp; Grabherr</publisher>
-               <date when="1922">1922</date>
-               <biblScope unit="pages">23–24</biblScope>
-            </imprint>
-         </monogr>
-         <note type="review-of">»Der Jüngling« von Fjodor Michailowitsch Dostojewskij</note>
-         <note type="first-printing">Neues Wiener Journal</note>
-         <note type="incipit">»Mein Freund, die Menschen so zu lieben, wie sie sind, ist
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_5492"
+                        type="Book_Section"
+                        subtype="Tagebuch_Buchtext"
+                        status="checked">
+               <analytic>
+                  <title level="a">26. Dezember [1919]</title>
+                  <author ref="#10815">Bahr, Hermann</author>
+               </analytic>
+               <monogr>
+                  <title level="m">Kritik der Gegenwart</title>
+                  <imprint>
+                     <pubPlace>Augsburg</pubPlace>
+                     <publisher>Haas &amp; Grabherr</publisher>
+                     <date when="1922">1922</date>
+                     <biblScope unit="pages">23–24</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="review-of">»Der Jüngling« von Fjodor Michailowitsch Dostojewskij</note>
+               <note type="first-printing">Neues Wiener Journal</note>
+               <note type="incipit">»Mein Freund, die Menschen so zu lieben, wie sie sind, ist
                   unmöglich. Und doch soll man es nun einmal. Deshalb verbeiße deine Gefühle, wenn
                   du ihnen Gutes tun willst, halte dir die Nase zu und schließe die Augen.«
                   Dostojewski im »Jüngling« (Siebenter Band der sämtlichen Werke in der deutschen
@@ -87,8 +84,10 @@
                   hat, aus dem Zufälligen wieder ins Notwendige zurückzufinden. Ist in Europa noch
                   ein Volk, das sich wieder auf das Geheimnis seines eingebornen inneren Wachsens zu
                   besinnen weiß? |</note>
-         <note type="summary">Bei Dostojewskij findet Bahr die Grundfragen des Abendlands
+               <note type="summary">Bei Dostojewskij findet Bahr die Grundfragen des Abendlands
                   ausformuliert</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">His Beautiful Wife. [Die schöne Frau]</title>
-            <title when-iso=""/>
+            <title type="iso-date">1916</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,31 +26,35 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_3581"
-            type="Journal-Article"
-            subtype="Dichtung_Amerikanisch_Übersetzung"
-            status="checked">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">His Beautiful Wife. [Die schöne Frau]</title>
-         </analytic>
-         <monogr>
-            <title level="j">Pearson’s Magazine, New York</title>
-            <imprint>
-               <biblScope unit="jg">36</biblScope>
-               <biblScope unit="issue">6, Dezember</biblScope>
-               <biblScope unit="pages">508–511</biblScope>
-               <date when="1916">1916</date>
-            </imprint>
-         </monogr>
-         <note type="first-printing">Als »Die schöne Frau« in: Die Zeit, 11 (1897) #131, 15–16
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_3581"
+                        type="Journal-Article"
+                        subtype="Dichtung_Amerikanisch_Übersetzung"
+                        status="checked">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">His Beautiful Wife. [Die schöne Frau]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Pearson’s Magazine, New York</title>
+                  <imprint>
+                     <biblScope unit="jg">36</biblScope>
+                     <biblScope unit="issue">6, Dezember</biblScope>
+                     <biblScope unit="pages">508–511</biblScope>
+                     <date when="1916">1916</date>
+                  </imprint>
+               </monogr>
+               <note type="first-printing">Als »Die schöne Frau« in: Die Zeit, 11 (1897) #131, 15–16
                   Golden Book Magazine, 8 (1930), 90–93</note>
-         <note type="other-prints">Die schöne Frau. Berlin: S. Fischer, 9-29. Die schöne Frau.
+               <note type="other-prints">Die schöne Frau. Berlin: S. Fischer, 9-29. Die schöne Frau.
                   Leipzig: Reclam 1924, 3–12. Selected Austrian Short Stories. Oxford 1928,
                   280-290.</note>
-         <note type="incipit">The other day I met my dear old friend Paul Dorn on the
+               <note type="incipit">The other day I met my dear old friend Paul Dorn on the
                   street.</note>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/pearsons-magazine/1916_wife.pdf</ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/pearsons-magazine/1916_wife.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

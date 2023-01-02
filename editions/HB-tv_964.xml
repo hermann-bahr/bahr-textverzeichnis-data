@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Frau Wahrheit und ihr Kurator</title>
-            <title when-iso=""/>
+            <title type="iso-date">1924-01-01</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,27 +26,31 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_964" type="Journal-Article">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Frau Wahrheit und ihr Kurator</title>
-         </analytic>
-         <monogr>
-            <title level="j">Unbekannte Zeitung</title>
-            <imprint>
-               <date when="1924-01-01">1.1.1924</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Dieser dritte Abdruck ist im Nachlass aufbewahrt und lässt sich aufgrund einer
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_964" type="Journal-Article">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Frau Wahrheit und ihr Kurator</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Unbekannte Zeitung</title>
+                  <imprint>
+                     <date when="1924-01-01">1.1.1924</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Dieser dritte Abdruck ist im Nachlass aufbewahrt und lässt sich aufgrund einer
                      rückseitigen Meldung aus Paris (Kommuniqué von General Degoutte über das
                      Ruhrgebiet, Paris 29. Dezember) auf den 30. oder 31. Dezember 1923
                      datieren.</p>
-         </note>
-         <note type="first-printing">Neue Freie Presse, (1923) #21295, Beilage, 31.
+               </note>
+               <note type="first-printing">Neue Freie Presse, (1923) #21295, Beilage, 31.
                   (23.12.1923) Berliner Börsen–Courier, 56 (1923) #609, Morgen–Ausgabe, 1. Beilage,
                   5. (30.12.1923)</note>
-         <note type="incipit">Die Klagen über Frau Wahrheit</note>
+               <note type="incipit">Die Klagen über Frau Wahrheit</note>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>

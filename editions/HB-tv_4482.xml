@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:foo="whatever"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
             <title level="a">Mussolini und der Papst. (Die Weihe des Führers)</title>
-            <title when-iso=""/>
+            <title type="iso-date">1929-03-30</title>
             <respStmt>
                <resp>providing the content</resp>
                <name>Martin Anton Müller</name>
@@ -31,21 +26,23 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="HB-tv_4482" type="Journal-Article" status="notLocated">
-         <analytic>
-            <author ref="#10815">Bahr, Hermann</author>
-            <title level="a">Mussolini und der Papst. (Die Weihe des Führers)</title>
-         </analytic>
-         <monogr>
-            <title level="j">Illustrierter Beobachter</title>
-            <imprint>
-               <biblScope unit="jg">5</biblScope>
-               <biblScope unit="issue">13</biblScope>
-               <date when="1929-03-30">30.3.1929</date>
-            </imprint>
-         </monogr>
-         <note>
-            <p>Die editorische Einleitung beginnt: »Aus Kreisen der nationalempfindenden
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="HB-tv_4482" type="Journal-Article" status="notLocated">
+               <analytic>
+                  <author ref="#10815">Bahr, Hermann</author>
+                  <title level="a">Mussolini und der Papst. (Die Weihe des Führers)</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Illustrierter Beobachter</title>
+                  <imprint>
+                     <biblScope unit="jg">5</biblScope>
+                     <biblScope unit="issue">13</biblScope>
+                     <date when="1929-03-30">30.3.1929</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Die editorische Einleitung beginnt: »Aus Kreisen der nationalempfindenden
                      katholischen Welt geht uns folgender, höchst beachtlicher Beitrag des weithin
                      bekannten Schriftstellers Hermann Bahr über die jüngsten Entwicklungen in
                      Italien zu.« In Folge kündigt die Einleitung auch ein Aufsatz eines
@@ -59,32 +56,34 @@
                      wenngleich die Schrifttype durchaus einen Druck bei Eher in München
                      wahrscheinlich macht. Möglicherweise handelt es sich um einen Text einer nicht
                      überlieferten Osterbeilage (31. März 1929) des Völkischen Beobachters?</p>
-         </note>
-         <note type="incipit">Ein Ruhebedürfnis treibt schwache Menschen, Schutz bei Starken
+               </note>
+               <note type="incipit">Ein Ruhebedürfnis treibt schwache Menschen, Schutz bei Starken
                   zu suchen. Damit endet geschichtlich das Chaos;</note>
-         <note type="summary">Bahr sieht in der Verknüpfung des Faschismus und der Kirche
+               <note type="summary">Bahr sieht in der Verknüpfung des Faschismus und der Kirche
                   einerseits die Sicherung der Ewigkeit für den Faschismus, andererseits einen
                   siegreichen Kampf des Christentums in Waffen gegen Bolschewismus, Marxismus und
                   Materialismus.</note>
-         <ref type="personenindex">
-            <listRef>
-               <ptr type="pmb" target="#3723"/>
-               <ptr type="pmb" target="#2495"/>
-               <ptr type="pmb" target="#22280"/>
-               <ptr type="pmb" target="#12314"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p1"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p2"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p3"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p4"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p5"/>
-               <ptr type="HB-tv" target="HB-tv_4464_p1"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p7"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p8"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p9"/>
-               <ptr type="HB-tv" target="HB-tv_4482_p10"/>
-            </listRef>
-         </ref>
-         <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/unklar/1929-mussolini.pdf</ref>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="#3723"/>
+                     <ptr type="pmb" target="#2495"/>
+                     <ptr type="pmb" target="#22280"/>
+                     <ptr type="pmb" target="#12314"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p2"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p3"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p4"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p5"/>
+                     <ptr type="HB-tv" target="HB-tv_4464_p1"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p7"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p8"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p9"/>
+                     <ptr type="HB-tv" target="HB-tv_4482_p10"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/unklar/1929-mussolini.pdf</ref>
+            </biblStruct>
+         </div>
       </body>
    </text>
 </TEI>
