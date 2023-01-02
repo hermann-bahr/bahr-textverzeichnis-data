@@ -12,7 +12,7 @@
             select="tei:text/tei:body/tei:listBibl/tei:biblStruct">
             <xsl:variable name="correspondence-nummer"
                 select="@xml:id"/>
-            <xsl:variable name="dateiname" select="concat('toc_', $correspondence-nummer, '.xml')"/>
+            <xsl:variable name="dateiname" select="concat($correspondence-nummer, '.xml')"/>
             <xsl:result-document indent="true" href="./editions/{$dateiname}">
                 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -29,9 +29,9 @@
                                 </xsl:element>
                                 <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
                                     <xsl:attribute name="when-iso">
-                                        <xsl:value-of select="descendant::tei:biblStruct[1]/tei:date/@when"/>
+                                        <xsl:value-of select="descendant::tei:biblStruct[1]//tei:date[1]/@when"/>
                                     </xsl:attribute>
-                                    <xsl:value-of select="descendant::tei:biblStruct[1]/tei:date"/>
+                                    <xsl:value-of select="descendant::tei:biblStruct[1]//tei:date[1]"/>
                                 </xsl:element>
                                 <respStmt>
                                     <resp>providing the content</resp>
