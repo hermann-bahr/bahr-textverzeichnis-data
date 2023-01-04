@@ -12,7 +12,7 @@
             <xsl:variable name="correspondence-nummer"
                 select="@xml:id"/>
             <xsl:variable name="dateiname" select="concat($correspondence-nummer, '.xml')"/>
-            <xsl:result-document indent="true" href="./editions/{$dateiname}">
+            <xsl:result-document indent="true" href="./data/editions/{$dateiname}">
                 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
                     >
                     <teiHeader>
