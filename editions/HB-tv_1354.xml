@@ -18,7 +18,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</publisher>
-            <date>2023-01-02+01:00</date>
+            <date>2023-01-04+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_1354.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -54,7 +54,10 @@
                      1894, #30. Adalbert Goldschmidt in: Berliner Tagblatt, 1894, #151. H. A. Lier
                      in: Blätter für Unterhaltung, 1894, 812-813.</p>
                </note>
-               <note type="other-prints">Kritische Schriften, IV. Weimar: VDG 2006</note>
+               <note type="monographies">
+                  <bibl>
+                     <title level="m">Kritische Schriften, IV</title>. Weimar: VDG 2006</bibl>
+               </note>
                <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien-2.pdf</ref>
                <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/4-studien.pdf</ref>
                <ref type="URL">http://www.archive.org/search.php?query=hermann%20bahr%20moderne</ref>

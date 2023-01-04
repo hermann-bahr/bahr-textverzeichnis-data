@@ -17,7 +17,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</publisher>
-            <date>2023-01-02+01:00</date>
+            <date>2023-01-04+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_1357.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,10 @@
                      in: Neue deutsche Rundschau, 11 (1899) #10, 1119. Richard Muther in: Die Zeit,
                      26 (1901) #330, 61-62.</p>
                </note>
-               <note type="other-prints">Kritische Schriften, VI. Weimar: VDG 2007</note>
+               <note type="monographies">
+                  <bibl>
+                     <title level="m">Kritische Schriften, VI</title>. Weimar: VDG 2007</bibl>
+               </note>
                <ref type="personenindex">
                   <listRef>
                      <ptr type="pmb" target="#11461"/>
