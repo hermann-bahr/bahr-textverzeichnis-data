@@ -6,14 +6,20 @@
     <xsl:output method="xml" indent="true"/>
     <xsl:mode on-no-match="shallow-copy"/>
    
-    <xsl:template match="tei:note[@type='periodica']/tei:bibl/text()">
-        <xsl:analyze-string select="." regex="\s#(\d+/\d+)">
+    <xsl:template match="tei:note/tei:bibl/text()">
+        <xsl:analyze-string select="." regex=",\s(\d+)\s\((\d{{4}})\)">
             <xsl:matching-substring>
                 <xsl:element name="biblScope" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:attribute name="unit">
-                        <xsl:text>issue</xsl:text>
+                        <xsl:text>jg</xsl:text>
                     </xsl:attribute>
                     <xsl:value-of select="regex-group(1)"/>
+                </xsl:element>
+                <xsl:element name="date" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:attribute name="type">
+                        <xsl:text>year</xsl:text>
+                    </xsl:attribute>
+                    <xsl:value-of select="regex-group(2)"/>
                 </xsl:element>
             </xsl:matching-substring>
             <xsl:non-matching-substring>
