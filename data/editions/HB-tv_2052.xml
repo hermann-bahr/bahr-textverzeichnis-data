@@ -33,11 +33,11 @@
                         subtype="Umfrage"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Wem gebührt der Iffland-Ring</title>
                </analytic>
                <monogr>
-                  <title level="j" ref="#41552">Österreichische Volks-Zeitung</title>
+                  <title level="j" ref="pmb41552">Österreichische Volks-Zeitung</title>
                   <imprint>
                      <biblScope unit="jg">57</biblScope>
                      <biblScope unit="issue">105</biblScope>
@@ -55,7 +55,7 @@
                   Sauer gegeben. |</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#10844"/>
+                     <ptr type="pmb" target="pmb10844"/>
                      <ptr type="HB-tv" target="HB-tv_2440_p3"/>
                   </listRef>
                </ref>

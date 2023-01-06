@@ -33,7 +33,7 @@
                         subtype="Nachruf"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Kainz</title>
                </analytic>
                <monogr>
@@ -49,7 +49,7 @@
                   nach Leipzig zu Förster</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#11851"/>
+                     <ptr type="pmb" target="pmb11851"/>
                   </listRef>
                </ref>
                <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/nwj/6075.pdf</ref>

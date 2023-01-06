@@ -33,7 +33,7 @@
                         subtype="Tagebuch"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Tagebuch. 2. Juni</title>
                </analytic>
                <monogr>
@@ -60,9 +60,9 @@
                   holen.</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#20987"/>
-                     <ptr type="pmb" target="#11461"/>
-                     <ptr type="pmb" target="#12358"/>
+                     <ptr type="pmb" target="pmb20987"/>
+                     <ptr type="pmb" target="pmb11461"/>
+                     <ptr type="pmb" target="pmb12358"/>
                      <ptr type="HB-tv" target="HB-tv_5410_p1"/>
                      <ptr type="HB-tv" target="HB-tv_5410_p2"/>
                      <ptr type="HB-tv" target="HB-tv_5410_p3"/>

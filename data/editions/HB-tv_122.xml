@@ -34,7 +34,7 @@
                         status="checked"
                         sameAs="pmb32498">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a" ref="pmb32498">Wächterl</title>
                </analytic>
                <monogr>
@@ -48,7 +48,7 @@
                </monogr>
                <note type="periodica">
                   <bibl>
-                     <title level="j">Intelligenzblatt und Berner Stadtblatt</title>
+                     <title level="j" ref="HB-tv_periodica_337">Intelligenzblatt und Berner Stadtblatt</title>
                      <biblScope unit="volume">61/15</biblScope>
                      <date type="year">1894</date>
                      <biblScope unit="issue">133</biblScope> 3–4. <date when="1894-06-07">7.6.1894</date>

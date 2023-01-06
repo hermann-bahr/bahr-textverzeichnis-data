@@ -33,7 +33,7 @@
                         subtype="Tagebuch"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Tagebuch. 4. Februar</title>
                </analytic>
                <monogr>
@@ -51,7 +51,7 @@
                   des Journalisten aus katholischer Perspektive.</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#3926"/>
+                     <ptr type="pmb" target="pmb3926"/>
                   </listRef>
                </ref>
                <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>

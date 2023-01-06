@@ -33,7 +33,7 @@
                         subtype="Umfrage_Vorabdruck"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Kino und Kunst. Eine Rundfrage bei Künstlern</title>
                </analytic>
                <monogr>
@@ -52,7 +52,7 @@
                </note>
                <note type="periodica">
                   <bibl>
-                     <title level="j">Erste Internationale Filmzeitung</title>
+                     <title level="j" ref="HB-tv_periodica_255">Erste Internationale Filmzeitung</title>
                   </bibl>
                </note>
                <note type="incipit">Die Kunst an irgendwelche besondern Mittel zu binden, scheint

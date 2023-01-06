@@ -33,7 +33,7 @@
                         subtype="Tagebuch"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Tagebuch. 17. April</title>
                </analytic>
                <monogr>
@@ -49,7 +49,7 @@
                   speit</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#11461"/>
+                     <ptr type="pmb" target="pmb11461"/>
                   </listRef>
                </ref>
                <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>

@@ -33,7 +33,7 @@
                         subtype="Tagebuch_Nachdruck"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Gastspiel Czernin. Eine Charakteristik</title>
                </analytic>
                <monogr>
@@ -66,7 +66,7 @@
                   hält.</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#10844"/>
+                     <ptr type="pmb" target="pmb10844"/>
                      <ptr type="HB-tv" target="HB-tv_3637_p1"/>
                      <ptr type="HB-tv" target="HB-tv_3637_p2"/>
                   </listRef>

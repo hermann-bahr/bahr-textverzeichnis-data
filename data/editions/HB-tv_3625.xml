@@ -33,11 +33,11 @@
                         subtype="Nachdruck_Tschechisch_Übersetzung"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Hello</title>
                </analytic>
                <monogr>
-                  <title level="j">Literární listy. Časopis věnovaný moderní kritice
+                  <title level="j" ref="HB-tv_periodica_320">Literární listy. Časopis věnovaný moderní kritice
                      literární</title>
                   <imprint>
                      <biblScope unit="jg">19</biblScope>
@@ -58,7 +58,7 @@
                   </bibl>
                   <bibl>
                      <note>Norwegisch</note>
-                     <title level="j">Samtiden</title>
+                     <title level="j" ref="HB-tv_periodica_334">Samtiden</title>
                      <biblScope unit="jg">6</biblScope>
                      <date type="year">1895</date>
                      <biblScope unit="page">286–288</biblScope>.</bibl>

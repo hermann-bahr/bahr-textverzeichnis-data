@@ -34,12 +34,12 @@
                         subtype="Umfrage"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Zur Aera Seebach. Eine Rundfrage bei deutschen Dramatikern und
                      Komponisten</title>
                </analytic>
                <monogr>
-                  <title level="j">Der Zwinger. Zeitschrift für Weltanschauung, Theater und
+                  <title level="j" ref="HB-tv_periodica_194">Der Zwinger. Zeitschrift für Weltanschauung, Theater und
                      Kunst</title>
                   <imprint>
                      <biblScope unit="jg">3</biblScope>
@@ -61,7 +61,7 @@
                   höchsten Sinn durchaus frei! |</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#12759"/>
+                     <ptr type="pmb" target="pmb12759"/>
                   </listRef>
                </ref>
                <note type="bibliographical-statement">Hermann Bahr: Zur Aera Seebach. Eine Rundfrage

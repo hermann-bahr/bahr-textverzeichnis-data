@@ -33,7 +33,7 @@
                         subtype="Tagebuch"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Tagebuch. 8. Oktober</title>
                </analytic>
                <monogr>
@@ -53,9 +53,9 @@
                   in Ministerium berufen</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#8444"/>
-                     <ptr type="pmb" target="#12481"/>
-                     <ptr type="pmb" target="#12762"/>
+                     <ptr type="pmb" target="pmb8444"/>
+                     <ptr type="pmb" target="pmb12481"/>
+                     <ptr type="pmb" target="pmb12762"/>
                      <ptr type="HB-tv" target="HB-tv_6734_p1"/>
                   </listRef>
                </ref>

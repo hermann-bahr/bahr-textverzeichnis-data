@@ -34,7 +34,7 @@
                         status="checked">
                <analytic>
                   <title level="a">His Beautiful Wife</title>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                </analytic>
                <monogr>
                   <title level="m">Selected Austrian Short Stories</title>
@@ -67,7 +67,7 @@
                   <bibl>
                      <note>Amerikanisch</note>
                      <title level="a">His Beautiful Wife</title>
-                     <title level="j">Golden Book Magazine</title>
+                     <title level="j" ref="HB-tv_periodica_64">Golden Book Magazine</title>
                      <biblScope unit="jg">8</biblScope>
                      <date type="year">1930</date>
                      <biblScope unit="issue">11</biblScope> 90–93.</bibl>

@@ -34,7 +34,7 @@
                         status="checked">
                <analytic>
                   <title level="a">Frauenrecht</title>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                </analytic>
                <monogr>
                   <title level="m" ref="pmb30035">Inventur</title>
@@ -69,8 +69,8 @@
                   Politik.</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#3641"/>
-                     <ptr type="pmb" target="#13024"/>
+                     <ptr type="pmb" target="pmb3641"/>
+                     <ptr type="pmb" target="pmb13024"/>
                   </listRef>
                </ref>
                <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/13-inventur.pdf</ref>

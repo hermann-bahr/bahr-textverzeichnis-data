@@ -33,7 +33,7 @@
                         subtype="Tagebuch"
                         status="checked">
                <analytic>
-                  <author ref="#10815">Bahr, Hermann</author>
+                  <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a">Tagebuch. 28. Juli</title>
                </analytic>
                <monogr>
@@ -54,7 +54,7 @@
                   Katholizismus begriffen habe.</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#3641"/>
+                     <ptr type="pmb" target="pmb3641"/>
                   </listRef>
                </ref>
                <ref type="URL">http://anno.onb.ac.at/cgi-content/anno?aid=nwj</ref>

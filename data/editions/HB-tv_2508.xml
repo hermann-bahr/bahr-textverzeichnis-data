@@ -33,11 +33,11 @@
                         subtype="Nachtkritik"
                         status="checked">
                <analytic>
-                  <author ref="#10815">H. B.</author>
+                  <author ref="pmb10815">H. B.</author>
                   <title level="a">Kunst und Leben. [Deutsches Volkstheater]</title>
                </analytic>
                <monogr>
-                  <title level="j" ref="#36340">Die Zeit</title>
+                  <title level="j" ref="pmb36340">Die Zeit</title>
                   <imprint>
                      <biblScope unit="jg">7</biblScope>
                      <biblScope unit="issue">90</biblScope>
@@ -52,9 +52,9 @@
                   kan man schon nicht mehr sein</note>
                <ref type="personenindex">
                   <listRef>
-                     <ptr type="pmb" target="#2951"/>
-                     <ptr type="pmb" target="#3982"/>
-                     <ptr type="pmb" target="#17109"/>
+                     <ptr type="pmb" target="pmb2951"/>
+                     <ptr type="pmb" target="pmb3982"/>
+                     <ptr type="pmb" target="pmb17109"/>
                      <ptr type="HB-tv" target="HB-tv_2508_p1"/>
                      <ptr type="HB-tv" target="HB-tv_2508_p2"/>
                   </listRef>
