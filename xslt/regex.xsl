@@ -4,19 +4,7 @@
     version="3.0" exclude-result-prefixes="tei">
     <xsl:output method="xml" indent="true"/>
     <xsl:mode on-no-match="shallow-copy"/>
-    <xsl:template match="//tei:note[@type='periodica']/tei:bibl[not(child::title[@level='j'])]/text()[not(normalize-space(.)='')][1]">
-        <xsl:choose>
-            <xsl:when test="normalize-space(.)=''"/>
-            <xsl:otherwise>
-                <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:attribute name="lovel">
-                        <xsl:text>j</xsl:text>
-                    </xsl:attribute>
-                    <xsl:value-of select="normalize-space(.)"/>
-                </xsl:element>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
+    
     <!--<xsl:template match="tei:note[@type='periodica']/tei:bibl/text()">
        <xsl:analyze-string select="." regex=",\s(\d+)\s\((\d{{4}})\)\s#(\d+),\s(\d+–\d+)">
            <xsl:matching-substring>
