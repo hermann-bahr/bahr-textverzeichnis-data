@@ -34,8 +34,8 @@
                   <title level="a">Stefan George – Zum 60. Geburtstag</title>
                </analytic>
                <monogr>
-                  <title level="j" ref="HB-tv_periodica_92">Das deutsche Buch. Monatsschrift für die Neuerscheinungen
-                     deutscher Verleger</title>
+                  <title level="j" ref="HB-tv_periodica_92">Das deutsche Buch. Monatsschrift für die
+                     Neuerscheinungen deutscher Verleger</title>
                   <imprint>
                      <biblScope unit="jg">8</biblScope>
                      <biblScope unit="issue">5/6</biblScope>
@@ -45,7 +45,9 @@
                </monogr>
                <note type="monographies">
                   <bibl>
-                     <title level="m">Labyrinth der Gegenwart</title>, 38-44</bibl>
+                     <title level="m">Labyrinth der Gegenwart</title>
+                     <biblScope unit="poge">38–44</biblScope>
+                  </bibl>
                </note>
                <note type="incipit">Stefan George kam vier Jahre vor Paul Valéry zur Welt.</note>
                <ref type="personenindex">
