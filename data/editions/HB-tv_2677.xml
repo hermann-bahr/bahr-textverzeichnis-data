@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="HB-tv_2677.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,12 +18,14 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</publisher>
-            <date>2023-01-06+01:00</date>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage (ACDH-CH)</publisher>
+            <date>2023-01-07+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_2677.xml</idno>
          </publicationStmt>
          <sourceDesc>
-            <p>Bibliografische Angaben eines in Druck erschienen Texts von Bahr</p>
+            <p>Bibliografische Angaben eines in Druck erschienen Texts von
+                                    Bahr</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -51,7 +55,9 @@
                      <title level="j" ref="pmb35950">Moderne Dichtung</title>
                      <biblScope unit="jg">1</biblScope>
                      <date type="year">1890</date>
-                     <biblScope unit="issue">2</biblScope>.2.8, 507–509 und <biblScope unit="issue">2</biblScope>.3.9, 573–576</bibl>
+                     <biblScope unit="issue">2</biblScope>.2.8, <biblScope unit="page">507–509</biblScope>und <biblScope unit="issue">2</biblScope>.3.9,
+                        <biblScope unit="page">573–576</biblScope>
+                  </bibl>
                </note>
                <note type="incipit">Es ist jetzt viel davon die Rede; ich höre es oft, überall. In
                   Paris, vor dem Soufflet, wenn wir den Boul‹ Mich‹ entlang flanierenden Blickes,

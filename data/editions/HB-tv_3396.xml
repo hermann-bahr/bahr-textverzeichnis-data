@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="HB-tv_3396.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,12 +18,14 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</publisher>
-            <date>2023-01-06+01:00</date>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage (ACDH-CH)</publisher>
+            <date>2023-01-09+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_3396.xml</idno>
          </publicationStmt>
          <sourceDesc>
-            <p>Bibliografische Angaben eines in Druck erschienen Texts von Bahr</p>
+            <p>Bibliografische Angaben eines in Druck erschienen Texts von
+                                    Bahr</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -56,14 +60,15 @@
                   </bibl>
                </note>
                <note type="monographies">
-                  <bibl>In: <title level="m">Die schöne Frau</title>. Leipzig: Reclam 1924,
-                        <biblScope unit="page">13–43</biblScope>
+                  <bibl>In: <title level="m">Die schöne Frau</title>. Leipzig: Reclam <date type="year">1924</date>, <biblScope unit="page">13–43</biblScope>
                   </bibl>
                   <bibl>
-                     <title level="m">Wirkung in die Ferne</title>. Wien: Bauer 1947 <biblScope unit="page">5–42</biblScope>
+                     <title level="m">Wirkung in die Ferne</title>. Wien: Bauer <date type="year">1947</date>
+                     <biblScope unit="page">5–42</biblScope>
                   </bibl>
                   <bibl>
-                     <title level="m">Leander</title>. Hg. Konrad Paul. Berlin: Aufbau 1986</bibl>
+                     <title level="m">Leander</title>. Hg. Konrad Paul. Berlin: Aufbau <date type="year">1986</date>
+                  </bibl>
                </note>
                <note type="incipit">I. Ich hatte mich vor ein paar Jahren aus der Stadt in ein
                   Jägerhaus geflüchtet</note>

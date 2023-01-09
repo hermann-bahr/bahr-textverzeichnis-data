@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="HB-tv_602.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,12 +21,14 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</publisher>
-            <date>2023-01-06+01:00</date>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage (ACDH-CH)</publisher>
+            <date>2023-01-09+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_602.xml</idno>
          </publicationStmt>
          <sourceDesc>
-            <p>Bibliografische Angaben eines in Druck erschienen Texts von Bahr</p>
+            <p>Bibliografische Angaben eines in Druck erschienen Texts von
+                                    Bahr</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -57,8 +61,8 @@
                      <title level="a">Wiener Theater. Herakles</title>
                      <title level="j" ref="pmb41560">Der Tag, Berlin</title>
                      <date type="year">1902</date>
-                     <biblScope unit="issue">23</biblScope> 1. Teil, Illustrierte Zeitung, [2–3].
-                        <date when="1902-01-15">15.1.1902</date>
+                     <biblScope unit="issue">23</biblScope> 1. Teil, Illustrierte Zeitung, [
+                        <biblScope unit="page">2–3</biblScope>]. <date when="1902-01-15">15.1.1902</date>
                   </bibl>
                </note>
                <note type="monographies">

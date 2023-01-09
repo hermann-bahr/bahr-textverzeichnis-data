@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="HB-tv_1730.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,12 +18,14 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</publisher>
-            <date>2023-01-06+01:00</date>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage (ACDH-CH)</publisher>
+            <date>2023-01-09+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_1730.xml</idno>
          </publicationStmt>
          <sourceDesc>
-            <p>Bibliografische Angaben eines in Druck erschienen Texts von Bahr</p>
+            <p>Bibliografische Angaben eines in Druck erschienen Texts von
+                                    Bahr</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -37,8 +41,7 @@
                   <title level="a">Wiens Vergangenheit</title>
                </analytic>
                <monogr>
-                  <title level="j" ref="HB-tv_periodica_304">Das Blaubuch. Wochenschrift für
-                     öffentliches Leben, Literatur und Kunst</title>
+                  <title level="j" ref="pmb122310"/>
                   <imprint>
                      <biblScope unit="jg">2</biblScope>
                      <biblScope unit="issue">10</biblScope>
@@ -55,7 +58,8 @@
                </note>
                <note type="monographies">
                   <bibl>
-                     <title level="m">Wien</title>. Stuttgart: Carl Krabbe 1907</bibl>
+                     <title level="m">Wien</title>. Stuttgart: Carl Krabbe <date type="year">1907</date>
+                  </bibl>
                </note>
                <note type="incipit">In Europa weiß man von Wien, daß dort immer Sonntag ist, immer
                   am Herd sich der Spieß dreht. Ferner</note>
