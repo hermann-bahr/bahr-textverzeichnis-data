@@ -5,15 +5,24 @@
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:output indent="yes" method="xml" encoding="utf-8" omit-xml-declaration="false"/>
     
+    <xsl:param name="uris" select="document('../../uris.xml')"/>
+    <xsl:key name="uri-lookup" match="item" use="URL[@type]"
+        ></xsl:key>
     
-    <xsl:template match="tei:biblStruct/descendant::tei:title[1][not(@ref)]">
-        <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:copy-of select="@*"/>
-            <xsl:attribute name="ref">
-                <xsl:value-of select="ancestor::tei:biblStruct/@sameAs"/>
-            </xsl:attribute>
-            <xsl:value-of select="normalize-space(.)"/>
-        </xsl:element>
+    
+    
+    <xsl:template match="tei:biblStruct/@xml:id[starts-with(., 'HB-tv')]">
+        <xsl:variable name="lookup" select="concat('pmb', key('uri-lookup', ., $uris)/Entity_ID)"/>
+        <xsl:attribute name="xml:id">
+        <xsl:choose>
+            <xsl:when test="$lookup='pmb' or $lookup=''">
+                <xsl:value-of select="."/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="$lookup"/>
+            </xsl:otherwise>
+        </xsl:choose>
+        </xsl:attribute>
     </xsl:template>
     
   
