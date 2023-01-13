@@ -11,20 +11,21 @@
     
     
     
-    <xsl:template match="tei:title/@ref[starts-with(., 'HB-tv')]">
-        <xsl:variable name="lookup" select="concat('pmb', key('uri-lookup', ., $uris)/Entity_ID)"/>
-        <xsl:attribute name="ref">
-        <xsl:choose>
-            <xsl:when test="$lookup='pmb' or $lookup=''">
-                <xsl:text>SUX</xsl:text>
-                <xsl:value-of select="."/>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:text>SIX</xsl:text>
-                <xsl:value-of select="$lookup"/>
-            </xsl:otherwise>
-        </xsl:choose>
-        </xsl:attribute>
+    <xsl:template match="tei:biblStruct[@sameAs and not(@sameAs='nach1939')]">
+        <xsl:element name="biblStruct" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*[not(name()='xml:id' or name()='sameAs')]"/>
+            <xsl:attribute name="xml:id">
+                <xsl:value-of select="@sameAs"/>
+            </xsl:attribute>
+            <xsl:attribute name="sameAs">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <xsl:copy-of select="*" copy-namespaces="false"/>
+            
+            
+        </xsl:element>
+        
+        
     </xsl:template>
     
   
