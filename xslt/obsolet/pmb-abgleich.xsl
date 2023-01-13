@@ -11,14 +11,16 @@
     
     
     
-    <xsl:template match="tei:biblStruct/@xml:id[starts-with(., 'HB-tv')]">
+    <xsl:template match="tei:title/@ref[starts-with(., 'HB-tv')]">
         <xsl:variable name="lookup" select="concat('pmb', key('uri-lookup', ., $uris)/Entity_ID)"/>
-        <xsl:attribute name="xml:id">
+        <xsl:attribute name="ref">
         <xsl:choose>
             <xsl:when test="$lookup='pmb' or $lookup=''">
+                <xsl:text>SUX</xsl:text>
                 <xsl:value-of select="."/>
             </xsl:when>
             <xsl:otherwise>
+                <xsl:text>SIX</xsl:text>
                 <xsl:value-of select="$lookup"/>
             </xsl:otherwise>
         </xsl:choose>
