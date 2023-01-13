@@ -5,14 +5,10 @@
     <xsl:output method="xml" indent="true"/>
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:template match="tei:bibl/text()">
-        <xsl:analyze-string select="." regex="^([a-zA-Z]*\s[a-zA-Z]*):">
+        <xsl:analyze-string select="." regex="\[I,\s\d{{1,3}}\]">
             <xsl:matching-substring>
-                 <xsl:element name="author" namespace="http://www.tei-c.org/ns/1.0">
-                    <xsl:attribute name="unit">
-                        <xsl:text>piige</xsl:text>
-                    </xsl:attribute>
+                 <xsl:element name="sexy" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:value-of select="regex-group(1)"/>
-                    <!--<xsl:value-of select="concat(regex-group(1),'–', regex-group(2))"/>-->
                 </xsl:element>
             </xsl:matching-substring>
             <xsl:non-matching-substring>
