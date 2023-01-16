@@ -6,13 +6,17 @@
     <xsl:output indent="no" method="text" encoding="utf-8" omit-xml-declaration="true"/>
     
     <xsl:template match="tei:TEI">
-        <xsl:apply-templates select="descendant::tei:body/descendant::tei:title[@xml:id]"></xsl:apply-templates>
+        <xsl:apply-templates select="descendant::tei:body//tei:biblStruct[tei:analytic[tei:title/@ref] and tei:monogr/tei:title/@ref]">
+        </xsl:apply-templates>
     </xsl:template>
     
-    <xsl:template match="tei:title">
-        <xsl:value-of select="@xml:id"/>
+    <xsl:template match="tei:biblStruct">
+        
+        <xsl:value-of select="replace(tei:analytic/tei:title/@ref, 'pmb', '')"/>
         <xsl:text>;</xsl:text>
-        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:value-of select="replace(tei:monogr/tei:title/@ref, 'pmb', '')"/>
+        <xsl:text>;</xsl:text>
+        <xsl:value-of select="descendant::tei:monogr//tei:date/@when[1]"/>
         <xsl:text>&#xA;</xsl:text>
         
         

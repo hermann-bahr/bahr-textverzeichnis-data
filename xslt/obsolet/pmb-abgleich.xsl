@@ -5,27 +5,14 @@
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:output indent="yes" method="xml" encoding="utf-8" omit-xml-declaration="false"/>
     
-    <xsl:param name="uris" select="document('../../uris.xml')"/>
-    <xsl:key name="uri-lookup" match="item" use="URL[@type]"
-        ></xsl:key>
-    
-    
-    
-    <xsl:template match="tei:biblStruct[@sameAs and not(@sameAs='nach1939')]">
-        <xsl:element name="biblStruct" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:copy-of select="@*[not(name()='xml:id' or name()='sameAs')]"/>
-            <xsl:attribute name="xml:id">
-                <xsl:value-of select="@sameAs"/>
+    <xsl:template match="tei:biblStruct/tei:analytic/tei:title[not(@ref)]">
+        <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:copy-of select="@*"/>
+            <xsl:attribute name="ref">
+                <xsl:value-of select="ancestor::tei:biblStruct/@xml:id"/>
             </xsl:attribute>
-            <xsl:attribute name="sameAs">
-                <xsl:value-of select="@xml:id"/>
-            </xsl:attribute>
-            <xsl:copy-of select="*" copy-namespaces="false"/>
-            
-            
+            <xsl:copy-of select="*"/>
         </xsl:element>
-        
-        
     </xsl:template>
     
   
