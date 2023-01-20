@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-01-16+01:00</date>
+            <date>2023-01-20+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb140794.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -62,8 +62,8 @@
                <note type="review">
                   <bibl>
                      <author>L. F. [=Ludwig Fischl]</author>
-                     <title level="a">Wienerinnen</title>. <title level="j">Österreichische
-                        Volks-Zeitung</title>
+                     <title level="a">Wienerinnen</title>
+                     <title level="j">Österreichische Volks-Zeitung</title>
                      <biblScope unit="jg">46</biblScope>
                      <date type="year">1900</date>
                      <biblScope unit="issue">272</biblScope>
@@ -72,8 +72,8 @@
                   </bibl>
                   <bibl>
                      <author>L. F. [=Ludwig Fischl]</author>
-                     <title level="a">Wienerinnen</title>. <title level="j">Österreichische
-                        Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
+                     <title level="a">Wienerinnen</title>
+                     <title level="j">Österreichische Volks-Zeitung. 2 Kreuzer-Ausgabe</title>
                      <biblScope unit="jg">46</biblScope>
                      <date type="year">1900</date>
                      <biblScope unit="issue">272</biblScope>
@@ -83,7 +83,8 @@
                   <bibl>
                      <author>Siegfried Jacobsohn</author>
                      <title level="j">Die Welt am Montag</title>
-                     <date when="1902-10-20">20.10.1902</date>.</bibl>
+                     <date when="1902-10-20">20.10.1902</date>
+                  </bibl>
                   <bibl>
                      <title level="j">Die Woche</title>
                      <biblScope unit="jg">4</biblScope>
@@ -113,6 +114,9 @@
                <ref type="URL">http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=72</ref>
                <note type="bibliographical-statement">Hermann Bahr: Wienerinnen. Lustspiel in drei
                   Akten. Bonn: Albert Ahn 1911 (203 Seiten).</note>
+               <noteGrp type="keywords">
+                  <note type="Book">Buch</note>
+               </noteGrp>
             </biblStruct>
          </div>
       </body>
