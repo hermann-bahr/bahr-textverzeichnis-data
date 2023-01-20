@@ -6,10 +6,10 @@
     <xsl:output indent="yes" method="xml" encoding="utf-8" omit-xml-declaration="false"/>
     <xsl:template match="tei:listBibl">
         <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
-            <xsl:for-each select="tei:biblStruct/tei:monogr/tei:title[@level = 'm' and not(@ref) and not(ancestor::tei:biblStruct/@sameAs='nach1939')]">
-                <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:for-each select="tei:biblStruct[tei:monogr/tei:title[@level = 'm' and starts-with(@ref, 'HB-tv_m')]]">
+                
                     <xsl:copy-of select="."/>
-                </xsl:element>
+                
             </xsl:for-each>
         </xsl:element>
     </xsl:template>
