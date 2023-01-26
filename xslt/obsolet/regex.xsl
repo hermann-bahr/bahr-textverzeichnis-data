@@ -4,15 +4,17 @@
     version="3.0" exclude-result-prefixes="tei">
     <xsl:output method="xml" indent="true"/>
     <xsl:mode on-no-match="shallow-copy"/>
-    <xsl:template match="tei:note[@type='review-of']/tei:bibl/text()[1]">
+    <xsl:template match="//tei:note[@type='review-of']/tei:bibl[not(text()[not(normalize-space(.)='')][2]) and contains(., '«')]/tei:title">
         
             
-        <xsl:analyze-string select="." regex="^(.*):">
+        <xsl:analyze-string select="." regex="\s»(.*)?«">
                     <xsl:matching-substring>
-                        <xsl:element name="author" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:attribute name="level">
+                                <xsl:text>m</xsl:text>
+                            </xsl:attribute>
                             <xsl:value-of select="regex-group(1)"/>
                         </xsl:element>
-                        
                     </xsl:matching-substring>
                     <xsl:non-matching-substring>
                         <xsl:value-of select="."/>
