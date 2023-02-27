@@ -6,9 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
-            <title level="a">Die Verlobten. Eine mailändische
-                     Geschichte aus dem 17. Jahrhundert. I. Ins Deutsche übertragen von Johanna
-                     Schuchter</title>
+            <title level="a"/>
             <title type="iso-date">1923</title>
             <respStmt>
                <resp>providing the content</resp>
@@ -22,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-01-20+01:00</date>
+            <date>2023-02-27+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_3557.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -37,9 +35,7 @@
             <biblStruct xml:id="HB-tv_3557" type="Book" status="checked">
                <monogr>
                   <author ref="pmb5024">Manzoni, Alessandro</author>
-                  <title level="m" ref="HB-tv_monogr_108">Die Verlobten. Eine mailändische
-                     Geschichte aus dem 17. Jahrhundert. I. Ins Deutsche übertragen von Johanna
-                     Schuchter</title>
+                  <title level="m" ref="pmb141055"/>
                   <editor ref="pmb10815">Bahr, Hermann</editor>
                   <editor>Kamnitzer, Ernst</editor>
                   <imprint>

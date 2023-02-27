@@ -6,8 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
-            <title level="a">Himmel auf Erden. Ein Zwiegespräch. Mit
-                     13 Illustrationen</title>
+            <title level="a"/>
             <title type="iso-date">1928</title>
             <respStmt>
                <resp>providing the content</resp>
@@ -21,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-01-20+01:00</date>
+            <date>2023-02-27+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_1389.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -36,8 +35,7 @@
             <biblStruct xml:id="HB-tv_1389" type="Book" status="checked">
                <monogr>
                   <author ref="pmb10815">Bahr, Hermann</author>
-                  <title level="m" ref="HB-tv_monogr_1378">Himmel auf Erden. Ein Zwiegespräch. Mit
-                     13 Illustrationen</title>
+                  <title level="m" ref="pmb141111"/>
                   <imprint>
                      <pubPlace>München</pubPlace>
                      <publisher>Ars Sacra</publisher>
@@ -55,7 +53,9 @@
                      gegen eine Veröffentlichung spräche.</p>
                </note>
                <note type="reviews">
-                  <bibl>Ab dem <date when="1927-11-30">30.11.1927</date>
+                  <bibl>
+                     <note>Ab dem </note>
+                     <date when="1927-11-30">30.11.1927</date>
                   </bibl>
                   <bibl>
                      <title level="j">Müchner Telegramm-Zeitung</title>

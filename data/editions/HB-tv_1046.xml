@@ -6,9 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
-            <title level="a">Kriegssegen. Das deutsche Wesen ist uns
-                     erschienen. Vortrag gehalten zu Gunsten der durch den Krieg in Not geratenen
-                     Schriftsteller und Journalisten</title>
+            <title level="a"/>
             <title type="iso-date">1914-10-27</title>
             <respStmt>
                <resp>providing the content</resp>
@@ -22,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-01-20+01:00</date>
+            <date>2023-02-27+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_1046.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -37,9 +35,7 @@
             <biblStruct xml:id="HB-tv_1046" type="Pamphlet" status="checked">
                <monogr>
                   <author ref="pmb10815">Bahr, Hermann</author>
-                  <title level="m" ref="HB-tv_monogr_4217">Kriegssegen. Das deutsche Wesen ist uns
-                     erschienen. Vortrag gehalten zu Gunsten der durch den Krieg in Not geratenen
-                     Schriftsteller und Journalisten</title>
+                  <title level="m" ref="pmb141287"/>
                   <imprint>
                      <pubPlace>München</pubPlace>
                      <publisher>Schutzverband Deutscher Schriftsteller</publisher>

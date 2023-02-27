@@ -6,8 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Hermann Bahr – Textverzeichnis</title>
-            <title level="a">Der Krampus. Lustspiel in drei
-                     Aufzügen</title>
+            <title level="a"/>
             <title type="iso-date">1901-12-01</title>
             <respStmt>
                <resp>providing the content</resp>
@@ -21,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-01-20+01:00</date>
+            <date>2023-02-27+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/HB-tv_1540.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -36,8 +35,7 @@
             <biblStruct xml:id="HB-tv_1540" type="Book" status="checked">
                <monogr>
                   <author ref="pmb10815">Bahr, Hermann</author>
-                  <title level="m" ref="HB-tv_monogr_8">Der Krampus. Lustspiel in drei
-                     Aufzügen</title>
+                  <title level="m" ref="pmb141045"/>
                   <imprint>
                      <pubPlace>München</pubPlace>
                      <publisher>Albert Langen</publisher>
@@ -53,7 +51,9 @@
                      vordatiert.</p>
                </note>
                <note type="reviews">
-                  <bibl>Österreichische Volkszeitung <biblScope unit="jg">47</biblScope>
+                  <bibl>
+                     <title level="j">Österreichische Volkszeitung</title>
+                     <biblScope unit="jg">47</biblScope>
                      <date type="year">1901</date>
                      <biblScope unit="issue">323</biblScope>
                      <date when="1901-11-24">24.11.1901</date>
@@ -73,8 +73,7 @@
                   </bibl>
                   <bibl>
                      <author>Raoul Auernheimer</author>
-                     <title level="j" ref="pmb36374">Neue
-                        Freie Presse</title>
+                     <title level="j" ref="pmb36374">Neue Freie Presse</title>
                      <date type="year">1908</date>
                      <biblScope unit="issue">15899</biblScope>
                      <biblScope unit="page">1–3</biblScope>
@@ -82,8 +81,7 @@
                   </bibl>
                   <bibl>
                      <author>E. v. W. [=Eduard von Waclawiczek]</author>
-                     <title level="j">Das
-                        literarische Deutsch-Österreich</title>
+                     <title level="j">Das literarische Deutsch-Österreich</title>
                      <biblScope unit="jg">8</biblScope>
                      <date type="year">1908</date>
                      <biblScope unit="issue">12</biblScope>
