@@ -4,23 +4,23 @@
     version="3.0" exclude-result-prefixes="tei">
     <xsl:output method="xml" indent="true"/>
     <xsl:mode on-no-match="shallow-copy"/>
-    <xsl:template match="//tei:note[@type='review-of']/tei:bibl[not(text()[not(normalize-space(.)='')][2]) and contains(., '«')]/tei:title">
-        
-            
-        <xsl:analyze-string select="." regex="\s»(.*)?«">
-                    <xsl:matching-substring>
-                        <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
-                            <xsl:attribute name="level">
-                                <xsl:text>m</xsl:text>
-                            </xsl:attribute>
-                            <xsl:value-of select="regex-group(1)"/>
-                        </xsl:element>
-                    </xsl:matching-substring>
-                    <xsl:non-matching-substring>
-                        <xsl:value-of select="."/>
-                    </xsl:non-matching-substring>
-                </xsl:analyze-string>
-        
+    <xsl:template
+        match="//tei:bibl/text()[2][not(normalize-space(.)='') and (not(starts-with(normalize-space(.), 'in:') or starts-with(normalize-space(.), 'In:'))) and string-length(normalize-space(.)) &lt;4]">
+        <xsl:analyze-string
+            select="normalize-space(.)"
+            regex="^[0-9]{{2,3}}">
+            <xsl:matching-substring>
+                <xsl:element name="xbiblScope" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:attribute name="unit">
+                        <xsl:text>page</xsl:text>
+                    </xsl:attribute>
+                    <xsl:value-of select="."/>
+                </xsl:element>
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                    <xsl:value-of select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
     </xsl:template>
     <!--<xsl:template match="tei:note[@type='periodica']/tei:bibl/text()">
        <xsl:analyze-string select="." regex=",\s(\d+)\s\((\d{{4}})\)\s#(\d+),\s(\d+–\d+)">
