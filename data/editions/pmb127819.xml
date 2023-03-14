@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-03-10+01:00</date>
+            <date>2023-03-14+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb127819.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -52,8 +52,10 @@
                <note type="review-of">
                   <bibl>
                      <author>Annie Harrar</author> Die Feuerseelen. Phantastischer Roman. Mit 12
-                     Originalzeichnungen von O. Delling. Berlin, Leipzig, Wien, Stuttgart: Richard
-                     Bong <date type="year">1921</date>
+                     Originalzeichnungen von O. Delling. <pubPlace>Berlin</pubPlace>
+                     <pubPlace>Leipzig</pubPlace>
+                     <pubPlace>Wien</pubPlace>
+                     <pubPlace>Stuttgart</pubPlace> Richard Bong <date type="year">1921</date>
                   </bibl>
                   <bibl>
                      <author>Annie Harrar</author>
