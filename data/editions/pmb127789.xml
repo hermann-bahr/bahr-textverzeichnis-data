@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-03-14+01:00</date>
+            <date>2023-10-06+02:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb127789.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -51,9 +51,12 @@
                </monogr>
                <note type="review-of">
                   <bibl>
-                     <author>Jean Paul</author> Die wunderbare Gesellschaft in der Neujahrsnacht.
-                     Mit 27 Federzeichnungen von Alfred Kubin. <pubPlace>München</pubPlace> Piper
-                        <date type="year">1921</date>
+                     <author>Jean Paul</author>
+                     <title level="m">Die wunderbare Gesellschaft in der Neujahrsnacht</title>
+                     <note>Mit 27 Federzeichnungen von Alfred Kubin</note>
+                     <pubPlace>München</pubPlace>
+                     <publisher>Piper</publisher>
+                     <date type="year">1921</date>
                   </bibl>
                   <bibl>
                      <author>Alfred Kubin</author>

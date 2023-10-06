@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-03-14+01:00</date>
+            <date>2023-10-06+02:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb125903.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -53,8 +53,8 @@
                   <bibl>
                      <author>André Suarès</author>
                      <title level="m">Portraits</title>
-                     <note>Deutsch mit einem Nachwort von Otto Flake</note>.
-                        <pubPlace>München</pubPlace>
+                     <note>Deutsch mit einem Nachwort von Otto Flake</note>
+                     <pubPlace>München</pubPlace>
                      <publisher>Drei Masken</publisher>
                      <date type="year">1922</date>
                   </bibl>
@@ -67,8 +67,9 @@
                   </bibl>
                   <bibl>
                      <author>Shakespeare</author>
-                     <title level="m">La Tragedia di Macbeth</title>. <note>Testo italiano conforme
-                        all’originale inglese, note ed appendice di Alessandro de Stefani</note>
+                     <title level="m">La Tragedia di Macbeth</title>
+                     <note>Testo italiano conforme all’originale inglese, note ed appendice di
+                        Alessandro de Stefani</note>
                      <pubPlace>Turin</pubPlace>
                      <publisher>Fratelli Bocca</publisher>
                      <date type="year">1922</date>
