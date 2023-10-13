@@ -7,7 +7,7 @@
     
     
     
-    <xsl:template match="tei:ref[@type='URL' and . ='https://anno.onb.ac.at/cgi-content/anno?aid=nwj']">
+    <xsl:template match="tei:biblStruct[tei:monogr[1]/tei:title[1]='Neue Freie Presse']/tei:ref[@type='URL']">
         <xsl:element name="ref" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">
                 <xsl:text>URL</xsl:text>
@@ -30,7 +30,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
-            <xsl:value-of select="concat('https://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=', $datum, '&amp;seite=', $seite)"/>
+            <xsl:value-of select="concat('https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=', $datum, '&amp;seite=', $seite)"/>
            
         
         </xsl:element>
