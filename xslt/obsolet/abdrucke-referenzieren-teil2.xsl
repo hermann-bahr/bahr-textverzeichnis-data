@@ -5,7 +5,26 @@
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:output indent="yes" method="xml" encoding="utf-8" omit-xml-declaration="false"/>
     
-    <xsl:template match="tei:bibl/@mid">
+    <xsl:template match="tei:bibl[@mmid]">
+        <xsl:variable name="seite" select="tei:biblScope[@unit='page']"/>
+        <xsl:variable name="nummer" select="replace(tei:title/@ref, '#', '')"/>
+        <xsl:choose>
+            <xsl:when test="ancestor::tei:*/tei:biblStruct[tei:monogr[tei:imprint/tei:biblScope[@unit='page' and .=$seite]]/tei:title/@ref = $nummer]">
+                <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:attribute name="ina">
+                        <xsl:value-of select="ancestor::tei:*/tei:biblStruct[tei:monogr[tei:imprint/tei:biblScope[@unit='page' and .=$seite]]/tei:title/@ref = $nummer]/@xml:id"/>
+                    </xsl:attribute>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:copy-of select="."></xsl:copy-of>
+            </xsl:otherwise>
+        </xsl:choose>
+        
+    </xsl:template>
+    
+    
+    <!-- <xsl:template match="tei:bibl/@mid">
         <xsl:choose>
             <xsl:when test=". = ancestor::tei:listBibl/tei:biblStruct/@mid">
                 <xsl:variable name="aktuell" select="."/>
@@ -15,15 +34,12 @@
             </xsl:when>
             <xsl:otherwise>
                 <xsl:attribute name="mid">
-                <xsl:value-of select="@mid"/>
+                <xsl:value-of select="."/>
                 </xsl:attribute>
             </xsl:otherwise>
         </xsl:choose>
         
-    </xsl:template>
-    
-    
-    
+    </xsl:template> -->
     
     
 </xsl:stylesheet>

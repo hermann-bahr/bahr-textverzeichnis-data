@@ -5,7 +5,18 @@
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:output indent="yes" method="xml" encoding="utf-8" omit-xml-declaration="false"/>
     
-    <xsl:template match="tei:note[@type='periodica']/tei:bibl[tei:title[@level='j']]">
+    <xsl:template match="tei:note[@type='monographies']/tei:bibl[not(child::*[3]) and child::tei:title[@level='m']/@ref and tei:biblScope[@unit='page']]">
+        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:attribute name="mmid">
+                <xsl:value-of select="tei:title[@level='m']/@ref"/>
+                <xsl:value-of select="concat('_p', tei:biblScope[@unit='page'])"/>
+            </xsl:attribute>
+            <xsl:copy-of select="*"></xsl:copy-of>
+        </xsl:element>
+        
+    </xsl:template>
+    
+  <!--  <xsl:template match="tei:note[@type='periodica']/tei:bibl[tei:title[@level='j']]">
        <xsl:element name="bibl" namespace="http://www.tei-c.org/ns/1.0">
            <xsl:attribute name="mid">
                <xsl:value-of select="tei:title[@level='j']/@ref"/>
@@ -38,6 +49,6 @@
         </xsl:element>
         
         
-    </xsl:template>
+    </xsl:template>-->
     
 </xsl:stylesheet>
