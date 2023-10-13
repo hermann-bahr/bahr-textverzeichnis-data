@@ -7,7 +7,7 @@
     
     
     
-    <xsl:template match="tei:biblStruct[tei:ref[@type='abdrucke'] and (count(tei:note[@type='periodica']/tei:bibl) = count(tei:ref[@type='abdrucke']//tei:ptr))]/tei:note[@type='monographies']">
+    <xsl:template match="tei:biblStruct[tei:ref[@type='abdrucke'] and (count(tei:note[@type='periodica']/tei:bibl) = count(tei:ref[@type='abdrucke']//tei:ptr))]/tei:note[@type='periodica']">
         <xsl:text disable-output-escaping="yes">&lt;!--</xsl:text>
          <xsl:copy-of select="."></xsl:copy-of>
         <xsl:text disable-output-escaping="yes">--&gt;</xsl:text>
