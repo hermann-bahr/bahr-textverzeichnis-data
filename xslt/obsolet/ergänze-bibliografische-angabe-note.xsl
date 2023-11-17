@@ -38,6 +38,10 @@
                         <xsl:text>, Sec. </xsl:text>
                         <xsl:value-of select="./tei:monogr//tei:biblScope[@unit = 'sec']"/>
                     </xsl:if>
+                <xsl:if test="not(empty(./tei:monogr//tei:biblScope[@unit = 'part']))">
+                    <xsl:text>, Teil </xsl:text>
+                    <xsl:value-of select="./tei:monogr//tei:biblScope[@unit = 'part']"/>
+                </xsl:if>
                     <xsl:if test="not(empty(./tei:monogr//tei:biblScope[@unit = 'pp']))">
                         <xsl:text>, S. </xsl:text>
                         <xsl:value-of select="./tei:monogr//tei:biblScope[@unit = 'pp']"/>
@@ -46,9 +50,9 @@
                         <xsl:text>, S. </xsl:text>
                         <xsl:value-of select="./tei:monogr//tei:biblScope[@unit = 'page']"/>
                     </xsl:if>
-                    <xsl:if test="not(empty(./tei:monogr//tei:biblScope[@unit = 'col']))">
+                    <xsl:if test="not(empty(./tei:monogr//tei:biblScope[@unit = 'column']))">
                         <xsl:text>, Sp. </xsl:text>
-                        <xsl:value-of select="./tei:monogr//tei:biblScope[@unit = 'col']"/>
+                        <xsl:value-of select="./tei:monogr//tei:biblScope[@unit = 'column']"/>
                     </xsl:if>
                     <xsl:if test="not(empty(./tei:series))">
                         <xsl:text> (</xsl:text>
@@ -144,9 +148,9 @@
                     <xsl:text>. </xsl:text>
                     <xsl:value-of select="foo:imprint-in-index($monogr)"/>
                 </xsl:if>
-                <xsl:if test="$monogr/tei:biblScope/@unit = 'vol'">
+                <xsl:if test="$monogr/tei:biblScope/@unit = 'volume'">
                     <xsl:text>, </xsl:text>
-                    <xsl:value-of select="$monogr/tei:biblScope[@unit = 'vol']"/>
+                    <xsl:value-of select="$monogr/tei:biblScope[@unit = 'volume']"/>
                 </xsl:if>
                 <xsl:if test="$monogr/tei:biblScope/@unit = 'issue'">
                     <xsl:text>, </xsl:text>
@@ -209,9 +213,9 @@
             <xsl:value-of select="$monogr//tei:biblScope[@unit = 'jg']"/>
         </xsl:if>
         <!-- Ist Band vorhanden, stets auch -->
-        <xsl:if test="$monogr//tei:biblScope[@unit = 'vol']">
+        <xsl:if test="$monogr//tei:biblScope[@unit = 'volume']">
             <xsl:text>, Bd. </xsl:text>
-            <xsl:value-of select="$monogr//tei:biblScope[@unit = 'vol']"/>
+            <xsl:value-of select="$monogr//tei:biblScope[@unit = 'volume']"/>
         </xsl:if>
         <!-- Jetzt abfragen, wie viel vom Datum vorhanden: vier Stellen=Jahr, sechs Stellen: Jahr und Monat, acht Stellen: komplettes Datum
               Damit entscheidet sich, wo das Datum platziert wird, vor der Nr. oder danach, oder mit Komma am Schluss -->
@@ -220,24 +224,24 @@
                 <xsl:text> (</xsl:text>
                 <xsl:value-of select="$monogr/tei:imprint/tei:date"/>
                 <xsl:text>)</xsl:text>
-                <xsl:if test="$monogr//tei:biblScope[@unit = 'nr']">
+                <xsl:if test="$monogr//tei:biblScope[@unit = 'issue']">
                     <xsl:text> Nr. </xsl:text>
-                    <xsl:value-of select="$monogr//tei:biblScope[@unit = 'nr']"/>
+                    <xsl:value-of select="$monogr//tei:biblScope[@unit = 'issue']"/>
                 </xsl:if>
             </xsl:when>
             <xsl:when test="string-length($monogr/tei:imprint/tei:date/@when) = 6">
-                <xsl:if test="$monogr//tei:biblScope[@unit = 'nr']">
+                <xsl:if test="$monogr//tei:biblScope[@unit = 'issue']">
                     <xsl:text>, Nr. </xsl:text>
-                    <xsl:value-of select="$monogr//tei:biblScope[@unit = 'nr']"/>
+                    <xsl:value-of select="$monogr//tei:biblScope[@unit = 'issue']"/>
                 </xsl:if>
                 <xsl:text> (</xsl:text>
                 <xsl:value-of select="normalize-space(($monogr/tei:imprint/tei:date))"/>
                 <xsl:text>)</xsl:text>
             </xsl:when>
             <xsl:otherwise>
-                <xsl:if test="$monogr//tei:biblScope[@unit = 'nr']">
+                <xsl:if test="$monogr//tei:biblScope[@unit = 'issue']">
                     <xsl:text>, Nr. </xsl:text>
-                    <xsl:value-of select="$monogr//tei:biblScope[@unit = 'nr']"/>
+                    <xsl:value-of select="$monogr//tei:biblScope[@unit = 'issue']"/>
                 </xsl:if>
                 <xsl:if test="$monogr/tei:imprint/tei:date">
                     <xsl:text>, </xsl:text>
