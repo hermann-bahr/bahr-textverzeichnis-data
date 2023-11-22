@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb130159.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb130159"
                         type="Journal-Article"
                         subtype="Nachdruck"
-                        status="checked">
+                        status="checked"
+                        prev="pmb130247"
+                        next="pmb130237">
                <analytic>
                   <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a" ref="pmb130159">Das österreichische Wunder</title>
@@ -72,7 +74,8 @@
                   <note type="Journal-Article">Artikel in einem Periodikum</note>
                   <note subtype="Nachdruck">Nachdruck</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Das österreichische Wunder. In: Münchner Neueste Nachrichten, Jg. 68, Nr. 184, 11.4.1915, S. 2.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Das österreichische Wunder. In:
+                  Münchner Neueste Nachrichten, Jg. 68, Nr. 184, 11.4.1915, S. 2.</note>
             </biblStruct>
          </div>
       </body>

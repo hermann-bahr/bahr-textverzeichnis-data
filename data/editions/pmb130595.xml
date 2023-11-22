@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb130595.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb130595"
                         type="Book_Section"
                         subtype="Buchtext"
-                        status="checked">
+                        status="checked"
+                        prev="HB-tv_6655"
+                        next="pmb130597">
                <analytic>
                   <title level="a" ref="pmb130595">Erziehung. V</title>
                   <author ref="pmb10815">Bahr, Hermann</author>
@@ -77,7 +79,8 @@
                   <note type="Section">Section</note>
                   <note subtype="Buchtext">Buchtext</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Erziehung. V. In: Inventur. Berlin: S. Fischer 1912, S. 116–118.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Erziehung. V. In: Inventur.
+                  Berlin: S. Fischer 1912, S. 116–118.</note>
             </biblStruct>
          </div>
       </body>

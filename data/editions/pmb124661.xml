@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb124661.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb124661"
                         type="Book_Section"
                         subtype="Buchtext"
-                        status="checked">
+                        status="checked"
+                        prev="pmb124659"
+                        next="pmb124663">
                <analytic>
                   <title level="a" ref="pmb124661">Barock</title>
                   <author ref="pmb10815">Bahr, Hermann</author>
@@ -126,7 +128,8 @@
                      <ptr type="textref" target="pmb124867"/>
                   </listRef>
                </ref>
-               <note type="bibliographical-statement">Hermann Bahr:  Barock. In: Labyrinth der Gegenwart. Hildesheim: F. Borgmeyer 1929, S. 7–14.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Barock. In: Labyrinth der
+                  Gegenwart. Hildesheim: F. Borgmeyer 1929, S. 7–14.</note>
             </biblStruct>
          </div>
       </body>

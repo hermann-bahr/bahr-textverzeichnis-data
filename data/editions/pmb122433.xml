@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb122433.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb122433"
                         type="Journal-Article"
                         subtype="Glosse"
-                        status="checked">
+                        status="checked"
+                        prev="pmb134029"
+                        next="pmb134153">
                <analytic>
                   <author ref="pmb10815">Mepherl</author>
                   <title level="a" ref="pmb122433">Der blinde Grieche</title>
@@ -55,7 +57,8 @@
                   <note type="Journal-Article">Artikel in einem Periodikum</note>
                   <note subtype="Glosse">Glosse</note>
                </noteGrp>
-               <note type="bibliographical-statement">Mepherl:  Der blinde Grieche. In: Deutsche Zeitung, Jg. 23, Nr. 7754, Sonntags-Ausgabe, 30.7.1893, S. 3.</note>
+               <note type="bibliographical-statement">Mepherl: Der blinde Grieche. In: Deutsche
+                  Zeitung, Jg. 23, Nr. 7754, Sonntags-Ausgabe, 30.7.1893, S. 3.</note>
             </biblStruct>
          </div>
       </body>

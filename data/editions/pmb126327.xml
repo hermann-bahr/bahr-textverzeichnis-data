@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb126327.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb126327"
                         type="Journal-Article"
                         subtype="Dichtung"
-                        status="checked">
+                        status="checked"
+                        prev="pmb126251"
+                        next="pmb126235">
                <analytic>
                   <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a" ref="pmb126327">Eheglück. Ein Gespräch</title>
@@ -55,7 +57,8 @@
                   <note type="Journal-Article">Artikel in einem Periodikum</note>
                   <note subtype="Dichtung">Dichtung</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Eheglück. Ein Gespräch. In: Neue Freie Presse, Nr. 21760, Morgenblatt, 12.4.1925, S. 36–37.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Eheglück. Ein Gespräch. In: Neue
+                  Freie Presse, Nr. 21760, Morgenblatt, 12.4.1925, S. 36–37.</note>
             </biblStruct>
          </div>
       </body>

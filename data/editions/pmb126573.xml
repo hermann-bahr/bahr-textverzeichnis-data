@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb126573.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb126573"
                         type="Journal-Article"
                         subtype="Feuilleton"
-                        status="checked">
+                        status="checked"
+                        prev="pmb126353"
+                        next="pmb126567">
                <analytic>
                   <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a" ref="pmb126573">Wilson</title>
@@ -55,7 +57,8 @@
                   <note type="Journal-Article">Artikel in einem Periodikum</note>
                   <note subtype="Feuilleton">Feuilleton</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Wilson. In: Wiener Allgemeine Zeitung, Jg. 45, Nr. 13968, 14.12.1924, S. 2–3.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Wilson. In: Wiener Allgemeine
+                  Zeitung, Jg. 45, Nr. 13968, 14.12.1924, S. 2–3.</note>
             </biblStruct>
          </div>
       </body>

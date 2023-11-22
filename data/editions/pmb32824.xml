@@ -22,7 +22,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb32824.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -37,7 +37,9 @@
             <biblStruct type="Journal-Article"
                         status="checked"
                         xml:id="pmb32824"
-                        sameAs="HB-tv_306">
+                        sameAs="HB-tv_306"
+                        prev="pmb123997"
+                        next="pmb123827">
                <analytic>
                   <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a" ref="pmb32824">Theater. (»Komödianten« von Edouard Pailleron. Zum
@@ -106,7 +108,10 @@
                <noteGrp type="keywords">
                   <note type="Journal-Article">Artikel in einem Periodikum</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Theater. (»Komödianten« von Edouard Pailleron. Zum ersten Male im Deutschen Volkstheater am 20. October. »Es war einmal« von Holger Drachmann. Zum ersten Male im Raimundtheater am 27. October). In: Die Zeit, Jg. 1, Nr. 4, 27.10.1894, S. 59–60.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Theater. (»Komödianten« von
+                  Edouard Pailleron. Zum ersten Male im Deutschen Volkstheater am 20. October. »Es
+                  war einmal« von Holger Drachmann. Zum ersten Male im Raimundtheater am 27.
+                  October). In: Die Zeit, Jg. 1, Nr. 4, 27.10.1894, S. 59–60.</note>
             </biblStruct>
          </div>
       </body>

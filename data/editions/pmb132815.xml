@@ -21,7 +21,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb132815.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -36,7 +36,9 @@
             <biblStruct xml:id="pmb132815"
                         type="Book_Section"
                         subtype="Buchtext"
-                        status="checked">
+                        status="checked"
+                        prev="pmb132813"
+                        next="pmb132817">
                <analytic>
                   <title level="a" ref="pmb132815">Japanische Ausstellung. (Sechste Ausstellung der
                      Vereinigung bildender Künstler Österreichs, Secession)</title>
@@ -94,7 +96,9 @@
                      <ptr type="textref" target="pmb132991"/>
                   </listRef>
                </ref>
-               <note type="bibliographical-statement">Hermann Bahr:  Japanische Ausstellung. (Sechste Ausstellung der Vereinigung bildender Künstler Österreichs, Secession). In: Secession. Wien: Wiener Verlag 1900, S. 216–230.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Japanische Ausstellung. (Sechste
+                  Ausstellung der Vereinigung bildender Künstler Österreichs, Secession). In:
+                  Secession. Wien: Wiener Verlag 1900, S. 216–230.</note>
             </biblStruct>
          </div>
       </body>

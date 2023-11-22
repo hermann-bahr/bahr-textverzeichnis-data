@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb132323.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb132323"
                         type="Journal-Article"
                         subtype="Dichtung"
-                        status="checked">
+                        status="checked"
+                        prev="pmb132073"
+                        next="pmb132261">
                <analytic>
                   <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a" ref="pmb132323">Er gibt keine Ruh’. Ein Gespräch</title>
@@ -62,7 +64,8 @@
                   <note type="Journal-Article">Artikel in einem Periodikum</note>
                   <note subtype="Dichtung">Dichtung</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Er gibt keine Ruh’. Ein Gespräch. In: Neues Wiener Tagblatt, Jg. 37, Nr. 169, 21.6.1903, S. 2–4.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Er gibt keine Ruh’. Ein
+                  Gespräch. In: Neues Wiener Tagblatt, Jg. 37, Nr. 169, 21.6.1903, S. 2–4.</note>
             </biblStruct>
          </div>
       </body>

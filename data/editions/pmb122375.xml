@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb122375.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb122375"
                         type="Journal-Article"
                         subtype="Nachdruck_Russisch"
-                        status="checked">
+                        status="checked"
+                        prev="pmb29887"
+                        next="pmb132691">
                <analytic>
                   <author ref="pmb10815">Баръ, Германъ</author>
                   <author ref="pmb10815">Bahr, Hermann</author>
@@ -62,7 +64,9 @@
                      <ptr type="textref" target="pmb132027"/>
                   </listRef>
                </ref>
-               <note type="bibliographical-statement">Германъ Баръ, Hermann Bahr:  О Колоніяхъ [O kolonijach]. In: Мир иску́сства [Mir iskusstva], St. Petersburg, Jg. 6 (1901), S. 140–142.</note>
+               <note type="bibliographical-statement">Германъ Баръ, Hermann Bahr: О Колоніяхъ [O
+                  kolonijach]. In: Мир иску́сства [Mir iskusstva], St. Petersburg, Jg. 6 (1901),
+                  S. 140–142.</note>
             </biblStruct>
          </div>
       </body>

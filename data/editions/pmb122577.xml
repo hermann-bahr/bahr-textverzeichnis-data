@@ -22,7 +22,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb122577.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -37,7 +37,9 @@
             <biblStruct xml:id="pmb122577"
                         type="Journal-Article"
                         subtype="Gekürzt_Nachdruck"
-                        status="checked">
+                        status="checked"
+                        prev="pmb122599"
+                        next="pmb131871">
                <analytic>
                   <author ref="pmb10815">H. B.</author>
                   <title level="a" ref="pmb122577">Der verlorene Vater. (Komödie in vier Akten von
@@ -88,7 +90,10 @@
                   <note subtype="Gekürzt">Gekürzt</note>
                   <note subtype="Nachdruck">Nachdruck</note>
                </noteGrp>
-               <note type="bibliographical-statement">H. B.:  Der verlorene Vater. (Komödie in vier Akten von Bernard Shaw. Deutsch von Siegfried Trebitsch. Zum erstenmal aufgeführt im Burgtheater am 17. März 1906). In: Kleine Österreichische Volks-Zeitung, Jg. 52, Nr. 76, 18.3.1906, S. 8 und 25.</note>
+               <note type="bibliographical-statement">H. B.: Der verlorene Vater. (Komödie in vier
+                  Akten von Bernard Shaw. Deutsch von Siegfried Trebitsch. Zum erstenmal aufgeführt
+                  im Burgtheater am 17. März 1906). In: Kleine Österreichische Volks-Zeitung,
+                  Jg. 52, Nr. 76, 18.3.1906, S. 8 und 25.</note>
             </biblStruct>
          </div>
       </body>

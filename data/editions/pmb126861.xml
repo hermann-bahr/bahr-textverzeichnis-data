@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb126861.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb126861"
                         type="Book_Section"
                         subtype="Buchtext"
-                        status="checked">
+                        status="checked"
+                        prev="pmb126859"
+                        next="pmb126863">
                <analytic>
                   <title level="a" ref="pmb126861">X</title>
                   <author ref="pmb10815">Bahr, Hermann</author>
@@ -102,7 +104,8 @@
                      <ptr type="textref" target="pmb127911"/>
                   </listRef>
                </ref>
-               <note type="bibliographical-statement">Hermann Bahr:  X. In: Selbstbildnis. Berlin: S. Fischer 1923, S. 94–103.</note>
+               <note type="bibliographical-statement">Hermann Bahr: X. In: Selbstbildnis. Berlin: S.
+                  Fischer 1923, S. 94–103.</note>
             </biblStruct>
          </div>
       </body>

@@ -21,7 +21,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb133419.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -36,7 +36,9 @@
             <biblStruct xml:id="pmb133419"
                         type="Book_Section"
                         subtype="Buchtext"
-                        status="checked">
+                        status="checked"
+                        prev="pmb133417"
+                        next="pmb133421">
                <analytic>
                   <title level="a" ref="pmb133419">Rothe Bäume. (Zur Ausstellung der Secessionisten
                      im Künstlerhause)</title>
@@ -77,7 +79,9 @@
                      <ptr type="textref" target="pmb133739"/>
                   </listRef>
                </ref>
-               <note type="bibliographical-statement">Hermann Bahr:  Rothe Bäume. (Zur Ausstellung der Secessionisten im Künstlerhause). In: Renaissance. Neue Studien zur Kritik der Moderne. Berlin: S. Fischer 1897, S. 197–202.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Rothe Bäume. (Zur Ausstellung
+                  der Secessionisten im Künstlerhause). In: Renaissance. Neue Studien zur Kritik der
+                  Moderne. Berlin: S. Fischer 1897, S. 197–202.</note>
             </biblStruct>
          </div>
       </body>

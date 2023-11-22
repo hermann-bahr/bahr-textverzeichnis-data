@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb126263.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -35,7 +35,9 @@
             <biblStruct xml:id="pmb126263"
                         type="Journal-Article"
                         subtype="Dichtung"
-                        status="checked">
+                        status="checked"
+                        prev="pmb126291"
+                        next="pmb126241">
                <analytic>
                   <author ref="pmb10815">Bahr, Hermann</author>
                   <title level="a" ref="pmb126263">Die Geburt Europas. Ein Gespräch</title>
@@ -55,7 +57,8 @@
                   <note type="Journal-Article">Artikel in einem Periodikum</note>
                   <note subtype="Dichtung">Dichtung</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Die Geburt Europas. Ein Gespräch. In: Neue Freie Presse, Nr. 21826, Morgenblatt, 19.6.1925, S. 1–4.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Die Geburt Europas. Ein
+                  Gespräch. In: Neue Freie Presse, Nr. 21826, Morgenblatt, 19.6.1925, S. 1–4.</note>
             </biblStruct>
          </div>
       </body>

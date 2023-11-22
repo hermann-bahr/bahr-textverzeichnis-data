@@ -20,7 +20,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-11-17+01:00</date>
+            <date>2023-11-22+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb130021.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -32,7 +32,11 @@
    <text>
       <body>
          <div type="bibliografische-angabe">
-            <biblStruct xml:id="pmb130021" type="Book_Section" status="checked">
+            <biblStruct xml:id="pmb130021"
+                        type="Book_Section"
+                        status="checked"
+                        prev="pmb130017"
+                        next="pmb130023">
                <analytic>
                   <title level="a" ref="pmb130021">Idyll</title>
                   <author ref="pmb10815">Bahr, Hermann</author>
@@ -57,7 +61,9 @@
                   <note type="Book">Buch</note>
                   <note type="Section">Section</note>
                </noteGrp>
-               <note type="bibliographical-statement">Hermann Bahr:  Idyll. In: Kriegsinvaliden-Erwerbs-Genossenschaft m.b.H. Salzburg. Salzburg: R. Kiesel 1917, S. 19–20.</note>
+               <note type="bibliographical-statement">Hermann Bahr: Idyll. In:
+                  Kriegsinvaliden-Erwerbs-Genossenschaft m.b.H. Salzburg. Salzburg: R. Kiesel 1917,
+                  S. 19–20.</note>
             </biblStruct>
          </div>
       </body>
