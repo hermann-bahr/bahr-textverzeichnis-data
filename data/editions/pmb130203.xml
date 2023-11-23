@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xml:id="pmb130203.xml">
+     xml:id="pmb130203.xml"
+     prev="pmb130201"
+     next="pmb130205">
    <teiHeader>
       <fileDesc>
          <titleStmt>
