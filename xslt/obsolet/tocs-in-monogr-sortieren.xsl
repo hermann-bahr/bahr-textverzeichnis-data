@@ -11,7 +11,7 @@
                 <xsl:text>toc</xsl:text>
             </xsl:attribute>
             <xsl:for-each select="tei:desc">
-                <xsl:sort select="substring-before(@ana, '–')" data-type="number"/>
+                <xsl:sort select="tokenize(@ana, '–')[1]" data-type="number"/>
                 <xsl:copy-of select="."/>
             </xsl:for-each>
         </xsl:element>
