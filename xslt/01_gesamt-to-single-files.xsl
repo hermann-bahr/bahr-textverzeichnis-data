@@ -17,6 +17,16 @@
                     <xsl:attribute name="xml:id">
                         <xsl:value-of select="$dateiname"/>
                     </xsl:attribute>
+                    <xsl:if test="descendant::tei:biblStruct[@prev][1]">
+                        <xsl:attribute name="prev">
+                            <xsl:value-of select="descendant::tei:biblStruct[@prev][1]/@prev"/>
+                        </xsl:attribute>
+                    </xsl:if>
+                    <xsl:if test="descendant::tei:biblStruct[@next][1]">
+                        <xsl:attribute name="next">
+                            <xsl:value-of select="descendant::tei:biblStruct[@next][1]/@next"/>
+                        </xsl:attribute>
+                    </xsl:if>
                     <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="teiHeader"
                         inherit-namespaces="true">
                         <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="fileDesc"
