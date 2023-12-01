@@ -10,7 +10,13 @@
         <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:copy-of select="@*"/>
             <xsl:attribute name="sex">
-                <xsl:value-of select="key('periodica-abdrucke', normalize-space(.) , $listperiodica)/@ref"/>
+                <xsl:choose>
+                    <xsl:when test="key('periodica-abdrucke', normalize-space(substring-before(., '.')) , $listperiodica)[2]"/>
+                    <xsl:otherwise>
+                        <xsl:value-of select="key('periodica-abdrucke', normalize-space(substring-before(., '.')) , $listperiodica)/@ref"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+                
             </xsl:attribute>
             <xsl:copy-of select="text()"/>
             
