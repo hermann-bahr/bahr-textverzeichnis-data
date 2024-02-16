@@ -73,36 +73,38 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156085">
+               <persName>
+                  <surname>Castel</surname>
+                  <forename>Louis Bertrand</forename>
+               </persName>
+               <birth>
+                  <date when="1688">1688</date>
+               </birth>
+               <death>
+                  <date when="1757">1757</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3613_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156085.html</idno>
+            </person>
+            <person xml:id="pmb156087">
+               <persName>
+                  <surname>Parville</surname>
+                  <forename>Henri de</forename>
+               </persName>
+               <persName type="namensvariante">François Henri Peudefer</persName>
+               <birth>
+                  <date when="1838">1838</date>
+               </birth>
+               <death>
+                  <date when="1909">1909</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3613_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156087.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156085">
-         <persName>
-            <surname>Castel</surname>
-            <forename>Louis Bertrand</forename>
-         </persName>
-         <birth>
-            <date when="1688">1688</date>
-         </birth>
-         <death>
-            <date when="1757">1757</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3613_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156085.html</idno>
-      </person>
-      <person xml:id="pmb156087">
-         <persName>
-            <surname>Parville</surname>
-            <forename>Henri de</forename>
-         </persName>
-         <persName type="namensvariante">François Henri Peudefer</persName>
-         <birth>
-            <date when="1838">1838</date>
-         </birth>
-         <death>
-            <date when="1909">1909</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3613_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156087.html</idno>
-      </person>
-   </back>
 </TEI>

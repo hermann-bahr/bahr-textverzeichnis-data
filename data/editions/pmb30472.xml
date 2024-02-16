@@ -107,64 +107,66 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11171">
+               <persName>
+                  <surname>Dreher</surname>
+                  <forename>Conrad</forename>
+               </persName>
+               <birth>
+                  <date>1859-10-30</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </birth>
+               <death>
+                  <date>1944-12-07</date>
+                  <placeName type="wikidata" ref="Q269186">Fessenheim</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2330_p1</idno>
+               <idno type="wikidata">Q43790</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116213035</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11171.html</idno>
+            </person>
+            <person xml:id="pmb113956">
+               <persName>
+                  <surname>Lenbach</surname>
+                  <forename>Franz von</forename>
+               </persName>
+               <birth>
+                  <date>1836-12-13</date>
+                  <placeName type="wikidata" ref="Q504746">Schrobenhausen</placeName>
+               </birth>
+               <death>
+                  <date>1904-05-06</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3332_p1</idno>
+               <idno type="wikidata">Q585323</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118571516</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113956.html</idno>
+            </person>
+            <person xml:id="pmb115538">
+               <persName>
+                  <surname>Oberländer</surname>
+                  <forename>Adolf</forename>
+               </persName>
+               <birth>
+                  <date>1845-10-01</date>
+                  <placeName type="wikidata" ref="Q2978">Regensburg</placeName>
+               </birth>
+               <death>
+                  <date>1923-05-29</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4469_p5</idno>
+               <idno type="wikidata">Q363504</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119060612</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115538.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11171">
-         <persName>
-            <surname>Dreher</surname>
-            <forename>Conrad</forename>
-         </persName>
-         <birth>
-            <date>1859-10-30</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </birth>
-         <death>
-            <date>1944-12-07</date>
-            <placeName type="wikidata" ref="Q269186">Fessenheim</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2330_p1</idno>
-         <idno type="wikidata">Q43790</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116213035</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11171.html</idno>
-      </person>
-      <person xml:id="pmb113956">
-         <persName>
-            <surname>Lenbach</surname>
-            <forename>Franz von</forename>
-         </persName>
-         <birth>
-            <date>1836-12-13</date>
-            <placeName type="wikidata" ref="Q504746">Schrobenhausen</placeName>
-         </birth>
-         <death>
-            <date>1904-05-06</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3332_p1</idno>
-         <idno type="wikidata">Q585323</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118571516</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113956.html</idno>
-      </person>
-      <person xml:id="pmb115538">
-         <persName>
-            <surname>Oberländer</surname>
-            <forename>Adolf</forename>
-         </persName>
-         <birth>
-            <date>1845-10-01</date>
-            <placeName type="wikidata" ref="Q2978">Regensburg</placeName>
-         </birth>
-         <death>
-            <date>1923-05-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4469_p5</idno>
-         <idno type="wikidata">Q363504</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119060612</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115538.html</idno>
-      </person>
-   </back>
 </TEI>

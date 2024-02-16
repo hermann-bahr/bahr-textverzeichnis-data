@@ -80,42 +80,44 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154288">
+               <persName>
+                  <surname>Klein</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <birth>
+                  <date when="1862">1862</date>
+               </birth>
+               <death>
+                  <date when="1927">1927</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4068_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154288.html</idno>
+            </person>
+            <person xml:id="pmb43796">
+               <persName>
+                  <surname>Barnay</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <persName type="namensvariante">Ludwig Weiß</persName>
+               <birth>
+                  <date>1842-02-11</date>
+                  <placeName type="wikidata" ref="Q210205">Pest</placeName>
+               </birth>
+               <death>
+                  <date>1924-01-01</date>
+                  <placeName type="wikidata" ref="Q1715">Hannover</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2154_p2</idno>
+               <idno type="wikidata">Q539931</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118652575</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43796.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154288">
-         <persName>
-            <surname>Klein</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <birth>
-            <date when="1862">1862</date>
-         </birth>
-         <death>
-            <date when="1927">1927</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4068_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154288.html</idno>
-      </person>
-      <person xml:id="pmb43796">
-         <persName>
-            <surname>Barnay</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <persName type="namensvariante">Ludwig Weiß</persName>
-         <birth>
-            <date>1842-02-11</date>
-            <placeName type="wikidata" ref="Q210205">Pest</placeName>
-         </birth>
-         <death>
-            <date>1924-01-01</date>
-            <placeName type="wikidata" ref="Q1715">Hannover</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2154_p2</idno>
-         <idno type="wikidata">Q539931</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118652575</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43796.html</idno>
-      </person>
-   </back>
 </TEI>

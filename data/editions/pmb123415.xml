@@ -91,396 +91,52 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb21668">
+               <persName>
+                  <surname>Mounet-Sully</surname>
+               </persName>
+               <birth>
+                  <date>1841-02-27</date>
+                  <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
+               </birth>
+               <death>
+                  <date>1916-03-01</date>
+                  <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_688_p3</idno>
+               <idno type="wikidata">Q2657745</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
+            </person>
+            <person xml:id="pmb153989">
+               <persName>
+                  <surname>Löwe</surname>
+                  <forename>Konrad</forename>
+               </persName>
+               <birth>
+                  <date when="1856">1856</date>
+               </birth>
+               <death>
+                  <date when="1912">1912</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2283_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153989.html</idno>
+            </person>
+            <person xml:id="pmb148903">
+               <persName>
+                  <surname>Biesantz</surname>
+                  <forename>Albert</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2139_p2</idno>
+               <idno type="wikidata">Q2637641</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116167106</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148903.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_688_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2408_p2</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1899_p2</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1846_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2136_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2352_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1673_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5216_p5</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5350_p5</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_34_p27</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_367_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2787_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2786_p4</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3815_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1474_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_121_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2687_p16</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p51</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2631_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb153989">
-         <persName>
-            <surname>Löwe</surname>
-            <forename>Konrad</forename>
-         </persName>
-         <birth>
-            <date when="1856">1856</date>
-         </birth>
-         <death>
-            <date when="1912">1912</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2283_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153989.html</idno>
-      </person>
-      <person xml:id="pmb148903">
-         <persName>
-            <surname>Biesantz</surname>
-            <forename>Albert</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2139_p2</idno>
-         <idno type="wikidata">Q2637641</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116167106</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148903.html</idno>
-      </person>
-      <person xml:id="pmb148903">
-         <persName>
-            <surname>Biesantz</surname>
-            <forename>Albert</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2136_p3</idno>
-         <idno type="wikidata">Q2637641</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116167106</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148903.html</idno>
-      </person>
-      <person xml:id="pmb148903">
-         <persName>
-            <surname>Biesantz</surname>
-            <forename>Albert</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2128_p1</idno>
-         <idno type="wikidata">Q2637641</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116167106</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148903.html</idno>
-      </person>
-   </back>
 </TEI>

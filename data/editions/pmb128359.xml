@@ -80,28 +80,30 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154986">
+               <persName>
+                  <surname>Stein</surname>
+                  <forename>Charlotte von</forename>
+               </persName>
+               <birth>
+                  <date when="1742">1742</date>
+               </birth>
+               <death>
+                  <date when="1827">1827</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3706_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154986.html</idno>
+            </person>
+            <person xml:id="pmb155674">
+               <persName>
+                  <surname>Dido</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_5309_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155674.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154986">
-         <persName>
-            <surname>Stein</surname>
-            <forename>Charlotte von</forename>
-         </persName>
-         <birth>
-            <date when="1742">1742</date>
-         </birth>
-         <death>
-            <date when="1827">1827</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3706_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154986.html</idno>
-      </person>
-      <person xml:id="pmb155674">
-         <persName>
-            <surname>Dido</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5309_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155674.html</idno>
-      </person>
-   </back>
 </TEI>

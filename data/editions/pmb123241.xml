@@ -80,23 +80,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154297">
+               <persName>
+                  <surname>Rauchenegger</surname>
+                  <forename>Benno</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2529_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154297.html</idno>
+            </person>
+            <person xml:id="pmb154298">
+               <persName>
+                  <surname>Dengg</surname>
+                  <forename>Anna</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2529_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154298.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154297">
-         <persName>
-            <surname>Rauchenegger</surname>
-            <forename>Benno</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2529_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154297.html</idno>
-      </person>
-      <person xml:id="pmb154298">
-         <persName>
-            <surname>Dengg</surname>
-            <forename>Anna</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2529_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154298.html</idno>
-      </person>
-   </back>
 </TEI>

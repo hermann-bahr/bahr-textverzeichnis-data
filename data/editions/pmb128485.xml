@@ -95,27 +95,29 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155718">
+               <persName>
+                  <surname>Buddha</surname>
+               </persName>
+               <birth>
+                  <date when-custom="5. Jhdt. v.u.Z.">5. Jhdt. v.u.Z.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_5246_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155718.html</idno>
+            </person>
+            <person xml:id="pmb155719">
+               <persName>
+                  <surname>Mahavira</surname>
+               </persName>
+               <birth>
+                  <date when-custom="5. Jhdt. v.u.Z.">5. Jhdt. v.u.Z.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_5246_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155719.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155718">
-         <persName>
-            <surname>Buddha</surname>
-         </persName>
-         <birth>
-            <date when-custom="5. Jhdt. v.u.Z.">5. Jhdt. v.u.Z.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_5246_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155718.html</idno>
-      </person>
-      <person xml:id="pmb155719">
-         <persName>
-            <surname>Mahavira</surname>
-         </persName>
-         <birth>
-            <date when-custom="5. Jhdt. v.u.Z.">5. Jhdt. v.u.Z.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_5246_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155719.html</idno>
-      </person>
-   </back>
 </TEI>

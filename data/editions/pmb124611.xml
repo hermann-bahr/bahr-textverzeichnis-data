@@ -104,84 +104,86 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb18654">
+               <persName>
+                  <surname>Hölderlin</surname>
+                  <forename>Johann Christian Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1770-03-20</date>
+                  <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
+               </birth>
+               <death>
+                  <date>1843-06-07</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2615_p43</idno>
+               <idno type="wikidata">Q75889</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
+            </person>
+            <person xml:id="pmb154804">
+               <persName>
+                  <surname>Demosthenes</surname>
+               </persName>
+               <birth>
+                  <date when="0384">384</date>
+               </birth>
+               <death>
+                  <date when-custom="322 v.u.Z.">322 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3516_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154804.html</idno>
+            </person>
+            <person xml:id="pmb154805">
+               <persName>
+                  <surname>Jacobi</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <birth>
+                  <date when="1888">1888</date>
+               </birth>
+               <death>
+                  <date when="1979">1979</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3516_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154805.html</idno>
+            </person>
+            <person xml:id="pmb149326">
+               <persName>
+                  <surname>Oldenbourg</surname>
+                  <forename>Rudolf</forename>
+               </persName>
+               <birth>
+                  <date>1811-12-15</date>
+                  <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
+               </birth>
+               <death>
+                  <date>1903-10-10</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3516_p3</idno>
+               <idno type="wikidata">Q35115548</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117116408</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149326.html</idno>
+            </person>
+            <person xml:id="pmb154806">
+               <persName>
+                  <surname>Menander</surname>
+               </persName>
+               <birth>
+                  <date when-custom="342/341">342/341</date>
+               </birth>
+               <death>
+                  <date when-custom="291/290 v.u.Z.">291/290 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3516_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154806.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb18654">
-         <persName>
-            <surname>Hölderlin</surname>
-            <forename>Johann Christian Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1770-03-20</date>
-            <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
-         </birth>
-         <death>
-            <date>1843-06-07</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2615_p43</idno>
-         <idno type="wikidata">Q75889</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
-      </person>
-      <person xml:id="pmb154804">
-         <persName>
-            <surname>Demosthenes</surname>
-         </persName>
-         <birth>
-            <date when="0384">384</date>
-         </birth>
-         <death>
-            <date when-custom="322 v.u.Z.">322 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3516_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154804.html</idno>
-      </person>
-      <person xml:id="pmb154805">
-         <persName>
-            <surname>Jacobi</surname>
-            <forename>Franz</forename>
-         </persName>
-         <birth>
-            <date when="1888">1888</date>
-         </birth>
-         <death>
-            <date when="1979">1979</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3516_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154805.html</idno>
-      </person>
-      <person xml:id="pmb149326">
-         <persName>
-            <surname>Oldenbourg</surname>
-            <forename>Rudolf</forename>
-         </persName>
-         <birth>
-            <date>1811-12-15</date>
-            <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
-         </birth>
-         <death>
-            <date>1903-10-10</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3516_p3</idno>
-         <idno type="wikidata">Q35115548</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117116408</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149326.html</idno>
-      </person>
-      <person xml:id="pmb154806">
-         <persName>
-            <surname>Menander</surname>
-         </persName>
-         <birth>
-            <date when-custom="342/341">342/341</date>
-         </birth>
-         <death>
-            <date when-custom="291/290 v.u.Z.">291/290 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3516_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154806.html</idno>
-      </person>
-   </back>
 </TEI>

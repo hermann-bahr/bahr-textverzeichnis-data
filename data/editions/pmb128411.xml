@@ -86,17 +86,19 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155686">
+               <persName>
+                  <surname>Euklid von Alexandria</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 360 bis um 280 v.u.Z.">um 360 bis um 280 v.u.Z.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_5283_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155686.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155686">
-         <persName>
-            <surname>Euklid von Alexandria</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 360 bis um 280 v.u.Z.">um 360 bis um 280 v.u.Z.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_5283_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155686.html</idno>
-      </person>
-   </back>
 </TEI>

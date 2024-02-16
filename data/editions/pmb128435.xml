@@ -96,26 +96,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb64840">
+               <persName>
+                  <surname>Körner</surname>
+                  <forename>Theodor</forename>
+               </persName>
+               <birth>
+                  <date>1791-09-23</date>
+                  <placeName type="wikidata" ref="Q1731">Dresden</placeName>
+               </birth>
+               <death>
+                  <date>1813-08-26</date>
+                  <placeName type="wikidata" ref="Q1561056">Rosenow</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4452_p7</idno>
+               <idno type="wikidata">Q62344</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118713507</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64840.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb64840">
-         <persName>
-            <surname>Körner</surname>
-            <forename>Theodor</forename>
-         </persName>
-         <birth>
-            <date>1791-09-23</date>
-            <placeName type="wikidata" ref="Q1731">Dresden</placeName>
-         </birth>
-         <death>
-            <date>1813-08-26</date>
-            <placeName type="wikidata" ref="Q1561056">Rosenow</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4452_p7</idno>
-         <idno type="wikidata">Q62344</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118713507</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64840.html</idno>
-      </person>
-   </back>
 </TEI>

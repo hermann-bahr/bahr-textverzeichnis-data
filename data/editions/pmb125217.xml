@@ -82,52 +82,54 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154942">
+               <persName>
+                  <surname>Benedikt von Nursia</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 480">um 480</date>
+               </birth>
+               <death>
+                  <date when="0547">547</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1241_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154942.html</idno>
+            </person>
+            <person xml:id="pmb149532">
+               <persName>
+                  <surname>Norbert</surname>
+               </persName>
+               <death>
+                  <date>1134-06-06</date>
+                  <placeName type="wikidata" ref="Q1733">Magdeburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1241_p2</idno>
+               <idno type="wikidata">Q160374</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118588567</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149532.html</idno>
+            </person>
+            <person xml:id="pmb154943">
+               <persName>
+                  <surname>Werinher von Schwabeck</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_1241_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154943.html</idno>
+            </person>
+            <person xml:id="pmb149536">
+               <persName>
+                  <surname>Ringeisen</surname>
+                  <forename>Dominikus</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1241_p4</idno>
+               <idno type="wikidata">Q1238055</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119554127</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149536.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154942">
-         <persName>
-            <surname>Benedikt von Nursia</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 480">um 480</date>
-         </birth>
-         <death>
-            <date when="0547">547</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1241_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154942.html</idno>
-      </person>
-      <person xml:id="pmb149532">
-         <persName>
-            <surname>Norbert</surname>
-         </persName>
-         <death>
-            <date>1134-06-06</date>
-            <placeName type="wikidata" ref="Q1733">Magdeburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1241_p2</idno>
-         <idno type="wikidata">Q160374</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588567</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149532.html</idno>
-      </person>
-      <person xml:id="pmb154943">
-         <persName>
-            <surname>Werinher von Schwabeck</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1241_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154943.html</idno>
-      </person>
-      <person xml:id="pmb149536">
-         <persName>
-            <surname>Ringeisen</surname>
-            <forename>Dominikus</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1241_p4</idno>
-         <idno type="wikidata">Q1238055</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119554127</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149536.html</idno>
-      </person>
-   </back>
 </TEI>

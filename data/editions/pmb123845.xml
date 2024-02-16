@@ -93,65 +93,67 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154589">
+               <persName>
+                  <surname>Schulz</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_692_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154589.html</idno>
+            </person>
+            <person xml:id="pmb154590">
+               <persName>
+                  <surname>Zell</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_692_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154590.html</idno>
+            </person>
+            <person xml:id="pmb154591">
+               <persName>
+                  <surname>Dwořak</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_692_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154591.html</idno>
+            </person>
+            <person xml:id="pmb154592">
+               <persName>
+                  <surname>Weiß</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_692_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154592.html</idno>
+            </person>
+            <person xml:id="pmb22666">
+               <persName>
+                  <surname>Pohl-Meiser</surname>
+                  <forename>Viktoria</forename>
+               </persName>
+               <birth>
+                  <date>1858-11-28</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </birth>
+               <death>
+                  <date>1936-06-17</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4829_p6</idno>
+               <idno type="wikidata">Q58011561</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
+            </person>
+            <person xml:id="pmb154593">
+               <persName>
+                  <surname>Rauch</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_692_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154593.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154589">
-         <persName>
-            <surname>Schulz</surname>
-            <forename>Richard</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_692_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154589.html</idno>
-      </person>
-      <person xml:id="pmb154590">
-         <persName>
-            <surname>Zell</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_692_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154590.html</idno>
-      </person>
-      <person xml:id="pmb154591">
-         <persName>
-            <surname>Dwořak</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_692_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154591.html</idno>
-      </person>
-      <person xml:id="pmb154592">
-         <persName>
-            <surname>Weiß</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_692_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154592.html</idno>
-      </person>
-      <person xml:id="pmb22666">
-         <persName>
-            <surname>Pohl-Meiser</surname>
-            <forename>Viktoria</forename>
-         </persName>
-         <birth>
-            <date>1858-11-28</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </birth>
-         <death>
-            <date>1936-06-17</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4829_p6</idno>
-         <idno type="wikidata">Q58011561</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
-      </person>
-      <person xml:id="pmb154593">
-         <persName>
-            <surname>Rauch</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_692_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154593.html</idno>
-      </person>
-   </back>
 </TEI>

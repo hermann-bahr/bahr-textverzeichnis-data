@@ -85,45 +85,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154211">
+               <persName>
+                  <surname>Hartl-Mitius</surname>
+                  <forename>Philomena</forename>
+               </persName>
+               <birth>
+                  <date when="1851">1851</date>
+               </birth>
+               <death>
+                  <date when="1928">1928</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2331_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154211.html</idno>
+            </person>
+            <person xml:id="pmb154212">
+               <persName>
+                  <surname>Wengg</surname>
+                  <forename>Wigyl</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2331_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154212.html</idno>
+            </person>
+            <person xml:id="pmb154213">
+               <persName>
+                  <surname>Ertl</surname>
+                  <forename>Edi</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2331_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154213.html</idno>
+            </person>
+            <person xml:id="pmb154214">
+               <persName>
+                  <surname>Mayerhofer</surname>
+                  <forename>Fanny</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2331_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154214.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154211">
-         <persName>
-            <surname>Hartl-Mitius</surname>
-            <forename>Philomena</forename>
-         </persName>
-         <birth>
-            <date when="1851">1851</date>
-         </birth>
-         <death>
-            <date when="1928">1928</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2331_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154211.html</idno>
-      </person>
-      <person xml:id="pmb154212">
-         <persName>
-            <surname>Wengg</surname>
-            <forename>Wigyl</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2331_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154212.html</idno>
-      </person>
-      <person xml:id="pmb154213">
-         <persName>
-            <surname>Ertl</surname>
-            <forename>Edi</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2331_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154213.html</idno>
-      </person>
-      <person xml:id="pmb154214">
-         <persName>
-            <surname>Mayerhofer</surname>
-            <forename>Fanny</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2331_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154214.html</idno>
-      </person>
-   </back>
 </TEI>

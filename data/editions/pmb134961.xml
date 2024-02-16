@@ -75,26 +75,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114118">
+               <persName>
+                  <surname>Ebers</surname>
+                  <forename>Georg</forename>
+               </persName>
+               <birth>
+                  <date>1837-03-01</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1898-08-07</date>
+                  <placeName type="wikidata" ref="Q533166">Tutzing</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3509_p12</idno>
+               <idno type="wikidata">Q62765</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118681559</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114118.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114118">
-         <persName>
-            <surname>Ebers</surname>
-            <forename>Georg</forename>
-         </persName>
-         <birth>
-            <date>1837-03-01</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1898-08-07</date>
-            <placeName type="wikidata" ref="Q533166">Tutzing</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3509_p12</idno>
-         <idno type="wikidata">Q62765</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118681559</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114118.html</idno>
-      </person>
-   </back>
 </TEI>

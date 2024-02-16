@@ -79,66 +79,68 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156539">
+               <persName>
+                  <surname>Lechner</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <occupation>Autor Schweizer Wanderbücher</occupation>
+               <idno type="HB-tv">HB-tv_627_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156539.html</idno>
+            </person>
+            <person xml:id="pmb156540">
+               <persName>
+                  <surname>Andeer</surname>
+                  <forename>Peter Justus</forename>
+               </persName>
+               <birth>
+                  <date when="1815">1815</date>
+               </birth>
+               <death>
+                  <date when="1882">1882</date>
+               </death>
+               <idno type="HB-tv">HB-tv_627_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156540.html</idno>
+            </person>
+            <person xml:id="pmb151458">
+               <persName>
+                  <surname>Caderas</surname>
+                  <forename>Gian Fadri</forename>
+               </persName>
+               <birth>
+                  <date>1830-07-13</date>
+               </birth>
+               <death>
+                  <date>1891</date>
+               </death>
+               <idno type="HB-tv">HB-tv_627_p3</idno>
+               <idno type="wikidata">Q648104</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1046075330</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151458.html</idno>
+            </person>
+            <person xml:id="pmb151459">
+               <persName>
+                  <surname>Ferraris</surname>
+                  <forename>Maggiorino</forename>
+               </persName>
+               <birth>
+                  <date>1856-04-06</date>
+                  <placeName type="wikidata" ref="Q17244">Acqui Terme</placeName>
+               </birth>
+               <death>
+                  <date>1929-04-23</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_627_p4</idno>
+               <idno type="wikidata">Q3843158</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1072193663</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151459.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156539">
-         <persName>
-            <surname>Lechner</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <occupation>Autor Schweizer Wanderbücher</occupation>
-         <idno type="HB-tv">HB-tv_627_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156539.html</idno>
-      </person>
-      <person xml:id="pmb156540">
-         <persName>
-            <surname>Andeer</surname>
-            <forename>Peter Justus</forename>
-         </persName>
-         <birth>
-            <date when="1815">1815</date>
-         </birth>
-         <death>
-            <date when="1882">1882</date>
-         </death>
-         <idno type="HB-tv">HB-tv_627_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156540.html</idno>
-      </person>
-      <person xml:id="pmb151458">
-         <persName>
-            <surname>Caderas</surname>
-            <forename>Gian Fadri</forename>
-         </persName>
-         <birth>
-            <date>1830-07-13</date>
-         </birth>
-         <death>
-            <date>1891</date>
-         </death>
-         <idno type="HB-tv">HB-tv_627_p3</idno>
-         <idno type="wikidata">Q648104</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1046075330</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151458.html</idno>
-      </person>
-      <person xml:id="pmb151459">
-         <persName>
-            <surname>Ferraris</surname>
-            <forename>Maggiorino</forename>
-         </persName>
-         <birth>
-            <date>1856-04-06</date>
-            <placeName type="wikidata" ref="Q17244">Acqui Terme</placeName>
-         </birth>
-         <death>
-            <date>1929-04-23</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_627_p4</idno>
-         <idno type="wikidata">Q3843158</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1072193663</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151459.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -93,26 +93,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb117440">
+               <persName>
+                  <surname>Gotthilf</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <birth>
+                  <date>1865-10-01</date>
+                  <placeName type="wikidata" ref="Q83404">Timișoara</placeName>
+               </birth>
+               <death>
+                  <date>1950-09-17</date>
+                  <placeName type="wikidata" ref="Q34217">Oxford</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2971_p1</idno>
+               <idno type="wikidata">Q89724</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1011384191</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117440.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb117440">
-         <persName>
-            <surname>Gotthilf</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <birth>
-            <date>1865-10-01</date>
-            <placeName type="wikidata" ref="Q83404">Timișoara</placeName>
-         </birth>
-         <death>
-            <date>1950-09-17</date>
-            <placeName type="wikidata" ref="Q34217">Oxford</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2971_p1</idno>
-         <idno type="wikidata">Q89724</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1011384191</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117440.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -85,350 +85,64 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb3368">
+               <persName>
+                  <surname>Olbrich</surname>
+                  <forename>Josef Maria</forename>
+               </persName>
+               <birth>
+                  <date>1867-12-22</date>
+                  <placeName type="wikidata" ref="Q156080">Opava</placeName>
+               </birth>
+               <death>
+                  <date>1908-08-08</date>
+                  <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1326_p4</idno>
+               <idno type="wikidata">Q44911</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
+            </person>
+            <person xml:id="pmb15993">
+               <persName>
+                  <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
+               </persName>
+               <birth>
+                  <date>1868-11-25</date>
+                  <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
+               </birth>
+               <death>
+                  <date>1937-10-09</date>
+                  <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5316_p4</idno>
+               <idno type="wikidata">Q57507</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
+            </person>
+            <person xml:id="pmb149051">
+               <persName>
+                  <surname>François I. von Frankreich</surname>
+               </persName>
+               <birth>
+                  <date>1494-09-12</date>
+                  <placeName type="wikidata" ref="Q285">Cognac</placeName>
+               </birth>
+               <death>
+                  <date>1547-03-31</date>
+                  <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3915_p7</idno>
+               <idno type="wikidata">Q129857</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb3368">
-         <persName>
-            <surname>Olbrich</surname>
-            <forename>Josef Maria</forename>
-         </persName>
-         <birth>
-            <date>1867-12-22</date>
-            <placeName type="wikidata" ref="Q156080">Opava</placeName>
-         </birth>
-         <death>
-            <date>1908-08-08</date>
-            <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1326_p4</idno>
-         <idno type="wikidata">Q44911</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5316_p4</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen-Darmstadt</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_148_p20</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5478_p4</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3617_p2</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3418_p2</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3288_p3</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_740_p1</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2989_p4</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2963_p2</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2934_p4</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb15993">
-         <persName>
-            <surname>Ernst Ludwig von Hessen und bei Rhein</surname>
-         </persName>
-         <birth>
-            <date>1868-11-25</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1937-10-09</date>
-            <placeName type="wikidata" ref="Q881056">Schloss Wolfsgarten</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2926_p1</idno>
-         <idno type="wikidata">Q57507</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118530933</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15993.html</idno>
-      </person>
-      <person xml:id="pmb149051">
-         <persName>
-            <surname>François I. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1494-09-12</date>
-            <placeName type="wikidata" ref="Q285">Cognac</placeName>
-         </birth>
-         <death>
-            <date>1547-03-31</date>
-            <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3915_p7</idno>
-         <idno type="wikidata">Q129857</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
-      </person>
-      <person xml:id="pmb149051">
-         <persName>
-            <surname>François I. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1494-09-12</date>
-            <placeName type="wikidata" ref="Q285">Cognac</placeName>
-         </birth>
-         <death>
-            <date>1547-03-31</date>
-            <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3503_p5</idno>
-         <idno type="wikidata">Q129857</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
-      </person>
-      <person xml:id="pmb149051">
-         <persName>
-            <surname>François I. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1494-09-12</date>
-            <placeName type="wikidata" ref="Q285">Cognac</placeName>
-         </birth>
-         <death>
-            <date>1547-03-31</date>
-            <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1141_p4</idno>
-         <idno type="wikidata">Q129857</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
-      </person>
-      <person xml:id="pmb149051">
-         <persName>
-            <surname>François I. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1494-09-12</date>
-            <placeName type="wikidata" ref="Q285">Cognac</placeName>
-         </birth>
-         <death>
-            <date>1547-03-31</date>
-            <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3406_p13</idno>
-         <idno type="wikidata">Q129857</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
-      </person>
-      <person xml:id="pmb149051">
-         <persName>
-            <surname>Franz I. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1494-09-12</date>
-            <placeName type="wikidata" ref="Q285">Cognac</placeName>
-         </birth>
-         <death>
-            <date>1547-03-31</date>
-            <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2963_p3</idno>
-         <idno type="wikidata">Q129857</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
-      </person>
-      <person xml:id="pmb149051">
-         <persName>
-            <surname>François I. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1494-09-12</date>
-            <placeName type="wikidata" ref="Q285">Cognac</placeName>
-         </birth>
-         <death>
-            <date>1547-03-31</date>
-            <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2934_p3</idno>
-         <idno type="wikidata">Q129857</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
-      </person>
-      <person xml:id="pmb149051">
-         <persName>
-            <surname>Franz I. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1494-09-12</date>
-            <placeName type="wikidata" ref="Q285">Cognac</placeName>
-         </birth>
-         <death>
-            <date>1547-03-31</date>
-            <placeName type="wikidata" ref="Q191119">Rambouillet</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p7</idno>
-         <idno type="wikidata">Q129857</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534947</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149051.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -80,34 +80,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149469">
+               <persName>
+                  <surname>Klossowski</surname>
+                  <forename>Erich</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1803_p1</idno>
+               <idno type="wikidata">Q531199</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116234903</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149469.html</idno>
+            </person>
+            <person xml:id="pmb154907">
+               <persName>
+                  <surname>Mitis</surname>
+                  <forename>Oskar Freiherr von</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1803_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154907.html</idno>
+            </person>
+            <person xml:id="pmb154908">
+               <persName>
+                  <surname>Mereschkowski</surname>
+                  <forename>Dmitry Sergewitsch</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1803_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154908.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149469">
-         <persName>
-            <surname>Klossowski</surname>
-            <forename>Erich</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1803_p1</idno>
-         <idno type="wikidata">Q531199</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116234903</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149469.html</idno>
-      </person>
-      <person xml:id="pmb154907">
-         <persName>
-            <surname>Mitis</surname>
-            <forename>Oskar Freiherr von</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1803_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154907.html</idno>
-      </person>
-      <person xml:id="pmb154908">
-         <persName>
-            <surname>Mereschkowski</surname>
-            <forename>Dmitry Sergewitsch</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1803_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154908.html</idno>
-      </person>
-   </back>
 </TEI>

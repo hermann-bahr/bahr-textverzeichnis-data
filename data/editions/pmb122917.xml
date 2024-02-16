@@ -83,40 +83,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154120">
+               <persName>
+                  <surname>Salvini</surname>
+                  <forename>Gustavo</forename>
+               </persName>
+               <birth>
+                  <date when="1859">1859</date>
+               </birth>
+               <death>
+                  <date when="1930">1930</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1899_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154120.html</idno>
+            </person>
+            <person xml:id="pmb154121">
+               <persName>
+                  <surname>Salvini</surname>
+                  <forename>Ehefrau von Gustavo</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1898_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154121.html</idno>
+            </person>
+            <person xml:id="pmb154122">
+               <persName>
+                  <surname>Ruta</surname>
+                  <forename>Pasqualino</forename>
+               </persName>
+               <birth>
+                  <date when="1847">1847</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_1898_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154122.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154120">
-         <persName>
-            <surname>Salvini</surname>
-            <forename>Gustavo</forename>
-         </persName>
-         <birth>
-            <date when="1859">1859</date>
-         </birth>
-         <death>
-            <date when="1930">1930</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1899_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154120.html</idno>
-      </person>
-      <person xml:id="pmb154121">
-         <persName>
-            <surname>Salvini</surname>
-            <forename>Ehefrau von Gustavo</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1898_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154121.html</idno>
-      </person>
-      <person xml:id="pmb154122">
-         <persName>
-            <surname>Ruta</surname>
-            <forename>Pasqualino</forename>
-         </persName>
-         <birth>
-            <date when="1847">1847</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_1898_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154122.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -82,15 +82,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153941">
+               <persName>
+                  <surname>Küchenmeister</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3843_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153941.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153941">
-         <persName>
-            <surname>Küchenmeister</surname>
-            <forename>Carl</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3843_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153941.html</idno>
-      </person>
-   </back>
 </TEI>

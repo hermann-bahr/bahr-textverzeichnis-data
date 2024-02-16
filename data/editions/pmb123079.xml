@@ -80,35 +80,37 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153994">
+               <persName>
+                  <surname>Haeberle</surname>
+                  <forename>Elsa</forename>
+               </persName>
+               <birth>
+                  <date when="1877">1877</date>
+               </birth>
+               <death>
+                  <date when="1937">1937</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2278_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153994.html</idno>
+            </person>
+            <person xml:id="pmb154042">
+               <persName>
+                  <surname>Baudius</surname>
+                  <forename>Auguste verh. Wilbrandt</forename>
+               </persName>
+               <birth>
+                  <date when="1843">1843</date>
+               </birth>
+               <death>
+                  <date when="1937">1937</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2275_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154042.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153994">
-         <persName>
-            <surname>Haeberle</surname>
-            <forename>Elsa</forename>
-         </persName>
-         <birth>
-            <date when="1877">1877</date>
-         </birth>
-         <death>
-            <date when="1937">1937</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2278_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153994.html</idno>
-      </person>
-      <person xml:id="pmb154042">
-         <persName>
-            <surname>Baudius</surname>
-            <forename>Auguste verh. Wilbrandt</forename>
-         </persName>
-         <birth>
-            <date when="1843">1843</date>
-         </birth>
-         <death>
-            <date when="1937">1937</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2275_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154042.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -111,1294 +111,197 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb18654">
+               <persName>
+                  <surname>Hölderlin</surname>
+                  <forename>Johann Christian Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1770-03-20</date>
+                  <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
+               </birth>
+               <death>
+                  <date>1843-06-07</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2615_p43</idno>
+               <idno type="wikidata">Q75889</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
+            </person>
+            <person xml:id="pmb116532">
+               <persName>
+                  <surname>Wieland</surname>
+                  <forename>Christoph Martin</forename>
+               </persName>
+               <birth>
+                  <date>1733-09-05</date>
+                  <placeName type="wikidata" ref="Q16069">Biberach an der Riß</placeName>
+               </birth>
+               <death>
+                  <date>1813-01-20</date>
+                  <placeName type="wikidata" ref="Q3955">Weimar</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6684_p2</idno>
+               <idno type="wikidata">Q154010</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118632477</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116532.html</idno>
+            </person>
+            <person xml:id="pmb149128">
+               <persName>
+                  <surname>Balde</surname>
+                  <forename>Jacob</forename>
+               </persName>
+               <birth>
+                  <date>1604-01-04</date>
+                  <placeName type="wikidata" ref="Q455645">Ensisheim</placeName>
+               </birth>
+               <death>
+                  <date>1668-08-09</date>
+                  <placeName type="wikidata" ref="Q125652">Neuburg an der Donau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3698_p2</idno>
+               <idno type="wikidata">Q65850</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118506137</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149128.html</idno>
+            </person>
+            <person xml:id="pmb149124">
+               <persName>
+                  <surname>Bidermann</surname>
+                  <forename>Jakob</forename>
+               </persName>
+               <birth>
+                  <date>1578-01-01</date>
+                  <placeName type="wikidata" ref="Q158523">Ehingen</placeName>
+               </birth>
+               <death>
+                  <date>1639-08-20</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3698_p1</idno>
+               <idno type="wikidata">Q71316</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118510665</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149124.html</idno>
+            </person>
+            <person xml:id="pmb23867">
+               <persName>
+                  <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
+               </persName>
+               <birth>
+                  <date>1757-09-03</date>
+                  <placeName type="wikidata" ref="Q3955">Weimar</placeName>
+               </birth>
+               <death>
+                  <date>1828-06-14</date>
+                  <placeName type="wikidata" ref="Q883725">Graditz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3523_p2</idno>
+               <idno type="wikidata">Q213533</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
+            </person>
+            <person xml:id="pmb28430">
+               <persName>
+                  <surname>Hessen-Darmstadt</surname>
+                  <forename>Luise von</forename>
+               </persName>
+               <birth>
+                  <date>1757-01-30</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1830-02-14</date>
+                  <placeName type="wikidata" ref="Q3955">Weimar</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3493_p5</idno>
+               <idno type="wikidata">Q260513</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/115363688</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28430.html</idno>
+            </person>
+            <person xml:id="pmb146697">
+               <persName>
+                  <surname>Louis XVI. von Frankreich</surname>
+               </persName>
+               <birth>
+                  <date>1754-08-23</date>
+                  <placeName type="wikidata" ref="Q2946">Schloss Versailles</placeName>
+               </birth>
+               <death>
+                  <date>1793-01-21</date>
+                  <placeName type="wikidata" ref="Q189503">Place de la Concorde</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3493_p6</idno>
+               <idno type="wikidata">Q7732</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118574949</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146697.html</idno>
+            </person>
+            <person xml:id="pmb146775">
+               <persName>
+                  <surname>Peter I. von Russland</surname>
+               </persName>
+               <birth>
+                  <date>1672-05-30</date>
+                  <placeName type="wikidata" ref="Q649">Moskau</placeName>
+               </birth>
+               <death>
+                  <date>1725-01-28</date>
+                  <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3493_p7</idno>
+               <idno type="wikidata">Q8479</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
+            </person>
+            <person xml:id="pmb3084">
+               <persName>
+                  <surname>Joseph II. von Österreich</surname>
+               </persName>
+               <birth>
+                  <date>1741-03-13</date>
+                  <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
+               </birth>
+               <death>
+                  <date>1790-02-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2293_p2</idno>
+               <idno type="wikidata">Q76555</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
+            </person>
+            <person xml:id="pmb154874">
+               <persName>
+                  <surname>Herkules</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_3493_p9</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154874.html</idno>
+            </person>
+            <person xml:id="pmb154875">
+               <persName>
+                  <surname>Herder geb. Flachsland</surname>
+                  <forename>Maria Karoline</forename>
+               </persName>
+               <birth>
+                  <date when="1750">1750</date>
+               </birth>
+               <death>
+                  <date when="1809">1809</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3493_p10</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154875.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb18654">
-         <persName>
-            <surname>Hölderlin</surname>
-            <forename>Johann Christian Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1770-03-20</date>
-            <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
-         </birth>
-         <death>
-            <date>1843-06-07</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2615_p43</idno>
-         <idno type="wikidata">Q75889</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
-      </person>
-      <person xml:id="pmb116532">
-         <persName>
-            <surname>Wieland</surname>
-            <forename>Christoph Martin</forename>
-         </persName>
-         <birth>
-            <date>1733-09-05</date>
-            <placeName type="wikidata" ref="Q16069">Biberach an der Riß</placeName>
-         </birth>
-         <death>
-            <date>1813-01-20</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6684_p2</idno>
-         <idno type="wikidata">Q154010</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118632477</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116532.html</idno>
-      </person>
-      <person xml:id="pmb149128">
-         <persName>
-            <surname>Balde</surname>
-            <forename>Jacob</forename>
-         </persName>
-         <birth>
-            <date>1604-01-04</date>
-            <placeName type="wikidata" ref="Q455645">Ensisheim</placeName>
-         </birth>
-         <death>
-            <date>1668-08-09</date>
-            <placeName type="wikidata" ref="Q125652">Neuburg an der Donau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3698_p2</idno>
-         <idno type="wikidata">Q65850</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118506137</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149128.html</idno>
-      </person>
-      <person xml:id="pmb149124">
-         <persName>
-            <surname>Bidermann</surname>
-            <forename>Jakob</forename>
-         </persName>
-         <birth>
-            <date>1578-01-01</date>
-            <placeName type="wikidata" ref="Q158523">Ehingen</placeName>
-         </birth>
-         <death>
-            <date>1639-08-20</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3698_p1</idno>
-         <idno type="wikidata">Q71316</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118510665</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149124.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p2</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3493_p4</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3706_p4</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3369_p9</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3367_p1</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3357_p4</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_152_p7</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3189_p4</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6617_p2</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p48</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb23867">
-         <persName>
-            <surname>Karl August von Sachsen-Weimar-Eisenach</surname>
-         </persName>
-         <birth>
-            <date>1757-09-03</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </birth>
-         <death>
-            <date>1828-06-14</date>
-            <placeName type="wikidata" ref="Q883725">Graditz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1179_p3</idno>
-         <idno type="wikidata">Q213533</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856014X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23867.html</idno>
-      </person>
-      <person xml:id="pmb28430">
-         <persName>
-            <surname>Hessen-Darmstadt</surname>
-            <forename>Luise von</forename>
-         </persName>
-         <birth>
-            <date>1757-01-30</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1830-02-14</date>
-            <placeName type="wikidata" ref="Q3955">Weimar</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3493_p5</idno>
-         <idno type="wikidata">Q260513</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/115363688</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28430.html</idno>
-      </person>
-      <person xml:id="pmb146697">
-         <persName>
-            <surname>Louis XVI. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1754-08-23</date>
-            <placeName type="wikidata" ref="Q2946">Schloss Versailles</placeName>
-         </birth>
-         <death>
-            <date>1793-01-21</date>
-            <placeName type="wikidata" ref="Q189503">Place de la Concorde</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3493_p6</idno>
-         <idno type="wikidata">Q7732</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574949</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146697.html</idno>
-      </person>
-      <person xml:id="pmb146697">
-         <persName>
-            <surname>Louis XVI. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1754-08-23</date>
-            <placeName type="wikidata" ref="Q2946">Schloss Versailles</placeName>
-         </birth>
-         <death>
-            <date>1793-01-21</date>
-            <placeName type="wikidata" ref="Q189503">Place de la Concorde</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3293_p4</idno>
-         <idno type="wikidata">Q7732</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574949</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146697.html</idno>
-      </person>
-      <person xml:id="pmb146697">
-         <persName>
-            <surname>Louis XVI. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1754-08-23</date>
-            <placeName type="wikidata" ref="Q2946">Schloss Versailles</placeName>
-         </birth>
-         <death>
-            <date>1793-01-21</date>
-            <placeName type="wikidata" ref="Q189503">Place de la Concorde</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1363_p108</idno>
-         <idno type="wikidata">Q7732</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574949</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146697.html</idno>
-      </person>
-      <person xml:id="pmb146697">
-         <persName>
-            <surname>Louis XVI. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date>1754-08-23</date>
-            <placeName type="wikidata" ref="Q2946">Schloss Versailles</placeName>
-         </birth>
-         <death>
-            <date>1793-01-21</date>
-            <placeName type="wikidata" ref="Q189503">Place de la Concorde</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2983_p3</idno>
-         <idno type="wikidata">Q7732</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574949</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146697.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3493_p7</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5314_p3</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5243_p1</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5476_p3</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5378_p1</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-            <forename>»der Große«</forename>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3859_p4</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2560_p9</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb146775">
-         <persName>
-            <surname>Peter I. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1672-05-30</date>
-            <placeName type="wikidata" ref="Q649">Moskau</placeName>
-         </birth>
-         <death>
-            <date>1725-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p50</idno>
-         <idno type="wikidata">Q8479</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592955</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146775.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2293_p2</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4874_p2</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p7</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_33_p1</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3522_p5</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3519_p3</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3501_p10</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3493_p8</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3491_p7</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1224_p3</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p17</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4862_p1</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4859_p11</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4857_p28</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4854_p4</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4852_p18</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4851_p16</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4849_p12</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4848_p10</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4846_p16</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4845_p6</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4844_p6</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3377_p21</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1402_p61</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3366_p31</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3365_p3</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3340_p2</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3333_p5</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1401_p18</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p13</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p99</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1626_p27</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p13</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3330_p4</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1113_p4</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3881_p5</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3292_p3</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3288_p2</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1363_p36</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_528_p1</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2731_p4</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb3084">
-         <persName>
-            <surname>Joseph II. von Österreich</surname>
-         </persName>
-         <birth>
-            <date>1741-03-13</date>
-            <placeName type="wikidata" ref="Q636910">Hietzing</placeName>
-         </birth>
-         <death>
-            <date>1790-02-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2615_p19</idno>
-         <idno type="wikidata">Q76555</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118558404</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3084.html</idno>
-      </person>
-      <person xml:id="pmb154874">
-         <persName>
-            <surname>Herkules</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3493_p9</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154874.html</idno>
-      </person>
-      <person xml:id="pmb154875">
-         <persName>
-            <surname>Herder geb. Flachsland</surname>
-            <forename>Maria Karoline</forename>
-         </persName>
-         <birth>
-            <date when="1750">1750</date>
-         </birth>
-         <death>
-            <date when="1809">1809</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3493_p10</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154875.html</idno>
-      </person>
-   </back>
 </TEI>

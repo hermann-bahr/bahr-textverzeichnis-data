@@ -81,15 +81,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154551">
+               <persName>
+                  <surname>Wiene</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2308_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154551.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154551">
-         <persName>
-            <surname>Wiene</surname>
-            <forename>Carl</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2308_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154551.html</idno>
-      </person>
-   </back>
 </TEI>

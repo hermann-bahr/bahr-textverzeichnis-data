@@ -71,15 +71,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154482">
+               <persName>
+                  <surname>Reichenbach</surname>
+                  <forename>Hermine</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2317_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154482.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154482">
-         <persName>
-            <surname>Reichenbach</surname>
-            <forename>Hermine</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2317_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154482.html</idno>
-      </person>
-   </back>
 </TEI>

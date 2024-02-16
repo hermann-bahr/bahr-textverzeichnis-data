@@ -83,30 +83,32 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154202">
+               <persName>
+                  <surname>Biërna</surname>
+                  <forename>Lucie</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2334_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154202.html</idno>
+            </person>
+            <person xml:id="pmb154203">
+               <persName>
+                  <surname>Savits</surname>
+                  <forename>Jocza</forename>
+               </persName>
+               <birth>
+                  <date when="1847">1847</date>
+               </birth>
+               <death>
+                  <date when="1915">1915</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2334_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154203.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154202">
-         <persName>
-            <surname>Biërna</surname>
-            <forename>Lucie</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2334_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154202.html</idno>
-      </person>
-      <person xml:id="pmb154203">
-         <persName>
-            <surname>Savits</surname>
-            <forename>Jocza</forename>
-         </persName>
-         <birth>
-            <date when="1847">1847</date>
-         </birth>
-         <death>
-            <date when="1915">1915</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2334_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154203.html</idno>
-      </person>
-   </back>
 </TEI>

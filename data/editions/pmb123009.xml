@@ -97,21 +97,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154170">
+               <persName>
+                  <surname>Günther</surname>
+                  <forename>Mizzi</forename>
+               </persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1961">1961</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4655_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154170.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154170">
-         <persName>
-            <surname>Günther</surname>
-            <forename>Mizzi</forename>
-         </persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1961">1961</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4655_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154170.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -93,21 +93,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154654">
+               <persName>
+                  <surname>Poppe-Luva</surname>
+                  <forename>Rosa</forename>
+               </persName>
+               <birth>
+                  <date when="1867">1867</date>
+               </birth>
+               <death>
+                  <date when="1940">1940</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2293_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154654.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154654">
-         <persName>
-            <surname>Poppe-Luva</surname>
-            <forename>Rosa</forename>
-         </persName>
-         <birth>
-            <date when="1867">1867</date>
-         </birth>
-         <death>
-            <date when="1940">1940</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2293_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154654.html</idno>
-      </person>
-   </back>
 </TEI>

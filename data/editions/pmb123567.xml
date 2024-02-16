@@ -77,95 +77,97 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154435">
+               <persName>
+                  <surname>Hofmeister</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3826_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154435.html</idno>
+            </person>
+            <person xml:id="pmb154436">
+               <persName>
+                  <surname>Löwe</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <birth>
+                  <date when="1795">1795</date>
+               </birth>
+               <death>
+                  <date when="1871">1871</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3826_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154436.html</idno>
+            </person>
+            <person xml:id="pmb114418">
+               <persName>
+                  <surname>Anschütz</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <birth>
+                  <date>1785-02-08</date>
+                  <placeName type="wikidata" ref="Q539288">Luckau</placeName>
+               </birth>
+               <death>
+                  <date>1865-12-29</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2355_p1</idno>
+               <idno type="wikidata">Q70516</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116014180</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114418.html</idno>
+            </person>
+            <person xml:id="pmb154437">
+               <persName>
+                  <surname>Fichnter</surname>
+                  <forename>Carl Albrecht</forename>
+               </persName>
+               <birth>
+                  <date when="1805">1805</date>
+               </birth>
+               <death>
+                  <date when="1873">1873</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3826_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154437.html</idno>
+            </person>
+            <person xml:id="pmb154438">
+               <persName>
+                  <surname>Wagner</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <birth>
+                  <date when="1818">1818</date>
+               </birth>
+               <death>
+                  <date when="1870">1870</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3826_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154438.html</idno>
+            </person>
+            <person xml:id="pmb112926">
+               <persName>
+                  <surname>Dawison</surname>
+                  <forename>Bogumil</forename>
+               </persName>
+               <birth>
+                  <date>1818-05-15</date>
+                  <placeName type="wikidata" ref="Q270">Warschau</placeName>
+               </birth>
+               <death>
+                  <date>1872-02-01</date>
+                  <placeName type="wikidata" ref="Q1731">Dresden</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3826_p6</idno>
+               <idno type="wikidata">Q316722</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118524097</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112926.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154435">
-         <persName>
-            <surname>Hofmeister</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3826_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154435.html</idno>
-      </person>
-      <person xml:id="pmb154436">
-         <persName>
-            <surname>Löwe</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <birth>
-            <date when="1795">1795</date>
-         </birth>
-         <death>
-            <date when="1871">1871</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3826_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154436.html</idno>
-      </person>
-      <person xml:id="pmb114418">
-         <persName>
-            <surname>Anschütz</surname>
-            <forename>Heinrich</forename>
-         </persName>
-         <birth>
-            <date>1785-02-08</date>
-            <placeName type="wikidata" ref="Q539288">Luckau</placeName>
-         </birth>
-         <death>
-            <date>1865-12-29</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2355_p1</idno>
-         <idno type="wikidata">Q70516</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116014180</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114418.html</idno>
-      </person>
-      <person xml:id="pmb154437">
-         <persName>
-            <surname>Fichnter</surname>
-            <forename>Carl Albrecht</forename>
-         </persName>
-         <birth>
-            <date when="1805">1805</date>
-         </birth>
-         <death>
-            <date when="1873">1873</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3826_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154437.html</idno>
-      </person>
-      <person xml:id="pmb154438">
-         <persName>
-            <surname>Wagner</surname>
-            <forename>Josef</forename>
-         </persName>
-         <birth>
-            <date when="1818">1818</date>
-         </birth>
-         <death>
-            <date when="1870">1870</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3826_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154438.html</idno>
-      </person>
-      <person xml:id="pmb112926">
-         <persName>
-            <surname>Dawison</surname>
-            <forename>Bogumil</forename>
-         </persName>
-         <birth>
-            <date>1818-05-15</date>
-            <placeName type="wikidata" ref="Q270">Warschau</placeName>
-         </birth>
-         <death>
-            <date>1872-02-01</date>
-            <placeName type="wikidata" ref="Q1731">Dresden</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3826_p6</idno>
-         <idno type="wikidata">Q316722</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524097</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112926.html</idno>
-      </person>
-   </back>
 </TEI>

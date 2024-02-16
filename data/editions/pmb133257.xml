@@ -83,41 +83,43 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156750">
+               <persName>
+                  <surname>Berks</surname>
+                  <forename>Marie von</forename>
+               </persName>
+               <persName type="namensvariante">Mara Čop</persName>
+               <birth>
+                  <date when="1858">1858</date>
+               </birth>
+               <death>
+                  <date when="1910">1910</date>
+               </death>
+               <idno type="HB-tv">HB-tv_503_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156750.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156750">
-         <persName>
-            <surname>Berks</surname>
-            <forename>Marie von</forename>
-         </persName>
-         <persName type="namensvariante">Mara Čop</persName>
-         <birth>
-            <date when="1858">1858</date>
-         </birth>
-         <death>
-            <date when="1910">1910</date>
-         </death>
-         <idno type="HB-tv">HB-tv_503_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156750.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-   </back>
 </TEI>

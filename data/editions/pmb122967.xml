@@ -90,65 +90,67 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb14328">
+               <persName>
+                  <surname>Blumenthal</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date>1852-03-13</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1917-04-24</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1443_p2</idno>
+               <idno type="wikidata">Q71567</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+            <person xml:id="pmb114810">
+               <persName>
+                  <surname>Brandt</surname>
+                  <forename>Julius</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <birth>
+                  <date>1873-01-01</date>
+                  <placeName type="wikidata" ref="Q81137">Olmütz</placeName>
+               </birth>
+               <death>
+                  <date>1949-12-26</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2399_p2</idno>
+               <idno type="wikidata">Q89928</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116406100</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114810.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb14328">
-         <persName>
-            <surname>Blumenthal</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date>1852-03-13</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1917-04-24</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1443_p2</idno>
-         <idno type="wikidata">Q71567</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-      <person xml:id="pmb114810">
-         <persName>
-            <surname>Brandt</surname>
-            <forename>Julius</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <birth>
-            <date>1873-01-01</date>
-            <placeName type="wikidata" ref="Q81137">Olmütz</placeName>
-         </birth>
-         <death>
-            <date>1949-12-26</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2399_p2</idno>
-         <idno type="wikidata">Q89928</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116406100</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114810.html</idno>
-      </person>
-   </back>
 </TEI>

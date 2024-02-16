@@ -68,26 +68,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb18654">
+               <persName>
+                  <surname>Hölderlin</surname>
+                  <forename>Johann Christian Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1770-03-20</date>
+                  <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
+               </birth>
+               <death>
+                  <date>1843-06-07</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2615_p43</idno>
+               <idno type="wikidata">Q75889</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb18654">
-         <persName>
-            <surname>Hölderlin</surname>
-            <forename>Johann Christian Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1770-03-20</date>
-            <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
-         </birth>
-         <death>
-            <date>1843-06-07</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2615_p43</idno>
-         <idno type="wikidata">Q75889</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
-      </person>
-   </back>
 </TEI>

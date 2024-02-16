@@ -74,26 +74,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148595">
+               <persName>
+                  <surname>Smith</surname>
+                  <forename>Adam</forename>
+               </persName>
+               <birth>
+                  <date>1723-06-05</date>
+                  <placeName type="wikidata" ref="Q691685">Kirkcaldy</placeName>
+               </birth>
+               <death>
+                  <date>1790-07-17</date>
+                  <placeName type="wikidata" ref="Q23436">Edinburgh</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1445_p1</idno>
+               <idno type="wikidata">Q9381</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118615033</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148595.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148595">
-         <persName>
-            <surname>Smith</surname>
-            <forename>Adam</forename>
-         </persName>
-         <birth>
-            <date>1723-06-05</date>
-            <placeName type="wikidata" ref="Q691685">Kirkcaldy</placeName>
-         </birth>
-         <death>
-            <date>1790-07-17</date>
-            <placeName type="wikidata" ref="Q23436">Edinburgh</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1445_p1</idno>
-         <idno type="wikidata">Q9381</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118615033</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148595.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -123,59 +123,61 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb116139">
+               <persName>
+                  <surname>Stead</surname>
+                  <forename>William Thomas</forename>
+               </persName>
+               <birth>
+                  <date>1849-07-05</date>
+                  <placeName type="wikidata" ref="Q23079">Northumberland</placeName>
+               </birth>
+               <death>
+                  <date>1912-04-15</date>
+                  <placeName type="wikidata" ref="Q350134">Nordatlantik</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3453_p1</idno>
+               <idno type="wikidata">Q288301</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117652741</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116139.html</idno>
+            </person>
+            <person xml:id="pmb156137">
+               <persName>
+                  <surname>Reiß</surname>
+                  <forename>Erich Caesar</forename>
+               </persName>
+               <birth>
+                  <date when="1887">1887</date>
+               </birth>
+               <death>
+                  <date when="1951">1951</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3453_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156137.html</idno>
+            </person>
+            <person xml:id="pmb150901">
+               <persName>
+                  <surname>Weizsäcker</surname>
+                  <forename>Carl Heinrich</forename>
+               </persName>
+               <birth>
+                  <date>1822-12-11</date>
+                  <placeName type="wikidata" ref="Q294783">Öhringen</placeName>
+               </birth>
+               <death>
+                  <date>1899-08-13</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3453_p3</idno>
+               <idno type="wikidata">Q64750</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117308110</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150901.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb116139">
-         <persName>
-            <surname>Stead</surname>
-            <forename>William Thomas</forename>
-         </persName>
-         <birth>
-            <date>1849-07-05</date>
-            <placeName type="wikidata" ref="Q23079">Northumberland</placeName>
-         </birth>
-         <death>
-            <date>1912-04-15</date>
-            <placeName type="wikidata" ref="Q350134">Nordatlantik</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3453_p1</idno>
-         <idno type="wikidata">Q288301</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117652741</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116139.html</idno>
-      </person>
-      <person xml:id="pmb156137">
-         <persName>
-            <surname>Reiß</surname>
-            <forename>Erich Caesar</forename>
-         </persName>
-         <birth>
-            <date when="1887">1887</date>
-         </birth>
-         <death>
-            <date when="1951">1951</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3453_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156137.html</idno>
-      </person>
-      <person xml:id="pmb150901">
-         <persName>
-            <surname>Weizsäcker</surname>
-            <forename>Carl Heinrich</forename>
-         </persName>
-         <birth>
-            <date>1822-12-11</date>
-            <placeName type="wikidata" ref="Q294783">Öhringen</placeName>
-         </birth>
-         <death>
-            <date>1899-08-13</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3453_p3</idno>
-         <idno type="wikidata">Q64750</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117308110</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150901.html</idno>
-      </person>
-   </back>
 </TEI>

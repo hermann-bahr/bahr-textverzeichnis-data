@@ -121,49 +121,51 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155528">
+               <persName>
+                  <surname>Whitman</surname>
+                  <forename>Walter Sr.</forename>
+               </persName>
+               <birth>
+                  <date when="1789">1789</date>
+               </birth>
+               <death>
+                  <date when="1855">1855</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3362_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155528.html</idno>
+            </person>
+            <person xml:id="pmb155529">
+               <persName>
+                  <surname>Whitman</surname>
+                  <forename>Luisa</forename>
+               </persName>
+               <birth>
+                  <date when="1795">1795</date>
+               </birth>
+               <death>
+                  <date when="1873">1873</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3362_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155529.html</idno>
+            </person>
+            <person xml:id="pmb154736">
+               <persName>
+                  <surname>Fox</surname>
+                  <forename>George</forename>
+               </persName>
+               <birth>
+                  <date when="1624">1624</date>
+               </birth>
+               <death>
+                  <date when="1691">1691</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154736.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155528">
-         <persName>
-            <surname>Whitman</surname>
-            <forename>Walter Sr.</forename>
-         </persName>
-         <birth>
-            <date when="1789">1789</date>
-         </birth>
-         <death>
-            <date when="1855">1855</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3362_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155528.html</idno>
-      </person>
-      <person xml:id="pmb155529">
-         <persName>
-            <surname>Whitman</surname>
-            <forename>Luisa</forename>
-         </persName>
-         <birth>
-            <date when="1795">1795</date>
-         </birth>
-         <death>
-            <date when="1873">1873</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3362_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155529.html</idno>
-      </person>
-      <person xml:id="pmb154736">
-         <persName>
-            <surname>Fox</surname>
-            <forename>George</forename>
-         </persName>
-         <birth>
-            <date when="1624">1624</date>
-         </birth>
-         <death>
-            <date when="1691">1691</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154736.html</idno>
-      </person>
-   </back>
 </TEI>

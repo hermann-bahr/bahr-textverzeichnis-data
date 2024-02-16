@@ -95,61 +95,63 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153569">
+               <persName>
+                  <surname>Heim</surname>
+                  <forename>Albert</forename>
+               </persName>
+               <birth>
+                  <date>1849-04-12</date>
+                  <placeName type="wikidata" ref="Q72">Zürich</placeName>
+               </birth>
+               <death>
+                  <date>1937-08-31</date>
+                  <placeName type="wikidata" ref="Q72">Zürich</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4470_p1</idno>
+               <idno type="wikidata">Q123898</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118773658</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153569.html</idno>
+            </person>
+            <person xml:id="pmb153572">
+               <persName>
+                  <surname>Bürkli</surname>
+                  <forename>Arnold</forename>
+               </persName>
+               <birth>
+                  <date>1833-02-02</date>
+                  <placeName type="wikidata" ref="Q72">Zürich</placeName>
+               </birth>
+               <death>
+                  <date>1894-05-06</date>
+                  <placeName type="wikidata" ref="Q72">Zürich</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4470_p2</idno>
+               <idno type="wikidata">Q694964</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11915398X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153572.html</idno>
+            </person>
+            <person xml:id="pmb157505">
+               <persName>
+                  <surname>Zweifel</surname>
+                  <forename>Peter</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4470_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157505.html</idno>
+            </person>
+            <person xml:id="pmb157506">
+               <persName>
+                  <surname>Rhyner</surname>
+                  <forename>Burkhard</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4470_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157506.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153569">
-         <persName>
-            <surname>Heim</surname>
-            <forename>Albert</forename>
-         </persName>
-         <birth>
-            <date>1849-04-12</date>
-            <placeName type="wikidata" ref="Q72">Zürich</placeName>
-         </birth>
-         <death>
-            <date>1937-08-31</date>
-            <placeName type="wikidata" ref="Q72">Zürich</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4470_p1</idno>
-         <idno type="wikidata">Q123898</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118773658</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153569.html</idno>
-      </person>
-      <person xml:id="pmb153572">
-         <persName>
-            <surname>Bürkli</surname>
-            <forename>Arnold</forename>
-         </persName>
-         <birth>
-            <date>1833-02-02</date>
-            <placeName type="wikidata" ref="Q72">Zürich</placeName>
-         </birth>
-         <death>
-            <date>1894-05-06</date>
-            <placeName type="wikidata" ref="Q72">Zürich</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4470_p2</idno>
-         <idno type="wikidata">Q694964</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11915398X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153572.html</idno>
-      </person>
-      <person xml:id="pmb157505">
-         <persName>
-            <surname>Zweifel</surname>
-            <forename>Peter</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4470_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157505.html</idno>
-      </person>
-      <person xml:id="pmb157506">
-         <persName>
-            <surname>Rhyner</surname>
-            <forename>Burkhard</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4470_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157506.html</idno>
-      </person>
-   </back>
 </TEI>

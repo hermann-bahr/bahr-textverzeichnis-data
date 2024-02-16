@@ -77,27 +77,29 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155099">
+               <persName>
+                  <surname>Nikodemus</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_3699_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155099.html</idno>
+            </person>
+            <person xml:id="pmb155100">
+               <persName>
+                  <surname>Jesus von Nazareth</surname>
+               </persName>
+               <birth>
+                  <date when-custom="4 v.u.Z.">4 v.u.Z.</date>
+               </birth>
+               <death>
+                  <date when-custom="30/31">30/31</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3699_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155100.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155099">
-         <persName>
-            <surname>Nikodemus</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3699_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155099.html</idno>
-      </person>
-      <person xml:id="pmb155100">
-         <persName>
-            <surname>Jesus von Nazareth</surname>
-         </persName>
-         <birth>
-            <date when-custom="4 v.u.Z.">4 v.u.Z.</date>
-         </birth>
-         <death>
-            <date when-custom="30/31">30/31</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3699_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155100.html</idno>
-      </person>
-   </back>
 </TEI>

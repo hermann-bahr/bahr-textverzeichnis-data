@@ -76,22 +76,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155936">
+               <persName>
+                  <surname>Mildenburg</surname>
+                  <forename>Maria Anna</forename>
+                  <surname type="birthname"> Butsch</surname>
+               </persName>
+               <birth>
+                  <date when="1837">1837</date>
+               </birth>
+               <death>
+                  <date when="1921">1921</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4813_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155936.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155936">
-         <persName>
-            <surname>Mildenburg</surname>
-            <forename>Maria Anna</forename>
-            <surname type="birthname"> Butsch</surname>
-         </persName>
-         <birth>
-            <date when="1837">1837</date>
-         </birth>
-         <death>
-            <date when="1921">1921</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4813_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155936.html</idno>
-      </person>
-   </back>
 </TEI>

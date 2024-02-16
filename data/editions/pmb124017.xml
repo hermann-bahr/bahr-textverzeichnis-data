@@ -134,30 +134,32 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154667">
+               <persName>
+                  <surname>Mänicke</surname>
+                  <forename>Bernhard</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_5936_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154667.html</idno>
+            </person>
+            <person xml:id="pmb154668">
+               <persName>
+                  <surname>Kruse</surname>
+                  <forename>Iven</forename>
+               </persName>
+               <occupation>Schriftsteller</occupation>
+               <birth>
+                  <date when="1865">1865</date>
+               </birth>
+               <death>
+                  <date when="1926">1926</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5936_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154668.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154667">
-         <persName>
-            <surname>Mänicke</surname>
-            <forename>Bernhard</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_5936_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154667.html</idno>
-      </person>
-      <person xml:id="pmb154668">
-         <persName>
-            <surname>Kruse</surname>
-            <forename>Iven</forename>
-         </persName>
-         <occupation>Schriftsteller</occupation>
-         <birth>
-            <date when="1865">1865</date>
-         </birth>
-         <death>
-            <date when="1926">1926</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5936_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154668.html</idno>
-      </person>
-   </back>
 </TEI>

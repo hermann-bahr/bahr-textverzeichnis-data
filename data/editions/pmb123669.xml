@@ -85,23 +85,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154495">
+               <persName>
+                  <surname>Fay</surname>
+                  <forename>Serena</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3832_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154495.html</idno>
+            </person>
+            <person xml:id="pmb154496">
+               <persName>
+                  <surname>Born</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_3832_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154496.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154495">
-         <persName>
-            <surname>Fay</surname>
-            <forename>Serena</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3832_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154495.html</idno>
-      </person>
-      <person xml:id="pmb154496">
-         <persName>
-            <surname>Born</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_3832_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154496.html</idno>
-      </person>
-   </back>
 </TEI>

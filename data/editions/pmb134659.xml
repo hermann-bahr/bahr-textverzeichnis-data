@@ -89,91 +89,93 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157427">
+               <persName>
+                  <surname>Gallet</surname>
+                  <forename>Berthe</forename>
+               </persName>
+               <birth>
+                  <date when="1870">1870</date>
+               </birth>
+               <death>
+                  <date when="1951">1951</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1178_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157427.html</idno>
+            </person>
+            <person xml:id="pmb157428">
+               <persName>
+                  <surname>Jameson</surname>
+                  <forename>Céline Isabeau</forename>
+               </persName>
+               <birth>
+                  <date when="1842">1842</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_1178_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157428.html</idno>
+            </person>
+            <person xml:id="pmb157429">
+               <persName>
+                  <surname>Noailles</surname>
+                  <forename>Anna-Élisabeth de</forename>
+               </persName>
+               <birth>
+                  <date when="1876">1876</date>
+               </birth>
+               <death>
+                  <date when="1933">1933</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1178_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157429.html</idno>
+            </person>
+            <person xml:id="pmb157430">
+               <persName>
+                  <surname>Bibescu</surname>
+                  <forename>Hélène</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1178_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157430.html</idno>
+            </person>
+            <person xml:id="pmb157431">
+               <persName>
+                  <surname>Conneau</surname>
+                  <forename>Henriette</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1178_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157431.html</idno>
+            </person>
+            <person xml:id="pmb157432">
+               <persName>
+                  <surname>Cornellier</surname>
+                  <forename>E.</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1178_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157432.html</idno>
+            </person>
+            <person xml:id="pmb157433">
+               <persName>
+                  <surname>Guichard ?</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_1178_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157433.html</idno>
+            </person>
+            <person xml:id="pmb157434">
+               <persName>
+                  <surname>Marterna</surname>
+                  <forename>Amalie</forename>
+               </persName>
+               <birth>
+                  <date when="1844">1844</date>
+               </birth>
+               <death>
+                  <date when="1918">1918</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1178_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157434.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157427">
-         <persName>
-            <surname>Gallet</surname>
-            <forename>Berthe</forename>
-         </persName>
-         <birth>
-            <date when="1870">1870</date>
-         </birth>
-         <death>
-            <date when="1951">1951</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1178_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157427.html</idno>
-      </person>
-      <person xml:id="pmb157428">
-         <persName>
-            <surname>Jameson</surname>
-            <forename>Céline Isabeau</forename>
-         </persName>
-         <birth>
-            <date when="1842">1842</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_1178_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157428.html</idno>
-      </person>
-      <person xml:id="pmb157429">
-         <persName>
-            <surname>Noailles</surname>
-            <forename>Anna-Élisabeth de</forename>
-         </persName>
-         <birth>
-            <date when="1876">1876</date>
-         </birth>
-         <death>
-            <date when="1933">1933</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1178_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157429.html</idno>
-      </person>
-      <person xml:id="pmb157430">
-         <persName>
-            <surname>Bibescu</surname>
-            <forename>Hélène</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1178_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157430.html</idno>
-      </person>
-      <person xml:id="pmb157431">
-         <persName>
-            <surname>Conneau</surname>
-            <forename>Henriette</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1178_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157431.html</idno>
-      </person>
-      <person xml:id="pmb157432">
-         <persName>
-            <surname>Cornellier</surname>
-            <forename>E.</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1178_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157432.html</idno>
-      </person>
-      <person xml:id="pmb157433">
-         <persName>
-            <surname>Guichard ?</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1178_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157433.html</idno>
-      </person>
-      <person xml:id="pmb157434">
-         <persName>
-            <surname>Marterna</surname>
-            <forename>Amalie</forename>
-         </persName>
-         <birth>
-            <date when="1844">1844</date>
-         </birth>
-         <death>
-            <date when="1918">1918</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1178_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157434.html</idno>
-      </person>
-   </back>
 </TEI>

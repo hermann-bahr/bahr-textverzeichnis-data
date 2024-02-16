@@ -86,26 +86,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148906">
+               <persName>
+                  <surname>Hörmann</surname>
+                  <forename>Theodor von</forename>
+               </persName>
+               <birth>
+                  <date>1840-12-13</date>
+                  <placeName type="wikidata" ref="Q254107">Imst</placeName>
+               </birth>
+               <death>
+                  <date>1895-07-01</date>
+                  <placeName type="wikidata" ref="Q13298">Graz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1319_p2</idno>
+               <idno type="wikidata">Q872134</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552201</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148906.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148906">
-         <persName>
-            <surname>Hörmann</surname>
-            <forename>Theodor von</forename>
-         </persName>
-         <birth>
-            <date>1840-12-13</date>
-            <placeName type="wikidata" ref="Q254107">Imst</placeName>
-         </birth>
-         <death>
-            <date>1895-07-01</date>
-            <placeName type="wikidata" ref="Q13298">Graz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1319_p2</idno>
-         <idno type="wikidata">Q872134</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552201</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148906.html</idno>
-      </person>
-   </back>
 </TEI>

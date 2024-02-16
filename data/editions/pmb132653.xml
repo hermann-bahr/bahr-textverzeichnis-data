@@ -87,45 +87,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156555">
+               <persName>
+                  <surname>Ording</surname>
+                  <forename>B.</forename>
+               </persName>
+               <occupation>Schulkamerad Ibsens</occupation>
+               <idno type="HB-tv">HB-tv_614_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156555.html</idno>
+            </person>
+            <person xml:id="pmb156556">
+               <persName>
+                  <surname>Schneider</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when="1847">1847</date>
+               </birth>
+               <death>
+                  <date when="1903">1903</date>
+               </death>
+               <idno type="HB-tv">HB-tv_614_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156556.html</idno>
+            </person>
+            <person xml:id="pmb156557">
+               <persName>
+                  <surname>Keppler</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <persName type="namensvariante">H. Kripgans</persName>
+               <birth>
+                  <date when="1857">1857</date>
+               </birth>
+               <death>
+                  <date when="1896">1896</date>
+               </death>
+               <idno type="HB-tv">HB-tv_614_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156557.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156555">
-         <persName>
-            <surname>Ording</surname>
-            <forename>B.</forename>
-         </persName>
-         <occupation>Schulkamerad Ibsens</occupation>
-         <idno type="HB-tv">HB-tv_614_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156555.html</idno>
-      </person>
-      <person xml:id="pmb156556">
-         <persName>
-            <surname>Schneider</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date when="1847">1847</date>
-         </birth>
-         <death>
-            <date when="1903">1903</date>
-         </death>
-         <idno type="HB-tv">HB-tv_614_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156556.html</idno>
-      </person>
-      <person xml:id="pmb156557">
-         <persName>
-            <surname>Keppler</surname>
-            <forename>Heinrich</forename>
-         </persName>
-         <persName type="namensvariante">H. Kripgans</persName>
-         <birth>
-            <date when="1857">1857</date>
-         </birth>
-         <death>
-            <date when="1896">1896</date>
-         </death>
-         <idno type="HB-tv">HB-tv_614_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156557.html</idno>
-      </person>
-   </back>
 </TEI>

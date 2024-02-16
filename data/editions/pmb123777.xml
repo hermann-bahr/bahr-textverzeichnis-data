@@ -86,45 +86,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148988">
+               <persName>
+                  <surname>Kantzow</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <birth>
+                  <date>1505-01-01</date>
+                  <placeName type="wikidata" ref="Q4065">Stralsund</placeName>
+               </birth>
+               <death>
+                  <date>1542-09-25</date>
+                  <placeName type="wikidata" ref="Q393">Stettin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2131_p1</idno>
+               <idno type="wikidata">Q89614</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/139945482</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148988.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148988">
-         <persName>
-            <surname>Kantzow</surname>
-            <forename>Thomas</forename>
-         </persName>
-         <birth>
-            <date>1505-01-01</date>
-            <placeName type="wikidata" ref="Q4065">Stralsund</placeName>
-         </birth>
-         <death>
-            <date>1542-09-25</date>
-            <placeName type="wikidata" ref="Q393">Stettin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2131_p1</idno>
-         <idno type="wikidata">Q89614</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/139945482</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148988.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-   </back>
 </TEI>

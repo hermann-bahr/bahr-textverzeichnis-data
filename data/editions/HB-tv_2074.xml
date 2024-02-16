@@ -66,42 +66,44 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153906">
+               <persName>
+                  <surname>Karlweis</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2074_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153906.html</idno>
+            </person>
+            <person xml:id="pmb153907">
+               <persName>
+                  <surname>Grabley</surname>
+                  <forename>Ursula</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2074_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153907.html</idno>
+            </person>
+            <person xml:id="pmb114705">
+               <persName>
+                  <surname>Janssen</surname>
+                  <forename>Walter</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2074_p3</idno>
+               <idno type="wikidata">Q85877</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/136550592</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114705.html</idno>
+            </person>
+            <person xml:id="pmb153908">
+               <persName>
+                  <surname>Evans</surname>
+                  <forename>Karin</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2074_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153908.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153906">
-         <persName>
-            <surname>Karlweis</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2074_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153906.html</idno>
-      </person>
-      <person xml:id="pmb153907">
-         <persName>
-            <surname>Grabley</surname>
-            <forename>Ursula</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2074_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153907.html</idno>
-      </person>
-      <person xml:id="pmb114705">
-         <persName>
-            <surname>Janssen</surname>
-            <forename>Walter</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2074_p3</idno>
-         <idno type="wikidata">Q85877</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/136550592</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114705.html</idno>
-      </person>
-      <person xml:id="pmb153908">
-         <persName>
-            <surname>Evans</surname>
-            <forename>Karin</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2074_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153908.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -80,27 +80,29 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157462">
+               <persName>
+                  <surname>Solon</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 640">um 640</date>
+               </birth>
+               <death>
+                  <date when-custom="um 560 v.u.Z.">um 560 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5934_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157462.html</idno>
+            </person>
+            <person xml:id="pmb157463">
+               <persName>
+                  <surname>Lykurg</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_5934_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157463.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157462">
-         <persName>
-            <surname>Solon</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 640">um 640</date>
-         </birth>
-         <death>
-            <date when-custom="um 560 v.u.Z.">um 560 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5934_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157462.html</idno>
-      </person>
-      <person xml:id="pmb157463">
-         <persName>
-            <surname>Lykurg</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5934_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157463.html</idno>
-      </person>
-   </back>
 </TEI>

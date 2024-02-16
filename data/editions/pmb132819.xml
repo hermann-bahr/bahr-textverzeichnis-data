@@ -102,73 +102,75 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb3368">
+               <persName>
+                  <surname>Olbrich</surname>
+                  <forename>Josef Maria</forename>
+               </persName>
+               <birth>
+                  <date>1867-12-22</date>
+                  <placeName type="wikidata" ref="Q156080">Opava</placeName>
+               </birth>
+               <death>
+                  <date>1908-08-08</date>
+                  <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1326_p4</idno>
+               <idno type="wikidata">Q44911</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
+            </person>
+            <person xml:id="pmb156636">
+               <persName>
+                  <surname>Gerlach [Verleger] ?</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2994_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156636.html</idno>
+            </person>
+            <person xml:id="pmb156637">
+               <persName>
+                  <surname>Schenk [Verleger] ?</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2994_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156637.html</idno>
+            </person>
+            <person xml:id="pmb151386">
+               <persName>
+                  <surname>Rysselberghe</surname>
+                  <forename>Théo van</forename>
+               </persName>
+               <birth>
+                  <date>1862-11-23</date>
+                  <placeName type="wikidata" ref="Q1296">Gent</placeName>
+               </birth>
+               <death>
+                  <date>1926-12-14</date>
+                  <placeName type="wikidata" ref="Q736462">Le Lavandou</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3185_p1</idno>
+               <idno type="wikidata">Q671883</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118745328</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151386.html</idno>
+            </person>
+            <person xml:id="pmb154378">
+               <persName>
+                  <surname>Miethke</surname>
+                  <forename>Hugo Othmar</forename>
+               </persName>
+               <birth>
+                  <date when="1881">1881</date>
+               </birth>
+               <death>
+                  <date when="1922">1922</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1319_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154378.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb3368">
-         <persName>
-            <surname>Olbrich</surname>
-            <forename>Josef Maria</forename>
-         </persName>
-         <birth>
-            <date>1867-12-22</date>
-            <placeName type="wikidata" ref="Q156080">Opava</placeName>
-         </birth>
-         <death>
-            <date>1908-08-08</date>
-            <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1326_p4</idno>
-         <idno type="wikidata">Q44911</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
-      </person>
-      <person xml:id="pmb156636">
-         <persName>
-            <surname>Gerlach [Verleger] ?</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2994_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156636.html</idno>
-      </person>
-      <person xml:id="pmb156637">
-         <persName>
-            <surname>Schenk [Verleger] ?</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2994_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156637.html</idno>
-      </person>
-      <person xml:id="pmb151386">
-         <persName>
-            <surname>Rysselberghe</surname>
-            <forename>Théo van</forename>
-         </persName>
-         <birth>
-            <date>1862-11-23</date>
-            <placeName type="wikidata" ref="Q1296">Gent</placeName>
-         </birth>
-         <death>
-            <date>1926-12-14</date>
-            <placeName type="wikidata" ref="Q736462">Le Lavandou</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3185_p1</idno>
-         <idno type="wikidata">Q671883</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745328</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151386.html</idno>
-      </person>
-      <person xml:id="pmb154378">
-         <persName>
-            <surname>Miethke</surname>
-            <forename>Hugo Othmar</forename>
-         </persName>
-         <birth>
-            <date when="1881">1881</date>
-         </birth>
-         <death>
-            <date when="1922">1922</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1319_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154378.html</idno>
-      </person>
-   </back>
 </TEI>

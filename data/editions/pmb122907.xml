@@ -79,41 +79,43 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154117">
+               <persName>
+                  <surname>Hading</surname>
+                  <forename>Jane</forename>
+               </persName>
+               <persName type="namensvariante">Jeanne Alfredine Trefouret</persName>
+               <birth>
+                  <date when="1859">1859</date>
+               </birth>
+               <death>
+                  <date when="1940">1940</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1905_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154117.html</idno>
+            </person>
+            <person xml:id="pmb148810">
+               <persName>
+                  <surname>Fouquier</surname>
+                  <forename>Henri</forename>
+               </persName>
+               <birth>
+                  <date>1838-09-01</date>
+                  <placeName type="wikidata" ref="Q23482">Marseille</placeName>
+               </birth>
+               <death>
+                  <date>1901-12-25</date>
+                  <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1903_p2</idno>
+               <idno type="wikidata">Q3132781</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1176044680</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148810.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154117">
-         <persName>
-            <surname>Hading</surname>
-            <forename>Jane</forename>
-         </persName>
-         <persName type="namensvariante">Jeanne Alfredine Trefouret</persName>
-         <birth>
-            <date when="1859">1859</date>
-         </birth>
-         <death>
-            <date when="1940">1940</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1905_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154117.html</idno>
-      </person>
-      <person xml:id="pmb148810">
-         <persName>
-            <surname>Fouquier</surname>
-            <forename>Henri</forename>
-         </persName>
-         <birth>
-            <date>1838-09-01</date>
-            <placeName type="wikidata" ref="Q23482">Marseille</placeName>
-         </birth>
-         <death>
-            <date>1901-12-25</date>
-            <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1903_p2</idno>
-         <idno type="wikidata">Q3132781</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1176044680</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148810.html</idno>
-      </person>
-   </back>
 </TEI>

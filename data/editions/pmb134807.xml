@@ -83,21 +83,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157490">
+               <persName>
+                  <surname>Hillern</surname>
+                  <forename>Wilhelmine von</forename>
+               </persName>
+               <birth>
+                  <date when="1836">1836</date>
+               </birth>
+               <death>
+                  <date when="1916">1916</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1421_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157490.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157490">
-         <persName>
-            <surname>Hillern</surname>
-            <forename>Wilhelmine von</forename>
-         </persName>
-         <birth>
-            <date when="1836">1836</date>
-         </birth>
-         <death>
-            <date when="1916">1916</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1421_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157490.html</idno>
-      </person>
-   </back>
 </TEI>

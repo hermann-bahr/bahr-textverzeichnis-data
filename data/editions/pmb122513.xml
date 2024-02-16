@@ -90,92 +90,94 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114175">
+               <persName>
+                  <surname>Gneisenau</surname>
+                  <forename>August Neidhardt von</forename>
+               </persName>
+               <birth>
+                  <date>1760-10-27</date>
+                  <placeName type="wikidata" ref="Q12048">Schildau</placeName>
+               </birth>
+               <death>
+                  <date>1831-08-23</date>
+                  <placeName type="wikidata" ref="Q268">Posen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_507_p1</idno>
+               <idno type="wikidata">Q165519</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118539957</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114175.html</idno>
+            </person>
+            <person xml:id="pmb153933">
+               <persName>
+                  <surname>Stein</surname>
+                  <forename>Heinrich Friedrich Karl vom und zum</forename>
+               </persName>
+               <birth>
+                  <date when="1757">1757</date>
+               </birth>
+               <death>
+                  <date when="1831">1831</date>
+               </death>
+               <idno type="HB-tv">HB-tv_507_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153933.html</idno>
+            </person>
+            <person xml:id="pmb153934">
+               <persName>
+                  <surname>Hardenberg</surname>
+                  <forename>Karl August von</forename>
+               </persName>
+               <birth>
+                  <date when="1750">1750</date>
+               </birth>
+               <death>
+                  <date when="1822">1822</date>
+               </death>
+               <idno type="HB-tv">HB-tv_507_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153934.html</idno>
+            </person>
+            <person xml:id="pmb148623">
+               <persName>
+                  <surname>Scharnhorst</surname>
+                  <forename>Gerhard von</forename>
+               </persName>
+               <birth>
+                  <date>1755-11-12</date>
+                  <placeName type="wikidata" ref="Q893404">Bordenau</placeName>
+               </birth>
+               <death>
+                  <date>1813-06-28</date>
+                  <placeName type="wikidata" ref="Q1085">Prag</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_507_p4</idno>
+               <idno type="wikidata">Q170340</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118606557</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148623.html</idno>
+            </person>
+            <person xml:id="pmb60373">
+               <persName>
+                  <surname>Schönerer</surname>
+                  <forename>Georg Heinrich von</forename>
+               </persName>
+               <birth>
+                  <date>1842-07-17</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1921-08-14</date>
+                  <placeName type="wikidata" ref="Q340128">Schloss Rosenau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1446_p3</idno>
+               <idno type="wikidata">Q112005</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118610163</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb60373.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114175">
-         <persName>
-            <surname>Gneisenau</surname>
-            <forename>August Neidhardt von</forename>
-         </persName>
-         <birth>
-            <date>1760-10-27</date>
-            <placeName type="wikidata" ref="Q12048">Schildau</placeName>
-         </birth>
-         <death>
-            <date>1831-08-23</date>
-            <placeName type="wikidata" ref="Q268">Posen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_507_p1</idno>
-         <idno type="wikidata">Q165519</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118539957</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114175.html</idno>
-      </person>
-      <person xml:id="pmb153933">
-         <persName>
-            <surname>Stein</surname>
-            <forename>Heinrich Friedrich Karl vom und zum</forename>
-         </persName>
-         <birth>
-            <date when="1757">1757</date>
-         </birth>
-         <death>
-            <date when="1831">1831</date>
-         </death>
-         <idno type="HB-tv">HB-tv_507_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153933.html</idno>
-      </person>
-      <person xml:id="pmb153934">
-         <persName>
-            <surname>Hardenberg</surname>
-            <forename>Karl August von</forename>
-         </persName>
-         <birth>
-            <date when="1750">1750</date>
-         </birth>
-         <death>
-            <date when="1822">1822</date>
-         </death>
-         <idno type="HB-tv">HB-tv_507_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153934.html</idno>
-      </person>
-      <person xml:id="pmb148623">
-         <persName>
-            <surname>Scharnhorst</surname>
-            <forename>Gerhard von</forename>
-         </persName>
-         <birth>
-            <date>1755-11-12</date>
-            <placeName type="wikidata" ref="Q893404">Bordenau</placeName>
-         </birth>
-         <death>
-            <date>1813-06-28</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_507_p4</idno>
-         <idno type="wikidata">Q170340</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118606557</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148623.html</idno>
-      </person>
-      <person xml:id="pmb60373">
-         <persName>
-            <surname>Schönerer</surname>
-            <forename>Georg Heinrich von</forename>
-         </persName>
-         <birth>
-            <date>1842-07-17</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1921-08-14</date>
-            <placeName type="wikidata" ref="Q340128">Schloss Rosenau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1446_p3</idno>
-         <idno type="wikidata">Q112005</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118610163</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb60373.html</idno>
-      </person>
-   </back>
 </TEI>

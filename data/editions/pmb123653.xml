@@ -80,48 +80,20 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb43745">
+               <persName>
+                  <surname>Tilgner</surname>
+                  <forename>Victor</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2115_p1</idno>
+               <idno type="wikidata">Q326777</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2115_p1</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3851_p2</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <birth>
-            <date>1844-10-25</date>
-            <placeName type="wikidata" ref="Q1780">Bratislava</placeName>
-         </birth>
-         <death>
-            <date>1896-04-16</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3586_p15</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-   </back>
 </TEI>

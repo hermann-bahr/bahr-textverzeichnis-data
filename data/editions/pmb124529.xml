@@ -76,69 +76,71 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154755">
+               <persName>
+                  <surname>Winzerer</surname>
+                  <forename>Kaspar II.</forename>
+               </persName>
+               <death>
+                  <date when="1515">1515</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6637_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154755.html</idno>
+            </person>
+            <person xml:id="pmb154756">
+               <persName>
+                  <surname>Winzerer</surname>
+                  <forename>Kaspar III.</forename>
+               </persName>
+               <birth>
+                  <date when-custom="1465/1475">1465/1475</date>
+               </birth>
+               <death>
+                  <date when="1542">1542</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6637_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154756.html</idno>
+            </person>
+            <person xml:id="pmb146541">
+               <persName>
+                  <surname>Maximilian I. von Habsburg</surname>
+               </persName>
+               <birth>
+                  <date>1459-03-22</date>
+                  <placeName type="wikidata" ref="Q131612">Wiener Neustadt</placeName>
+               </birth>
+               <death>
+                  <date>1519-01-12</date>
+                  <placeName type="wikidata" ref="Q178582">Wels</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6637_p3</idno>
+               <idno type="wikidata">Q150726</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118579371</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146541.html</idno>
+            </person>
+            <person xml:id="pmb149222">
+               <persName>
+                  <surname>Frundsberg</surname>
+                  <forename>Georg von</forename>
+               </persName>
+               <birth>
+                  <date>1473-09-24</date>
+                  <placeName type="wikidata" ref="Q518579">Mindelheim</placeName>
+               </birth>
+               <death>
+                  <date>1528-08-20</date>
+                  <placeName type="wikidata" ref="Q518579">Mindelheim</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6637_p4</idno>
+               <idno type="wikidata">Q44990</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118536524</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149222.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154755">
-         <persName>
-            <surname>Winzerer</surname>
-            <forename>Kaspar II.</forename>
-         </persName>
-         <death>
-            <date when="1515">1515</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6637_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154755.html</idno>
-      </person>
-      <person xml:id="pmb154756">
-         <persName>
-            <surname>Winzerer</surname>
-            <forename>Kaspar III.</forename>
-         </persName>
-         <birth>
-            <date when-custom="1465/1475">1465/1475</date>
-         </birth>
-         <death>
-            <date when="1542">1542</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6637_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154756.html</idno>
-      </person>
-      <person xml:id="pmb146541">
-         <persName>
-            <surname>Maximilian I. von Habsburg</surname>
-         </persName>
-         <birth>
-            <date>1459-03-22</date>
-            <placeName type="wikidata" ref="Q131612">Wiener Neustadt</placeName>
-         </birth>
-         <death>
-            <date>1519-01-12</date>
-            <placeName type="wikidata" ref="Q178582">Wels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6637_p3</idno>
-         <idno type="wikidata">Q150726</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118579371</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146541.html</idno>
-      </person>
-      <person xml:id="pmb149222">
-         <persName>
-            <surname>Frundsberg</surname>
-            <forename>Georg von</forename>
-         </persName>
-         <birth>
-            <date>1473-09-24</date>
-            <placeName type="wikidata" ref="Q518579">Mindelheim</placeName>
-         </birth>
-         <death>
-            <date>1528-08-20</date>
-            <placeName type="wikidata" ref="Q518579">Mindelheim</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6637_p4</idno>
-         <idno type="wikidata">Q44990</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118536524</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149222.html</idno>
-      </person>
-   </back>
 </TEI>

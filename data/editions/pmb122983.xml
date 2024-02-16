@@ -82,23 +82,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154164">
+               <persName>
+                  <surname>Baum</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4695_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154164.html</idno>
+            </person>
+            <person xml:id="pmb154165">
+               <persName>
+                  <surname>Norini</surname>
+                  <forename>Emil</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4695_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154165.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154164">
-         <persName>
-            <surname>Baum</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4695_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154164.html</idno>
-      </person>
-      <person xml:id="pmb154165">
-         <persName>
-            <surname>Norini</surname>
-            <forename>Emil</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4695_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154165.html</idno>
-      </person>
-   </back>
 </TEI>

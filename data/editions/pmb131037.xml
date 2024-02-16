@@ -72,26 +72,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb115885">
+               <persName>
+                  <surname>Roosevelt</surname>
+                  <forename>Theodore</forename>
+               </persName>
+               <birth>
+                  <date>1858-10-27</date>
+                  <placeName type="wikidata" ref="Q60">New York City</placeName>
+               </birth>
+               <death>
+                  <date>1919-01-06</date>
+                  <placeName type="wikidata" ref="Q7398976"/>
+               </death>
+               <idno type="HB-tv">HB-tv_147_p1</idno>
+               <idno type="wikidata">Q33866</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115885.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb115885">
-         <persName>
-            <surname>Roosevelt</surname>
-            <forename>Theodore</forename>
-         </persName>
-         <birth>
-            <date>1858-10-27</date>
-            <placeName type="wikidata" ref="Q60">New York City</placeName>
-         </birth>
-         <death>
-            <date>1919-01-06</date>
-            <placeName type="wikidata" ref="Q7398976"/>
-         </death>
-         <idno type="HB-tv">HB-tv_147_p1</idno>
-         <idno type="wikidata">Q33866</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115885.html</idno>
-      </person>
-   </back>
 </TEI>

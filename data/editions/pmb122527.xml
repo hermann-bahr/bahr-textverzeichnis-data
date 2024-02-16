@@ -80,21 +80,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153940">
+               <persName>
+                  <surname>Mensch</surname>
+                  <forename>Ella</forename>
+               </persName>
+               <birth>
+                  <date when="1859">1859</date>
+               </birth>
+               <death>
+                  <date when="1935">1935</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3844_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153940.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153940">
-         <persName>
-            <surname>Mensch</surname>
-            <forename>Ella</forename>
-         </persName>
-         <birth>
-            <date when="1859">1859</date>
-         </birth>
-         <death>
-            <date when="1935">1935</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3844_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153940.html</idno>
-      </person>
-   </back>
 </TEI>

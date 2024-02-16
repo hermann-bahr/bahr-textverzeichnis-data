@@ -94,156 +94,57 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114988">
+               <persName>
+                  <surname>Somov</surname>
+                  <forename>Konstantin</forename>
+               </persName>
+               <birth>
+                  <date>1869-11-30</date>
+                  <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
+               </birth>
+               <death>
+                  <date>1939-05-06</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2436_p1</idno>
+               <idno type="wikidata">Q433067</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/12895826X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114988.html</idno>
+            </person>
+            <person xml:id="pmb148753">
+               <persName>
+                  <surname>Forest</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2436_p2</idno>
+               <idno type="wikidata">Q6168908</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/136326137</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148753.html</idno>
+            </person>
+            <person xml:id="pmb5313">
+               <persName>
+                  <surname>Elisabeth I. von England</surname>
+               </persName>
+               <birth>
+                  <date>1533-09-07</date>
+                  <placeName type="wikidata" ref="Q1424839">Palace of Placentia</placeName>
+               </birth>
+               <death>
+                  <date>1603-03-24</date>
+                  <placeName type="wikidata" ref="Q1059945">Richmond Palace</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2436_p3</idno>
+               <idno type="wikidata">Q7207</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5313.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114988">
-         <persName>
-            <surname>Somov</surname>
-            <forename>Konstantin</forename>
-         </persName>
-         <birth>
-            <date>1869-11-30</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </birth>
-         <death>
-            <date>1939-05-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2436_p1</idno>
-         <idno type="wikidata">Q433067</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/12895826X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114988.html</idno>
-      </person>
-      <person xml:id="pmb148753">
-         <persName>
-            <surname>Forest</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2436_p2</idno>
-         <idno type="wikidata">Q6168908</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/136326137</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148753.html</idno>
-      </person>
-      <person xml:id="pmb148753">
-         <persName>
-            <surname>Forest</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2024_p1</idno>
-         <idno type="wikidata">Q6168908</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/136326137</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148753.html</idno>
-      </person>
-      <person xml:id="pmb5313">
-         <persName>
-            <surname>Elisabeth I. von England</surname>
-         </persName>
-         <birth>
-            <date>1533-09-07</date>
-            <placeName type="wikidata" ref="Q1424839">Palace of Placentia</placeName>
-         </birth>
-         <death>
-            <date>1603-03-24</date>
-            <placeName type="wikidata" ref="Q1059945">Richmond Palace</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2436_p3</idno>
-         <idno type="wikidata">Q7207</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5313.html</idno>
-      </person>
-      <person xml:id="pmb5313">
-         <persName>
-            <surname>Elisabeth I. von England</surname>
-         </persName>
-         <birth>
-            <date>1533-09-07</date>
-            <placeName type="wikidata" ref="Q1424839">Palace of Placentia</placeName>
-         </birth>
-         <death>
-            <date>1603-03-24</date>
-            <placeName type="wikidata" ref="Q1059945">Richmond Palace</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p4</idno>
-         <idno type="wikidata">Q7207</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5313.html</idno>
-      </person>
-      <person xml:id="pmb5313">
-         <persName>
-            <surname>Elisabeth I. von England</surname>
-         </persName>
-         <birth>
-            <date>1533-09-07</date>
-            <placeName type="wikidata" ref="Q1424839">Palace of Placentia</placeName>
-         </birth>
-         <death>
-            <date>1603-03-24</date>
-            <placeName type="wikidata" ref="Q1059945">Richmond Palace</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3521_p14</idno>
-         <idno type="wikidata">Q7207</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5313.html</idno>
-      </person>
-      <person xml:id="pmb5313">
-         <persName>
-            <surname>Elizabeth I of England</surname>
-         </persName>
-         <birth>
-            <date>1533-09-07</date>
-            <placeName type="wikidata" ref="Q1424839">Palace of Placentia</placeName>
-         </birth>
-         <death>
-            <date>1603-03-24</date>
-            <placeName type="wikidata" ref="Q1059945">Richmond Palace</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2390_p6</idno>
-         <idno type="wikidata">Q7207</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5313.html</idno>
-      </person>
-      <person xml:id="pmb5313">
-         <persName>
-            <surname>Elisabeth I. von England</surname>
-         </persName>
-         <birth>
-            <date>1533-09-07</date>
-            <placeName type="wikidata" ref="Q1424839">Palace of Placentia</placeName>
-         </birth>
-         <death>
-            <date>1603-03-24</date>
-            <placeName type="wikidata" ref="Q1059945">Richmond Palace</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3370_p22</idno>
-         <idno type="wikidata">Q7207</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5313.html</idno>
-      </person>
-      <person xml:id="pmb5313">
-         <persName>
-            <surname>Elizabeth I of England</surname>
-         </persName>
-         <birth>
-            <date>1533-09-07</date>
-            <placeName type="wikidata" ref="Q1424839">Palace of Placentia</placeName>
-         </birth>
-         <death>
-            <date>1603-03-24</date>
-            <placeName type="wikidata" ref="Q1059945">Richmond Palace</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_306_p6</idno>
-         <idno type="wikidata">Q7207</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5313.html</idno>
-      </person>
-   </back>
 </TEI>

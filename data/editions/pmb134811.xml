@@ -87,106 +87,108 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155215">
+               <persName>
+                  <surname>Stein</surname>
+                  <forename>Lorenz von</forename>
+               </persName>
+               <birth>
+                  <date when="1815">1815</date>
+               </birth>
+               <death>
+                  <date when="1890">1890</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4854_p11</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155215.html</idno>
+            </person>
+            <person xml:id="pmb157493">
+               <persName>
+                  <surname>Semmler</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <birth>
+                  <date when="1841">1841</date>
+               </birth>
+               <death>
+                  <date when="1888">1888</date>
+               </death>
+               <idno type="HB-tv">HB-tv_506_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157493.html</idno>
+            </person>
+            <person xml:id="pmb157494">
+               <persName>
+                  <surname>Ronna</surname>
+                  <forename>Antoine</forename>
+               </persName>
+               <birth>
+                  <date when="1830">1830</date>
+               </birth>
+               <death>
+                  <date when="1902">1902</date>
+               </death>
+               <idno type="HB-tv">HB-tv_506_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157494.html</idno>
+            </person>
+            <person xml:id="pmb149963">
+               <persName>
+                  <surname>Kudlich</surname>
+                  <forename>Hans</forename>
+               </persName>
+               <birth>
+                  <date>1823-10-23</date>
+                  <placeName type="wikidata" ref="Q330634">Úvalno</placeName>
+               </birth>
+               <death>
+                  <date>1917-11-11</date>
+                  <placeName type="wikidata" ref="Q138578">Hoboken</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4854_p2</idno>
+               <idno type="wikidata">Q113277</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118567470</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149963.html</idno>
+            </person>
+            <person xml:id="pmb153556">
+               <persName>
+                  <surname>Wiser</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date>1800-03-06</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1889-01-01</date>
+                  <placeName type="wikidata" ref="Q41329">Linz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_506_p5</idno>
+               <idno type="wikidata">Q1733461</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/123159277X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153556.html</idno>
+            </person>
+            <person xml:id="pmb113398">
+               <persName>
+                  <surname>Granitsch</surname>
+                  <forename>Georg</forename>
+               </persName>
+               <birth>
+                  <date>1833-02-01</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1903-09-18</date>
+                  <placeName type="wikidata" ref="Q1567437">Hadersdorf-Weidlingau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_506_p6</idno>
+               <idno type="wikidata">Q20755200</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/130166790</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113398.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155215">
-         <persName>
-            <surname>Stein</surname>
-            <forename>Lorenz von</forename>
-         </persName>
-         <birth>
-            <date when="1815">1815</date>
-         </birth>
-         <death>
-            <date when="1890">1890</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4854_p11</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155215.html</idno>
-      </person>
-      <person xml:id="pmb157493">
-         <persName>
-            <surname>Semmler</surname>
-            <forename>Heinrich</forename>
-         </persName>
-         <birth>
-            <date when="1841">1841</date>
-         </birth>
-         <death>
-            <date when="1888">1888</date>
-         </death>
-         <idno type="HB-tv">HB-tv_506_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157493.html</idno>
-      </person>
-      <person xml:id="pmb157494">
-         <persName>
-            <surname>Ronna</surname>
-            <forename>Antoine</forename>
-         </persName>
-         <birth>
-            <date when="1830">1830</date>
-         </birth>
-         <death>
-            <date when="1902">1902</date>
-         </death>
-         <idno type="HB-tv">HB-tv_506_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157494.html</idno>
-      </person>
-      <person xml:id="pmb149963">
-         <persName>
-            <surname>Kudlich</surname>
-            <forename>Hans</forename>
-         </persName>
-         <birth>
-            <date>1823-10-23</date>
-            <placeName type="wikidata" ref="Q330634">Úvalno</placeName>
-         </birth>
-         <death>
-            <date>1917-11-11</date>
-            <placeName type="wikidata" ref="Q138578">Hoboken</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4854_p2</idno>
-         <idno type="wikidata">Q113277</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118567470</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149963.html</idno>
-      </person>
-      <person xml:id="pmb153556">
-         <persName>
-            <surname>Wiser</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date>1800-03-06</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1889-01-01</date>
-            <placeName type="wikidata" ref="Q41329">Linz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_506_p5</idno>
-         <idno type="wikidata">Q1733461</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/123159277X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153556.html</idno>
-      </person>
-      <person xml:id="pmb113398">
-         <persName>
-            <surname>Granitsch</surname>
-            <forename>Georg</forename>
-         </persName>
-         <birth>
-            <date>1833-02-01</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1903-09-18</date>
-            <placeName type="wikidata" ref="Q1567437">Hadersdorf-Weidlingau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_506_p6</idno>
-         <idno type="wikidata">Q20755200</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/130166790</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113398.html</idno>
-      </person>
-   </back>
 </TEI>

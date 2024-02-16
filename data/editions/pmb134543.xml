@@ -119,37 +119,39 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157385">
+               <persName>
+                  <surname>Zeltern</surname>
+                  <forename>A.M.</forename>
+               </persName>
+               <persName type="namensvariante">Seraphine von Blangy-Lebzeltern</persName>
+               <birth>
+                  <date when="1842">1842</date>
+               </birth>
+               <death>
+                  <date when="1912">1912</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2620_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157385.html</idno>
+            </person>
+            <person xml:id="pmb157384">
+               <persName>
+                  <surname>Formes</surname>
+                  <forename>Margarethe</forename>
+               </persName>
+               <persName type="namensvariante">Margarethe Königswarter</persName>
+               <birth>
+                  <date when="1869">1869</date>
+               </birth>
+               <death>
+                  <date when="1942">1942</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2621_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157384.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157385">
-         <persName>
-            <surname>Zeltern</surname>
-            <forename>A.M.</forename>
-         </persName>
-         <persName type="namensvariante">Seraphine von Blangy-Lebzeltern</persName>
-         <birth>
-            <date when="1842">1842</date>
-         </birth>
-         <death>
-            <date when="1912">1912</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2620_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157385.html</idno>
-      </person>
-      <person xml:id="pmb157384">
-         <persName>
-            <surname>Formes</surname>
-            <forename>Margarethe</forename>
-         </persName>
-         <persName type="namensvariante">Margarethe Königswarter</persName>
-         <birth>
-            <date when="1869">1869</date>
-         </birth>
-         <death>
-            <date when="1942">1942</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2621_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157384.html</idno>
-      </person>
-   </back>
 </TEI>

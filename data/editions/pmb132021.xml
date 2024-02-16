@@ -93,59 +93,61 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb3368">
+               <persName>
+                  <surname>Olbrich</surname>
+                  <forename>Josef Maria</forename>
+               </persName>
+               <birth>
+                  <date>1867-12-22</date>
+                  <placeName type="wikidata" ref="Q156080">Opava</placeName>
+               </birth>
+               <death>
+                  <date>1908-08-08</date>
+                  <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1326_p4</idno>
+               <idno type="wikidata">Q44911</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
+            </person>
+            <person xml:id="pmb153954">
+               <persName>
+                  <surname>Steger</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date when="1827">1827</date>
+               </birth>
+               <death>
+                  <date when="1886">1886</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4469_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153954.html</idno>
+            </person>
+            <person xml:id="pmb115790">
+               <persName>
+                  <surname>Puvis de Chavannes</surname>
+                  <forename>Pierre</forename>
+               </persName>
+               <birth>
+                  <date>1824-12-14</date>
+                  <placeName type="wikidata" ref="Q456">Lyon</placeName>
+               </birth>
+               <death>
+                  <date>1898-10-24</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3543_p14</idno>
+               <idno type="wikidata">Q216873</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb3368">
-         <persName>
-            <surname>Olbrich</surname>
-            <forename>Josef Maria</forename>
-         </persName>
-         <birth>
-            <date>1867-12-22</date>
-            <placeName type="wikidata" ref="Q156080">Opava</placeName>
-         </birth>
-         <death>
-            <date>1908-08-08</date>
-            <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1326_p4</idno>
-         <idno type="wikidata">Q44911</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
-      </person>
-      <person xml:id="pmb153954">
-         <persName>
-            <surname>Steger</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date when="1827">1827</date>
-         </birth>
-         <death>
-            <date when="1886">1886</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4469_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153954.html</idno>
-      </person>
-      <person xml:id="pmb115790">
-         <persName>
-            <surname>Puvis de Chavannes</surname>
-            <forename>Pierre</forename>
-         </persName>
-         <birth>
-            <date>1824-12-14</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </birth>
-         <death>
-            <date>1898-10-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3543_p14</idno>
-         <idno type="wikidata">Q216873</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -105,73 +105,75 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb10749">
+               <persName>
+                  <surname>Adler</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1852-06-24</date>
+                  <placeName type="wikidata" ref="Q1085">Prag</placeName>
+               </birth>
+               <death>
+                  <date>1918-11-11</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4860_p26</idno>
+               <idno type="wikidata">Q366845</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118647075</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb10749.html</idno>
+            </person>
+            <person xml:id="pmb154916">
+               <persName>
+                  <surname>Castle</surname>
+                  <forename>Eduard</forename>
+               </persName>
+               <birth>
+                  <date when="1875">1875</date>
+               </birth>
+               <death>
+                  <date when="1959">1959</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6576_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154916.html</idno>
+            </person>
+            <person xml:id="pmb112759">
+               <persName>
+                  <surname>Bebel</surname>
+                  <forename>August</forename>
+               </persName>
+               <birth>
+                  <date>1840-02-22</date>
+                  <placeName type="wikidata" ref="Q3621">Deutz</placeName>
+               </birth>
+               <death>
+                  <date>1913-08-13</date>
+                  <placeName type="wikidata" ref="Q783413">Passugg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_508_p1</idno>
+               <idno type="wikidata">Q76520</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118507893</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112759.html</idno>
+            </person>
+            <person xml:id="pmb155675">
+               <persName>
+                  <surname>Schumpeter</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date when="1883">1883</date>
+               </birth>
+               <death>
+                  <date when="1950">1950</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5308_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155675.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb10749">
-         <persName>
-            <surname>Adler</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1852-06-24</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1918-11-11</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4860_p26</idno>
-         <idno type="wikidata">Q366845</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118647075</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb10749.html</idno>
-      </person>
-      <person xml:id="pmb154916">
-         <persName>
-            <surname>Castle</surname>
-            <forename>Eduard</forename>
-         </persName>
-         <birth>
-            <date when="1875">1875</date>
-         </birth>
-         <death>
-            <date when="1959">1959</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6576_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154916.html</idno>
-      </person>
-      <person xml:id="pmb112759">
-         <persName>
-            <surname>Bebel</surname>
-            <forename>August</forename>
-         </persName>
-         <birth>
-            <date>1840-02-22</date>
-            <placeName type="wikidata" ref="Q3621">Deutz</placeName>
-         </birth>
-         <death>
-            <date>1913-08-13</date>
-            <placeName type="wikidata" ref="Q783413">Passugg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_508_p1</idno>
-         <idno type="wikidata">Q76520</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118507893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112759.html</idno>
-      </person>
-      <person xml:id="pmb155675">
-         <persName>
-            <surname>Schumpeter</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date when="1883">1883</date>
-         </birth>
-         <death>
-            <date when="1950">1950</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5308_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155675.html</idno>
-      </person>
-   </back>
 </TEI>

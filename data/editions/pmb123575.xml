@@ -86,127 +86,48 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154441">
+               <persName>
+                  <surname>Niemann</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2512_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154441.html</idno>
+            </person>
+            <person xml:id="pmb154281">
+               <persName>
+                  <surname>Retty</surname>
+                  <forename>Rudolf</forename>
+               </persName>
+               <birth>
+                  <date when="1846">1846</date>
+               </birth>
+               <death>
+                  <date when="1913">1913</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4645_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154281.html</idno>
+            </person>
+            <person xml:id="pmb153626">
+               <persName>
+                  <surname>Meixner</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2471_p2</idno>
+               <idno type="wikidata">Q95032119</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
+            </person>
+            <person xml:id="pmb154442">
+               <persName>
+                  <surname>Stillfried</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2512_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154442.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154441">
-         <persName>
-            <surname>Niemann</surname>
-            <forename>Karl</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2512_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154441.html</idno>
-      </person>
-      <person xml:id="pmb154281">
-         <persName>
-            <surname>Retty</surname>
-            <forename>Rudolf</forename>
-         </persName>
-         <birth>
-            <date when="1846">1846</date>
-         </birth>
-         <death>
-            <date when="1913">1913</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4645_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154281.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2471_p2</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1833_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2517_p1</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2512_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2501_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2482_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_440_p2</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_412_p8</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_393_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_369_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb154442">
-         <persName>
-            <surname>Stillfried</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2512_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154442.html</idno>
-      </person>
-   </back>
 </TEI>

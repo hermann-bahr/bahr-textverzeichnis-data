@@ -97,29 +97,31 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154049">
+               <persName>
+                  <surname>Lanius</surname>
+                  <forename>Frieda</forename>
+               </persName>
+               <birth>
+                  <date when="1865">1865</date>
+               </birth>
+               <death>
+                  <date when="1919">1919</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2269_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154049.html</idno>
+            </person>
+            <person xml:id="pmb156885">
+               <persName>
+                  <surname>Fay</surname>
+                  <forename>Serena</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_428_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156885.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154049">
-         <persName>
-            <surname>Lanius</surname>
-            <forename>Frieda</forename>
-         </persName>
-         <birth>
-            <date when="1865">1865</date>
-         </birth>
-         <death>
-            <date when="1919">1919</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2269_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154049.html</idno>
-      </person>
-      <person xml:id="pmb156885">
-         <persName>
-            <surname>Fay</surname>
-            <forename>Serena</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_428_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156885.html</idno>
-      </person>
-   </back>
 </TEI>

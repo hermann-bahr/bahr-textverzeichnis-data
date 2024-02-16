@@ -90,14 +90,16 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156059">
+               <persName>
+                  <surname>Moses</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_3649_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156059.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156059">
-         <persName>
-            <surname>Moses</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3649_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156059.html</idno>
-      </person>
-   </back>
 </TEI>

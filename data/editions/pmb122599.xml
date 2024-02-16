@@ -84,24 +84,26 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153978">
+               <persName>
+                  <surname>Stärk</surname>
+                  <forename>Elly</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2234_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153978.html</idno>
+            </person>
+            <person xml:id="pmb153979">
+               <persName>
+                  <surname>Dietrich</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2234_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153979.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153978">
-         <persName>
-            <surname>Stärk</surname>
-            <forename>Elly</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2234_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153978.html</idno>
-      </person>
-      <person xml:id="pmb153979">
-         <persName>
-            <surname>Dietrich</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2234_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153979.html</idno>
-      </person>
-   </back>
 </TEI>

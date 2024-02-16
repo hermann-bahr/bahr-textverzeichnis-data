@@ -83,32 +83,34 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154452">
+               <persName>
+                  <surname>Jacobi</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2504_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154452.html</idno>
+            </person>
+            <person xml:id="pmb154453">
+               <persName>
+                  <surname>Bauer</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2504_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154453.html</idno>
+            </person>
+            <person xml:id="pmb154454">
+               <persName>
+                  <surname>Greißnegger</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2504_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154454.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154452">
-         <persName>
-            <surname>Jacobi</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2504_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154452.html</idno>
-      </person>
-      <person xml:id="pmb154453">
-         <persName>
-            <surname>Bauer</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2504_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154453.html</idno>
-      </person>
-      <person xml:id="pmb154454">
-         <persName>
-            <surname>Greißnegger</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2504_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154454.html</idno>
-      </person>
-   </back>
 </TEI>

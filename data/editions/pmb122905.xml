@@ -81,22 +81,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154117">
+               <persName>
+                  <surname>Hading</surname>
+                  <forename>Jane</forename>
+               </persName>
+               <persName type="namensvariante">Jeanne Alfredine Trefouret</persName>
+               <birth>
+                  <date when="1859">1859</date>
+               </birth>
+               <death>
+                  <date when="1940">1940</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1905_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154117.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154117">
-         <persName>
-            <surname>Hading</surname>
-            <forename>Jane</forename>
-         </persName>
-         <persName type="namensvariante">Jeanne Alfredine Trefouret</persName>
-         <birth>
-            <date when="1859">1859</date>
-         </birth>
-         <death>
-            <date when="1940">1940</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1905_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154117.html</idno>
-      </person>
-   </back>
 </TEI>

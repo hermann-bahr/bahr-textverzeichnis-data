@@ -77,66 +77,68 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153925">
+               <persName>
+                  <surname>Chlumecky</surname>
+                  <forename>Johann von</forename>
+               </persName>
+               <birth>
+                  <date when="1834">1834</date>
+               </birth>
+               <death>
+                  <date when="1924">1924</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1446_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153925.html</idno>
+            </person>
+            <person xml:id="pmb153926">
+               <persName>
+                  <surname>Kaminski</surname>
+                  <forename>Ignaz Ritter von</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1446_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153926.html</idno>
+            </person>
+            <person xml:id="pmb60373">
+               <persName>
+                  <surname>Schönerer</surname>
+                  <forename>Georg Heinrich von</forename>
+               </persName>
+               <birth>
+                  <date>1842-07-17</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1921-08-14</date>
+                  <placeName type="wikidata" ref="Q340128">Schloss Rosenau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1446_p3</idno>
+               <idno type="wikidata">Q112005</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118610163</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb60373.html</idno>
+            </person>
+            <person xml:id="pmb153605">
+               <persName>
+                  <surname>Fürnkranz</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <birth>
+                  <date>1828-10-31</date>
+                  <placeName type="wikidata" ref="Q131266">Krems</placeName>
+               </birth>
+               <death>
+                  <date>1896-12-28</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1446_p4</idno>
+               <idno type="wikidata">Q1597295</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153605.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153925">
-         <persName>
-            <surname>Chlumecky</surname>
-            <forename>Johann von</forename>
-         </persName>
-         <birth>
-            <date when="1834">1834</date>
-         </birth>
-         <death>
-            <date when="1924">1924</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1446_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153925.html</idno>
-      </person>
-      <person xml:id="pmb153926">
-         <persName>
-            <surname>Kaminski</surname>
-            <forename>Ignaz Ritter von</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1446_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153926.html</idno>
-      </person>
-      <person xml:id="pmb60373">
-         <persName>
-            <surname>Schönerer</surname>
-            <forename>Georg Heinrich von</forename>
-         </persName>
-         <birth>
-            <date>1842-07-17</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1921-08-14</date>
-            <placeName type="wikidata" ref="Q340128">Schloss Rosenau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1446_p3</idno>
-         <idno type="wikidata">Q112005</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118610163</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb60373.html</idno>
-      </person>
-      <person xml:id="pmb153605">
-         <persName>
-            <surname>Fürnkranz</surname>
-            <forename>Heinrich</forename>
-         </persName>
-         <birth>
-            <date>1828-10-31</date>
-            <placeName type="wikidata" ref="Q131266">Krems</placeName>
-         </birth>
-         <death>
-            <date>1896-12-28</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1446_p4</idno>
-         <idno type="wikidata">Q1597295</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153605.html</idno>
-      </person>
-   </back>
 </TEI>

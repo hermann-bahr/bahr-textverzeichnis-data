@@ -81,29 +81,31 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154036">
+               <persName>
+                  <surname>Niese</surname>
+                  <forename>Johanna »Hansi«</forename>
+               </persName>
+               <birth>
+                  <date when="1875">1875</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2336_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
+            </person>
+            <person xml:id="pmb154484">
+               <persName>
+                  <surname>Held</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2315_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154484.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154036">
-         <persName>
-            <surname>Niese</surname>
-            <forename>Johanna »Hansi«</forename>
-         </persName>
-         <birth>
-            <date when="1875">1875</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2336_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
-      </person>
-      <person xml:id="pmb154484">
-         <persName>
-            <surname>Held</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2315_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154484.html</idno>
-      </person>
-   </back>
 </TEI>

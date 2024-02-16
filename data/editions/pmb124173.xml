@@ -82,27 +82,29 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb7229">
+               <persName>
+                  <surname>Freksa</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <persName type="namensvariante">Kurt Franz Georg Friedrich-Freksa</persName>
+               <birth>
+                  <date>1882-04-11</date>
+                  <placeName type="wikidata" ref="Q693628">Wilmersdorf</placeName>
+               </birth>
+               <death>
+                  <date>1955-07-18</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6762_p1</idno>
+               <idno type="wikidata">Q1459153</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119312638</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7229.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb7229">
-         <persName>
-            <surname>Freksa</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <persName type="namensvariante">Kurt Franz Georg Friedrich-Freksa</persName>
-         <birth>
-            <date>1882-04-11</date>
-            <placeName type="wikidata" ref="Q693628">Wilmersdorf</placeName>
-         </birth>
-         <death>
-            <date>1955-07-18</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6762_p1</idno>
-         <idno type="wikidata">Q1459153</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119312638</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7229.html</idno>
-      </person>
-   </back>
 </TEI>

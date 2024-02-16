@@ -98,78 +98,61 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb152091">
+               <persName>
+                  <surname>Brandl</surname>
+                  <forename>Alois</forename>
+               </persName>
+               <birth>
+                  <date>1855-06-21</date>
+                  <placeName type="wikidata" ref="Q1735">Innsbruck</placeName>
+               </birth>
+               <death>
+                  <date>1940-02-05</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_383_p1</idno>
+               <idno type="wikidata">Q86679</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11867319X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152091.html</idno>
+            </person>
+            <person xml:id="pmb156934">
+               <persName>
+                  <surname>Burbadge</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1567">um 1567</date>
+               </birth>
+               <death>
+                  <date when="1619">1619</date>
+               </death>
+               <idno type="HB-tv">HB-tv_385_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156934.html</idno>
+            </person>
+            <person xml:id="pmb112883">
+               <persName>
+                  <surname>Besnard</surname>
+                  <forename>Paul-Albert</forename>
+               </persName>
+               <birth>
+                  <date>1849-06-02</date>
+                  <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
+               </birth>
+               <death>
+                  <date>1934-12-04</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_733_p1</idno>
+               <idno type="wikidata">Q424348</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119053454</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112883.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb152091">
-         <persName>
-            <surname>Brandl</surname>
-            <forename>Alois</forename>
-         </persName>
-         <birth>
-            <date>1855-06-21</date>
-            <placeName type="wikidata" ref="Q1735">Innsbruck</placeName>
-         </birth>
-         <death>
-            <date>1940-02-05</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_383_p1</idno>
-         <idno type="wikidata">Q86679</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11867319X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152091.html</idno>
-      </person>
-      <person xml:id="pmb156934">
-         <persName>
-            <surname>Burbadge</surname>
-            <forename>Richard</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1567">um 1567</date>
-         </birth>
-         <death>
-            <date when="1619">1619</date>
-         </death>
-         <idno type="HB-tv">HB-tv_385_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156934.html</idno>
-      </person>
-      <person xml:id="pmb112883">
-         <persName>
-            <surname>Besnard</surname>
-            <forename>Paul-Albert</forename>
-         </persName>
-         <birth>
-            <date>1849-06-02</date>
-            <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
-         </birth>
-         <death>
-            <date>1934-12-04</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_733_p1</idno>
-         <idno type="wikidata">Q424348</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119053454</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112883.html</idno>
-      </person>
-      <person xml:id="pmb112883">
-         <persName>
-            <surname>Besnard</surname>
-            <forename>Paul Albert</forename>
-         </persName>
-         <birth>
-            <date>1849-06-02</date>
-            <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
-         </birth>
-         <death>
-            <date>1934-12-04</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2695_p5</idno>
-         <idno type="wikidata">Q424348</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119053454</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112883.html</idno>
-      </person>
-   </back>
 </TEI>

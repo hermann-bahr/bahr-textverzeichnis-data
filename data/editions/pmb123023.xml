@@ -81,23 +81,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154172">
+               <persName>
+                  <surname>Dengg</surname>
+                  <forename>Anna</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4499_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154172.html</idno>
+            </person>
+            <person xml:id="pmb154173">
+               <persName>
+                  <surname>Dirnberger</surname>
+                  <forename>Theresia</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4499_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154173.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154172">
-         <persName>
-            <surname>Dengg</surname>
-            <forename>Anna</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4499_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154172.html</idno>
-      </person>
-      <person xml:id="pmb154173">
-         <persName>
-            <surname>Dirnberger</surname>
-            <forename>Theresia</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4499_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154173.html</idno>
-      </person>
-   </back>
 </TEI>

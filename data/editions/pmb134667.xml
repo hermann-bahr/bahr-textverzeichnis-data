@@ -75,42 +75,44 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157439">
+               <persName>
+                  <surname>Vigeant</surname>
+                  <forename>Arsène</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1088_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157439.html</idno>
+            </person>
+            <person xml:id="pmb157440">
+               <persName>
+                  <surname>Laufaugère</surname>
+                  <forename>Louis-Justin</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1088_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157440.html</idno>
+            </person>
+            <person xml:id="pmb8851">
+               <persName>
+                  <surname>Materna</surname>
+                  <forename>Amalia</forename>
+               </persName>
+               <birth>
+                  <date>1844-07-10</date>
+                  <placeName type="wikidata" ref="Q689342">Sankt Georgen an der Stiefing</placeName>
+               </birth>
+               <death>
+                  <date>1918-01-18</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1088_p3</idno>
+               <idno type="wikidata">Q2840970</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116824174</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb8851.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157439">
-         <persName>
-            <surname>Vigeant</surname>
-            <forename>Arsène</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1088_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157439.html</idno>
-      </person>
-      <person xml:id="pmb157440">
-         <persName>
-            <surname>Laufaugère</surname>
-            <forename>Louis-Justin</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1088_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157440.html</idno>
-      </person>
-      <person xml:id="pmb8851">
-         <persName>
-            <surname>Materna</surname>
-            <forename>Amalia</forename>
-         </persName>
-         <birth>
-            <date>1844-07-10</date>
-            <placeName type="wikidata" ref="Q689342">Sankt Georgen an der Stiefing</placeName>
-         </birth>
-         <death>
-            <date>1918-01-18</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1088_p3</idno>
-         <idno type="wikidata">Q2840970</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116824174</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb8851.html</idno>
-      </person>
-   </back>
 </TEI>

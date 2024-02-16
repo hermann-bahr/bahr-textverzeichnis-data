@@ -95,121 +95,112 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb13194">
+               <persName>
+                  <surname>Zola</surname>
+                  <forename>Emile</forename>
+               </persName>
+               <birth>
+                  <date>1840-04-02</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1902-09-29</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2691_p2</idno>
+               <idno type="wikidata">Q504</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
+            </person>
+            <person xml:id="pmb115885">
+               <persName>
+                  <surname>Roosevelt</surname>
+                  <forename>Theodore</forename>
+               </persName>
+               <birth>
+                  <date>1858-10-27</date>
+                  <placeName type="wikidata" ref="Q60">New York City</placeName>
+               </birth>
+               <death>
+                  <date>1919-01-06</date>
+                  <placeName type="wikidata" ref="Q7398976"/>
+               </death>
+               <idno type="HB-tv">HB-tv_147_p1</idno>
+               <idno type="wikidata">Q33866</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115885.html</idno>
+            </person>
+            <person xml:id="pmb154687">
+               <persName>
+                  <surname>Friedrich II. von Preußen</surname>
+                  <forename>»der Große«</forename>
+               </persName>
+               <birth>
+                  <date when="1712">1712</date>
+               </birth>
+               <death>
+                  <date when="1786">1786</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1308_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154687.html</idno>
+            </person>
+            <person xml:id="pmb4006">
+               <persName>
+                  <surname>Dostojewski</surname>
+                  <forename>Fjodor Michailowitsch</forename>
+               </persName>
+               <birth>
+                  <date>1821-11-11</date>
+                  <placeName type="wikidata" ref="Q4281399"/>
+               </birth>
+               <death>
+                  <date>1881-01-28</date>
+                  <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1300_p1</idno>
+               <idno type="wikidata">Q991</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118527053</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4006.html</idno>
+            </person>
+            <person xml:id="pmb155832">
+               <persName>
+                  <surname>Johannes von Tepl</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1350">um 1350</date>
+               </birth>
+               <death>
+                  <date when="1414">1414</date>
+               </death>
+               <idno type="HB-tv">HB-tv_147_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155832.html</idno>
+            </person>
+            <person xml:id="pmb149498">
+               <persName>
+                  <surname>Arnold</surname>
+                  <forename>Matthew</forename>
+               </persName>
+               <birth>
+                  <date>1822-12-24</date>
+                  <placeName type="wikidata" ref="Q984973">Laleham</placeName>
+               </birth>
+               <death>
+                  <date>1888-04-15</date>
+                  <placeName type="wikidata" ref="Q24826">Liverpool</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4521_p9</idno>
+               <idno type="wikidata">Q271032</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118504282</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149498.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb13194">
-         <persName>
-            <surname>Zola</surname>
-            <forename>Emile</forename>
-         </persName>
-         <birth>
-            <date>1840-04-02</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1902-09-29</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p2</idno>
-         <idno type="wikidata">Q504</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
-      </person>
-      <person xml:id="pmb115885">
-         <persName>
-            <surname>Roosevelt</surname>
-            <forename>Theodore</forename>
-         </persName>
-         <birth>
-            <date>1858-10-27</date>
-            <placeName type="wikidata" ref="Q60">New York City</placeName>
-         </birth>
-         <death>
-            <date>1919-01-06</date>
-            <placeName type="wikidata" ref="Q7398976"/>
-         </death>
-         <idno type="HB-tv">HB-tv_147_p1</idno>
-         <idno type="wikidata">Q33866</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115885.html</idno>
-      </person>
-      <person xml:id="pmb154687">
-         <persName>
-            <surname>Friedrich II. von Preußen</surname>
-            <forename>»der Große«</forename>
-         </persName>
-         <birth>
-            <date when="1712">1712</date>
-         </birth>
-         <death>
-            <date when="1786">1786</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1308_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154687.html</idno>
-      </person>
-      <person xml:id="pmb4006">
-         <persName>
-            <surname>Dostojewski</surname>
-            <forename>Fjodor Michailowitsch</forename>
-         </persName>
-         <birth>
-            <date>1821-11-11</date>
-            <placeName type="wikidata" ref="Q4281399"/>
-         </birth>
-         <death>
-            <date>1881-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1300_p1</idno>
-         <idno type="wikidata">Q991</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118527053</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4006.html</idno>
-      </person>
-      <person xml:id="pmb155832">
-         <persName>
-            <surname>Johannes von Tepl</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1350">um 1350</date>
-         </birth>
-         <death>
-            <date when="1414">1414</date>
-         </death>
-         <idno type="HB-tv">HB-tv_147_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155832.html</idno>
-      </person>
-      <person xml:id="pmb149498">
-         <persName>
-            <surname>Arnold</surname>
-            <forename>Matthew</forename>
-         </persName>
-         <birth>
-            <date>1822-12-24</date>
-            <placeName type="wikidata" ref="Q984973">Laleham</placeName>
-         </birth>
-         <death>
-            <date>1888-04-15</date>
-            <placeName type="wikidata" ref="Q24826">Liverpool</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4521_p9</idno>
-         <idno type="wikidata">Q271032</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118504282</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149498.html</idno>
-      </person>
-      <person xml:id="pmb149498">
-         <persName>
-            <surname>Arnold</surname>
-            <forename>Matthew</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3734_p1</idno>
-         <idno type="wikidata">Q271032</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118504282</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149498.html</idno>
-      </person>
-   </back>
 </TEI>

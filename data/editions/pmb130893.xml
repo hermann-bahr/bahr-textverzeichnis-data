@@ -74,18 +74,20 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156233">
+               <persName>
+                  <surname>Scaevola</surname>
+                  <forename>Gaius Mucius</forename>
+               </persName>
+               <birth>
+                  <date when-custom="6. Jhdt. v.u.Z.">6. Jhdt. v.u.Z.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_4325_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156233.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156233">
-         <persName>
-            <surname>Scaevola</surname>
-            <forename>Gaius Mucius</forename>
-         </persName>
-         <birth>
-            <date when-custom="6. Jhdt. v.u.Z.">6. Jhdt. v.u.Z.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_4325_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156233.html</idno>
-      </person>
-   </back>
 </TEI>

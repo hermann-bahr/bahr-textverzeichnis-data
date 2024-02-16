@@ -87,80 +87,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154208">
+               <persName>
+                  <surname>Stieber</surname>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2332_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154208.html</idno>
+            </person>
+            <person xml:id="pmb154209">
+               <persName>
+                  <surname>P. Rivalier</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2332_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154209.html</idno>
+            </person>
+            <person xml:id="pmb154210">
+               <persName>
+                  <surname>Löti</surname>
+                  <forename>J.</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2332_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154210.html</idno>
+            </person>
+            <person xml:id="pmb153622">
+               <persName>
+                  <surname>Großmüller</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2332_p4</idno>
+               <idno type="wikidata">Q689208</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154208">
-         <persName>
-            <surname>Stieber</surname>
-            <forename>Ferdinand</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2332_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154208.html</idno>
-      </person>
-      <person xml:id="pmb154209">
-         <persName>
-            <surname>P. Rivalier</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2332_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154209.html</idno>
-      </person>
-      <person xml:id="pmb154210">
-         <persName>
-            <surname>Löti</surname>
-            <forename>J.</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2332_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154210.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2332_p4</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2384_p5</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_557_p5</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_471_p6</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_469_p6</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-   </back>
 </TEI>

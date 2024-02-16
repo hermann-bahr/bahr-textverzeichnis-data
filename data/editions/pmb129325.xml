@@ -98,401 +98,79 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb113256">
+               <persName>
+                  <surname>Disraeli</surname>
+                  <forename>Benjamin</forename>
+               </persName>
+               <birth>
+                  <date>1804-12-21</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1881-04-19</date>
+                  <placeName type="wikidata" ref="Q124184">Mayfair</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6349_p16</idno>
+               <idno type="wikidata">Q82006</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118526014</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113256.html</idno>
+            </person>
+            <person xml:id="pmb146452">
+               <persName>
+                  <surname>Karl IV.</surname>
+               </persName>
+               <birth>
+                  <date>1316-05-14</date>
+                  <placeName type="wikidata" ref="Q1085">Prag</placeName>
+               </birth>
+               <death>
+                  <date>1378-11-29</date>
+                  <placeName type="wikidata" ref="Q1085">Prag</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3501_p7</idno>
+               <idno type="wikidata">Q155669</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
+            </person>
+            <person xml:id="pmb117306">
+               <persName>
+                  <surname>Dóczi</surname>
+                  <forename>Lajos</forename>
+               </persName>
+               <birth>
+                  <date>1845-11-27</date>
+                  <placeName type="wikidata" ref="Q168648">Sopron</placeName>
+               </birth>
+               <death>
+                  <date>1919-08-29</date>
+                  <placeName type="wikidata" ref="Q1781">Budapest</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1839_p1</idno>
+               <idno type="wikidata">Q238751</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116151846</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117306.html</idno>
+            </person>
+            <person xml:id="pmb155810">
+               <persName>
+                  <surname>Wessely</surname>
+                  <forename>Josefine</forename>
+               </persName>
+               <birth>
+                  <date when="1860">1860</date>
+               </birth>
+               <death>
+                  <date when="1887">1887</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1401_p94</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155810.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb113256">
-         <persName>
-            <surname>Disraeli</surname>
-            <forename>Benjamin</forename>
-         </persName>
-         <birth>
-            <date>1804-12-21</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1881-04-19</date>
-            <placeName type="wikidata" ref="Q124184">Mayfair</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6349_p16</idno>
-         <idno type="wikidata">Q82006</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118526014</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113256.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3501_p7</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_164_p8</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4824_p10</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_160_p3</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4846_p13</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6349_p6</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3768_p1</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1115_p2</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p17</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3363_p5</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3353_p5</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5322_p4</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5314_p8</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5243_p12</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5476_p8</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5378_p12</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2209_p2</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5335_p4</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p6</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb117306">
-         <persName>
-            <surname>Dóczi</surname>
-            <forename>Lajos</forename>
-         </persName>
-         <birth>
-            <date>1845-11-27</date>
-            <placeName type="wikidata" ref="Q168648">Sopron</placeName>
-         </birth>
-         <death>
-            <date>1919-08-29</date>
-            <placeName type="wikidata" ref="Q1781">Budapest</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1839_p1</idno>
-         <idno type="wikidata">Q238751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116151846</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117306.html</idno>
-      </person>
-      <person xml:id="pmb155810">
-         <persName>
-            <surname>Wessely</surname>
-            <forename>Josefine</forename>
-         </persName>
-         <birth>
-            <date when="1860">1860</date>
-         </birth>
-         <death>
-            <date when="1887">1887</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1401_p94</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155810.html</idno>
-      </person>
-   </back>
 </TEI>

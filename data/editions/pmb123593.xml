@@ -80,37 +80,39 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154455">
+               <persName>
+                  <surname>Schönthan</surname>
+                  <forename>Franz von</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2503_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154455.html</idno>
+            </person>
+            <person xml:id="pmb19039">
+               <persName>
+                  <surname>Kalmar</surname>
+                  <forename>Anni</forename>
+               </persName>
+               <birth>
+                  <date when="1877">1877</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3871_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb19039.html</idno>
+            </person>
+            <person xml:id="pmb154456">
+               <persName>
+                  <surname>Zampa</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2503_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154456.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154455">
-         <persName>
-            <surname>Schönthan</surname>
-            <forename>Franz von</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2503_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154455.html</idno>
-      </person>
-      <person xml:id="pmb19039">
-         <persName>
-            <surname>Kalmar</surname>
-            <forename>Anni</forename>
-         </persName>
-         <birth>
-            <date when="1877">1877</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3871_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb19039.html</idno>
-      </person>
-      <person xml:id="pmb154456">
-         <persName>
-            <surname>Zampa</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2503_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154456.html</idno>
-      </person>
-   </back>
 </TEI>

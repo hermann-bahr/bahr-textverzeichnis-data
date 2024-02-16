@@ -101,53 +101,55 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb4132">
+               <persName>
+                  <surname>Tieck</surname>
+                  <forename>Johann Ludwig</forename>
+               </persName>
+               <birth>
+                  <date>1773-05-31</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1853-04-28</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2461_p1</idno>
+               <idno type="wikidata">Q57239</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/12989432X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4132.html</idno>
+            </person>
+            <person xml:id="pmb156370">
+               <persName>
+                  <surname>Kreisler</surname>
+                  <forename>Johannes</forename>
+               </persName>
+               <persName type="namensvariante">Ernst Theodor Amadeus Hoffmann</persName>
+               <idno type="HB-tv">HB-tv_3282_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156370.html</idno>
+            </person>
+            <person xml:id="pmb156371">
+               <persName>
+                  <surname>Paulus von Tarsus</surname>
+               </persName>
+               <death>
+                  <date when-custom="nach 60">nach 60</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3282_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156371.html</idno>
+            </person>
+            <person xml:id="pmb156372">
+               <persName>
+                  <surname>Morway</surname>
+                  <forename>Susanne ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3282_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156372.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb4132">
-         <persName>
-            <surname>Tieck</surname>
-            <forename>Johann Ludwig</forename>
-         </persName>
-         <birth>
-            <date>1773-05-31</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1853-04-28</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2461_p1</idno>
-         <idno type="wikidata">Q57239</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/12989432X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4132.html</idno>
-      </person>
-      <person xml:id="pmb156370">
-         <persName>
-            <surname>Kreisler</surname>
-            <forename>Johannes</forename>
-         </persName>
-         <persName type="namensvariante">Ernst Theodor Amadeus Hoffmann</persName>
-         <idno type="HB-tv">HB-tv_3282_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156370.html</idno>
-      </person>
-      <person xml:id="pmb156371">
-         <persName>
-            <surname>Paulus von Tarsus</surname>
-         </persName>
-         <death>
-            <date when-custom="nach 60">nach 60</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3282_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156371.html</idno>
-      </person>
-      <person xml:id="pmb156372">
-         <persName>
-            <surname>Morway</surname>
-            <forename>Susanne ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3282_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156372.html</idno>
-      </person>
-   </back>
 </TEI>

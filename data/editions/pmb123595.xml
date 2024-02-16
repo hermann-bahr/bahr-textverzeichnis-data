@@ -79,23 +79,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154457">
+               <persName>
+                  <surname>Reuling</surname>
+                  <forename>Carlot Gottfried</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2502_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154457.html</idno>
+            </person>
+            <person xml:id="pmb154458">
+               <persName>
+                  <surname>Vischer</surname>
+                  <forename>Otto</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2502_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154458.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154457">
-         <persName>
-            <surname>Reuling</surname>
-            <forename>Carlot Gottfried</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2502_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154457.html</idno>
-      </person>
-      <person xml:id="pmb154458">
-         <persName>
-            <surname>Vischer</surname>
-            <forename>Otto</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2502_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154458.html</idno>
-      </person>
-   </back>
 </TEI>

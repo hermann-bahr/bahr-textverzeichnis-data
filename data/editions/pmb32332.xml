@@ -74,28 +74,30 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156550">
+               <persName>
+                  <surname>Schmidl</surname>
+                  <forename>Gastwirt</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_621_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156550.html</idno>
+            </person>
+            <person xml:id="pmb156551">
+               <persName>
+                  <surname>Pindar</surname>
+               </persName>
+               <birth>
+                  <date when-custom="522/518">522/518</date>
+               </birth>
+               <death>
+                  <date when-custom="nach 445 v.u.Z.">nach 445 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_621_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156551.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156550">
-         <persName>
-            <surname>Schmidl</surname>
-            <forename>Gastwirt</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_621_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156550.html</idno>
-      </person>
-      <person xml:id="pmb156551">
-         <persName>
-            <surname>Pindar</surname>
-         </persName>
-         <birth>
-            <date when-custom="522/518">522/518</date>
-         </birth>
-         <death>
-            <date when-custom="nach 445 v.u.Z.">nach 445 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_621_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156551.html</idno>
-      </person>
-   </back>
 </TEI>

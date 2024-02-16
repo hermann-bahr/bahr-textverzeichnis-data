@@ -87,85 +87,87 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149335">
+               <persName>
+                  <surname>Fadinger</surname>
+                  <forename>Stefan</forename>
+               </persName>
+               <birth>
+                  <date>1585</date>
+                  <placeName type="wikidata" ref="Q678895">St. Agatha</placeName>
+               </birth>
+               <death>
+                  <date>1626-07-05</date>
+                  <placeName type="wikidata" ref="Q41329">Linz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3513_p3</idno>
+               <idno type="wikidata">Q643708</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/129066524</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149335.html</idno>
+            </person>
+            <person xml:id="pmb154403">
+               <persName>
+                  <surname>Bukovics von Kis-Alacska</surname>
+                  <forename>Emmerich</forename>
+               </persName>
+               <birth>
+                  <date when="1844">1844</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1677_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154403.html</idno>
+            </person>
+            <person xml:id="pmb149477">
+               <persName>
+                  <surname>Samhaber</surname>
+                  <forename>Edward</forename>
+               </persName>
+               <birth>
+                  <date>1846-12-26</date>
+                  <placeName type="wikidata" ref="Q143140">Freistadt</placeName>
+               </birth>
+               <death>
+                  <date>1927-03-27</date>
+                  <placeName type="wikidata" ref="Q41329">Linz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6580_p3</idno>
+               <idno type="wikidata">Q1293469</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116777990</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149477.html</idno>
+            </person>
+            <person xml:id="pmb154914">
+               <persName>
+                  <surname>Pilz</surname>
+                  <forename>Hans Harry</forename>
+               </persName>
+               <occupation>Autor</occupation>
+               <idno type="HB-tv">HB-tv_6580_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154914.html</idno>
+            </person>
+            <person xml:id="pmb149480">
+               <persName>
+                  <surname>Ippisch</surname>
+                  <forename>Rudolf</forename>
+               </persName>
+               <birth>
+                  <date>1878-04-04</date>
+               </birth>
+               <death>
+                  <date>1953-03-02</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6580_p5</idno>
+               <idno type="wikidata">Q18222333</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/129081310</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149480.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149335">
-         <persName>
-            <surname>Fadinger</surname>
-            <forename>Stefan</forename>
-         </persName>
-         <birth>
-            <date>1585</date>
-            <placeName type="wikidata" ref="Q678895">St. Agatha</placeName>
-         </birth>
-         <death>
-            <date>1626-07-05</date>
-            <placeName type="wikidata" ref="Q41329">Linz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3513_p3</idno>
-         <idno type="wikidata">Q643708</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/129066524</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149335.html</idno>
-      </person>
-      <person xml:id="pmb154403">
-         <persName>
-            <surname>Bukovics von Kis-Alacska</surname>
-            <forename>Emmerich</forename>
-         </persName>
-         <birth>
-            <date when="1844">1844</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1677_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154403.html</idno>
-      </person>
-      <person xml:id="pmb149477">
-         <persName>
-            <surname>Samhaber</surname>
-            <forename>Edward</forename>
-         </persName>
-         <birth>
-            <date>1846-12-26</date>
-            <placeName type="wikidata" ref="Q143140">Freistadt</placeName>
-         </birth>
-         <death>
-            <date>1927-03-27</date>
-            <placeName type="wikidata" ref="Q41329">Linz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6580_p3</idno>
-         <idno type="wikidata">Q1293469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116777990</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149477.html</idno>
-      </person>
-      <person xml:id="pmb154914">
-         <persName>
-            <surname>Pilz</surname>
-            <forename>Hans Harry</forename>
-         </persName>
-         <occupation>Autor</occupation>
-         <idno type="HB-tv">HB-tv_6580_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154914.html</idno>
-      </person>
-      <person xml:id="pmb149480">
-         <persName>
-            <surname>Ippisch</surname>
-            <forename>Rudolf</forename>
-         </persName>
-         <birth>
-            <date>1878-04-04</date>
-         </birth>
-         <death>
-            <date>1953-03-02</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6580_p5</idno>
-         <idno type="wikidata">Q18222333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/129081310</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149480.html</idno>
-      </person>
-   </back>
 </TEI>

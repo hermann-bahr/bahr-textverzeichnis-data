@@ -105,83 +105,85 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149938">
+               <persName>
+                  <surname>Rodbertus</surname>
+                  <forename>Johann Karl</forename>
+               </persName>
+               <birth>
+                  <date>1805-08-12</date>
+                  <placeName type="wikidata" ref="Q4098">Greifswald</placeName>
+               </birth>
+               <death>
+                  <date>1875-12-06</date>
+                  <placeName type="wikidata" ref="Q689075">Völschow</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4858_p3</idno>
+               <idno type="wikidata">Q63695</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118745638</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149938.html</idno>
+            </person>
+            <person xml:id="pmb3739">
+               <persName>
+                  <surname>Tolstoi</surname>
+                  <forename>Lew Nikolajewitsch</forename>
+               </persName>
+               <birth>
+                  <date>1828-08-28</date>
+                  <placeName type="wikidata" ref="Q749556">Jasnaja Poljana</placeName>
+               </birth>
+               <death>
+                  <date>1910-11-07</date>
+                  <placeName type="wikidata" ref="Q4071563">Astapowo</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_115_p5</idno>
+               <idno type="wikidata">Q7243</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11864291X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3739.html</idno>
+            </person>
+            <person xml:id="pmb150428">
+               <persName>
+                  <surname>Thoreau</surname>
+                  <forename>Henry David</forename>
+               </persName>
+               <birth>
+                  <date>1817-07-12</date>
+                  <placeName type="wikidata" ref="Q6948294"/>
+               </birth>
+               <death>
+                  <date>1862-05-06</date>
+                  <placeName type="wikidata" ref="Q523240">Concord</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3334_p2</idno>
+               <idno type="wikidata">Q131149</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118622293</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150428.html</idno>
+            </person>
+            <person xml:id="pmb150972">
+               <persName>
+                  <surname>Hearst</surname>
+                  <forename>William Randolph</forename>
+               </persName>
+               <birth>
+                  <date>1863-04-29</date>
+                  <placeName type="wikidata" ref="Q62">San Francisco</placeName>
+               </birth>
+               <death>
+                  <date>1951-08-14</date>
+                  <placeName type="wikidata" ref="Q127856">Beverly Hills</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3425_p4</idno>
+               <idno type="wikidata">Q294931</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118547429</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150972.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149938">
-         <persName>
-            <surname>Rodbertus</surname>
-            <forename>Johann Karl</forename>
-         </persName>
-         <birth>
-            <date>1805-08-12</date>
-            <placeName type="wikidata" ref="Q4098">Greifswald</placeName>
-         </birth>
-         <death>
-            <date>1875-12-06</date>
-            <placeName type="wikidata" ref="Q689075">Völschow</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4858_p3</idno>
-         <idno type="wikidata">Q63695</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745638</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149938.html</idno>
-      </person>
-      <person xml:id="pmb3739">
-         <persName>
-            <surname>Tolstoi</surname>
-            <forename>Lew Nikolajewitsch</forename>
-         </persName>
-         <birth>
-            <date>1828-08-28</date>
-            <placeName type="wikidata" ref="Q749556">Jasnaja Poljana</placeName>
-         </birth>
-         <death>
-            <date>1910-11-07</date>
-            <placeName type="wikidata" ref="Q4071563">Astapowo</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_115_p5</idno>
-         <idno type="wikidata">Q7243</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11864291X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3739.html</idno>
-      </person>
-      <person xml:id="pmb150428">
-         <persName>
-            <surname>Thoreau</surname>
-            <forename>Henry David</forename>
-         </persName>
-         <birth>
-            <date>1817-07-12</date>
-            <placeName type="wikidata" ref="Q6948294"/>
-         </birth>
-         <death>
-            <date>1862-05-06</date>
-            <placeName type="wikidata" ref="Q523240">Concord</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3334_p2</idno>
-         <idno type="wikidata">Q131149</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118622293</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150428.html</idno>
-      </person>
-      <person xml:id="pmb150972">
-         <persName>
-            <surname>Hearst</surname>
-            <forename>William Randolph</forename>
-         </persName>
-         <birth>
-            <date>1863-04-29</date>
-            <placeName type="wikidata" ref="Q62">San Francisco</placeName>
-         </birth>
-         <death>
-            <date>1951-08-14</date>
-            <placeName type="wikidata" ref="Q127856">Beverly Hills</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3425_p4</idno>
-         <idno type="wikidata">Q294931</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118547429</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150972.html</idno>
-      </person>
-   </back>
 </TEI>

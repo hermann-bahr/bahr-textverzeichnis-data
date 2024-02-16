@@ -80,21 +80,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155771">
+               <persName>
+                  <surname>Rochlitz</surname>
+                  <forename>Johann Friedrich</forename>
+               </persName>
+               <birth>
+                  <date when="1769">1769</date>
+               </birth>
+               <death>
+                  <date when="1842">1842</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5193_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155771.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155771">
-         <persName>
-            <surname>Rochlitz</surname>
-            <forename>Johann Friedrich</forename>
-         </persName>
-         <birth>
-            <date when="1769">1769</date>
-         </birth>
-         <death>
-            <date when="1842">1842</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5193_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155771.html</idno>
-      </person>
-   </back>
 </TEI>

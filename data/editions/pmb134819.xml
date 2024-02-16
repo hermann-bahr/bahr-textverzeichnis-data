@@ -82,113 +82,78 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb152514">
+               <persName>
+                  <surname>Wereschtschagin</surname>
+                  <forename>Wassili Wassiljewitsch</forename>
+               </persName>
+               <birth>
+                  <date>1842-10-14</date>
+                  <placeName type="wikidata" ref="Q2144">Tscherepowez</placeName>
+               </birth>
+               <death>
+                  <date>1904-03-31</date>
+                  <placeName type="wikidata" ref="Q623329">Lüshunkou</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_208_p5</idno>
+               <idno type="wikidata">Q127017</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119268353</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152514.html</idno>
+            </person>
+            <person xml:id="pmb155111">
+               <persName>
+                  <surname>Beaumarchais</surname>
+                  <forename>Pierre-Augustin Caron de</forename>
+               </persName>
+               <birth>
+                  <date when="1732">1732</date>
+               </birth>
+               <death>
+                  <date when="1799">1799</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1195_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155111.html</idno>
+            </person>
+            <person xml:id="pmb5231">
+               <persName>
+                  <surname>Tamerlan</surname>
+               </persName>
+               <birth>
+                  <date>1336-04-09</date>
+                  <placeName type="wikidata" ref="Q569766">Shahrisabz</placeName>
+               </birth>
+               <death>
+                  <date>1405-02-19</date>
+                  <placeName type="wikidata" ref="Q956911">Otrar</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4472_p3</idno>
+               <idno type="wikidata">Q8462</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118622803</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5231.html</idno>
+            </person>
+            <person xml:id="pmb150046">
+               <persName>
+                  <surname>Alexander II. von Russland</surname>
+               </persName>
+               <birth>
+                  <date>1818-04-17</date>
+                  <placeName type="wikidata" ref="Q4279033"/>
+               </birth>
+               <death>
+                  <date>1881-03-01</date>
+                  <placeName type="wikidata" ref="Q182147">Winterpalast</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3376_p4</idno>
+               <idno type="wikidata">Q83171</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118501860</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150046.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb152514">
-         <persName>
-            <surname>Wereschtschagin</surname>
-            <forename>Wassili Wassiljewitsch</forename>
-         </persName>
-         <birth>
-            <date>1842-10-14</date>
-            <placeName type="wikidata" ref="Q2144">Tscherepowez</placeName>
-         </birth>
-         <death>
-            <date>1904-03-31</date>
-            <placeName type="wikidata" ref="Q623329">Lüshunkou</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_208_p5</idno>
-         <idno type="wikidata">Q127017</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119268353</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152514.html</idno>
-      </person>
-      <person xml:id="pmb152514">
-         <persName>
-            <surname>Vereshchagin</surname>
-            <forename>Vasily</forename>
-         </persName>
-         <birth>
-            <date>1842-10-14</date>
-            <placeName type="wikidata" ref="Q2144">Tscherepowez</placeName>
-         </birth>
-         <death>
-            <date>1904-03-31</date>
-            <placeName type="wikidata" ref="Q623329">Lüshunkou</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1420_p6</idno>
-         <idno type="wikidata">Q127017</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119268353</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152514.html</idno>
-      </person>
-      <person xml:id="pmb155111">
-         <persName>
-            <surname>Beaumarchais</surname>
-            <forename>Pierre-Augustin Caron de</forename>
-         </persName>
-         <birth>
-            <date when="1732">1732</date>
-         </birth>
-         <death>
-            <date when="1799">1799</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1195_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155111.html</idno>
-      </person>
-      <person xml:id="pmb5231">
-         <persName>
-            <surname>Tamerlan</surname>
-         </persName>
-         <birth>
-            <date>1336-04-09</date>
-            <placeName type="wikidata" ref="Q569766">Shahrisabz</placeName>
-         </birth>
-         <death>
-            <date>1405-02-19</date>
-            <placeName type="wikidata" ref="Q956911">Otrar</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4472_p3</idno>
-         <idno type="wikidata">Q8462</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118622803</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5231.html</idno>
-      </person>
-      <person xml:id="pmb150046">
-         <persName>
-            <surname>Alexander II. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1818-04-17</date>
-            <placeName type="wikidata" ref="Q4279033"/>
-         </birth>
-         <death>
-            <date>1881-03-01</date>
-            <placeName type="wikidata" ref="Q182147">Winterpalast</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3376_p4</idno>
-         <idno type="wikidata">Q83171</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118501860</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150046.html</idno>
-      </person>
-      <person xml:id="pmb150046">
-         <persName>
-            <surname>Alexander II. von Russland</surname>
-         </persName>
-         <birth>
-            <date>1818-04-17</date>
-            <placeName type="wikidata" ref="Q4279033"/>
-         </birth>
-         <death>
-            <date>1881-03-01</date>
-            <placeName type="wikidata" ref="Q182147">Winterpalast</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4472_p4</idno>
-         <idno type="wikidata">Q83171</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118501860</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150046.html</idno>
-      </person>
-   </back>
 </TEI>

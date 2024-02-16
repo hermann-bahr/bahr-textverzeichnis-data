@@ -114,66 +114,68 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155068">
+               <persName>
+                  <surname>Vega Carpio</surname>
+                  <forename>Félix Lope de</forename>
+               </persName>
+               <birth>
+                  <date when="1562">1562</date>
+               </birth>
+               <death>
+                  <date when="1635">1635</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1157_p9</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155068.html</idno>
+            </person>
+            <person xml:id="pmb157382">
+               <persName>
+                  <surname>Albrecht</surname>
+                  <forename>Hermine</forename>
+               </persName>
+               <persName type="namensvariante">Hermine von Nyari</persName>
+               <birth>
+                  <date when="1859">1859</date>
+               </birth>
+               <death>
+                  <date when="1929">1929</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2621_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157382.html</idno>
+            </person>
+            <person xml:id="pmb157383">
+               <persName>
+                  <surname>Tondeur</surname>
+                  <forename>Margarete</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <birth>
+                  <date when="1865">1865</date>
+               </birth>
+               <death>
+                  <date when-custom="nach 1919">nach 1919</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2621_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157383.html</idno>
+            </person>
+            <person xml:id="pmb157384">
+               <persName>
+                  <surname>Formes</surname>
+                  <forename>Margarethe</forename>
+               </persName>
+               <persName type="namensvariante">Margarethe Königswarter</persName>
+               <birth>
+                  <date when="1869">1869</date>
+               </birth>
+               <death>
+                  <date when="1942">1942</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2621_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157384.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155068">
-         <persName>
-            <surname>Vega Carpio</surname>
-            <forename>Félix Lope de</forename>
-         </persName>
-         <birth>
-            <date when="1562">1562</date>
-         </birth>
-         <death>
-            <date when="1635">1635</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1157_p9</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155068.html</idno>
-      </person>
-      <person xml:id="pmb157382">
-         <persName>
-            <surname>Albrecht</surname>
-            <forename>Hermine</forename>
-         </persName>
-         <persName type="namensvariante">Hermine von Nyari</persName>
-         <birth>
-            <date when="1859">1859</date>
-         </birth>
-         <death>
-            <date when="1929">1929</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2621_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157382.html</idno>
-      </person>
-      <person xml:id="pmb157383">
-         <persName>
-            <surname>Tondeur</surname>
-            <forename>Margarete</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <birth>
-            <date when="1865">1865</date>
-         </birth>
-         <death>
-            <date when-custom="nach 1919">nach 1919</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2621_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157383.html</idno>
-      </person>
-      <person xml:id="pmb157384">
-         <persName>
-            <surname>Formes</surname>
-            <forename>Margarethe</forename>
-         </persName>
-         <persName type="namensvariante">Margarethe Königswarter</persName>
-         <birth>
-            <date when="1869">1869</date>
-         </birth>
-         <death>
-            <date when="1942">1942</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2621_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157384.html</idno>
-      </person>
-   </back>
 </TEI>

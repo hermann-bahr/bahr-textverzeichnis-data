@@ -85,34 +85,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155690">
+               <persName>
+                  <surname>Zhuangzi</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 365 v.u.Z.">um 365 v.u.Z.</date>
+               </birth>
+               <death>
+                  <date when-custom="290 v.u.Z.">290 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5276_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155690.html</idno>
+            </person>
+            <person xml:id="pmb155691">
+               <persName>
+                  <surname>Wilhelm</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <birth>
+                  <date when="1873">1873</date>
+               </birth>
+               <death>
+                  <date when="1930">1930</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5276_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155691.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155690">
-         <persName>
-            <surname>Zhuangzi</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 365 v.u.Z.">um 365 v.u.Z.</date>
-         </birth>
-         <death>
-            <date when-custom="290 v.u.Z.">290 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5276_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155690.html</idno>
-      </person>
-      <person xml:id="pmb155691">
-         <persName>
-            <surname>Wilhelm</surname>
-            <forename>Richard</forename>
-         </persName>
-         <birth>
-            <date when="1873">1873</date>
-         </birth>
-         <death>
-            <date when="1930">1930</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5276_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155691.html</idno>
-      </person>
-   </back>
 </TEI>

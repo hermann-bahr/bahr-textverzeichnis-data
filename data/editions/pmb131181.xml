@@ -79,21 +79,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154166">
+               <persName>
+                  <surname>Steiner</surname>
+                  <forename>Gabor</forename>
+               </persName>
+               <birth>
+                  <date when="1858">1858</date>
+               </birth>
+               <death>
+                  <date when="1944">1944</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4691_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154166.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154166">
-         <persName>
-            <surname>Steiner</surname>
-            <forename>Gabor</forename>
-         </persName>
-         <birth>
-            <date when="1858">1858</date>
-         </birth>
-         <death>
-            <date when="1944">1944</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4691_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154166.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -84,47 +84,49 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154261">
+               <persName>
+                  <surname>Staerk</surname>
+                  <forename>Elli</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1843_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154261.html</idno>
+            </person>
+            <person xml:id="pmb154262">
+               <persName>
+                  <surname>Petzl</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1843_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154262.html</idno>
+            </person>
+            <person xml:id="pmb154263">
+               <persName>
+                  <surname>Bergauer</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1843_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154263.html</idno>
+            </person>
+            <person xml:id="pmb154264">
+               <persName>
+                  <surname>Hütter</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1843_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154264.html</idno>
+            </person>
+            <person xml:id="pmb154265">
+               <persName>
+                  <surname>Preslicka</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1843_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154265.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154261">
-         <persName>
-            <surname>Staerk</surname>
-            <forename>Elli</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1843_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154261.html</idno>
-      </person>
-      <person xml:id="pmb154262">
-         <persName>
-            <surname>Petzl</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1843_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154262.html</idno>
-      </person>
-      <person xml:id="pmb154263">
-         <persName>
-            <surname>Bergauer</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1843_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154263.html</idno>
-      </person>
-      <person xml:id="pmb154264">
-         <persName>
-            <surname>Hütter</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1843_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154264.html</idno>
-      </person>
-      <person xml:id="pmb154265">
-         <persName>
-            <surname>Preslicka</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1843_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154265.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -119,81 +119,65 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb13194">
+               <persName>
+                  <surname>Zola</surname>
+                  <forename>Emile</forename>
+               </persName>
+               <birth>
+                  <date>1840-04-02</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1902-09-29</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2691_p2</idno>
+               <idno type="wikidata">Q504</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
+            </person>
+            <person xml:id="pmb15626">
+               <persName>
+                  <surname>Echegaray y Eizaguirre</surname>
+                  <forename>José</forename>
+               </persName>
+               <birth>
+                  <date>1832-04-19</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </birth>
+               <death>
+                  <date>1916-09-14</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4864_p4</idno>
+               <idno type="wikidata">Q127349</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119047314</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15626.html</idno>
+            </person>
+            <person xml:id="pmb153880">
+               <persName>
+                  <surname>Costetti</surname>
+                  <forename>Giuseppe</forename>
+               </persName>
+               <birth>
+                  <date>1834-09-13</date>
+                  <placeName type="wikidata" ref="Q1891">Bologna</placeName>
+               </birth>
+               <death>
+                  <date>1928-03-13</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2618_p2</idno>
+               <idno type="wikidata">Q4235342</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153880.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb13194">
-         <persName>
-            <surname>Zola</surname>
-            <forename>Emile</forename>
-         </persName>
-         <birth>
-            <date>1840-04-02</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1902-09-29</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p2</idno>
-         <idno type="wikidata">Q504</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
-      </person>
-      <person xml:id="pmb15626">
-         <persName>
-            <surname>Echegaray y Eizaguirre</surname>
-            <forename>José</forename>
-         </persName>
-         <birth>
-            <date>1832-04-19</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </birth>
-         <death>
-            <date>1916-09-14</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4864_p4</idno>
-         <idno type="wikidata">Q127349</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119047314</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15626.html</idno>
-      </person>
-      <person xml:id="pmb15626">
-         <persName>
-            <surname>Echegaray y Eizaguirre</surname>
-            <forename>José</forename>
-         </persName>
-         <birth>
-            <date>1832-04-19</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </birth>
-         <death>
-            <date when=" 1916"> 1916</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2618_p1</idno>
-         <idno type="wikidata">Q127349</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119047314</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb15626.html</idno>
-      </person>
-      <person xml:id="pmb153880">
-         <persName>
-            <surname>Costetti</surname>
-            <forename>Giuseppe</forename>
-         </persName>
-         <birth>
-            <date>1834-09-13</date>
-            <placeName type="wikidata" ref="Q1891">Bologna</placeName>
-         </birth>
-         <death>
-            <date>1928-03-13</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2618_p2</idno>
-         <idno type="wikidata">Q4235342</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153880.html</idno>
-      </person>
-   </back>
 </TEI>

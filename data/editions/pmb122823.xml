@@ -100,40 +100,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154087">
+               <persName>
+                  <surname>Scholz</surname>
+                  <forename>August</forename>
+               </persName>
+               <birth>
+                  <date when="1857">1857</date>
+               </birth>
+               <death>
+                  <date when="1923">1923</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1931_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154087.html</idno>
+            </person>
+            <person xml:id="pmb13061">
+               <persName>
+                  <surname>Wassmann</surname>
+                  <forename>Hans</forename>
+               </persName>
+               <birth>
+                  <date>1873-01-01</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1932-04-05</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1932_p3</idno>
+               <idno type="wikidata">Q1582982</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117149853</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13061.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154087">
-         <persName>
-            <surname>Scholz</surname>
-            <forename>August</forename>
-         </persName>
-         <birth>
-            <date when="1857">1857</date>
-         </birth>
-         <death>
-            <date when="1923">1923</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1931_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154087.html</idno>
-      </person>
-      <person xml:id="pmb13061">
-         <persName>
-            <surname>Wassmann</surname>
-            <forename>Hans</forename>
-         </persName>
-         <birth>
-            <date>1873-01-01</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1932-04-05</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1932_p3</idno>
-         <idno type="wikidata">Q1582982</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117149853</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13061.html</idno>
-      </person>
-   </back>
 </TEI>

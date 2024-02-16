@@ -81,16 +81,18 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154216">
+               <persName>
+                  <surname>Biërna</surname>
+                  <forename>Lucie</forename>
+               </persName>
+               <occupation>Schauspieleri</occupation>
+               <idno type="HB-tv">HB-tv_2329_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154216.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154216">
-         <persName>
-            <surname>Biërna</surname>
-            <forename>Lucie</forename>
-         </persName>
-         <occupation>Schauspieleri</occupation>
-         <idno type="HB-tv">HB-tv_2329_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154216.html</idno>
-      </person>
-   </back>
 </TEI>

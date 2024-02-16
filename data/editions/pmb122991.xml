@@ -83,26 +83,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148771">
+               <persName>
+                  <surname>Aicard</surname>
+                  <forename>Jean</forename>
+               </persName>
+               <birth>
+                  <date>1848-02-04</date>
+                  <placeName type="wikidata" ref="Q44160">Toulon</placeName>
+               </birth>
+               <death>
+                  <date>1921-05-13</date>
+                  <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2357_p1</idno>
+               <idno type="wikidata">Q726967</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118644122</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148771.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148771">
-         <persName>
-            <surname>Aicard</surname>
-            <forename>Jean</forename>
-         </persName>
-         <birth>
-            <date>1848-02-04</date>
-            <placeName type="wikidata" ref="Q44160">Toulon</placeName>
-         </birth>
-         <death>
-            <date>1921-05-13</date>
-            <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2357_p1</idno>
-         <idno type="wikidata">Q726967</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118644122</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148771.html</idno>
-      </person>
-   </back>
 </TEI>

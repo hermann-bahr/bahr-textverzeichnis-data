@@ -85,68 +85,70 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb13194">
+               <persName>
+                  <surname>Zola</surname>
+                  <forename>Emile</forename>
+               </persName>
+               <birth>
+                  <date>1840-04-02</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1902-09-29</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2691_p2</idno>
+               <idno type="wikidata">Q504</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
+            </person>
+            <person xml:id="pmb154336">
+               <persName ref="#11021">
+                  <surname>Adamus</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <persName type="namensvariante">Ferdinand Bronner</persName>
+               <birth>
+                  <date when="1867">1867</date>
+               </birth>
+               <death>
+                  <date when="1948">1948</date>
+               </death>
+               <idno type="HB-tv">HB-tv_560_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154336.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+            <person xml:id="pmb154337">
+               <persName>
+                  <surname>Schiff</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_560_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154337.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb13194">
-         <persName>
-            <surname>Zola</surname>
-            <forename>Emile</forename>
-         </persName>
-         <birth>
-            <date>1840-04-02</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1902-09-29</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p2</idno>
-         <idno type="wikidata">Q504</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
-      </person>
-      <person xml:id="pmb154336">
-         <persName ref="#11021">
-            <surname>Adamus</surname>
-            <forename>Franz</forename>
-         </persName>
-         <persName type="namensvariante">Ferdinand Bronner</persName>
-         <birth>
-            <date when="1867">1867</date>
-         </birth>
-         <death>
-            <date when="1948">1948</date>
-         </death>
-         <idno type="HB-tv">HB-tv_560_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154336.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-      <person xml:id="pmb154337">
-         <persName>
-            <surname>Schiff</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_560_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154337.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -77,40 +77,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154143">
+               <persName>
+                  <surname>Rivière</surname>
+                  <forename>Henri</forename>
+               </persName>
+               <birth>
+                  <date when="1864">1864</date>
+               </birth>
+               <death>
+                  <date when="1951">1951</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1883_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154143.html</idno>
+            </person>
+            <person xml:id="pmb115115">
+               <persName>
+                  <surname>Lemaître</surname>
+                  <forename>Frédéric</forename>
+               </persName>
+               <birth>
+                  <date>1800-07-28</date>
+                  <placeName type="wikidata" ref="Q42810">Le Havre</placeName>
+               </birth>
+               <death>
+                  <date>1876-01-26</date>
+                  <placeName type="wikidata" ref="Q163948">10. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1883_p2</idno>
+               <idno type="wikidata">Q654231</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119056135</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115115.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154143">
-         <persName>
-            <surname>Rivière</surname>
-            <forename>Henri</forename>
-         </persName>
-         <birth>
-            <date when="1864">1864</date>
-         </birth>
-         <death>
-            <date when="1951">1951</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1883_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154143.html</idno>
-      </person>
-      <person xml:id="pmb115115">
-         <persName>
-            <surname>Lemaître</surname>
-            <forename>Frédéric</forename>
-         </persName>
-         <birth>
-            <date>1800-07-28</date>
-            <placeName type="wikidata" ref="Q42810">Le Havre</placeName>
-         </birth>
-         <death>
-            <date>1876-01-26</date>
-            <placeName type="wikidata" ref="Q163948">10. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1883_p2</idno>
-         <idno type="wikidata">Q654231</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119056135</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115115.html</idno>
-      </person>
-   </back>
 </TEI>

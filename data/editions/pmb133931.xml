@@ -97,40 +97,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155156">
+               <persName>
+                  <surname>Egidy</surname>
+                  <forename>Moritz von</forename>
+               </persName>
+               <birth>
+                  <date when="1847">1847</date>
+               </birth>
+               <death>
+                  <date when="1898">1898</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4863_p12</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155156.html</idno>
+            </person>
+            <person xml:id="pmb116779">
+               <persName>
+                  <surname>Foerster</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date>1832-12-16</date>
+                  <placeName type="wikidata" ref="Q104720">Zielona Góra</placeName>
+               </birth>
+               <death>
+                  <date>1921-01-18</date>
+                  <placeName type="wikidata" ref="Q893995">Bornim</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2734_p2</idno>
+               <idno type="wikidata">Q77029</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118692062</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116779.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155156">
-         <persName>
-            <surname>Egidy</surname>
-            <forename>Moritz von</forename>
-         </persName>
-         <birth>
-            <date when="1847">1847</date>
-         </birth>
-         <death>
-            <date when="1898">1898</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4863_p12</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155156.html</idno>
-      </person>
-      <person xml:id="pmb116779">
-         <persName>
-            <surname>Foerster</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date>1832-12-16</date>
-            <placeName type="wikidata" ref="Q104720">Zielona Góra</placeName>
-         </birth>
-         <death>
-            <date>1921-01-18</date>
-            <placeName type="wikidata" ref="Q893995">Bornim</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2734_p2</idno>
-         <idno type="wikidata">Q77029</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118692062</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116779.html</idno>
-      </person>
-   </back>
 </TEI>

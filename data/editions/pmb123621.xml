@@ -79,15 +79,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154478">
+               <persName>
+                  <surname>Osten</surname>
+                  <forename>H.</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2349_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154478.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154478">
-         <persName>
-            <surname>Osten</surname>
-            <forename>H.</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2349_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154478.html</idno>
-      </person>
-   </back>
 </TEI>

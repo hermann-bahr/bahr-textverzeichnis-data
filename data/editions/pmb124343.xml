@@ -82,20 +82,22 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154717">
+               <persName>
+                  <surname>Diotima</surname>
+               </persName>
+               <birth>
+                  <date when="1878">1878</date>
+               </birth>
+               <death>
+                  <date when="1955">1955</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6698_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154717.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154717">
-         <persName>
-            <surname>Diotima</surname>
-         </persName>
-         <birth>
-            <date when="1878">1878</date>
-         </birth>
-         <death>
-            <date when="1955">1955</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6698_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154717.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -82,23 +82,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153938">
+               <persName>
+                  <surname>Hofmann</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3845_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153938.html</idno>
+            </person>
+            <person xml:id="pmb153939">
+               <persName>
+                  <surname>Wickenburg</surname>
+                  <forename>Alfred von</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3845_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153939.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153938">
-         <persName>
-            <surname>Hofmann</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3845_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153938.html</idno>
-      </person>
-      <person xml:id="pmb153939">
-         <persName>
-            <surname>Wickenburg</surname>
-            <forename>Alfred von</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3845_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153939.html</idno>
-      </person>
-   </back>
 </TEI>

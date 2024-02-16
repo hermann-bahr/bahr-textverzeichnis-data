@@ -100,43 +100,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb151381">
+               <persName>
+                  <surname>Vespasiano da Bisticci</surname>
+               </persName>
+               <birth>
+                  <date>1421</date>
+                  <placeName type="wikidata" ref="Q82813">Rignano sull’Arno</placeName>
+               </birth>
+               <death>
+                  <date>1498</date>
+                  <placeName type="wikidata" ref="Q18486358"/>
+               </death>
+               <idno type="HB-tv">HB-tv_3187_p1</idno>
+               <idno type="wikidata">Q1969550</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118804308</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151381.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb151381">
-         <persName>
-            <surname>Vespasiano da Bisticci</surname>
-         </persName>
-         <birth>
-            <date>1421</date>
-            <placeName type="wikidata" ref="Q82813">Rignano sull’Arno</placeName>
-         </birth>
-         <death>
-            <date>1498</date>
-            <placeName type="wikidata" ref="Q18486358"/>
-         </death>
-         <idno type="HB-tv">HB-tv_3187_p1</idno>
-         <idno type="wikidata">Q1969550</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118804308</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151381.html</idno>
-      </person>
-      <person xml:id="pmb151381">
-         <persName>
-            <surname>Vespasiano da Bisticci</surname>
-         </persName>
-         <birth>
-            <date>1421</date>
-            <placeName type="wikidata" ref="Q82813">Rignano sull’Arno</placeName>
-         </birth>
-         <death>
-            <date>1498</date>
-            <placeName type="wikidata" ref="Q18486358"/>
-         </death>
-         <idno type="HB-tv">HB-tv_2941_p4</idno>
-         <idno type="wikidata">Q1969550</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118804308</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151381.html</idno>
-      </person>
-   </back>
 </TEI>

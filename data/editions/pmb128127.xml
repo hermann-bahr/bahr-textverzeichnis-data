@@ -92,53 +92,55 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb150483">
+               <persName>
+                  <surname>Huelsenbeck</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <birth>
+                  <date>1892-04-23</date>
+                  <placeName type="wikidata" ref="Q249066">Frankenau</placeName>
+               </birth>
+               <death>
+                  <date>1974-04-30</date>
+                  <placeName type="wikidata" ref="Q69065">Minusio</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6076_p1</idno>
+               <idno type="wikidata">Q76853</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118554387</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150483.html</idno>
+            </person>
+            <person xml:id="pmb155656">
+               <persName>
+                  <surname>Anselm von Canterbury</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1033">um 1033</date>
+               </birth>
+               <death>
+                  <date when="1109">1109</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6076_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155656.html</idno>
+            </person>
+            <person xml:id="pmb154769">
+               <persName>
+                  <surname>Gallitzin</surname>
+                  <forename>Amalie von</forename>
+               </persName>
+               <birth>
+                  <date when="1748">1748</date>
+               </birth>
+               <death>
+                  <date when="1806">1806</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3695_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154769.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb150483">
-         <persName>
-            <surname>Huelsenbeck</surname>
-            <forename>Richard</forename>
-         </persName>
-         <birth>
-            <date>1892-04-23</date>
-            <placeName type="wikidata" ref="Q249066">Frankenau</placeName>
-         </birth>
-         <death>
-            <date>1974-04-30</date>
-            <placeName type="wikidata" ref="Q69065">Minusio</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6076_p1</idno>
-         <idno type="wikidata">Q76853</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118554387</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150483.html</idno>
-      </person>
-      <person xml:id="pmb155656">
-         <persName>
-            <surname>Anselm von Canterbury</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1033">um 1033</date>
-         </birth>
-         <death>
-            <date when="1109">1109</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6076_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155656.html</idno>
-      </person>
-      <person xml:id="pmb154769">
-         <persName>
-            <surname>Gallitzin</surname>
-            <forename>Amalie von</forename>
-         </persName>
-         <birth>
-            <date when="1748">1748</date>
-         </birth>
-         <death>
-            <date when="1806">1806</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3695_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154769.html</idno>
-      </person>
-   </back>
 </TEI>

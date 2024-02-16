@@ -75,75 +75,77 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153892">
+               <persName>
+                  <surname>Compton</surname>
+                  <forename>Fay</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153892.html</idno>
+            </person>
+            <person xml:id="pmb153589">
+               <persName>
+                  <surname>Miljan</surname>
+                  <forename>John</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p2</idno>
+               <idno type="wikidata">Q1263798</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153589.html</idno>
+            </person>
+            <person xml:id="pmb153893">
+               <persName>
+                  <surname>Wayne</surname>
+                  <forename>Robert</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153893.html</idno>
+            </person>
+            <person xml:id="pmb153894">
+               <persName>
+                  <surname>Standing</surname>
+                  <forename>Joan</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153894.html</idno>
+            </person>
+            <person xml:id="pmb153895">
+               <persName>
+                  <surname>Powell</surname>
+                  <forename>Russell</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153895.html</idno>
+            </person>
+            <person xml:id="pmb153594">
+               <persName>
+                  <surname>Seegar</surname>
+                  <forename>Miriam</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p6</idno>
+               <idno type="wikidata">Q433530</idno>
+               <sex value="female"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153594.html</idno>
+            </person>
+            <person xml:id="pmb153896">
+               <persName>
+                  <surname>Vanaire</surname>
+                  <forename>Jacques</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153896.html</idno>
+            </person>
+            <person xml:id="pmb153897">
+               <persName>
+                  <surname>Bennett</surname>
+                  <forename>Billie</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2066_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153897.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153892">
-         <persName>
-            <surname>Compton</surname>
-            <forename>Fay</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153892.html</idno>
-      </person>
-      <person xml:id="pmb153589">
-         <persName>
-            <surname>Miljan</surname>
-            <forename>John</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p2</idno>
-         <idno type="wikidata">Q1263798</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153589.html</idno>
-      </person>
-      <person xml:id="pmb153893">
-         <persName>
-            <surname>Wayne</surname>
-            <forename>Robert</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153893.html</idno>
-      </person>
-      <person xml:id="pmb153894">
-         <persName>
-            <surname>Standing</surname>
-            <forename>Joan</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153894.html</idno>
-      </person>
-      <person xml:id="pmb153895">
-         <persName>
-            <surname>Powell</surname>
-            <forename>Russell</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153895.html</idno>
-      </person>
-      <person xml:id="pmb153594">
-         <persName>
-            <surname>Seegar</surname>
-            <forename>Miriam</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p6</idno>
-         <idno type="wikidata">Q433530</idno>
-         <sex value="female"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153594.html</idno>
-      </person>
-      <person xml:id="pmb153896">
-         <persName>
-            <surname>Vanaire</surname>
-            <forename>Jacques</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153896.html</idno>
-      </person>
-      <person xml:id="pmb153897">
-         <persName>
-            <surname>Bennett</surname>
-            <forename>Billie</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2066_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153897.html</idno>
-      </person>
-   </back>
 </TEI>

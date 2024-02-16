@@ -85,21 +85,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154664">
+               <persName>
+                  <surname>O’Brien</surname>
+                  <forename>Edward Murrough</forename>
+               </persName>
+               <birth>
+                  <date when="1814">1814</date>
+               </birth>
+               <death>
+                  <date when="1895">1895</date>
+               </death>
+               <idno type="HB-tv">HB-tv_318_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154664.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154664">
-         <persName>
-            <surname>O’Brien</surname>
-            <forename>Edward Murrough</forename>
-         </persName>
-         <birth>
-            <date when="1814">1814</date>
-         </birth>
-         <death>
-            <date when="1895">1895</date>
-         </death>
-         <idno type="HB-tv">HB-tv_318_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154664.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -86,48 +86,50 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154403">
+               <persName>
+                  <surname>Bukovics von Kis-Alacska</surname>
+                  <forename>Emmerich</forename>
+               </persName>
+               <birth>
+                  <date when="1844">1844</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1677_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154403.html</idno>
+            </person>
+            <person xml:id="pmb4200">
+               <persName>
+                  <surname>Devrient-Reinhold</surname>
+                  <forename>Babette</forename>
+               </persName>
+               <birth>
+                  <date>1863-10-30</date>
+                  <placeName type="wikidata" ref="Q1715">Hannover</placeName>
+               </birth>
+               <death>
+                  <date>1940-06-13</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2270_p1</idno>
+               <idno type="wikidata">Q797650</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116089237</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4200.html</idno>
+            </person>
+            <person xml:id="pmb154404">
+               <persName>
+                  <surname>Körner</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_1677_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154404.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154403">
-         <persName>
-            <surname>Bukovics von Kis-Alacska</surname>
-            <forename>Emmerich</forename>
-         </persName>
-         <birth>
-            <date when="1844">1844</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1677_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154403.html</idno>
-      </person>
-      <person xml:id="pmb4200">
-         <persName>
-            <surname>Devrient-Reinhold</surname>
-            <forename>Babette</forename>
-         </persName>
-         <birth>
-            <date>1863-10-30</date>
-            <placeName type="wikidata" ref="Q1715">Hannover</placeName>
-         </birth>
-         <death>
-            <date>1940-06-13</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2270_p1</idno>
-         <idno type="wikidata">Q797650</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116089237</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4200.html</idno>
-      </person>
-      <person xml:id="pmb154404">
-         <persName>
-            <surname>Körner</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_1677_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154404.html</idno>
-      </person>
-   </back>
 </TEI>

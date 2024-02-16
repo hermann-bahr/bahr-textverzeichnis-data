@@ -85,27 +85,29 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154743">
+               <persName>
+                  <surname>Virgil</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_1313_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154743.html</idno>
+            </person>
+            <person xml:id="pmb154744">
+               <persName>
+                  <surname>Publius Vergilius Maro</surname>
+               </persName>
+               <birth>
+                  <date when="0070">70</date>
+               </birth>
+               <death>
+                  <date when-custom="19 v.u.Z.">19 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1313_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154744.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154743">
-         <persName>
-            <surname>Virgil</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1313_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154743.html</idno>
-      </person>
-      <person xml:id="pmb154744">
-         <persName>
-            <surname>Publius Vergilius Maro</surname>
-         </persName>
-         <birth>
-            <date when="0070">70</date>
-         </birth>
-         <death>
-            <date when-custom="19 v.u.Z.">19 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1313_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154744.html</idno>
-      </person>
-   </back>
 </TEI>

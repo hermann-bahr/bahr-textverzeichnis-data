@@ -108,22 +108,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156060">
+               <persName>
+                  <surname>Förster</surname>
+               </persName>
+               <occupation>Lehrer in Leipzig</occupation>
+               <idno type="HB-tv">HB-tv_3647_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156060.html</idno>
+            </person>
+            <person xml:id="pmb156061">
+               <persName>
+                  <surname>Philoktet</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_3647_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156061.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156060">
-         <persName>
-            <surname>Förster</surname>
-         </persName>
-         <occupation>Lehrer in Leipzig</occupation>
-         <idno type="HB-tv">HB-tv_3647_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156060.html</idno>
-      </person>
-      <person xml:id="pmb156061">
-         <persName>
-            <surname>Philoktet</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3647_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156061.html</idno>
-      </person>
-   </back>
 </TEI>

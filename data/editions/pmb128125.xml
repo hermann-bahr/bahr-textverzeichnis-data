@@ -88,45 +88,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb7452">
+               <persName>
+                  <surname>Goethe</surname>
+                  <forename>Catharina Elisabeth</forename>
+               </persName>
+               <birth>
+                  <date>1731-02-19</date>
+                  <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
+               </birth>
+               <death>
+                  <date>1808-09-13</date>
+                  <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_984_p1</idno>
+               <idno type="wikidata">Q103757</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118540246</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7452.html</idno>
+            </person>
+            <person xml:id="pmb150480">
+               <persName>
+                  <surname>Boisserée</surname>
+                  <forename>Sulpiz</forename>
+               </persName>
+               <birth>
+                  <date>1783-08-02</date>
+                  <placeName type="wikidata" ref="Q365">Köln</placeName>
+               </birth>
+               <death>
+                  <date>1854-05-02</date>
+                  <placeName type="wikidata" ref="Q586">Bonn</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6077_p2</idno>
+               <idno type="wikidata">Q67263</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11851301X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150480.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb7452">
-         <persName>
-            <surname>Goethe</surname>
-            <forename>Catharina Elisabeth</forename>
-         </persName>
-         <birth>
-            <date>1731-02-19</date>
-            <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
-         </birth>
-         <death>
-            <date>1808-09-13</date>
-            <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_984_p1</idno>
-         <idno type="wikidata">Q103757</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118540246</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7452.html</idno>
-      </person>
-      <person xml:id="pmb150480">
-         <persName>
-            <surname>Boisserée</surname>
-            <forename>Sulpiz</forename>
-         </persName>
-         <birth>
-            <date>1783-08-02</date>
-            <placeName type="wikidata" ref="Q365">Köln</placeName>
-         </birth>
-         <death>
-            <date>1854-05-02</date>
-            <placeName type="wikidata" ref="Q586">Bonn</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6077_p2</idno>
-         <idno type="wikidata">Q67263</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11851301X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150480.html</idno>
-      </person>
-   </back>
 </TEI>

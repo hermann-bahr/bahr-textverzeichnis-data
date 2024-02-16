@@ -76,22 +76,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153967">
+               <persName>
+                  <surname>l’Arronge</surname>
+                  <forename>Adolph</forename>
+               </persName>
+               <persName type="namensvariante">Adolf Aaronsohn</persName>
+               <birth>
+                  <date when="1838">1838</date>
+               </birth>
+               <death>
+                  <date when="1908">1908</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4465_p9</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153967.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153967">
-         <persName>
-            <surname>l’Arronge</surname>
-            <forename>Adolph</forename>
-         </persName>
-         <persName type="namensvariante">Adolf Aaronsohn</persName>
-         <birth>
-            <date when="1838">1838</date>
-         </birth>
-         <death>
-            <date when="1908">1908</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4465_p9</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153967.html</idno>
-      </person>
-   </back>
 </TEI>

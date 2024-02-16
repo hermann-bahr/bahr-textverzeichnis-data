@@ -86,105 +86,89 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb21317">
+               <persName>
+                  <surname>Mendés</surname>
+                  <forename>Catulle</forename>
+               </persName>
+               <birth>
+                  <date>1841-05-22</date>
+                  <placeName type="wikidata" ref="Q1479">Bordeaux</placeName>
+               </birth>
+               <death>
+                  <date>1909-02-08</date>
+                  <placeName type="wikidata" ref="Q60847808">Saint-Germain-en-Laye</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1351_p22</idno>
+               <idno type="wikidata">Q971215</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118783203</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21317.html</idno>
+            </person>
+            <person xml:id="pmb21501">
+               <persName>
+                  <surname>Gyp</surname>
+                  <forename>d. i. Sibylle Gabrielle Riquetti de Mirabeau</forename>
+               </persName>
+               <birth>
+                  <date>1850-08-15</date>
+                  <placeName type="wikidata" ref="Q196448">Plumergat</placeName>
+               </birth>
+               <death>
+                  <date>1932-06-30</date>
+                  <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1848_p1</idno>
+               <idno type="wikidata">Q199228</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/119283158</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21501.html</idno>
+            </person>
+            <person xml:id="pmb148856">
+               <persName>
+                  <surname>Baron fils</surname>
+               </persName>
+               <birth>
+                  <date>1870-12-24</date>
+                  <placeName type="wikidata" ref="Q270230">8. Arrondissement von Paris</placeName>
+               </birth>
+               <death>
+                  <date>1939-11-30</date>
+                  <placeName type="wikidata" ref="Q183557">Dieppe</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1848_p2</idno>
+               <idno type="wikidata">Q2884781</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1093853328</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148856.html</idno>
+            </person>
+            <person xml:id="pmb154253">
+               <persName>
+                  <surname>Déan</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1848_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154253.html</idno>
+            </person>
+            <person xml:id="pmb154254">
+               <persName>
+                  <surname>Rolly</surname>
+                  <forename>Jeanne</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1848_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154254.html</idno>
+            </person>
+            <person xml:id="pmb154255">
+               <persName>
+                  <surname>Grimault</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_1848_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154255.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb21317">
-         <persName>
-            <surname>Mendés</surname>
-            <forename>Catulle</forename>
-         </persName>
-         <birth>
-            <date>1841-05-22</date>
-            <placeName type="wikidata" ref="Q1479">Bordeaux</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q60847808">Saint-Germain-en-Laye</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p22</idno>
-         <idno type="wikidata">Q971215</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118783203</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21317.html</idno>
-      </person>
-      <person xml:id="pmb21501">
-         <persName>
-            <surname>Gyp</surname>
-            <forename>d. i. Sibylle Gabrielle Riquetti de Mirabeau</forename>
-         </persName>
-         <birth>
-            <date>1850-08-15</date>
-            <placeName type="wikidata" ref="Q196448">Plumergat</placeName>
-         </birth>
-         <death>
-            <date>1932-06-30</date>
-            <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1848_p1</idno>
-         <idno type="wikidata">Q199228</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/119283158</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21501.html</idno>
-      </person>
-      <person xml:id="pmb148856">
-         <persName>
-            <surname>Baron fils</surname>
-         </persName>
-         <birth>
-            <date>1870-12-24</date>
-            <placeName type="wikidata" ref="Q270230">8. Arrondissement von Paris</placeName>
-         </birth>
-         <death>
-            <date>1939-11-30</date>
-            <placeName type="wikidata" ref="Q183557">Dieppe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1848_p2</idno>
-         <idno type="wikidata">Q2884781</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1093853328</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148856.html</idno>
-      </person>
-      <person xml:id="pmb148856">
-         <persName>
-            <surname>Baron fils</surname>
-         </persName>
-         <birth>
-            <date>1870-12-24</date>
-            <placeName type="wikidata" ref="Q270230">8. Arrondissement von Paris</placeName>
-         </birth>
-         <death>
-            <date>1939-11-30</date>
-            <placeName type="wikidata" ref="Q183557">Dieppe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1846_p5</idno>
-         <idno type="wikidata">Q2884781</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1093853328</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148856.html</idno>
-      </person>
-      <person xml:id="pmb154253">
-         <persName>
-            <surname>Déan</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1848_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154253.html</idno>
-      </person>
-      <person xml:id="pmb154254">
-         <persName>
-            <surname>Rolly</surname>
-            <forename>Jeanne</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1848_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154254.html</idno>
-      </person>
-      <person xml:id="pmb154255">
-         <persName>
-            <surname>Grimault</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_1848_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154255.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -96,142 +96,125 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154733">
+               <persName>
+                  <surname>Alexander der Große</surname>
+               </persName>
+               <birth>
+                  <date when="0356">356</date>
+               </birth>
+               <death>
+                  <date when-custom="323 v.u.Z.">323 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154733.html</idno>
+            </person>
+            <person xml:id="pmb154734">
+               <persName>
+                  <surname>Gaius Iulius Caesar</surname>
+               </persName>
+               <birth>
+                  <date when="0100">100</date>
+               </birth>
+               <death>
+                  <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154734.html</idno>
+            </person>
+            <person xml:id="pmb154735">
+               <persName>
+                  <surname>Hannibal</surname>
+               </persName>
+               <birth>
+                  <date when="0246">246</date>
+               </birth>
+               <death>
+                  <date when-custom="183 v.u.Z.">183 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154735.html</idno>
+            </person>
+            <person xml:id="pmb154736">
+               <persName>
+                  <surname>Fox</surname>
+                  <forename>George</forename>
+               </persName>
+               <birth>
+                  <date when="1624">1624</date>
+               </birth>
+               <death>
+                  <date when="1691">1691</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154736.html</idno>
+            </person>
+            <person xml:id="pmb154737">
+               <persName>
+                  <surname>Rosetti</surname>
+                  <forename>William Michael</forename>
+               </persName>
+               <birth>
+                  <date when="1829">1829</date>
+               </birth>
+               <death>
+                  <date when="1919">1919</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154737.html</idno>
+            </person>
+            <person xml:id="pmb113978">
+               <persName>
+                  <surname>Freiligrath</surname>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <birth>
+                  <date>1810-06-17</date>
+                  <placeName type="wikidata" ref="Q3922">Detmold</placeName>
+               </birth>
+               <death>
+                  <date>1876-03-18</date>
+                  <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p6</idno>
+               <idno type="wikidata">Q213719</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118535196</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113978.html</idno>
+            </person>
+            <person xml:id="pmb149184">
+               <persName>
+                  <surname>Schabelitz</surname>
+                  <forename>Jakob Lukas</forename>
+               </persName>
+               <birth>
+                  <date>1827-03-10</date>
+                  <placeName type="wikidata" ref="Q78">Basel</placeName>
+               </birth>
+               <death>
+                  <date>1899-01-28</date>
+                  <placeName type="wikidata" ref="Q72">Zürich</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p7</idno>
+               <idno type="wikidata">Q1679204</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/120810883</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149184.html</idno>
+            </person>
+            <person xml:id="pmb149187">
+               <persName>
+                  <surname>Müller-Sturmheim</surname>
+                  <forename>Emil</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3576_p8</idno>
+               <idno type="wikidata">Q1336572</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1037831640</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149187.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154733">
-         <persName>
-            <surname>Alexander der Große</surname>
-         </persName>
-         <birth>
-            <date when="0356">356</date>
-         </birth>
-         <death>
-            <date when-custom="323 v.u.Z.">323 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154733.html</idno>
-      </person>
-      <person xml:id="pmb154734">
-         <persName>
-            <surname>Gaius Iulius Caesar</surname>
-         </persName>
-         <birth>
-            <date when="0100">100</date>
-         </birth>
-         <death>
-            <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154734.html</idno>
-      </person>
-      <person xml:id="pmb154735">
-         <persName>
-            <surname>Hannibal</surname>
-         </persName>
-         <birth>
-            <date when="0246">246</date>
-         </birth>
-         <death>
-            <date when-custom="183 v.u.Z.">183 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154735.html</idno>
-      </person>
-      <person xml:id="pmb154736">
-         <persName>
-            <surname>Fox</surname>
-            <forename>George</forename>
-         </persName>
-         <birth>
-            <date when="1624">1624</date>
-         </birth>
-         <death>
-            <date when="1691">1691</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154736.html</idno>
-      </person>
-      <person xml:id="pmb154737">
-         <persName>
-            <surname>Rosetti</surname>
-            <forename>William Michael</forename>
-         </persName>
-         <birth>
-            <date when="1829">1829</date>
-         </birth>
-         <death>
-            <date when="1919">1919</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154737.html</idno>
-      </person>
-      <person xml:id="pmb113978">
-         <persName>
-            <surname>Freiligrath</surname>
-            <forename>Ferdinand</forename>
-         </persName>
-         <birth>
-            <date>1810-06-17</date>
-            <placeName type="wikidata" ref="Q3922">Detmold</placeName>
-         </birth>
-         <death>
-            <date>1876-03-18</date>
-            <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p6</idno>
-         <idno type="wikidata">Q213719</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118535196</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113978.html</idno>
-      </person>
-      <person xml:id="pmb113978">
-         <persName>
-            <surname>Freiligrath</surname>
-            <forename>Hermann Ferdinand</forename>
-         </persName>
-         <birth>
-            <date>1810-06-17</date>
-            <placeName type="wikidata" ref="Q3922">Detmold</placeName>
-         </birth>
-         <death>
-            <date>1876-03-18</date>
-            <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3374_p6</idno>
-         <idno type="wikidata">Q213719</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118535196</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113978.html</idno>
-      </person>
-      <person xml:id="pmb149184">
-         <persName>
-            <surname>Schabelitz</surname>
-            <forename>Jakob Lukas</forename>
-         </persName>
-         <birth>
-            <date>1827-03-10</date>
-            <placeName type="wikidata" ref="Q78">Basel</placeName>
-         </birth>
-         <death>
-            <date>1899-01-28</date>
-            <placeName type="wikidata" ref="Q72">Zürich</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p7</idno>
-         <idno type="wikidata">Q1679204</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/120810883</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149184.html</idno>
-      </person>
-      <person xml:id="pmb149187">
-         <persName>
-            <surname>Müller-Sturmheim</surname>
-            <forename>Emil</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3576_p8</idno>
-         <idno type="wikidata">Q1336572</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1037831640</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149187.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -91,56 +91,58 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb4103">
+               <persName>
+                  <surname>Descartes</surname>
+                  <forename>Réne</forename>
+               </persName>
+               <birth>
+                  <date>1596-03-31</date>
+                  <placeName type="wikidata" ref="Q320299">Descartes</placeName>
+               </birth>
+               <death>
+                  <date>1650-02-11</date>
+                  <placeName type="wikidata" ref="Q10680648">Stockholm ehemalige Stadtgemeinde</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2691_p14</idno>
+               <idno type="wikidata">Q9191</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118524844</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4103.html</idno>
+            </person>
+            <person xml:id="pmb156606">
+               <persName>
+                  <surname>Diogenes</surname>
+                  <forename>Antonius</forename>
+               </persName>
+               <birth>
+                  <date when-custom="1./2. Jhdt.">1./2. Jhdt.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_582_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156606.html</idno>
+            </person>
+            <person xml:id="pmb11057">
+               <persName>
+                  <surname>Byron of Rochdale</surname>
+                  <forename>George Gordon Noel</forename>
+               </persName>
+               <birth>
+                  <date>1788-01-22</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1824-04-19</date>
+                  <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4873_p10</idno>
+               <idno type="wikidata">Q5679</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb4103">
-         <persName>
-            <surname>Descartes</surname>
-            <forename>Réne</forename>
-         </persName>
-         <birth>
-            <date>1596-03-31</date>
-            <placeName type="wikidata" ref="Q320299">Descartes</placeName>
-         </birth>
-         <death>
-            <date>1650-02-11</date>
-            <placeName type="wikidata" ref="Q10680648">Stockholm ehemalige Stadtgemeinde</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p14</idno>
-         <idno type="wikidata">Q9191</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524844</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4103.html</idno>
-      </person>
-      <person xml:id="pmb156606">
-         <persName>
-            <surname>Diogenes</surname>
-            <forename>Antonius</forename>
-         </persName>
-         <birth>
-            <date when-custom="1./2. Jhdt.">1./2. Jhdt.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_582_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156606.html</idno>
-      </person>
-      <person xml:id="pmb11057">
-         <persName>
-            <surname>Byron of Rochdale</surname>
-            <forename>George Gordon Noel</forename>
-         </persName>
-         <birth>
-            <date>1788-01-22</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1824-04-19</date>
-            <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p10</idno>
-         <idno type="wikidata">Q5679</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
-      </person>
-   </back>
 </TEI>

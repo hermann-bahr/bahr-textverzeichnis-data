@@ -83,40 +83,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148959">
+               <persName>
+                  <surname>Granier</surname>
+                  <forename>Jeanne</forename>
+               </persName>
+               <birth>
+                  <date>1852-05-31</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1939-12-18</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2514_p1</idno>
+               <idno type="wikidata">Q3176059</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116822082</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148959.html</idno>
+            </person>
+            <person xml:id="pmb19039">
+               <persName>
+                  <surname>Kalmar</surname>
+                  <forename>Anni</forename>
+               </persName>
+               <birth>
+                  <date when="1877">1877</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3871_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb19039.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148959">
-         <persName>
-            <surname>Granier</surname>
-            <forename>Jeanne</forename>
-         </persName>
-         <birth>
-            <date>1852-05-31</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1939-12-18</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2514_p1</idno>
-         <idno type="wikidata">Q3176059</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116822082</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148959.html</idno>
-      </person>
-      <person xml:id="pmb19039">
-         <persName>
-            <surname>Kalmar</surname>
-            <forename>Anni</forename>
-         </persName>
-         <birth>
-            <date when="1877">1877</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3871_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb19039.html</idno>
-      </person>
-   </back>
 </TEI>

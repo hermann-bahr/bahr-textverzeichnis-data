@@ -76,15 +76,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154536">
+               <persName>
+                  <surname>Andò</surname>
+                  <forename>Flavio</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2346_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154536.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154536">
-         <persName>
-            <surname>Andò</surname>
-            <forename>Flavio</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2346_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154536.html</idno>
-      </person>
-   </back>
 </TEI>

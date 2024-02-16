@@ -73,45 +73,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb113069">
+               <persName>
+                  <surname>Zumbusch</surname>
+                  <forename>Caspar von</forename>
+               </persName>
+               <birth>
+                  <date>1830-11-23</date>
+                  <placeName type="wikidata" ref="Q1615095">Herzebrock</placeName>
+               </birth>
+               <death>
+                  <date>1915-09-27</date>
+                  <placeName type="wikidata" ref="Q532970">Rimsting</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1834_p1</idno>
+               <idno type="wikidata">Q268977</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119047071</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113069.html</idno>
+            </person>
+            <person xml:id="pmb117794">
+               <persName>
+                  <surname>Albrecht von Österreich-Teschen</surname>
+                  <forename>Friedrich Rudolf</forename>
+               </persName>
+               <birth>
+                  <date>1817-08-03</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1895-02-18</date>
+                  <placeName type="wikidata" ref="Q138473">Arco</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1834_p2</idno>
+               <idno type="wikidata">Q310807</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119482975</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117794.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb113069">
-         <persName>
-            <surname>Zumbusch</surname>
-            <forename>Caspar von</forename>
-         </persName>
-         <birth>
-            <date>1830-11-23</date>
-            <placeName type="wikidata" ref="Q1615095">Herzebrock</placeName>
-         </birth>
-         <death>
-            <date>1915-09-27</date>
-            <placeName type="wikidata" ref="Q532970">Rimsting</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1834_p1</idno>
-         <idno type="wikidata">Q268977</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119047071</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113069.html</idno>
-      </person>
-      <person xml:id="pmb117794">
-         <persName>
-            <surname>Albrecht von Österreich-Teschen</surname>
-            <forename>Friedrich Rudolf</forename>
-         </persName>
-         <birth>
-            <date>1817-08-03</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1895-02-18</date>
-            <placeName type="wikidata" ref="Q138473">Arco</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1834_p2</idno>
-         <idno type="wikidata">Q310807</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119482975</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117794.html</idno>
-      </person>
-   </back>
 </TEI>

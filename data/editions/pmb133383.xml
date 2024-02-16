@@ -98,23 +98,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156765">
+               <persName>
+                  <surname>Groß</surname>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_450_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156765.html</idno>
+            </person>
+            <person xml:id="pmb156766">
+               <persName>
+                  <surname>Jullien</surname>
+                  <forename>Jean</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_450_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156766.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156765">
-         <persName>
-            <surname>Groß</surname>
-            <forename>Ferdinand</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_450_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156765.html</idno>
-      </person>
-      <person xml:id="pmb156766">
-         <persName>
-            <surname>Jullien</surname>
-            <forename>Jean</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_450_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156766.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -99,51 +99,53 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156909">
+               <persName>
+                  <surname>Alexis</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <birth>
+                  <date when="1847">1847</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_34_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156909.html</idno>
+            </person>
+            <person xml:id="pmb148829">
+               <persName>
+                  <surname>Margueritte</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <birth>
+                  <date>1860-02-20</date>
+                  <placeName type="wikidata" ref="Q402733">Laghouat</placeName>
+               </birth>
+               <death>
+                  <date>1918-12-23</date>
+                  <placeName type="wikidata" ref="Q546832">Soorts-Hossegor</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2534_p2</idno>
+               <idno type="wikidata">Q2988469</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/135792584</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148829.html</idno>
+            </person>
+            <person xml:id="pmb157242">
+               <persName>
+                  <surname>Najac</surname>
+                  <forename>Raoul de</forename>
+               </persName>
+               <birth>
+                  <date when="1856">1856</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_2669_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157242.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156909">
-         <persName>
-            <surname>Alexis</surname>
-            <forename>Paul</forename>
-         </persName>
-         <birth>
-            <date when="1847">1847</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_34_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156909.html</idno>
-      </person>
-      <person xml:id="pmb148829">
-         <persName>
-            <surname>Margueritte</surname>
-            <forename>Paul</forename>
-         </persName>
-         <birth>
-            <date>1860-02-20</date>
-            <placeName type="wikidata" ref="Q402733">Laghouat</placeName>
-         </birth>
-         <death>
-            <date>1918-12-23</date>
-            <placeName type="wikidata" ref="Q546832">Soorts-Hossegor</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2534_p2</idno>
-         <idno type="wikidata">Q2988469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/135792584</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148829.html</idno>
-      </person>
-      <person xml:id="pmb157242">
-         <persName>
-            <surname>Najac</surname>
-            <forename>Raoul de</forename>
-         </persName>
-         <birth>
-            <date when="1856">1856</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_2669_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157242.html</idno>
-      </person>
-   </back>
 </TEI>

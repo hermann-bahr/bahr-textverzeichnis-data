@@ -82,22 +82,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154174">
+               <persName>
+                  <surname>Müller</surname>
+                  <forename>Adolf senior</forename>
+               </persName>
+               <persName type="namensvariante">Matthias Schmidt</persName>
+               <birth>
+                  <date when="1801">1801</date>
+               </birth>
+               <death>
+                  <date when="1886">1886</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2540_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154174.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154174">
-         <persName>
-            <surname>Müller</surname>
-            <forename>Adolf senior</forename>
-         </persName>
-         <persName type="namensvariante">Matthias Schmidt</persName>
-         <birth>
-            <date when="1801">1801</date>
-         </birth>
-         <death>
-            <date when="1886">1886</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2540_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154174.html</idno>
-      </person>
-   </back>
 </TEI>

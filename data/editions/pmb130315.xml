@@ -89,26 +89,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb3368">
+               <persName>
+                  <surname>Olbrich</surname>
+                  <forename>Josef Maria</forename>
+               </persName>
+               <birth>
+                  <date>1867-12-22</date>
+                  <placeName type="wikidata" ref="Q156080">Opava</placeName>
+               </birth>
+               <death>
+                  <date>1908-08-08</date>
+                  <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1326_p4</idno>
+               <idno type="wikidata">Q44911</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb3368">
-         <persName>
-            <surname>Olbrich</surname>
-            <forename>Josef Maria</forename>
-         </persName>
-         <birth>
-            <date>1867-12-22</date>
-            <placeName type="wikidata" ref="Q156080">Opava</placeName>
-         </birth>
-         <death>
-            <date>1908-08-08</date>
-            <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1326_p4</idno>
-         <idno type="wikidata">Q44911</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118589768</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3368.html</idno>
-      </person>
-   </back>
 </TEI>

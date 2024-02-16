@@ -85,25 +85,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153609">
+               <persName>
+                  <surname>Rosaspina</surname>
+                  <forename>Carlo</forename>
+               </persName>
+               <birth>
+                  <date>1853-10-22</date>
+                  <placeName type="wikidata" ref="Q5990">Vercelli</placeName>
+               </birth>
+               <death>
+                  <date>1929-01-18</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2403_p1</idno>
+               <idno type="wikidata">Q3659803</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153609.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153609">
-         <persName>
-            <surname>Rosaspina</surname>
-            <forename>Carlo</forename>
-         </persName>
-         <birth>
-            <date>1853-10-22</date>
-            <placeName type="wikidata" ref="Q5990">Vercelli</placeName>
-         </birth>
-         <death>
-            <date>1929-01-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2403_p1</idno>
-         <idno type="wikidata">Q3659803</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153609.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -80,25 +80,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154054">
+               <persName>
+                  <surname>Hofteufel</surname>
+                  <forename>Mizzi</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2002_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154054.html</idno>
+            </person>
+            <person xml:id="pmb154055">
+               <persName>
+                  <surname>Dewal</surname>
+                  <forename>Marie</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2002_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154055.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154054">
-         <persName>
-            <surname>Hofteufel</surname>
-            <forename>Mizzi</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2002_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154054.html</idno>
-      </person>
-      <person xml:id="pmb154055">
-         <persName>
-            <surname>Dewal</surname>
-            <forename>Marie</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2002_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154055.html</idno>
-      </person>
-   </back>
 </TEI>

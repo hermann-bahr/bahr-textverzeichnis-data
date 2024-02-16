@@ -92,22 +92,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154473">
+               <persName>
+                  <surname>Grunert-Paulick</surname>
+                  <forename>Therese</forename>
+                  <surname type="birthname"> Grunert</surname>
+               </persName>
+               <birth>
+                  <date when="1857">1857</date>
+               </birth>
+               <death>
+                  <date when="1918">1918</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2364_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154473.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154473">
-         <persName>
-            <surname>Grunert-Paulick</surname>
-            <forename>Therese</forename>
-            <surname type="birthname"> Grunert</surname>
-         </persName>
-         <birth>
-            <date when="1857">1857</date>
-         </birth>
-         <death>
-            <date when="1918">1918</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2364_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154473.html</idno>
-      </person>
-   </back>
 </TEI>

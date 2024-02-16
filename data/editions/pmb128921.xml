@@ -93,85 +93,69 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155860">
+               <persName>
+                  <surname>Anaxagoras</surname>
+               </persName>
+               <birth>
+                  <date when="0499">499</date>
+               </birth>
+               <death>
+                  <date when-custom="428 v.u.Z.">428 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5414_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155860.html</idno>
+            </person>
+            <person xml:id="pmb150563">
+               <persName>
+                  <surname>Averroës</surname>
+               </persName>
+               <birth>
+                  <date>1126-04-14</date>
+                  <placeName type="wikidata" ref="Q5818">Córdoba</placeName>
+               </birth>
+               <death>
+                  <date>1198-12-10</date>
+                  <placeName type="wikidata" ref="Q101625">Marrakesch</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5272_p2</idno>
+               <idno type="wikidata">Q39837</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118505238</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150563.html</idno>
+            </person>
+            <person xml:id="pmb43790">
+               <persName>
+                  <surname>Friedlaender</surname>
+                  <forename>Salomo</forename>
+               </persName>
+               <birth>
+                  <date>1871-05-04</date>
+                  <placeName type="wikidata" ref="Q52828">Gołańcz</placeName>
+               </birth>
+               <death>
+                  <date>1946-09-09</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3364_p13</idno>
+               <idno type="wikidata">Q978324</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118586076</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43790.html</idno>
+            </person>
+            <person xml:id="pmb155861">
+               <persName>
+                  <surname>Empedokles</surname>
+               </persName>
+               <death>
+                  <date when-custom="um 434 v.u.Z.">um 434 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5414_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155861.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155860">
-         <persName>
-            <surname>Anaxagoras</surname>
-         </persName>
-         <birth>
-            <date when="0499">499</date>
-         </birth>
-         <death>
-            <date when-custom="428 v.u.Z.">428 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5414_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155860.html</idno>
-      </person>
-      <person xml:id="pmb150563">
-         <persName>
-            <surname>Averroës</surname>
-         </persName>
-         <birth>
-            <date>1126-04-14</date>
-            <placeName type="wikidata" ref="Q5818">Córdoba</placeName>
-         </birth>
-         <death>
-            <date>1198-12-10</date>
-            <placeName type="wikidata" ref="Q101625">Marrakesch</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5272_p2</idno>
-         <idno type="wikidata">Q39837</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505238</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150563.html</idno>
-      </person>
-      <person xml:id="pmb150563">
-         <persName>
-            <surname>Averroës</surname>
-         </persName>
-         <birth>
-            <date>1126-04-14</date>
-            <placeName type="wikidata" ref="Q5818">Córdoba</placeName>
-         </birth>
-         <death>
-            <date>1198-12-10</date>
-            <placeName type="wikidata" ref="Q101625">Marrakesch</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5414_p2</idno>
-         <idno type="wikidata">Q39837</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505238</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150563.html</idno>
-      </person>
-      <person xml:id="pmb43790">
-         <persName>
-            <surname>Friedlaender</surname>
-            <forename>Salomo</forename>
-         </persName>
-         <birth>
-            <date>1871-05-04</date>
-            <placeName type="wikidata" ref="Q52828">Gołańcz</placeName>
-         </birth>
-         <death>
-            <date>1946-09-09</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p13</idno>
-         <idno type="wikidata">Q978324</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586076</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43790.html</idno>
-      </person>
-      <person xml:id="pmb155861">
-         <persName>
-            <surname>Empedokles</surname>
-         </persName>
-         <death>
-            <date when-custom="um 434 v.u.Z.">um 434 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5414_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155861.html</idno>
-      </person>
-   </back>
 </TEI>

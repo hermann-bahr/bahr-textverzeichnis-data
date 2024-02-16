@@ -111,498 +111,128 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb43745">
+               <persName>
+                  <surname>Tilgner</surname>
+                  <forename>Victor</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2115_p1</idno>
+               <idno type="wikidata">Q326777</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
+            </person>
+            <person xml:id="pmb152117">
+               <persName>
+                  <surname>Werndl</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <birth>
+                  <date>1831-02-26</date>
+                  <placeName type="wikidata" ref="Q260320">Steyr</placeName>
+               </birth>
+               <death>
+                  <date>1889-04-29</date>
+                  <placeName type="wikidata" ref="Q260320">Steyr</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2811_p2</idno>
+               <idno type="wikidata">Q1706031</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117572543</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152117.html</idno>
+            </person>
+            <person xml:id="pmb113956">
+               <persName>
+                  <surname>Lenbach</surname>
+                  <forename>Franz von</forename>
+               </persName>
+               <birth>
+                  <date>1836-12-13</date>
+                  <placeName type="wikidata" ref="Q504746">Schrobenhausen</placeName>
+               </birth>
+               <death>
+                  <date>1904-05-06</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3332_p1</idno>
+               <idno type="wikidata">Q585323</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118571516</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113956.html</idno>
+            </person>
+            <person xml:id="pmb148681">
+               <persName>
+                  <surname>Piloty</surname>
+                  <forename>Carl Theodor von</forename>
+               </persName>
+               <birth>
+                  <date>1826-10-01</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </birth>
+               <death>
+                  <date>1886-07-21</date>
+                  <placeName type="wikidata" ref="Q532939">Münsing</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4053_p9</idno>
+               <idno type="wikidata">Q505758</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118641662</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148681.html</idno>
+            </person>
+            <person xml:id="pmb152120">
+               <persName>
+                  <surname>Wertheimer</surname>
+                  <forename>Gustav</forename>
+               </persName>
+               <birth>
+                  <date>1847-01-28</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1902-08-24</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2811_p5</idno>
+               <idno type="wikidata">Q19917548</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1078283680</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152120.html</idno>
+            </person>
+            <person xml:id="pmb3155">
+               <persName>
+                  <surname>Michelangelo Buonarroti</surname>
+               </persName>
+               <birth>
+                  <date>1475-03-06</date>
+                  <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
+               </birth>
+               <death>
+                  <date>1564-02-18</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1235_p5</idno>
+               <idno type="wikidata">Q5592</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
+            </person>
+            <person xml:id="pmb156984">
+               <persName>
+                  <surname>Geiger</surname>
+                  <forename>Johann Nepomuck</forename>
+               </persName>
+               <birth>
+                  <date when="1805">1805</date>
+               </birth>
+               <death>
+                  <date when="1880">1880</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2811_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156984.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2115_p1</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3851_p2</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <birth>
-            <date>1844-10-25</date>
-            <placeName type="wikidata" ref="Q1780">Bratislava</placeName>
-         </birth>
-         <death>
-            <date>1896-04-16</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3586_p15</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb152117">
-         <persName>
-            <surname>Werndl</surname>
-            <forename>Josef</forename>
-         </persName>
-         <birth>
-            <date>1831-02-26</date>
-            <placeName type="wikidata" ref="Q260320">Steyr</placeName>
-         </birth>
-         <death>
-            <date>1889-04-29</date>
-            <placeName type="wikidata" ref="Q260320">Steyr</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2811_p2</idno>
-         <idno type="wikidata">Q1706031</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117572543</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152117.html</idno>
-      </person>
-      <person xml:id="pmb113956">
-         <persName>
-            <surname>Lenbach</surname>
-            <forename>Franz von</forename>
-         </persName>
-         <birth>
-            <date>1836-12-13</date>
-            <placeName type="wikidata" ref="Q504746">Schrobenhausen</placeName>
-         </birth>
-         <death>
-            <date>1904-05-06</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3332_p1</idno>
-         <idno type="wikidata">Q585323</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118571516</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113956.html</idno>
-      </person>
-      <person xml:id="pmb148681">
-         <persName>
-            <surname>Piloty</surname>
-            <forename>Carl Theodor von</forename>
-         </persName>
-         <birth>
-            <date>1826-10-01</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </birth>
-         <death>
-            <date>1886-07-21</date>
-            <placeName type="wikidata" ref="Q532939">Münsing</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4053_p9</idno>
-         <idno type="wikidata">Q505758</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118641662</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148681.html</idno>
-      </person>
-      <person xml:id="pmb152120">
-         <persName>
-            <surname>Wertheimer</surname>
-            <forename>Gustav</forename>
-         </persName>
-         <birth>
-            <date>1847-01-28</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1902-08-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2811_p5</idno>
-         <idno type="wikidata">Q19917548</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1078283680</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152120.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1235_p5</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1190_p1</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1195_p1</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4862_p7</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p10</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p60</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5183_p5</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5381_p5</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3459_p3</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3427_p6</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3406_p28</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3286_p3</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3183_p10</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_620_p7</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2811_p6</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2702_p2</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2694_p33</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2693_p6</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2679_p1</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb3155">
-         <persName>
-            <surname>Michelangelo Buonarroti</surname>
-         </persName>
-         <birth>
-            <date>1475-03-06</date>
-            <placeName type="wikidata" ref="Q52069">Caprese Michelangelo</placeName>
-         </birth>
-         <death>
-            <date>1564-02-18</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2614_p15</idno>
-         <idno type="wikidata">Q5592</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582143</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3155.html</idno>
-      </person>
-      <person xml:id="pmb156984">
-         <persName>
-            <surname>Geiger</surname>
-            <forename>Johann Nepomuck</forename>
-         </persName>
-         <birth>
-            <date when="1805">1805</date>
-         </birth>
-         <death>
-            <date when="1880">1880</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2811_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156984.html</idno>
-      </person>
-   </back>
 </TEI>

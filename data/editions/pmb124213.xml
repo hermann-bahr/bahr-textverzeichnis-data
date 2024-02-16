@@ -75,21 +75,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154685">
+               <persName>
+                  <surname>Thibaudet</surname>
+                  <forename>Albert</forename>
+               </persName>
+               <birth>
+                  <date when="1874">1874</date>
+               </birth>
+               <death>
+                  <date when="1936">1936</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4878_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154685.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154685">
-         <persName>
-            <surname>Thibaudet</surname>
-            <forename>Albert</forename>
-         </persName>
-         <birth>
-            <date when="1874">1874</date>
-         </birth>
-         <death>
-            <date when="1936">1936</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4878_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154685.html</idno>
-      </person>
-   </back>
 </TEI>

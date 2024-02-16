@@ -100,453 +100,59 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb4006">
+               <persName>
+                  <surname>Dostojewski</surname>
+                  <forename>Fjodor Michailowitsch</forename>
+               </persName>
+               <birth>
+                  <date>1821-11-11</date>
+                  <placeName type="wikidata" ref="Q4281399"/>
+               </birth>
+               <death>
+                  <date>1881-01-28</date>
+                  <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1300_p1</idno>
+               <idno type="wikidata">Q991</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118527053</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4006.html</idno>
+            </person>
+            <person xml:id="pmb113135">
+               <persName>
+                  <surname>Cola di Rienzo</surname>
+               </persName>
+               <birth>
+                  <date>1313</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </birth>
+               <death>
+                  <date>1354-10-08</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3916_p10</idno>
+               <idno type="wikidata">Q433189</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
+            </person>
+            <person xml:id="pmb155665">
+               <persName>
+                  <surname>Diogenes von Sinope</surname>
+               </persName>
+               <birth>
+                  <date when-custom="400/390">400/390</date>
+               </birth>
+               <death>
+                  <date when-custom="328/323 v.u.Z.">328/323 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5320_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155665.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb4006">
-         <persName>
-            <surname>Dostojewski</surname>
-            <forename>Fjodor Michailowitsch</forename>
-         </persName>
-         <birth>
-            <date>1821-11-11</date>
-            <placeName type="wikidata" ref="Q4281399"/>
-         </birth>
-         <death>
-            <date>1881-01-28</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1300_p1</idno>
-         <idno type="wikidata">Q991</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118527053</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4006.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3916_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4482_p8</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3501_p8</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_164_p11</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1224_p5</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4846_p14</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1426_p1</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6349_p18</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3768_p2</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1115_p3</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p16</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3363_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3353_p4</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1491_p9</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5322_p3</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5320_p2</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5243_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5220_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5378_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5354_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5335_p3</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5333_p2</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p7</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb155665">
-         <persName>
-            <surname>Diogenes von Sinope</surname>
-         </persName>
-         <birth>
-            <date when-custom="400/390">400/390</date>
-         </birth>
-         <death>
-            <date when-custom="328/323 v.u.Z.">328/323 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5320_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155665.html</idno>
-      </person>
-   </back>
 </TEI>

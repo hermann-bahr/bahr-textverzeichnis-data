@@ -98,44 +98,46 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb98759">
+               <persName>
+                  <surname>Kulstrunk</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <occupation>Maler und Pädagoge</occupation>
+               <birth>
+                  <date>1861-02-05</date>
+                  <placeName type="wikidata" ref="Q260950">Radstadt</placeName>
+               </birth>
+               <death>
+                  <date>1944-12-08</date>
+                  <placeName type="wikidata" ref="Q34713">Salzburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6591_p1</idno>
+               <idno type="wikidata">Q15810250</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1017809585</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98759.html</idno>
+            </person>
+            <person xml:id="pmb156038">
+               <persName>
+                  <surname>Göldner</surname>
+                  <forename>Werkführer bei Ziegelei Leube</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_6591_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156038.html</idno>
+            </person>
+            <person xml:id="pmb156039">
+               <persName>
+                  <surname>Schernbrandtner</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <occupation>Ziegeleibesitzer</occupation>
+               <idno type="HB-tv">HB-tv_6591_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156039.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb98759">
-         <persName>
-            <surname>Kulstrunk</surname>
-            <forename>Franz</forename>
-         </persName>
-         <occupation>Maler und Pädagoge</occupation>
-         <birth>
-            <date>1861-02-05</date>
-            <placeName type="wikidata" ref="Q260950">Radstadt</placeName>
-         </birth>
-         <death>
-            <date>1944-12-08</date>
-            <placeName type="wikidata" ref="Q34713">Salzburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6591_p1</idno>
-         <idno type="wikidata">Q15810250</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1017809585</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98759.html</idno>
-      </person>
-      <person xml:id="pmb156038">
-         <persName>
-            <surname>Göldner</surname>
-            <forename>Werkführer bei Ziegelei Leube</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_6591_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156038.html</idno>
-      </person>
-      <person xml:id="pmb156039">
-         <persName>
-            <surname>Schernbrandtner</surname>
-            <forename>Franz</forename>
-         </persName>
-         <occupation>Ziegeleibesitzer</occupation>
-         <idno type="HB-tv">HB-tv_6591_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156039.html</idno>
-      </person>
-   </back>
 </TEI>

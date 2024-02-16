@@ -69,16 +69,18 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154680">
+               <persName>
+                  <surname>Deltour</surname>
+                  <forename>Clement</forename>
+               </persName>
+               <occupation>Kriegsrichter und Spion</occupation>
+               <idno type="HB-tv">HB-tv_6759_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154680.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154680">
-         <persName>
-            <surname>Deltour</surname>
-            <forename>Clement</forename>
-         </persName>
-         <occupation>Kriegsrichter und Spion</occupation>
-         <idno type="HB-tv">HB-tv_6759_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154680.html</idno>
-      </person>
-   </back>
 </TEI>

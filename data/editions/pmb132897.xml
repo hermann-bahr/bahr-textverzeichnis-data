@@ -105,25 +105,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb151763">
+               <persName>
+                  <surname>Breier</surname>
+                  <forename>Eduard</forename>
+               </persName>
+               <birth>
+                  <date>1811-11-03</date>
+                  <placeName type="wikidata" ref="Q396474">Ludbreg</placeName>
+               </birth>
+               <death>
+                  <date>1886-06-03</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2955_p1</idno>
+               <idno type="wikidata">Q19187976</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116470194</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151763.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb151763">
-         <persName>
-            <surname>Breier</surname>
-            <forename>Eduard</forename>
-         </persName>
-         <birth>
-            <date>1811-11-03</date>
-            <placeName type="wikidata" ref="Q396474">Ludbreg</placeName>
-         </birth>
-         <death>
-            <date>1886-06-03</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2955_p1</idno>
-         <idno type="wikidata">Q19187976</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116470194</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151763.html</idno>
-      </person>
-   </back>
 </TEI>

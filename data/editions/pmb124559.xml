@@ -72,36 +72,38 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154757">
+               <persName>
+                  <surname>Gillet</surname>
+                  <forename>Martin Stanislas</forename>
+               </persName>
+               <occupation>Dominikanerabt</occupation>
+               <birth>
+                  <date when="1875">1875</date>
+               </birth>
+               <death>
+                  <date when="1951">1951</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4871_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154757.html</idno>
+            </person>
+            <person xml:id="pmb154758">
+               <persName>
+                  <surname>Bousset</surname>
+                  <forename>Jacques-Bénigne</forename>
+               </persName>
+               <birth>
+                  <date when="1627">1627</date>
+               </birth>
+               <death>
+                  <date when="1704">1704</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4871_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154758.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154757">
-         <persName>
-            <surname>Gillet</surname>
-            <forename>Martin Stanislas</forename>
-         </persName>
-         <occupation>Dominikanerabt</occupation>
-         <birth>
-            <date when="1875">1875</date>
-         </birth>
-         <death>
-            <date when="1951">1951</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4871_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154757.html</idno>
-      </person>
-      <person xml:id="pmb154758">
-         <persName>
-            <surname>Bousset</surname>
-            <forename>Jacques-Bénigne</forename>
-         </persName>
-         <birth>
-            <date when="1627">1627</date>
-         </birth>
-         <death>
-            <date when="1704">1704</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4871_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154758.html</idno>
-      </person>
-   </back>
 </TEI>

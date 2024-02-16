@@ -80,18 +80,20 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156375">
+               <persName>
+                  <surname>Moser</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date when="1906">1906</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_1473_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156375.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156375">
-         <persName>
-            <surname>Moser</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date when="1906">1906</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_1473_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156375.html</idno>
-      </person>
-   </back>
 </TEI>

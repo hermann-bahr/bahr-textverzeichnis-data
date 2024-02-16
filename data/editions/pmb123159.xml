@@ -91,105 +91,76 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154266">
+               <persName>
+                  <surname>Guthi</surname>
+                  <forename>Soma</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1841_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154266.html</idno>
+            </person>
+            <person xml:id="pmb154267">
+               <persName>
+                  <surname>Rakosi</surname>
+                  <forename>Victor</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1841_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154267.html</idno>
+            </person>
+            <person xml:id="pmb154268">
+               <persName>
+                  <surname>Reiner</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1841_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154268.html</idno>
+            </person>
+            <person xml:id="pmb154269">
+               <persName>
+                  <surname>Palme</surname>
+                  <forename>Mizzi</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1841_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154269.html</idno>
+            </person>
+            <person xml:id="pmb153616">
+               <persName>
+                  <surname>Ilm</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_1917_p6</idno>
+               <idno type="wikidata">Q113467532</idno>
+               <sex value="female"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153616.html</idno>
+            </person>
+            <person xml:id="pmb113667">
+               <persName>
+                  <surname>Guttmann</surname>
+                  <forename>Emil</forename>
+               </persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1917_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113667.html</idno>
+            </person>
+            <person xml:id="pmb148802">
+               <persName>
+                  <surname>Dorr</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1917_p9</idno>
+               <idno type="wikidata">Q2024617</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/105642527X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148802.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154266">
-         <persName>
-            <surname>Guthi</surname>
-            <forename>Soma</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1841_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154266.html</idno>
-      </person>
-      <person xml:id="pmb154267">
-         <persName>
-            <surname>Rakosi</surname>
-            <forename>Victor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1841_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154267.html</idno>
-      </person>
-      <person xml:id="pmb154268">
-         <persName>
-            <surname>Reiner</surname>
-            <forename>Franz</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1841_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154268.html</idno>
-      </person>
-      <person xml:id="pmb154269">
-         <persName>
-            <surname>Palme</surname>
-            <forename>Mizzi</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1841_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154269.html</idno>
-      </person>
-      <person xml:id="pmb153616">
-         <persName>
-            <surname>Ilm</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_1917_p6</idno>
-         <idno type="wikidata">Q113467532</idno>
-         <sex value="female"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153616.html</idno>
-      </person>
-      <person xml:id="pmb153616">
-         <persName>
-            <surname>Ilm</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_639_p2</idno>
-         <idno type="wikidata">Q113467532</idno>
-         <sex value="female"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153616.html</idno>
-      </person>
-      <person xml:id="pmb153616">
-         <persName>
-            <surname>Ilm</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_1841_p5</idno>
-         <idno type="wikidata">Q113467532</idno>
-         <sex value="female"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153616.html</idno>
-      </person>
-      <person xml:id="pmb113667">
-         <persName>
-            <surname>Guttmann</surname>
-            <forename>Emil</forename>
-         </persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1917_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113667.html</idno>
-      </person>
-      <person xml:id="pmb148802">
-         <persName>
-            <surname>Dorr</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1917_p9</idno>
-         <idno type="wikidata">Q2024617</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/105642527X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148802.html</idno>
-      </person>
-      <person xml:id="pmb148802">
-         <persName>
-            <surname>Dorr</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1841_p7</idno>
-         <idno type="wikidata">Q2024617</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/105642527X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148802.html</idno>
-      </person>
-   </back>
 </TEI>

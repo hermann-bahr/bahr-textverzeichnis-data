@@ -89,57 +89,59 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb22666">
+               <persName>
+                  <surname>Pohl-Meiser</surname>
+                  <forename>Viktoria</forename>
+               </persName>
+               <birth>
+                  <date>1858-11-28</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </birth>
+               <death>
+                  <date>1936-06-17</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4829_p6</idno>
+               <idno type="wikidata">Q58011561</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
+            </person>
+            <person xml:id="pmb154469">
+               <persName>
+                  <surname>Léon</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2365_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154469.html</idno>
+            </person>
+            <person xml:id="pmb154470">
+               <persName>
+                  <surname>Dworak</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2365_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154470.html</idno>
+            </person>
+            <person xml:id="pmb154471">
+               <persName>
+                  <surname>Rauch</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2365_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154471.html</idno>
+            </person>
+            <person xml:id="pmb154472">
+               <persName>
+                  <surname>Virag</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2365_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154472.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb22666">
-         <persName>
-            <surname>Pohl-Meiser</surname>
-            <forename>Viktoria</forename>
-         </persName>
-         <birth>
-            <date>1858-11-28</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </birth>
-         <death>
-            <date>1936-06-17</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4829_p6</idno>
-         <idno type="wikidata">Q58011561</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
-      </person>
-      <person xml:id="pmb154469">
-         <persName>
-            <surname>Léon</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2365_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154469.html</idno>
-      </person>
-      <person xml:id="pmb154470">
-         <persName>
-            <surname>Dworak</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2365_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154470.html</idno>
-      </person>
-      <person xml:id="pmb154471">
-         <persName>
-            <surname>Rauch</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2365_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154471.html</idno>
-      </person>
-      <person xml:id="pmb154472">
-         <persName>
-            <surname>Virag</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2365_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154472.html</idno>
-      </person>
-   </back>
 </TEI>

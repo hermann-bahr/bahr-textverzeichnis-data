@@ -96,34 +96,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149021">
+               <persName>
+                  <surname>Bewer</surname>
+                  <forename>Max</forename>
+               </persName>
+               <birth>
+                  <date>1861-01-19</date>
+                  <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
+               </birth>
+               <death>
+                  <date>1921-10-13</date>
+                  <placeName type="wikidata" ref="Q8738">Meißen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4486_p1</idno>
+               <idno type="wikidata">Q1912248</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116158999</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149021.html</idno>
+            </person>
+            <person xml:id="pmb154615">
+               <persName>
+                  <surname>Türk</surname>
+                  <forename>Julius</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4486_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154615.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149021">
-         <persName>
-            <surname>Bewer</surname>
-            <forename>Max</forename>
-         </persName>
-         <birth>
-            <date>1861-01-19</date>
-            <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
-         </birth>
-         <death>
-            <date>1921-10-13</date>
-            <placeName type="wikidata" ref="Q8738">Meißen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4486_p1</idno>
-         <idno type="wikidata">Q1912248</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116158999</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149021.html</idno>
-      </person>
-      <person xml:id="pmb154615">
-         <persName>
-            <surname>Türk</surname>
-            <forename>Julius</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4486_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154615.html</idno>
-      </person>
-   </back>
 </TEI>

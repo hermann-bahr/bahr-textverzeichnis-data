@@ -84,45 +84,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb64875">
+               <persName>
+                  <surname>Raupach</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <birth>
+                  <date>1784-05-21</date>
+                  <placeName type="wikidata" ref="Q1811646"/>
+               </birth>
+               <death>
+                  <date>1852-03-18</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2494_p1</idno>
+               <idno type="wikidata">Q67961</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/100823548</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64875.html</idno>
+            </person>
+            <person xml:id="pmb154552">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2249_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154552.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb64875">
-         <persName>
-            <surname>Raupach</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <birth>
-            <date>1784-05-21</date>
-            <placeName type="wikidata" ref="Q1811646"/>
-         </birth>
-         <death>
-            <date>1852-03-18</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2494_p1</idno>
-         <idno type="wikidata">Q67961</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/100823548</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64875.html</idno>
-      </person>
-      <person xml:id="pmb64875">
-         <persName>
-            <surname>Raupach</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2249_p1</idno>
-         <idno type="wikidata">Q67961</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/100823548</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64875.html</idno>
-      </person>
-      <person xml:id="pmb154552">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2249_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154552.html</idno>
-      </person>
-   </back>
 </TEI>

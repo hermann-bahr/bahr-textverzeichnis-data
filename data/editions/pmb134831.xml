@@ -87,60 +87,62 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157502">
+               <persName>
+                  <surname>Rigele</surname>
+                  <forename>Gustav</forename>
+               </persName>
+               <occupation>Notar</occupation>
+               <idno type="HB-tv">HB-tv_5967_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157502.html</idno>
+            </person>
+            <person xml:id="pmb157503">
+               <persName>
+                  <surname>Hocke</surname>
+                  <forename>Emmerich</forename>
+               </persName>
+               <occupation>Notar</occupation>
+               <birth>
+                  <date when="1834">1834</date>
+               </birth>
+               <death>
+                  <date when="1915">1915</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5967_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157503.html</idno>
+            </person>
+            <person xml:id="pmb153566">
+               <persName>
+                  <surname>Teutschmann</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <occupation>Schriftsteller</occupation>
+               <birth>
+                  <date>1855-11-01</date>
+                  <placeName type="wikidata" ref="Q640587">St. Florian</placeName>
+               </birth>
+               <death>
+                  <date>1928-08-10</date>
+                  <placeName type="wikidata" ref="Q41329">Linz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5967_p3</idno>
+               <idno type="wikidata">Q102079544</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/127176918</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153566.html</idno>
+            </person>
+            <person xml:id="pmb157504">
+               <persName>
+                  <surname>Katzer</surname>
+                  <forename>S.</forename>
+               </persName>
+               <occupation>Mediziner</occupation>
+               <idno type="HB-tv">HB-tv_5967_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157504.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157502">
-         <persName>
-            <surname>Rigele</surname>
-            <forename>Gustav</forename>
-         </persName>
-         <occupation>Notar</occupation>
-         <idno type="HB-tv">HB-tv_5967_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157502.html</idno>
-      </person>
-      <person xml:id="pmb157503">
-         <persName>
-            <surname>Hocke</surname>
-            <forename>Emmerich</forename>
-         </persName>
-         <occupation>Notar</occupation>
-         <birth>
-            <date when="1834">1834</date>
-         </birth>
-         <death>
-            <date when="1915">1915</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5967_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157503.html</idno>
-      </person>
-      <person xml:id="pmb153566">
-         <persName>
-            <surname>Teutschmann</surname>
-            <forename>Karl</forename>
-         </persName>
-         <occupation>Schriftsteller</occupation>
-         <birth>
-            <date>1855-11-01</date>
-            <placeName type="wikidata" ref="Q640587">St. Florian</placeName>
-         </birth>
-         <death>
-            <date>1928-08-10</date>
-            <placeName type="wikidata" ref="Q41329">Linz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5967_p3</idno>
-         <idno type="wikidata">Q102079544</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/127176918</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153566.html</idno>
-      </person>
-      <person xml:id="pmb157504">
-         <persName>
-            <surname>Katzer</surname>
-            <forename>S.</forename>
-         </persName>
-         <occupation>Mediziner</occupation>
-         <idno type="HB-tv">HB-tv_5967_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157504.html</idno>
-      </person>
-   </back>
 </TEI>

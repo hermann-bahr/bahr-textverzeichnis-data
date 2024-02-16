@@ -99,872 +99,122 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155929">
+               <persName>
+                  <surname>Alexander der Große</surname>
+               </persName>
+               <birth>
+                  <date when="0356">356</date>
+               </birth>
+               <death>
+                  <date when-custom="323 v.u.Z.">323 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1631_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155929.html</idno>
+            </person>
+            <person xml:id="pmb146476">
+               <persName>
+                  <surname>Heinrich I.</surname>
+               </persName>
+               <birth>
+                  <date when="0876">876</date>
+               </birth>
+               <death>
+                  <date when="0936">936</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3363_p1</idno>
+               <idno type="wikidata">Q150620</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11854831X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146476.html</idno>
+            </person>
+            <person xml:id="pmb150272">
+               <persName>
+                  <surname>Otto I.</surname>
+               </persName>
+               <birth>
+                  <date when="0912">912</date>
+               </birth>
+               <death>
+                  <date when="0973">973</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3363_p2</idno>
+               <idno type="wikidata">Q43915</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118590758</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150272.html</idno>
+            </person>
+            <person xml:id="pmb155930">
+               <persName>
+                  <surname>Friedrich I. Barbarossa</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1122">um 1122</date>
+               </birth>
+               <death>
+                  <date when="1190">1190</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1631_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155930.html</idno>
+            </person>
+            <person xml:id="pmb150277">
+               <persName>
+                  <surname>Sickel</surname>
+                  <forename>Theodor von</forename>
+               </persName>
+               <birth>
+                  <date>1826-12-18</date>
+                  <placeName type="wikidata" ref="Q417336">Aken (Elbe)</placeName>
+               </birth>
+               <death>
+                  <date>1908-04-21</date>
+                  <placeName type="wikidata" ref="Q131605">Meran</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3363_p4</idno>
+               <idno type="wikidata">Q66729</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118797026</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150277.html</idno>
+            </person>
+            <person xml:id="pmb146452">
+               <persName>
+                  <surname>Karl IV.</surname>
+               </persName>
+               <birth>
+                  <date>1316-05-14</date>
+                  <placeName type="wikidata" ref="Q1085">Prag</placeName>
+               </birth>
+               <death>
+                  <date>1378-11-29</date>
+                  <placeName type="wikidata" ref="Q1085">Prag</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3501_p7</idno>
+               <idno type="wikidata">Q155669</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
+            </person>
+            <person xml:id="pmb113135">
+               <persName>
+                  <surname>Cola di Rienzo</surname>
+               </persName>
+               <birth>
+                  <date>1313</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </birth>
+               <death>
+                  <date>1354-10-08</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3916_p10</idno>
+               <idno type="wikidata">Q433189</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155929">
-         <persName>
-            <surname>Alexander der Große</surname>
-         </persName>
-         <birth>
-            <date when="0356">356</date>
-         </birth>
-         <death>
-            <date when-custom="323 v.u.Z.">323 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155929.html</idno>
-      </person>
-      <person xml:id="pmb146476">
-         <persName>
-            <surname>Heinrich I.</surname>
-         </persName>
-         <birth>
-            <date when="0876">876</date>
-         </birth>
-         <death>
-            <date when="0936">936</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3363_p1</idno>
-         <idno type="wikidata">Q150620</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854831X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146476.html</idno>
-      </person>
-      <person xml:id="pmb146476">
-         <persName>
-            <surname>Heinrich I.</surname>
-         </persName>
-         <birth>
-            <date when="0876">876</date>
-         </birth>
-         <death>
-            <date when="0936">936</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p2</idno>
-         <idno type="wikidata">Q150620</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854831X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146476.html</idno>
-      </person>
-      <person xml:id="pmb150272">
-         <persName>
-            <surname>Otto I.</surname>
-         </persName>
-         <birth>
-            <date when="0912">912</date>
-         </birth>
-         <death>
-            <date when="0973">973</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3363_p2</idno>
-         <idno type="wikidata">Q43915</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118590758</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150272.html</idno>
-      </person>
-      <person xml:id="pmb150272">
-         <persName>
-            <surname>Otto I.</surname>
-         </persName>
-         <birth>
-            <date when="0912">912</date>
-         </birth>
-         <death>
-            <date when="0973">973</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p3</idno>
-         <idno type="wikidata">Q43915</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118590758</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150272.html</idno>
-      </person>
-      <person xml:id="pmb155930">
-         <persName>
-            <surname>Friedrich I. Barbarossa</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1122">um 1122</date>
-         </birth>
-         <death>
-            <date when="1190">1190</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155930.html</idno>
-      </person>
-      <person xml:id="pmb150277">
-         <persName>
-            <surname>Sickel</surname>
-            <forename>Theodor von</forename>
-         </persName>
-         <birth>
-            <date>1826-12-18</date>
-            <placeName type="wikidata" ref="Q417336">Aken (Elbe)</placeName>
-         </birth>
-         <death>
-            <date>1908-04-21</date>
-            <placeName type="wikidata" ref="Q131605">Meran</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3363_p4</idno>
-         <idno type="wikidata">Q66729</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118797026</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150277.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3501_p7</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_164_p8</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4824_p10</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_160_p3</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4846_p13</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6349_p6</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3768_p1</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1115_p2</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p17</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3363_p5</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3353_p5</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5322_p4</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5314_p8</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5243_p12</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5476_p8</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5378_p12</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2209_p2</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5335_p4</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb146452">
-         <persName>
-            <surname>Karl IV.</surname>
-         </persName>
-         <birth>
-            <date>1316-05-14</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </birth>
-         <death>
-            <date>1378-11-29</date>
-            <placeName type="wikidata" ref="Q1085">Prag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p6</idno>
-         <idno type="wikidata">Q155669</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560085</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146452.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3916_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4482_p8</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3501_p8</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_164_p11</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1224_p5</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4846_p14</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1426_p1</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6349_p18</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3768_p2</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1115_p3</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p16</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3363_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3353_p4</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1491_p9</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5322_p3</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5320_p2</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5243_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5220_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5378_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5354_p10</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5335_p3</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5333_p2</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-      <person xml:id="pmb113135">
-         <persName>
-            <surname>Cola di Rienzo</surname>
-         </persName>
-         <birth>
-            <date>1313</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </birth>
-         <death>
-            <date>1354-10-08</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1631_p7</idno>
-         <idno type="wikidata">Q433189</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745220</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113135.html</idno>
-      </person>
-   </back>
 </TEI>

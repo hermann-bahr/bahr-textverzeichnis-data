@@ -83,47 +83,49 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb150428">
+               <persName>
+                  <surname>Thoreau</surname>
+                  <forename>Henry David</forename>
+               </persName>
+               <birth>
+                  <date>1817-07-12</date>
+                  <placeName type="wikidata" ref="Q6948294"/>
+               </birth>
+               <death>
+                  <date>1862-05-06</date>
+                  <placeName type="wikidata" ref="Q523240">Concord</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3334_p2</idno>
+               <idno type="wikidata">Q131149</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118622293</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150428.html</idno>
+            </person>
+            <person xml:id="pmb156339">
+               <persName>
+                  <surname>Franziskus von Assisi</surname>
+               </persName>
+               <birth>
+                  <date when-custom="1181/1182">1181/1182</date>
+               </birth>
+               <death>
+                  <date when="1226">1226</date>
+               </death>
+               <idno type="HB-tv">HB-tv_847_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156339.html</idno>
+            </person>
+            <person xml:id="pmb156340">
+               <persName>
+                  <surname>Nabbe</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_847_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156340.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb150428">
-         <persName>
-            <surname>Thoreau</surname>
-            <forename>Henry David</forename>
-         </persName>
-         <birth>
-            <date>1817-07-12</date>
-            <placeName type="wikidata" ref="Q6948294"/>
-         </birth>
-         <death>
-            <date>1862-05-06</date>
-            <placeName type="wikidata" ref="Q523240">Concord</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3334_p2</idno>
-         <idno type="wikidata">Q131149</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118622293</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150428.html</idno>
-      </person>
-      <person xml:id="pmb156339">
-         <persName>
-            <surname>Franziskus von Assisi</surname>
-         </persName>
-         <birth>
-            <date when-custom="1181/1182">1181/1182</date>
-         </birth>
-         <death>
-            <date when="1226">1226</date>
-         </death>
-         <idno type="HB-tv">HB-tv_847_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156339.html</idno>
-      </person>
-      <person xml:id="pmb156340">
-         <persName>
-            <surname>Nabbe</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_847_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156340.html</idno>
-      </person>
-   </back>
 </TEI>

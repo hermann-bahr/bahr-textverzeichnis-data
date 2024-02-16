@@ -110,21 +110,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154588">
+               <persName>
+                  <surname>Thumann</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <birth>
+                  <date when="1834">1834</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2093_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154588.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154588">
-         <persName>
-            <surname>Thumann</surname>
-            <forename>Paul</forename>
-         </persName>
-         <birth>
-            <date when="1834">1834</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2093_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154588.html</idno>
-      </person>
-   </back>
 </TEI>

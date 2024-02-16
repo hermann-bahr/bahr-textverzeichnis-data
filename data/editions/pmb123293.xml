@@ -78,26 +78,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114090">
+               <persName>
+                  <surname>Gallmeyer</surname>
+                  <forename>Josefine</forename>
+               </persName>
+               <birth>
+                  <date>1838-02-27</date>
+                  <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
+               </birth>
+               <death>
+                  <date>1884-02-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2474_p1</idno>
+               <idno type="wikidata">Q112279</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118689355</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114090.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114090">
-         <persName>
-            <surname>Gallmeyer</surname>
-            <forename>Josefine</forename>
-         </persName>
-         <birth>
-            <date>1838-02-27</date>
-            <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
-         </birth>
-         <death>
-            <date>1884-02-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2474_p1</idno>
-         <idno type="wikidata">Q112279</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118689355</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114090.html</idno>
-      </person>
-   </back>
 </TEI>

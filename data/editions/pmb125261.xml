@@ -75,26 +75,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148611">
+               <persName>
+                  <surname>Bakunin</surname>
+                  <forename>Michail Aleksandrovič</forename>
+               </persName>
+               <birth>
+                  <date>1814-05-30</date>
+                  <placeName type="wikidata" ref="Q2111332">Prjamuchino</placeName>
+               </birth>
+               <death>
+                  <date>1876-07-01</date>
+                  <placeName type="wikidata" ref="Q70">Bern</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_509_p1</idno>
+               <idno type="wikidata">Q27645</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118506102</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148611.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148611">
-         <persName>
-            <surname>Bakunin</surname>
-            <forename>Michail Aleksandrovič</forename>
-         </persName>
-         <birth>
-            <date>1814-05-30</date>
-            <placeName type="wikidata" ref="Q2111332">Prjamuchino</placeName>
-         </birth>
-         <death>
-            <date>1876-07-01</date>
-            <placeName type="wikidata" ref="Q70">Bern</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_509_p1</idno>
-         <idno type="wikidata">Q27645</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118506102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148611.html</idno>
-      </person>
-   </back>
 </TEI>

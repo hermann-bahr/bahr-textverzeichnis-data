@@ -123,97 +123,99 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149359">
+               <persName>
+                  <surname>Erard</surname>
+                  <forename>Sébastien</forename>
+               </persName>
+               <birth>
+                  <date>1752-04-05</date>
+                  <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
+               </birth>
+               <death>
+                  <date>1831-08-05</date>
+                  <placeName type="wikidata" ref="Q2971342">Schloss La Muette</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3507_p1</idno>
+               <idno type="wikidata">Q708709</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119333449</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149359.html</idno>
+            </person>
+            <person xml:id="pmb149363">
+               <persName>
+                  <surname>Bösendorfer</surname>
+                  <forename>Ignaz</forename>
+               </persName>
+               <birth>
+                  <date>1794-07-27</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1859-04-14</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3507_p2</idno>
+               <idno type="wikidata">Q79006</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/135552761</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149363.html</idno>
+            </person>
+            <person xml:id="pmb149366">
+               <persName>
+                  <surname>Bechstein</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <birth>
+                  <date>1826-06-01</date>
+                  <placeName type="wikidata" ref="Q6986">Gotha</placeName>
+               </birth>
+               <death>
+                  <date>1900-03-06</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3507_p3</idno>
+               <idno type="wikidata">Q69789</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116099968</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149366.html</idno>
+            </person>
+            <person xml:id="pmb149369">
+               <persName>
+                  <surname>Lamond</surname>
+                  <forename>Frederic</forename>
+               </persName>
+               <birth>
+                  <date>1868-01-28</date>
+                  <placeName type="wikidata" ref="Q4093">Glasgow</placeName>
+               </birth>
+               <death>
+                  <date>1948-02-21</date>
+                  <placeName type="wikidata" ref="Q182923">Stirling</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3507_p4</idno>
+               <idno type="wikidata">Q1452729</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116662166</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149369.html</idno>
+            </person>
+            <person xml:id="pmb154835">
+               <persName>
+                  <surname>Wagner geb. de Flavigny</surname>
+                  <forename>Cosima</forename>
+               </persName>
+               <birth>
+                  <date when="1837">1837</date>
+               </birth>
+               <death>
+                  <date when="1930">1930</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3507_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154835.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149359">
-         <persName>
-            <surname>Erard</surname>
-            <forename>Sébastien</forename>
-         </persName>
-         <birth>
-            <date>1752-04-05</date>
-            <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
-         </birth>
-         <death>
-            <date>1831-08-05</date>
-            <placeName type="wikidata" ref="Q2971342">Schloss La Muette</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3507_p1</idno>
-         <idno type="wikidata">Q708709</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119333449</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149359.html</idno>
-      </person>
-      <person xml:id="pmb149363">
-         <persName>
-            <surname>Bösendorfer</surname>
-            <forename>Ignaz</forename>
-         </persName>
-         <birth>
-            <date>1794-07-27</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1859-04-14</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3507_p2</idno>
-         <idno type="wikidata">Q79006</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/135552761</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149363.html</idno>
-      </person>
-      <person xml:id="pmb149366">
-         <persName>
-            <surname>Bechstein</surname>
-            <forename>Carl</forename>
-         </persName>
-         <birth>
-            <date>1826-06-01</date>
-            <placeName type="wikidata" ref="Q6986">Gotha</placeName>
-         </birth>
-         <death>
-            <date>1900-03-06</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3507_p3</idno>
-         <idno type="wikidata">Q69789</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116099968</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149366.html</idno>
-      </person>
-      <person xml:id="pmb149369">
-         <persName>
-            <surname>Lamond</surname>
-            <forename>Frederic</forename>
-         </persName>
-         <birth>
-            <date>1868-01-28</date>
-            <placeName type="wikidata" ref="Q4093">Glasgow</placeName>
-         </birth>
-         <death>
-            <date>1948-02-21</date>
-            <placeName type="wikidata" ref="Q182923">Stirling</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3507_p4</idno>
-         <idno type="wikidata">Q1452729</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116662166</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149369.html</idno>
-      </person>
-      <person xml:id="pmb154835">
-         <persName>
-            <surname>Wagner geb. de Flavigny</surname>
-            <forename>Cosima</forename>
-         </persName>
-         <birth>
-            <date when="1837">1837</date>
-         </birth>
-         <death>
-            <date when="1930">1930</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3507_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154835.html</idno>
-      </person>
-   </back>
 </TEI>

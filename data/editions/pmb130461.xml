@@ -113,29 +113,31 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156077">
+               <persName>
+                  <surname>Grün</surname>
+                  <forename>Anastasius</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3623_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156077.html</idno>
+            </person>
+            <person xml:id="pmb155496">
+               <persName>
+                  <surname>Warsberg</surname>
+                  <forename>Alexander von</forename>
+               </persName>
+               <birth>
+                  <date when="1836">1836</date>
+               </birth>
+               <death>
+                  <date when="1889">1889</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3893_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155496.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156077">
-         <persName>
-            <surname>Grün</surname>
-            <forename>Anastasius</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3623_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156077.html</idno>
-      </person>
-      <person xml:id="pmb155496">
-         <persName>
-            <surname>Warsberg</surname>
-            <forename>Alexander von</forename>
-         </persName>
-         <birth>
-            <date when="1836">1836</date>
-         </birth>
-         <death>
-            <date when="1889">1889</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3893_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155496.html</idno>
-      </person>
-   </back>
 </TEI>

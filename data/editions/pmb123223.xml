@@ -100,40 +100,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb115949">
+               <persName>
+                  <surname>Salvini</surname>
+                  <forename>Tommaso</forename>
+               </persName>
+               <birth>
+                  <date>1829-01-01</date>
+                  <placeName type="wikidata" ref="Q490">Mailand</placeName>
+               </birth>
+               <death>
+                  <date>1915-12-31</date>
+                  <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_688_p7</idno>
+               <idno type="wikidata">Q719180</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118836447</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115949.html</idno>
+            </person>
+            <person xml:id="pmb154284">
+               <persName>
+                  <surname>Delavigne</surname>
+                  <forename>Jean-François Casimir</forename>
+               </persName>
+               <birth>
+                  <date when="1793">1793</date>
+               </birth>
+               <death>
+                  <date when="1843">1843</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4550_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154284.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb115949">
-         <persName>
-            <surname>Salvini</surname>
-            <forename>Tommaso</forename>
-         </persName>
-         <birth>
-            <date>1829-01-01</date>
-            <placeName type="wikidata" ref="Q490">Mailand</placeName>
-         </birth>
-         <death>
-            <date>1915-12-31</date>
-            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_688_p7</idno>
-         <idno type="wikidata">Q719180</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118836447</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115949.html</idno>
-      </person>
-      <person xml:id="pmb154284">
-         <persName>
-            <surname>Delavigne</surname>
-            <forename>Jean-François Casimir</forename>
-         </persName>
-         <birth>
-            <date when="1793">1793</date>
-         </birth>
-         <death>
-            <date when="1843">1843</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4550_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154284.html</idno>
-      </person>
-   </back>
 </TEI>

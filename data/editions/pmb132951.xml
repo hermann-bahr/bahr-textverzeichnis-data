@@ -100,71 +100,73 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156727">
+               <persName>
+                  <surname>Perikles</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 490">um 490</date>
+               </birth>
+               <death>
+                  <date when-custom="429 v.u.Z.">429 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2928_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156727.html</idno>
+            </person>
+            <person xml:id="pmb149953">
+               <persName>
+                  <surname>Konegen</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date>1842-11-05</date>
+                  <placeName type="wikidata" ref="Q160814">Braunsberg</placeName>
+               </birth>
+               <death>
+                  <date>1903-01-23</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4857_p9</idno>
+               <idno type="wikidata">Q94834354</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116331194</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149953.html</idno>
+            </person>
+            <person xml:id="pmb156728">
+               <persName>
+                  <surname>Alkibiades</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 450">um 450</date>
+               </birth>
+               <death>
+                  <date when-custom="404 v.u.Z.">404 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2928_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156728.html</idno>
+            </person>
+            <person xml:id="pmb151803">
+               <persName>
+                  <surname>Spemann</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date>1844-12-24</date>
+                  <placeName type="wikidata" ref="Q3949">Unna</placeName>
+               </birth>
+               <death>
+                  <date>1910-06-29</date>
+                  <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2928_p4</idno>
+               <idno type="wikidata">Q100327</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117491950</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151803.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156727">
-         <persName>
-            <surname>Perikles</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 490">um 490</date>
-         </birth>
-         <death>
-            <date when-custom="429 v.u.Z.">429 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2928_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156727.html</idno>
-      </person>
-      <person xml:id="pmb149953">
-         <persName>
-            <surname>Konegen</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date>1842-11-05</date>
-            <placeName type="wikidata" ref="Q160814">Braunsberg</placeName>
-         </birth>
-         <death>
-            <date>1903-01-23</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4857_p9</idno>
-         <idno type="wikidata">Q94834354</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116331194</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149953.html</idno>
-      </person>
-      <person xml:id="pmb156728">
-         <persName>
-            <surname>Alkibiades</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 450">um 450</date>
-         </birth>
-         <death>
-            <date when-custom="404 v.u.Z.">404 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2928_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156728.html</idno>
-      </person>
-      <person xml:id="pmb151803">
-         <persName>
-            <surname>Spemann</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date>1844-12-24</date>
-            <placeName type="wikidata" ref="Q3949">Unna</placeName>
-         </birth>
-         <death>
-            <date>1910-06-29</date>
-            <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2928_p4</idno>
-         <idno type="wikidata">Q100327</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117491950</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151803.html</idno>
-      </person>
-   </back>
 </TEI>

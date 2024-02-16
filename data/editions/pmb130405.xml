@@ -84,49 +84,51 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155223">
+               <persName>
+                  <surname>Reisinger</surname>
+                  <forename>Caspar</forename>
+               </persName>
+               <birth>
+                  <date when-custom="1772/1773">1772/1773</date>
+               </birth>
+               <death>
+                  <date when="1853">1853</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4853_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155223.html</idno>
+            </person>
+            <person xml:id="pmb155222">
+               <persName>
+                  <surname>Bahr</surname>
+                  <forename>Maria Rosina geb. Reisinger</forename>
+               </persName>
+               <occupation>2. verh. Wanizcek</occupation>
+               <birth>
+                  <date when="1811">1811</date>
+               </birth>
+               <death>
+                  <date when="1867">1867</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4853_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155222.html</idno>
+            </person>
+            <person xml:id="pmb156058">
+               <persName>
+                  <surname>Karl der Große</surname>
+               </persName>
+               <birth>
+                  <date when-custom="747/748">747/748</date>
+               </birth>
+               <death>
+                  <date when="0814">814</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3667_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156058.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155223">
-         <persName>
-            <surname>Reisinger</surname>
-            <forename>Caspar</forename>
-         </persName>
-         <birth>
-            <date when-custom="1772/1773">1772/1773</date>
-         </birth>
-         <death>
-            <date when="1853">1853</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4853_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155223.html</idno>
-      </person>
-      <person xml:id="pmb155222">
-         <persName>
-            <surname>Bahr</surname>
-            <forename>Maria Rosina geb. Reisinger</forename>
-         </persName>
-         <occupation>2. verh. Wanizcek</occupation>
-         <birth>
-            <date when="1811">1811</date>
-         </birth>
-         <death>
-            <date when="1867">1867</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4853_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155222.html</idno>
-      </person>
-      <person xml:id="pmb156058">
-         <persName>
-            <surname>Karl der Große</surname>
-         </persName>
-         <birth>
-            <date when-custom="747/748">747/748</date>
-         </birth>
-         <death>
-            <date when="0814">814</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3667_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156058.html</idno>
-      </person>
-   </back>
 </TEI>

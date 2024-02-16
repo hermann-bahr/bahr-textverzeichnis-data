@@ -86,54 +86,56 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155775">
+               <persName>
+                  <surname>Voigt</surname>
+                  <forename>Christian Gottlob von</forename>
+               </persName>
+               <birth>
+                  <date when="1743">1743</date>
+               </birth>
+               <death>
+                  <date when="1819">1819</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5185_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155775.html</idno>
+            </person>
+            <person xml:id="pmb154941">
+               <persName>
+                  <surname>Sand</surname>
+                  <forename>Karl Ludwig</forename>
+               </persName>
+               <birth>
+                  <date when="1795">1795</date>
+               </birth>
+               <death>
+                  <date when="1820">1820</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1305_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154941.html</idno>
+            </person>
+            <person xml:id="pmb64882">
+               <persName>
+                  <surname>Saphir</surname>
+                  <forename>Moritz Gottlieb</forename>
+               </persName>
+               <birth>
+                  <date>1795-02-08</date>
+                  <placeName type="wikidata" ref="Q951765">Lovasberény</placeName>
+               </birth>
+               <death>
+                  <date>1858-09-05</date>
+                  <placeName type="wikidata" ref="Q486450">Baden bei Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5185_p3</idno>
+               <idno type="wikidata">Q87685</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118794558</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64882.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155775">
-         <persName>
-            <surname>Voigt</surname>
-            <forename>Christian Gottlob von</forename>
-         </persName>
-         <birth>
-            <date when="1743">1743</date>
-         </birth>
-         <death>
-            <date when="1819">1819</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5185_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155775.html</idno>
-      </person>
-      <person xml:id="pmb154941">
-         <persName>
-            <surname>Sand</surname>
-            <forename>Karl Ludwig</forename>
-         </persName>
-         <birth>
-            <date when="1795">1795</date>
-         </birth>
-         <death>
-            <date when="1820">1820</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1305_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154941.html</idno>
-      </person>
-      <person xml:id="pmb64882">
-         <persName>
-            <surname>Saphir</surname>
-            <forename>Moritz Gottlieb</forename>
-         </persName>
-         <birth>
-            <date>1795-02-08</date>
-            <placeName type="wikidata" ref="Q951765">Lovasberény</placeName>
-         </birth>
-         <death>
-            <date>1858-09-05</date>
-            <placeName type="wikidata" ref="Q486450">Baden bei Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5185_p3</idno>
-         <idno type="wikidata">Q87685</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794558</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64882.html</idno>
-      </person>
-   </back>
 </TEI>

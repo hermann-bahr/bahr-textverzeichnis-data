@@ -134,21 +134,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155922">
+               <persName>
+                  <surname>Fox</surname>
+                  <forename>George</forename>
+               </persName>
+               <birth>
+                  <date when="1624">1624</date>
+               </birth>
+               <death>
+                  <date when="1690">1690</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2215_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155922.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155922">
-         <persName>
-            <surname>Fox</surname>
-            <forename>George</forename>
-         </persName>
-         <birth>
-            <date when="1624">1624</date>
-         </birth>
-         <death>
-            <date when="1690">1690</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2215_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155922.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -80,49 +80,51 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb13194">
+               <persName>
+                  <surname>Zola</surname>
+                  <forename>Emile</forename>
+               </persName>
+               <birth>
+                  <date>1840-04-02</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1902-09-29</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2691_p2</idno>
+               <idno type="wikidata">Q504</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
+            </person>
+            <person xml:id="pmb154640">
+               <persName>
+                  <surname>Philipps</surname>
+                  <forename>Pastor</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_116_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154640.html</idno>
+            </person>
+            <person xml:id="pmb154641">
+               <persName>
+                  <surname>Laura ?</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_116_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154641.html</idno>
+            </person>
+            <person xml:id="pmb154642">
+               <persName>
+                  <surname>Frascuelo</surname>
+                  <forename>Stierkämpfer</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_116_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154642.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb13194">
-         <persName>
-            <surname>Zola</surname>
-            <forename>Emile</forename>
-         </persName>
-         <birth>
-            <date>1840-04-02</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1902-09-29</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p2</idno>
-         <idno type="wikidata">Q504</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
-      </person>
-      <person xml:id="pmb154640">
-         <persName>
-            <surname>Philipps</surname>
-            <forename>Pastor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_116_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154640.html</idno>
-      </person>
-      <person xml:id="pmb154641">
-         <persName>
-            <surname>Laura ?</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_116_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154641.html</idno>
-      </person>
-      <person xml:id="pmb154642">
-         <persName>
-            <surname>Frascuelo</surname>
-            <forename>Stierkämpfer</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_116_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154642.html</idno>
-      </person>
-   </back>
 </TEI>

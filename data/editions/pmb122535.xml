@@ -94,67 +94,69 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153944">
+               <persName>
+                  <surname>Teuber</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date when="1852">1852</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3840_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153944.html</idno>
+            </person>
+            <person xml:id="pmb153945">
+               <persName>
+                  <surname>Sangiorgio</surname>
+                  <forename>Pietro</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3840_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153945.html</idno>
+            </person>
+            <person xml:id="pmb148662">
+               <persName>
+                  <surname>Moller</surname>
+                  <forename>Georg</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3840_p3</idno>
+               <idno type="wikidata">Q106276</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118734563</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148662.html</idno>
+            </person>
+            <person xml:id="pmb153946">
+               <persName>
+                  <surname>Hübsch</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3840_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153946.html</idno>
+            </person>
+            <person xml:id="pmb117069">
+               <persName>
+                  <surname>Semper</surname>
+                  <forename>Gottfried</forename>
+               </persName>
+               <birth>
+                  <date>1803-11-29</date>
+                  <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
+               </birth>
+               <death>
+                  <date>1879-05-15</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3840_p5</idno>
+               <idno type="wikidata">Q61342</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118613154</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117069.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153944">
-         <persName>
-            <surname>Teuber</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date when="1852">1852</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3840_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153944.html</idno>
-      </person>
-      <person xml:id="pmb153945">
-         <persName>
-            <surname>Sangiorgio</surname>
-            <forename>Pietro</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3840_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153945.html</idno>
-      </person>
-      <person xml:id="pmb148662">
-         <persName>
-            <surname>Moller</surname>
-            <forename>Georg</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3840_p3</idno>
-         <idno type="wikidata">Q106276</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118734563</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148662.html</idno>
-      </person>
-      <person xml:id="pmb153946">
-         <persName>
-            <surname>Hübsch</surname>
-            <forename>Heinrich</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3840_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153946.html</idno>
-      </person>
-      <person xml:id="pmb117069">
-         <persName>
-            <surname>Semper</surname>
-            <forename>Gottfried</forename>
-         </persName>
-         <birth>
-            <date>1803-11-29</date>
-            <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
-         </birth>
-         <death>
-            <date>1879-05-15</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3840_p5</idno>
-         <idno type="wikidata">Q61342</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118613154</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117069.html</idno>
-      </person>
-   </back>
 </TEI>

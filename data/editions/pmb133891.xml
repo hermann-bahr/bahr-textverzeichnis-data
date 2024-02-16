@@ -100,67 +100,69 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb152313">
+               <persName>
+                  <surname>Janson</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <birth>
+                  <date>1840-04-11</date>
+                  <placeName type="wikidata" ref="Q211033">Herstal</placeName>
+               </birth>
+               <death>
+                  <date>1913-04-19</date>
+                  <placeName type="wikidata" ref="Q240">Region Brüssel-Hauptstadt</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2754_p1</idno>
+               <idno type="wikidata">Q730367</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1287067360</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152313.html</idno>
+            </person>
+            <person xml:id="pmb157063">
+               <persName>
+                  <surname>Meixner</surname>
+                  <forename>Karl Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when="1818">1818</date>
+               </birth>
+               <death>
+                  <date when="1888">1888</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2754_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157063.html</idno>
+            </person>
+            <person xml:id="pmb152309">
+               <persName>
+                  <surname>Picard</surname>
+                  <forename>Edmond</forename>
+               </persName>
+               <birth>
+                  <date>1836-12-15</date>
+                  <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
+               </birth>
+               <death>
+                  <date>1924-02-19</date>
+                  <placeName type="wikidata" ref="Q2217505">Dave</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2755_p1</idno>
+               <idno type="wikidata">Q2512563</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118792059</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152309.html</idno>
+            </person>
+            <person xml:id="pmb157064">
+               <persName>
+                  <surname>Robert</surname>
+                  <forename>belgischer Abgeordneter ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2754_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157064.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb152313">
-         <persName>
-            <surname>Janson</surname>
-            <forename>Paul</forename>
-         </persName>
-         <birth>
-            <date>1840-04-11</date>
-            <placeName type="wikidata" ref="Q211033">Herstal</placeName>
-         </birth>
-         <death>
-            <date>1913-04-19</date>
-            <placeName type="wikidata" ref="Q240">Region Brüssel-Hauptstadt</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2754_p1</idno>
-         <idno type="wikidata">Q730367</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1287067360</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152313.html</idno>
-      </person>
-      <person xml:id="pmb157063">
-         <persName>
-            <surname>Meixner</surname>
-            <forename>Karl Wilhelm</forename>
-         </persName>
-         <birth>
-            <date when="1818">1818</date>
-         </birth>
-         <death>
-            <date when="1888">1888</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2754_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157063.html</idno>
-      </person>
-      <person xml:id="pmb152309">
-         <persName>
-            <surname>Picard</surname>
-            <forename>Edmond</forename>
-         </persName>
-         <birth>
-            <date>1836-12-15</date>
-            <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
-         </birth>
-         <death>
-            <date>1924-02-19</date>
-            <placeName type="wikidata" ref="Q2217505">Dave</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2755_p1</idno>
-         <idno type="wikidata">Q2512563</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118792059</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152309.html</idno>
-      </person>
-      <person xml:id="pmb157064">
-         <persName>
-            <surname>Robert</surname>
-            <forename>belgischer Abgeordneter ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2754_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157064.html</idno>
-      </person>
-   </back>
 </TEI>

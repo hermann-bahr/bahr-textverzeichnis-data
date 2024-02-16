@@ -104,505 +104,111 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb151008">
+               <persName>
+                  <surname>Feinhals</surname>
+                  <forename>Fritz</forename>
+               </persName>
+               <birth>
+                  <date>1869-12-04</date>
+                  <placeName type="wikidata" ref="Q365">Köln</placeName>
+               </birth>
+               <death>
+                  <date>1940-08-30</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3416_p1</idno>
+               <idno type="wikidata">Q1392047</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116438401</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151008.html</idno>
+            </person>
+            <person xml:id="pmb156188">
+               <persName>
+                  <surname>Ritter</surname>
+                  <forename>Alexander</forename>
+               </persName>
+               <birth>
+                  <date when="1833">1833</date>
+               </birth>
+               <death>
+                  <date when="1896">1896</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3416_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156188.html</idno>
+            </person>
+            <person xml:id="pmb151011">
+               <persName>
+                  <surname>Catel</surname>
+                  <forename>Franz Ludwig</forename>
+               </persName>
+               <birth>
+                  <date>1778-02-22</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1856-12-19</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3416_p3</idno>
+               <idno type="wikidata">Q879031</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119022079</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151011.html</idno>
+            </person>
+            <person xml:id="pmb114971">
+               <persName>
+                  <surname>Ludwig I. von Bayern</surname>
+               </persName>
+               <birth>
+                  <date>1786-08-25</date>
+                  <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
+               </birth>
+               <death>
+                  <date>1868-02-29</date>
+                  <placeName type="wikidata" ref="Q33959">Nizza</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4646_p5</idno>
+               <idno type="wikidata">Q44361</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118574884</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114971.html</idno>
+            </person>
+            <person xml:id="pmb4332">
+               <persName>
+                  <surname>Jean Paul</surname>
+               </persName>
+               <birth>
+                  <date>1763-03-21</date>
+                  <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
+               </birth>
+               <death>
+                  <date>1825-11-14</date>
+                  <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3726_p1</idno>
+               <idno type="wikidata">Q77079</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
+            </person>
+            <person xml:id="pmb156042">
+               <persName>
+                  <surname>Faßbender</surname>
+                  <forename>Zdenka</forename>
+               </persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1954">1954</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2391_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156042.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb151008">
-         <persName>
-            <surname>Feinhals</surname>
-            <forename>Fritz</forename>
-         </persName>
-         <birth>
-            <date>1869-12-04</date>
-            <placeName type="wikidata" ref="Q365">Köln</placeName>
-         </birth>
-         <death>
-            <date>1940-08-30</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3416_p1</idno>
-         <idno type="wikidata">Q1392047</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116438401</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151008.html</idno>
-      </person>
-      <person xml:id="pmb156188">
-         <persName>
-            <surname>Ritter</surname>
-            <forename>Alexander</forename>
-         </persName>
-         <birth>
-            <date when="1833">1833</date>
-         </birth>
-         <death>
-            <date when="1896">1896</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3416_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156188.html</idno>
-      </person>
-      <person xml:id="pmb151011">
-         <persName>
-            <surname>Catel</surname>
-            <forename>Franz Ludwig</forename>
-         </persName>
-         <birth>
-            <date>1778-02-22</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1856-12-19</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3416_p3</idno>
-         <idno type="wikidata">Q879031</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119022079</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151011.html</idno>
-      </person>
-      <person xml:id="pmb114971">
-         <persName>
-            <surname>Ludwig I. von Bayern</surname>
-         </persName>
-         <birth>
-            <date>1786-08-25</date>
-            <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
-         </birth>
-         <death>
-            <date>1868-02-29</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4646_p5</idno>
-         <idno type="wikidata">Q44361</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574884</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114971.html</idno>
-      </person>
-      <person xml:id="pmb114971">
-         <persName>
-            <surname>Ludwig I. von Bayern</surname>
-         </persName>
-         <birth>
-            <date>1786-08-25</date>
-            <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
-         </birth>
-         <death>
-            <date>1868-02-29</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1145_p9</idno>
-         <idno type="wikidata">Q44361</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574884</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114971.html</idno>
-      </person>
-      <person xml:id="pmb114971">
-         <persName>
-            <surname>Ludwig I. von Bayern</surname>
-         </persName>
-         <birth>
-            <date>1786-08-25</date>
-            <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
-         </birth>
-         <death>
-            <date>1868-02-29</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1142_p5</idno>
-         <idno type="wikidata">Q44361</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574884</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114971.html</idno>
-      </person>
-      <person xml:id="pmb114971">
-         <persName>
-            <surname>Ludwig I. von Bayern</surname>
-         </persName>
-         <birth>
-            <date>1786-08-25</date>
-            <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
-         </birth>
-         <death>
-            <date>1868-02-29</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3370_p14</idno>
-         <idno type="wikidata">Q44361</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574884</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114971.html</idno>
-      </person>
-      <person xml:id="pmb114971">
-         <persName>
-            <surname>Ludwig I. von Bayern</surname>
-         </persName>
-         <birth>
-            <date>1786-08-25</date>
-            <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
-         </birth>
-         <death>
-            <date>1868-02-29</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1402_p5</idno>
-         <idno type="wikidata">Q44361</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574884</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114971.html</idno>
-      </person>
-      <person xml:id="pmb114971">
-         <persName>
-            <surname>Ludwig I. von Bayern</surname>
-         </persName>
-         <birth>
-            <date>1786-08-25</date>
-            <placeName type="wikidata" ref="Q6602">Straßburg</placeName>
-         </birth>
-         <death>
-            <date>1868-02-29</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3416_p4</idno>
-         <idno type="wikidata">Q44361</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118574884</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114971.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3726_p1</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3492_p7</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1142_p9</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4824_p6</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1126_p12</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_81_p3</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p15</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5288_p11</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5230_p6</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5430_p11</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5365_p6</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1280_p1</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1722_p1</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3438_p2</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3416_p5</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3746_p8</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2817_p3</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb4332">
-         <persName>
-            <surname>Jean Paul</surname>
-         </persName>
-         <birth>
-            <date>1763-03-21</date>
-            <placeName type="wikidata" ref="Q495778">Wunsiedel</placeName>
-         </birth>
-         <death>
-            <date>1825-11-14</date>
-            <placeName type="wikidata" ref="Q3923">Bayreuth</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2765_p3</idno>
-         <idno type="wikidata">Q77079</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118557211</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4332.html</idno>
-      </person>
-      <person xml:id="pmb156042">
-         <persName>
-            <surname>Faßbender</surname>
-            <forename>Zdenka</forename>
-         </persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1954">1954</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2391_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156042.html</idno>
-      </person>
-   </back>
 </TEI>

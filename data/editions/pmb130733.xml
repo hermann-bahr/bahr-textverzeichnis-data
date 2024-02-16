@@ -89,18 +89,20 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156164">
+               <persName>
+                  <surname>Ruttersheim-Schrott</surname>
+                  <forename>Else von</forename>
+               </persName>
+               <birth>
+                  <date when="1880">1880</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_3435_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156164.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156164">
-         <persName>
-            <surname>Ruttersheim-Schrott</surname>
-            <forename>Else von</forename>
-         </persName>
-         <birth>
-            <date when="1880">1880</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_3435_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156164.html</idno>
-      </person>
-   </back>
 </TEI>

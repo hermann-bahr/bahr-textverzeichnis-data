@@ -84,86 +84,68 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154546">
+               <persName>
+                  <surname>Krug</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2312_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154546.html</idno>
+            </person>
+            <person xml:id="pmb154547">
+               <persName>
+                  <surname>Bichler</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2312_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154547.html</idno>
+            </person>
+            <person xml:id="pmb153636">
+               <persName>
+                  <surname>Heding</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2351_p2</idno>
+               <idno type="wikidata">Q45495923</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
+            </person>
+            <person xml:id="pmb154036">
+               <persName>
+                  <surname>Niese</surname>
+                  <forename>Johanna »Hansi«</forename>
+               </persName>
+               <birth>
+                  <date when="1875">1875</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2336_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
+            </person>
+            <person xml:id="pmb24702">
+               <persName>
+                  <surname>Schönthan</surname>
+                  <forename>Franz von</forename>
+               </persName>
+               <birth>
+                  <date>1849-06-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1913-12-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4466_p1</idno>
+               <idno type="wikidata">Q114579</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116889292</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb24702.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154546">
-         <persName>
-            <surname>Krug</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2312_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154546.html</idno>
-      </person>
-      <person xml:id="pmb154547">
-         <persName>
-            <surname>Bichler</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2312_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154547.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2351_p2</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2312_p3</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2311_p5</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb154036">
-         <persName>
-            <surname>Niese</surname>
-            <forename>Johanna »Hansi«</forename>
-         </persName>
-         <birth>
-            <date when="1875">1875</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2336_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
-      </person>
-      <person xml:id="pmb24702">
-         <persName>
-            <surname>Schönthan</surname>
-            <forename>Franz von</forename>
-         </persName>
-         <birth>
-            <date>1849-06-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1913-12-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4466_p1</idno>
-         <idno type="wikidata">Q114579</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116889292</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb24702.html</idno>
-      </person>
-   </back>
 </TEI>

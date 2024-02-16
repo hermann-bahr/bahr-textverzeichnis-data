@@ -72,22 +72,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154684">
+               <persName>
+                  <surname>Fernandez</surname>
+                  <forename>Ramon</forename>
+               </persName>
+               <occupation>Autor</occupation>
+               <birth>
+                  <date when="1894">1894</date>
+               </birth>
+               <death>
+                  <date when="1944">1944</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4879_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154684.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154684">
-         <persName>
-            <surname>Fernandez</surname>
-            <forename>Ramon</forename>
-         </persName>
-         <occupation>Autor</occupation>
-         <birth>
-            <date when="1894">1894</date>
-         </birth>
-         <death>
-            <date when="1944">1944</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4879_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154684.html</idno>
-      </person>
-   </back>
 </TEI>

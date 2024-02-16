@@ -85,71 +85,73 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114688">
+               <persName>
+                  <surname>Grimm</surname>
+                  <forename>Jacob</forename>
+               </persName>
+               <birth>
+                  <date>1785-01-04</date>
+                  <placeName type="wikidata" ref="Q3802">Hanau</placeName>
+               </birth>
+               <death>
+                  <date>1863-09-20</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1928_p1</idno>
+               <idno type="wikidata">Q6701</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118542257</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114688.html</idno>
+            </person>
+            <person xml:id="pmb116556">
+               <persName>
+                  <surname>Grimm</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date>1786-02-24</date>
+                  <placeName type="wikidata" ref="Q3802">Hanau</placeName>
+               </birth>
+               <death>
+                  <date>1859-12-16</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1050_p1</idno>
+               <idno type="wikidata">Q6714</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118542265</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116556.html</idno>
+            </person>
+            <person xml:id="pmb114880">
+               <persName>
+                  <surname>Lachmann</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date>1793-03-04</date>
+                  <placeName type="wikidata" ref="Q2773">Braunschweig</placeName>
+               </birth>
+               <death>
+                  <date>1851-03-13</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3504_p3</idno>
+               <idno type="wikidata">Q213662</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118568558</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114880.html</idno>
+            </person>
+            <person xml:id="pmb154842">
+               <persName>
+                  <surname>Ananke</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_3504_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154842.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114688">
-         <persName>
-            <surname>Grimm</surname>
-            <forename>Jacob</forename>
-         </persName>
-         <birth>
-            <date>1785-01-04</date>
-            <placeName type="wikidata" ref="Q3802">Hanau</placeName>
-         </birth>
-         <death>
-            <date>1863-09-20</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1928_p1</idno>
-         <idno type="wikidata">Q6701</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118542257</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114688.html</idno>
-      </person>
-      <person xml:id="pmb116556">
-         <persName>
-            <surname>Grimm</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date>1786-02-24</date>
-            <placeName type="wikidata" ref="Q3802">Hanau</placeName>
-         </birth>
-         <death>
-            <date>1859-12-16</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1050_p1</idno>
-         <idno type="wikidata">Q6714</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118542265</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116556.html</idno>
-      </person>
-      <person xml:id="pmb114880">
-         <persName>
-            <surname>Lachmann</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date>1793-03-04</date>
-            <placeName type="wikidata" ref="Q2773">Braunschweig</placeName>
-         </birth>
-         <death>
-            <date>1851-03-13</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3504_p3</idno>
-         <idno type="wikidata">Q213662</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118568558</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114880.html</idno>
-      </person>
-      <person xml:id="pmb154842">
-         <persName>
-            <surname>Ananke</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3504_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154842.html</idno>
-      </person>
-   </back>
 </TEI>

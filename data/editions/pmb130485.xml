@@ -94,64 +94,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156089">
+               <persName>
+                  <surname>Chamberlain</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3611_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156089.html</idno>
+            </person>
+            <person xml:id="pmb61888">
+               <persName>
+                  <surname>Balfour</surname>
+                  <forename>Arthur</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3611_p2</idno>
+               <idno type="wikidata">Q19008</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119456605</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb61888.html</idno>
+            </person>
+            <person xml:id="pmb150857">
+               <persName>
+                  <surname>Luzzatti</surname>
+                  <forename>Luigi</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3611_p3</idno>
+               <idno type="wikidata">Q710026</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11935649X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150857.html</idno>
+            </person>
+            <person xml:id="pmb156090">
+               <persName>
+                  <surname>Campbell</surname>
+                  <forename>R. J.</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3611_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156090.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156089">
-         <persName>
-            <surname>Chamberlain</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3611_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156089.html</idno>
-      </person>
-      <person xml:id="pmb61888">
-         <persName>
-            <surname>Balfour</surname>
-            <forename>Arthur</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3611_p2</idno>
-         <idno type="wikidata">Q19008</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119456605</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb61888.html</idno>
-      </person>
-      <person xml:id="pmb61888">
-         <persName>
-            <surname>Balfour</surname>
-            <forename>James Arthur</forename>
-         </persName>
-         <birth>
-            <date>1848-07-25</date>
-            <placeName type="wikidata" ref="Q7996886">Whittingehame</placeName>
-         </birth>
-         <death>
-            <date>1930-03-19</date>
-            <placeName type="wikidata" ref="Q646225">Woking</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2749_p1</idno>
-         <idno type="wikidata">Q19008</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119456605</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb61888.html</idno>
-      </person>
-      <person xml:id="pmb150857">
-         <persName>
-            <surname>Luzzatti</surname>
-            <forename>Luigi</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3611_p3</idno>
-         <idno type="wikidata">Q710026</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11935649X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150857.html</idno>
-      </person>
-      <person xml:id="pmb156090">
-         <persName>
-            <surname>Campbell</surname>
-            <forename>R. J.</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3611_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156090.html</idno>
-      </person>
-   </back>
 </TEI>

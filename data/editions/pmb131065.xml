@@ -78,72 +78,74 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153690">
+               <persName>
+                  <surname>Jeffries</surname>
+                  <forename>James J.</forename>
+               </persName>
+               <birth>
+                  <date>1875-04-15</date>
+                  <placeName type="wikidata" ref="Q2399399">Carroll</placeName>
+               </birth>
+               <death>
+                  <date>1953-03-03</date>
+                  <placeName type="wikidata" ref="Q39561">Burbank</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3708_p1</idno>
+               <idno type="wikidata">Q458292</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153690.html</idno>
+            </person>
+            <person xml:id="pmb156271">
+               <persName>
+                  <surname>Johnson</surname>
+                  <forename>Jack</forename>
+               </persName>
+               <birth>
+                  <date when="1878">1878</date>
+               </birth>
+               <death>
+                  <date when="1946">1946</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3708_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156271.html</idno>
+            </person>
+            <person xml:id="pmb154836">
+               <persName>
+                  <surname>Jahn</surname>
+                  <forename>Friedrich Ludwig</forename>
+               </persName>
+               <birth>
+                  <date when="1778">1778</date>
+               </birth>
+               <death>
+                  <date when="1852">1852</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3506_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154836.html</idno>
+            </person>
+            <person xml:id="pmb115885">
+               <persName>
+                  <surname>Roosevelt</surname>
+                  <forename>Theodore</forename>
+               </persName>
+               <birth>
+                  <date>1858-10-27</date>
+                  <placeName type="wikidata" ref="Q60">New York City</placeName>
+               </birth>
+               <death>
+                  <date>1919-01-06</date>
+                  <placeName type="wikidata" ref="Q7398976"/>
+               </death>
+               <idno type="HB-tv">HB-tv_147_p1</idno>
+               <idno type="wikidata">Q33866</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115885.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153690">
-         <persName>
-            <surname>Jeffries</surname>
-            <forename>James J.</forename>
-         </persName>
-         <birth>
-            <date>1875-04-15</date>
-            <placeName type="wikidata" ref="Q2399399">Carroll</placeName>
-         </birth>
-         <death>
-            <date>1953-03-03</date>
-            <placeName type="wikidata" ref="Q39561">Burbank</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3708_p1</idno>
-         <idno type="wikidata">Q458292</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153690.html</idno>
-      </person>
-      <person xml:id="pmb156271">
-         <persName>
-            <surname>Johnson</surname>
-            <forename>Jack</forename>
-         </persName>
-         <birth>
-            <date when="1878">1878</date>
-         </birth>
-         <death>
-            <date when="1946">1946</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3708_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156271.html</idno>
-      </person>
-      <person xml:id="pmb154836">
-         <persName>
-            <surname>Jahn</surname>
-            <forename>Friedrich Ludwig</forename>
-         </persName>
-         <birth>
-            <date when="1778">1778</date>
-         </birth>
-         <death>
-            <date when="1852">1852</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3506_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154836.html</idno>
-      </person>
-      <person xml:id="pmb115885">
-         <persName>
-            <surname>Roosevelt</surname>
-            <forename>Theodore</forename>
-         </persName>
-         <birth>
-            <date>1858-10-27</date>
-            <placeName type="wikidata" ref="Q60">New York City</placeName>
-         </birth>
-         <death>
-            <date>1919-01-06</date>
-            <placeName type="wikidata" ref="Q7398976"/>
-         </death>
-         <idno type="HB-tv">HB-tv_147_p1</idno>
-         <idno type="wikidata">Q33866</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115885.html</idno>
-      </person>
-   </back>
 </TEI>

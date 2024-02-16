@@ -177,399 +177,69 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb43719">
+               <persName>
+                  <surname>Cusanus</surname>
+               </persName>
+               <birth>
+                  <date>1401</date>
+                  <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
+               </birth>
+               <death>
+                  <date>1464-08-11</date>
+                  <placeName type="wikidata" ref="Q20579">Todi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3524_p11</idno>
+               <idno type="wikidata">Q154751</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
+            </person>
+            <person xml:id="pmb11068">
+               <persName>
+                  <surname>Calderòn de la Barca</surname>
+                  <forename>Pedro</forename>
+               </persName>
+               <birth>
+                  <date>1600-01-17</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </birth>
+               <death>
+                  <date>1681-05-25</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3356_p2</idno>
+               <idno type="wikidata">Q170800</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518399</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11068.html</idno>
+            </person>
+            <person xml:id="pmb146506">
+               <persName>
+                  <surname>Laotse</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4521_p6</idno>
+               <idno type="wikidata">Q9333</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
+            </person>
+            <person xml:id="pmb155643">
+               <persName>
+                  <surname>Thomas von Aquin</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1225">um 1225</date>
+               </birth>
+               <death>
+                  <date when="1274">1274</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2083_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155643.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p11</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p10</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Kues</surname>
-            <forename>Nikolaus von</forename>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4521_p7</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p14</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p37</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5234_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6837_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5369_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb11068">
-         <persName>
-            <surname>Calderòn de la Barca</surname>
-            <forename>Pedro</forename>
-         </persName>
-         <birth>
-            <date>1600-01-17</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </birth>
-         <death>
-            <date>1681-05-25</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3356_p2</idno>
-         <idno type="wikidata">Q170800</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518399</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11068.html</idno>
-      </person>
-      <person xml:id="pmb146506">
-         <persName>
-            <surname>Laotse</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4521_p6</idno>
-         <idno type="wikidata">Q9333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
-      </person>
-      <person xml:id="pmb146506">
-         <persName>
-            <surname>Laotse</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3354_p13</idno>
-         <idno type="wikidata">Q9333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
-      </person>
-      <person xml:id="pmb146506">
-         <persName>
-            <surname>Laotse</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2083_p1</idno>
-         <idno type="wikidata">Q9333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
-      </person>
-      <person xml:id="pmb146506">
-         <persName>
-            <surname>Laotse</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5288_p19</idno>
-         <idno type="wikidata">Q9333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
-      </person>
-      <person xml:id="pmb146506">
-         <persName>
-            <surname>Laotse</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5221_p9</idno>
-         <idno type="wikidata">Q9333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
-      </person>
-      <person xml:id="pmb146506">
-         <persName>
-            <surname>Laotse</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5430_p19</idno>
-         <idno type="wikidata">Q9333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
-      </person>
-      <person xml:id="pmb146506">
-         <persName>
-            <surname>Laotse</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5355_p9</idno>
-         <idno type="wikidata">Q9333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146506.html</idno>
-      </person>
-      <person xml:id="pmb155643">
-         <persName>
-            <surname>Thomas von Aquin</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1225">um 1225</date>
-         </birth>
-         <death>
-            <date when="1274">1274</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2083_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155643.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p11</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p10</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Kues</surname>
-            <forename>Nikolaus von</forename>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4521_p7</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p14</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p37</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5234_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6837_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5369_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-   </back>
 </TEI>

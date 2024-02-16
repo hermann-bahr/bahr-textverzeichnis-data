@@ -76,20 +76,22 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155084">
+               <persName>
+                  <surname>Gregor XIII.</surname>
+               </persName>
+               <birth>
+                  <date when="1572">1572</date>
+               </birth>
+               <death>
+                  <date when="1585">1585</date>
+               </death>
+               <idno type="HB-tv">HB-tv_983_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155084.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155084">
-         <persName>
-            <surname>Gregor XIII.</surname>
-         </persName>
-         <birth>
-            <date when="1572">1572</date>
-         </birth>
-         <death>
-            <date when="1585">1585</date>
-         </death>
-         <idno type="HB-tv">HB-tv_983_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155084.html</idno>
-      </person>
-   </back>
 </TEI>

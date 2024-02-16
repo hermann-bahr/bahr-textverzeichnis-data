@@ -169,29 +169,31 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154669">
+               <persName>
+                  <surname>Collin</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3742_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154669.html</idno>
+            </person>
+            <person xml:id="pmb154670">
+               <persName>
+                  <surname>Hülsen-Haefeler</surname>
+                  <forename>Georg von</forename>
+               </persName>
+               <birth>
+                  <date when="1858">1858</date>
+               </birth>
+               <death>
+                  <date when="1922">1922</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3742_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154670.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154669">
-         <persName>
-            <surname>Collin</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3742_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154669.html</idno>
-      </person>
-      <person xml:id="pmb154670">
-         <persName>
-            <surname>Hülsen-Haefeler</surname>
-            <forename>Georg von</forename>
-         </persName>
-         <birth>
-            <date when="1858">1858</date>
-         </birth>
-         <death>
-            <date when="1922">1922</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3742_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154670.html</idno>
-      </person>
-   </back>
 </TEI>

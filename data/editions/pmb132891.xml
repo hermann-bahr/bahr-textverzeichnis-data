@@ -108,92 +108,61 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156677">
+               <persName>
+                  <surname>Barrison</surname>
+                  <forename>Abelone Maria</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2958_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156677.html</idno>
+            </person>
+            <person xml:id="pmb156678">
+               <persName>
+                  <surname>Barrison</surname>
+                  <forename>Inger</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2958_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156678.html</idno>
+            </person>
+            <person xml:id="pmb156679">
+               <persName>
+                  <surname>Barrison</surname>
+                  <forename>Gertrude</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2958_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156679.html</idno>
+            </person>
+            <person xml:id="pmb156680">
+               <persName>
+                  <surname>Schuster</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2958_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156680.html</idno>
+            </person>
+            <person xml:id="pmb150410">
+               <persName>
+                  <surname>Loeffler</surname>
+                  <forename>Ludwig ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3340_p6</idno>
+               <idno type="wikidata">Q15726843</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117148415</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150410.html</idno>
+            </person>
+            <person xml:id="pmb156681">
+               <persName>
+                  <surname>D’Aubecq</surname>
+                  <forename>Pierre</forename>
+               </persName>
+               <persName type="namensvariante">Anton Lindner</persName>
+               <idno type="HB-tv">HB-tv_2958_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156681.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156677">
-         <persName>
-            <surname>Barrison</surname>
-            <forename>Abelone Maria</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2958_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156677.html</idno>
-      </person>
-      <person xml:id="pmb156678">
-         <persName>
-            <surname>Barrison</surname>
-            <forename>Inger</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2958_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156678.html</idno>
-      </person>
-      <person xml:id="pmb156679">
-         <persName>
-            <surname>Barrison</surname>
-            <forename>Gertrude</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2958_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156679.html</idno>
-      </person>
-      <person xml:id="pmb156680">
-         <persName>
-            <surname>Schuster</surname>
-            <forename>Richard</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2958_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156680.html</idno>
-      </person>
-      <person xml:id="pmb150410">
-         <persName>
-            <surname>Loeffler</surname>
-            <forename>Ludwig ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3340_p6</idno>
-         <idno type="wikidata">Q15726843</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117148415</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150410.html</idno>
-      </person>
-      <person xml:id="pmb150410">
-         <persName>
-            <surname>Loeffler</surname>
-            <forename>Ludwig ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_149_p4</idno>
-         <idno type="wikidata">Q15726843</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117148415</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150410.html</idno>
-      </person>
-      <person xml:id="pmb150410">
-         <persName>
-            <surname>Loeffler</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2958_p5</idno>
-         <idno type="wikidata">Q15726843</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117148415</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150410.html</idno>
-      </person>
-      <person xml:id="pmb150410">
-         <persName>
-            <surname>Loeffler</surname>
-            <forename>Ludwig ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2939_p2</idno>
-         <idno type="wikidata">Q15726843</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117148415</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150410.html</idno>
-      </person>
-      <person xml:id="pmb156681">
-         <persName>
-            <surname>D’Aubecq</surname>
-            <forename>Pierre</forename>
-         </persName>
-         <persName type="namensvariante">Anton Lindner</persName>
-         <idno type="HB-tv">HB-tv_2958_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156681.html</idno>
-      </person>
-   </back>
 </TEI>

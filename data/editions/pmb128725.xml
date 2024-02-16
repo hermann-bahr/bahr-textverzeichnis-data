@@ -81,50 +81,52 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155660">
+               <persName>
+                  <surname>Bloch</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <birth>
+                  <date when="1885">1885</date>
+               </birth>
+               <death>
+                  <date when="1977">1977</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5324_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155660.html</idno>
+            </person>
+            <person xml:id="pmb155667">
+               <persName>
+                  <surname>Aquila</surname>
+                  <forename>Johannes</forename>
+               </persName>
+               <persName type="namensvariante">Anton Orel</persName>
+               <birth>
+                  <date when="1881">1881</date>
+               </birth>
+               <death>
+                  <date when="1959">1959</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5316_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155667.html</idno>
+            </person>
+            <person xml:id="pmb155587">
+               <persName>
+                  <surname>Baumann</surname>
+                  <forename>Émile</forename>
+               </persName>
+               <birth>
+                  <date when="1868">1868</date>
+               </birth>
+               <death>
+                  <date when="1941">1941</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3356_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155587.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155660">
-         <persName>
-            <surname>Bloch</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <birth>
-            <date when="1885">1885</date>
-         </birth>
-         <death>
-            <date when="1977">1977</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5324_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155660.html</idno>
-      </person>
-      <person xml:id="pmb155667">
-         <persName>
-            <surname>Aquila</surname>
-            <forename>Johannes</forename>
-         </persName>
-         <persName type="namensvariante">Anton Orel</persName>
-         <birth>
-            <date when="1881">1881</date>
-         </birth>
-         <death>
-            <date when="1959">1959</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5316_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155667.html</idno>
-      </person>
-      <person xml:id="pmb155587">
-         <persName>
-            <surname>Baumann</surname>
-            <forename>Émile</forename>
-         </persName>
-         <birth>
-            <date when="1868">1868</date>
-         </birth>
-         <death>
-            <date when="1941">1941</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3356_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155587.html</idno>
-      </person>
-   </back>
 </TEI>

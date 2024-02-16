@@ -90,1093 +90,121 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb21668">
+               <persName>
+                  <surname>Mounet-Sully</surname>
+               </persName>
+               <birth>
+                  <date>1841-02-27</date>
+                  <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
+               </birth>
+               <death>
+                  <date>1916-03-01</date>
+                  <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_688_p3</idno>
+               <idno type="wikidata">Q2657745</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
+            </person>
+            <person xml:id="pmb148780">
+               <persName>
+                  <surname>Coquelin cadet</surname>
+               </persName>
+               <birth>
+                  <date>1848-05-16</date>
+                  <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
+               </birth>
+               <death>
+                  <date>1909-02-08</date>
+                  <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1994_p1</idno>
+               <idno type="wikidata">Q2077885</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
+            </person>
+            <person xml:id="pmb23784">
+               <persName>
+                  <surname>Réjane</surname>
+               </persName>
+               <birth>
+                  <date>1856-06-06</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1920-06-14</date>
+                  <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_688_p2</idno>
+               <idno type="wikidata">Q596355</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+            </person>
+            <person xml:id="pmb154256">
+               <persName>
+                  <surname>Rolly</surname>
+                  <forename>Jeanne</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1846_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154256.html</idno>
+            </person>
+            <person xml:id="pmb148856">
+               <persName>
+                  <surname>Baron fils</surname>
+               </persName>
+               <birth>
+                  <date>1870-12-24</date>
+                  <placeName type="wikidata" ref="Q270230">8. Arrondissement von Paris</placeName>
+               </birth>
+               <death>
+                  <date>1939-11-30</date>
+                  <placeName type="wikidata" ref="Q183557">Dieppe</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1848_p2</idno>
+               <idno type="wikidata">Q2884781</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1093853328</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148856.html</idno>
+            </person>
+            <person xml:id="pmb154257">
+               <persName>
+                  <surname>Daragon</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1846_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154257.html</idno>
+            </person>
+            <person xml:id="pmb154258">
+               <persName>
+                  <surname>Déan</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1846_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154258.html</idno>
+            </person>
+            <person xml:id="pmb154259">
+               <persName>
+                  <surname>Demanne</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1846_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154259.html</idno>
+            </person>
+            <person xml:id="pmb154260">
+               <persName>
+                  <surname>Vallieres</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1846_p9</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154260.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_688_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2408_p2</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1899_p2</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1846_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2136_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2352_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1673_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5216_p5</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5350_p5</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_34_p27</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_367_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2787_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2786_p4</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3815_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1474_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_121_p3</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2687_p16</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p51</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb21668">
-         <persName>
-            <surname>Mounet-Sully</surname>
-         </persName>
-         <birth>
-            <date>1841-02-27</date>
-            <placeName type="wikidata" ref="Q187911">Bergerac</placeName>
-         </birth>
-         <death>
-            <date>1916-03-01</date>
-            <placeName type="wikidata" ref="Q238723">5. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2631_p1</idno>
-         <idno type="wikidata">Q2657745</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122999304</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21668.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1994_p1</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1846_p2</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1402_p1</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-            <forename>Alexandre Honoré Ernest</forename>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1990_p1</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2789_p1</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2787_p3</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_306_p9</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_121_p2</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb148780">
-         <persName>
-            <surname>Coquelin cadet</surname>
-         </persName>
-         <birth>
-            <date>1848-05-16</date>
-            <placeName type="wikidata" ref="Q81997">Boulogne-sur-Mer</placeName>
-         </birth>
-         <death>
-            <date>1909-02-08</date>
-            <placeName type="wikidata" ref="Q193929">Suresnes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2687_p15</idno>
-         <idno type="wikidata">Q2077885</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116670711</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148780.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_688_p2</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4837_p1</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1846_p3</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_595_p1</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1830_p2</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3868_p1</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1025_p1</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5937_p2</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3404_p3</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1926_p2</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_665_p1</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_628_p2</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_594_p1</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-            <forename>Gabrielle</forename>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2835_p7</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2835_p8</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6616_p11</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_361_p2</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_359_p4</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_320_p2</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2787_p7</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3815_p3</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1474_p3</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_121_p27</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2688_p6</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2687_p17</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p53</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2632_p3</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb23784">
-         <persName>
-            <surname>Réjane</surname>
-         </persName>
-         <birth>
-            <date>1856-06-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1920-06-14</date>
-            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2631_p4</idno>
-         <idno type="wikidata">Q596355</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
-      </person>
-      <person xml:id="pmb154256">
-         <persName>
-            <surname>Rolly</surname>
-            <forename>Jeanne</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1846_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154256.html</idno>
-      </person>
-      <person xml:id="pmb148856">
-         <persName>
-            <surname>Baron fils</surname>
-         </persName>
-         <birth>
-            <date>1870-12-24</date>
-            <placeName type="wikidata" ref="Q270230">8. Arrondissement von Paris</placeName>
-         </birth>
-         <death>
-            <date>1939-11-30</date>
-            <placeName type="wikidata" ref="Q183557">Dieppe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1848_p2</idno>
-         <idno type="wikidata">Q2884781</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1093853328</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148856.html</idno>
-      </person>
-      <person xml:id="pmb148856">
-         <persName>
-            <surname>Baron fils</surname>
-         </persName>
-         <birth>
-            <date>1870-12-24</date>
-            <placeName type="wikidata" ref="Q270230">8. Arrondissement von Paris</placeName>
-         </birth>
-         <death>
-            <date>1939-11-30</date>
-            <placeName type="wikidata" ref="Q183557">Dieppe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1846_p5</idno>
-         <idno type="wikidata">Q2884781</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1093853328</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148856.html</idno>
-      </person>
-      <person xml:id="pmb154257">
-         <persName>
-            <surname>Daragon</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1846_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154257.html</idno>
-      </person>
-      <person xml:id="pmb154258">
-         <persName>
-            <surname>Déan</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1846_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154258.html</idno>
-      </person>
-      <person xml:id="pmb154259">
-         <persName>
-            <surname>Demanne</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1846_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154259.html</idno>
-      </person>
-      <person xml:id="pmb154260">
-         <persName>
-            <surname>Vallieres</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1846_p9</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154260.html</idno>
-      </person>
-   </back>
 </TEI>

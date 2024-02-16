@@ -84,33 +84,35 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154894">
+               <persName>
+                  <surname>Platon</surname>
+               </persName>
+               <birth>
+                  <date when-custom="428/427">428/427</date>
+               </birth>
+               <death>
+                  <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1406_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154894.html</idno>
+            </person>
+            <person xml:id="pmb154895">
+               <persName>
+                  <surname>Thomas von Aquin</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1225">um 1225</date>
+               </birth>
+               <death>
+                  <date when="1274">1274</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1406_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154895.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154894">
-         <persName>
-            <surname>Platon</surname>
-         </persName>
-         <birth>
-            <date when-custom="428/427">428/427</date>
-         </birth>
-         <death>
-            <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1406_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154894.html</idno>
-      </person>
-      <person xml:id="pmb154895">
-         <persName>
-            <surname>Thomas von Aquin</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1225">um 1225</date>
-         </birth>
-         <death>
-            <date when="1274">1274</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1406_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154895.html</idno>
-      </person>
-   </back>
 </TEI>

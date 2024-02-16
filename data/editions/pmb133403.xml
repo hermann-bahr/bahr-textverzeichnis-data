@@ -88,21 +88,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156782">
+               <persName>
+                  <surname>Friedmann</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date when="1872">1872</date>
+               </birth>
+               <death>
+                  <date when="1929">1929</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3838_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156782.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156782">
-         <persName>
-            <surname>Friedmann</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date when="1872">1872</date>
-         </birth>
-         <death>
-            <date when="1929">1929</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3838_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156782.html</idno>
-      </person>
-   </back>
 </TEI>

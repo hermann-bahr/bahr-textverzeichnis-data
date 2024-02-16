@@ -76,34 +76,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154933">
+               <persName>
+                  <surname>Braig</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1800_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154933.html</idno>
+            </person>
+            <person xml:id="pmb149514">
+               <persName>
+                  <surname>Bremond</surname>
+                  <forename>Henri</forename>
+               </persName>
+               <birth>
+                  <date>1865-07-31</date>
+                  <placeName type="wikidata" ref="Q47465">Aix-en-Provence</placeName>
+               </birth>
+               <death>
+                  <date>1933-08-17</date>
+                  <placeName type="wikidata" ref="Q856708">Arthez-d'Asson</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1800_p2</idno>
+               <idno type="wikidata">Q1371115</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118659960</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149514.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154933">
-         <persName>
-            <surname>Braig</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1800_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154933.html</idno>
-      </person>
-      <person xml:id="pmb149514">
-         <persName>
-            <surname>Bremond</surname>
-            <forename>Henri</forename>
-         </persName>
-         <birth>
-            <date>1865-07-31</date>
-            <placeName type="wikidata" ref="Q47465">Aix-en-Provence</placeName>
-         </birth>
-         <death>
-            <date>1933-08-17</date>
-            <placeName type="wikidata" ref="Q856708">Arthez-d'Asson</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1800_p2</idno>
-         <idno type="wikidata">Q1371115</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118659960</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149514.html</idno>
-      </person>
-   </back>
 </TEI>

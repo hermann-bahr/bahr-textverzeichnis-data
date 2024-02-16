@@ -142,49 +142,51 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155922">
+               <persName>
+                  <surname>Fox</surname>
+                  <forename>George</forename>
+               </persName>
+               <birth>
+                  <date when="1624">1624</date>
+               </birth>
+               <death>
+                  <date when="1690">1690</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2215_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155922.html</idno>
+            </person>
+            <person xml:id="pmb155923">
+               <persName>
+                  <surname>Cäsar</surname>
+                  <forename>Julius</forename>
+               </persName>
+               <birth>
+                  <date when="0100">100</date>
+               </birth>
+               <death>
+                  <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1488_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155923.html</idno>
+            </person>
+            <person xml:id="pmb155924">
+               <persName>
+                  <surname>Friedlaender</surname>
+                  <forename>Salomo</forename>
+               </persName>
+               <birth>
+                  <date when="1971">1971</date>
+               </birth>
+               <death>
+                  <date when="1946">1946</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1488_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155924.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155922">
-         <persName>
-            <surname>Fox</surname>
-            <forename>George</forename>
-         </persName>
-         <birth>
-            <date when="1624">1624</date>
-         </birth>
-         <death>
-            <date when="1690">1690</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2215_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155922.html</idno>
-      </person>
-      <person xml:id="pmb155923">
-         <persName>
-            <surname>Cäsar</surname>
-            <forename>Julius</forename>
-         </persName>
-         <birth>
-            <date when="0100">100</date>
-         </birth>
-         <death>
-            <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1488_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155923.html</idno>
-      </person>
-      <person xml:id="pmb155924">
-         <persName>
-            <surname>Friedlaender</surname>
-            <forename>Salomo</forename>
-         </persName>
-         <birth>
-            <date when="1971">1971</date>
-         </birth>
-         <death>
-            <date when="1946">1946</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1488_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155924.html</idno>
-      </person>
-   </back>
 </TEI>

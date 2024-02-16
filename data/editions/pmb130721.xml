@@ -109,59 +109,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb150942">
+               <persName>
+                  <surname>Detaille</surname>
+                  <forename>Jean</forename>
+               </persName>
+               <birth>
+                  <date>1848-10-05</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1912-12-24</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3441_p1</idno>
+               <idno type="wikidata">Q724148</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118671685</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150942.html</idno>
+            </person>
+            <person xml:id="pmb156159">
+               <persName>
+                  <surname>Jenny</surname>
+                  <forename>Rudolf Christoph</forename>
+               </persName>
+               <birth>
+                  <date when="1858">1858</date>
+               </birth>
+               <death>
+                  <date when="1917">1917</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3441_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156159.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb150942">
-         <persName>
-            <surname>Detaille</surname>
-            <forename>Jean</forename>
-         </persName>
-         <birth>
-            <date>1848-10-05</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1912-12-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3441_p1</idno>
-         <idno type="wikidata">Q724148</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118671685</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150942.html</idno>
-      </person>
-      <person xml:id="pmb150942">
-         <persName>
-            <surname>Détaille</surname>
-            <forename>Jean-Baptiste Edouard</forename>
-         </persName>
-         <birth>
-            <date>1848-10-05</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1912-12-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2641_p50</idno>
-         <idno type="wikidata">Q724148</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118671685</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150942.html</idno>
-      </person>
-      <person xml:id="pmb156159">
-         <persName>
-            <surname>Jenny</surname>
-            <forename>Rudolf Christoph</forename>
-         </persName>
-         <birth>
-            <date when="1858">1858</date>
-         </birth>
-         <death>
-            <date when="1917">1917</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3441_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156159.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -100,54 +100,56 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb5359">
+               <persName>
+                  <surname>Hugo</surname>
+                  <forename>Victor-Marie</forename>
+               </persName>
+               <birth>
+                  <date>1802-02-26</date>
+                  <placeName type="wikidata" ref="Q37776">Besançon</placeName>
+               </birth>
+               <death>
+                  <date>1885-05-22</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3375_p2</idno>
+               <idno type="wikidata">Q535</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118554654</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5359.html</idno>
+            </person>
+            <person xml:id="pmb156849">
+               <persName>
+                  <surname>Morisse</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <birth>
+                  <date when-custom="18?">18?</date>
+               </birth>
+               <death>
+                  <date when-custom="192?">192?</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2823_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156849.html</idno>
+            </person>
+            <person xml:id="pmb156850">
+               <persName>
+                  <surname>Samain</surname>
+                  <forename>Albert Victor</forename>
+               </persName>
+               <birth>
+                  <date when="1858">1858</date>
+               </birth>
+               <death>
+                  <date when="1900">1900</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2823_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156850.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb5359">
-         <persName>
-            <surname>Hugo</surname>
-            <forename>Victor-Marie</forename>
-         </persName>
-         <birth>
-            <date>1802-02-26</date>
-            <placeName type="wikidata" ref="Q37776">Besançon</placeName>
-         </birth>
-         <death>
-            <date>1885-05-22</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3375_p2</idno>
-         <idno type="wikidata">Q535</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118554654</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5359.html</idno>
-      </person>
-      <person xml:id="pmb156849">
-         <persName>
-            <surname>Morisse</surname>
-            <forename>Paul</forename>
-         </persName>
-         <birth>
-            <date when-custom="18?">18?</date>
-         </birth>
-         <death>
-            <date when-custom="192?">192?</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2823_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156849.html</idno>
-      </person>
-      <person xml:id="pmb156850">
-         <persName>
-            <surname>Samain</surname>
-            <forename>Albert Victor</forename>
-         </persName>
-         <birth>
-            <date when="1858">1858</date>
-         </birth>
-         <death>
-            <date when="1900">1900</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2823_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156850.html</idno>
-      </person>
-   </back>
 </TEI>

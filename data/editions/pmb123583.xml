@@ -80,25 +80,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154448">
+               <persName>
+                  <surname>Wallner</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2508_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154448.html</idno>
+            </person>
+            <person xml:id="pmb154449">
+               <persName>
+                  <surname>Gaigl</surname>
+                  <forename>Lina</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2508_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154449.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154448">
-         <persName>
-            <surname>Wallner</surname>
-            <forename>Carl</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2508_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154448.html</idno>
-      </person>
-      <person xml:id="pmb154449">
-         <persName>
-            <surname>Gaigl</surname>
-            <forename>Lina</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2508_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154449.html</idno>
-      </person>
-   </back>
 </TEI>

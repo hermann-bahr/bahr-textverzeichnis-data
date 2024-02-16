@@ -95,75 +95,39 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb61888">
+               <persName>
+                  <surname>Balfour</surname>
+                  <forename>Arthur</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3611_p2</idno>
+               <idno type="wikidata">Q19008</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119456605</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb61888.html</idno>
+            </person>
+            <person xml:id="pmb117274">
+               <persName>
+                  <surname>Salisbury</surname>
+                  <forename>Robert Gascoyne-Cecil Marquess of</forename>
+               </persName>
+               <birth>
+                  <date>1830-02-03</date>
+                  <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
+               </birth>
+               <death>
+                  <date>1903-08-22</date>
+                  <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2749_p2</idno>
+               <idno type="wikidata">Q243705</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118794256</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117274.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb61888">
-         <persName>
-            <surname>Balfour</surname>
-            <forename>Arthur</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3611_p2</idno>
-         <idno type="wikidata">Q19008</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119456605</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb61888.html</idno>
-      </person>
-      <person xml:id="pmb61888">
-         <persName>
-            <surname>Balfour</surname>
-            <forename>James Arthur</forename>
-         </persName>
-         <birth>
-            <date>1848-07-25</date>
-            <placeName type="wikidata" ref="Q7996886">Whittingehame</placeName>
-         </birth>
-         <death>
-            <date>1930-03-19</date>
-            <placeName type="wikidata" ref="Q646225">Woking</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2749_p1</idno>
-         <idno type="wikidata">Q19008</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119456605</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb61888.html</idno>
-      </person>
-      <person xml:id="pmb117274">
-         <persName>
-            <surname>Salisbury</surname>
-            <forename>Robert Gascoyne-Cecil Marquess of</forename>
-         </persName>
-         <birth>
-            <date>1830-02-03</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </birth>
-         <death>
-            <date>1903-08-22</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2749_p2</idno>
-         <idno type="wikidata">Q243705</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794256</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117274.html</idno>
-      </person>
-      <person xml:id="pmb117274">
-         <persName>
-            <surname>Gascoyne-Cecil</surname>
-            <forename>Robert Arthur Talbot</forename>
-         </persName>
-         <birth>
-            <date>1830-02-03</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </birth>
-         <death>
-            <date>1903-08-22</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2637_p9</idno>
-         <idno type="wikidata">Q243705</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794256</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117274.html</idno>
-      </person>
-   </back>
 </TEI>

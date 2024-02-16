@@ -119,87 +119,89 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb13194">
+               <persName>
+                  <surname>Zola</surname>
+                  <forename>Emile</forename>
+               </persName>
+               <birth>
+                  <date>1840-04-02</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1902-09-29</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2691_p2</idno>
+               <idno type="wikidata">Q504</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
+            </person>
+            <person xml:id="pmb155410">
+               <persName>
+                  <surname>Reiß</surname>
+                  <forename>Erich</forename>
+               </persName>
+               <birth>
+                  <date when="1887">1887</date>
+               </birth>
+               <death>
+                  <date when="1951">1951</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3369_p48</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155410.html</idno>
+            </person>
+            <person xml:id="pmb156243">
+               <persName>
+                  <surname>Puttkammer</surname>
+                  <forename>Albert</forename>
+               </persName>
+               <birth>
+                  <date when="1840">1840</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_3886_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156243.html</idno>
+            </person>
+            <person xml:id="pmb151075">
+               <persName>
+                  <surname>Mühlbrecht</surname>
+                  <forename>Otto</forename>
+               </persName>
+               <birth>
+                  <date>1838-02-28</date>
+               </birth>
+               <death>
+                  <date>1906-07-26</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3886_p3</idno>
+               <idno type="wikidata">Q19223057</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117161918</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151075.html</idno>
+            </person>
+            <person xml:id="pmb98129">
+               <persName>
+                  <surname>Kobler</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <birth>
+                  <date>1882-12-28</date>
+                  <placeName type="wikidata" ref="Q191805">Mladá Boleslav</placeName>
+               </birth>
+               <death>
+                  <date>1965-05-12</date>
+                  <placeName type="wikidata" ref="Q484678">Berkeley</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3886_p4</idno>
+               <idno type="wikidata">Q1447841</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116264055</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98129.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb13194">
-         <persName>
-            <surname>Zola</surname>
-            <forename>Emile</forename>
-         </persName>
-         <birth>
-            <date>1840-04-02</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1902-09-29</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p2</idno>
-         <idno type="wikidata">Q504</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13194.html</idno>
-      </person>
-      <person xml:id="pmb155410">
-         <persName>
-            <surname>Reiß</surname>
-            <forename>Erich</forename>
-         </persName>
-         <birth>
-            <date when="1887">1887</date>
-         </birth>
-         <death>
-            <date when="1951">1951</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3369_p48</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155410.html</idno>
-      </person>
-      <person xml:id="pmb156243">
-         <persName>
-            <surname>Puttkammer</surname>
-            <forename>Albert</forename>
-         </persName>
-         <birth>
-            <date when="1840">1840</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_3886_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156243.html</idno>
-      </person>
-      <person xml:id="pmb151075">
-         <persName>
-            <surname>Mühlbrecht</surname>
-            <forename>Otto</forename>
-         </persName>
-         <birth>
-            <date>1838-02-28</date>
-         </birth>
-         <death>
-            <date>1906-07-26</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3886_p3</idno>
-         <idno type="wikidata">Q19223057</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117161918</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151075.html</idno>
-      </person>
-      <person xml:id="pmb98129">
-         <persName>
-            <surname>Kobler</surname>
-            <forename>Franz</forename>
-         </persName>
-         <birth>
-            <date>1882-12-28</date>
-            <placeName type="wikidata" ref="Q191805">Mladá Boleslav</placeName>
-         </birth>
-         <death>
-            <date>1965-05-12</date>
-            <placeName type="wikidata" ref="Q484678">Berkeley</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3886_p4</idno>
-         <idno type="wikidata">Q1447841</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116264055</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98129.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -72,54 +72,56 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153991">
+               <persName>
+                  <surname>Giers</surname>
+                  <forename>Gertrud</forename>
+               </persName>
+               <birth>
+                  <date when="1855">1855</date>
+               </birth>
+               <death>
+                  <date when="1910">1910</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2280_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153991.html</idno>
+            </person>
+            <person xml:id="pmb148927">
+               <persName>
+                  <surname>Ellmenreich</surname>
+                  <forename>Friederike</forename>
+               </persName>
+               <birth>
+                  <date>1775-01-01</date>
+                  <placeName type="wikidata" ref="Q1796771">Köthen</placeName>
+               </birth>
+               <death>
+                  <date>1845-04-05</date>
+                  <placeName type="wikidata" ref="Q1709">Schwerin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2125_p2</idno>
+               <idno type="wikidata">Q1457035</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116452145</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148927.html</idno>
+            </person>
+            <person xml:id="pmb154399">
+               <persName>
+                  <surname>Brühl</surname>
+                  <forename>Carl von</forename>
+               </persName>
+               <birth>
+                  <date when="1772">1772</date>
+               </birth>
+               <death>
+                  <date when="1837">1837</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2125_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154399.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153991">
-         <persName>
-            <surname>Giers</surname>
-            <forename>Gertrud</forename>
-         </persName>
-         <birth>
-            <date when="1855">1855</date>
-         </birth>
-         <death>
-            <date when="1910">1910</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2280_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153991.html</idno>
-      </person>
-      <person xml:id="pmb148927">
-         <persName>
-            <surname>Ellmenreich</surname>
-            <forename>Friederike</forename>
-         </persName>
-         <birth>
-            <date>1775-01-01</date>
-            <placeName type="wikidata" ref="Q1796771">Köthen</placeName>
-         </birth>
-         <death>
-            <date>1845-04-05</date>
-            <placeName type="wikidata" ref="Q1709">Schwerin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2125_p2</idno>
-         <idno type="wikidata">Q1457035</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116452145</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148927.html</idno>
-      </person>
-      <person xml:id="pmb154399">
-         <persName>
-            <surname>Brühl</surname>
-            <forename>Carl von</forename>
-         </persName>
-         <birth>
-            <date when="1772">1772</date>
-         </birth>
-         <death>
-            <date when="1837">1837</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2125_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154399.html</idno>
-      </person>
-   </back>
 </TEI>

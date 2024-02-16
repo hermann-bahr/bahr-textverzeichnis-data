@@ -84,73 +84,75 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb13082">
+               <persName>
+                  <surname>Karlweis</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <birth>
+                  <date>1850-11-23</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1901-10-27</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2402_p2</idno>
+               <idno type="wikidata">Q735989</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117302996</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13082.html</idno>
+            </person>
+            <person xml:id="pmb2154">
+               <persName>
+                  <surname>Chiavacci</surname>
+                  <forename>Vinzenz</forename>
+               </persName>
+               <birth>
+                  <date>1847-06-15</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1916-02-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1450_p4</idno>
+               <idno type="wikidata">Q1585734</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116504854</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2154.html</idno>
+            </person>
+            <person xml:id="pmb2847">
+               <persName>
+                  <surname>Giampietro</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1866-06-21</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1913-12-29</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2399_p4</idno>
+               <idno type="wikidata">Q1707099</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
+            </person>
+            <person xml:id="pmb154440">
+               <persName>
+                  <surname>Greißnegger</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2513_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154440.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb13082">
-         <persName>
-            <surname>Karlweis</surname>
-            <forename>Carl</forename>
-         </persName>
-         <birth>
-            <date>1850-11-23</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1901-10-27</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2402_p2</idno>
-         <idno type="wikidata">Q735989</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117302996</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13082.html</idno>
-      </person>
-      <person xml:id="pmb2154">
-         <persName>
-            <surname>Chiavacci</surname>
-            <forename>Vinzenz</forename>
-         </persName>
-         <birth>
-            <date>1847-06-15</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1916-02-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1450_p4</idno>
-         <idno type="wikidata">Q1585734</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116504854</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2154.html</idno>
-      </person>
-      <person xml:id="pmb2847">
-         <persName>
-            <surname>Giampietro</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1866-06-21</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1913-12-29</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2399_p4</idno>
-         <idno type="wikidata">Q1707099</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
-      </person>
-      <person xml:id="pmb154440">
-         <persName>
-            <surname>Greißnegger</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2513_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154440.html</idno>
-      </person>
-   </back>
 </TEI>

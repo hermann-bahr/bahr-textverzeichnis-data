@@ -105,74 +105,76 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156189">
+               <persName>
+                  <surname>Heckel</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1952">1952</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3415_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156189.html</idno>
+            </person>
+            <person xml:id="pmb11504">
+               <persName>
+                  <surname>Goya y Lucientes</surname>
+                  <forename>Francisco de</forename>
+               </persName>
+               <birth>
+                  <date>1746-03-30</date>
+                  <placeName type="wikidata" ref="Q1372769">Fuendetodos</placeName>
+               </birth>
+               <death>
+                  <date>1828-04-16</date>
+                  <placeName type="wikidata" ref="Q1479">Bordeaux</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1387_p93</idno>
+               <idno type="wikidata">Q5432</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118541064</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11504.html</idno>
+            </person>
+            <person xml:id="pmb151014">
+               <persName>
+                  <surname>Perron</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <persName type="namensvariante">Karl Pergamenter</persName>
+               <birth>
+                  <date>1858-06-03</date>
+                  <placeName type="wikidata" ref="Q6905">Frankenthal</placeName>
+               </birth>
+               <death>
+                  <date>1928-07-15</date>
+                  <placeName type="wikidata" ref="Q1731">Dresden</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3415_p3</idno>
+               <idno type="wikidata">Q6372147</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116082380</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151014.html</idno>
+            </person>
+            <person xml:id="pmb156166">
+               <persName>
+                  <surname>Edel</surname>
+                  <forename>Edmund</forename>
+               </persName>
+               <birth>
+                  <date when="1863">1863</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3426_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156166.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156189">
-         <persName>
-            <surname>Heckel</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1952">1952</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3415_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156189.html</idno>
-      </person>
-      <person xml:id="pmb11504">
-         <persName>
-            <surname>Goya y Lucientes</surname>
-            <forename>Francisco de</forename>
-         </persName>
-         <birth>
-            <date>1746-03-30</date>
-            <placeName type="wikidata" ref="Q1372769">Fuendetodos</placeName>
-         </birth>
-         <death>
-            <date>1828-04-16</date>
-            <placeName type="wikidata" ref="Q1479">Bordeaux</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p93</idno>
-         <idno type="wikidata">Q5432</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118541064</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11504.html</idno>
-      </person>
-      <person xml:id="pmb151014">
-         <persName>
-            <surname>Perron</surname>
-            <forename>Karl</forename>
-         </persName>
-         <persName type="namensvariante">Karl Pergamenter</persName>
-         <birth>
-            <date>1858-06-03</date>
-            <placeName type="wikidata" ref="Q6905">Frankenthal</placeName>
-         </birth>
-         <death>
-            <date>1928-07-15</date>
-            <placeName type="wikidata" ref="Q1731">Dresden</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3415_p3</idno>
-         <idno type="wikidata">Q6372147</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116082380</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151014.html</idno>
-      </person>
-      <person xml:id="pmb156166">
-         <persName>
-            <surname>Edel</surname>
-            <forename>Edmund</forename>
-         </persName>
-         <birth>
-            <date when="1863">1863</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3426_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156166.html</idno>
-      </person>
-   </back>
 </TEI>

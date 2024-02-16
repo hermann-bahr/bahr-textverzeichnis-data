@@ -80,15 +80,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154312">
+               <persName>
+                  <surname>Hochfeld</surname>
+                  <forename>Hans</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2376_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154312.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154312">
-         <persName>
-            <surname>Hochfeld</surname>
-            <forename>Hans</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2376_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154312.html</idno>
-      </person>
-   </back>
 </TEI>

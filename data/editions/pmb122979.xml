@@ -93,52 +93,54 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154156">
+               <persName>
+                  <surname>Jora ?</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4698_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154156.html</idno>
+            </person>
+            <person xml:id="pmb154157">
+               <persName>
+                  <surname>Rott</surname>
+                  <forename>Carl Matthias</forename>
+               </persName>
+               <persName type="namensvariante">C. M. Koch</persName>
+               <birth>
+                  <date when="1807">1807</date>
+               </birth>
+               <death>
+                  <date when="1876">1876</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4698_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154157.html</idno>
+            </person>
+            <person xml:id="pmb154158">
+               <persName>
+                  <surname>Hoheneck</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_4698_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154158.html</idno>
+            </person>
+            <person xml:id="pmb154159">
+               <persName>
+                  <surname>Dörmann</surname>
+                  <forename>Marie</forename>
+               </persName>
+               <occupation>geb. Bubna-Littitz</occupation>
+               <birth>
+                  <date when="1877">1877</date>
+               </birth>
+               <death>
+                  <date when="1923">1923</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4698_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154159.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154156">
-         <persName>
-            <surname>Jora ?</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4698_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154156.html</idno>
-      </person>
-      <person xml:id="pmb154157">
-         <persName>
-            <surname>Rott</surname>
-            <forename>Carl Matthias</forename>
-         </persName>
-         <persName type="namensvariante">C. M. Koch</persName>
-         <birth>
-            <date when="1807">1807</date>
-         </birth>
-         <death>
-            <date when="1876">1876</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4698_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154157.html</idno>
-      </person>
-      <person xml:id="pmb154158">
-         <persName>
-            <surname>Hoheneck</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_4698_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154158.html</idno>
-      </person>
-      <person xml:id="pmb154159">
-         <persName>
-            <surname>Dörmann</surname>
-            <forename>Marie</forename>
-         </persName>
-         <occupation>geb. Bubna-Littitz</occupation>
-         <birth>
-            <date when="1877">1877</date>
-         </birth>
-         <death>
-            <date when="1923">1923</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4698_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154159.html</idno>
-      </person>
-   </back>
 </TEI>

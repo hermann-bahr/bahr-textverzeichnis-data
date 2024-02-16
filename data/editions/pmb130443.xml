@@ -115,55 +115,57 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156062">
+               <persName>
+                  <surname>Duse</surname>
+                  <forename>Luigi</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3645_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156062.html</idno>
+            </person>
+            <person xml:id="pmb156063">
+               <persName>
+                  <surname>Rasi</surname>
+                  <forename>Luigi</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3645_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156063.html</idno>
+            </person>
+            <person xml:id="pmb156064">
+               <persName>
+                  <surname>Duse</surname>
+                  <forename>Alessandro</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3645_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156064.html</idno>
+            </person>
+            <person xml:id="pmb156065">
+               <persName>
+                  <surname>Cappeletto</surname>
+                  <forename>Angelica</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3645_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156065.html</idno>
+            </person>
+            <person xml:id="pmb156066">
+               <persName>
+                  <surname>Rossi</surname>
+                  <forename>Cesare</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3645_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156066.html</idno>
+            </person>
+            <person xml:id="pmb156067">
+               <persName>
+                  <surname>Pezzana</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_3645_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156067.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156062">
-         <persName>
-            <surname>Duse</surname>
-            <forename>Luigi</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3645_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156062.html</idno>
-      </person>
-      <person xml:id="pmb156063">
-         <persName>
-            <surname>Rasi</surname>
-            <forename>Luigi</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3645_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156063.html</idno>
-      </person>
-      <person xml:id="pmb156064">
-         <persName>
-            <surname>Duse</surname>
-            <forename>Alessandro</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3645_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156064.html</idno>
-      </person>
-      <person xml:id="pmb156065">
-         <persName>
-            <surname>Cappeletto</surname>
-            <forename>Angelica</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3645_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156065.html</idno>
-      </person>
-      <person xml:id="pmb156066">
-         <persName>
-            <surname>Rossi</surname>
-            <forename>Cesare</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3645_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156066.html</idno>
-      </person>
-      <person xml:id="pmb156067">
-         <persName>
-            <surname>Pezzana</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_3645_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156067.html</idno>
-      </person>
-   </back>
 </TEI>

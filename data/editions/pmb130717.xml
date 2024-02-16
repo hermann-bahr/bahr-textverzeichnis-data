@@ -122,119 +122,121 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb3739">
+               <persName>
+                  <surname>Tolstoi</surname>
+                  <forename>Lew Nikolajewitsch</forename>
+               </persName>
+               <birth>
+                  <date>1828-08-28</date>
+                  <placeName type="wikidata" ref="Q749556">Jasnaja Poljana</placeName>
+               </birth>
+               <death>
+                  <date>1910-11-07</date>
+                  <placeName type="wikidata" ref="Q4071563">Astapowo</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_115_p5</idno>
+               <idno type="wikidata">Q7243</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11864291X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3739.html</idno>
+            </person>
+            <person xml:id="pmb94121">
+               <persName>
+                  <surname>Hegel</surname>
+                  <forename>Georg Wilhelm Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1770-08-27</date>
+                  <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
+               </birth>
+               <death>
+                  <date>1831-11-14</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4464_p2</idno>
+               <idno type="wikidata">Q9235</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb94121.html</idno>
+            </person>
+            <person xml:id="pmb155193">
+               <persName>
+                  <surname>Schmid</surname>
+                  <forename>Christoph von</forename>
+               </persName>
+               <birth>
+                  <date when="1768">1768</date>
+               </birth>
+               <death>
+                  <date when="1854">1854</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4858_p19</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155193.html</idno>
+            </person>
+            <person xml:id="pmb154850">
+               <persName>
+                  <surname>Stein</surname>
+                  <forename>Heinrich von</forename>
+               </persName>
+               <birth>
+                  <date when="1857">1857</date>
+               </birth>
+               <death>
+                  <date when="1887">1887</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3502_p14</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154850.html</idno>
+            </person>
+            <person xml:id="pmb155156">
+               <persName>
+                  <surname>Egidy</surname>
+                  <forename>Moritz von</forename>
+               </persName>
+               <birth>
+                  <date when="1847">1847</date>
+               </birth>
+               <death>
+                  <date when="1898">1898</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4863_p12</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155156.html</idno>
+            </person>
+            <person xml:id="pmb156158">
+               <persName>
+                  <surname>Franziskus von Assisi</surname>
+               </persName>
+               <birth>
+                  <date when-custom="1181/1182">1181/1182</date>
+               </birth>
+               <death>
+                  <date when="1226">1226</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3444_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156158.html</idno>
+            </person>
+            <person xml:id="pmb114707">
+               <persName>
+                  <surname>Jatho</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <birth>
+                  <date>1851-09-25</date>
+                  <placeName type="wikidata" ref="Q2865">Kassel</placeName>
+               </birth>
+               <death>
+                  <date>1913-03-11</date>
+                  <placeName type="wikidata" ref="Q365">Köln</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3448_p5</idno>
+               <idno type="wikidata">Q122468</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117088382</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114707.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb3739">
-         <persName>
-            <surname>Tolstoi</surname>
-            <forename>Lew Nikolajewitsch</forename>
-         </persName>
-         <birth>
-            <date>1828-08-28</date>
-            <placeName type="wikidata" ref="Q749556">Jasnaja Poljana</placeName>
-         </birth>
-         <death>
-            <date>1910-11-07</date>
-            <placeName type="wikidata" ref="Q4071563">Astapowo</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_115_p5</idno>
-         <idno type="wikidata">Q7243</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11864291X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3739.html</idno>
-      </person>
-      <person xml:id="pmb94121">
-         <persName>
-            <surname>Hegel</surname>
-            <forename>Georg Wilhelm Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1770-08-27</date>
-            <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
-         </birth>
-         <death>
-            <date>1831-11-14</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4464_p2</idno>
-         <idno type="wikidata">Q9235</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb94121.html</idno>
-      </person>
-      <person xml:id="pmb155193">
-         <persName>
-            <surname>Schmid</surname>
-            <forename>Christoph von</forename>
-         </persName>
-         <birth>
-            <date when="1768">1768</date>
-         </birth>
-         <death>
-            <date when="1854">1854</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4858_p19</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155193.html</idno>
-      </person>
-      <person xml:id="pmb154850">
-         <persName>
-            <surname>Stein</surname>
-            <forename>Heinrich von</forename>
-         </persName>
-         <birth>
-            <date when="1857">1857</date>
-         </birth>
-         <death>
-            <date when="1887">1887</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3502_p14</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154850.html</idno>
-      </person>
-      <person xml:id="pmb155156">
-         <persName>
-            <surname>Egidy</surname>
-            <forename>Moritz von</forename>
-         </persName>
-         <birth>
-            <date when="1847">1847</date>
-         </birth>
-         <death>
-            <date when="1898">1898</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4863_p12</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155156.html</idno>
-      </person>
-      <person xml:id="pmb156158">
-         <persName>
-            <surname>Franziskus von Assisi</surname>
-         </persName>
-         <birth>
-            <date when-custom="1181/1182">1181/1182</date>
-         </birth>
-         <death>
-            <date when="1226">1226</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3444_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156158.html</idno>
-      </person>
-      <person xml:id="pmb114707">
-         <persName>
-            <surname>Jatho</surname>
-            <forename>Carl</forename>
-         </persName>
-         <birth>
-            <date>1851-09-25</date>
-            <placeName type="wikidata" ref="Q2865">Kassel</placeName>
-         </birth>
-         <death>
-            <date>1913-03-11</date>
-            <placeName type="wikidata" ref="Q365">Köln</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3448_p5</idno>
-         <idno type="wikidata">Q122468</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117088382</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114707.html</idno>
-      </person>
-   </back>
 </TEI>

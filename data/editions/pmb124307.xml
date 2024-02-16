@@ -84,22 +84,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154713">
+               <persName>
+                  <surname>Hichler</surname>
+                  <forename>Leopold</forename>
+               </persName>
+               <persName type="namensvariante">L. Ehrlich</persName>
+               <birth>
+                  <date when="1877">1877</date>
+               </birth>
+               <death>
+                  <date when="1972">1972</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6718_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154713.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154713">
-         <persName>
-            <surname>Hichler</surname>
-            <forename>Leopold</forename>
-         </persName>
-         <persName type="namensvariante">L. Ehrlich</persName>
-         <birth>
-            <date when="1877">1877</date>
-         </birth>
-         <death>
-            <date when="1972">1972</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6718_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154713.html</idno>
-      </person>
-   </back>
 </TEI>

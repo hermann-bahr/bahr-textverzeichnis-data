@@ -77,55 +77,38 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb2142">
+               <persName>
+                  <surname>d’Annunzio</surname>
+                  <forename>Gabriele</forename>
+               </persName>
+               <birth>
+                  <date>1863-03-12</date>
+                  <placeName type="wikidata" ref="Q2704">Pescara</placeName>
+               </birth>
+               <death>
+                  <date>1938-03-01</date>
+                  <placeName type="wikidata" ref="Q104619">Gardone Riviera</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4865_p5</idno>
+               <idno type="wikidata">Q193236</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118503243</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2142.html</idno>
+            </person>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb2142">
-         <persName>
-            <surname>d’Annunzio</surname>
-            <forename>Gabriele</forename>
-         </persName>
-         <birth>
-            <date>1863-03-12</date>
-            <placeName type="wikidata" ref="Q2704">Pescara</placeName>
-         </birth>
-         <death>
-            <date>1938-03-01</date>
-            <placeName type="wikidata" ref="Q104619">Gardone Riviera</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p5</idno>
-         <idno type="wikidata">Q193236</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503243</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2142.html</idno>
-      </person>
-      <person xml:id="pmb2142">
-         <persName>
-            <surname>d’ Annunzio</surname>
-            <forename>Gabriele</forename>
-         </persName>
-         <birth>
-            <date>1863-03-12</date>
-            <placeName type="wikidata" ref="Q2704">Pescara</placeName>
-         </birth>
-         <death>
-            <date>1938-03-01</date>
-            <placeName type="wikidata" ref="Q104619">Gardone Riviera</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5329_p2</idno>
-         <idno type="wikidata">Q193236</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503243</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2142.html</idno>
-      </person>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-   </back>
 </TEI>

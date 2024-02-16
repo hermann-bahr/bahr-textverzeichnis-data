@@ -81,39 +81,41 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb98456">
+               <persName>
+                  <surname>Krägel</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <birth>
+                  <date>1853-01-09</date>
+                  <placeName type="wikidata" ref="Q556312">Oettingen in Bayern</placeName>
+               </birth>
+               <death>
+                  <date when-custom="um 1930">um 1930</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2305_p1</idno>
+               <idno type="wikidata">Q1705070</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/10391269X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98456.html</idno>
+            </person>
+            <person xml:id="pmb154479">
+               <persName>
+                  <surname>Fröden</surname>
+                  <forename>d.i. Adolf Meyer</forename>
+               </persName>
+               <birth>
+                  <date when="1861">1861</date>
+               </birth>
+               <death>
+                  <date when="1932">1932</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2319_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb98456">
-         <persName>
-            <surname>Krägel</surname>
-            <forename>Josef</forename>
-         </persName>
-         <birth>
-            <date>1853-01-09</date>
-            <placeName type="wikidata" ref="Q556312">Oettingen in Bayern</placeName>
-         </birth>
-         <death>
-            <date when-custom="um 1930">um 1930</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2305_p1</idno>
-         <idno type="wikidata">Q1705070</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/10391269X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98456.html</idno>
-      </person>
-      <person xml:id="pmb154479">
-         <persName>
-            <surname>Fröden</surname>
-            <forename>d.i. Adolf Meyer</forename>
-         </persName>
-         <birth>
-            <date when="1861">1861</date>
-         </birth>
-         <death>
-            <date when="1932">1932</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2319_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
-      </person>
-   </back>
 </TEI>

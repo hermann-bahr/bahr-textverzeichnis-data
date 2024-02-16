@@ -84,21 +84,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154384">
+               <persName>
+                  <surname>Brion</surname>
+                  <forename>Louise</forename>
+               </persName>
+               <birth>
+                  <date when="1870">1870</date>
+               </birth>
+               <death>
+                  <date when="1942">1942</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3874_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154384.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154384">
-         <persName>
-            <surname>Brion</surname>
-            <forename>Louise</forename>
-         </persName>
-         <birth>
-            <date when="1870">1870</date>
-         </birth>
-         <death>
-            <date when="1942">1942</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3874_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154384.html</idno>
-      </person>
-   </back>
 </TEI>

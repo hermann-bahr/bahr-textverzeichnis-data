@@ -74,26 +74,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb2266">
+               <persName>
+                  <surname>Wesendonck</surname>
+                  <forename>Mathilde</forename>
+               </persName>
+               <birth>
+                  <date>1828-12-23</date>
+                  <placeName type="wikidata" ref="Q702259">Elberfeld</placeName>
+               </birth>
+               <death>
+                  <date>1902-08-31</date>
+                  <placeName type="wikidata" ref="Q443039">Altmünster</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3749_p1</idno>
+               <idno type="wikidata">Q63265</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118767267</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2266.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb2266">
-         <persName>
-            <surname>Wesendonck</surname>
-            <forename>Mathilde</forename>
-         </persName>
-         <birth>
-            <date>1828-12-23</date>
-            <placeName type="wikidata" ref="Q702259">Elberfeld</placeName>
-         </birth>
-         <death>
-            <date>1902-08-31</date>
-            <placeName type="wikidata" ref="Q443039">Altmünster</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3749_p1</idno>
-         <idno type="wikidata">Q63265</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118767267</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2266.html</idno>
-      </person>
-   </back>
 </TEI>

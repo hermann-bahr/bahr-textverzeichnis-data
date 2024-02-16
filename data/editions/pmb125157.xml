@@ -90,44 +90,46 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149506">
+               <persName>
+                  <surname>Berthold von Baden</surname>
+               </persName>
+               <birth>
+                  <date>1906-02-24</date>
+                  <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
+               </birth>
+               <death>
+                  <date>1963-10-27</date>
+                  <placeName type="wikidata" ref="Q519688">Spaichingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4520_p1</idno>
+               <idno type="wikidata">Q62602</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/136918263</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149506.html</idno>
+            </person>
+            <person xml:id="pmb10908">
+               <persName>
+                  <surname>Bethmann Hollweg</surname>
+                  <forename>Theobald</forename>
+               </persName>
+               <birth>
+                  <date>1856-11-29</date>
+                  <placeName type="wikidata" ref="Q587133">Hohenfinow</placeName>
+               </birth>
+               <death>
+                  <date>1921-01-01</date>
+                  <placeName type="wikidata" ref="Q587133">Hohenfinow</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4520_p2</idno>
+               <idno type="wikidata">Q77113</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118510320</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb10908.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149506">
-         <persName>
-            <surname>Berthold von Baden</surname>
-         </persName>
-         <birth>
-            <date>1906-02-24</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1963-10-27</date>
-            <placeName type="wikidata" ref="Q519688">Spaichingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4520_p1</idno>
-         <idno type="wikidata">Q62602</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/136918263</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149506.html</idno>
-      </person>
-      <person xml:id="pmb10908">
-         <persName>
-            <surname>Bethmann Hollweg</surname>
-            <forename>Theobald</forename>
-         </persName>
-         <birth>
-            <date>1856-11-29</date>
-            <placeName type="wikidata" ref="Q587133">Hohenfinow</placeName>
-         </birth>
-         <death>
-            <date>1921-01-01</date>
-            <placeName type="wikidata" ref="Q587133">Hohenfinow</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4520_p2</idno>
-         <idno type="wikidata">Q77113</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118510320</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb10908.html</idno>
-      </person>
-   </back>
 </TEI>

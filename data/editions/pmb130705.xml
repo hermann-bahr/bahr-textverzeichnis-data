@@ -106,49 +106,51 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156138">
+               <persName>
+                  <surname>Megerlin</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <birth>
+                  <date when="1874">1874</date>
+               </birth>
+               <death>
+                  <date when="1947">1947</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3450_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156138.html</idno>
+            </person>
+            <person xml:id="pmb154873">
+               <persName>
+                  <surname>Beck</surname>
+                  <forename>Carl Gottlob</forename>
+               </persName>
+               <birth>
+                  <date when="1733">1733</date>
+               </birth>
+               <death>
+                  <date when="1802">1802</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3494_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154873.html</idno>
+            </person>
+            <person xml:id="pmb155999">
+               <persName>
+                  <surname>Beck</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date when="1850">1850</date>
+               </birth>
+               <death>
+                  <date when="1924">1924</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3469_p44</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155999.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156138">
-         <persName>
-            <surname>Megerlin</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date when="1874">1874</date>
-         </birth>
-         <death>
-            <date when="1947">1947</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3450_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156138.html</idno>
-      </person>
-      <person xml:id="pmb154873">
-         <persName>
-            <surname>Beck</surname>
-            <forename>Carl Gottlob</forename>
-         </persName>
-         <birth>
-            <date when="1733">1733</date>
-         </birth>
-         <death>
-            <date when="1802">1802</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3494_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154873.html</idno>
-      </person>
-      <person xml:id="pmb155999">
-         <persName>
-            <surname>Beck</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date when="1850">1850</date>
-         </birth>
-         <death>
-            <date when="1924">1924</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3469_p44</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155999.html</idno>
-      </person>
-   </back>
 </TEI>

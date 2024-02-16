@@ -105,94 +105,60 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155587">
+               <persName>
+                  <surname>Baumann</surname>
+                  <forename>Émile</forename>
+               </persName>
+               <birth>
+                  <date when="1868">1868</date>
+               </birth>
+               <death>
+                  <date when="1941">1941</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3356_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155587.html</idno>
+            </person>
+            <person xml:id="pmb11068">
+               <persName>
+                  <surname>Calderòn de la Barca</surname>
+                  <forename>Pedro</forename>
+               </persName>
+               <birth>
+                  <date>1600-01-17</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </birth>
+               <death>
+                  <date>1681-05-25</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3356_p2</idno>
+               <idno type="wikidata">Q170800</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518399</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11068.html</idno>
+            </person>
+            <person xml:id="pmb150348">
+               <persName>
+                  <surname>Clemens August von Köln</surname>
+               </persName>
+               <birth>
+                  <date>1700-08-17</date>
+                  <placeName type="wikidata" ref="Q9005">Groß-Brüssel</placeName>
+               </birth>
+               <death>
+                  <date>1761-02-06</date>
+                  <placeName type="wikidata" ref="Q2242910">Schloss Philippsburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3356_p5</idno>
+               <idno type="wikidata">Q215086</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118634224</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150348.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155587">
-         <persName>
-            <surname>Baumann</surname>
-            <forename>Émile</forename>
-         </persName>
-         <birth>
-            <date when="1868">1868</date>
-         </birth>
-         <death>
-            <date when="1941">1941</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3356_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155587.html</idno>
-      </person>
-      <person xml:id="pmb11068">
-         <persName>
-            <surname>Calderòn de la Barca</surname>
-            <forename>Pedro</forename>
-         </persName>
-         <birth>
-            <date>1600-01-17</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </birth>
-         <death>
-            <date>1681-05-25</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3356_p2</idno>
-         <idno type="wikidata">Q170800</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518399</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11068.html</idno>
-      </person>
-      <person xml:id="pmb150348">
-         <persName>
-            <surname>Clemens August von Köln</surname>
-         </persName>
-         <birth>
-            <date>1700-08-17</date>
-            <placeName type="wikidata" ref="Q9005">Groß-Brüssel</placeName>
-         </birth>
-         <death>
-            <date>1761-02-06</date>
-            <placeName type="wikidata" ref="Q2242910">Schloss Philippsburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3356_p5</idno>
-         <idno type="wikidata">Q215086</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118634224</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150348.html</idno>
-      </person>
-      <person xml:id="pmb150348">
-         <persName>
-            <surname>Clemens August von Köln</surname>
-         </persName>
-         <birth>
-            <date>1700-08-17</date>
-            <placeName type="wikidata" ref="Q9005">Groß-Brüssel</placeName>
-         </birth>
-         <death>
-            <date>1761-02-06</date>
-            <placeName type="wikidata" ref="Q2242910">Schloss Philippsburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p72</idno>
-         <idno type="wikidata">Q215086</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118634224</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150348.html</idno>
-      </person>
-      <person xml:id="pmb150348">
-         <persName>
-            <surname>Clemens August von Köln</surname>
-         </persName>
-         <birth>
-            <date>1700-08-17</date>
-            <placeName type="wikidata" ref="Q9005">Groß-Brüssel</placeName>
-         </birth>
-         <death>
-            <date>1761-02-06</date>
-            <placeName type="wikidata" ref="Q2242910">Schloss Philippsburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p72</idno>
-         <idno type="wikidata">Q215086</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118634224</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150348.html</idno>
-      </person>
-   </back>
 </TEI>

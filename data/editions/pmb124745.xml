@@ -75,25 +75,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154902">
+               <persName>
+                  <surname>Schnöll</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <occupation>Gastwirt</occupation>
+               <idno type="HB-tv">HB-tv_6608_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154902.html</idno>
+            </person>
+            <person xml:id="pmb154903">
+               <persName>
+                  <surname>Schnöll</surname>
+                  <forename>Elise</forename>
+               </persName>
+               <occupation>Gastwirtin</occupation>
+               <idno type="HB-tv">HB-tv_6608_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154903.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154902">
-         <persName>
-            <surname>Schnöll</surname>
-            <forename>Josef</forename>
-         </persName>
-         <occupation>Gastwirt</occupation>
-         <idno type="HB-tv">HB-tv_6608_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154902.html</idno>
-      </person>
-      <person xml:id="pmb154903">
-         <persName>
-            <surname>Schnöll</surname>
-            <forename>Elise</forename>
-         </persName>
-         <occupation>Gastwirtin</occupation>
-         <idno type="HB-tv">HB-tv_6608_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154903.html</idno>
-      </person>
-   </back>
 </TEI>

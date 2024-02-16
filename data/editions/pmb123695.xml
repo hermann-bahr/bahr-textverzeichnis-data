@@ -82,61 +82,63 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb112828">
+               <persName>
+                  <surname>Bastien-Lepage</surname>
+                  <forename>Jules</forename>
+               </persName>
+               <birth>
+                  <date>1848-11-01</date>
+                  <placeName type="wikidata" ref="Q195737">Damvillers</placeName>
+               </birth>
+               <death>
+                  <date>1884-12-10</date>
+                  <placeName type="wikidata" ref="Q197297">17. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2493_p1</idno>
+               <idno type="wikidata">Q541859</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/122105338</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112828.html</idno>
+            </person>
+            <person xml:id="pmb154513">
+               <persName>
+                  <surname>Rosetti</surname>
+                  <forename>Dante Gabriel</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2493_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154513.html</idno>
+            </person>
+            <person xml:id="pmb154514">
+               <persName>
+                  <surname>Bauer</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2493_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154514.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb112828">
-         <persName>
-            <surname>Bastien-Lepage</surname>
-            <forename>Jules</forename>
-         </persName>
-         <birth>
-            <date>1848-11-01</date>
-            <placeName type="wikidata" ref="Q195737">Damvillers</placeName>
-         </birth>
-         <death>
-            <date>1884-12-10</date>
-            <placeName type="wikidata" ref="Q197297">17. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2493_p1</idno>
-         <idno type="wikidata">Q541859</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/122105338</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112828.html</idno>
-      </person>
-      <person xml:id="pmb154513">
-         <persName>
-            <surname>Rosetti</surname>
-            <forename>Dante Gabriel</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2493_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154513.html</idno>
-      </person>
-      <person xml:id="pmb154514">
-         <persName>
-            <surname>Bauer</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2493_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154514.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-   </back>
 </TEI>

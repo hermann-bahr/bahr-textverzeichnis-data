@@ -90,55 +90,57 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+            <person xml:id="pmb5359">
+               <persName>
+                  <surname>Hugo</surname>
+                  <forename>Victor-Marie</forename>
+               </persName>
+               <birth>
+                  <date>1802-02-26</date>
+                  <placeName type="wikidata" ref="Q37776">Besançon</placeName>
+               </birth>
+               <death>
+                  <date>1885-05-22</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3375_p2</idno>
+               <idno type="wikidata">Q535</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118554654</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5359.html</idno>
+            </person>
+            <person xml:id="pmb149161">
+               <persName>
+                  <surname>Möser</surname>
+                  <forename>Justus</forename>
+               </persName>
+               <birth>
+                  <date>1720-12-14</date>
+                  <placeName type="wikidata" ref="Q2916">Osnabrück</placeName>
+               </birth>
+               <death>
+                  <date>1794-01-08</date>
+                  <placeName type="wikidata" ref="Q2916">Osnabrück</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6730_p1</idno>
+               <idno type="wikidata">Q65087</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11858314X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149161.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-      <person xml:id="pmb5359">
-         <persName>
-            <surname>Hugo</surname>
-            <forename>Victor-Marie</forename>
-         </persName>
-         <birth>
-            <date>1802-02-26</date>
-            <placeName type="wikidata" ref="Q37776">Besançon</placeName>
-         </birth>
-         <death>
-            <date>1885-05-22</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3375_p2</idno>
-         <idno type="wikidata">Q535</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118554654</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5359.html</idno>
-      </person>
-      <person xml:id="pmb149161">
-         <persName>
-            <surname>Möser</surname>
-            <forename>Justus</forename>
-         </persName>
-         <birth>
-            <date>1720-12-14</date>
-            <placeName type="wikidata" ref="Q2916">Osnabrück</placeName>
-         </birth>
-         <death>
-            <date>1794-01-08</date>
-            <placeName type="wikidata" ref="Q2916">Osnabrück</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6730_p1</idno>
-         <idno type="wikidata">Q65087</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858314X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149161.html</idno>
-      </person>
-   </back>
 </TEI>

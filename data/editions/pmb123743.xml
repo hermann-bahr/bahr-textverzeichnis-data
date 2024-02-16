@@ -79,47 +79,49 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153967">
+               <persName>
+                  <surname>l’Arronge</surname>
+                  <forename>Adolph</forename>
+               </persName>
+               <persName type="namensvariante">Adolf Aaronsohn</persName>
+               <birth>
+                  <date when="1838">1838</date>
+               </birth>
+               <death>
+                  <date when="1908">1908</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4465_p9</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153967.html</idno>
+            </person>
+            <person xml:id="pmb154545">
+               <persName>
+                  <surname>Godai</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <birth>
+                  <date when="1864">1864</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_2313_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154545.html</idno>
+            </person>
+            <person xml:id="pmb154479">
+               <persName>
+                  <surname>Fröden</surname>
+                  <forename>d.i. Adolf Meyer</forename>
+               </persName>
+               <birth>
+                  <date when="1861">1861</date>
+               </birth>
+               <death>
+                  <date when="1932">1932</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2319_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153967">
-         <persName>
-            <surname>l’Arronge</surname>
-            <forename>Adolph</forename>
-         </persName>
-         <persName type="namensvariante">Adolf Aaronsohn</persName>
-         <birth>
-            <date when="1838">1838</date>
-         </birth>
-         <death>
-            <date when="1908">1908</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4465_p9</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153967.html</idno>
-      </person>
-      <person xml:id="pmb154545">
-         <persName>
-            <surname>Godai</surname>
-            <forename>Richard</forename>
-         </persName>
-         <birth>
-            <date when="1864">1864</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_2313_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154545.html</idno>
-      </person>
-      <person xml:id="pmb154479">
-         <persName>
-            <surname>Fröden</surname>
-            <forename>d.i. Adolf Meyer</forename>
-         </persName>
-         <birth>
-            <date when="1861">1861</date>
-         </birth>
-         <death>
-            <date when="1932">1932</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2319_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
-      </person>
-   </back>
 </TEI>

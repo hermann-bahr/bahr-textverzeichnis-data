@@ -89,47 +89,49 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156512">
+               <persName>
+                  <surname>Wilhelmi</surname>
+                  <forename>Ludwig Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when="1796">1796</date>
+               </birth>
+               <death>
+                  <date when="1882">1882</date>
+               </death>
+               <idno type="HB-tv">HB-tv_661_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156512.html</idno>
+            </person>
+            <person xml:id="pmb151427">
+               <persName>
+                  <surname>Enk von der Burg</surname>
+                  <forename>Michael Leopold</forename>
+               </persName>
+               <birth>
+                  <date>1788-01-29</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1843-06-11</date>
+                  <placeName type="wikidata" ref="Q489806">Melk</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_661_p2</idno>
+               <idno type="wikidata">Q1928422</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/100123406</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151427.html</idno>
+            </person>
+            <person xml:id="pmb156513">
+               <persName>
+                  <surname>Peleus</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_661_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156513.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156512">
-         <persName>
-            <surname>Wilhelmi</surname>
-            <forename>Ludwig Wilhelm</forename>
-         </persName>
-         <birth>
-            <date when="1796">1796</date>
-         </birth>
-         <death>
-            <date when="1882">1882</date>
-         </death>
-         <idno type="HB-tv">HB-tv_661_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156512.html</idno>
-      </person>
-      <person xml:id="pmb151427">
-         <persName>
-            <surname>Enk von der Burg</surname>
-            <forename>Michael Leopold</forename>
-         </persName>
-         <birth>
-            <date>1788-01-29</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1843-06-11</date>
-            <placeName type="wikidata" ref="Q489806">Melk</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_661_p2</idno>
-         <idno type="wikidata">Q1928422</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/100123406</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151427.html</idno>
-      </person>
-      <person xml:id="pmb156513">
-         <persName>
-            <surname>Peleus</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_661_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156513.html</idno>
-      </person>
-   </back>
 </TEI>

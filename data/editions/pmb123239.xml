@@ -81,42 +81,44 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154294">
+               <persName>
+                  <surname>Jacobsen</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <birth>
+                  <date when="1853">1853</date>
+               </birth>
+               <death>
+                  <date when="1919">1919</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2530_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154294.html</idno>
+            </person>
+            <person xml:id="pmb154295">
+               <persName>
+                  <surname>Gaius Iulius Caesar</surname>
+               </persName>
+               <birth>
+                  <date when="0100">100</date>
+               </birth>
+               <death>
+                  <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2530_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154295.html</idno>
+            </person>
+            <person xml:id="pmb154296">
+               <persName>
+                  <surname>Lafrenz</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2530_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154296.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154294">
-         <persName>
-            <surname>Jacobsen</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date when="1853">1853</date>
-         </birth>
-         <death>
-            <date when="1919">1919</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2530_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154294.html</idno>
-      </person>
-      <person xml:id="pmb154295">
-         <persName>
-            <surname>Gaius Iulius Caesar</surname>
-         </persName>
-         <birth>
-            <date when="0100">100</date>
-         </birth>
-         <death>
-            <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2530_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154295.html</idno>
-      </person>
-      <person xml:id="pmb154296">
-         <persName>
-            <surname>Lafrenz</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2530_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154296.html</idno>
-      </person>
-   </back>
 </TEI>

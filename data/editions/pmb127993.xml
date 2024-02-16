@@ -103,242 +103,64 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149035">
+               <persName>
+                  <surname>Katharina von Siena</surname>
+               </persName>
+               <birth>
+                  <date>1347-03-25</date>
+                  <placeName type="wikidata" ref="Q2751">Siena</placeName>
+               </birth>
+               <death>
+                  <date>1380-04-29</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3916_p6</idno>
+               <idno type="wikidata">Q229190</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
+            </person>
+            <person xml:id="pmb150401">
+               <persName>
+                  <surname>Petrus von Alcantara</surname>
+               </persName>
+               <birth>
+                  <date>1499-01-01</date>
+                  <placeName type="wikidata" ref="Q1607183">Villaturiel</placeName>
+               </birth>
+               <death>
+                  <date>1562-10-18</date>
+                  <placeName type="wikidata" ref="Q641669">Arenas de San Pedro</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3343_p2</idno>
+               <idno type="wikidata">Q470608</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119331675</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150401.html</idno>
+            </person>
+            <person xml:id="pmb149373">
+               <persName>
+                  <surname>Görres</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1776-01-25</date>
+                  <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
+               </birth>
+               <death>
+                  <date>1848-01-29</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3505_p1</idno>
+               <idno type="wikidata">Q215730</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149035">
-         <persName>
-            <surname>Katharina von Siena</surname>
-         </persName>
-         <birth>
-            <date>1347-03-25</date>
-            <placeName type="wikidata" ref="Q2751">Siena</placeName>
-         </birth>
-         <death>
-            <date>1380-04-29</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3916_p6</idno>
-         <idno type="wikidata">Q229190</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
-      </person>
-      <person xml:id="pmb149035">
-         <persName>
-            <surname>Katharina von Siena</surname>
-         </persName>
-         <birth>
-            <date>1347-03-25</date>
-            <placeName type="wikidata" ref="Q2751">Siena</placeName>
-         </birth>
-         <death>
-            <date>1380-04-29</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_155_p3</idno>
-         <idno type="wikidata">Q229190</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
-      </person>
-      <person xml:id="pmb149035">
-         <persName>
-            <surname>Katharina von Siena</surname>
-         </persName>
-         <birth>
-            <date>1347-03-25</date>
-            <placeName type="wikidata" ref="Q2751">Siena</placeName>
-         </birth>
-         <death>
-            <date>1380-04-29</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3360_p16</idno>
-         <idno type="wikidata">Q229190</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
-      </person>
-      <person xml:id="pmb149035">
-         <persName>
-            <surname>Katharina von Siena</surname>
-         </persName>
-         <birth>
-            <date>1347-03-25</date>
-            <placeName type="wikidata" ref="Q2751">Siena</placeName>
-         </birth>
-         <death>
-            <date>1380-04-29</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p57</idno>
-         <idno type="wikidata">Q229190</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
-      </person>
-      <person xml:id="pmb149035">
-         <persName>
-            <surname>Katharina von Siena</surname>
-         </persName>
-         <birth>
-            <date>1347-03-25</date>
-            <placeName type="wikidata" ref="Q2751">Siena</placeName>
-         </birth>
-         <death>
-            <date>1380-04-29</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3343_p1</idno>
-         <idno type="wikidata">Q229190</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
-      </person>
-      <person xml:id="pmb149035">
-         <persName>
-            <surname>Katharina von Siena</surname>
-         </persName>
-         <birth>
-            <date>1347-03-25</date>
-            <placeName type="wikidata" ref="Q2751">Siena</placeName>
-         </birth>
-         <death>
-            <date>1380-04-29</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p70</idno>
-         <idno type="wikidata">Q229190</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
-      </person>
-      <person xml:id="pmb149035">
-         <persName>
-            <surname>Katharina von Siena</surname>
-         </persName>
-         <birth>
-            <date>1347-03-25</date>
-            <placeName type="wikidata" ref="Q2751">Siena</placeName>
-         </birth>
-         <death>
-            <date>1380-04-29</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p70</idno>
-         <idno type="wikidata">Q229190</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11856059X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149035.html</idno>
-      </person>
-      <person xml:id="pmb150401">
-         <persName>
-            <surname>Petrus von Alcantara</surname>
-         </persName>
-         <birth>
-            <date>1499-01-01</date>
-            <placeName type="wikidata" ref="Q1607183">Villaturiel</placeName>
-         </birth>
-         <death>
-            <date>1562-10-18</date>
-            <placeName type="wikidata" ref="Q641669">Arenas de San Pedro</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3343_p2</idno>
-         <idno type="wikidata">Q470608</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119331675</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150401.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3505_p1</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p58</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p92</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1626_p20</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p58</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-   </back>
 </TEI>

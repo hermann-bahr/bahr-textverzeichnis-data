@@ -145,236 +145,214 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+            <person xml:id="pmb154915">
+               <persName>
+                  <surname>Nagl</surname>
+                  <forename>Johann Willibald</forename>
+               </persName>
+               <birth>
+                  <date when="1856">1856</date>
+               </birth>
+               <death>
+                  <date when="1918">1918</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6576_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154915.html</idno>
+            </person>
+            <person xml:id="pmb154917">
+               <persName>
+                  <surname>Zeidler</surname>
+                  <forename>Jakob</forename>
+               </persName>
+               <birth>
+                  <date when="1855">1855</date>
+               </birth>
+               <death>
+                  <date when="1911">1911</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6576_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154917.html</idno>
+            </person>
+            <person xml:id="pmb149491">
+               <persName>
+                  <surname>Fromme</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <birth>
+                  <date>1828-08-24</date>
+                  <placeName type="wikidata" ref="Q3489">Harburg</placeName>
+               </birth>
+               <death>
+                  <date>1884-09-28</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6576_p4</idno>
+               <idno type="wikidata">Q1038168</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116839600</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149491.html</idno>
+            </person>
+            <person xml:id="pmb13082">
+               <persName>
+                  <surname>Karlweis</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <birth>
+                  <date>1850-11-23</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1901-10-27</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2402_p2</idno>
+               <idno type="wikidata">Q735989</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117302996</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13082.html</idno>
+            </person>
+            <person xml:id="pmb2154">
+               <persName>
+                  <surname>Chiavacci</surname>
+                  <forename>Vinzenz</forename>
+               </persName>
+               <birth>
+                  <date>1847-06-15</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1916-02-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1450_p4</idno>
+               <idno type="wikidata">Q1585734</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116504854</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2154.html</idno>
+            </person>
+            <person xml:id="pmb4223">
+               <persName>
+                  <surname>Marriot</surname>
+                  <forename>Emile</forename>
+               </persName>
+               <persName type="namensvariante">Emilie Mataja</persName>
+               <idno type="HB-tv">HB-tv_1832_p1</idno>
+               <idno type="wikidata">Q88953</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
+            </person>
+            <person xml:id="pmb154093">
+               <persName>
+                  <surname>Torresani</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date when="1846">1846</date>
+               </birth>
+               <death>
+                  <date when="1907">1907</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2266_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154093.html</idno>
+            </person>
+            <person xml:id="pmb156703">
+               <persName>
+                  <surname>Brée</surname>
+                  <forename>Malwine</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1860">um 1860</date>
+               </birth>
+               <death>
+                  <date when="1937">1937</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2942_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156703.html</idno>
+            </person>
+            <person xml:id="pmb155219">
+               <persName>
+                  <surname>Wertheimer</surname>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <birth>
+                  <date when="1817">1817</date>
+               </birth>
+               <death>
+                  <date when="1883">1883</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4854_p19</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155219.html</idno>
+            </person>
+            <person xml:id="pmb150213">
+               <persName>
+                  <surname>Andrian-Werburg</surname>
+                  <forename>Ferdinand Leopold von</forename>
+               </persName>
+               <birth>
+                  <date>1835-09-15</date>
+                  <placeName type="wikidata" ref="Q2534223">Vornbach</placeName>
+               </birth>
+               <death>
+                  <date>1914-04-10</date>
+                  <placeName type="wikidata" ref="Q33959">Nizza</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3893_p12</idno>
+               <idno type="wikidata">Q1405551</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116310138</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150213.html</idno>
+            </person>
+            <person xml:id="pmb89455">
+               <persName>
+                  <surname>Lemerre</surname>
+                  <forename>Alphonse</forename>
+               </persName>
+               <birth>
+                  <date>1838-04-09</date>
+                  <placeName type="wikidata" ref="Q28723569">Canisy</placeName>
+               </birth>
+               <death>
+                  <date>1912-10-15</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2942_p11</idno>
+               <idno type="wikidata">Q731852</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116896310</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb89455.html</idno>
+            </person>
+            <person xml:id="pmb151779">
+               <persName>
+                  <surname>Hillebrand</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date>1829-09-17</date>
+                  <placeName type="wikidata" ref="Q3874">Gießen</placeName>
+               </birth>
+               <death>
+                  <date>1884-10-19</date>
+                  <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2942_p12</idno>
+               <idno type="wikidata">Q71106</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116811994</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151779.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-      <person xml:id="pmb154915">
-         <persName>
-            <surname>Nagl</surname>
-            <forename>Johann Willibald</forename>
-         </persName>
-         <birth>
-            <date when="1856">1856</date>
-         </birth>
-         <death>
-            <date when="1918">1918</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6576_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154915.html</idno>
-      </person>
-      <person xml:id="pmb154917">
-         <persName>
-            <surname>Zeidler</surname>
-            <forename>Jakob</forename>
-         </persName>
-         <birth>
-            <date when="1855">1855</date>
-         </birth>
-         <death>
-            <date when="1911">1911</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6576_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154917.html</idno>
-      </person>
-      <person xml:id="pmb149491">
-         <persName>
-            <surname>Fromme</surname>
-            <forename>Carl</forename>
-         </persName>
-         <birth>
-            <date>1828-08-24</date>
-            <placeName type="wikidata" ref="Q3489">Harburg</placeName>
-         </birth>
-         <death>
-            <date>1884-09-28</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6576_p4</idno>
-         <idno type="wikidata">Q1038168</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116839600</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149491.html</idno>
-      </person>
-      <person xml:id="pmb13082">
-         <persName>
-            <surname>Karlweis</surname>
-            <forename>Carl</forename>
-         </persName>
-         <birth>
-            <date>1850-11-23</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1901-10-27</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2402_p2</idno>
-         <idno type="wikidata">Q735989</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117302996</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13082.html</idno>
-      </person>
-      <person xml:id="pmb2154">
-         <persName>
-            <surname>Chiavacci</surname>
-            <forename>Vinzenz</forename>
-         </persName>
-         <birth>
-            <date>1847-06-15</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1916-02-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1450_p4</idno>
-         <idno type="wikidata">Q1585734</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116504854</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2154.html</idno>
-      </person>
-      <person xml:id="pmb4223">
-         <persName>
-            <surname>Marriot</surname>
-            <forename>Emile</forename>
-         </persName>
-         <persName type="namensvariante">Emilie Mataja</persName>
-         <idno type="HB-tv">HB-tv_1832_p1</idno>
-         <idno type="wikidata">Q88953</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
-      </person>
-      <person xml:id="pmb4223">
-         <persName>
-            <surname>Marriot</surname>
-            <forename>Emile</forename>
-         </persName>
-         <persName type="namensvariante">Emilie Mataja</persName>
-         <idno type="HB-tv">HB-tv_2942_p6</idno>
-         <idno type="wikidata">Q88953</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
-      </person>
-      <person xml:id="pmb4223">
-         <persName>
-            <surname>Marriot</surname>
-            <forename>Emile</forename>
-         </persName>
-         <persName type="namensvariante">Emilie Mataja</persName>
-         <idno type="HB-tv">HB-tv_504_p3</idno>
-         <idno type="wikidata">Q88953</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
-      </person>
-      <person xml:id="pmb154093">
-         <persName>
-            <surname>Torresani</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date when="1846">1846</date>
-         </birth>
-         <death>
-            <date when="1907">1907</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2266_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154093.html</idno>
-      </person>
-      <person xml:id="pmb156703">
-         <persName>
-            <surname>Brée</surname>
-            <forename>Malwine</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1860">um 1860</date>
-         </birth>
-         <death>
-            <date when="1937">1937</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2942_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156703.html</idno>
-      </person>
-      <person xml:id="pmb155219">
-         <persName>
-            <surname>Wertheimer</surname>
-            <forename>Ferdinand</forename>
-         </persName>
-         <birth>
-            <date when="1817">1817</date>
-         </birth>
-         <death>
-            <date when="1883">1883</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4854_p19</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155219.html</idno>
-      </person>
-      <person xml:id="pmb150213">
-         <persName>
-            <surname>Andrian-Werburg</surname>
-            <forename>Ferdinand Leopold von</forename>
-         </persName>
-         <birth>
-            <date>1835-09-15</date>
-            <placeName type="wikidata" ref="Q2534223">Vornbach</placeName>
-         </birth>
-         <death>
-            <date>1914-04-10</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3893_p12</idno>
-         <idno type="wikidata">Q1405551</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116310138</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150213.html</idno>
-      </person>
-      <person xml:id="pmb89455">
-         <persName>
-            <surname>Lemerre</surname>
-            <forename>Alphonse</forename>
-         </persName>
-         <birth>
-            <date>1838-04-09</date>
-            <placeName type="wikidata" ref="Q28723569">Canisy</placeName>
-         </birth>
-         <death>
-            <date>1912-10-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2942_p11</idno>
-         <idno type="wikidata">Q731852</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116896310</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb89455.html</idno>
-      </person>
-      <person xml:id="pmb151779">
-         <persName>
-            <surname>Hillebrand</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date>1829-09-17</date>
-            <placeName type="wikidata" ref="Q3874">Gießen</placeName>
-         </birth>
-         <death>
-            <date>1884-10-19</date>
-            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2942_p12</idno>
-         <idno type="wikidata">Q71106</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116811994</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151779.html</idno>
-      </person>
-   </back>
 </TEI>

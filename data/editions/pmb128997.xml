@@ -91,64 +91,66 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114688">
+               <persName>
+                  <surname>Grimm</surname>
+                  <forename>Jacob</forename>
+               </persName>
+               <birth>
+                  <date>1785-01-04</date>
+                  <placeName type="wikidata" ref="Q3802">Hanau</placeName>
+               </birth>
+               <death>
+                  <date>1863-09-20</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1928_p1</idno>
+               <idno type="wikidata">Q6701</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118542257</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114688.html</idno>
+            </person>
+            <person xml:id="pmb116559">
+               <persName>
+                  <surname>Hausenstein</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date>1882-06-17</date>
+                  <placeName type="wikidata" ref="Q507581">Hornberg</placeName>
+               </birth>
+               <death>
+                  <date>1957-06-03</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3694_p9</idno>
+               <idno type="wikidata">Q77851</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118547003</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116559.html</idno>
+            </person>
+            <person xml:id="pmb115412">
+               <persName>
+                  <surname>Mazzini</surname>
+                  <forename>Giuseppe</forename>
+               </persName>
+               <birth>
+                  <date>1805-06-22</date>
+                  <placeName type="wikidata" ref="Q1449">Genua</placeName>
+               </birth>
+               <death>
+                  <date>1872-03-10</date>
+                  <placeName type="wikidata" ref="Q13375">Pisa</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1021_p13</idno>
+               <idno type="wikidata">Q187336</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118579754</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115412.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114688">
-         <persName>
-            <surname>Grimm</surname>
-            <forename>Jacob</forename>
-         </persName>
-         <birth>
-            <date>1785-01-04</date>
-            <placeName type="wikidata" ref="Q3802">Hanau</placeName>
-         </birth>
-         <death>
-            <date>1863-09-20</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1928_p1</idno>
-         <idno type="wikidata">Q6701</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118542257</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114688.html</idno>
-      </person>
-      <person xml:id="pmb116559">
-         <persName>
-            <surname>Hausenstein</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date>1882-06-17</date>
-            <placeName type="wikidata" ref="Q507581">Hornberg</placeName>
-         </birth>
-         <death>
-            <date>1957-06-03</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3694_p9</idno>
-         <idno type="wikidata">Q77851</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118547003</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116559.html</idno>
-      </person>
-      <person xml:id="pmb115412">
-         <persName>
-            <surname>Mazzini</surname>
-            <forename>Giuseppe</forename>
-         </persName>
-         <birth>
-            <date>1805-06-22</date>
-            <placeName type="wikidata" ref="Q1449">Genua</placeName>
-         </birth>
-         <death>
-            <date>1872-03-10</date>
-            <placeName type="wikidata" ref="Q13375">Pisa</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1021_p13</idno>
-         <idno type="wikidata">Q187336</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118579754</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115412.html</idno>
-      </person>
-   </back>
 </TEI>

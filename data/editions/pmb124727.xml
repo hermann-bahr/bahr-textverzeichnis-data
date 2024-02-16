@@ -91,21 +91,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153954">
+               <persName>
+                  <surname>Steger</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date when="1827">1827</date>
+               </birth>
+               <death>
+                  <date when="1886">1886</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4469_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153954.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153954">
-         <persName>
-            <surname>Steger</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date when="1827">1827</date>
-         </birth>
-         <death>
-            <date when="1886">1886</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4469_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153954.html</idno>
-      </person>
-   </back>
 </TEI>

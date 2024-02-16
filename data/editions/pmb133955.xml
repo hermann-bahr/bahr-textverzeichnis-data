@@ -105,133 +105,135 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157123">
+               <persName>
+                  <surname>Drake</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <birth>
+                  <date when="1805">1805</date>
+               </birth>
+               <death>
+                  <date when="1882">1882</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2722_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157123.html</idno>
+            </person>
+            <person xml:id="pmb88138">
+               <persName>
+                  <surname>Lemaître</surname>
+                  <forename>Jules</forename>
+               </persName>
+               <birth>
+                  <date>1853-04-27</date>
+                  <placeName type="wikidata" ref="Q1418689">Vennecy</placeName>
+               </birth>
+               <death>
+                  <date>1914-08-04</date>
+                  <placeName type="wikidata" ref="Q1379724">Tavers</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3665_p2</idno>
+               <idno type="wikidata">Q197935</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118727338</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88138.html</idno>
+            </person>
+            <person xml:id="pmb154647">
+               <persName>
+                  <surname>Miquel</surname>
+                  <forename>Johannes von</forename>
+               </persName>
+               <birth>
+                  <date when="1829">1829</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_145_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154647.html</idno>
+            </person>
+            <person xml:id="pmb156553">
+               <persName>
+                  <surname>Catilina</surname>
+                  <forename>Lucius Sergius</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 108">um 108</date>
+               </birth>
+               <death>
+                  <date when-custom="62 v.u.Z.">62 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_620_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156553.html</idno>
+            </person>
+            <person xml:id="pmb43718">
+               <persName>
+                  <surname>Ahlwardt</surname>
+                  <forename>Hermann</forename>
+               </persName>
+               <birth>
+                  <date>1846-12-21</date>
+                  <placeName type="wikidata" ref="Q669243">Krien</placeName>
+               </birth>
+               <death>
+                  <date>1914-04-16</date>
+                  <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2732_p4</idno>
+               <idno type="wikidata">Q72042</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/123440041</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43718.html</idno>
+            </person>
+            <person xml:id="pmb116430">
+               <persName>
+                  <surname>Caprivi</surname>
+                  <forename>Leo von</forename>
+               </persName>
+               <birth>
+                  <date>1831-02-24</date>
+                  <placeName type="wikidata" ref="Q162049">Charlottenburg</placeName>
+               </birth>
+               <death>
+                  <date>1899-02-06</date>
+                  <placeName type="wikidata" ref="Q3296733">Skyren</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_587_p7</idno>
+               <idno type="wikidata">Q10873</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11851900X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116430.html</idno>
+            </person>
+            <person xml:id="pmb157124">
+               <persName>
+                  <surname>Platon</surname>
+               </persName>
+               <birth>
+                  <date when-custom="428/427">428/427</date>
+               </birth>
+               <death>
+                  <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2722_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157124.html</idno>
+            </person>
+            <person xml:id="pmb154152">
+               <persName>
+                  <surname>Richter</surname>
+                  <forename>Eugen</forename>
+               </persName>
+               <birth>
+                  <date when="1838">1838</date>
+               </birth>
+               <death>
+                  <date when="1906">1906</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4701_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154152.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157123">
-         <persName>
-            <surname>Drake</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date when="1805">1805</date>
-         </birth>
-         <death>
-            <date when="1882">1882</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2722_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157123.html</idno>
-      </person>
-      <person xml:id="pmb88138">
-         <persName>
-            <surname>Lemaître</surname>
-            <forename>Jules</forename>
-         </persName>
-         <birth>
-            <date>1853-04-27</date>
-            <placeName type="wikidata" ref="Q1418689">Vennecy</placeName>
-         </birth>
-         <death>
-            <date>1914-08-04</date>
-            <placeName type="wikidata" ref="Q1379724">Tavers</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3665_p2</idno>
-         <idno type="wikidata">Q197935</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118727338</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88138.html</idno>
-      </person>
-      <person xml:id="pmb154647">
-         <persName>
-            <surname>Miquel</surname>
-            <forename>Johannes von</forename>
-         </persName>
-         <birth>
-            <date when="1829">1829</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_145_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154647.html</idno>
-      </person>
-      <person xml:id="pmb156553">
-         <persName>
-            <surname>Catilina</surname>
-            <forename>Lucius Sergius</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 108">um 108</date>
-         </birth>
-         <death>
-            <date when-custom="62 v.u.Z.">62 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_620_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156553.html</idno>
-      </person>
-      <person xml:id="pmb43718">
-         <persName>
-            <surname>Ahlwardt</surname>
-            <forename>Hermann</forename>
-         </persName>
-         <birth>
-            <date>1846-12-21</date>
-            <placeName type="wikidata" ref="Q669243">Krien</placeName>
-         </birth>
-         <death>
-            <date>1914-04-16</date>
-            <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2732_p4</idno>
-         <idno type="wikidata">Q72042</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/123440041</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43718.html</idno>
-      </person>
-      <person xml:id="pmb116430">
-         <persName>
-            <surname>Caprivi</surname>
-            <forename>Leo von</forename>
-         </persName>
-         <birth>
-            <date>1831-02-24</date>
-            <placeName type="wikidata" ref="Q162049">Charlottenburg</placeName>
-         </birth>
-         <death>
-            <date>1899-02-06</date>
-            <placeName type="wikidata" ref="Q3296733">Skyren</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_587_p7</idno>
-         <idno type="wikidata">Q10873</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11851900X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116430.html</idno>
-      </person>
-      <person xml:id="pmb157124">
-         <persName>
-            <surname>Platon</surname>
-         </persName>
-         <birth>
-            <date when-custom="428/427">428/427</date>
-         </birth>
-         <death>
-            <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2722_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157124.html</idno>
-      </person>
-      <person xml:id="pmb154152">
-         <persName>
-            <surname>Richter</surname>
-            <forename>Eugen</forename>
-         </persName>
-         <birth>
-            <date when="1838">1838</date>
-         </birth>
-         <death>
-            <date when="1906">1906</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4701_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154152.html</idno>
-      </person>
-   </back>
 </TEI>

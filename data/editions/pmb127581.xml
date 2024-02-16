@@ -92,14 +92,16 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155488">
+               <persName>
+                  <surname>Kain</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_1299_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155488.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155488">
-         <persName>
-            <surname>Kain</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1299_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155488.html</idno>
-      </person>
-   </back>
 </TEI>

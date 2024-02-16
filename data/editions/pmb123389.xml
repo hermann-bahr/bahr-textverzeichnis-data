@@ -81,23 +81,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154361">
+               <persName>
+                  <surname>Ansion</surname>
+                  <forename>Helene</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4675_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154361.html</idno>
+            </person>
+            <person xml:id="pmb154362">
+               <persName>
+                  <surname>Blaha</surname>
+                  <forename>Anna</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4675_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154362.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154361">
-         <persName>
-            <surname>Ansion</surname>
-            <forename>Helene</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4675_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154361.html</idno>
-      </person>
-      <person xml:id="pmb154362">
-         <persName>
-            <surname>Blaha</surname>
-            <forename>Anna</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4675_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154362.html</idno>
-      </person>
-   </back>
 </TEI>

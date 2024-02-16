@@ -113,36 +113,38 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+            <person xml:id="pmb115692">
+               <persName>
+                  <surname>Hille</surname>
+                  <forename>Peter</forename>
+               </persName>
+               <birth>
+                  <date>1854-09-11</date>
+                  <placeName type="wikidata" ref="Q1363657">Erwitzen</placeName>
+               </birth>
+               <death>
+                  <date>1904-05-07</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4864_p8</idno>
+               <idno type="wikidata">Q95693</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118551108</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115692.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-      <person xml:id="pmb115692">
-         <persName>
-            <surname>Hille</surname>
-            <forename>Peter</forename>
-         </persName>
-         <birth>
-            <date>1854-09-11</date>
-            <placeName type="wikidata" ref="Q1363657">Erwitzen</placeName>
-         </birth>
-         <death>
-            <date>1904-05-07</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4864_p8</idno>
-         <idno type="wikidata">Q95693</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118551108</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115692.html</idno>
-      </person>
-   </back>
 </TEI>

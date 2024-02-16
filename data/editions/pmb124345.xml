@@ -75,59 +75,61 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154718">
+               <persName>
+                  <surname>Pontius Pilatus</surname>
+               </persName>
+               <birth>
+                  <date when-custom="1. Jhdt.">1. Jhdt.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_6697_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154718.html</idno>
+            </person>
+            <person xml:id="pmb154719">
+               <persName>
+                  <surname>Procula</surname>
+                  <forename>Claudia</forename>
+               </persName>
+               <birth>
+                  <date when-custom="1. Jhdt.">1. Jhdt.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_6697_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154719.html</idno>
+            </person>
+            <person xml:id="pmb154720">
+               <persName>
+                  <surname>Vitellius</surname>
+                  <forename>Lucius Vater</forename>
+               </persName>
+               <occupation>Legat von Syrien</occupation>
+               <birth>
+                  <date when-custom="10 v.u.Z.">10 v.u.Z.</date>
+               </birth>
+               <death>
+                  <date when="0051">51</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6697_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154720.html</idno>
+            </person>
+            <person xml:id="pmb94061">
+               <persName>
+                  <surname>Caligula</surname>
+               </persName>
+               <birth>
+                  <date when="0012">12</date>
+               </birth>
+               <death>
+                  <date when="0041">41</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6697_p4</idno>
+               <idno type="wikidata">Q1409</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518410</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb94061.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154718">
-         <persName>
-            <surname>Pontius Pilatus</surname>
-         </persName>
-         <birth>
-            <date when-custom="1. Jhdt.">1. Jhdt.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_6697_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154718.html</idno>
-      </person>
-      <person xml:id="pmb154719">
-         <persName>
-            <surname>Procula</surname>
-            <forename>Claudia</forename>
-         </persName>
-         <birth>
-            <date when-custom="1. Jhdt.">1. Jhdt.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_6697_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154719.html</idno>
-      </person>
-      <person xml:id="pmb154720">
-         <persName>
-            <surname>Vitellius</surname>
-            <forename>Lucius Vater</forename>
-         </persName>
-         <occupation>Legat von Syrien</occupation>
-         <birth>
-            <date when-custom="10 v.u.Z.">10 v.u.Z.</date>
-         </birth>
-         <death>
-            <date when="0051">51</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6697_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154720.html</idno>
-      </person>
-      <person xml:id="pmb94061">
-         <persName>
-            <surname>Caligula</surname>
-         </persName>
-         <birth>
-            <date when="0012">12</date>
-         </birth>
-         <death>
-            <date when="0041">41</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6697_p4</idno>
-         <idno type="wikidata">Q1409</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518410</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb94061.html</idno>
-      </person>
-   </back>
 </TEI>

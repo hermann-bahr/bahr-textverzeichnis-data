@@ -94,69 +94,71 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155131">
+               <persName>
+                  <surname>Meister Eckhart</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1260">um 1260</date>
+               </birth>
+               <death>
+                  <date when="1328">1328</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1148_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155131.html</idno>
+            </person>
+            <person xml:id="pmb155130">
+               <persName>
+                  <surname>Tauler</surname>
+                  <forename>Johannes</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1300">um 1300</date>
+               </birth>
+               <death>
+                  <date when="1361">1361</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1149_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155130.html</idno>
+            </person>
+            <person xml:id="pmb155132">
+               <persName>
+                  <surname>Thomas von Aquin</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1225">um 1225</date>
+               </birth>
+               <death>
+                  <date when="1274">1274</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1148_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155132.html</idno>
+            </person>
+            <person xml:id="pmb155133">
+               <persName>
+                  <surname>Jansen</surname>
+                  <forename>Bernhard</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1148_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155133.html</idno>
+            </person>
+            <person xml:id="pmb155032">
+               <persName>
+                  <surname>Strich</surname>
+                  <forename>Fritz</forename>
+               </persName>
+               <birth>
+                  <date when="1883">1883</date>
+               </birth>
+               <death>
+                  <date when="1963">1963</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1223_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155032.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155131">
-         <persName>
-            <surname>Meister Eckhart</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1260">um 1260</date>
-         </birth>
-         <death>
-            <date when="1328">1328</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1148_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155131.html</idno>
-      </person>
-      <person xml:id="pmb155130">
-         <persName>
-            <surname>Tauler</surname>
-            <forename>Johannes</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1300">um 1300</date>
-         </birth>
-         <death>
-            <date when="1361">1361</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1149_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155130.html</idno>
-      </person>
-      <person xml:id="pmb155132">
-         <persName>
-            <surname>Thomas von Aquin</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1225">um 1225</date>
-         </birth>
-         <death>
-            <date when="1274">1274</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1148_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155132.html</idno>
-      </person>
-      <person xml:id="pmb155133">
-         <persName>
-            <surname>Jansen</surname>
-            <forename>Bernhard</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1148_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155133.html</idno>
-      </person>
-      <person xml:id="pmb155032">
-         <persName>
-            <surname>Strich</surname>
-            <forename>Fritz</forename>
-         </persName>
-         <birth>
-            <date when="1883">1883</date>
-         </birth>
-         <death>
-            <date when="1963">1963</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1223_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155032.html</idno>
-      </person>
-   </back>
 </TEI>

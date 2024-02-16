@@ -75,45 +75,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb9484">
+               <persName>
+                  <surname>Renan</surname>
+                  <forename>Joseph Ernest</forename>
+               </persName>
+               <birth>
+                  <date>1823-02-27</date>
+                  <placeName type="wikidata" ref="Q235297">Tréguier</placeName>
+               </birth>
+               <death>
+                  <date>1892-10-02</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1504_p13</idno>
+               <idno type="wikidata">Q157155</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118744496</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb9484.html</idno>
+            </person>
+            <person xml:id="pmb8851">
+               <persName>
+                  <surname>Materna</surname>
+                  <forename>Amalia</forename>
+               </persName>
+               <birth>
+                  <date>1844-07-10</date>
+                  <placeName type="wikidata" ref="Q689342">Sankt Georgen an der Stiefing</placeName>
+               </birth>
+               <death>
+                  <date>1918-01-18</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1088_p3</idno>
+               <idno type="wikidata">Q2840970</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116824174</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb8851.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb9484">
-         <persName>
-            <surname>Renan</surname>
-            <forename>Joseph Ernest</forename>
-         </persName>
-         <birth>
-            <date>1823-02-27</date>
-            <placeName type="wikidata" ref="Q235297">Tréguier</placeName>
-         </birth>
-         <death>
-            <date>1892-10-02</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1504_p13</idno>
-         <idno type="wikidata">Q157155</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118744496</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb9484.html</idno>
-      </person>
-      <person xml:id="pmb8851">
-         <persName>
-            <surname>Materna</surname>
-            <forename>Amalia</forename>
-         </persName>
-         <birth>
-            <date>1844-07-10</date>
-            <placeName type="wikidata" ref="Q689342">Sankt Georgen an der Stiefing</placeName>
-         </birth>
-         <death>
-            <date>1918-01-18</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1088_p3</idno>
-         <idno type="wikidata">Q2840970</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116824174</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb8851.html</idno>
-      </person>
-   </back>
 </TEI>

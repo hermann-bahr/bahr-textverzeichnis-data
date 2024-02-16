@@ -78,21 +78,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155393">
+               <persName>
+                  <surname>Müller</surname>
+                  <forename>Friedrich von</forename>
+               </persName>
+               <birth>
+                  <date when="1779">1779</date>
+               </birth>
+               <death>
+                  <date when="1849">1849</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3369_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155393.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155393">
-         <persName>
-            <surname>Müller</surname>
-            <forename>Friedrich von</forename>
-         </persName>
-         <birth>
-            <date when="1779">1779</date>
-         </birth>
-         <death>
-            <date when="1849">1849</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3369_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155393.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -103,91 +103,93 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb18654">
+               <persName>
+                  <surname>Hölderlin</surname>
+                  <forename>Johann Christian Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1770-03-20</date>
+                  <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
+               </birth>
+               <death>
+                  <date>1843-06-07</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2615_p43</idno>
+               <idno type="wikidata">Q75889</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
+            </person>
+            <person xml:id="pmb151423">
+               <persName>
+                  <surname>Gussow</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date>1843-03-25</date>
+                  <placeName type="wikidata" ref="Q504040">Havelberg</placeName>
+               </birth>
+               <death>
+                  <date>1907-03-27</date>
+                  <placeName type="wikidata" ref="Q256731">Pasing</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_777_p2</idno>
+               <idno type="wikidata">Q54716</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116931094</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151423.html</idno>
+            </person>
+            <person xml:id="pmb156785">
+               <persName>
+                  <surname>Lewin</surname>
+                  <forename>Theodor [Kritiker] ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2848_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156785.html</idno>
+            </person>
+            <person xml:id="pmb4002">
+               <persName>
+                  <surname>Stauffer</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date>1857-09-02</date>
+                  <placeName type="wikidata" ref="Q69114">Trubschachen</placeName>
+               </birth>
+               <death>
+                  <date>1891-01-24</date>
+                  <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3419_p6</idno>
+               <idno type="wikidata">Q117489</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11875288X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4002.html</idno>
+            </person>
+            <person xml:id="pmb11057">
+               <persName>
+                  <surname>Byron of Rochdale</surname>
+                  <forename>George Gordon Noel</forename>
+               </persName>
+               <birth>
+                  <date>1788-01-22</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1824-04-19</date>
+                  <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4873_p10</idno>
+               <idno type="wikidata">Q5679</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb18654">
-         <persName>
-            <surname>Hölderlin</surname>
-            <forename>Johann Christian Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1770-03-20</date>
-            <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
-         </birth>
-         <death>
-            <date>1843-06-07</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2615_p43</idno>
-         <idno type="wikidata">Q75889</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
-      </person>
-      <person xml:id="pmb151423">
-         <persName>
-            <surname>Gussow</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date>1843-03-25</date>
-            <placeName type="wikidata" ref="Q504040">Havelberg</placeName>
-         </birth>
-         <death>
-            <date>1907-03-27</date>
-            <placeName type="wikidata" ref="Q256731">Pasing</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_777_p2</idno>
-         <idno type="wikidata">Q54716</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116931094</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151423.html</idno>
-      </person>
-      <person xml:id="pmb156785">
-         <persName>
-            <surname>Lewin</surname>
-            <forename>Theodor [Kritiker] ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2848_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156785.html</idno>
-      </person>
-      <person xml:id="pmb4002">
-         <persName>
-            <surname>Stauffer</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date>1857-09-02</date>
-            <placeName type="wikidata" ref="Q69114">Trubschachen</placeName>
-         </birth>
-         <death>
-            <date>1891-01-24</date>
-            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3419_p6</idno>
-         <idno type="wikidata">Q117489</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11875288X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4002.html</idno>
-      </person>
-      <person xml:id="pmb11057">
-         <persName>
-            <surname>Byron of Rochdale</surname>
-            <forename>George Gordon Noel</forename>
-         </persName>
-         <birth>
-            <date>1788-01-22</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1824-04-19</date>
-            <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p10</idno>
-         <idno type="wikidata">Q5679</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
-      </person>
-   </back>
 </TEI>

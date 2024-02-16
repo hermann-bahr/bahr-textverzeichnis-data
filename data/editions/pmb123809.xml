@@ -84,34 +84,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154565">
+               <persName>
+                  <surname>Zampa</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2538_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154565.html</idno>
+            </person>
+            <person xml:id="pmb2847">
+               <persName>
+                  <surname>Giampietro</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1866-06-21</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1913-12-29</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2399_p4</idno>
+               <idno type="wikidata">Q1707099</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154565">
-         <persName>
-            <surname>Zampa</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2538_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154565.html</idno>
-      </person>
-      <person xml:id="pmb2847">
-         <persName>
-            <surname>Giampietro</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1866-06-21</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1913-12-29</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2399_p4</idno>
-         <idno type="wikidata">Q1707099</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
-      </person>
-   </back>
 </TEI>

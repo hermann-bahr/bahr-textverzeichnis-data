@@ -155,2556 +155,297 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb2404">
+               <persName>
+                  <surname>Hebbel</surname>
+                  <forename>Christian Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1813-03-18</date>
+                  <placeName type="wikidata" ref="Q518460">Wesselburen</placeName>
+               </birth>
+               <death>
+                  <date>1863-12-13</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6576_p3</idno>
+               <idno type="wikidata">Q57182</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118547445</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2404.html</idno>
+            </person>
+            <person xml:id="pmb43719">
+               <persName>
+                  <surname>Cusanus</surname>
+               </persName>
+               <birth>
+                  <date>1401</date>
+                  <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
+               </birth>
+               <death>
+                  <date>1464-08-11</date>
+                  <placeName type="wikidata" ref="Q20579">Todi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3524_p11</idno>
+               <idno type="wikidata">Q154751</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
+            </person>
+            <person xml:id="pmb18654">
+               <persName>
+                  <surname>Hölderlin</surname>
+                  <forename>Johann Christian Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1770-03-20</date>
+                  <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
+               </birth>
+               <death>
+                  <date>1843-06-07</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2615_p43</idno>
+               <idno type="wikidata">Q75889</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
+            </person>
+            <person xml:id="pmb150081">
+               <persName>
+                  <surname>Engländer</surname>
+                  <forename>Siegmund</forename>
+               </persName>
+               <birth>
+                  <date>1828</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1902-11-30</date>
+                  <placeName type="wikidata" ref="Q495">Turin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p1</idno>
+               <idno type="wikidata">Q20752500</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116536993</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150081.html</idno>
+            </person>
+            <person xml:id="pmb150084">
+               <persName>
+                  <surname>Gerold</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <birth>
+                  <date>1783-06-12</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1854-09-25</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p2</idno>
+               <idno type="wikidata">Q61995654</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/133262871</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150084.html</idno>
+            </person>
+            <person xml:id="pmb155369">
+               <persName>
+                  <surname>Feuchtersleben</surname>
+                  <forename>Maria Magdalena von</forename>
+                  <surname type="birthname"> Kalcher</surname>
+               </persName>
+               <birth>
+                  <date when="1801">1801</date>
+               </birth>
+               <death>
+                  <date when="1882">1882</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155369.html</idno>
+            </person>
+            <person xml:id="pmb115533">
+               <persName>
+                  <surname>Novalis</surname>
+               </persName>
+               <birth>
+                  <date>1772-05-02</date>
+                  <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
+               </birth>
+               <death>
+                  <date>1801-03-25</date>
+                  <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3565_p3</idno>
+               <idno type="wikidata">Q60684</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
+            </person>
+            <person xml:id="pmb113261">
+               <persName>
+                  <surname>Doblhoff-Dier</surname>
+                  <forename>Anton von</forename>
+               </persName>
+               <birth>
+                  <date>1800-11-10</date>
+                  <placeName type="wikidata" ref="Q6596">Gorizia</placeName>
+               </birth>
+               <death>
+                  <date>1872-04-16</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p6</idno>
+               <idno type="wikidata">Q78770</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/101168128</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113261.html</idno>
+            </person>
+            <person xml:id="pmb155370">
+               <persName>
+                  <surname>Poßbach</surname>
+                  <forename>Cölestine von</forename>
+               </persName>
+               <death>
+                  <date when="1882">1882</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155370.html</idno>
+            </person>
+            <person xml:id="pmb43768">
+               <persName>
+                  <surname>Bösendorfer</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <birth>
+                  <date>1835-04-10</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1919-05-08</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1100_p5</idno>
+               <idno type="wikidata">Q1874268</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116225556</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43768.html</idno>
+            </person>
+            <person xml:id="pmb5428">
+               <persName>
+                  <surname>Rembrandt Harmenszoon van Rijn</surname>
+               </persName>
+               <birth>
+                  <date>1606-07-15</date>
+                  <placeName type="wikidata" ref="Q43631">Leiden</placeName>
+               </birth>
+               <death>
+                  <date>1669-10-04</date>
+                  <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1050_p6</idno>
+               <idno type="wikidata">Q5598</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
+            </person>
+            <person xml:id="pmb155371">
+               <persName>
+                  <surname>Pindar</surname>
+               </persName>
+               <birth>
+                  <date when-custom="522/518">522/518</date>
+               </birth>
+               <death>
+                  <date when-custom="nach 445 v.u.Z.">nach 445 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p11</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155371.html</idno>
+            </person>
+            <person xml:id="pmb155372">
+               <persName>
+                  <surname>Platon</surname>
+               </persName>
+               <birth>
+                  <date when-custom="428/427">428/427</date>
+               </birth>
+               <death>
+                  <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p12</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155372.html</idno>
+            </person>
+            <person xml:id="pmb155373">
+               <persName>
+                  <surname>Paulus von Tarsus</surname>
+               </persName>
+               <death>
+                  <date when-custom="nach 60">nach 60</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p13</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155373.html</idno>
+            </person>
+            <person xml:id="pmb155374">
+               <persName>
+                  <surname>Kronos</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_3371_p14</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155374.html</idno>
+            </person>
+            <person xml:id="pmb52650">
+               <persName>
+                  <surname>Klopstock</surname>
+                  <forename>Friedrich Gottlieb</forename>
+               </persName>
+               <birth>
+                  <date>1724-07-02</date>
+                  <placeName type="wikidata" ref="Q40623">Quedlinburg</placeName>
+               </birth>
+               <death>
+                  <date>1803-03-14</date>
+                  <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_691_p3</idno>
+               <idno type="wikidata">Q154367</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118563386</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52650.html</idno>
+            </person>
+            <person xml:id="pmb115843">
+               <persName>
+                  <surname>Rimbaud</surname>
+                  <forename>Arthur</forename>
+               </persName>
+               <birth>
+                  <date>1854-10-20</date>
+                  <placeName type="wikidata" ref="Q2960786">Charleville</placeName>
+               </birth>
+               <death>
+                  <date>1891-11-10</date>
+                  <placeName type="wikidata" ref="Q23482">Marseille</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_35_p1</idno>
+               <idno type="wikidata">Q493</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118601032</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115843.html</idno>
+            </person>
+            <person xml:id="pmb155375">
+               <persName>
+                  <surname>Rupert von Salzburg</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 650">um 650</date>
+               </birth>
+               <death>
+                  <date when-custom="718[?]">718[?]</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3371_p19</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155375.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb2404">
-         <persName>
-            <surname>Hebbel</surname>
-            <forename>Christian Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1813-03-18</date>
-            <placeName type="wikidata" ref="Q518460">Wesselburen</placeName>
-         </birth>
-         <death>
-            <date>1863-12-13</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6576_p3</idno>
-         <idno type="wikidata">Q57182</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118547445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2404.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p11</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p10</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Kues</surname>
-            <forename>Nikolaus von</forename>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4521_p7</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p14</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p37</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5234_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6837_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5369_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb18654">
-         <persName>
-            <surname>Hölderlin</surname>
-            <forename>Johann Christian Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1770-03-20</date>
-            <placeName type="wikidata" ref="Q525720">Lauffen am Neckar</placeName>
-         </birth>
-         <death>
-            <date>1843-06-07</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2615_p43</idno>
-         <idno type="wikidata">Q75889</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118551981</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18654.html</idno>
-      </person>
-      <person xml:id="pmb150081">
-         <persName>
-            <surname>Engländer</surname>
-            <forename>Siegmund</forename>
-         </persName>
-         <birth>
-            <date>1828</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1902-11-30</date>
-            <placeName type="wikidata" ref="Q495">Turin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p1</idno>
-         <idno type="wikidata">Q20752500</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116536993</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150081.html</idno>
-      </person>
-      <person xml:id="pmb150084">
-         <persName>
-            <surname>Gerold</surname>
-            <forename>Carl</forename>
-         </persName>
-         <birth>
-            <date>1783-06-12</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1854-09-25</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p2</idno>
-         <idno type="wikidata">Q61995654</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/133262871</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150084.html</idno>
-      </person>
-      <person xml:id="pmb155369">
-         <persName>
-            <surname>Feuchtersleben</surname>
-            <forename>Maria Magdalena von</forename>
-            <surname type="birthname"> Kalcher</surname>
-         </persName>
-         <birth>
-            <date when="1801">1801</date>
-         </birth>
-         <death>
-            <date when="1882">1882</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155369.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3565_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p12</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3498_p7</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3492_p13</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2444_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p15</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1223_p1</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1794_p7</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p15</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3378_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Hardenberg</surname>
-            <forename>Georg Friedrich Philipp von</forename>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3378_p5</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3371_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3371_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1021_p25</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3365_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3361_p5</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5324_p11</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5297_p10</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5288_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5439_p10</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5430_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5358_p11</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4820_p6</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3461_p1</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2817_p2</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_416_p2</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_386_p6</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3565_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p12</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3498_p7</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3492_p13</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2444_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p15</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1223_p1</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1794_p7</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p15</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3378_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Hardenberg</surname>
-            <forename>Georg Friedrich Philipp von</forename>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3378_p5</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3371_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3371_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1021_p25</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3365_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3361_p5</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5324_p11</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5297_p10</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5288_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5439_p10</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5430_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5358_p11</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4820_p6</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3461_p1</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2817_p2</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_416_p2</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_386_p6</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb113261">
-         <persName>
-            <surname>Doblhoff-Dier</surname>
-            <forename>Anton von</forename>
-         </persName>
-         <birth>
-            <date>1800-11-10</date>
-            <placeName type="wikidata" ref="Q6596">Gorizia</placeName>
-         </birth>
-         <death>
-            <date>1872-04-16</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p6</idno>
-         <idno type="wikidata">Q78770</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/101168128</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113261.html</idno>
-      </person>
-      <person xml:id="pmb155370">
-         <persName>
-            <surname>Poßbach</surname>
-            <forename>Cölestine von</forename>
-         </persName>
-         <death>
-            <date when="1882">1882</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155370.html</idno>
-      </person>
-      <person xml:id="pmb43768">
-         <persName>
-            <surname>Bösendorfer</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <birth>
-            <date>1835-04-10</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1919-05-08</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1100_p5</idno>
-         <idno type="wikidata">Q1874268</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116225556</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43768.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p11</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p10</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Kues</surname>
-            <forename>Nikolaus von</forename>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4521_p7</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p14</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p37</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5234_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6837_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb43719">
-         <persName>
-            <surname>Cusanus</surname>
-         </persName>
-         <birth>
-            <date>1401</date>
-            <placeName type="wikidata" ref="Q155622">Bernkastel-Kues</placeName>
-         </birth>
-         <death>
-            <date>1464-08-11</date>
-            <placeName type="wikidata" ref="Q20579">Todi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5369_p2</idno>
-         <idno type="wikidata">Q154751</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43719.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1050_p6</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3496_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1217_p3</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_161_p6</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4863_p19</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3377_p11</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p10</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3370_p13</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_158_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p8</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3354_p9</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1491_p11</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5251_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5221_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5206_p7</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_148_p6</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5450_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5355_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5340_p7</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3465_p8</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3463_p4</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_41_p5</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4885_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3427_p14</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_737_p1</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2987_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2980_p9</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2762_p3</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2729_p4</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2698_p7</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p37</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_197_p31</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2626_p32</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2614_p25</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3862_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb155371">
-         <persName>
-            <surname>Pindar</surname>
-         </persName>
-         <birth>
-            <date when-custom="522/518">522/518</date>
-         </birth>
-         <death>
-            <date when-custom="nach 445 v.u.Z.">nach 445 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p11</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155371.html</idno>
-      </person>
-      <person xml:id="pmb155372">
-         <persName>
-            <surname>Platon</surname>
-         </persName>
-         <birth>
-            <date when-custom="428/427">428/427</date>
-         </birth>
-         <death>
-            <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p12</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155372.html</idno>
-      </person>
-      <person xml:id="pmb155373">
-         <persName>
-            <surname>Paulus von Tarsus</surname>
-         </persName>
-         <death>
-            <date when-custom="nach 60">nach 60</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p13</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155373.html</idno>
-      </person>
-      <person xml:id="pmb155374">
-         <persName>
-            <surname>Kronos</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3371_p14</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155374.html</idno>
-      </person>
-      <person xml:id="pmb52650">
-         <persName>
-            <surname>Klopstock</surname>
-            <forename>Friedrich Gottlieb</forename>
-         </persName>
-         <birth>
-            <date>1724-07-02</date>
-            <placeName type="wikidata" ref="Q40623">Quedlinburg</placeName>
-         </birth>
-         <death>
-            <date>1803-03-14</date>
-            <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_691_p3</idno>
-         <idno type="wikidata">Q154367</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118563386</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52650.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3565_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p12</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3498_p7</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3492_p13</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2444_p3</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p15</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1223_p1</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1794_p7</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p15</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3378_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Hardenberg</surname>
-            <forename>Georg Friedrich Philipp von</forename>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3378_p5</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3371_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3371_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1021_p25</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3365_p4</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3361_p5</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5324_p11</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5297_p10</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5288_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5439_p10</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5430_p16</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5358_p11</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4820_p6</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3461_p1</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2817_p2</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_416_p2</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115533">
-         <persName>
-            <surname>Novalis</surname>
-         </persName>
-         <birth>
-            <date>1772-05-02</date>
-            <placeName type="wikidata" ref="Q819026">Wiederstedt</placeName>
-         </birth>
-         <death>
-            <date>1801-03-25</date>
-            <placeName type="wikidata" ref="Q14815">Weißenfels</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_386_p6</idno>
-         <idno type="wikidata">Q60684</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115533.html</idno>
-      </person>
-      <person xml:id="pmb115843">
-         <persName>
-            <surname>Rimbaud</surname>
-            <forename>Arthur</forename>
-         </persName>
-         <birth>
-            <date>1854-10-20</date>
-            <placeName type="wikidata" ref="Q2960786">Charleville</placeName>
-         </birth>
-         <death>
-            <date>1891-11-10</date>
-            <placeName type="wikidata" ref="Q23482">Marseille</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_35_p1</idno>
-         <idno type="wikidata">Q493</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118601032</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115843.html</idno>
-      </person>
-      <person xml:id="pmb155375">
-         <persName>
-            <surname>Rupert von Salzburg</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 650">um 650</date>
-         </birth>
-         <death>
-            <date when-custom="718[?]">718[?]</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p19</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155375.html</idno>
-      </person>
-   </back>
 </TEI>

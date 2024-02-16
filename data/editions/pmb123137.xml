@@ -87,41 +87,43 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb103028">
+               <persName>
+                  <surname>Sadil</surname>
+                  <forename>Meinrad</forename>
+               </persName>
+               <persName type="namensvariante">Franz Richard S.</persName>
+               <birth>
+                  <date>1864-07-30</date>
+                  <placeName type="wikidata" ref="Q12040538">Nedvězí</placeName>
+               </birth>
+               <death>
+                  <date>1943-03-05</date>
+                  <placeName type="wikidata" ref="Q666870">Wernstein am Inn</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1854_p1</idno>
+               <idno type="wikidata">Q1918152</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/1028983522</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb103028.html</idno>
+            </person>
+            <person xml:id="pmb154245">
+               <persName>
+                  <surname>Tantalos</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_1854_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154245.html</idno>
+            </person>
+            <person xml:id="pmb154246">
+               <persName>
+                  <surname>Zeus</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_1854_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154246.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb103028">
-         <persName>
-            <surname>Sadil</surname>
-            <forename>Meinrad</forename>
-         </persName>
-         <persName type="namensvariante">Franz Richard S.</persName>
-         <birth>
-            <date>1864-07-30</date>
-            <placeName type="wikidata" ref="Q12040538">Nedvězí</placeName>
-         </birth>
-         <death>
-            <date>1943-03-05</date>
-            <placeName type="wikidata" ref="Q666870">Wernstein am Inn</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1854_p1</idno>
-         <idno type="wikidata">Q1918152</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/1028983522</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb103028.html</idno>
-      </person>
-      <person xml:id="pmb154245">
-         <persName>
-            <surname>Tantalos</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1854_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154245.html</idno>
-      </person>
-      <person xml:id="pmb154246">
-         <persName>
-            <surname>Zeus</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1854_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154246.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -85,70 +85,72 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb14328">
+               <persName>
+                  <surname>Blumenthal</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date>1852-03-13</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1917-04-24</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1443_p2</idno>
+               <idno type="wikidata">Q71567</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
+            </person>
+            <person xml:id="pmb2847">
+               <persName>
+                  <surname>Giampietro</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1866-06-21</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1913-12-29</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2399_p4</idno>
+               <idno type="wikidata">Q1707099</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
+            </person>
+            <person xml:id="pmb154409">
+               <persName>
+                  <surname>Greißnegger</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2522_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154409.html</idno>
+            </person>
+            <person xml:id="pmb154410">
+               <persName>
+                  <surname>Waldegg</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2522_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154410.html</idno>
+            </person>
+            <person xml:id="pmb154411">
+               <persName>
+                  <surname>Jäger</surname>
+                  <forename>Meta</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2522_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154411.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb14328">
-         <persName>
-            <surname>Blumenthal</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date>1852-03-13</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1917-04-24</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1443_p2</idno>
-         <idno type="wikidata">Q71567</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
-      </person>
-      <person xml:id="pmb2847">
-         <persName>
-            <surname>Giampietro</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1866-06-21</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1913-12-29</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2399_p4</idno>
-         <idno type="wikidata">Q1707099</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
-      </person>
-      <person xml:id="pmb154409">
-         <persName>
-            <surname>Greißnegger</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2522_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154409.html</idno>
-      </person>
-      <person xml:id="pmb154410">
-         <persName>
-            <surname>Waldegg</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2522_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154410.html</idno>
-      </person>
-      <person xml:id="pmb154411">
-         <persName>
-            <surname>Jäger</surname>
-            <forename>Meta</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2522_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154411.html</idno>
-      </person>
-   </back>
 </TEI>

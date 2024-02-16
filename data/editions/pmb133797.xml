@@ -110,49 +110,51 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156984">
+               <persName>
+                  <surname>Geiger</surname>
+                  <forename>Johann Nepomuck</forename>
+               </persName>
+               <birth>
+                  <date when="1805">1805</date>
+               </birth>
+               <death>
+                  <date when="1880">1880</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2811_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156984.html</idno>
+            </person>
+            <person xml:id="pmb156987">
+               <persName>
+                  <surname>Roche</surname>
+                  <forename>Carl Ritter von</forename>
+               </persName>
+               <birth>
+                  <date when="1794">1794</date>
+               </birth>
+               <death>
+                  <date when="1884">1884</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2807_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156987.html</idno>
+            </person>
+            <person xml:id="pmb154436">
+               <persName>
+                  <surname>Löwe</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <birth>
+                  <date when="1795">1795</date>
+               </birth>
+               <death>
+                  <date when="1871">1871</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3826_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154436.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156984">
-         <persName>
-            <surname>Geiger</surname>
-            <forename>Johann Nepomuck</forename>
-         </persName>
-         <birth>
-            <date when="1805">1805</date>
-         </birth>
-         <death>
-            <date when="1880">1880</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2811_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156984.html</idno>
-      </person>
-      <person xml:id="pmb156987">
-         <persName>
-            <surname>Roche</surname>
-            <forename>Carl Ritter von</forename>
-         </persName>
-         <birth>
-            <date when="1794">1794</date>
-         </birth>
-         <death>
-            <date when="1884">1884</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2807_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156987.html</idno>
-      </person>
-      <person xml:id="pmb154436">
-         <persName>
-            <surname>Löwe</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <birth>
-            <date when="1795">1795</date>
-         </birth>
-         <death>
-            <date when="1871">1871</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3826_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154436.html</idno>
-      </person>
-   </back>
 </TEI>

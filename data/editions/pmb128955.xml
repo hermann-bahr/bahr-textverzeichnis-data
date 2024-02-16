@@ -83,21 +83,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155765">
+               <persName>
+                  <surname>Hauer</surname>
+                  <forename>Josef Matthias</forename>
+               </persName>
+               <birth>
+                  <date when="1883">1883</date>
+               </birth>
+               <death>
+                  <date when="1859">1859</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5199_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155765.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155765">
-         <persName>
-            <surname>Hauer</surname>
-            <forename>Josef Matthias</forename>
-         </persName>
-         <birth>
-            <date when="1883">1883</date>
-         </birth>
-         <death>
-            <date when="1859">1859</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5199_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155765.html</idno>
-      </person>
-   </back>
 </TEI>

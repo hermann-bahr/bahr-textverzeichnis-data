@@ -91,26 +91,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11057">
+               <persName>
+                  <surname>Byron of Rochdale</surname>
+                  <forename>George Gordon Noel</forename>
+               </persName>
+               <birth>
+                  <date>1788-01-22</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1824-04-19</date>
+                  <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4873_p10</idno>
+               <idno type="wikidata">Q5679</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11057">
-         <persName>
-            <surname>Byron of Rochdale</surname>
-            <forename>George Gordon Noel</forename>
-         </persName>
-         <birth>
-            <date>1788-01-22</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1824-04-19</date>
-            <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p10</idno>
-         <idno type="wikidata">Q5679</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
-      </person>
-   </back>
 </TEI>

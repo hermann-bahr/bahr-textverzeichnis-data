@@ -117,125 +117,46 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb115350">
+               <persName>
+                  <surname>Marlitt</surname>
+                  <forename>E.</forename>
+               </persName>
+               <persName type="namensvariante">Eugenie John</persName>
+               <birth>
+                  <date>1825-12-05</date>
+                  <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
+               </birth>
+               <death>
+                  <date>1887-06-22</date>
+                  <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4464_p5</idno>
+               <idno type="wikidata">Q62950</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118731092</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115350.html</idno>
+            </person>
+            <person xml:id="pmb156925">
+               <persName>
+                  <surname>Zampa</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_393_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156925.html</idno>
+            </person>
+            <person xml:id="pmb153626">
+               <persName>
+                  <surname>Meixner</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2471_p2</idno>
+               <idno type="wikidata">Q95032119</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb115350">
-         <persName>
-            <surname>Marlitt</surname>
-            <forename>E.</forename>
-         </persName>
-         <persName type="namensvariante">Eugenie John</persName>
-         <birth>
-            <date>1825-12-05</date>
-            <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
-         </birth>
-         <death>
-            <date>1887-06-22</date>
-            <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4464_p5</idno>
-         <idno type="wikidata">Q62950</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118731092</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115350.html</idno>
-      </person>
-      <person xml:id="pmb156925">
-         <persName>
-            <surname>Zampa</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_393_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156925.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2471_p2</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1833_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2517_p1</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2512_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2501_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2482_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_440_p2</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_412_p8</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_393_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_369_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-   </back>
 </TEI>

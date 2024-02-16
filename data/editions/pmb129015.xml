@@ -77,26 +77,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb116833">
+               <persName>
+                  <surname>Noske</surname>
+                  <forename>Gustav</forename>
+               </persName>
+               <birth>
+                  <date>1868-07-09</date>
+                  <placeName type="wikidata" ref="Q3931">Brandenburg an der Havel</placeName>
+               </birth>
+               <death>
+                  <date>1946-11-30</date>
+                  <placeName type="wikidata" ref="Q1715">Hannover</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5262_p2</idno>
+               <idno type="wikidata">Q57353</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118588761</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116833.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb116833">
-         <persName>
-            <surname>Noske</surname>
-            <forename>Gustav</forename>
-         </persName>
-         <birth>
-            <date>1868-07-09</date>
-            <placeName type="wikidata" ref="Q3931">Brandenburg an der Havel</placeName>
-         </birth>
-         <death>
-            <date>1946-11-30</date>
-            <placeName type="wikidata" ref="Q1715">Hannover</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5262_p2</idno>
-         <idno type="wikidata">Q57353</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118588761</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116833.html</idno>
-      </person>
-   </back>
 </TEI>

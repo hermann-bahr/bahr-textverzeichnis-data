@@ -74,37 +74,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb112837">
+               <persName>
+                  <surname>Bayle</surname>
+                  <forename>Pierre</forename>
+               </persName>
+               <birth>
+                  <date>1647-11-18</date>
+                  <placeName type="wikidata" ref="Q475374">Carla-Bayle</placeName>
+               </birth>
+               <death>
+                  <date>1706-12-28</date>
+                  <placeName type="wikidata" ref="Q34370">Rotterdam</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2839_p1</idno>
+               <idno type="wikidata">Q214816</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11850777X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112837.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb112837">
-         <persName>
-            <surname>Bayle</surname>
-            <forename>Pierre</forename>
-         </persName>
-         <birth>
-            <date>1647-11-18</date>
-            <placeName type="wikidata" ref="Q475374">Carla-Bayle</placeName>
-         </birth>
-         <death>
-            <date>1706-12-28</date>
-            <placeName type="wikidata" ref="Q34370">Rotterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2839_p1</idno>
-         <idno type="wikidata">Q214816</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11850777X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112837.html</idno>
-      </person>
-      <person xml:id="pmb112837">
-         <persName>
-            <surname>Bayle</surname>
-            <forename>Pierre</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_362_p1</idno>
-         <idno type="wikidata">Q214816</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11850777X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112837.html</idno>
-      </person>
-   </back>
 </TEI>

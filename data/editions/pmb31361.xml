@@ -95,21 +95,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155402">
+               <persName>
+                  <surname>Portinari</surname>
+                  <forename>Beatrice</forename>
+               </persName>
+               <birth>
+                  <date when="1266">1266</date>
+               </birth>
+               <death>
+                  <date when="1290">1290</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3369_p34</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155402.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155402">
-         <persName>
-            <surname>Portinari</surname>
-            <forename>Beatrice</forename>
-         </persName>
-         <birth>
-            <date when="1266">1266</date>
-         </birth>
-         <death>
-            <date when="1290">1290</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3369_p34</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155402.html</idno>
-      </person>
-   </back>
 </TEI>

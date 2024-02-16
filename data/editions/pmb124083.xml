@@ -92,263 +92,124 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+            <person xml:id="pmb28142">
+               <persName>
+                  <surname>Silesius</surname>
+                  <forename>Angelus</forename>
+               </persName>
+               <persName type="namensvariante">Johannes Scheffler</persName>
+               <birth>
+                  <date>1624-12-01</date>
+                  <placeName type="wikidata" ref="Q1799">Breslau</placeName>
+               </birth>
+               <death>
+                  <date>1677-07-09</date>
+                  <placeName type="wikidata" ref="Q1799">Breslau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4485_p1</idno>
+               <idno type="wikidata">Q60469</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
+            </person>
+            <person xml:id="pmb154672">
+               <persName>
+                  <surname>Logau</surname>
+                  <forename>Friedrich von</forename>
+               </persName>
+               <birth>
+                  <date when="1605">1605</date>
+               </birth>
+               <death>
+                  <date when="1655">1655</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4485_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154672.html</idno>
+            </person>
+            <person xml:id="pmb115549">
+               <persName>
+                  <surname>Opitz</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <birth>
+                  <date>1597-12-23</date>
+                  <placeName type="wikidata" ref="Q156828">Bolesławiec</placeName>
+               </birth>
+               <death>
+                  <date>1639-08-20</date>
+                  <placeName type="wikidata" ref="Q1792">Danzig</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4485_p3</idno>
+               <idno type="wikidata">Q60946</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118590111</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115549.html</idno>
+            </person>
+            <person xml:id="pmb39409">
+               <persName>
+                  <surname>Hoffmann von Hoffmannswaldau</surname>
+                  <forename>Christian</forename>
+               </persName>
+               <birth>
+                  <date>1616-12-25</date>
+                  <placeName type="wikidata" ref="Q1799">Breslau</placeName>
+               </birth>
+               <death>
+                  <date>1679-04-18</date>
+                  <placeName type="wikidata" ref="Q1799">Breslau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4485_p4</idno>
+               <idno type="wikidata">Q64278</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118706187</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb39409.html</idno>
+            </person>
+            <person xml:id="pmb52645">
+               <persName>
+                  <surname>Gryphius</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <birth>
+                  <date>1616-10-02</date>
+                  <placeName type="wikidata" ref="Q66013">Głogów</placeName>
+               </birth>
+               <death>
+                  <date>1664-07-16</date>
+                  <placeName type="wikidata" ref="Q66013">Głogów</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4485_p5</idno>
+               <idno type="wikidata">Q77214</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118543032</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52645.html</idno>
+            </person>
+            <person xml:id="pmb154673">
+               <persName>
+                  <surname>Günther</surname>
+                  <forename>Johann Christian</forename>
+               </persName>
+               <birth>
+                  <date when="1695">1695</date>
+               </birth>
+               <death>
+                  <date when="1723">1723</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4485_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154673.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Silesius</surname>
-            <forename>Angelus</forename>
-         </persName>
-         <persName type="namensvariante">Johannes Scheffler</persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4485_p1</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p8</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Silesius</surname>
-            <forename>Angelus</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_5208_p2</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Silesius</surname>
-            <forename>Angelus</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_5342_p2</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3640_p1</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3291_p9</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1134_p2</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Scheffler</surname>
-            <forename>Johannes</forename>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1134_p3</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3183_p11</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_584_p8</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb154672">
-         <persName>
-            <surname>Logau</surname>
-            <forename>Friedrich von</forename>
-         </persName>
-         <birth>
-            <date when="1605">1605</date>
-         </birth>
-         <death>
-            <date when="1655">1655</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4485_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154672.html</idno>
-      </person>
-      <person xml:id="pmb115549">
-         <persName>
-            <surname>Opitz</surname>
-            <forename>Martin</forename>
-         </persName>
-         <birth>
-            <date>1597-12-23</date>
-            <placeName type="wikidata" ref="Q156828">Bolesławiec</placeName>
-         </birth>
-         <death>
-            <date>1639-08-20</date>
-            <placeName type="wikidata" ref="Q1792">Danzig</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4485_p3</idno>
-         <idno type="wikidata">Q60946</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118590111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115549.html</idno>
-      </person>
-      <person xml:id="pmb39409">
-         <persName>
-            <surname>Hoffmann von Hoffmannswaldau</surname>
-            <forename>Christian</forename>
-         </persName>
-         <birth>
-            <date>1616-12-25</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1679-04-18</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4485_p4</idno>
-         <idno type="wikidata">Q64278</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118706187</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb39409.html</idno>
-      </person>
-      <person xml:id="pmb52645">
-         <persName>
-            <surname>Gryphius</surname>
-            <forename>Andreas</forename>
-         </persName>
-         <birth>
-            <date>1616-10-02</date>
-            <placeName type="wikidata" ref="Q66013">Głogów</placeName>
-         </birth>
-         <death>
-            <date>1664-07-16</date>
-            <placeName type="wikidata" ref="Q66013">Głogów</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4485_p5</idno>
-         <idno type="wikidata">Q77214</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118543032</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52645.html</idno>
-      </person>
-      <person xml:id="pmb154673">
-         <persName>
-            <surname>Günther</surname>
-            <forename>Johann Christian</forename>
-         </persName>
-         <birth>
-            <date when="1695">1695</date>
-         </birth>
-         <death>
-            <date when="1723">1723</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4485_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154673.html</idno>
-      </person>
-   </back>
 </TEI>

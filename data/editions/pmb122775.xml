@@ -99,33 +99,35 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154061">
+               <persName>
+                  <surname>Charvey</surname>
+                  <forename>Robert</forename>
+               </persName>
+               <occupation>Autor</occupation>
+               <idno type="HB-tv">HB-tv_1996_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154061.html</idno>
+            </person>
+            <person xml:id="pmb154062">
+               <persName>
+                  <surname>Wagen</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_1996_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154062.html</idno>
+            </person>
+            <person xml:id="pmb154063">
+               <persName>
+                  <surname>Krenn</surname>
+                  <forename>Käthe</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_1996_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154063.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154061">
-         <persName>
-            <surname>Charvey</surname>
-            <forename>Robert</forename>
-         </persName>
-         <occupation>Autor</occupation>
-         <idno type="HB-tv">HB-tv_1996_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154061.html</idno>
-      </person>
-      <person xml:id="pmb154062">
-         <persName>
-            <surname>Wagen</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_1996_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154062.html</idno>
-      </person>
-      <person xml:id="pmb154063">
-         <persName>
-            <surname>Krenn</surname>
-            <forename>Käthe</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_1996_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154063.html</idno>
-      </person>
-   </back>
 </TEI>

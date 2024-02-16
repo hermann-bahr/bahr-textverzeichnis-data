@@ -81,59 +81,61 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156042">
+               <persName>
+                  <surname>Faßbender</surname>
+                  <forename>Zdenka</forename>
+               </persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1954">1954</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2391_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156042.html</idno>
+            </person>
+            <person xml:id="pmb150837">
+               <persName>
+                  <surname>Szymanowska</surname>
+                  <forename>Maria</forename>
+               </persName>
+               <birth>
+                  <date>1789-12-14</date>
+                  <placeName type="wikidata" ref="Q270">Warschau</placeName>
+               </birth>
+               <death>
+                  <date>1831-07-24</date>
+                  <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2391_p2</idno>
+               <idno type="wikidata">Q260610</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/117392359</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150837.html</idno>
+            </person>
+            <person xml:id="pmb150840">
+               <persName>
+                  <surname>Milder-Hauptmann</surname>
+                  <forename>Pauline Anna</forename>
+               </persName>
+               <birth>
+                  <date>1785-12-13</date>
+                  <placeName type="wikidata" ref="Q16869">Konstantinopel</placeName>
+               </birth>
+               <death>
+                  <date>1838-05-29</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2391_p3</idno>
+               <idno type="wikidata">Q86333</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/117041556</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150840.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156042">
-         <persName>
-            <surname>Faßbender</surname>
-            <forename>Zdenka</forename>
-         </persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1954">1954</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2391_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156042.html</idno>
-      </person>
-      <person xml:id="pmb150837">
-         <persName>
-            <surname>Szymanowska</surname>
-            <forename>Maria</forename>
-         </persName>
-         <birth>
-            <date>1789-12-14</date>
-            <placeName type="wikidata" ref="Q270">Warschau</placeName>
-         </birth>
-         <death>
-            <date>1831-07-24</date>
-            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2391_p2</idno>
-         <idno type="wikidata">Q260610</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/117392359</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150837.html</idno>
-      </person>
-      <person xml:id="pmb150840">
-         <persName>
-            <surname>Milder-Hauptmann</surname>
-            <forename>Pauline Anna</forename>
-         </persName>
-         <birth>
-            <date>1785-12-13</date>
-            <placeName type="wikidata" ref="Q16869">Konstantinopel</placeName>
-         </birth>
-         <death>
-            <date>1838-05-29</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2391_p3</idno>
-         <idno type="wikidata">Q86333</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/117041556</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150840.html</idno>
-      </person>
-   </back>
 </TEI>

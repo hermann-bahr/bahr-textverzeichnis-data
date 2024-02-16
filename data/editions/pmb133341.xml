@@ -92,127 +92,89 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb14328">
+               <persName>
+                  <surname>Blumenthal</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date>1852-03-13</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1917-04-24</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1443_p2</idno>
+               <idno type="wikidata">Q71567</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+            <person xml:id="pmb154281">
+               <persName>
+                  <surname>Retty</surname>
+                  <forename>Rudolf</forename>
+               </persName>
+               <birth>
+                  <date when="1846">1846</date>
+               </birth>
+               <death>
+                  <date when="1913">1913</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4645_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154281.html</idno>
+            </person>
+            <person xml:id="pmb156752">
+               <persName>
+                  <surname>Amon</surname>
+                  <forename>Anton</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_471_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156752.html</idno>
+            </person>
+            <person xml:id="pmb156753">
+               <persName>
+                  <surname>Weiß</surname>
+                  <forename>Theodor</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_471_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156753.html</idno>
+            </person>
+            <person xml:id="pmb153622">
+               <persName>
+                  <surname>Großmüller</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2332_p4</idno>
+               <idno type="wikidata">Q689208</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb14328">
-         <persName>
-            <surname>Blumenthal</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date>1852-03-13</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1917-04-24</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1443_p2</idno>
-         <idno type="wikidata">Q71567</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-      <person xml:id="pmb154281">
-         <persName>
-            <surname>Retty</surname>
-            <forename>Rudolf</forename>
-         </persName>
-         <birth>
-            <date when="1846">1846</date>
-         </birth>
-         <death>
-            <date when="1913">1913</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4645_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154281.html</idno>
-      </person>
-      <person xml:id="pmb156752">
-         <persName>
-            <surname>Amon</surname>
-            <forename>Anton</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_471_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156752.html</idno>
-      </person>
-      <person xml:id="pmb156753">
-         <persName>
-            <surname>Weiß</surname>
-            <forename>Theodor</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_471_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156753.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2332_p4</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2384_p5</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_557_p5</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_471_p6</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-      <person xml:id="pmb153622">
-         <persName>
-            <surname>Großmüller</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_469_p6</idno>
-         <idno type="wikidata">Q689208</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153622.html</idno>
-      </person>
-   </back>
 </TEI>

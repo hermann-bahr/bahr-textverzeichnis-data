@@ -87,31 +87,33 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154224">
+               <persName>
+                  <surname>Solling</surname>
+                  <forename>Max</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2326_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154224.html</idno>
+            </person>
+            <person xml:id="pmb154225">
+               <persName>
+                  <surname>Jules</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2326_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154225.html</idno>
+            </person>
+            <person xml:id="pmb154226">
+               <persName>
+                  <surname>Popp</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2326_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154226.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154224">
-         <persName>
-            <surname>Solling</surname>
-            <forename>Max</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2326_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154224.html</idno>
-      </person>
-      <person xml:id="pmb154225">
-         <persName>
-            <surname>Jules</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2326_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154225.html</idno>
-      </person>
-      <person xml:id="pmb154226">
-         <persName>
-            <surname>Popp</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2326_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154226.html</idno>
-      </person>
-   </back>
 </TEI>

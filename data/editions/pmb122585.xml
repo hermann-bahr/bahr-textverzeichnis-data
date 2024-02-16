@@ -86,39 +86,41 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153975">
+               <persName>
+                  <surname>Moreno</surname>
+                  <forename>Marguerite</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <birth>
+                  <date when="1871">1871</date>
+               </birth>
+               <death>
+                  <date when="1948">1948</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2338_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153975.html</idno>
+            </person>
+            <person xml:id="pmb153976">
+               <persName>
+                  <surname>Kögl</surname>
+                  <forename>Cornelia</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2338_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153976.html</idno>
+            </person>
+            <person xml:id="pmb153977">
+               <persName>
+                  <surname>Friedmann</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2338_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153977.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153975">
-         <persName>
-            <surname>Moreno</surname>
-            <forename>Marguerite</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <birth>
-            <date when="1871">1871</date>
-         </birth>
-         <death>
-            <date when="1948">1948</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2338_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153975.html</idno>
-      </person>
-      <person xml:id="pmb153976">
-         <persName>
-            <surname>Kögl</surname>
-            <forename>Cornelia</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2338_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153976.html</idno>
-      </person>
-      <person xml:id="pmb153977">
-         <persName>
-            <surname>Friedmann</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2338_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153977.html</idno>
-      </person>
-   </back>
 </TEI>

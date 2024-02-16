@@ -89,34 +89,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154051">
+               <persName>
+                  <surname>Talwyce</surname>
+                  <forename>Robert</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2233_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154051.html</idno>
+            </person>
+            <person xml:id="pmb154052">
+               <persName>
+                  <surname>Godai</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <birth>
+                  <date when="1864">1864</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_2233_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154052.html</idno>
+            </person>
+            <person xml:id="pmb154053">
+               <persName>
+                  <surname>Hoheneck</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2233_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154053.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154051">
-         <persName>
-            <surname>Talwyce</surname>
-            <forename>Robert</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2233_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154051.html</idno>
-      </person>
-      <person xml:id="pmb154052">
-         <persName>
-            <surname>Godai</surname>
-            <forename>Richard</forename>
-         </persName>
-         <birth>
-            <date when="1864">1864</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_2233_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154052.html</idno>
-      </person>
-      <person xml:id="pmb154053">
-         <persName>
-            <surname>Hoheneck</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2233_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154053.html</idno>
-      </person>
-   </back>
 </TEI>

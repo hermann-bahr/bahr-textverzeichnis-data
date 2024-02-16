@@ -88,78 +88,53 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154580">
+               <persName>
+                  <surname>Houssaye</surname>
+                  <forename>Henri</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2243_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154580.html</idno>
+            </person>
+            <person xml:id="pmb153639">
+               <persName>
+                  <surname>Herakles</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2243_p2</idno>
+               <idno type="wikidata">Q447770</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153639.html</idno>
+            </person>
+            <person xml:id="pmb154581">
+               <persName>
+                  <surname>Gaius Iulius Caesar</surname>
+               </persName>
+               <birth>
+                  <date when="0100">100</date>
+               </birth>
+               <death>
+                  <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2243_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154581.html</idno>
+            </person>
+            <person xml:id="pmb154582">
+               <persName>
+                  <surname>Pompeijus</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2243_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154582.html</idno>
+            </person>
+            <person xml:id="pmb154583">
+               <persName>
+                  <surname>Kleopatra</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2243_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154583.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154580">
-         <persName>
-            <surname>Houssaye</surname>
-            <forename>Henri</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2243_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154580.html</idno>
-      </person>
-      <person xml:id="pmb153639">
-         <persName>
-            <surname>Herakles</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2243_p2</idno>
-         <idno type="wikidata">Q447770</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153639.html</idno>
-      </person>
-      <person xml:id="pmb153639">
-         <persName>
-            <surname>Herakles</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3509_p8</idno>
-         <idno type="wikidata">Q447770</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153639.html</idno>
-      </person>
-      <person xml:id="pmb153639">
-         <persName>
-            <surname>Herakles</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_902_p1</idno>
-         <idno type="wikidata">Q447770</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153639.html</idno>
-      </person>
-      <person xml:id="pmb153639">
-         <persName>
-            <surname>Herakles</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3414_p2</idno>
-         <idno type="wikidata">Q447770</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153639.html</idno>
-      </person>
-      <person xml:id="pmb154581">
-         <persName>
-            <surname>Gaius Iulius Caesar</surname>
-         </persName>
-         <birth>
-            <date when="0100">100</date>
-         </birth>
-         <death>
-            <date when-custom="44 v.u.Z.">44 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2243_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154581.html</idno>
-      </person>
-      <person xml:id="pmb154582">
-         <persName>
-            <surname>Pompeijus</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2243_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154582.html</idno>
-      </person>
-      <person xml:id="pmb154583">
-         <persName>
-            <surname>Kleopatra</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2243_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154583.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -111,839 +111,103 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb152138">
+               <persName>
+                  <surname>Piccinni</surname>
+                  <forename>Niccolò</forename>
+               </persName>
+               <birth>
+                  <date>1728-01-16</date>
+                  <placeName type="wikidata" ref="Q3519">Bari</placeName>
+               </birth>
+               <death>
+                  <date>1800-05-07</date>
+                  <placeName type="wikidata" ref="Q1241308">Passy</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2800_p1</idno>
+               <idno type="wikidata">Q310687</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119314061</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152138.html</idno>
+            </person>
+            <person xml:id="pmb148681">
+               <persName>
+                  <surname>Piloty</surname>
+                  <forename>Carl Theodor von</forename>
+               </persName>
+               <birth>
+                  <date>1826-10-01</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </birth>
+               <death>
+                  <date>1886-07-21</date>
+                  <placeName type="wikidata" ref="Q532939">Münsing</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4053_p9</idno>
+               <idno type="wikidata">Q505758</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118641662</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148681.html</idno>
+            </person>
+            <person xml:id="pmb114908">
+               <persName>
+                  <surname>Kaulbach</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+               <birth>
+                  <date>1805-10-15</date>
+                  <placeName type="wikidata" ref="Q498078">Bad Arolsen</placeName>
+               </birth>
+               <death>
+                  <date>1874-04-07</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1145_p3</idno>
+               <idno type="wikidata">Q604107</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118560751</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114908.html</idno>
+            </person>
+            <person xml:id="pmb152141">
+               <persName>
+                  <surname>Spontini</surname>
+                  <forename>Gaspare Luigi</forename>
+               </persName>
+               <birth>
+                  <date>1774-11-14</date>
+                  <placeName type="wikidata" ref="Q124139">Maiolati Spontini</placeName>
+               </birth>
+               <death>
+                  <date>1851-01-24</date>
+                  <placeName type="wikidata" ref="Q124139">Maiolati Spontini</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2800_p4</idno>
+               <idno type="wikidata">Q168485</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118616374</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152141.html</idno>
+            </person>
+            <person xml:id="pmb3272">
+               <persName>
+                  <surname>Molière</surname>
+               </persName>
+               <birth>
+                  <date>1622-01-15</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1673-02-17</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_115_p10</idno>
+               <idno type="wikidata">Q687</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb152138">
-         <persName>
-            <surname>Piccinni</surname>
-            <forename>Niccolò</forename>
-         </persName>
-         <birth>
-            <date>1728-01-16</date>
-            <placeName type="wikidata" ref="Q3519">Bari</placeName>
-         </birth>
-         <death>
-            <date>1800-05-07</date>
-            <placeName type="wikidata" ref="Q1241308">Passy</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2800_p1</idno>
-         <idno type="wikidata">Q310687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119314061</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152138.html</idno>
-      </person>
-      <person xml:id="pmb148681">
-         <persName>
-            <surname>Piloty</surname>
-            <forename>Carl Theodor von</forename>
-         </persName>
-         <birth>
-            <date>1826-10-01</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </birth>
-         <death>
-            <date>1886-07-21</date>
-            <placeName type="wikidata" ref="Q532939">Münsing</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4053_p9</idno>
-         <idno type="wikidata">Q505758</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118641662</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148681.html</idno>
-      </person>
-      <person xml:id="pmb114908">
-         <persName>
-            <surname>Kaulbach</surname>
-            <forename>Wilhelm von</forename>
-         </persName>
-         <birth>
-            <date>1805-10-15</date>
-            <placeName type="wikidata" ref="Q498078">Bad Arolsen</placeName>
-         </birth>
-         <death>
-            <date>1874-04-07</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1145_p3</idno>
-         <idno type="wikidata">Q604107</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560751</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114908.html</idno>
-      </person>
-      <person xml:id="pmb152141">
-         <persName>
-            <surname>Spontini</surname>
-            <forename>Gaspare Luigi</forename>
-         </persName>
-         <birth>
-            <date>1774-11-14</date>
-            <placeName type="wikidata" ref="Q124139">Maiolati Spontini</placeName>
-         </birth>
-         <death>
-            <date>1851-01-24</date>
-            <placeName type="wikidata" ref="Q124139">Maiolati Spontini</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2800_p4</idno>
-         <idno type="wikidata">Q168485</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118616374</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152141.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_115_p10</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3839_p2</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1994_p3</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1991_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2551_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1816_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2497_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3863_p2</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3718_p4</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1157_p12</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4852_p10</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3360_p7</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_151_p19</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1401_p43</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4885_p3</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3404_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3760_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_833_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1363_p93</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3189_p9</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1967_p2</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1990_p7</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_759_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_748_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_54_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2836_p7</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2832_p8</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_412_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3828_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_372_p4</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_368_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2800_p5</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2762_p18</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2581_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_958_p6</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_306_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_121_p4</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2687_p12</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2681_p1</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2665_p17</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2664_p2</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-      <person xml:id="pmb3272">
-         <persName>
-            <surname>Molière</surname>
-         </persName>
-         <birth>
-            <date>1622-01-15</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1673-02-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2636_p16</idno>
-         <idno type="wikidata">Q687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -96,94 +96,60 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb150036">
+               <persName>
+                  <surname>Wolf Dietrich von Raitenau</surname>
+               </persName>
+               <birth>
+                  <date>1559-03-26</date>
+                  <placeName type="wikidata" ref="Q1737">Bregenz</placeName>
+               </birth>
+               <death>
+                  <date>1617-01-16</date>
+                  <placeName type="wikidata" ref="Q679292">Festung Hohensalzburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3377_p16</idno>
+               <idno type="wikidata">Q251055</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118597973</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150036.html</idno>
+            </person>
+            <person xml:id="pmb150506">
+               <persName>
+                  <surname>Mörk von Mörkenstein</surname>
+                  <forename>Alexander</forename>
+               </persName>
+               <birth>
+                  <date>1887-12-04</date>
+                  <placeName type="wikidata" ref="Q208473">Przemyśl</placeName>
+               </birth>
+               <death>
+                  <date>1914-10-23</date>
+                  <placeName type="wikidata" ref="Q983983">Nisko</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5313_p1</idno>
+               <idno type="wikidata">Q2642709</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118883267</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150506.html</idno>
+            </person>
+            <person xml:id="pmb154687">
+               <persName>
+                  <surname>Friedrich II. von Preußen</surname>
+                  <forename>»der Große«</forename>
+               </persName>
+               <birth>
+                  <date when="1712">1712</date>
+               </birth>
+               <death>
+                  <date when="1786">1786</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1308_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154687.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb150036">
-         <persName>
-            <surname>Wolf Dietrich von Raitenau</surname>
-         </persName>
-         <birth>
-            <date>1559-03-26</date>
-            <placeName type="wikidata" ref="Q1737">Bregenz</placeName>
-         </birth>
-         <death>
-            <date>1617-01-16</date>
-            <placeName type="wikidata" ref="Q679292">Festung Hohensalzburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3377_p16</idno>
-         <idno type="wikidata">Q251055</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118597973</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150036.html</idno>
-      </person>
-      <person xml:id="pmb150036">
-         <persName>
-            <surname>Wolf Dietrich von Raitenau</surname>
-         </persName>
-         <birth>
-            <date>1559-03-26</date>
-            <placeName type="wikidata" ref="Q1737">Bregenz</placeName>
-         </birth>
-         <death>
-            <date>1617-01-16</date>
-            <placeName type="wikidata" ref="Q679292">Festung Hohensalzburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5252_p1</idno>
-         <idno type="wikidata">Q251055</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118597973</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150036.html</idno>
-      </person>
-      <person xml:id="pmb150036">
-         <persName>
-            <surname>Wolf Dietrich von Raitenau</surname>
-         </persName>
-         <birth>
-            <date>1559-03-26</date>
-            <placeName type="wikidata" ref="Q1737">Bregenz</placeName>
-         </birth>
-         <death>
-            <date>1617-01-16</date>
-            <placeName type="wikidata" ref="Q679292">Festung Hohensalzburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5451_p1</idno>
-         <idno type="wikidata">Q251055</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118597973</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150036.html</idno>
-      </person>
-      <person xml:id="pmb150506">
-         <persName>
-            <surname>Mörk von Mörkenstein</surname>
-            <forename>Alexander</forename>
-         </persName>
-         <birth>
-            <date>1887-12-04</date>
-            <placeName type="wikidata" ref="Q208473">Przemyśl</placeName>
-         </birth>
-         <death>
-            <date>1914-10-23</date>
-            <placeName type="wikidata" ref="Q983983">Nisko</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5313_p1</idno>
-         <idno type="wikidata">Q2642709</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118883267</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150506.html</idno>
-      </person>
-      <person xml:id="pmb154687">
-         <persName>
-            <surname>Friedrich II. von Preußen</surname>
-            <forename>»der Große«</forename>
-         </persName>
-         <birth>
-            <date when="1712">1712</date>
-         </birth>
-         <death>
-            <date when="1786">1786</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1308_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154687.html</idno>
-      </person>
-   </back>
 </TEI>

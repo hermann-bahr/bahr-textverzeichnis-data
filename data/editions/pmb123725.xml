@@ -84,31 +84,33 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154530">
+               <persName>
+                  <surname>Lindau</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2359_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154530.html</idno>
+            </person>
+            <person xml:id="pmb154531">
+               <persName>
+                  <surname>Dwořak</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2359_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154531.html</idno>
+            </person>
+            <person xml:id="pmb154532">
+               <persName>
+                  <surname>Rauch</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2359_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154532.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154530">
-         <persName>
-            <surname>Lindau</surname>
-            <forename>Carl</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2359_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154530.html</idno>
-      </person>
-      <person xml:id="pmb154531">
-         <persName>
-            <surname>Dwořak</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2359_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154531.html</idno>
-      </person>
-      <person xml:id="pmb154532">
-         <persName>
-            <surname>Rauch</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2359_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154532.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -99,45 +99,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114458">
+               <persName>
+                  <surname>Matisse</surname>
+                  <forename>Henri</forename>
+               </persName>
+               <birth>
+                  <date>1869-12-31</date>
+                  <placeName type="wikidata" ref="Q329103">Le Cateau-Cambrésis</placeName>
+               </birth>
+               <death>
+                  <date>1954-11-03</date>
+                  <placeName type="wikidata" ref="Q33959">Nizza</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3466_p1</idno>
+               <idno type="wikidata">Q5589</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118578847</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114458.html</idno>
+            </person>
+            <person xml:id="pmb150812">
+               <persName>
+                  <surname>Pechstein</surname>
+                  <forename>Hermann Max</forename>
+               </persName>
+               <birth>
+                  <date>1881-12-31</date>
+                  <placeName type="wikidata" ref="Q3778">Zwickau</placeName>
+               </birth>
+               <death>
+                  <date>1955-06-29</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3467_p2</idno>
+               <idno type="wikidata">Q162105</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118592335</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150812.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114458">
-         <persName>
-            <surname>Matisse</surname>
-            <forename>Henri</forename>
-         </persName>
-         <birth>
-            <date>1869-12-31</date>
-            <placeName type="wikidata" ref="Q329103">Le Cateau-Cambrésis</placeName>
-         </birth>
-         <death>
-            <date>1954-11-03</date>
-            <placeName type="wikidata" ref="Q33959">Nizza</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3466_p1</idno>
-         <idno type="wikidata">Q5589</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578847</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114458.html</idno>
-      </person>
-      <person xml:id="pmb150812">
-         <persName>
-            <surname>Pechstein</surname>
-            <forename>Hermann Max</forename>
-         </persName>
-         <birth>
-            <date>1881-12-31</date>
-            <placeName type="wikidata" ref="Q3778">Zwickau</placeName>
-         </birth>
-         <death>
-            <date>1955-06-29</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3467_p2</idno>
-         <idno type="wikidata">Q162105</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592335</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150812.html</idno>
-      </person>
-   </back>
 </TEI>

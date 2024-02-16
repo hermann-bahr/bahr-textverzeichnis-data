@@ -110,16 +110,18 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153981">
+               <persName>
+                  <surname>Schwanau</surname>
+                  <forename>Toni</forename>
+               </persName>
+               <occupation>Schauspieler und Schriftsteller</occupation>
+               <idno type="HB-tv">HB-tv_2021_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153981.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153981">
-         <persName>
-            <surname>Schwanau</surname>
-            <forename>Toni</forename>
-         </persName>
-         <occupation>Schauspieler und Schriftsteller</occupation>
-         <idno type="HB-tv">HB-tv_2021_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153981.html</idno>
-      </person>
-   </back>
 </TEI>

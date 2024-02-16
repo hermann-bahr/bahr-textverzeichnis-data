@@ -85,16 +85,18 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154708">
+               <persName>
+                  <surname>Lammasch</surname>
+                  <forename>Marga</forename>
+               </persName>
+               <occupation>Tochter von Heinrich L. </occupation>
+               <idno type="HB-tv">HB-tv_6734_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154708.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154708">
-         <persName>
-            <surname>Lammasch</surname>
-            <forename>Marga</forename>
-         </persName>
-         <occupation>Tochter von Heinrich L. </occupation>
-         <idno type="HB-tv">HB-tv_6734_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154708.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -114,45 +114,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148790">
+               <persName>
+                  <surname>Degas</surname>
+                  <forename>Edgar</forename>
+               </persName>
+               <birth>
+                  <date>1834-07-19</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1917-09-27</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1929_p1</idno>
+               <idno type="wikidata">Q46373</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118524291</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148790.html</idno>
+            </person>
+            <person xml:id="pmb9491">
+               <persName>
+                  <surname>Renoir</surname>
+                  <forename>Pierre-Auguste</forename>
+               </persName>
+               <birth>
+                  <date>1841-02-25</date>
+                  <placeName type="wikidata" ref="Q45656">Limoges</placeName>
+               </birth>
+               <death>
+                  <date>1919-12-03</date>
+                  <placeName type="wikidata" ref="Q193832">Cagnes-sur-Mer</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3608_p2</idno>
+               <idno type="wikidata">Q39931</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118599755</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb9491.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148790">
-         <persName>
-            <surname>Degas</surname>
-            <forename>Edgar</forename>
-         </persName>
-         <birth>
-            <date>1834-07-19</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1917-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1929_p1</idno>
-         <idno type="wikidata">Q46373</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524291</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148790.html</idno>
-      </person>
-      <person xml:id="pmb9491">
-         <persName>
-            <surname>Renoir</surname>
-            <forename>Pierre-Auguste</forename>
-         </persName>
-         <birth>
-            <date>1841-02-25</date>
-            <placeName type="wikidata" ref="Q45656">Limoges</placeName>
-         </birth>
-         <death>
-            <date>1919-12-03</date>
-            <placeName type="wikidata" ref="Q193832">Cagnes-sur-Mer</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3608_p2</idno>
-         <idno type="wikidata">Q39931</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118599755</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb9491.html</idno>
-      </person>
-   </back>
 </TEI>

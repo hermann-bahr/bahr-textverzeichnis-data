@@ -87,74 +87,76 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148793">
+               <persName>
+                  <surname>Chatrian</surname>
+                  <forename>Alexandre</forename>
+               </persName>
+               <birth>
+                  <date>1826-12-18</date>
+                  <placeName type="wikidata" ref="Q24936374"/>
+               </birth>
+               <death>
+                  <date>1890-09-03</date>
+                  <placeName type="wikidata" ref="Q244716">Villemomble</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1968_p1</idno>
+               <idno type="wikidata">Q2833544</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118815024</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148793.html</idno>
+            </person>
+            <person xml:id="pmb148798">
+               <persName>
+                  <surname>Erckmann</surname>
+                  <forename>Émile</forename>
+               </persName>
+               <birth>
+                  <date>1822-05-20</date>
+                  <placeName type="wikidata" ref="Q22160">Phalsbourg</placeName>
+               </birth>
+               <death>
+                  <date>1899-03-14</date>
+                  <placeName type="wikidata" ref="Q208794">Lunéville</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1968_p2</idno>
+               <idno type="wikidata">Q3246593</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118812890</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148798.html</idno>
+            </person>
+            <person xml:id="pmb154097">
+               <persName>
+                  <surname>Got</surname>
+                  <forename>François Jules Edmond</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <birth>
+                  <date when="1822">1822</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1968_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154097.html</idno>
+            </person>
+            <person xml:id="pmb154098">
+               <persName>
+                  <surname>Lobe</surname>
+                  <forename>Theodor</forename>
+               </persName>
+               <birth>
+                  <date when="1833">1833</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1968_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154098.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148793">
-         <persName>
-            <surname>Chatrian</surname>
-            <forename>Alexandre</forename>
-         </persName>
-         <birth>
-            <date>1826-12-18</date>
-            <placeName type="wikidata" ref="Q24936374"/>
-         </birth>
-         <death>
-            <date>1890-09-03</date>
-            <placeName type="wikidata" ref="Q244716">Villemomble</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1968_p1</idno>
-         <idno type="wikidata">Q2833544</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118815024</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148793.html</idno>
-      </person>
-      <person xml:id="pmb148798">
-         <persName>
-            <surname>Erckmann</surname>
-            <forename>Émile</forename>
-         </persName>
-         <birth>
-            <date>1822-05-20</date>
-            <placeName type="wikidata" ref="Q22160">Phalsbourg</placeName>
-         </birth>
-         <death>
-            <date>1899-03-14</date>
-            <placeName type="wikidata" ref="Q208794">Lunéville</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1968_p2</idno>
-         <idno type="wikidata">Q3246593</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118812890</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148798.html</idno>
-      </person>
-      <person xml:id="pmb154097">
-         <persName>
-            <surname>Got</surname>
-            <forename>François Jules Edmond</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <birth>
-            <date when="1822">1822</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1968_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154097.html</idno>
-      </person>
-      <person xml:id="pmb154098">
-         <persName>
-            <surname>Lobe</surname>
-            <forename>Theodor</forename>
-         </persName>
-         <birth>
-            <date when="1833">1833</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1968_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154098.html</idno>
-      </person>
-   </back>
 </TEI>

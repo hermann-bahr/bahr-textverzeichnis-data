@@ -92,54 +92,56 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153983">
+               <persName>
+                  <surname>Petri</surname>
+                  <forename>Lili</forename>
+               </persName>
+               <persName type="namensvariante">Amalie Schmitz, verh. Anno</persName>
+               <birth>
+                  <date when-custom="1864/67">1864/67</date>
+               </birth>
+               <death>
+                  <date when="1915">1915</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2545_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153983.html</idno>
+            </person>
+            <person xml:id="pmb154217">
+               <persName>
+                  <surname>Lackner</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2328_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154217.html</idno>
+            </person>
+            <person xml:id="pmb154218">
+               <persName>
+                  <surname>Metzl</surname>
+                  <forename>Ottilie</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2328_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154218.html</idno>
+            </person>
+            <person xml:id="pmb154219">
+               <persName>
+                  <surname>Anatour</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2328_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154219.html</idno>
+            </person>
+            <person xml:id="pmb154220">
+               <persName>
+                  <surname>Krug</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2328_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154220.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153983">
-         <persName>
-            <surname>Petri</surname>
-            <forename>Lili</forename>
-         </persName>
-         <persName type="namensvariante">Amalie Schmitz, verh. Anno</persName>
-         <birth>
-            <date when-custom="1864/67">1864/67</date>
-         </birth>
-         <death>
-            <date when="1915">1915</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2545_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153983.html</idno>
-      </person>
-      <person xml:id="pmb154217">
-         <persName>
-            <surname>Lackner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2328_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154217.html</idno>
-      </person>
-      <person xml:id="pmb154218">
-         <persName>
-            <surname>Metzl</surname>
-            <forename>Ottilie</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2328_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154218.html</idno>
-      </person>
-      <person xml:id="pmb154219">
-         <persName>
-            <surname>Anatour</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2328_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154219.html</idno>
-      </person>
-      <person xml:id="pmb154220">
-         <persName>
-            <surname>Krug</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2328_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154220.html</idno>
-      </person>
-   </back>
 </TEI>

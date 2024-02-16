@@ -77,16 +77,18 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157126">
+               <persName>
+                  <surname>Mediz</surname>
+                  <forename>D.</forename>
+               </persName>
+               <occupation>Künstler</occupation>
+               <idno type="HB-tv">HB-tv_1304_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157126.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157126">
-         <persName>
-            <surname>Mediz</surname>
-            <forename>D.</forename>
-         </persName>
-         <occupation>Künstler</occupation>
-         <idno type="HB-tv">HB-tv_1304_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157126.html</idno>
-      </person>
-   </back>
 </TEI>

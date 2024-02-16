@@ -78,51 +78,53 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+            <person xml:id="pmb151587">
+               <persName>
+                  <surname>Eckmann</surname>
+                  <forename>Otto</forename>
+               </persName>
+               <birth>
+                  <date>1865-11-19</date>
+                  <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
+               </birth>
+               <death>
+                  <date>1902-06-11</date>
+                  <placeName type="wikidata" ref="Q25430">Badenweiler</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_570_p1</idno>
+               <idno type="wikidata">Q456371</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118528831</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151587.html</idno>
+            </person>
+            <person xml:id="pmb156612">
+               <persName>
+                  <surname>Fred</surname>
+                  <forename>W.</forename>
+               </persName>
+               <persName type="namensvariante">Alfred Wechsler</persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1922">1922</date>
+               </death>
+               <idno type="HB-tv">HB-tv_570_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156612.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-      <person xml:id="pmb151587">
-         <persName>
-            <surname>Eckmann</surname>
-            <forename>Otto</forename>
-         </persName>
-         <birth>
-            <date>1865-11-19</date>
-            <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
-         </birth>
-         <death>
-            <date>1902-06-11</date>
-            <placeName type="wikidata" ref="Q25430">Badenweiler</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_570_p1</idno>
-         <idno type="wikidata">Q456371</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118528831</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151587.html</idno>
-      </person>
-      <person xml:id="pmb156612">
-         <persName>
-            <surname>Fred</surname>
-            <forename>W.</forename>
-         </persName>
-         <persName type="namensvariante">Alfred Wechsler</persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1922">1922</date>
-         </death>
-         <idno type="HB-tv">HB-tv_570_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156612.html</idno>
-      </person>
-   </back>
 </TEI>

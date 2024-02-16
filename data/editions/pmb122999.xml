@@ -89,41 +89,43 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153617">
+               <persName>
+                  <surname>Giannini-Novelli</surname>
+                  <forename>Olga</forename>
+               </persName>
+               <birth>
+                  <date>1867-03-07</date>
+                  <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+               </birth>
+               <death>
+                  <date>1961-11-09</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4684_p1</idno>
+               <idno type="wikidata">Q15983071</idno>
+               <sex value="female"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153617.html</idno>
+            </person>
+            <person xml:id="pmb154168">
+               <persName>
+                  <surname>Chiantoni</surname>
+                  <forename>Giannina</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4684_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154168.html</idno>
+            </person>
+            <person xml:id="pmb154169">
+               <persName>
+                  <surname>Ferrati</surname>
+                  <forename>L.</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_4684_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154169.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153617">
-         <persName>
-            <surname>Giannini-Novelli</surname>
-            <forename>Olga</forename>
-         </persName>
-         <birth>
-            <date>1867-03-07</date>
-            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
-         </birth>
-         <death>
-            <date>1961-11-09</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4684_p1</idno>
-         <idno type="wikidata">Q15983071</idno>
-         <sex value="female"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153617.html</idno>
-      </person>
-      <person xml:id="pmb154168">
-         <persName>
-            <surname>Chiantoni</surname>
-            <forename>Giannina</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4684_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154168.html</idno>
-      </person>
-      <person xml:id="pmb154169">
-         <persName>
-            <surname>Ferrati</surname>
-            <forename>L.</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_4684_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154169.html</idno>
-      </person>
-   </back>
 </TEI>

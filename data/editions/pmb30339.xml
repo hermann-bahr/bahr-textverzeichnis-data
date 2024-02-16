@@ -88,39 +88,41 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155491">
+               <persName>
+                  <surname>Hippokrates von Kos</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 460">um 460</date>
+               </birth>
+               <death>
+                  <date when-custom="um 370 v.u.Z.">um 370 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_156_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155491.html</idno>
+            </person>
+            <person xml:id="pmb150074">
+               <persName>
+                  <surname>Stilke</surname>
+                  <forename>Georg</forename>
+               </persName>
+               <birth>
+                  <date>1840-10-14</date>
+                  <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
+               </birth>
+               <death>
+                  <date>1900-11-04</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3373_p5</idno>
+               <idno type="wikidata">Q20754973</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117743801</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150074.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155491">
-         <persName>
-            <surname>Hippokrates von Kos</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 460">um 460</date>
-         </birth>
-         <death>
-            <date when-custom="um 370 v.u.Z.">um 370 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_156_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155491.html</idno>
-      </person>
-      <person xml:id="pmb150074">
-         <persName>
-            <surname>Stilke</surname>
-            <forename>Georg</forename>
-         </persName>
-         <birth>
-            <date>1840-10-14</date>
-            <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
-         </birth>
-         <death>
-            <date>1900-11-04</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3373_p5</idno>
-         <idno type="wikidata">Q20754973</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117743801</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150074.html</idno>
-      </person>
-   </back>
 </TEI>

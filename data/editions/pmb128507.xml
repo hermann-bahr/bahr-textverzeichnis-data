@@ -86,47 +86,49 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155675">
+               <persName>
+                  <surname>Schumpeter</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date when="1883">1883</date>
+               </birth>
+               <death>
+                  <date when="1950">1950</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5308_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155675.html</idno>
+            </person>
+            <person xml:id="pmb113256">
+               <persName>
+                  <surname>Disraeli</surname>
+                  <forename>Benjamin</forename>
+               </persName>
+               <birth>
+                  <date>1804-12-21</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1881-04-19</date>
+                  <placeName type="wikidata" ref="Q124184">Mayfair</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6349_p16</idno>
+               <idno type="wikidata">Q82006</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118526014</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113256.html</idno>
+            </person>
+            <person xml:id="pmb155725">
+               <persName>
+                  <surname>Sebastian</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_5235_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155725.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155675">
-         <persName>
-            <surname>Schumpeter</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date when="1883">1883</date>
-         </birth>
-         <death>
-            <date when="1950">1950</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5308_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155675.html</idno>
-      </person>
-      <person xml:id="pmb113256">
-         <persName>
-            <surname>Disraeli</surname>
-            <forename>Benjamin</forename>
-         </persName>
-         <birth>
-            <date>1804-12-21</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1881-04-19</date>
-            <placeName type="wikidata" ref="Q124184">Mayfair</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6349_p16</idno>
-         <idno type="wikidata">Q82006</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118526014</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113256.html</idno>
-      </person>
-      <person xml:id="pmb155725">
-         <persName>
-            <surname>Sebastian</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5235_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155725.html</idno>
-      </person>
-   </back>
 </TEI>

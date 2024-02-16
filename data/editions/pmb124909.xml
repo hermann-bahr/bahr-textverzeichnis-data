@@ -75,45 +75,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149481">
+               <persName>
+                  <surname>Drake</surname>
+                  <forename>Francis</forename>
+               </persName>
+               <birth>
+                  <date>1540-07-13</date>
+                  <placeName type="wikidata" ref="Q668262">Tavistock</placeName>
+               </birth>
+               <death>
+                  <date>1596-01-27</date>
+                  <placeName type="wikidata" ref="Q797147">Portobelo</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6578_p1</idno>
+               <idno type="wikidata">Q36517</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118527207</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149481.html</idno>
+            </person>
+            <person xml:id="pmb149486">
+               <persName>
+                  <surname>Nelson</surname>
+                  <forename>Horatio</forename>
+               </persName>
+               <birth>
+                  <date>1758-09-29</date>
+                  <placeName type="wikidata" ref="Q1016788">Burnham Thorpe</placeName>
+               </birth>
+               <death>
+                  <date>1805-10-21</date>
+                  <placeName type="wikidata" ref="Q203950">Kap Trafalgar</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6578_p2</idno>
+               <idno type="wikidata">Q83235</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118586939</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149486.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149481">
-         <persName>
-            <surname>Drake</surname>
-            <forename>Francis</forename>
-         </persName>
-         <birth>
-            <date>1540-07-13</date>
-            <placeName type="wikidata" ref="Q668262">Tavistock</placeName>
-         </birth>
-         <death>
-            <date>1596-01-27</date>
-            <placeName type="wikidata" ref="Q797147">Portobelo</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6578_p1</idno>
-         <idno type="wikidata">Q36517</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118527207</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149481.html</idno>
-      </person>
-      <person xml:id="pmb149486">
-         <persName>
-            <surname>Nelson</surname>
-            <forename>Horatio</forename>
-         </persName>
-         <birth>
-            <date>1758-09-29</date>
-            <placeName type="wikidata" ref="Q1016788">Burnham Thorpe</placeName>
-         </birth>
-         <death>
-            <date>1805-10-21</date>
-            <placeName type="wikidata" ref="Q203950">Kap Trafalgar</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6578_p2</idno>
-         <idno type="wikidata">Q83235</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586939</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149486.html</idno>
-      </person>
-   </back>
 </TEI>

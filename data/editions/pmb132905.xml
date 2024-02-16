@@ -111,39 +111,41 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb151091">
+               <persName>
+                  <surname>Deuticke</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <birth>
+                  <date>1850-09-09</date>
+               </birth>
+               <death>
+                  <date>1919-07-02</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3885_p14</idno>
+               <idno type="wikidata">Q9263421</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116087323</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151091.html</idno>
+            </person>
+            <person xml:id="pmb156692">
+               <persName>
+                  <surname>Haas</surname>
+                  <forename>Leo ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2951_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156692.html</idno>
+            </person>
+            <person xml:id="pmb156693">
+               <persName>
+                  <surname>Sirk ?</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2951_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156693.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb151091">
-         <persName>
-            <surname>Deuticke</surname>
-            <forename>Franz</forename>
-         </persName>
-         <birth>
-            <date>1850-09-09</date>
-         </birth>
-         <death>
-            <date>1919-07-02</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3885_p14</idno>
-         <idno type="wikidata">Q9263421</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116087323</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151091.html</idno>
-      </person>
-      <person xml:id="pmb156692">
-         <persName>
-            <surname>Haas</surname>
-            <forename>Leo ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2951_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156692.html</idno>
-      </person>
-      <person xml:id="pmb156693">
-         <persName>
-            <surname>Sirk ?</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2951_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156693.html</idno>
-      </person>
-   </back>
 </TEI>

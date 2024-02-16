@@ -92,40 +92,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148806">
+               <persName>
+                  <surname>Varini</surname>
+                  <forename>Emilia</forename>
+               </persName>
+               <birth>
+                  <date>1867</date>
+                  <placeName type="wikidata" ref="Q3892388">Pallanza</placeName>
+               </birth>
+               <death>
+                  <date>1949-07-29</date>
+                  <placeName type="wikidata" ref="Q490">Mailand</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1907_p1</idno>
+               <idno type="wikidata">Q95714490</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/1062040260</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148806.html</idno>
+            </person>
+            <person xml:id="pmb19039">
+               <persName>
+                  <surname>Kalmar</surname>
+                  <forename>Anni</forename>
+               </persName>
+               <birth>
+                  <date when="1877">1877</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3871_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb19039.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148806">
-         <persName>
-            <surname>Varini</surname>
-            <forename>Emilia</forename>
-         </persName>
-         <birth>
-            <date>1867</date>
-            <placeName type="wikidata" ref="Q3892388">Pallanza</placeName>
-         </birth>
-         <death>
-            <date>1949-07-29</date>
-            <placeName type="wikidata" ref="Q490">Mailand</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1907_p1</idno>
-         <idno type="wikidata">Q95714490</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/1062040260</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148806.html</idno>
-      </person>
-      <person xml:id="pmb19039">
-         <persName>
-            <surname>Kalmar</surname>
-            <forename>Anni</forename>
-         </persName>
-         <birth>
-            <date when="1877">1877</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3871_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb19039.html</idno>
-      </person>
-   </back>
 </TEI>

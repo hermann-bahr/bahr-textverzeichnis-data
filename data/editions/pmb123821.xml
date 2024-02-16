@@ -87,62 +87,64 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154574">
+               <persName>
+                  <surname>Kornau</surname>
+               </persName>
+               <birth>
+                  <date when="1863">1863</date>
+               </birth>
+               <death>
+                  <date when="1939">1939</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2423_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154574.html</idno>
+            </person>
+            <person xml:id="pmb14328">
+               <persName>
+                  <surname>Blumenthal</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date>1852-03-13</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1917-04-24</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1443_p2</idno>
+               <idno type="wikidata">Q71567</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
+            </person>
+            <person xml:id="pmb154575">
+               <persName>
+                  <surname>Weiß</surname>
+                  <forename>Theodor</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2423_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154575.html</idno>
+            </person>
+            <person xml:id="pmb154403">
+               <persName>
+                  <surname>Bukovics von Kis-Alacska</surname>
+                  <forename>Emmerich</forename>
+               </persName>
+               <birth>
+                  <date when="1844">1844</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1677_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154403.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154574">
-         <persName>
-            <surname>Kornau</surname>
-         </persName>
-         <birth>
-            <date when="1863">1863</date>
-         </birth>
-         <death>
-            <date when="1939">1939</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2423_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154574.html</idno>
-      </person>
-      <person xml:id="pmb14328">
-         <persName>
-            <surname>Blumenthal</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date>1852-03-13</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1917-04-24</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1443_p2</idno>
-         <idno type="wikidata">Q71567</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118659111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb14328.html</idno>
-      </person>
-      <person xml:id="pmb154575">
-         <persName>
-            <surname>Weiß</surname>
-            <forename>Theodor</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2423_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154575.html</idno>
-      </person>
-      <person xml:id="pmb154403">
-         <persName>
-            <surname>Bukovics von Kis-Alacska</surname>
-            <forename>Emmerich</forename>
-         </persName>
-         <birth>
-            <date when="1844">1844</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1677_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154403.html</idno>
-      </person>
-   </back>
 </TEI>

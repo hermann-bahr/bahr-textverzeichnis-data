@@ -133,21 +133,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155621">
+               <persName>
+                  <surname>Hauptmann</surname>
+                  <forename>Robert</forename>
+               </persName>
+               <birth>
+                  <date when="1824">1824</date>
+               </birth>
+               <death>
+                  <date when="1898">1898</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3342_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155621.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155621">
-         <persName>
-            <surname>Hauptmann</surname>
-            <forename>Robert</forename>
-         </persName>
-         <birth>
-            <date when="1824">1824</date>
-         </birth>
-         <death>
-            <date when="1898">1898</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3342_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155621.html</idno>
-      </person>
-   </back>
 </TEI>

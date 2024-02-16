@@ -92,25 +92,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154045">
+               <persName>
+                  <surname>Fritz</surname>
+                  <forename>S.</forename>
+               </persName>
+               <occupation>Schriftsteller</occupation>
+               <idno type="HB-tv">HB-tv_2038_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154045.html</idno>
+            </person>
+            <person xml:id="pmb154046">
+               <persName>
+                  <surname>Dewal</surname>
+                  <forename>Marie</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2038_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154046.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154045">
-         <persName>
-            <surname>Fritz</surname>
-            <forename>S.</forename>
-         </persName>
-         <occupation>Schriftsteller</occupation>
-         <idno type="HB-tv">HB-tv_2038_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154045.html</idno>
-      </person>
-      <person xml:id="pmb154046">
-         <persName>
-            <surname>Dewal</surname>
-            <forename>Marie</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2038_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154046.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -81,136 +81,66 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149373">
+               <persName>
+                  <surname>Görres</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1776-01-25</date>
+                  <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
+               </birth>
+               <death>
+                  <date>1848-01-29</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3505_p1</idno>
+               <idno type="wikidata">Q215730</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
+            </person>
+            <person xml:id="pmb150720">
+               <persName>
+                  <surname>Wallraf</surname>
+                  <forename>Max</forename>
+               </persName>
+               <birth>
+                  <date>1859-09-18</date>
+                  <placeName type="wikidata" ref="Q365">Köln</placeName>
+               </birth>
+               <death>
+                  <date>1941-09-06</date>
+                  <placeName type="wikidata" ref="Q266230">Oberstdorf</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4815_p2</idno>
+               <idno type="wikidata">Q1913578</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117127760</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150720.html</idno>
+            </person>
+            <person xml:id="pmb150723">
+               <persName>
+                  <surname>Drews</surname>
+                  <forename>Bill</forename>
+               </persName>
+               <birth>
+                  <date>1870-02-11</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1938-02-17</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4815_p3</idno>
+               <idno type="wikidata">Q862071</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116219459</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150723.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3505_p1</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p58</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p92</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1626_p20</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p58</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb150720">
-         <persName>
-            <surname>Wallraf</surname>
-            <forename>Max</forename>
-         </persName>
-         <birth>
-            <date>1859-09-18</date>
-            <placeName type="wikidata" ref="Q365">Köln</placeName>
-         </birth>
-         <death>
-            <date>1941-09-06</date>
-            <placeName type="wikidata" ref="Q266230">Oberstdorf</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4815_p2</idno>
-         <idno type="wikidata">Q1913578</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117127760</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150720.html</idno>
-      </person>
-      <person xml:id="pmb150723">
-         <persName>
-            <surname>Drews</surname>
-            <forename>Bill</forename>
-         </persName>
-         <birth>
-            <date>1870-02-11</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1938-02-17</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4815_p3</idno>
-         <idno type="wikidata">Q862071</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116219459</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150723.html</idno>
-      </person>
-   </back>
 </TEI>

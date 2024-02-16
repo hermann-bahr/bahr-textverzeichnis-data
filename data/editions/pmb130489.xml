@@ -95,78 +95,80 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb5359">
+               <persName>
+                  <surname>Hugo</surname>
+                  <forename>Victor-Marie</forename>
+               </persName>
+               <birth>
+                  <date>1802-02-26</date>
+                  <placeName type="wikidata" ref="Q37776">Besançon</placeName>
+               </birth>
+               <death>
+                  <date>1885-05-22</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3375_p2</idno>
+               <idno type="wikidata">Q535</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118554654</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5359.html</idno>
+            </person>
+            <person xml:id="pmb52643">
+               <persName>
+                  <surname>Gautier</surname>
+                  <forename>Théophile</forename>
+               </persName>
+               <birth>
+                  <date>1811-08-30</date>
+                  <placeName type="wikidata" ref="Q184023">Tarbes</placeName>
+               </birth>
+               <death>
+                  <date>1872-10-23</date>
+                  <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3665_p9</idno>
+               <idno type="wikidata">Q183713</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11853789X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52643.html</idno>
+            </person>
+            <person xml:id="pmb64937">
+               <persName>
+                  <surname>Coppée</surname>
+                  <forename>François</forename>
+               </persName>
+               <birth>
+                  <date>1842-01-26</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1908-05-23</date>
+                  <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1930_p3</idno>
+               <idno type="wikidata">Q380277</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118670042</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64937.html</idno>
+            </person>
+            <person xml:id="pmb156094">
+               <persName>
+                  <surname>Janin</surname>
+                  <forename>Jules</forename>
+               </persName>
+               <birth>
+                  <date when="1804">1804</date>
+               </birth>
+               <death>
+                  <date when="1874">1874</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3609_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156094.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb5359">
-         <persName>
-            <surname>Hugo</surname>
-            <forename>Victor-Marie</forename>
-         </persName>
-         <birth>
-            <date>1802-02-26</date>
-            <placeName type="wikidata" ref="Q37776">Besançon</placeName>
-         </birth>
-         <death>
-            <date>1885-05-22</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3375_p2</idno>
-         <idno type="wikidata">Q535</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118554654</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5359.html</idno>
-      </person>
-      <person xml:id="pmb52643">
-         <persName>
-            <surname>Gautier</surname>
-            <forename>Théophile</forename>
-         </persName>
-         <birth>
-            <date>1811-08-30</date>
-            <placeName type="wikidata" ref="Q184023">Tarbes</placeName>
-         </birth>
-         <death>
-            <date>1872-10-23</date>
-            <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3665_p9</idno>
-         <idno type="wikidata">Q183713</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11853789X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52643.html</idno>
-      </person>
-      <person xml:id="pmb64937">
-         <persName>
-            <surname>Coppée</surname>
-            <forename>François</forename>
-         </persName>
-         <birth>
-            <date>1842-01-26</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1908-05-23</date>
-            <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1930_p3</idno>
-         <idno type="wikidata">Q380277</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118670042</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64937.html</idno>
-      </person>
-      <person xml:id="pmb156094">
-         <persName>
-            <surname>Janin</surname>
-            <forename>Jules</forename>
-         </persName>
-         <birth>
-            <date when="1804">1804</date>
-         </birth>
-         <death>
-            <date when="1874">1874</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3609_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156094.html</idno>
-      </person>
-   </back>
 </TEI>

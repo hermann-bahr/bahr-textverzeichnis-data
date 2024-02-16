@@ -82,26 +82,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb88138">
+               <persName>
+                  <surname>Lemaître</surname>
+                  <forename>Jules</forename>
+               </persName>
+               <birth>
+                  <date>1853-04-27</date>
+                  <placeName type="wikidata" ref="Q1418689">Vennecy</placeName>
+               </birth>
+               <death>
+                  <date>1914-08-04</date>
+                  <placeName type="wikidata" ref="Q1379724">Tavers</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3665_p2</idno>
+               <idno type="wikidata">Q197935</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118727338</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88138.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb88138">
-         <persName>
-            <surname>Lemaître</surname>
-            <forename>Jules</forename>
-         </persName>
-         <birth>
-            <date>1853-04-27</date>
-            <placeName type="wikidata" ref="Q1418689">Vennecy</placeName>
-         </birth>
-         <death>
-            <date>1914-08-04</date>
-            <placeName type="wikidata" ref="Q1379724">Tavers</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3665_p2</idno>
-         <idno type="wikidata">Q197935</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118727338</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88138.html</idno>
-      </person>
-   </back>
 </TEI>

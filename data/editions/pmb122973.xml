@@ -91,135 +91,118 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154147">
+               <persName>
+                  <surname>Fuchs-Talad</surname>
+                  <forename>Otto</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4701_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154147.html</idno>
+            </person>
+            <person xml:id="pmb148817">
+               <persName>
+                  <surname>d’Ennery</surname>
+                  <forename>Adolphe</forename>
+               </persName>
+               <birth>
+                  <date>1811-06-17</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1899-01-26</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4701_p2</idno>
+               <idno type="wikidata">Q137819</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/10084751X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148817.html</idno>
+            </person>
+            <person xml:id="pmb154036">
+               <persName>
+                  <surname>Niese</surname>
+                  <forename>Johanna »Hansi«</forename>
+               </persName>
+               <birth>
+                  <date when="1875">1875</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2336_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
+            </person>
+            <person xml:id="pmb154148">
+               <persName>
+                  <surname>Nerz</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_4701_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154148.html</idno>
+            </person>
+            <person xml:id="pmb154149">
+               <persName>
+                  <surname>Gartner</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_4701_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154149.html</idno>
+            </person>
+            <person xml:id="pmb154150">
+               <persName>
+                  <surname>Bittner</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_4701_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154150.html</idno>
+            </person>
+            <person xml:id="pmb154151">
+               <persName>
+                  <surname>Palme</surname>
+                  <forename>Mizzi</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4701_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154151.html</idno>
+            </person>
+            <person xml:id="pmb154152">
+               <persName>
+                  <surname>Richter</surname>
+                  <forename>Eugen</forename>
+               </persName>
+               <birth>
+                  <date when="1838">1838</date>
+               </birth>
+               <death>
+                  <date when="1906">1906</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4701_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154152.html</idno>
+            </person>
+            <person xml:id="pmb113667">
+               <persName>
+                  <surname>Guttmann</surname>
+                  <forename>Emil</forename>
+               </persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1917_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113667.html</idno>
+            </person>
+            <person xml:id="pmb154153">
+               <persName>
+                  <surname>Straßni</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_4701_p10</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154153.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154147">
-         <persName>
-            <surname>Fuchs-Talad</surname>
-            <forename>Otto</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4701_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154147.html</idno>
-      </person>
-      <person xml:id="pmb148817">
-         <persName>
-            <surname>d’Ennery</surname>
-            <forename>Adolphe</forename>
-         </persName>
-         <birth>
-            <date>1811-06-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1899-01-26</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4701_p2</idno>
-         <idno type="wikidata">Q137819</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/10084751X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148817.html</idno>
-      </person>
-      <person xml:id="pmb148817">
-         <persName>
-            <surname>d’Ennery</surname>
-            <forename>Adolphe Philippe</forename>
-         </persName>
-         <birth>
-            <date>1811-06-17</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1899-01-26</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2765_p5</idno>
-         <idno type="wikidata">Q137819</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/10084751X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148817.html</idno>
-      </person>
-      <person xml:id="pmb154036">
-         <persName>
-            <surname>Niese</surname>
-            <forename>Johanna »Hansi«</forename>
-         </persName>
-         <birth>
-            <date when="1875">1875</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2336_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
-      </person>
-      <person xml:id="pmb154148">
-         <persName>
-            <surname>Nerz</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_4701_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154148.html</idno>
-      </person>
-      <person xml:id="pmb154149">
-         <persName>
-            <surname>Gartner</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_4701_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154149.html</idno>
-      </person>
-      <person xml:id="pmb154150">
-         <persName>
-            <surname>Bittner</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_4701_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154150.html</idno>
-      </person>
-      <person xml:id="pmb154151">
-         <persName>
-            <surname>Palme</surname>
-            <forename>Mizzi</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4701_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154151.html</idno>
-      </person>
-      <person xml:id="pmb154152">
-         <persName>
-            <surname>Richter</surname>
-            <forename>Eugen</forename>
-         </persName>
-         <birth>
-            <date when="1838">1838</date>
-         </birth>
-         <death>
-            <date when="1906">1906</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4701_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154152.html</idno>
-      </person>
-      <person xml:id="pmb113667">
-         <persName>
-            <surname>Guttmann</surname>
-            <forename>Emil</forename>
-         </persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1917_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113667.html</idno>
-      </person>
-      <person xml:id="pmb154153">
-         <persName>
-            <surname>Straßni</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_4701_p10</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154153.html</idno>
-      </person>
-   </back>
 </TEI>

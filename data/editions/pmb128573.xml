@@ -91,26 +91,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb39082">
+               <persName>
+                  <surname>Masaryk</surname>
+                  <forename>Tomàš Garrigue</forename>
+               </persName>
+               <birth>
+                  <date>1850-03-07</date>
+                  <placeName type="wikidata" ref="Q321778">Hodonín</placeName>
+               </birth>
+               <death>
+                  <date>1937-09-14</date>
+                  <placeName type="wikidata" ref="Q1852483">Lány u Rakovníka</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3880_p3</idno>
+               <idno type="wikidata">Q78492</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118578626</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb39082.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb39082">
-         <persName>
-            <surname>Masaryk</surname>
-            <forename>Tomàš Garrigue</forename>
-         </persName>
-         <birth>
-            <date>1850-03-07</date>
-            <placeName type="wikidata" ref="Q321778">Hodonín</placeName>
-         </birth>
-         <death>
-            <date>1937-09-14</date>
-            <placeName type="wikidata" ref="Q1852483">Lány u Rakovníka</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3880_p3</idno>
-         <idno type="wikidata">Q78492</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578626</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb39082.html</idno>
-      </person>
-   </back>
 </TEI>

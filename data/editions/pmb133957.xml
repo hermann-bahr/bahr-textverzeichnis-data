@@ -101,21 +101,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154152">
+               <persName>
+                  <surname>Richter</surname>
+                  <forename>Eugen</forename>
+               </persName>
+               <birth>
+                  <date when="1838">1838</date>
+               </birth>
+               <death>
+                  <date when="1906">1906</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4701_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154152.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154152">
-         <persName>
-            <surname>Richter</surname>
-            <forename>Eugen</forename>
-         </persName>
-         <birth>
-            <date when="1838">1838</date>
-         </birth>
-         <death>
-            <date when="1906">1906</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4701_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154152.html</idno>
-      </person>
-   </back>
 </TEI>

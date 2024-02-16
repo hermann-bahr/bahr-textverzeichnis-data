@@ -85,14 +85,16 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155903">
+               <persName>
+                  <surname>Ruprecht</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_5344_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155903.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155903">
-         <persName>
-            <surname>Ruprecht</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5344_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155903.html</idno>
-      </person>
-   </back>
 </TEI>

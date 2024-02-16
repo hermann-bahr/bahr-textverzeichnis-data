@@ -85,34 +85,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb7452">
+               <persName>
+                  <surname>Goethe</surname>
+                  <forename>Catharina Elisabeth</forename>
+               </persName>
+               <birth>
+                  <date>1731-02-19</date>
+                  <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
+               </birth>
+               <death>
+                  <date>1808-09-13</date>
+                  <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_984_p1</idno>
+               <idno type="wikidata">Q103757</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118540246</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7452.html</idno>
+            </person>
+            <person xml:id="pmb154677">
+               <persName>
+                  <surname>Wohlbold</surname>
+                  <forename>Hans</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_984_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154677.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb7452">
-         <persName>
-            <surname>Goethe</surname>
-            <forename>Catharina Elisabeth</forename>
-         </persName>
-         <birth>
-            <date>1731-02-19</date>
-            <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
-         </birth>
-         <death>
-            <date>1808-09-13</date>
-            <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_984_p1</idno>
-         <idno type="wikidata">Q103757</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118540246</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7452.html</idno>
-      </person>
-      <person xml:id="pmb154677">
-         <persName>
-            <surname>Wohlbold</surname>
-            <forename>Hans</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_984_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154677.html</idno>
-      </person>
-   </back>
 </TEI>

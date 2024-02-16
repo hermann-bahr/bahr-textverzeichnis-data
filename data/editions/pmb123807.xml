@@ -77,119 +77,91 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154564">
+               <persName>
+                  <surname>Kielmannsegg</surname>
+                  <forename>Eva Mathilde von</forename>
+               </persName>
+               <birth>
+                  <date when="1868">1868</date>
+               </birth>
+               <death>
+                  <date when="1953">1953</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3851_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154564.html</idno>
+            </person>
+            <person xml:id="pmb43745">
+               <persName>
+                  <surname>Tilgner</surname>
+                  <forename>Victor</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2115_p1</idno>
+               <idno type="wikidata">Q326777</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
+            </person>
+            <person xml:id="pmb105878">
+               <persName>
+                  <surname>Straßer</surname>
+                  <forename>Arthur</forename>
+               </persName>
+               <birth>
+                  <date>1854-04-08</date>
+                  <placeName type="wikidata" ref="Q15901">Postojna</placeName>
+               </birth>
+               <death>
+                  <date>1927-08-11</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2119_p1</idno>
+               <idno type="wikidata">Q114129</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/132590484</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb105878.html</idno>
+            </person>
+            <person xml:id="pmb98459">
+               <persName>
+                  <surname>Krämer</surname>
+                  <forename>Johann Victor</forename>
+               </persName>
+               <birth>
+                  <date>1861-08-23</date>
+                  <placeName type="wikidata" ref="Q158242">Adamov</placeName>
+               </birth>
+               <death>
+                  <date>1949-05-06</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3851_p4</idno>
+               <idno type="wikidata">Q1696478</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/129284114</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98459.html</idno>
+            </person>
+            <person xml:id="pmb99125">
+               <persName>
+                  <surname>Lenz</surname>
+                  <forename>Maximilian</forename>
+               </persName>
+               <birth>
+                  <date>1860-10-04</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1948-05-18</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3851_p5</idno>
+               <idno type="wikidata">Q1914015</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/174320426</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb99125.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154564">
-         <persName>
-            <surname>Kielmannsegg</surname>
-            <forename>Eva Mathilde von</forename>
-         </persName>
-         <birth>
-            <date when="1868">1868</date>
-         </birth>
-         <death>
-            <date when="1953">1953</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3851_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154564.html</idno>
-      </person>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2115_p1</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3851_p2</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb43745">
-         <persName>
-            <surname>Tilgner</surname>
-            <forename>Victor</forename>
-         </persName>
-         <birth>
-            <date>1844-10-25</date>
-            <placeName type="wikidata" ref="Q1780">Bratislava</placeName>
-         </birth>
-         <death>
-            <date>1896-04-16</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3586_p15</idno>
-         <idno type="wikidata">Q326777</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/121161919</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43745.html</idno>
-      </person>
-      <person xml:id="pmb105878">
-         <persName>
-            <surname>Straßer</surname>
-            <forename>Arthur</forename>
-         </persName>
-         <birth>
-            <date>1854-04-08</date>
-            <placeName type="wikidata" ref="Q15901">Postojna</placeName>
-         </birth>
-         <death>
-            <date>1927-08-11</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2119_p1</idno>
-         <idno type="wikidata">Q114129</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/132590484</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb105878.html</idno>
-      </person>
-      <person xml:id="pmb98459">
-         <persName>
-            <surname>Krämer</surname>
-            <forename>Johann Victor</forename>
-         </persName>
-         <birth>
-            <date>1861-08-23</date>
-            <placeName type="wikidata" ref="Q158242">Adamov</placeName>
-         </birth>
-         <death>
-            <date>1949-05-06</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3851_p4</idno>
-         <idno type="wikidata">Q1696478</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/129284114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb98459.html</idno>
-      </person>
-      <person xml:id="pmb99125">
-         <persName>
-            <surname>Lenz</surname>
-            <forename>Maximilian</forename>
-         </persName>
-         <birth>
-            <date>1860-10-04</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1948-05-18</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3851_p5</idno>
-         <idno type="wikidata">Q1914015</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/174320426</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb99125.html</idno>
-      </person>
-   </back>
 </TEI>

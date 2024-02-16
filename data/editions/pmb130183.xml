@@ -138,62 +138,46 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149136">
+               <persName>
+                  <surname>Karl VII.</surname>
+               </persName>
+               <birth>
+                  <date>1697-08-06</date>
+                  <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
+               </birth>
+               <death>
+                  <date>1745-01-20</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1308_p1</idno>
+               <idno type="wikidata">Q76736</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118560115</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149136.html</idno>
+            </person>
+            <person xml:id="pmb117058">
+               <persName>
+                  <surname>Rákóczi</surname>
+                  <forename>Francis II.</forename>
+               </persName>
+               <birth>
+                  <date>1676-03-27</date>
+                  <placeName type="wikidata" ref="Q847987">Borša</placeName>
+               </birth>
+               <death>
+                  <date>1735-04-08</date>
+                  <placeName type="wikidata" ref="Q182009">Tekirdağ</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3329_p2</idno>
+               <idno type="wikidata">Q181333</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118812513</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117058.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149136">
-         <persName>
-            <surname>Karl VII.</surname>
-         </persName>
-         <birth>
-            <date>1697-08-06</date>
-            <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
-         </birth>
-         <death>
-            <date>1745-01-20</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1308_p1</idno>
-         <idno type="wikidata">Q76736</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560115</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149136.html</idno>
-      </person>
-      <person xml:id="pmb149136">
-         <persName>
-            <surname>Karl Albrecht von Bayern</surname>
-         </persName>
-         <birth>
-            <date>1697-08-06</date>
-            <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
-         </birth>
-         <death>
-            <date>1745-01-20</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3329_p1</idno>
-         <idno type="wikidata">Q76736</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118560115</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149136.html</idno>
-      </person>
-      <person xml:id="pmb117058">
-         <persName>
-            <surname>Rákóczi</surname>
-            <forename>Francis II.</forename>
-         </persName>
-         <birth>
-            <date>1676-03-27</date>
-            <placeName type="wikidata" ref="Q847987">Borša</placeName>
-         </birth>
-         <death>
-            <date>1735-04-08</date>
-            <placeName type="wikidata" ref="Q182009">Tekirdağ</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3329_p2</idno>
-         <idno type="wikidata">Q181333</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118812513</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117058.html</idno>
-      </person>
-   </back>
 </TEI>

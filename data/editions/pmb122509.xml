@@ -72,45 +72,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148611">
+               <persName>
+                  <surname>Bakunin</surname>
+                  <forename>Michail Aleksandrovič</forename>
+               </persName>
+               <birth>
+                  <date>1814-05-30</date>
+                  <placeName type="wikidata" ref="Q2111332">Prjamuchino</placeName>
+               </birth>
+               <death>
+                  <date>1876-07-01</date>
+                  <placeName type="wikidata" ref="Q70">Bern</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_509_p1</idno>
+               <idno type="wikidata">Q27645</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118506102</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148611.html</idno>
+            </person>
+            <person xml:id="pmb148615">
+               <persName>
+                  <surname>Michel</surname>
+                  <forename>Louise</forename>
+               </persName>
+               <birth>
+                  <date>1830-05-29</date>
+                  <placeName type="wikidata" ref="Q1331799">Vroncourt-la-Côte</placeName>
+               </birth>
+               <death>
+                  <date>1905-01-09</date>
+                  <placeName type="wikidata" ref="Q23482">Marseille</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_509_p2</idno>
+               <idno type="wikidata">Q216092</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118582127</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148615.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148611">
-         <persName>
-            <surname>Bakunin</surname>
-            <forename>Michail Aleksandrovič</forename>
-         </persName>
-         <birth>
-            <date>1814-05-30</date>
-            <placeName type="wikidata" ref="Q2111332">Prjamuchino</placeName>
-         </birth>
-         <death>
-            <date>1876-07-01</date>
-            <placeName type="wikidata" ref="Q70">Bern</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_509_p1</idno>
-         <idno type="wikidata">Q27645</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118506102</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148611.html</idno>
-      </person>
-      <person xml:id="pmb148615">
-         <persName>
-            <surname>Michel</surname>
-            <forename>Louise</forename>
-         </persName>
-         <birth>
-            <date>1830-05-29</date>
-            <placeName type="wikidata" ref="Q1331799">Vroncourt-la-Côte</placeName>
-         </birth>
-         <death>
-            <date>1905-01-09</date>
-            <placeName type="wikidata" ref="Q23482">Marseille</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_509_p2</idno>
-         <idno type="wikidata">Q216092</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118582127</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148615.html</idno>
-      </person>
-   </back>
 </TEI>

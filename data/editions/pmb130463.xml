@@ -108,91 +108,63 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb24515">
+               <persName>
+                  <surname>Schreyvogel</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1768-03-27</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1832-07-28</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2310_p1</idno>
+               <idno type="wikidata">Q94645</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119368579</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb24515.html</idno>
+            </person>
+            <person xml:id="pmb156078">
+               <persName>
+                  <surname>Holbein</surname>
+                  <forename>Franz von</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3622_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156078.html</idno>
+            </person>
+            <person xml:id="pmb156079">
+               <persName>
+                  <surname>Grünne</surname>
+                  <forename>Karl Ludwig von</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3622_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156079.html</idno>
+            </person>
+            <person xml:id="pmb89380">
+               <persName>
+                  <surname>Sandeau</surname>
+                  <forename>Leonard</forename>
+               </persName>
+               <birth>
+                  <date>1811-02-19</date>
+                  <placeName type="wikidata" ref="Q217161">Aubusson</placeName>
+               </birth>
+               <death>
+                  <date>1883-04-24</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1401_p84</idno>
+               <idno type="wikidata">Q609039</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118794361</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb89380.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb24515">
-         <persName>
-            <surname>Schreyvogel</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1768-03-27</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1832-07-28</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2310_p1</idno>
-         <idno type="wikidata">Q94645</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119368579</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb24515.html</idno>
-      </person>
-      <person xml:id="pmb156078">
-         <persName>
-            <surname>Holbein</surname>
-            <forename>Franz von</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3622_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156078.html</idno>
-      </person>
-      <person xml:id="pmb156079">
-         <persName>
-            <surname>Grünne</surname>
-            <forename>Karl Ludwig von</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3622_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156079.html</idno>
-      </person>
-      <person xml:id="pmb89380">
-         <persName>
-            <surname>Sandeau</surname>
-            <forename>Leonard</forename>
-         </persName>
-         <birth>
-            <date>1811-02-19</date>
-            <placeName type="wikidata" ref="Q217161">Aubusson</placeName>
-         </birth>
-         <death>
-            <date>1883-04-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1401_p84</idno>
-         <idno type="wikidata">Q609039</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794361</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb89380.html</idno>
-      </person>
-      <person xml:id="pmb89380">
-         <persName>
-            <surname>Sandeau</surname>
-            <forename>Jules</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3622_p4</idno>
-         <idno type="wikidata">Q609039</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794361</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb89380.html</idno>
-      </person>
-      <person xml:id="pmb89380">
-         <persName>
-            <surname>Sandeau</surname>
-            <forename>Jules</forename>
-         </persName>
-         <birth>
-            <date>1811-02-19</date>
-            <placeName type="wikidata" ref="Q217161">Aubusson</placeName>
-         </birth>
-         <death>
-            <date>1883-04-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2836_p13</idno>
-         <idno type="wikidata">Q609039</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794361</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb89380.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -92,1079 +92,144 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb2142">
+               <persName>
+                  <surname>d’Annunzio</surname>
+                  <forename>Gabriele</forename>
+               </persName>
+               <birth>
+                  <date>1863-03-12</date>
+                  <placeName type="wikidata" ref="Q2704">Pescara</placeName>
+               </birth>
+               <death>
+                  <date>1938-03-01</date>
+                  <placeName type="wikidata" ref="Q104619">Gardone Riviera</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4865_p5</idno>
+               <idno type="wikidata">Q193236</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118503243</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2142.html</idno>
+            </person>
+            <person xml:id="pmb151506">
+               <persName>
+                  <surname>Hahn</surname>
+                  <forename>Hermann</forename>
+               </persName>
+               <birth>
+                  <date>1868-11-28</date>
+                  <placeName type="wikidata" ref="Q631479">Veilsdorf</placeName>
+               </birth>
+               <death>
+                  <date>1945-08-18</date>
+                  <placeName type="wikidata" ref="Q202116">Pullach im Isartal</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1847_p1</idno>
+               <idno type="wikidata">Q828283</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11883245X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151506.html</idno>
+            </person>
+            <person xml:id="pmb116280">
+               <persName>
+                  <surname>Toorop</surname>
+                  <forename>Jan</forename>
+               </persName>
+               <birth>
+                  <date>1858-12-20</date>
+                  <placeName type="wikidata" ref="Q10674">Purworejo</placeName>
+               </birth>
+               <death>
+                  <date>1928-03-03</date>
+                  <placeName type="wikidata" ref="Q36600">Den Haag</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1929_p3</idno>
+               <idno type="wikidata">Q369416</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119295954</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116280.html</idno>
+            </person>
+            <person xml:id="pmb20315">
+               <persName>
+                  <surname>Leonardo da Vinci</surname>
+               </persName>
+               <birth>
+                  <date>1452-04-15</date>
+                  <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
+               </birth>
+               <death>
+                  <date>1519-05-02</date>
+                  <placeName type="wikidata" ref="Q205116">Amboise</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1930_p1</idno>
+               <idno type="wikidata">Q762</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
+            </person>
+            <person xml:id="pmb154737">
+               <persName>
+                  <surname>Rosetti</surname>
+                  <forename>William Michael</forename>
+               </persName>
+               <birth>
+                  <date when="1829">1829</date>
+               </birth>
+               <death>
+                  <date when="1919">1919</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154737.html</idno>
+            </person>
+            <person xml:id="pmb151511">
+               <persName>
+                  <surname>Moreau</surname>
+                  <forename>Gustave</forename>
+               </persName>
+               <birth>
+                  <date>1826-04-06</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1898-04-18</date>
+                  <placeName type="wikidata" ref="Q647">Rennes</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1847_p5</idno>
+               <idno type="wikidata">Q203828</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118583972</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151511.html</idno>
+            </person>
+            <person xml:id="pmb88079">
+               <persName>
+                  <surname>Whistler</surname>
+                  <forename>James Abbott McNeill</forename>
+               </persName>
+               <birth>
+                  <date>1834-07-10</date>
+                  <placeName type="wikidata" ref="Q49162">Lowell</placeName>
+               </birth>
+               <death>
+                  <date>1903-07-17</date>
+                  <placeName type="wikidata" ref="Q743535">Chelsea</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3427_p12</idno>
+               <idno type="wikidata">Q203643</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118632124</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88079.html</idno>
+            </person>
+            <person xml:id="pmb156572">
+               <persName>
+                  <surname>Khnopff</surname>
+                  <forename>Fernand-Edmond-Jean-Marie</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1847_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156572.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb2142">
-         <persName>
-            <surname>d’Annunzio</surname>
-            <forename>Gabriele</forename>
-         </persName>
-         <birth>
-            <date>1863-03-12</date>
-            <placeName type="wikidata" ref="Q2704">Pescara</placeName>
-         </birth>
-         <death>
-            <date>1938-03-01</date>
-            <placeName type="wikidata" ref="Q104619">Gardone Riviera</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p5</idno>
-         <idno type="wikidata">Q193236</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503243</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2142.html</idno>
-      </person>
-      <person xml:id="pmb2142">
-         <persName>
-            <surname>d’ Annunzio</surname>
-            <forename>Gabriele</forename>
-         </persName>
-         <birth>
-            <date>1863-03-12</date>
-            <placeName type="wikidata" ref="Q2704">Pescara</placeName>
-         </birth>
-         <death>
-            <date>1938-03-01</date>
-            <placeName type="wikidata" ref="Q104619">Gardone Riviera</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5329_p2</idno>
-         <idno type="wikidata">Q193236</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503243</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2142.html</idno>
-      </person>
-      <person xml:id="pmb151506">
-         <persName>
-            <surname>Hahn</surname>
-            <forename>Hermann</forename>
-         </persName>
-         <birth>
-            <date>1868-11-28</date>
-            <placeName type="wikidata" ref="Q631479">Veilsdorf</placeName>
-         </birth>
-         <death>
-            <date>1945-08-18</date>
-            <placeName type="wikidata" ref="Q202116">Pullach im Isartal</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1847_p1</idno>
-         <idno type="wikidata">Q828283</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11883245X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151506.html</idno>
-      </person>
-      <person xml:id="pmb116280">
-         <persName>
-            <surname>Toorop</surname>
-            <forename>Jan</forename>
-         </persName>
-         <birth>
-            <date>1858-12-20</date>
-            <placeName type="wikidata" ref="Q10674">Purworejo</placeName>
-         </birth>
-         <death>
-            <date>1928-03-03</date>
-            <placeName type="wikidata" ref="Q36600">Den Haag</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1929_p3</idno>
-         <idno type="wikidata">Q369416</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119295954</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116280.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1930_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p5</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3497_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_977_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4864_p7</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4860_p19</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3370_p11</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3370_p12</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3369_p49</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3361_p8</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3355_p4</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3354_p8</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1491_p10</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5304_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5280_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5446_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5422_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3465_p7</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2185_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_41_p4</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3687_p3</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3427_p8</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3426_p3</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3414_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3411_p3</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3406_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3887_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3300_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1361_p44</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3185_p3</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3183_p9</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_777_p5</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_644_p11</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_620_p4</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1847_p3</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_584_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_572_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2962_p6</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2944_p3</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2941_p18</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2845_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2842_p34</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2837_p10</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_438_p1</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_323_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2724_p2</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_121_p24</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2694_p34</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2691_p12</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p26</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_197_p25</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb20315">
-         <persName>
-            <surname>Leonardo da Vinci</surname>
-         </persName>
-         <birth>
-            <date>1452-04-15</date>
-            <placeName type="wikidata" ref="Q154184">Anchiano</placeName>
-         </birth>
-         <death>
-            <date>1519-05-02</date>
-            <placeName type="wikidata" ref="Q205116">Amboise</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2614_p8</idno>
-         <idno type="wikidata">Q762</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20315.html</idno>
-      </person>
-      <person xml:id="pmb154737">
-         <persName>
-            <surname>Rosetti</surname>
-            <forename>William Michael</forename>
-         </persName>
-         <birth>
-            <date when="1829">1829</date>
-         </birth>
-         <death>
-            <date when="1919">1919</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154737.html</idno>
-      </person>
-      <person xml:id="pmb151511">
-         <persName>
-            <surname>Moreau</surname>
-            <forename>Gustave</forename>
-         </persName>
-         <birth>
-            <date>1826-04-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1898-04-18</date>
-            <placeName type="wikidata" ref="Q647">Rennes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1847_p5</idno>
-         <idno type="wikidata">Q203828</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118583972</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151511.html</idno>
-      </person>
-      <person xml:id="pmb88079">
-         <persName>
-            <surname>Whistler</surname>
-            <forename>James Abbott McNeill</forename>
-         </persName>
-         <birth>
-            <date>1834-07-10</date>
-            <placeName type="wikidata" ref="Q49162">Lowell</placeName>
-         </birth>
-         <death>
-            <date>1903-07-17</date>
-            <placeName type="wikidata" ref="Q743535">Chelsea</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3427_p12</idno>
-         <idno type="wikidata">Q203643</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118632124</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88079.html</idno>
-      </person>
-      <person xml:id="pmb156572">
-         <persName>
-            <surname>Khnopff</surname>
-            <forename>Fernand-Edmond-Jean-Marie</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1847_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156572.html</idno>
-      </person>
-   </back>
 </TEI>

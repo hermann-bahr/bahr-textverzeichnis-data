@@ -87,151 +87,115 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb115790">
+               <persName>
+                  <surname>Puvis de Chavannes</surname>
+                  <forename>Pierre</forename>
+               </persName>
+               <birth>
+                  <date>1824-12-14</date>
+                  <placeName type="wikidata" ref="Q456">Lyon</placeName>
+               </birth>
+               <death>
+                  <date>1898-10-24</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3543_p14</idno>
+               <idno type="wikidata">Q216873</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
+            </person>
+            <person xml:id="pmb88079">
+               <persName>
+                  <surname>Whistler</surname>
+                  <forename>James Abbott McNeill</forename>
+               </persName>
+               <birth>
+                  <date>1834-07-10</date>
+                  <placeName type="wikidata" ref="Q49162">Lowell</placeName>
+               </birth>
+               <death>
+                  <date>1903-07-17</date>
+                  <placeName type="wikidata" ref="Q743535">Chelsea</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3427_p12</idno>
+               <idno type="wikidata">Q203643</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118632124</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88079.html</idno>
+            </person>
+            <person xml:id="pmb112447">
+               <persName>
+                  <surname>Forain</surname>
+                  <forename>Jean-Louis</forename>
+               </persName>
+               <birth>
+                  <date>1852-10-23</date>
+                  <placeName type="wikidata" ref="Q41876">Reims</placeName>
+               </birth>
+               <death>
+                  <date>1931-07-11</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4835_p2</idno>
+               <idno type="wikidata">Q719614</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118684191</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112447.html</idno>
+            </person>
+            <person xml:id="pmb48907">
+               <persName>
+                  <surname>Burne-Jones</surname>
+                  <forename>Edward</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3723_p2</idno>
+               <idno type="wikidata">Q216406</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118517767</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb48907.html</idno>
+            </person>
+            <person xml:id="pmb113850">
+               <persName>
+                  <surname>Khnopff</surname>
+                  <forename>Fernand-Edmond-Jean-Marie</forename>
+               </persName>
+               <birth>
+                  <date>1858-09-12</date>
+                  <placeName type="wikidata" ref="Q13122">Dendermonde</placeName>
+               </birth>
+               <death>
+                  <date>1921-11-12</date>
+                  <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1929_p2</idno>
+               <idno type="wikidata">Q559559</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118561871</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113850.html</idno>
+            </person>
+            <person xml:id="pmb150952">
+               <persName>
+                  <surname>Carrière</surname>
+                  <forename>Eugène</forename>
+               </persName>
+               <birth>
+                  <date>1849-01-16</date>
+                  <placeName type="wikidata" ref="Q245479">Gournay-sur-Marne</placeName>
+               </birth>
+               <death>
+                  <date>1906-03-27</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3429_p7</idno>
+               <idno type="wikidata">Q461464</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118668595</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150952.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb115790">
-         <persName>
-            <surname>Puvis de Chavannes</surname>
-            <forename>Pierre</forename>
-         </persName>
-         <birth>
-            <date>1824-12-14</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </birth>
-         <death>
-            <date>1898-10-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3543_p14</idno>
-         <idno type="wikidata">Q216873</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
-      </person>
-      <person xml:id="pmb88079">
-         <persName>
-            <surname>Whistler</surname>
-            <forename>James Abbott McNeill</forename>
-         </persName>
-         <birth>
-            <date>1834-07-10</date>
-            <placeName type="wikidata" ref="Q49162">Lowell</placeName>
-         </birth>
-         <death>
-            <date>1903-07-17</date>
-            <placeName type="wikidata" ref="Q743535">Chelsea</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3427_p12</idno>
-         <idno type="wikidata">Q203643</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118632124</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88079.html</idno>
-      </person>
-      <person xml:id="pmb112447">
-         <persName>
-            <surname>Forain</surname>
-            <forename>Jean-Louis</forename>
-         </persName>
-         <birth>
-            <date>1852-10-23</date>
-            <placeName type="wikidata" ref="Q41876">Reims</placeName>
-         </birth>
-         <death>
-            <date>1931-07-11</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4835_p2</idno>
-         <idno type="wikidata">Q719614</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118684191</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112447.html</idno>
-      </person>
-      <person xml:id="pmb112447">
-         <persName>
-            <surname>Forain</surname>
-            <forename>Jean Louis</forename>
-         </persName>
-         <birth>
-            <date>1852-10-23</date>
-            <placeName type="wikidata" ref="Q41876">Reims</placeName>
-         </birth>
-         <death>
-            <date>1931-07-11</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2666_p4</idno>
-         <idno type="wikidata">Q719614</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118684191</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112447.html</idno>
-      </person>
-      <person xml:id="pmb48907">
-         <persName>
-            <surname>Burne-Jones</surname>
-            <forename>Edward</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3723_p2</idno>
-         <idno type="wikidata">Q216406</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118517767</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb48907.html</idno>
-      </person>
-      <person xml:id="pmb48907">
-         <persName>
-            <surname>Burne-Jones</surname>
-            <forename>Edward</forename>
-         </persName>
-         <birth>
-            <date>1833-08-28</date>
-            <placeName type="wikidata" ref="Q2256">Birmingham</placeName>
-         </birth>
-         <death>
-            <date>1898-06-17</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1492_p2</idno>
-         <idno type="wikidata">Q216406</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118517767</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb48907.html</idno>
-      </person>
-      <person xml:id="pmb113850">
-         <persName>
-            <surname>Khnopff</surname>
-            <forename>Fernand-Edmond-Jean-Marie</forename>
-         </persName>
-         <birth>
-            <date>1858-09-12</date>
-            <placeName type="wikidata" ref="Q13122">Dendermonde</placeName>
-         </birth>
-         <death>
-            <date>1921-11-12</date>
-            <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1929_p2</idno>
-         <idno type="wikidata">Q559559</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118561871</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113850.html</idno>
-      </person>
-      <person xml:id="pmb150952">
-         <persName>
-            <surname>Carrière</surname>
-            <forename>Eugène</forename>
-         </persName>
-         <birth>
-            <date>1849-01-16</date>
-            <placeName type="wikidata" ref="Q245479">Gournay-sur-Marne</placeName>
-         </birth>
-         <death>
-            <date>1906-03-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3429_p7</idno>
-         <idno type="wikidata">Q461464</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118668595</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150952.html</idno>
-      </person>
-   </back>
 </TEI>

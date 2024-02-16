@@ -100,73 +100,75 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb152444">
+               <persName>
+                  <surname>Naquet</surname>
+                  <forename>Alfred</forename>
+               </persName>
+               <birth>
+                  <date>1834-10-06</date>
+                  <placeName type="wikidata" ref="Q202560">Carpentras</placeName>
+               </birth>
+               <death>
+                  <date>1916-11-10</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2735_p1</idno>
+               <idno type="wikidata">Q2340682</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/128530855</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152444.html</idno>
+            </person>
+            <person xml:id="pmb157107">
+               <persName>
+                  <surname>Hirsch</surname>
+                  <forename>Alphonse</forename>
+               </persName>
+               <birth>
+                  <date when="1843">1843</date>
+               </birth>
+               <death>
+                  <date when="1884">1884</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2735_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157107.html</idno>
+            </person>
+            <person xml:id="pmb88149">
+               <persName>
+                  <surname>Drumont</surname>
+                  <forename>Édouard Adolphe</forename>
+               </persName>
+               <birth>
+                  <date>1844-05-03</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1917-02-05</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1448_p9</idno>
+               <idno type="wikidata">Q274297</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118672517</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88149.html</idno>
+            </person>
+            <person xml:id="pmb157108">
+               <persName>
+                  <surname>Laur</surname>
+                  <forename>Francis</forename>
+               </persName>
+               <birth>
+                  <date when="1844">1844</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2735_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157108.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb152444">
-         <persName>
-            <surname>Naquet</surname>
-            <forename>Alfred</forename>
-         </persName>
-         <birth>
-            <date>1834-10-06</date>
-            <placeName type="wikidata" ref="Q202560">Carpentras</placeName>
-         </birth>
-         <death>
-            <date>1916-11-10</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2735_p1</idno>
-         <idno type="wikidata">Q2340682</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/128530855</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152444.html</idno>
-      </person>
-      <person xml:id="pmb157107">
-         <persName>
-            <surname>Hirsch</surname>
-            <forename>Alphonse</forename>
-         </persName>
-         <birth>
-            <date when="1843">1843</date>
-         </birth>
-         <death>
-            <date when="1884">1884</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2735_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157107.html</idno>
-      </person>
-      <person xml:id="pmb88149">
-         <persName>
-            <surname>Drumont</surname>
-            <forename>Édouard Adolphe</forename>
-         </persName>
-         <birth>
-            <date>1844-05-03</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1917-02-05</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1448_p9</idno>
-         <idno type="wikidata">Q274297</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118672517</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88149.html</idno>
-      </person>
-      <person xml:id="pmb157108">
-         <persName>
-            <surname>Laur</surname>
-            <forename>Francis</forename>
-         </persName>
-         <birth>
-            <date when="1844">1844</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2735_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157108.html</idno>
-      </person>
-   </back>
 </TEI>

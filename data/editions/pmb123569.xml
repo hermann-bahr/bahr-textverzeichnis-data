@@ -78,21 +78,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154439">
+               <persName>
+                  <surname>Ressel</surname>
+                  <forename>Gustav Andreas</forename>
+               </persName>
+               <birth>
+                  <date when="1861">1861</date>
+               </birth>
+               <death>
+                  <date when="1933">1933</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3825_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154439.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154439">
-         <persName>
-            <surname>Ressel</surname>
-            <forename>Gustav Andreas</forename>
-         </persName>
-         <birth>
-            <date when="1861">1861</date>
-         </birth>
-         <death>
-            <date when="1933">1933</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3825_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154439.html</idno>
-      </person>
-   </back>
 </TEI>

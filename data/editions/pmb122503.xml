@@ -79,880 +79,107 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb3124">
+               <persName>
+                  <surname>Voltaire</surname>
+               </persName>
+               <birth>
+                  <date>1694-11-21</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1778-05-30</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2182_p1</idno>
+               <idno type="wikidata">Q9068</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
+            </person>
+            <person xml:id="pmb113780">
+               <persName>
+                  <surname>Dühring</surname>
+                  <forename>Eugen</forename>
+               </persName>
+               <birth>
+                  <date>1833-01-12</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1921-09-21</date>
+                  <placeName type="wikidata" ref="Q2003467">Nowawes</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2182_p2</idno>
+               <idno type="wikidata">Q76583</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118527797</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113780.html</idno>
+            </person>
+            <person xml:id="pmb148599">
+               <persName>
+                  <surname>Henrici</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <birth>
+                  <date>1854-12-10</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1915-07-10</date>
+                  <placeName type="wikidata" ref="Q71163">Döbeln</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2182_p3</idno>
+               <idno type="wikidata">Q104681</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116717769</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148599.html</idno>
+            </person>
+            <person xml:id="pmb148603">
+               <persName>
+                  <surname>Istóczy</surname>
+                  <forename>Győző</forename>
+               </persName>
+               <birth>
+                  <date>1842-11-07</date>
+                  <placeName type="wikidata" ref="Q602807">Táplánszentkereszt</placeName>
+               </birth>
+               <death>
+                  <date>1915-01-09</date>
+                  <placeName type="wikidata" ref="Q1781">Budapest</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2182_p4</idno>
+               <idno type="wikidata">Q701968</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118972820</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148603.html</idno>
+            </person>
+            <person xml:id="pmb153928">
+               <persName>
+                  <surname>Rochefort-Luçay</surname>
+                  <forename>Victor Henri</forename>
+               </persName>
+               <occupation>Marquis de</occupation>
+               <birth>
+                  <date when="1830">1830</date>
+               </birth>
+               <death>
+                  <date when="1913">1913</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2182_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153928.html</idno>
+            </person>
+            <person xml:id="pmb153929">
+               <persName>
+                  <surname>Holubek</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2182_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153929.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2182_p1</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2181_p4</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1676_p3</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4881_p5</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4875_p2</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1147_p2</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1050_p7</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3491_p6</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_55_p6</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4824_p8</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4863_p11</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3373_p2</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1426_p2</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5493_p1</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_157_p1</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3360_p6</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3347_p4</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5982_p1</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5230_p2</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5206_p11</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5183_p1</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_150_p5</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_148_p16</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5381_p1</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5365_p2</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5340_p11</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4818_p1</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3469_p3</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3321_p7</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4426_p7</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4081_p7</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2102_p7</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3292_p2</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1990_p4</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2836_p8</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6616_p10</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2766_p4</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2762_p19</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2747_p5</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2724_p3</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_123_p7</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2676_p25</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb3124">
-         <persName>
-            <surname>Voltaire</surname>
-         </persName>
-         <birth>
-            <date>1694-11-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1778-05-30</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2615_p39</idno>
-         <idno type="wikidata">Q9068</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3124.html</idno>
-      </person>
-      <person xml:id="pmb113780">
-         <persName>
-            <surname>Dühring</surname>
-            <forename>Eugen</forename>
-         </persName>
-         <birth>
-            <date>1833-01-12</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1921-09-21</date>
-            <placeName type="wikidata" ref="Q2003467">Nowawes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2182_p2</idno>
-         <idno type="wikidata">Q76583</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118527797</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113780.html</idno>
-      </person>
-      <person xml:id="pmb148599">
-         <persName>
-            <surname>Henrici</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <birth>
-            <date>1854-12-10</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1915-07-10</date>
-            <placeName type="wikidata" ref="Q71163">Döbeln</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2182_p3</idno>
-         <idno type="wikidata">Q104681</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116717769</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148599.html</idno>
-      </person>
-      <person xml:id="pmb148603">
-         <persName>
-            <surname>Istóczy</surname>
-            <forename>Győző</forename>
-         </persName>
-         <birth>
-            <date>1842-11-07</date>
-            <placeName type="wikidata" ref="Q602807">Táplánszentkereszt</placeName>
-         </birth>
-         <death>
-            <date>1915-01-09</date>
-            <placeName type="wikidata" ref="Q1781">Budapest</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2182_p4</idno>
-         <idno type="wikidata">Q701968</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118972820</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148603.html</idno>
-      </person>
-      <person xml:id="pmb148603">
-         <persName>
-            <surname>Istóczy</surname>
-            <forename>Gyözö</forename>
-         </persName>
-         <birth>
-            <date>1842-11-07</date>
-            <placeName type="wikidata" ref="Q602807">Táplánszentkereszt</placeName>
-         </birth>
-         <death>
-            <date>1915-01-09</date>
-            <placeName type="wikidata" ref="Q1781">Budapest</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4856_p6</idno>
-         <idno type="wikidata">Q701968</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118972820</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148603.html</idno>
-      </person>
-      <person xml:id="pmb153928">
-         <persName>
-            <surname>Rochefort-Luçay</surname>
-            <forename>Victor Henri</forename>
-         </persName>
-         <occupation>Marquis de</occupation>
-         <birth>
-            <date when="1830">1830</date>
-         </birth>
-         <death>
-            <date when="1913">1913</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2182_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153928.html</idno>
-      </person>
-      <person xml:id="pmb153929">
-         <persName>
-            <surname>Holubek</surname>
-            <forename>Franz</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2182_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153929.html</idno>
-      </person>
-   </back>
 </TEI>

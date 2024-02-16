@@ -84,47 +84,49 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154833">
+               <persName>
+                  <surname>Brutus d. i. Marcus Iunius Brutus Caepio</surname>
+               </persName>
+               <birth>
+                  <date when="0085">85</date>
+               </birth>
+               <death>
+                  <date when-custom="42 v.u.Z.">42 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3508_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154833.html</idno>
+            </person>
+            <person xml:id="pmb149356">
+               <persName>
+                  <surname>Leo III.</surname>
+               </persName>
+               <occupation>Papst</occupation>
+               <death>
+                  <date when="0816">816</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3508_p2</idno>
+               <idno type="wikidata">Q132086</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118727486</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149356.html</idno>
+            </person>
+            <person xml:id="pmb154834">
+               <persName>
+                  <surname>Karl der Große</surname>
+               </persName>
+               <birth>
+                  <date when-custom="747/748">747/748</date>
+               </birth>
+               <death>
+                  <date when="0814">814</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3508_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154834.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154833">
-         <persName>
-            <surname>Brutus d. i. Marcus Iunius Brutus Caepio</surname>
-         </persName>
-         <birth>
-            <date when="0085">85</date>
-         </birth>
-         <death>
-            <date when-custom="42 v.u.Z.">42 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3508_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154833.html</idno>
-      </person>
-      <person xml:id="pmb149356">
-         <persName>
-            <surname>Leo III.</surname>
-         </persName>
-         <occupation>Papst</occupation>
-         <death>
-            <date when="0816">816</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3508_p2</idno>
-         <idno type="wikidata">Q132086</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118727486</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149356.html</idno>
-      </person>
-      <person xml:id="pmb154834">
-         <persName>
-            <surname>Karl der Große</surname>
-         </persName>
-         <birth>
-            <date when-custom="747/748">747/748</date>
-         </birth>
-         <death>
-            <date when="0814">814</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3508_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154834.html</idno>
-      </person>
-   </back>
 </TEI>

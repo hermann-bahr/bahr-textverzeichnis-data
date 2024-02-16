@@ -83,16 +83,18 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155687">
+               <persName>
+                  <surname>Uitz</surname>
+                  <forename>Grete</forename>
+               </persName>
+               <occupation>Schriftstellerin</occupation>
+               <idno type="HB-tv">HB-tv_5281_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155687.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155687">
-         <persName>
-            <surname>Uitz</surname>
-            <forename>Grete</forename>
-         </persName>
-         <occupation>Schriftstellerin</occupation>
-         <idno type="HB-tv">HB-tv_5281_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155687.html</idno>
-      </person>
-   </back>
 </TEI>

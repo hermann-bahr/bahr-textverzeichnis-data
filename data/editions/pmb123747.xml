@@ -92,102 +92,84 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154548">
+               <persName>
+                  <surname>Wolff</surname>
+                  <forename>Pius Alexander</forename>
+               </persName>
+               <birth>
+                  <date when="1782">1782</date>
+               </birth>
+               <death>
+                  <date when="1828">1828</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2311_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154548.html</idno>
+            </person>
+            <person xml:id="pmb154399">
+               <persName>
+                  <surname>Brühl</surname>
+                  <forename>Carl von</forename>
+               </persName>
+               <birth>
+                  <date when="1772">1772</date>
+               </birth>
+               <death>
+                  <date when="1837">1837</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2125_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154399.html</idno>
+            </person>
+            <person xml:id="pmb154479">
+               <persName>
+                  <surname>Fröden</surname>
+                  <forename>d.i. Adolf Meyer</forename>
+               </persName>
+               <birth>
+                  <date when="1861">1861</date>
+               </birth>
+               <death>
+                  <date when="1932">1932</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2319_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
+            </person>
+            <person xml:id="pmb154549">
+               <persName>
+                  <surname>Nerz</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2311_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154549.html</idno>
+            </person>
+            <person xml:id="pmb153636">
+               <persName>
+                  <surname>Heding</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2351_p2</idno>
+               <idno type="wikidata">Q45495923</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
+            </person>
+            <person xml:id="pmb154288">
+               <persName>
+                  <surname>Klein</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <birth>
+                  <date when="1862">1862</date>
+               </birth>
+               <death>
+                  <date when="1927">1927</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4068_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154288.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154548">
-         <persName>
-            <surname>Wolff</surname>
-            <forename>Pius Alexander</forename>
-         </persName>
-         <birth>
-            <date when="1782">1782</date>
-         </birth>
-         <death>
-            <date when="1828">1828</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2311_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154548.html</idno>
-      </person>
-      <person xml:id="pmb154399">
-         <persName>
-            <surname>Brühl</surname>
-            <forename>Carl von</forename>
-         </persName>
-         <birth>
-            <date when="1772">1772</date>
-         </birth>
-         <death>
-            <date when="1837">1837</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2125_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154399.html</idno>
-      </person>
-      <person xml:id="pmb154479">
-         <persName>
-            <surname>Fröden</surname>
-            <forename>d.i. Adolf Meyer</forename>
-         </persName>
-         <birth>
-            <date when="1861">1861</date>
-         </birth>
-         <death>
-            <date when="1932">1932</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2319_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
-      </person>
-      <person xml:id="pmb154549">
-         <persName>
-            <surname>Nerz</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2311_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154549.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2351_p2</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2312_p3</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2311_p5</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb154288">
-         <persName>
-            <surname>Klein</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <birth>
-            <date when="1862">1862</date>
-         </birth>
-         <death>
-            <date when="1927">1927</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4068_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154288.html</idno>
-      </person>
-   </back>
 </TEI>

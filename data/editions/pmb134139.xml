@@ -84,15 +84,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157143">
+               <persName>
+                  <surname>Conradi</surname>
+                  <forename>Hermann</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_278_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157143.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157143">
-         <persName>
-            <surname>Conradi</surname>
-            <forename>Hermann</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_278_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157143.html</idno>
-      </person>
-   </back>
 </TEI>

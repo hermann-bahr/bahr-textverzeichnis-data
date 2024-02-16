@@ -81,21 +81,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156982">
+               <persName>
+                  <surname>Koppay</surname>
+                  <forename>Josef Arpád</forename>
+               </persName>
+               <birth>
+                  <date when="1857">1857</date>
+               </birth>
+               <death>
+                  <date when="1927">1927</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3540_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156982.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156982">
-         <persName>
-            <surname>Koppay</surname>
-            <forename>Josef Arpád</forename>
-         </persName>
-         <birth>
-            <date when="1857">1857</date>
-         </birth>
-         <death>
-            <date when="1927">1927</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3540_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156982.html</idno>
-      </person>
-   </back>
 </TEI>

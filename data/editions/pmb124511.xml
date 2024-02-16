@@ -73,26 +73,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148736">
+               <persName>
+                  <surname>Rudigier</surname>
+                  <forename>Franz Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1811-04-07</date>
+                  <placeName type="wikidata" ref="Q2054367">Partenen</placeName>
+               </birth>
+               <death>
+                  <date>1884-11-29</date>
+                  <placeName type="wikidata" ref="Q41329">Linz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4464_p4</idno>
+               <idno type="wikidata">Q877406</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118750135</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148736.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148736">
-         <persName>
-            <surname>Rudigier</surname>
-            <forename>Franz Joseph</forename>
-         </persName>
-         <birth>
-            <date>1811-04-07</date>
-            <placeName type="wikidata" ref="Q2054367">Partenen</placeName>
-         </birth>
-         <death>
-            <date>1884-11-29</date>
-            <placeName type="wikidata" ref="Q41329">Linz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4464_p4</idno>
-         <idno type="wikidata">Q877406</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118750135</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148736.html</idno>
-      </person>
-   </back>
 </TEI>

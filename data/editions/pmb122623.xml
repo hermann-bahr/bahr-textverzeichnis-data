@@ -91,31 +91,33 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153982">
+               <persName>
+                  <surname>Krenn</surname>
+                  <forename>Käthe</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2545_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153982.html</idno>
+            </person>
+            <person xml:id="pmb153983">
+               <persName>
+                  <surname>Petri</surname>
+                  <forename>Lili</forename>
+               </persName>
+               <persName type="namensvariante">Amalie Schmitz, verh. Anno</persName>
+               <birth>
+                  <date when-custom="1864/67">1864/67</date>
+               </birth>
+               <death>
+                  <date when="1915">1915</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2545_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153983.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153982">
-         <persName>
-            <surname>Krenn</surname>
-            <forename>Käthe</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2545_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153982.html</idno>
-      </person>
-      <person xml:id="pmb153983">
-         <persName>
-            <surname>Petri</surname>
-            <forename>Lili</forename>
-         </persName>
-         <persName type="namensvariante">Amalie Schmitz, verh. Anno</persName>
-         <birth>
-            <date when-custom="1864/67">1864/67</date>
-         </birth>
-         <death>
-            <date when="1915">1915</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2545_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153983.html</idno>
-      </person>
-   </back>
 </TEI>

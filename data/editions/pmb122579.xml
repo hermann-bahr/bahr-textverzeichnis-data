@@ -89,42 +89,44 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153972">
+               <persName>
+                  <surname>Galafrés</surname>
+                  <forename>Elsa</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <birth>
+                  <date when="1880">1880</date>
+               </birth>
+               <death>
+                  <date when="1977">1977</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2450_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153972.html</idno>
+            </person>
+            <person xml:id="pmb148742">
+               <persName>
+                  <surname>Schaffer-Bernstein</surname>
+                  <forename>Jenny</forename>
+               </persName>
+               <persName type="namensvariante">Eugenie, Schauspielerin</persName>
+               <birth>
+                  <date>1888-07-27</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1943-01-01</date>
+                  <placeName type="wikidata" ref="Q663764">KZ Auschwitz-Birkenau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2450_p2</idno>
+               <idno type="wikidata">Q1687066</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/117100765</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148742.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153972">
-         <persName>
-            <surname>Galafrés</surname>
-            <forename>Elsa</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <birth>
-            <date when="1880">1880</date>
-         </birth>
-         <death>
-            <date when="1977">1977</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2450_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153972.html</idno>
-      </person>
-      <person xml:id="pmb148742">
-         <persName>
-            <surname>Schaffer-Bernstein</surname>
-            <forename>Jenny</forename>
-         </persName>
-         <persName type="namensvariante">Eugenie, Schauspielerin</persName>
-         <birth>
-            <date>1888-07-27</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1943-01-01</date>
-            <placeName type="wikidata" ref="Q663764">KZ Auschwitz-Birkenau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2450_p2</idno>
-         <idno type="wikidata">Q1687066</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/117100765</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148742.html</idno>
-      </person>
-   </back>
 </TEI>

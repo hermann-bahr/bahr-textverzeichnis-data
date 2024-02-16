@@ -128,115 +128,117 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155347">
+               <persName>
+                  <surname>Butler</surname>
+                  <forename>Samuel</forename>
+               </persName>
+               <birth>
+                  <date when="1835">1835</date>
+               </birth>
+               <death>
+                  <date when="1902">1902</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3376_p21</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155347.html</idno>
+            </person>
+            <person xml:id="pmb155393">
+               <persName>
+                  <surname>Müller</surname>
+                  <forename>Friedrich von</forename>
+               </persName>
+               <birth>
+                  <date when="1779">1779</date>
+               </birth>
+               <death>
+                  <date when="1849">1849</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3369_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155393.html</idno>
+            </person>
+            <person xml:id="pmb155547">
+               <persName>
+                  <surname>Biedermann</surname>
+                  <forename>Gustav Woldemar von</forename>
+               </persName>
+               <birth>
+                  <date when="1817">1817</date>
+               </birth>
+               <death>
+                  <date when="1903">1903</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3359_p9</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155547.html</idno>
+            </person>
+            <person xml:id="pmb156134">
+               <persName>
+                  <surname>Stein</surname>
+                  <forename>Charlotte</forename>
+               </persName>
+               <birth>
+                  <date when="1742">1742</date>
+               </birth>
+               <death>
+                  <date when="1827">1827</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3455_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156134.html</idno>
+            </person>
+            <person xml:id="pmb7452">
+               <persName>
+                  <surname>Goethe</surname>
+                  <forename>Catharina Elisabeth</forename>
+               </persName>
+               <birth>
+                  <date>1731-02-19</date>
+                  <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
+               </birth>
+               <death>
+                  <date>1808-09-13</date>
+                  <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_984_p1</idno>
+               <idno type="wikidata">Q103757</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118540246</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7452.html</idno>
+            </person>
+            <person xml:id="pmb156200">
+               <persName>
+                  <surname>Hellen</surname>
+                  <forename>Eduard von der</forename>
+               </persName>
+               <birth>
+                  <date when="1863">1863</date>
+               </birth>
+               <death>
+                  <date when="1927">1927</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3407_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156200.html</idno>
+            </person>
+            <person xml:id="pmb151029">
+               <persName>
+                  <surname>Langewiesche</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date>1866-03-18</date>
+                  <placeName type="wikidata" ref="Q153974">Barmen</placeName>
+               </birth>
+               <death>
+                  <date>1934-01-09</date>
+                  <placeName type="wikidata" ref="Q506494">Schäftlarn</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3407_p7</idno>
+               <idno type="wikidata">Q1565833</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118569481</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151029.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155347">
-         <persName>
-            <surname>Butler</surname>
-            <forename>Samuel</forename>
-         </persName>
-         <birth>
-            <date when="1835">1835</date>
-         </birth>
-         <death>
-            <date when="1902">1902</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3376_p21</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155347.html</idno>
-      </person>
-      <person xml:id="pmb155393">
-         <persName>
-            <surname>Müller</surname>
-            <forename>Friedrich von</forename>
-         </persName>
-         <birth>
-            <date when="1779">1779</date>
-         </birth>
-         <death>
-            <date when="1849">1849</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3369_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155393.html</idno>
-      </person>
-      <person xml:id="pmb155547">
-         <persName>
-            <surname>Biedermann</surname>
-            <forename>Gustav Woldemar von</forename>
-         </persName>
-         <birth>
-            <date when="1817">1817</date>
-         </birth>
-         <death>
-            <date when="1903">1903</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p9</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155547.html</idno>
-      </person>
-      <person xml:id="pmb156134">
-         <persName>
-            <surname>Stein</surname>
-            <forename>Charlotte</forename>
-         </persName>
-         <birth>
-            <date when="1742">1742</date>
-         </birth>
-         <death>
-            <date when="1827">1827</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3455_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156134.html</idno>
-      </person>
-      <person xml:id="pmb7452">
-         <persName>
-            <surname>Goethe</surname>
-            <forename>Catharina Elisabeth</forename>
-         </persName>
-         <birth>
-            <date>1731-02-19</date>
-            <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
-         </birth>
-         <death>
-            <date>1808-09-13</date>
-            <placeName type="wikidata" ref="Q1794">Frankfurt am Main</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_984_p1</idno>
-         <idno type="wikidata">Q103757</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118540246</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7452.html</idno>
-      </person>
-      <person xml:id="pmb156200">
-         <persName>
-            <surname>Hellen</surname>
-            <forename>Eduard von der</forename>
-         </persName>
-         <birth>
-            <date when="1863">1863</date>
-         </birth>
-         <death>
-            <date when="1927">1927</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3407_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156200.html</idno>
-      </person>
-      <person xml:id="pmb151029">
-         <persName>
-            <surname>Langewiesche</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date>1866-03-18</date>
-            <placeName type="wikidata" ref="Q153974">Barmen</placeName>
-         </birth>
-         <death>
-            <date>1934-01-09</date>
-            <placeName type="wikidata" ref="Q506494">Schäftlarn</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3407_p7</idno>
-         <idno type="wikidata">Q1565833</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118569481</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151029.html</idno>
-      </person>
-   </back>
 </TEI>

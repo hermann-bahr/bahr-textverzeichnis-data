@@ -90,51 +90,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148753">
+               <persName>
+                  <surname>Forest</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2436_p2</idno>
+               <idno type="wikidata">Q6168908</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/136326137</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148753.html</idno>
+            </person>
+            <person xml:id="pmb153974">
+               <persName>
+                  <surname>Sauer</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date when="1856">1856</date>
+               </birth>
+               <death>
+                  <date when="1918">1918</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2440_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153974.html</idno>
+            </person>
+            <person xml:id="pmb153999">
+               <persName>
+                  <surname>Marr</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2024_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153999.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148753">
-         <persName>
-            <surname>Forest</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2436_p2</idno>
-         <idno type="wikidata">Q6168908</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/136326137</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148753.html</idno>
-      </person>
-      <person xml:id="pmb148753">
-         <persName>
-            <surname>Forest</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2024_p1</idno>
-         <idno type="wikidata">Q6168908</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/136326137</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148753.html</idno>
-      </person>
-      <person xml:id="pmb153974">
-         <persName>
-            <surname>Sauer</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date when="1856">1856</date>
-         </birth>
-         <death>
-            <date when="1918">1918</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2440_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153974.html</idno>
-      </person>
-      <person xml:id="pmb153999">
-         <persName>
-            <surname>Marr</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2024_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153999.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -83,43 +83,21 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb4223">
+               <persName>
+                  <surname>Marriot</surname>
+                  <forename>Emile</forename>
+               </persName>
+               <persName type="namensvariante">Emilie Mataja</persName>
+               <idno type="HB-tv">HB-tv_1832_p1</idno>
+               <idno type="wikidata">Q88953</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb4223">
-         <persName>
-            <surname>Marriot</surname>
-            <forename>Emile</forename>
-         </persName>
-         <persName type="namensvariante">Emilie Mataja</persName>
-         <idno type="HB-tv">HB-tv_1832_p1</idno>
-         <idno type="wikidata">Q88953</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
-      </person>
-      <person xml:id="pmb4223">
-         <persName>
-            <surname>Marriot</surname>
-            <forename>Emile</forename>
-         </persName>
-         <persName type="namensvariante">Emilie Mataja</persName>
-         <idno type="HB-tv">HB-tv_2942_p6</idno>
-         <idno type="wikidata">Q88953</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
-      </person>
-      <person xml:id="pmb4223">
-         <persName>
-            <surname>Marriot</surname>
-            <forename>Emile</forename>
-         </persName>
-         <persName type="namensvariante">Emilie Mataja</persName>
-         <idno type="HB-tv">HB-tv_504_p3</idno>
-         <idno type="wikidata">Q88953</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118578103</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4223.html</idno>
-      </person>
-   </back>
 </TEI>

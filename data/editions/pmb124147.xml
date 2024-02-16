@@ -79,21 +79,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154679">
+               <persName>
+                  <surname>Karlweis</surname>
+                  <forename>Martha verh. Bassermann</forename>
+               </persName>
+               <birth>
+                  <date when="1889">1889</date>
+               </birth>
+               <death>
+                  <date when="1965">1965</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6775_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154679.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154679">
-         <persName>
-            <surname>Karlweis</surname>
-            <forename>Martha verh. Bassermann</forename>
-         </persName>
-         <birth>
-            <date when="1889">1889</date>
-         </birth>
-         <death>
-            <date when="1965">1965</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6775_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154679.html</idno>
-      </person>
-   </back>
 </TEI>

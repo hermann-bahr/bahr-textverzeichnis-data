@@ -93,26 +93,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb62585">
+               <persName>
+                  <surname>Leipziger</surname>
+                  <forename>Leon</forename>
+               </persName>
+               <birth>
+                  <date>1861-12-17</date>
+                  <placeName type="wikidata" ref="Q1799">Breslau</placeName>
+               </birth>
+               <death>
+                  <date>1922-12-21</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2543_p1</idno>
+               <idno type="wikidata">Q1818653</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116884029</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb62585.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb62585">
-         <persName>
-            <surname>Leipziger</surname>
-            <forename>Leon</forename>
-         </persName>
-         <birth>
-            <date>1861-12-17</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1922-12-21</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2543_p1</idno>
-         <idno type="wikidata">Q1818653</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116884029</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb62585.html</idno>
-      </person>
-   </back>
 </TEI>

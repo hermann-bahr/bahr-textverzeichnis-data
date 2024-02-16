@@ -104,43 +104,45 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154479">
+               <persName>
+                  <surname>Fröden</surname>
+                  <forename>d.i. Adolf Meyer</forename>
+               </persName>
+               <birth>
+                  <date when="1861">1861</date>
+               </birth>
+               <death>
+                  <date when="1932">1932</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2319_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
+            </person>
+            <person xml:id="pmb157142">
+               <persName>
+                  <surname>Anatour</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_300_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157142.html</idno>
+            </person>
+            <person xml:id="pmb154049">
+               <persName>
+                  <surname>Lanius</surname>
+                  <forename>Frieda</forename>
+               </persName>
+               <birth>
+                  <date when="1865">1865</date>
+               </birth>
+               <death>
+                  <date when="1919">1919</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2269_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154049.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154479">
-         <persName>
-            <surname>Fröden</surname>
-            <forename>d.i. Adolf Meyer</forename>
-         </persName>
-         <birth>
-            <date when="1861">1861</date>
-         </birth>
-         <death>
-            <date when="1932">1932</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2319_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154479.html</idno>
-      </person>
-      <person xml:id="pmb157142">
-         <persName>
-            <surname>Anatour</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_300_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157142.html</idno>
-      </person>
-      <person xml:id="pmb154049">
-         <persName>
-            <surname>Lanius</surname>
-            <forename>Frieda</forename>
-         </persName>
-         <birth>
-            <date when="1865">1865</date>
-         </birth>
-         <death>
-            <date when="1919">1919</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2269_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154049.html</idno>
-      </person>
-   </back>
 </TEI>

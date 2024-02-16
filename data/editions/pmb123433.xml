@@ -84,74 +84,65 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb22666">
+               <persName>
+                  <surname>Pohl-Meiser</surname>
+                  <forename>Viktoria</forename>
+               </persName>
+               <birth>
+                  <date>1858-11-28</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </birth>
+               <death>
+                  <date>1936-06-17</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4829_p6</idno>
+               <idno type="wikidata">Q58011561</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
+            </person>
+            <person xml:id="pmb148913">
+               <persName>
+                  <surname>Pfann</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_3895_p2</idno>
+               <idno type="wikidata">Q2061640</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116142731</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148913.html</idno>
+            </person>
+            <person xml:id="pmb154379">
+               <persName>
+                  <surname>Selken</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_3895_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154379.html</idno>
+            </person>
+            <person xml:id="pmb112723">
+               <persName>
+                  <surname>Arnau</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <birth>
+                  <date>1843-11-26</date>
+                  <placeName type="wikidata" ref="Q1022967">Sobotište</placeName>
+               </birth>
+               <death>
+                  <date>1910-11-04</date>
+                  <placeName type="wikidata" ref="Q302745">Hall in Tirol</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3895_p4</idno>
+               <idno type="wikidata">Q1725524</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116341831</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112723.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb22666">
-         <persName>
-            <surname>Pohl-Meiser</surname>
-            <forename>Viktoria</forename>
-         </persName>
-         <birth>
-            <date>1858-11-28</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </birth>
-         <death>
-            <date>1936-06-17</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4829_p6</idno>
-         <idno type="wikidata">Q58011561</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
-      </person>
-      <person xml:id="pmb148913">
-         <persName>
-            <surname>Pfann</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_3895_p2</idno>
-         <idno type="wikidata">Q2061640</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116142731</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148913.html</idno>
-      </person>
-      <person xml:id="pmb148913">
-         <persName>
-            <surname>Pfann</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2366_p4</idno>
-         <idno type="wikidata">Q2061640</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116142731</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148913.html</idno>
-      </person>
-      <person xml:id="pmb154379">
-         <persName>
-            <surname>Selken</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_3895_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154379.html</idno>
-      </person>
-      <person xml:id="pmb112723">
-         <persName>
-            <surname>Arnau</surname>
-            <forename>Carl</forename>
-         </persName>
-         <birth>
-            <date>1843-11-26</date>
-            <placeName type="wikidata" ref="Q1022967">Sobotište</placeName>
-         </birth>
-         <death>
-            <date>1910-11-04</date>
-            <placeName type="wikidata" ref="Q302745">Hall in Tirol</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3895_p4</idno>
-         <idno type="wikidata">Q1725524</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116341831</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb112723.html</idno>
-      </person>
-   </back>
 </TEI>

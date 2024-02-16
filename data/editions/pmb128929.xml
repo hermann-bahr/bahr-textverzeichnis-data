@@ -93,39 +93,41 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155862">
+               <persName>
+                  <surname>Lazar Hrebeljanović</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1329">um 1329</date>
+               </birth>
+               <death>
+                  <date when="1389">1389</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5410_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155862.html</idno>
+            </person>
+            <person xml:id="pmb155863">
+               <persName>
+                  <surname>Zarathustra</surname>
+               </persName>
+               <birth>
+                  <date when-custom="1. od. 2. Jtd. v.u.Z.">1. od. 2. Jtd. v.u.Z.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_5410_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155863.html</idno>
+            </person>
+            <person xml:id="pmb155864">
+               <persName>
+                  <surname>Kopal</surname>
+                  <forename>Pawel</forename>
+               </persName>
+               <occupation>Autor</occupation>
+               <idno type="HB-tv">HB-tv_5410_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155864.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155862">
-         <persName>
-            <surname>Lazar Hrebeljanović</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1329">um 1329</date>
-         </birth>
-         <death>
-            <date when="1389">1389</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5410_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155862.html</idno>
-      </person>
-      <person xml:id="pmb155863">
-         <persName>
-            <surname>Zarathustra</surname>
-         </persName>
-         <birth>
-            <date when-custom="1. od. 2. Jtd. v.u.Z.">1. od. 2. Jtd. v.u.Z.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_5410_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155863.html</idno>
-      </person>
-      <person xml:id="pmb155864">
-         <persName>
-            <surname>Kopal</surname>
-            <forename>Pawel</forename>
-         </persName>
-         <occupation>Autor</occupation>
-         <idno type="HB-tv">HB-tv_5410_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155864.html</idno>
-      </person>
-   </back>
 </TEI>

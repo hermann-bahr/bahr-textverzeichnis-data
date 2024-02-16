@@ -87,25 +87,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154331">
+               <persName>
+                  <surname>Kleopatra</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_1323_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154331.html</idno>
+            </person>
+            <person xml:id="pmb154332">
+               <persName>
+                  <surname>Ahenobarbus</surname>
+                  <forename>Gnaeus Domitius</forename>
+               </persName>
+               <death>
+                  <date when-custom="31 v.u.Z.">31 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1323_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154332.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154331">
-         <persName>
-            <surname>Kleopatra</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1323_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154331.html</idno>
-      </person>
-      <person xml:id="pmb154332">
-         <persName>
-            <surname>Ahenobarbus</surname>
-            <forename>Gnaeus Domitius</forename>
-         </persName>
-         <death>
-            <date when-custom="31 v.u.Z.">31 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1323_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154332.html</idno>
-      </person>
-   </back>
 </TEI>

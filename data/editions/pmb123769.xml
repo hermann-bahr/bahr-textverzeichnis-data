@@ -81,22 +81,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154554">
+               <persName>
+                  <surname>Rosmer</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <persName type="namensvariante">Elsa Bernstein</persName>
+               <birth>
+                  <date when="1866">1866</date>
+               </birth>
+               <death>
+                  <date when="1949">1949</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2177_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154554.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154554">
-         <persName>
-            <surname>Rosmer</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <persName type="namensvariante">Elsa Bernstein</persName>
-         <birth>
-            <date when="1866">1866</date>
-         </birth>
-         <death>
-            <date when="1949">1949</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2177_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154554.html</idno>
-      </person>
-   </back>
 </TEI>

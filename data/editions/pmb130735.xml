@@ -129,21 +129,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156161">
+               <persName>
+                  <surname>Urban</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date when="1855">1855</date>
+               </birth>
+               <death>
+                  <date when="1940">1940</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3436_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156161.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156161">
-         <persName>
-            <surname>Urban</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date when="1855">1855</date>
-         </birth>
-         <death>
-            <date when="1940">1940</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3436_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156161.html</idno>
-      </person>
-   </back>
 </TEI>

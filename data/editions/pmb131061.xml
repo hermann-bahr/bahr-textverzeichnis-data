@@ -72,45 +72,36 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149498">
+               <persName>
+                  <surname>Arnold</surname>
+                  <forename>Matthew</forename>
+               </persName>
+               <birth>
+                  <date>1822-12-24</date>
+                  <placeName type="wikidata" ref="Q984973">Laleham</placeName>
+               </birth>
+               <death>
+                  <date>1888-04-15</date>
+                  <placeName type="wikidata" ref="Q24826">Liverpool</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4521_p9</idno>
+               <idno type="wikidata">Q271032</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118504282</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149498.html</idno>
+            </person>
+            <person xml:id="pmb156270">
+               <persName>
+                  <surname>Butler</surname>
+                  <forename>Samuel</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3734_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156270.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149498">
-         <persName>
-            <surname>Arnold</surname>
-            <forename>Matthew</forename>
-         </persName>
-         <birth>
-            <date>1822-12-24</date>
-            <placeName type="wikidata" ref="Q984973">Laleham</placeName>
-         </birth>
-         <death>
-            <date>1888-04-15</date>
-            <placeName type="wikidata" ref="Q24826">Liverpool</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4521_p9</idno>
-         <idno type="wikidata">Q271032</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118504282</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149498.html</idno>
-      </person>
-      <person xml:id="pmb149498">
-         <persName>
-            <surname>Arnold</surname>
-            <forename>Matthew</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3734_p1</idno>
-         <idno type="wikidata">Q271032</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118504282</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149498.html</idno>
-      </person>
-      <person xml:id="pmb156270">
-         <persName>
-            <surname>Butler</surname>
-            <forename>Samuel</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3734_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156270.html</idno>
-      </person>
-   </back>
 </TEI>

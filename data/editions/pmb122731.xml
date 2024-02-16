@@ -80,24 +80,26 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb95914">
+               <persName>
+                  <surname>Frauendorfer</surname>
+                  <forename>Marie</forename>
+               </persName>
+               <birth>
+                  <date>1868-01-01</date>
+               </birth>
+               <death>
+                  <date>1941-01-01</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2273_p1</idno>
+               <idno type="wikidata">Q60623559</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116721375</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb95914.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb95914">
-         <persName>
-            <surname>Frauendorfer</surname>
-            <forename>Marie</forename>
-         </persName>
-         <birth>
-            <date>1868-01-01</date>
-         </birth>
-         <death>
-            <date>1941-01-01</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2273_p1</idno>
-         <idno type="wikidata">Q60623559</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116721375</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb95914.html</idno>
-      </person>
-   </back>
 </TEI>

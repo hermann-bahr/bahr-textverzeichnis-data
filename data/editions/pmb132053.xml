@@ -130,66 +130,68 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153974">
+               <persName>
+                  <surname>Sauer</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <birth>
+                  <date when="1856">1856</date>
+               </birth>
+               <death>
+                  <date when="1918">1918</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2440_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153974.html</idno>
+            </person>
+            <person xml:id="pmb156488">
+               <persName>
+                  <surname>Hofmeister</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2028_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156488.html</idno>
+            </person>
+            <person xml:id="pmb156489">
+               <persName>
+                  <surname>Pauli</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2028_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156489.html</idno>
+            </person>
+            <person xml:id="pmb156490">
+               <persName>
+                  <surname>Schwaiger</surname>
+                  <forename>Paul</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2028_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156490.html</idno>
+            </person>
+            <person xml:id="pmb63404">
+               <persName>
+                  <surname>Bertens</surname>
+                  <forename>Rosa</forename>
+               </persName>
+               <birth>
+                  <date>1860-01-01</date>
+                  <placeName type="wikidata" ref="Q16869">Konstantinopel</placeName>
+               </birth>
+               <death>
+                  <date>1934-10-05</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1969_p1</idno>
+               <idno type="wikidata">Q18412668</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/11614887X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63404.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153974">
-         <persName>
-            <surname>Sauer</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <birth>
-            <date when="1856">1856</date>
-         </birth>
-         <death>
-            <date when="1918">1918</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2440_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153974.html</idno>
-      </person>
-      <person xml:id="pmb156488">
-         <persName>
-            <surname>Hofmeister</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2028_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156488.html</idno>
-      </person>
-      <person xml:id="pmb156489">
-         <persName>
-            <surname>Pauli</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2028_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156489.html</idno>
-      </person>
-      <person xml:id="pmb156490">
-         <persName>
-            <surname>Schwaiger</surname>
-            <forename>Paul</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2028_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156490.html</idno>
-      </person>
-      <person xml:id="pmb63404">
-         <persName>
-            <surname>Bertens</surname>
-            <forename>Rosa</forename>
-         </persName>
-         <birth>
-            <date>1860-01-01</date>
-            <placeName type="wikidata" ref="Q16869">Konstantinopel</placeName>
-         </birth>
-         <death>
-            <date>1934-10-05</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1969_p1</idno>
-         <idno type="wikidata">Q18412668</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11614887X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63404.html</idno>
-      </person>
-   </back>
 </TEI>

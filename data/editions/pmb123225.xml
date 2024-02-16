@@ -82,23 +82,25 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154285">
+               <persName>
+                  <surname>Kraus</surname>
+                  <forename>Otto</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_4549_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154285.html</idno>
+            </person>
+            <person xml:id="pmb154286">
+               <persName>
+                  <surname>Wreden</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_4549_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154286.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154285">
-         <persName>
-            <surname>Kraus</surname>
-            <forename>Otto</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_4549_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154285.html</idno>
-      </person>
-      <person xml:id="pmb154286">
-         <persName>
-            <surname>Wreden</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_4549_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154286.html</idno>
-      </person>
-   </back>
 </TEI>

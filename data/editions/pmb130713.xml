@@ -115,624 +115,114 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb150933">
+               <persName>
+                  <surname>Lorinser</surname>
+                  <forename>Friedrich Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date>1817-02-13</date>
+                  <placeName type="wikidata" ref="Q149229">Mimoň</placeName>
+               </birth>
+               <death>
+                  <date>1895-02-27</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3446_p1</idno>
+               <idno type="wikidata">Q17541111</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117682993</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150933.html</idno>
+            </person>
+            <person xml:id="pmb148590">
+               <persName>
+                  <surname>Augustinus von Hippo</surname>
+               </persName>
+               <birth>
+                  <date when="0354">354</date>
+               </birth>
+               <death>
+                  <date when="0430">430</date>
+               </death>
+               <idno type="HB-tv">HB-tv_930_p3</idno>
+               <idno type="wikidata">Q8018</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
+            </person>
+            <person xml:id="pmb149960">
+               <persName>
+                  <surname>Büchner</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <birth>
+                  <date>1824-03-29</date>
+                  <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
+               </birth>
+               <death>
+                  <date>1899-05-01</date>
+                  <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4855_p5</idno>
+               <idno type="wikidata">Q62831</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118667939</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149960.html</idno>
+            </person>
+            <person xml:id="pmb150936">
+               <persName>
+                  <surname>Vogt</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date>1817-07-05</date>
+                  <placeName type="wikidata" ref="Q3874">Gießen</placeName>
+               </birth>
+               <death>
+                  <date>1895-05-05</date>
+                  <placeName type="wikidata" ref="Q71">Genf</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3446_p4</idno>
+               <idno type="wikidata">Q76513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118769014</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150936.html</idno>
+            </person>
+            <person xml:id="pmb156156">
+               <persName>
+                  <surname>Platon</surname>
+               </persName>
+               <birth>
+                  <date when-custom="428/427">428/427</date>
+               </birth>
+               <death>
+                  <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3446_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156156.html</idno>
+            </person>
+            <person xml:id="pmb150860">
+               <persName>
+                  <surname>Ribot</surname>
+                  <forename>Théodule</forename>
+               </persName>
+               <birth>
+                  <date>1839-12-18</date>
+                  <placeName type="wikidata" ref="Q193808">Guingamp</placeName>
+               </birth>
+               <death>
+                  <date>1916-12-09</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3606_p1</idno>
+               <idno type="wikidata">Q463441</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116504153</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150860.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb150933">
-         <persName>
-            <surname>Lorinser</surname>
-            <forename>Friedrich Wilhelm</forename>
-         </persName>
-         <birth>
-            <date>1817-02-13</date>
-            <placeName type="wikidata" ref="Q149229">Mimoň</placeName>
-         </birth>
-         <death>
-            <date>1895-02-27</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3446_p1</idno>
-         <idno type="wikidata">Q17541111</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117682993</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150933.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_930_p3</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3524_p9</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p7</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3505_p3</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1504_p12</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p30</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1058_p6</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_902_p4</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1195_p6</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4849_p32</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3377_p6</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3360_p9</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p34</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3358_p13</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3353_p8</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5280_p4</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5236_p1</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5221_p7</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5422_p4</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5371_p1</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5355_p7</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_868_p6</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3469_p31</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3464_p5</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3456_p4</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3446_p2</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3184_p2</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3183_p17</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_601_p6</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2828_p3</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_434_p3</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1716_p1</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb148590">
-         <persName>
-            <surname>Augustinus von Hippo</surname>
-         </persName>
-         <birth>
-            <date when="0354">354</date>
-         </birth>
-         <death>
-            <date when="0430">430</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2664_p6</idno>
-         <idno type="wikidata">Q8018</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148590.html</idno>
-      </person>
-      <person xml:id="pmb149960">
-         <persName>
-            <surname>Büchner</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <birth>
-            <date>1824-03-29</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1899-05-01</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4855_p5</idno>
-         <idno type="wikidata">Q62831</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118667939</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149960.html</idno>
-      </person>
-      <person xml:id="pmb150936">
-         <persName>
-            <surname>Vogt</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date>1817-07-05</date>
-            <placeName type="wikidata" ref="Q3874">Gießen</placeName>
-         </birth>
-         <death>
-            <date>1895-05-05</date>
-            <placeName type="wikidata" ref="Q71">Genf</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3446_p4</idno>
-         <idno type="wikidata">Q76513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118769014</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150936.html</idno>
-      </person>
-      <person xml:id="pmb156156">
-         <persName>
-            <surname>Platon</surname>
-         </persName>
-         <birth>
-            <date when-custom="428/427">428/427</date>
-         </birth>
-         <death>
-            <date when-custom="348/347 v.u.Z.">348/347 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3446_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156156.html</idno>
-      </person>
-      <person xml:id="pmb150860">
-         <persName>
-            <surname>Ribot</surname>
-            <forename>Théodule</forename>
-         </persName>
-         <birth>
-            <date>1839-12-18</date>
-            <placeName type="wikidata" ref="Q193808">Guingamp</placeName>
-         </birth>
-         <death>
-            <date>1916-12-09</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3606_p1</idno>
-         <idno type="wikidata">Q463441</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116504153</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150860.html</idno>
-      </person>
-   </back>
 </TEI>

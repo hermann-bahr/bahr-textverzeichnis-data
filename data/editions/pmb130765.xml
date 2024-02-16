@@ -99,26 +99,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb8848">
+               <persName>
+                  <surname>Marées</surname>
+                  <forename>Johann Reinhard von</forename>
+               </persName>
+               <birth>
+                  <date>1837-12-24</date>
+                  <placeName type="wikidata" ref="Q702259">Elberfeld</placeName>
+               </birth>
+               <death>
+                  <date>1887-06-05</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3417_p1</idno>
+               <idno type="wikidata">Q516121</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118577662</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb8848.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb8848">
-         <persName>
-            <surname>Marées</surname>
-            <forename>Johann Reinhard von</forename>
-         </persName>
-         <birth>
-            <date>1837-12-24</date>
-            <placeName type="wikidata" ref="Q702259">Elberfeld</placeName>
-         </birth>
-         <death>
-            <date>1887-06-05</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3417_p1</idno>
-         <idno type="wikidata">Q516121</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118577662</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb8848.html</idno>
-      </person>
-   </back>
 </TEI>

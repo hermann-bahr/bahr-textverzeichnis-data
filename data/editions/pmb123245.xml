@@ -87,148 +87,59 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153624">
+               <persName>
+                  <surname>Joseffy</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_600_p2</idno>
+               <idno type="wikidata">Q15452534</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153624.html</idno>
+            </person>
+            <person xml:id="pmb153626">
+               <persName>
+                  <surname>Meixner</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2471_p2</idno>
+               <idno type="wikidata">Q95032119</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
+            </person>
+            <person xml:id="pmb154180">
+               <persName>
+                  <surname>Weiss</surname>
+                  <forename>Georg</forename>
+               </persName>
+               <birth>
+                  <date when="1833">1833</date>
+               </birth>
+               <death>
+                  <date when="1904">1904</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2535_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154180.html</idno>
+            </person>
+            <person xml:id="pmb148828">
+               <persName>
+                  <surname>Ermarth</surname>
+                  <forename>Melanie</forename>
+               </persName>
+               <birth>
+                  <date>1881-03-31</date>
+               </birth>
+               <death>
+                  <date>1948-07-30</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2535_p4</idno>
+               <idno type="wikidata">Q94738915</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/105777152X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148828.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153624">
-         <persName>
-            <surname>Joseffy</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_600_p2</idno>
-         <idno type="wikidata">Q15452534</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153624.html</idno>
-      </person>
-      <person xml:id="pmb153624">
-         <persName>
-            <surname>Joseffy</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2471_p1</idno>
-         <idno type="wikidata">Q15452534</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153624.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2471_p2</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1833_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2517_p1</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2512_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2501_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2482_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_440_p2</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_412_p8</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_393_p3</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb153626">
-         <persName>
-            <surname>Meixner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_369_p4</idno>
-         <idno type="wikidata">Q95032119</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153626.html</idno>
-      </person>
-      <person xml:id="pmb154180">
-         <persName>
-            <surname>Weiss</surname>
-            <forename>Georg</forename>
-         </persName>
-         <birth>
-            <date when="1833">1833</date>
-         </birth>
-         <death>
-            <date when="1904">1904</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2535_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154180.html</idno>
-      </person>
-      <person xml:id="pmb148828">
-         <persName>
-            <surname>Ermarth</surname>
-            <forename>Melanie</forename>
-         </persName>
-         <birth>
-            <date>1881-03-31</date>
-         </birth>
-         <death>
-            <date>1948-07-30</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2535_p4</idno>
-         <idno type="wikidata">Q94738915</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/105777152X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148828.html</idno>
-      </person>
-   </back>
 </TEI>

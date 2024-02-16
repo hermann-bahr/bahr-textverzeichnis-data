@@ -89,15 +89,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155849">
+               <persName>
+                  <surname>Gerber</surname>
+                  <forename>Artur</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_5443_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155849.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155849">
-         <persName>
-            <surname>Gerber</surname>
-            <forename>Artur</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_5443_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155849.html</idno>
-      </person>
-   </back>
 </TEI>

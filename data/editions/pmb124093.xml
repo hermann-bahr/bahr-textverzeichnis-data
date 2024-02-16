@@ -86,30 +86,32 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154674">
+               <persName>
+                  <surname>Robicsek</surname>
+                  <forename>Anna</forename>
+                  <surname type="birthname"> Wanizcek</surname>
+               </persName>
+               <birth>
+                  <date when="1849">1849</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2568_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154674.html</idno>
+            </person>
+            <person xml:id="pmb154675">
+               <persName>
+                  <surname>Wanizcek</surname>
+                  <forename>Rosa ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2568_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154675.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154674">
-         <persName>
-            <surname>Robicsek</surname>
-            <forename>Anna</forename>
-            <surname type="birthname"> Wanizcek</surname>
-         </persName>
-         <birth>
-            <date when="1849">1849</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2568_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154674.html</idno>
-      </person>
-      <person xml:id="pmb154675">
-         <persName>
-            <surname>Wanizcek</surname>
-            <forename>Rosa ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2568_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154675.html</idno>
-      </person>
-   </back>
 </TEI>

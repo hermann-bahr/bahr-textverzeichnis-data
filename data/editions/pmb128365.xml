@@ -93,40 +93,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149391">
+               <persName>
+                  <surname>Varnhagen von Ense</surname>
+                  <forename>Rahel</forename>
+               </persName>
+               <birth>
+                  <date>1771-05-19</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1833-03-07</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3498_p4</idno>
+               <idno type="wikidata">Q61793</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118626175</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149391.html</idno>
+            </person>
+            <person xml:id="pmb154687">
+               <persName>
+                  <surname>Friedrich II. von Preußen</surname>
+                  <forename>»der Große«</forename>
+               </persName>
+               <birth>
+                  <date when="1712">1712</date>
+               </birth>
+               <death>
+                  <date when="1786">1786</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1308_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154687.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149391">
-         <persName>
-            <surname>Varnhagen von Ense</surname>
-            <forename>Rahel</forename>
-         </persName>
-         <birth>
-            <date>1771-05-19</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1833-03-07</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3498_p4</idno>
-         <idno type="wikidata">Q61793</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118626175</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149391.html</idno>
-      </person>
-      <person xml:id="pmb154687">
-         <persName>
-            <surname>Friedrich II. von Preußen</surname>
-            <forename>»der Große«</forename>
-         </persName>
-         <birth>
-            <date when="1712">1712</date>
-         </birth>
-         <death>
-            <date when="1786">1786</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1308_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154687.html</idno>
-      </person>
-   </back>
 </TEI>

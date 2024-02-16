@@ -92,33 +92,35 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149115">
+               <persName>
+                  <surname>Praehauser</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <birth>
+                  <date>1877</date>
+               </birth>
+               <death>
+                  <date>1961</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4882_p1</idno>
+               <idno type="wikidata">Q94877341</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116278692</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149115.html</idno>
+            </person>
+            <person xml:id="pmb154681">
+               <persName>
+                  <surname>Pöschel</surname>
+                  <forename>Josef Franz</forename>
+               </persName>
+               <occupation>Bezirksschulinspektor</occupation>
+               <idno type="HB-tv">HB-tv_4882_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154681.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149115">
-         <persName>
-            <surname>Praehauser</surname>
-            <forename>Ludwig</forename>
-         </persName>
-         <birth>
-            <date>1877</date>
-         </birth>
-         <death>
-            <date>1961</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4882_p1</idno>
-         <idno type="wikidata">Q94877341</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116278692</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149115.html</idno>
-      </person>
-      <person xml:id="pmb154681">
-         <persName>
-            <surname>Pöschel</surname>
-            <forename>Josef Franz</forename>
-         </persName>
-         <occupation>Bezirksschulinspektor</occupation>
-         <idno type="HB-tv">HB-tv_4882_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154681.html</idno>
-      </person>
-   </back>
 </TEI>

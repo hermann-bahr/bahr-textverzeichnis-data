@@ -75,25 +75,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155654">
+               <persName>
+                  <surname>Thormann</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <occupation>Notar in Frankfurt</occupation>
+               <idno type="HB-tv">HB-tv_6078_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155654.html</idno>
+            </person>
+            <person xml:id="pmb155655">
+               <persName>
+                  <surname>Pradels</surname>
+                  <forename>M.</forename>
+               </persName>
+               <occupation>Abbé und Schriftsteller in Köln</occupation>
+               <idno type="HB-tv">HB-tv_6078_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155655.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155654">
-         <persName>
-            <surname>Thormann</surname>
-            <forename>Karl</forename>
-         </persName>
-         <occupation>Notar in Frankfurt</occupation>
-         <idno type="HB-tv">HB-tv_6078_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155654.html</idno>
-      </person>
-      <person xml:id="pmb155655">
-         <persName>
-            <surname>Pradels</surname>
-            <forename>M.</forename>
-         </persName>
-         <occupation>Abbé und Schriftsteller in Köln</occupation>
-         <idno type="HB-tv">HB-tv_6078_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155655.html</idno>
-      </person>
-   </back>
 </TEI>

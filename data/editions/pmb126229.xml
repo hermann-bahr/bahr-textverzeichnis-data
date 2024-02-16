@@ -94,37 +94,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149098">
+               <persName>
+                  <surname>Defoe</surname>
+                  <forename>Daniel</forename>
+               </persName>
+               <birth>
+                  <date>1660-09-13</date>
+                  <placeName type="wikidata" ref="Q1619586"/>
+               </birth>
+               <death>
+                  <date>1731-04-24</date>
+                  <placeName type="wikidata" ref="Q2572630"/>
+               </death>
+               <idno type="HB-tv">HB-tv_4428_p1</idno>
+               <idno type="wikidata">Q40946</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118524275</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149098.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149098">
-         <persName>
-            <surname>Defoe</surname>
-            <forename>Daniel</forename>
-         </persName>
-         <birth>
-            <date>1660-09-13</date>
-            <placeName type="wikidata" ref="Q1619586"/>
-         </birth>
-         <death>
-            <date>1731-04-24</date>
-            <placeName type="wikidata" ref="Q2572630"/>
-         </death>
-         <idno type="HB-tv">HB-tv_4428_p1</idno>
-         <idno type="wikidata">Q40946</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524275</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149098.html</idno>
-      </person>
-      <person xml:id="pmb149098">
-         <persName>
-            <surname>Defoe</surname>
-            <forename>Daniel</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1252_p6</idno>
-         <idno type="wikidata">Q40946</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524275</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149098.html</idno>
-      </person>
-   </back>
 </TEI>

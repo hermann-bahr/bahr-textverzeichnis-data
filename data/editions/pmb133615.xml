@@ -102,79 +102,81 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb2404">
+               <persName>
+                  <surname>Hebbel</surname>
+                  <forename>Christian Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1813-03-18</date>
+                  <placeName type="wikidata" ref="Q518460">Wesselburen</placeName>
+               </birth>
+               <death>
+                  <date>1863-12-13</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6576_p3</idno>
+               <idno type="wikidata">Q57182</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118547445</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2404.html</idno>
+            </person>
+            <person xml:id="pmb155154">
+               <persName>
+                  <surname>Helferich</surname>
+                  <forename>Hermann</forename>
+               </persName>
+               <persName type="namensvariante">Emil Heilbut</persName>
+               <birth>
+                  <date when="1861">1861</date>
+               </birth>
+               <death>
+                  <date when="1921">1921</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4863_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155154.html</idno>
+            </person>
+            <person xml:id="pmb11057">
+               <persName>
+                  <surname>Byron of Rochdale</surname>
+                  <forename>George Gordon Noel</forename>
+               </persName>
+               <birth>
+                  <date>1788-01-22</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1824-04-19</date>
+                  <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4873_p10</idno>
+               <idno type="wikidata">Q5679</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
+            </person>
+            <person xml:id="pmb65048">
+               <persName>
+                  <surname>Scott</surname>
+                  <forename>Walter</forename>
+               </persName>
+               <birth>
+                  <date>1771-08-15</date>
+                  <placeName type="wikidata" ref="Q23436">Edinburgh</placeName>
+               </birth>
+               <death>
+                  <date>1832-09-21</date>
+                  <placeName type="wikidata" ref="Q246076">Abbotsford</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2832_p9</idno>
+               <idno type="wikidata">Q79025</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118612409</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb65048.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb2404">
-         <persName>
-            <surname>Hebbel</surname>
-            <forename>Christian Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1813-03-18</date>
-            <placeName type="wikidata" ref="Q518460">Wesselburen</placeName>
-         </birth>
-         <death>
-            <date>1863-12-13</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6576_p3</idno>
-         <idno type="wikidata">Q57182</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118547445</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2404.html</idno>
-      </person>
-      <person xml:id="pmb155154">
-         <persName>
-            <surname>Helferich</surname>
-            <forename>Hermann</forename>
-         </persName>
-         <persName type="namensvariante">Emil Heilbut</persName>
-         <birth>
-            <date when="1861">1861</date>
-         </birth>
-         <death>
-            <date when="1921">1921</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4863_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155154.html</idno>
-      </person>
-      <person xml:id="pmb11057">
-         <persName>
-            <surname>Byron of Rochdale</surname>
-            <forename>George Gordon Noel</forename>
-         </persName>
-         <birth>
-            <date>1788-01-22</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1824-04-19</date>
-            <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p10</idno>
-         <idno type="wikidata">Q5679</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
-      </person>
-      <person xml:id="pmb65048">
-         <persName>
-            <surname>Scott</surname>
-            <forename>Walter</forename>
-         </persName>
-         <birth>
-            <date>1771-08-15</date>
-            <placeName type="wikidata" ref="Q23436">Edinburgh</placeName>
-         </birth>
-         <death>
-            <date>1832-09-21</date>
-            <placeName type="wikidata" ref="Q246076">Abbotsford</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2832_p9</idno>
-         <idno type="wikidata">Q79025</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118612409</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb65048.html</idno>
-      </person>
-   </back>
 </TEI>

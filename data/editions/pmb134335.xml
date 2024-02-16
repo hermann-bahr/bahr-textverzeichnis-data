@@ -106,877 +106,211 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157187">
+               <persName>
+                  <surname>Karl VII. von Frankreich</surname>
+               </persName>
+               <birth>
+                  <date when="1403">1403</date>
+               </birth>
+               <death>
+                  <date when="1461">1461</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2698_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157187.html</idno>
+            </person>
+            <person xml:id="pmb157188">
+               <persName>
+                  <surname>Sernin</surname>
+               </persName>
+               <birth>
+                  <date when-custom="3. Jh.">3. Jh.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_2698_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157188.html</idno>
+            </person>
+            <person xml:id="pmb157189">
+               <persName>
+                  <surname>Veronika</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_2698_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157189.html</idno>
+            </person>
+            <person xml:id="pmb115492">
+               <persName>
+                  <surname>Murillo</surname>
+                  <forename>Bartolomé Esteban</forename>
+               </persName>
+               <birth>
+                  <date>1617-12-01</date>
+                  <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
+               </birth>
+               <death>
+                  <date>1682-04-01</date>
+                  <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2698_p4</idno>
+               <idno type="wikidata">Q192062</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11858586X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115492.html</idno>
+            </person>
+            <person xml:id="pmb113150">
+               <persName>
+                  <surname>Correggio</surname>
+                  <forename>Antonio da</forename>
+               </persName>
+               <birth>
+                  <date>1489-08-30</date>
+                  <placeName type="wikidata" ref="Q111176">Correggio</placeName>
+               </birth>
+               <death>
+                  <date>1534-03-04</date>
+                  <placeName type="wikidata" ref="Q111176">Correggio</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3427_p10</idno>
+               <idno type="wikidata">Q8457</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11867692X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113150.html</idno>
+            </person>
+            <person xml:id="pmb152201">
+               <persName>
+                  <surname>Rosa</surname>
+                  <forename>Salvator</forename>
+               </persName>
+               <birth>
+                  <date>1615-06-20</date>
+                  <placeName type="wikidata" ref="Q2634">Neapel</placeName>
+               </birth>
+               <death>
+                  <date>1673-03-15</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2782_p8</idno>
+               <idno type="wikidata">Q359421</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118791141</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152201.html</idno>
+            </person>
+            <person xml:id="pmb5428">
+               <persName>
+                  <surname>Rembrandt Harmenszoon van Rijn</surname>
+               </persName>
+               <birth>
+                  <date>1606-07-15</date>
+                  <placeName type="wikidata" ref="Q43631">Leiden</placeName>
+               </birth>
+               <death>
+                  <date>1669-10-04</date>
+                  <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1050_p6</idno>
+               <idno type="wikidata">Q5598</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
+            </person>
+            <person xml:id="pmb113229">
+               <persName>
+                  <surname>Delacroix</surname>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <birth>
+                  <date>1798-04-26</date>
+                  <placeName type="wikidata" ref="Q274327">Saint-Maurice</placeName>
+               </birth>
+               <death>
+                  <date>1863-08-13</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3466_p4</idno>
+               <idno type="wikidata">Q33477</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118524461</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113229.html</idno>
+            </person>
+            <person xml:id="pmb152543">
+               <persName>
+                  <surname>Bonnat</surname>
+                  <forename>Léon</forename>
+               </persName>
+               <birth>
+                  <date>1833-06-20</date>
+                  <placeName type="wikidata" ref="Q134674">Bayonne</placeName>
+               </birth>
+               <death>
+                  <date>1922-09-08</date>
+                  <placeName type="wikidata" ref="Q426379">Monchy-Saint-Éloi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2702_p1</idno>
+               <idno type="wikidata">Q170259</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116241772</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152543.html</idno>
+            </person>
+            <person xml:id="pmb116297">
+               <persName>
+                  <surname>Troyon</surname>
+                  <forename>Constant</forename>
+               </persName>
+               <birth>
+                  <date>1810-08-28</date>
+                  <placeName type="wikidata" ref="Q206493">Sèvres</placeName>
+               </birth>
+               <death>
+                  <date>1865-02-21</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2698_p10</idno>
+               <idno type="wikidata">Q219403</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/12357353X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116297.html</idno>
+            </person>
+            <person xml:id="pmb153783">
+               <persName>
+                  <surname>Rapin</surname>
+                  <forename>Alexandre</forename>
+               </persName>
+               <birth>
+                  <date>1839-06-21</date>
+                  <placeName type="wikidata" ref="Q901542">Noroy-le-Bourg</placeName>
+               </birth>
+               <death>
+                  <date>1889-11-21</date>
+                  <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2698_p11</idno>
+               <idno type="wikidata">Q47358221</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153783.html</idno>
+            </person>
+            <person xml:id="pmb157190">
+               <persName>
+                  <surname>Moyo</surname>
+                  <forename>Pedro [Maler] ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2698_p12</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157190.html</idno>
+            </person>
+            <person xml:id="pmb156971">
+               <persName>
+                  <surname>Goya y Lucientes</surname>
+                  <forename>Francisco José de</forename>
+               </persName>
+               <birth>
+                  <date when="1746">1746</date>
+               </birth>
+               <death>
+                  <date when="1828">1828</date>
+               </death>
+               <idno type="HB-tv">HB-tv_333_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156971.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157187">
-         <persName>
-            <surname>Karl VII. von Frankreich</surname>
-         </persName>
-         <birth>
-            <date when="1403">1403</date>
-         </birth>
-         <death>
-            <date when="1461">1461</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2698_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157187.html</idno>
-      </person>
-      <person xml:id="pmb157188">
-         <persName>
-            <surname>Sernin</surname>
-         </persName>
-         <birth>
-            <date when-custom="3. Jh.">3. Jh.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_2698_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157188.html</idno>
-      </person>
-      <person xml:id="pmb157189">
-         <persName>
-            <surname>Veronika</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_2698_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157189.html</idno>
-      </person>
-      <person xml:id="pmb115492">
-         <persName>
-            <surname>Murillo</surname>
-            <forename>Bartolomé Esteban</forename>
-         </persName>
-         <birth>
-            <date>1617-12-01</date>
-            <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
-         </birth>
-         <death>
-            <date>1682-04-01</date>
-            <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2698_p4</idno>
-         <idno type="wikidata">Q192062</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11858586X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115492.html</idno>
-      </person>
-      <person xml:id="pmb113150">
-         <persName>
-            <surname>Correggio</surname>
-            <forename>Antonio da</forename>
-         </persName>
-         <birth>
-            <date>1489-08-30</date>
-            <placeName type="wikidata" ref="Q111176">Correggio</placeName>
-         </birth>
-         <death>
-            <date>1534-03-04</date>
-            <placeName type="wikidata" ref="Q111176">Correggio</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3427_p10</idno>
-         <idno type="wikidata">Q8457</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11867692X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113150.html</idno>
-      </person>
-      <person xml:id="pmb113150">
-         <persName>
-            <surname>Allegri</surname>
-            <forename>Antonio</forename>
-         </persName>
-         <birth>
-            <date>1489-08-30</date>
-            <placeName type="wikidata" ref="Q111176">Correggio</placeName>
-         </birth>
-         <death>
-            <date>1534-03-04</date>
-            <placeName type="wikidata" ref="Q111176">Correggio</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2614_p9</idno>
-         <idno type="wikidata">Q8457</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11867692X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113150.html</idno>
-      </person>
-      <person xml:id="pmb152201">
-         <persName>
-            <surname>Rosa</surname>
-            <forename>Salvator</forename>
-         </persName>
-         <birth>
-            <date>1615-06-20</date>
-            <placeName type="wikidata" ref="Q2634">Neapel</placeName>
-         </birth>
-         <death>
-            <date>1673-03-15</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2782_p8</idno>
-         <idno type="wikidata">Q359421</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118791141</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152201.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1050_p6</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3496_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1217_p3</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_161_p6</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4863_p19</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3377_p11</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3371_p10</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3370_p13</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_158_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3364_p8</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3354_p9</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1491_p11</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5251_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5221_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5206_p7</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_148_p6</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5450_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5355_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5340_p7</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3465_p8</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3463_p4</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_41_p5</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4885_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3427_p14</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_737_p1</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2987_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2980_p9</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2762_p3</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2729_p4</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2698_p7</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1351_p37</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_197_p31</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2626_p32</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2614_p25</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb5428">
-         <persName>
-            <surname>Rembrandt Harmenszoon van Rijn</surname>
-         </persName>
-         <birth>
-            <date>1606-07-15</date>
-            <placeName type="wikidata" ref="Q43631">Leiden</placeName>
-         </birth>
-         <death>
-            <date>1669-10-04</date>
-            <placeName type="wikidata" ref="Q727">Amsterdam</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3862_p2</idno>
-         <idno type="wikidata">Q5598</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb5428.html</idno>
-      </person>
-      <person xml:id="pmb113229">
-         <persName>
-            <surname>Delacroix</surname>
-            <forename>Ferdinand</forename>
-         </persName>
-         <birth>
-            <date>1798-04-26</date>
-            <placeName type="wikidata" ref="Q274327">Saint-Maurice</placeName>
-         </birth>
-         <death>
-            <date>1863-08-13</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3466_p4</idno>
-         <idno type="wikidata">Q33477</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524461</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113229.html</idno>
-      </person>
-      <person xml:id="pmb113229">
-         <persName>
-            <surname>Delacroix</surname>
-            <forename>Eugène</forename>
-         </persName>
-         <birth>
-            <date>1798-04-26</date>
-            <placeName type="wikidata" ref="Q274327">Saint-Maurice</placeName>
-         </birth>
-         <death>
-            <date>1863-08-13</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_46_p3</idno>
-         <idno type="wikidata">Q33477</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524461</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113229.html</idno>
-      </person>
-      <person xml:id="pmb152543">
-         <persName>
-            <surname>Bonnat</surname>
-            <forename>Léon</forename>
-         </persName>
-         <birth>
-            <date>1833-06-20</date>
-            <placeName type="wikidata" ref="Q134674">Bayonne</placeName>
-         </birth>
-         <death>
-            <date>1922-09-08</date>
-            <placeName type="wikidata" ref="Q426379">Monchy-Saint-Éloi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2702_p1</idno>
-         <idno type="wikidata">Q170259</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116241772</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152543.html</idno>
-      </person>
-      <person xml:id="pmb116297">
-         <persName>
-            <surname>Troyon</surname>
-            <forename>Constant</forename>
-         </persName>
-         <birth>
-            <date>1810-08-28</date>
-            <placeName type="wikidata" ref="Q206493">Sèvres</placeName>
-         </birth>
-         <death>
-            <date>1865-02-21</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2698_p10</idno>
-         <idno type="wikidata">Q219403</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/12357353X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116297.html</idno>
-      </person>
-      <person xml:id="pmb153783">
-         <persName>
-            <surname>Rapin</surname>
-            <forename>Alexandre</forename>
-         </persName>
-         <birth>
-            <date>1839-06-21</date>
-            <placeName type="wikidata" ref="Q901542">Noroy-le-Bourg</placeName>
-         </birth>
-         <death>
-            <date>1889-11-21</date>
-            <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2698_p11</idno>
-         <idno type="wikidata">Q47358221</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153783.html</idno>
-      </person>
-      <person xml:id="pmb153783">
-         <persName>
-            <surname>Rapin</surname>
-            <forename>Alexandre</forename>
-         </persName>
-         <birth>
-            <date>1839-06-21</date>
-            <placeName type="wikidata" ref="Q901542">Noroy-le-Bourg</placeName>
-         </birth>
-         <death>
-            <date>1889-11-21</date>
-            <placeName type="wikidata" ref="Q259463">7. Arrondissement von Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2643_p11</idno>
-         <idno type="wikidata">Q47358221</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153783.html</idno>
-      </person>
-      <person xml:id="pmb157190">
-         <persName>
-            <surname>Moyo</surname>
-            <forename>Pedro [Maler] ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2698_p12</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157190.html</idno>
-      </person>
-      <person xml:id="pmb156971">
-         <persName>
-            <surname>Goya y Lucientes</surname>
-            <forename>Francisco José de</forename>
-         </persName>
-         <birth>
-            <date when="1746">1746</date>
-         </birth>
-         <death>
-            <date when="1828">1828</date>
-         </death>
-         <idno type="HB-tv">HB-tv_333_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156971.html</idno>
-      </person>
-   </back>
 </TEI>

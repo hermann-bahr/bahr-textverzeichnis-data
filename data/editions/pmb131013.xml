@@ -80,26 +80,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11464">
+               <persName>
+                  <surname>van Gogh</surname>
+                  <forename>Vincent</forename>
+               </persName>
+               <birth>
+                  <date>1853-03-30</date>
+                  <placeName type="wikidata" ref="Q9883">Zundert</placeName>
+               </birth>
+               <death>
+                  <date>1890-07-29</date>
+                  <placeName type="wikidata" ref="Q4819026"/>
+               </death>
+               <idno type="HB-tv">HB-tv_5242_p2</idno>
+               <idno type="wikidata">Q5582</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118540416</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11464.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11464">
-         <persName>
-            <surname>van Gogh</surname>
-            <forename>Vincent</forename>
-         </persName>
-         <birth>
-            <date>1853-03-30</date>
-            <placeName type="wikidata" ref="Q9883">Zundert</placeName>
-         </birth>
-         <death>
-            <date>1890-07-29</date>
-            <placeName type="wikidata" ref="Q4819026"/>
-         </death>
-         <idno type="HB-tv">HB-tv_5242_p2</idno>
-         <idno type="wikidata">Q5582</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118540416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11464.html</idno>
-      </person>
-   </back>
 </TEI>

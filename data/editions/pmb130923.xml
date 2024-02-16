@@ -105,22 +105,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156240">
+               <persName>
+                  <surname>Rößler</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <persName type="namensvariante">Carl Reßner</persName>
+               <birth>
+                  <date when="1864">1864</date>
+               </birth>
+               <death>
+                  <date when="1949">1949</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3888_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156240.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156240">
-         <persName>
-            <surname>Rößler</surname>
-            <forename>Carl</forename>
-         </persName>
-         <persName type="namensvariante">Carl Reßner</persName>
-         <birth>
-            <date when="1864">1864</date>
-         </birth>
-         <death>
-            <date when="1949">1949</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3888_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156240.html</idno>
-      </person>
-   </back>
 </TEI>

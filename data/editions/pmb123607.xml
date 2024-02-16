@@ -77,15 +77,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154465">
+               <persName>
+                  <surname>Sutton Vane</surname>
+                  <forename>Sr.</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2381_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154465.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154465">
-         <persName>
-            <surname>Sutton Vane</surname>
-            <forename>Sr.</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2381_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154465.html</idno>
-      </person>
-   </back>
 </TEI>

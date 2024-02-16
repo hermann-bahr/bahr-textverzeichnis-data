@@ -94,26 +94,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb152306">
+               <persName>
+                  <surname>Buls</surname>
+                  <forename>Karel</forename>
+               </persName>
+               <birth>
+                  <date>1837-10-13</date>
+                  <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
+               </birth>
+               <death>
+                  <date>1914-07-13</date>
+                  <placeName type="wikidata" ref="Q208713">Ixelles/Elsene</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2756_p1</idno>
+               <idno type="wikidata">Q716382</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119042770</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152306.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb152306">
-         <persName>
-            <surname>Buls</surname>
-            <forename>Karel</forename>
-         </persName>
-         <birth>
-            <date>1837-10-13</date>
-            <placeName type="wikidata" ref="Q239">Stadt Brüssel</placeName>
-         </birth>
-         <death>
-            <date>1914-07-13</date>
-            <placeName type="wikidata" ref="Q208713">Ixelles/Elsene</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2756_p1</idno>
-         <idno type="wikidata">Q716382</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119042770</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152306.html</idno>
-      </person>
-   </back>
 </TEI>

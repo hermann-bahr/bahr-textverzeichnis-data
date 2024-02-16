@@ -85,31 +85,33 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+            <person xml:id="pmb154957">
+               <persName>
+                  <surname>Heine</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1865">um 1865</date>
+               </birth>
+               <death>
+                  <date when="1923">1923</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6574_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154957.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-      <person xml:id="pmb154957">
-         <persName>
-            <surname>Heine</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1865">um 1865</date>
-         </birth>
-         <death>
-            <date when="1923">1923</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6574_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154957.html</idno>
-      </person>
-   </back>
 </TEI>

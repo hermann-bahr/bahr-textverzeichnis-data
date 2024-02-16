@@ -100,40 +100,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154008">
+               <persName>
+                  <surname>Engels</surname>
+                  <forename>Alexander</forename>
+               </persName>
+               <birth>
+                  <date when="1871">1871</date>
+               </birth>
+               <death>
+                  <date when="1933">1933</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2007_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154008.html</idno>
+            </person>
+            <person xml:id="pmb148764">
+               <persName>
+                  <surname>Schroth</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <birth>
+                  <date>1871-03-23</date>
+                  <placeName type="wikidata" ref="Q14849">Pirmasens</placeName>
+               </birth>
+               <death>
+                  <date>1945-01-14</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2007_p2</idno>
+               <idno type="wikidata">Q90979</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117099228</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148764.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154008">
-         <persName>
-            <surname>Engels</surname>
-            <forename>Alexander</forename>
-         </persName>
-         <birth>
-            <date when="1871">1871</date>
-         </birth>
-         <death>
-            <date when="1933">1933</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2007_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154008.html</idno>
-      </person>
-      <person xml:id="pmb148764">
-         <persName>
-            <surname>Schroth</surname>
-            <forename>Heinrich</forename>
-         </persName>
-         <birth>
-            <date>1871-03-23</date>
-            <placeName type="wikidata" ref="Q14849">Pirmasens</placeName>
-         </birth>
-         <death>
-            <date>1945-01-14</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2007_p2</idno>
-         <idno type="wikidata">Q90979</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117099228</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148764.html</idno>
-      </person>
-   </back>
 </TEI>

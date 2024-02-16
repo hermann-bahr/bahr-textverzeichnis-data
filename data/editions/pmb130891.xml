@@ -81,46 +81,48 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb151062">
+               <persName>
+                  <surname>Barat</surname>
+                  <forename>Sophie</forename>
+               </persName>
+               <birth>
+                  <date>1779-12-12</date>
+                  <placeName type="wikidata" ref="Q476584">Joigny</placeName>
+               </birth>
+               <death>
+                  <date>1865-05-25</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4326_p1</idno>
+               <idno type="wikidata">Q463905</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118652400</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151062.html</idno>
+            </person>
+            <person xml:id="pmb115350">
+               <persName>
+                  <surname>Marlitt</surname>
+                  <forename>E.</forename>
+               </persName>
+               <persName type="namensvariante">Eugenie John</persName>
+               <birth>
+                  <date>1825-12-05</date>
+                  <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
+               </birth>
+               <death>
+                  <date>1887-06-22</date>
+                  <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4464_p5</idno>
+               <idno type="wikidata">Q62950</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118731092</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115350.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb151062">
-         <persName>
-            <surname>Barat</surname>
-            <forename>Sophie</forename>
-         </persName>
-         <birth>
-            <date>1779-12-12</date>
-            <placeName type="wikidata" ref="Q476584">Joigny</placeName>
-         </birth>
-         <death>
-            <date>1865-05-25</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4326_p1</idno>
-         <idno type="wikidata">Q463905</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118652400</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151062.html</idno>
-      </person>
-      <person xml:id="pmb115350">
-         <persName>
-            <surname>Marlitt</surname>
-            <forename>E.</forename>
-         </persName>
-         <persName type="namensvariante">Eugenie John</persName>
-         <birth>
-            <date>1825-12-05</date>
-            <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
-         </birth>
-         <death>
-            <date>1887-06-22</date>
-            <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4464_p5</idno>
-         <idno type="wikidata">Q62950</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118731092</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115350.html</idno>
-      </person>
-   </back>
 </TEI>

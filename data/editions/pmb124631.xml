@@ -103,60 +103,62 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154836">
+               <persName>
+                  <surname>Jahn</surname>
+                  <forename>Friedrich Ludwig</forename>
+               </persName>
+               <birth>
+                  <date when="1778">1778</date>
+               </birth>
+               <death>
+                  <date when="1852">1852</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3506_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154836.html</idno>
+            </person>
+            <person xml:id="pmb154837">
+               <persName>
+                  <surname>Pindar</surname>
+               </persName>
+               <birth>
+                  <date when-custom="522/518">522/518</date>
+               </birth>
+               <death>
+                  <date when-custom="nach 445 v.u.Z.">nach 445 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3506_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154837.html</idno>
+            </person>
+            <person xml:id="pmb154838">
+               <persName>
+                  <surname>Alexander der Große</surname>
+               </persName>
+               <birth>
+                  <date when="0356">356</date>
+               </birth>
+               <death>
+                  <date when-custom="323 v.u.Z.">323 v.u.Z.</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3506_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154838.html</idno>
+            </person>
+            <person xml:id="pmb154839">
+               <persName>
+                  <surname>Karl der Große</surname>
+               </persName>
+               <birth>
+                  <date when-custom="747/748">747/748</date>
+               </birth>
+               <death>
+                  <date when="0814">814</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3506_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154839.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154836">
-         <persName>
-            <surname>Jahn</surname>
-            <forename>Friedrich Ludwig</forename>
-         </persName>
-         <birth>
-            <date when="1778">1778</date>
-         </birth>
-         <death>
-            <date when="1852">1852</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3506_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154836.html</idno>
-      </person>
-      <person xml:id="pmb154837">
-         <persName>
-            <surname>Pindar</surname>
-         </persName>
-         <birth>
-            <date when-custom="522/518">522/518</date>
-         </birth>
-         <death>
-            <date when-custom="nach 445 v.u.Z.">nach 445 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3506_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154837.html</idno>
-      </person>
-      <person xml:id="pmb154838">
-         <persName>
-            <surname>Alexander der Große</surname>
-         </persName>
-         <birth>
-            <date when="0356">356</date>
-         </birth>
-         <death>
-            <date when-custom="323 v.u.Z.">323 v.u.Z.</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3506_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154838.html</idno>
-      </person>
-      <person xml:id="pmb154839">
-         <persName>
-            <surname>Karl der Große</surname>
-         </persName>
-         <birth>
-            <date when-custom="747/748">747/748</date>
-         </birth>
-         <death>
-            <date when="0814">814</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3506_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154839.html</idno>
-      </person>
-   </back>
 </TEI>

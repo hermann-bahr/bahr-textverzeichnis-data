@@ -100,84 +100,86 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154349">
+               <persName>
+                  <surname>Helmer</surname>
+                  <forename>Hermann</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_553_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154349.html</idno>
+            </person>
+            <person xml:id="pmb7036">
+               <persName>
+                  <surname>Eulenburg und Hertefeld</surname>
+                  <forename>Philipp Friedrich Alexander</forename>
+               </persName>
+               <birth>
+                  <date>1847-02-12</date>
+                  <placeName type="wikidata" ref="Q4120832">Königsberg</placeName>
+               </birth>
+               <death>
+                  <date>1921-09-17</date>
+                  <placeName type="wikidata" ref="Q519157">Templin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_553_p2</idno>
+               <idno type="wikidata">Q213964</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118531352</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7036.html</idno>
+            </person>
+            <person xml:id="pmb154350">
+               <persName>
+                  <surname>Pierson</surname>
+                  <forename>Henry</forename>
+               </persName>
+               <birth>
+                  <date when="1851">1851</date>
+               </birth>
+               <death>
+                  <date when="1902">1902</date>
+               </death>
+               <idno type="HB-tv">HB-tv_553_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154350.html</idno>
+            </person>
+            <person xml:id="pmb154351">
+               <persName>
+                  <surname>Teztzlaff</surname>
+                  <forename>Toni</forename>
+               </persName>
+               <birth>
+                  <date when="1871">1871</date>
+               </birth>
+               <death>
+                  <date when="1947">1947</date>
+               </death>
+               <idno type="HB-tv">HB-tv_553_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154351.html</idno>
+            </person>
+            <person xml:id="pmb154352">
+               <persName>
+                  <surname>Perger</surname>
+                  <forename>Richard</forename>
+               </persName>
+               <birth>
+                  <date when="1854">1854</date>
+               </birth>
+               <death>
+                  <date when="1911">1911</date>
+               </death>
+               <idno type="HB-tv">HB-tv_553_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154352.html</idno>
+            </person>
+            <person xml:id="pmb154353">
+               <persName>
+                  <surname>Kauders</surname>
+                  <forename>Armin</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_553_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154353.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154349">
-         <persName>
-            <surname>Helmer</surname>
-            <forename>Hermann</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_553_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154349.html</idno>
-      </person>
-      <person xml:id="pmb7036">
-         <persName>
-            <surname>Eulenburg und Hertefeld</surname>
-            <forename>Philipp Friedrich Alexander</forename>
-         </persName>
-         <birth>
-            <date>1847-02-12</date>
-            <placeName type="wikidata" ref="Q4120832">Königsberg</placeName>
-         </birth>
-         <death>
-            <date>1921-09-17</date>
-            <placeName type="wikidata" ref="Q519157">Templin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_553_p2</idno>
-         <idno type="wikidata">Q213964</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118531352</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb7036.html</idno>
-      </person>
-      <person xml:id="pmb154350">
-         <persName>
-            <surname>Pierson</surname>
-            <forename>Henry</forename>
-         </persName>
-         <birth>
-            <date when="1851">1851</date>
-         </birth>
-         <death>
-            <date when="1902">1902</date>
-         </death>
-         <idno type="HB-tv">HB-tv_553_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154350.html</idno>
-      </person>
-      <person xml:id="pmb154351">
-         <persName>
-            <surname>Teztzlaff</surname>
-            <forename>Toni</forename>
-         </persName>
-         <birth>
-            <date when="1871">1871</date>
-         </birth>
-         <death>
-            <date when="1947">1947</date>
-         </death>
-         <idno type="HB-tv">HB-tv_553_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154351.html</idno>
-      </person>
-      <person xml:id="pmb154352">
-         <persName>
-            <surname>Perger</surname>
-            <forename>Richard</forename>
-         </persName>
-         <birth>
-            <date when="1854">1854</date>
-         </birth>
-         <death>
-            <date when="1911">1911</date>
-         </death>
-         <idno type="HB-tv">HB-tv_553_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154352.html</idno>
-      </person>
-      <person xml:id="pmb154353">
-         <persName>
-            <surname>Kauders</surname>
-            <forename>Armin</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_553_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154353.html</idno>
-      </person>
-   </back>
 </TEI>

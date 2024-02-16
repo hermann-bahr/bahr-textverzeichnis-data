@@ -100,75 +100,39 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154870">
+               <persName>
+                  <surname>Schropp</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <death>
+                  <date when="1869">1869</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3495_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154870.html</idno>
+            </person>
+            <person xml:id="pmb116858">
+               <persName>
+                  <surname>Scheffel</surname>
+                  <forename>Joseph Victor</forename>
+               </persName>
+               <birth>
+                  <date>1826-02-16</date>
+                  <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
+               </birth>
+               <death>
+                  <date>1886-04-09</date>
+                  <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4469_p1</idno>
+               <idno type="wikidata">Q9082</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154870">
-         <persName>
-            <surname>Schropp</surname>
-            <forename>Josef</forename>
-         </persName>
-         <death>
-            <date when="1869">1869</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3495_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154870.html</idno>
-      </person>
-      <person xml:id="pmb116858">
-         <persName>
-            <surname>Scheffel</surname>
-            <forename>Joseph Victor</forename>
-         </persName>
-         <birth>
-            <date>1826-02-16</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1886-04-09</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4469_p1</idno>
-         <idno type="wikidata">Q9082</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
-      </person>
-      <person xml:id="pmb116858">
-         <persName>
-            <surname>Scheffel</surname>
-            <forename>Joseph Victor von</forename>
-         </persName>
-         <birth>
-            <date>1826-02-16</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1886-04-09</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4858_p27</idno>
-         <idno type="wikidata">Q9082</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
-      </person>
-      <person xml:id="pmb116858">
-         <persName>
-            <surname>Scheffel</surname>
-            <forename>Josef Viktor</forename>
-         </persName>
-         <birth>
-            <date>1826-02-16</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1886-04-09</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1023_p6</idno>
-         <idno type="wikidata">Q9082</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
-      </person>
-   </back>
 </TEI>

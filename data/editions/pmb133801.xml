@@ -102,64 +102,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb117409">
+               <persName>
+                  <surname>Nicolai</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1733-03-18</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1811-01-11</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4845_p2</idno>
+               <idno type="wikidata">Q215853</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118587668</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117409.html</idno>
+            </person>
+            <person xml:id="pmb63259">
+               <persName>
+                  <surname>Lenau</surname>
+                  <forename>Nikolaus d. i. Nikolaus Niembsch von Strehlenau</forename>
+               </persName>
+               <birth>
+                  <date>1802-08-25</date>
+                  <placeName type="wikidata" ref="Q870864">Lenauheim</placeName>
+               </birth>
+               <death>
+                  <date>1850-08-22</date>
+                  <placeName type="wikidata" ref="Q2009330">Oberdöbling</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_53_p1</idno>
+               <idno type="wikidata">Q84280</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118571508</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63259.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb117409">
-         <persName>
-            <surname>Nicolai</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1733-03-18</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1811-01-11</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4845_p2</idno>
-         <idno type="wikidata">Q215853</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118587668</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117409.html</idno>
-      </person>
-      <person xml:id="pmb63259">
-         <persName>
-            <surname>Lenau</surname>
-            <forename>Nikolaus d. i. Nikolaus Niembsch von Strehlenau</forename>
-         </persName>
-         <birth>
-            <date>1802-08-25</date>
-            <placeName type="wikidata" ref="Q870864">Lenauheim</placeName>
-         </birth>
-         <death>
-            <date>1850-08-22</date>
-            <placeName type="wikidata" ref="Q2009330">Oberdöbling</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_53_p1</idno>
-         <idno type="wikidata">Q84280</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118571508</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63259.html</idno>
-      </person>
-      <person xml:id="pmb63259">
-         <persName>
-            <surname>Lenau</surname>
-            <forename>Nikolaus</forename>
-         </persName>
-         <birth>
-            <date>1802-08-25</date>
-            <placeName type="wikidata" ref="Q870864">Lenauheim</placeName>
-         </birth>
-         <death>
-            <date>1850-08-22</date>
-            <placeName type="wikidata" ref="Q2009330">Oberdöbling</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4846_p24</idno>
-         <idno type="wikidata">Q84280</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118571508</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63259.html</idno>
-      </person>
-   </back>
 </TEI>

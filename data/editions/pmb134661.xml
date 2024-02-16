@@ -77,99 +77,82 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157435">
+               <persName>
+                  <surname>Galliset</surname>
+                  <forename>Marquise de</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1091_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157435.html</idno>
+            </person>
+            <person xml:id="pmb157436">
+               <persName>
+                  <surname>Sagan</surname>
+                  <forename>Anne-Alexandrine-Jeanne-Marguerite Sellière</forename>
+               </persName>
+               <occupation>duchesse de</occupation>
+               <birth>
+                  <date when="1839">1839</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1091_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157436.html</idno>
+            </person>
+            <person xml:id="pmb157437">
+               <persName>
+                  <surname>Troubetzkoy</surname>
+                  <forename>princesse</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1091_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157437.html</idno>
+            </person>
+            <person xml:id="pmb157415">
+               <persName>
+                  <surname>d’Uzès</surname>
+                  <forename>Marie Adrienne Anne Clémentine</forename>
+                  <surname type="birthname"> Rochechouart de Mortemart</surname>
+               </persName>
+               <birth>
+                  <date when="1847">1847</date>
+               </birth>
+               <death>
+                  <date when="1933">1933</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1179_p8</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157415.html</idno>
+            </person>
+            <person xml:id="pmb157438">
+               <persName>
+                  <surname>Grouchy</surname>
+                  <forename>vicomtesse</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1091_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157438.html</idno>
+            </person>
+            <person xml:id="pmb12231">
+               <persName>
+                  <surname>Metternich-Sandor</surname>
+                  <forename>Pauline</forename>
+               </persName>
+               <birth>
+                  <date>1836-02-25</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1921-09-28</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4824_p3</idno>
+               <idno type="wikidata">Q79171</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118581481</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb12231.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157435">
-         <persName>
-            <surname>Galliset</surname>
-            <forename>Marquise de</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1091_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157435.html</idno>
-      </person>
-      <person xml:id="pmb157436">
-         <persName>
-            <surname>Sagan</surname>
-            <forename>Anne-Alexandrine-Jeanne-Marguerite Sellière</forename>
-         </persName>
-         <occupation>duchesse de</occupation>
-         <birth>
-            <date when="1839">1839</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1091_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157436.html</idno>
-      </person>
-      <person xml:id="pmb157437">
-         <persName>
-            <surname>Troubetzkoy</surname>
-            <forename>princesse</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1091_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157437.html</idno>
-      </person>
-      <person xml:id="pmb157415">
-         <persName>
-            <surname>d’Uzès</surname>
-            <forename>Marie Adrienne Anne Clémentine</forename>
-            <surname type="birthname"> Rochechouart de Mortemart</surname>
-         </persName>
-         <birth>
-            <date when="1847">1847</date>
-         </birth>
-         <death>
-            <date when="1933">1933</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1179_p8</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157415.html</idno>
-      </person>
-      <person xml:id="pmb157438">
-         <persName>
-            <surname>Grouchy</surname>
-            <forename>vicomtesse</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1091_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157438.html</idno>
-      </person>
-      <person xml:id="pmb12231">
-         <persName>
-            <surname>Metternich-Sandor</surname>
-            <forename>Pauline</forename>
-         </persName>
-         <birth>
-            <date>1836-02-25</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1921-09-28</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4824_p3</idno>
-         <idno type="wikidata">Q79171</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118581481</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb12231.html</idno>
-      </person>
-      <person xml:id="pmb12231">
-         <persName>
-            <surname>Metternich-Sàndor</surname>
-            <forename>Pauline von</forename>
-         </persName>
-         <birth>
-            <date>1836-02-25</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1921-09-28</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1401_p8</idno>
-         <idno type="wikidata">Q79171</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118581481</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb12231.html</idno>
-      </person>
-   </back>
 </TEI>

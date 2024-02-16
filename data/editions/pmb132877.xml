@@ -92,54 +92,56 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156661">
+               <persName>
+                  <surname>Felix</surname>
+                  <forename>Eugen</forename>
+               </persName>
+               <birth>
+                  <date when="1837">1837</date>
+               </birth>
+               <death>
+                  <date when="1906">1906</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2972_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156661.html</idno>
+            </person>
+            <person xml:id="pmb155230">
+               <persName>
+                  <surname>Schindler</surname>
+                  <forename>Alexander Julius</forename>
+               </persName>
+               <birth>
+                  <date when="1818">1818</date>
+               </birth>
+               <death>
+                  <date when="1885">1885</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4852_p24</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155230.html</idno>
+            </person>
+            <person xml:id="pmb115790">
+               <persName>
+                  <surname>Puvis de Chavannes</surname>
+                  <forename>Pierre</forename>
+               </persName>
+               <birth>
+                  <date>1824-12-14</date>
+                  <placeName type="wikidata" ref="Q456">Lyon</placeName>
+               </birth>
+               <death>
+                  <date>1898-10-24</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3543_p14</idno>
+               <idno type="wikidata">Q216873</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156661">
-         <persName>
-            <surname>Felix</surname>
-            <forename>Eugen</forename>
-         </persName>
-         <birth>
-            <date when="1837">1837</date>
-         </birth>
-         <death>
-            <date when="1906">1906</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2972_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156661.html</idno>
-      </person>
-      <person xml:id="pmb155230">
-         <persName>
-            <surname>Schindler</surname>
-            <forename>Alexander Julius</forename>
-         </persName>
-         <birth>
-            <date when="1818">1818</date>
-         </birth>
-         <death>
-            <date when="1885">1885</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4852_p24</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155230.html</idno>
-      </person>
-      <person xml:id="pmb115790">
-         <persName>
-            <surname>Puvis de Chavannes</surname>
-            <forename>Pierre</forename>
-         </persName>
-         <birth>
-            <date>1824-12-14</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </birth>
-         <death>
-            <date>1898-10-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3543_p14</idno>
-         <idno type="wikidata">Q216873</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
-      </person>
-   </back>
 </TEI>

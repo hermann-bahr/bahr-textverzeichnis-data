@@ -93,230 +93,175 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb116065">
+               <persName>
+                  <surname>Silcher</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1789-06-27</date>
+                  <placeName type="wikidata" ref="Q13585196">Schnait</placeName>
+               </birth>
+               <death>
+                  <date>1860-08-26</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1023_p1</idno>
+               <idno type="wikidata">Q700090</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118614339</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116065.html</idno>
+            </person>
+            <person xml:id="pmb157492">
+               <persName>
+                  <surname>Erk</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <birth>
+                  <date when="1809">1809</date>
+               </birth>
+               <death>
+                  <date when="1879">1879</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1023_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157492.html</idno>
+            </person>
+            <person xml:id="pmb64840">
+               <persName>
+                  <surname>Körner</surname>
+                  <forename>Theodor</forename>
+               </persName>
+               <birth>
+                  <date>1791-09-23</date>
+                  <placeName type="wikidata" ref="Q1731">Dresden</placeName>
+               </birth>
+               <death>
+                  <date>1813-08-26</date>
+                  <placeName type="wikidata" ref="Q1561056">Rosenow</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4452_p7</idno>
+               <idno type="wikidata">Q62344</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118713507</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64840.html</idno>
+            </person>
+            <person xml:id="pmb114581">
+               <persName>
+                  <surname>Fallersleben</surname>
+                  <forename>August Heinrich Hoffmann von</forename>
+               </persName>
+               <birth>
+                  <date>1798-04-02</date>
+                  <placeName type="wikidata" ref="Q451053">Fallersleben</placeName>
+               </birth>
+               <death>
+                  <date>1874-01-19</date>
+                  <placeName type="wikidata" ref="Q56004">Abtei Corvey</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1023_p4</idno>
+               <idno type="wikidata">Q76938</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552589</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114581.html</idno>
+            </person>
+            <person xml:id="pmb153549">
+               <persName>
+                  <surname>Schenkendorf</surname>
+                  <forename>Maximilian von</forename>
+               </persName>
+               <birth>
+                  <date>1783-12-11</date>
+                  <placeName type="wikidata" ref="Q5647">Sowetsk</placeName>
+               </birth>
+               <death>
+                  <date>1817-12-11</date>
+                  <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1023_p5</idno>
+               <idno type="wikidata">Q71616</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118754599</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153549.html</idno>
+            </person>
+            <person xml:id="pmb116858">
+               <persName>
+                  <surname>Scheffel</surname>
+                  <forename>Joseph Victor</forename>
+               </persName>
+               <birth>
+                  <date>1826-02-16</date>
+                  <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
+               </birth>
+               <death>
+                  <date>1886-04-09</date>
+                  <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4469_p1</idno>
+               <idno type="wikidata">Q9082</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
+            </person>
+            <person xml:id="pmb153552">
+               <persName>
+                  <surname>Mosen</surname>
+                  <forename>Julius</forename>
+               </persName>
+               <birth>
+                  <date>1803-07-08</date>
+                  <placeName type="wikidata" ref="Q1897673">Marieney</placeName>
+               </birth>
+               <death>
+                  <date>1867-10-10</date>
+                  <placeName type="wikidata" ref="Q2936">Oldenburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1023_p7</idno>
+               <idno type="wikidata">Q214737</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118584375</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153552.html</idno>
+            </person>
+            <person xml:id="pmb10293">
+               <persName>
+                  <surname>Uhland</surname>
+                  <forename>Johann Ludwig</forename>
+               </persName>
+               <birth>
+                  <date>1787-04-26</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </birth>
+               <death>
+                  <date>1862-11-13</date>
+                  <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_160_p9</idno>
+               <idno type="wikidata">Q61058</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118625063</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb10293.html</idno>
+            </person>
+            <person xml:id="pmb113978">
+               <persName>
+                  <surname>Freiligrath</surname>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <birth>
+                  <date>1810-06-17</date>
+                  <placeName type="wikidata" ref="Q3922">Detmold</placeName>
+               </birth>
+               <death>
+                  <date>1876-03-18</date>
+                  <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p6</idno>
+               <idno type="wikidata">Q213719</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118535196</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113978.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb116065">
-         <persName>
-            <surname>Silcher</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1789-06-27</date>
-            <placeName type="wikidata" ref="Q13585196">Schnait</placeName>
-         </birth>
-         <death>
-            <date>1860-08-26</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1023_p1</idno>
-         <idno type="wikidata">Q700090</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118614339</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116065.html</idno>
-      </person>
-      <person xml:id="pmb157492">
-         <persName>
-            <surname>Erk</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date when="1809">1809</date>
-         </birth>
-         <death>
-            <date when="1879">1879</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1023_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157492.html</idno>
-      </person>
-      <person xml:id="pmb64840">
-         <persName>
-            <surname>Körner</surname>
-            <forename>Theodor</forename>
-         </persName>
-         <birth>
-            <date>1791-09-23</date>
-            <placeName type="wikidata" ref="Q1731">Dresden</placeName>
-         </birth>
-         <death>
-            <date>1813-08-26</date>
-            <placeName type="wikidata" ref="Q1561056">Rosenow</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4452_p7</idno>
-         <idno type="wikidata">Q62344</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118713507</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64840.html</idno>
-      </person>
-      <person xml:id="pmb114581">
-         <persName>
-            <surname>Fallersleben</surname>
-            <forename>August Heinrich Hoffmann von</forename>
-         </persName>
-         <birth>
-            <date>1798-04-02</date>
-            <placeName type="wikidata" ref="Q451053">Fallersleben</placeName>
-         </birth>
-         <death>
-            <date>1874-01-19</date>
-            <placeName type="wikidata" ref="Q56004">Abtei Corvey</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1023_p4</idno>
-         <idno type="wikidata">Q76938</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552589</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114581.html</idno>
-      </person>
-      <person xml:id="pmb153549">
-         <persName>
-            <surname>Schenkendorf</surname>
-            <forename>Maximilian von</forename>
-         </persName>
-         <birth>
-            <date>1783-12-11</date>
-            <placeName type="wikidata" ref="Q5647">Sowetsk</placeName>
-         </birth>
-         <death>
-            <date>1817-12-11</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1023_p5</idno>
-         <idno type="wikidata">Q71616</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118754599</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153549.html</idno>
-      </person>
-      <person xml:id="pmb116858">
-         <persName>
-            <surname>Scheffel</surname>
-            <forename>Joseph Victor</forename>
-         </persName>
-         <birth>
-            <date>1826-02-16</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1886-04-09</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4469_p1</idno>
-         <idno type="wikidata">Q9082</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
-      </person>
-      <person xml:id="pmb116858">
-         <persName>
-            <surname>Scheffel</surname>
-            <forename>Joseph Victor von</forename>
-         </persName>
-         <birth>
-            <date>1826-02-16</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1886-04-09</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4858_p27</idno>
-         <idno type="wikidata">Q9082</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
-      </person>
-      <person xml:id="pmb116858">
-         <persName>
-            <surname>Scheffel</surname>
-            <forename>Josef Viktor</forename>
-         </persName>
-         <birth>
-            <date>1826-02-16</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1886-04-09</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1023_p6</idno>
-         <idno type="wikidata">Q9082</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118606832</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116858.html</idno>
-      </person>
-      <person xml:id="pmb153552">
-         <persName>
-            <surname>Mosen</surname>
-            <forename>Julius</forename>
-         </persName>
-         <birth>
-            <date>1803-07-08</date>
-            <placeName type="wikidata" ref="Q1897673">Marieney</placeName>
-         </birth>
-         <death>
-            <date>1867-10-10</date>
-            <placeName type="wikidata" ref="Q2936">Oldenburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1023_p7</idno>
-         <idno type="wikidata">Q214737</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118584375</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153552.html</idno>
-      </person>
-      <person xml:id="pmb10293">
-         <persName>
-            <surname>Uhland</surname>
-            <forename>Johann Ludwig</forename>
-         </persName>
-         <birth>
-            <date>1787-04-26</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </birth>
-         <death>
-            <date>1862-11-13</date>
-            <placeName type="wikidata" ref="Q3806">Tübingen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_160_p9</idno>
-         <idno type="wikidata">Q61058</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118625063</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb10293.html</idno>
-      </person>
-      <person xml:id="pmb113978">
-         <persName>
-            <surname>Freiligrath</surname>
-            <forename>Ferdinand</forename>
-         </persName>
-         <birth>
-            <date>1810-06-17</date>
-            <placeName type="wikidata" ref="Q3922">Detmold</placeName>
-         </birth>
-         <death>
-            <date>1876-03-18</date>
-            <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p6</idno>
-         <idno type="wikidata">Q213719</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118535196</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113978.html</idno>
-      </person>
-      <person xml:id="pmb113978">
-         <persName>
-            <surname>Freiligrath</surname>
-            <forename>Hermann Ferdinand</forename>
-         </persName>
-         <birth>
-            <date>1810-06-17</date>
-            <placeName type="wikidata" ref="Q3922">Detmold</placeName>
-         </birth>
-         <death>
-            <date>1876-03-18</date>
-            <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3374_p6</idno>
-         <idno type="wikidata">Q213719</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118535196</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113978.html</idno>
-      </person>
-   </back>
 </TEI>

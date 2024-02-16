@@ -77,45 +77,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149095">
+               <persName>
+                  <surname>Messel</surname>
+                  <forename>Alfred</forename>
+               </persName>
+               <birth>
+                  <date>1853-07-22</date>
+                  <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
+               </birth>
+               <death>
+                  <date>1909-03-24</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1811_p1</idno>
+               <idno type="wikidata">Q73131</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116914009</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149095.html</idno>
+            </person>
+            <person xml:id="pmb106407">
+               <persName>
+                  <surname>Tessenow</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <birth>
+                  <date>1876-04-07</date>
+                  <placeName type="wikidata" ref="Q2861">Rostock</placeName>
+               </birth>
+               <death>
+                  <date>1950-11-01</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1811_p2</idno>
+               <idno type="wikidata">Q63191</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118621408</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb106407.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149095">
-         <persName>
-            <surname>Messel</surname>
-            <forename>Alfred</forename>
-         </persName>
-         <birth>
-            <date>1853-07-22</date>
-            <placeName type="wikidata" ref="Q2973">Darmstadt</placeName>
-         </birth>
-         <death>
-            <date>1909-03-24</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1811_p1</idno>
-         <idno type="wikidata">Q73131</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116914009</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149095.html</idno>
-      </person>
-      <person xml:id="pmb106407">
-         <persName>
-            <surname>Tessenow</surname>
-            <forename>Heinrich</forename>
-         </persName>
-         <birth>
-            <date>1876-04-07</date>
-            <placeName type="wikidata" ref="Q2861">Rostock</placeName>
-         </birth>
-         <death>
-            <date>1950-11-01</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1811_p2</idno>
-         <idno type="wikidata">Q63191</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621408</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb106407.html</idno>
-      </person>
-   </back>
 </TEI>

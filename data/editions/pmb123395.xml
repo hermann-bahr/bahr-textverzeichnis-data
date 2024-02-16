@@ -84,15 +84,17 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154365">
+               <persName>
+                  <surname>Weinberger</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3897_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154365.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154365">
-         <persName>
-            <surname>Weinberger</surname>
-            <forename>Karl</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3897_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154365.html</idno>
-      </person>
-   </back>
 </TEI>

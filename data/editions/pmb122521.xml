@@ -72,37 +72,20 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb63093">
+               <persName>
+                  <surname>Fitger</surname>
+                  <forename>Arthur</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_112_p1</idno>
+               <idno type="wikidata">Q317470</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118691511</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63093.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb63093">
-         <persName>
-            <surname>Fitger</surname>
-            <forename>Arthur</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_112_p1</idno>
-         <idno type="wikidata">Q317470</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118691511</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63093.html</idno>
-      </person>
-      <person xml:id="pmb63093">
-         <persName>
-            <surname>Fitger</surname>
-            <forename>Arthur</forename>
-         </persName>
-         <birth>
-            <date>1840-10-04</date>
-            <placeName type="wikidata" ref="Q3907">Delmenhorst</placeName>
-         </birth>
-         <death>
-            <date>1909-06-28</date>
-            <placeName type="wikidata" ref="Q24879">Bremen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1145_p15</idno>
-         <idno type="wikidata">Q317470</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118691511</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63093.html</idno>
-      </person>
-   </back>
 </TEI>

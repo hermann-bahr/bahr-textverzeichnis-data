@@ -90,21 +90,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154548">
+               <persName>
+                  <surname>Wolff</surname>
+                  <forename>Pius Alexander</forename>
+               </persName>
+               <birth>
+                  <date when="1782">1782</date>
+               </birth>
+               <death>
+                  <date when="1828">1828</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2311_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154548.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154548">
-         <persName>
-            <surname>Wolff</surname>
-            <forename>Pius Alexander</forename>
-         </persName>
-         <birth>
-            <date when="1782">1782</date>
-         </birth>
-         <death>
-            <date when="1828">1828</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2311_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154548.html</idno>
-      </person>
-   </back>
 </TEI>

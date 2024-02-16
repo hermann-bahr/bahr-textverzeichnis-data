@@ -80,21 +80,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154665">
+               <persName>
+                  <surname>Großmann</surname>
+                  <forename>Stefan</forename>
+               </persName>
+               <birth>
+                  <date when="1875">1875</date>
+               </birth>
+               <death>
+                  <date when="1935">1935</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3675_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154665.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154665">
-         <persName>
-            <surname>Großmann</surname>
-            <forename>Stefan</forename>
-         </persName>
-         <birth>
-            <date when="1875">1875</date>
-         </birth>
-         <death>
-            <date when="1935">1935</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3675_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154665.html</idno>
-      </person>
-   </back>
 </TEI>

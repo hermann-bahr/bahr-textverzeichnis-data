@@ -82,31 +82,33 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11740">
+               <persName>
+                  <surname>Theophil Morren</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_4864_p17</idno>
+               <idno type="wikidata">Q51513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
+            </person>
+            <person xml:id="pmb155111">
+               <persName>
+                  <surname>Beaumarchais</surname>
+                  <forename>Pierre-Augustin Caron de</forename>
+               </persName>
+               <birth>
+                  <date when="1732">1732</date>
+               </birth>
+               <death>
+                  <date when="1799">1799</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1195_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155111.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11740">
-         <persName>
-            <surname>Theophil Morren</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_4864_p17</idno>
-         <idno type="wikidata">Q51513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552759</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11740.html</idno>
-      </person>
-      <person xml:id="pmb155111">
-         <persName>
-            <surname>Beaumarchais</surname>
-            <forename>Pierre-Augustin Caron de</forename>
-         </persName>
-         <birth>
-            <date when="1732">1732</date>
-         </birth>
-         <death>
-            <date when="1799">1799</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1195_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155111.html</idno>
-      </person>
-   </back>
 </TEI>

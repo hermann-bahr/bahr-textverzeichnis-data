@@ -78,14 +78,16 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155745">
+               <persName>
+                  <surname>Ruprecht</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_5210_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155745.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155745">
-         <persName>
-            <surname>Ruprecht</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5210_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155745.html</idno>
-      </person>
-   </back>
 </TEI>

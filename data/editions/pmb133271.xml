@@ -78,59 +78,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb113229">
+               <persName>
+                  <surname>Delacroix</surname>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <birth>
+                  <date>1798-04-26</date>
+                  <placeName type="wikidata" ref="Q274327">Saint-Maurice</placeName>
+               </birth>
+               <death>
+                  <date>1863-08-13</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3466_p4</idno>
+               <idno type="wikidata">Q33477</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118524461</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113229.html</idno>
+            </person>
+            <person xml:id="pmb154438">
+               <persName>
+                  <surname>Wagner</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <birth>
+                  <date when="1818">1818</date>
+               </birth>
+               <death>
+                  <date when="1870">1870</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3826_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154438.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb113229">
-         <persName>
-            <surname>Delacroix</surname>
-            <forename>Ferdinand</forename>
-         </persName>
-         <birth>
-            <date>1798-04-26</date>
-            <placeName type="wikidata" ref="Q274327">Saint-Maurice</placeName>
-         </birth>
-         <death>
-            <date>1863-08-13</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3466_p4</idno>
-         <idno type="wikidata">Q33477</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524461</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113229.html</idno>
-      </person>
-      <person xml:id="pmb113229">
-         <persName>
-            <surname>Delacroix</surname>
-            <forename>Eugène</forename>
-         </persName>
-         <birth>
-            <date>1798-04-26</date>
-            <placeName type="wikidata" ref="Q274327">Saint-Maurice</placeName>
-         </birth>
-         <death>
-            <date>1863-08-13</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_46_p3</idno>
-         <idno type="wikidata">Q33477</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524461</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113229.html</idno>
-      </person>
-      <person xml:id="pmb154438">
-         <persName>
-            <surname>Wagner</surname>
-            <forename>Josef</forename>
-         </persName>
-         <birth>
-            <date when="1818">1818</date>
-         </birth>
-         <death>
-            <date when="1870">1870</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3826_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154438.html</idno>
-      </person>
-   </back>
 </TEI>

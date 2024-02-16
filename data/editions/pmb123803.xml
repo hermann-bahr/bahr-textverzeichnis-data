@@ -82,26 +82,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb116335">
+               <persName>
+                  <surname>Carneri</surname>
+                  <forename>Bartholomäus</forename>
+               </persName>
+               <birth>
+                  <date>1821-11-03</date>
+                  <placeName type="wikidata" ref="Q3376">Trient</placeName>
+               </birth>
+               <death>
+                  <date>1909-05-18</date>
+                  <placeName type="wikidata" ref="Q1010">Maribor</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_881_p1</idno>
+               <idno type="wikidata">Q19933037</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119027690</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116335.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb116335">
-         <persName>
-            <surname>Carneri</surname>
-            <forename>Bartholomäus</forename>
-         </persName>
-         <birth>
-            <date>1821-11-03</date>
-            <placeName type="wikidata" ref="Q3376">Trient</placeName>
-         </birth>
-         <death>
-            <date>1909-05-18</date>
-            <placeName type="wikidata" ref="Q1010">Maribor</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_881_p1</idno>
-         <idno type="wikidata">Q19933037</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119027690</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116335.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -93,102 +93,85 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb116418">
+               <persName>
+                  <surname>Virchow</surname>
+                  <forename>Rudolf</forename>
+               </persName>
+               <birth>
+                  <date>1821-10-13</date>
+                  <placeName type="wikidata" ref="Q387406">Świdwin</placeName>
+               </birth>
+               <death>
+                  <date>1902-09-05</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3345_p1</idno>
+               <idno type="wikidata">Q76432</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118627198</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116418.html</idno>
+            </person>
+            <person xml:id="pmb150812">
+               <persName>
+                  <surname>Pechstein</surname>
+                  <forename>Hermann Max</forename>
+               </persName>
+               <birth>
+                  <date>1881-12-31</date>
+                  <placeName type="wikidata" ref="Q3778">Zwickau</placeName>
+               </birth>
+               <death>
+                  <date>1955-06-29</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3467_p2</idno>
+               <idno type="wikidata">Q162105</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118592335</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150812.html</idno>
+            </person>
+            <person xml:id="pmb150815">
+               <persName>
+                  <surname>Gurlitt</surname>
+                  <forename>Fritz</forename>
+               </persName>
+               <birth>
+                  <date>1854-10-03</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1893-02-08</date>
+                  <placeName type="wikidata" ref="Q2428756">Thonberg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3467_p3</idno>
+               <idno type="wikidata">Q1466466</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116930675</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150815.html</idno>
+            </person>
+            <person xml:id="pmb150819">
+               <persName>
+                  <surname>Batsch</surname>
+                  <forename>August</forename>
+               </persName>
+               <birth>
+                  <date>1761-10-28</date>
+                  <placeName type="wikidata" ref="Q3150">Jena</placeName>
+               </birth>
+               <death>
+                  <date>1802-09-29</date>
+                  <placeName type="wikidata" ref="Q3150">Jena</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3467_p4</idno>
+               <idno type="wikidata">Q213687</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/115682171</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150819.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb116418">
-         <persName>
-            <surname>Virchow</surname>
-            <forename>Rudolf</forename>
-         </persName>
-         <birth>
-            <date>1821-10-13</date>
-            <placeName type="wikidata" ref="Q387406">Świdwin</placeName>
-         </birth>
-         <death>
-            <date>1902-09-05</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3345_p1</idno>
-         <idno type="wikidata">Q76432</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627198</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116418.html</idno>
-      </person>
-      <person xml:id="pmb150812">
-         <persName>
-            <surname>Pechstein</surname>
-            <forename>Hermann Max</forename>
-         </persName>
-         <birth>
-            <date>1881-12-31</date>
-            <placeName type="wikidata" ref="Q3778">Zwickau</placeName>
-         </birth>
-         <death>
-            <date>1955-06-29</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3467_p2</idno>
-         <idno type="wikidata">Q162105</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118592335</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150812.html</idno>
-      </person>
-      <person xml:id="pmb150815">
-         <persName>
-            <surname>Gurlitt</surname>
-            <forename>Fritz</forename>
-         </persName>
-         <birth>
-            <date>1854-10-03</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1893-02-08</date>
-            <placeName type="wikidata" ref="Q2428756">Thonberg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3467_p3</idno>
-         <idno type="wikidata">Q1466466</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116930675</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150815.html</idno>
-      </person>
-      <person xml:id="pmb150815">
-         <persName>
-            <surname>Gurlitt</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1854-10-03</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1893-02-08</date>
-            <placeName type="wikidata" ref="Q2428756">Thonberg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_737_p2</idno>
-         <idno type="wikidata">Q1466466</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116930675</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150815.html</idno>
-      </person>
-      <person xml:id="pmb150819">
-         <persName>
-            <surname>Batsch</surname>
-            <forename>August</forename>
-         </persName>
-         <birth>
-            <date>1761-10-28</date>
-            <placeName type="wikidata" ref="Q3150">Jena</placeName>
-         </birth>
-         <death>
-            <date>1802-09-29</date>
-            <placeName type="wikidata" ref="Q3150">Jena</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3467_p4</idno>
-         <idno type="wikidata">Q213687</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/115682171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150819.html</idno>
-      </person>
-   </back>
 </TEI>

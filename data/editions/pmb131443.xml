@@ -105,725 +105,172 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156356">
+               <persName>
+                  <surname>Meister Eckhart</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1260">um 1260</date>
+               </birth>
+               <death>
+                  <date when="1328">1328</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3291_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156356.html</idno>
+            </person>
+            <person xml:id="pmb151221">
+               <persName>
+                  <surname>Murri</surname>
+                  <forename>Romolo</forename>
+               </persName>
+               <birth>
+                  <date>1870-08-27</date>
+                  <placeName type="wikidata" ref="Q59245">Monte San Pietrangeli</placeName>
+               </birth>
+               <death>
+                  <date>1944-03-12</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3291_p2</idno>
+               <idno type="wikidata">Q788738</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119288273</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151221.html</idno>
+            </person>
+            <person xml:id="pmb155996">
+               <persName>
+                  <surname>Büttner</surname>
+                  <forename>Hermann</forename>
+               </persName>
+               <birth>
+                  <date when="1859">1859</date>
+               </birth>
+               <death>
+                  <date when="1916">1916</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3469_p38</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155996.html</idno>
+            </person>
+            <person xml:id="pmb150921">
+               <persName>
+                  <surname>Juncker</surname>
+                  <forename>Axel</forename>
+               </persName>
+               <birth>
+                  <date>1870-07-01</date>
+                  <placeName type="wikidata" ref="Q1748">Kopenhagen</placeName>
+               </birth>
+               <death>
+                  <date>1952-09-29</date>
+                  <placeName type="wikidata" ref="Q1748">Kopenhagen</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3448_p23</idno>
+               <idno type="wikidata">Q15445115</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119543540</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150921.html</idno>
+            </person>
+            <person xml:id="pmb149373">
+               <persName>
+                  <surname>Görres</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1776-01-25</date>
+                  <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
+               </birth>
+               <death>
+                  <date>1848-01-29</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3505_p1</idno>
+               <idno type="wikidata">Q215730</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
+            </person>
+            <person xml:id="pmb155008">
+               <persName>
+                  <surname>Piper</surname>
+                  <forename>Reinhard</forename>
+               </persName>
+               <birth>
+                  <date when="1879">1879</date>
+               </birth>
+               <death>
+                  <date when="1953">1953</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1387_p35</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155008.html</idno>
+            </person>
+            <person xml:id="pmb156357">
+               <persName>
+                  <surname>Grabisch</surname>
+                  <forename>Josef ?</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3291_p7</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156357.html</idno>
+            </person>
+            <person xml:id="pmb151225">
+               <persName>
+                  <surname>Böhme</surname>
+                  <forename>Jakob</forename>
+               </persName>
+               <birth>
+                  <date>1575-04-24</date>
+                  <placeName type="wikidata" ref="Q9344380">Stary Zawidów</placeName>
+               </birth>
+               <death>
+                  <date>1624-11-17</date>
+                  <placeName type="wikidata" ref="Q4077">Görlitz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3291_p8</idno>
+               <idno type="wikidata">Q77017</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118512579</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151225.html</idno>
+            </person>
+            <person xml:id="pmb28142">
+               <persName>
+                  <surname>Silesius</surname>
+                  <forename>Angelus</forename>
+               </persName>
+               <persName type="namensvariante">Johannes Scheffler</persName>
+               <birth>
+                  <date>1624-12-01</date>
+                  <placeName type="wikidata" ref="Q1799">Breslau</placeName>
+               </birth>
+               <death>
+                  <date>1677-07-09</date>
+                  <placeName type="wikidata" ref="Q1799">Breslau</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4485_p1</idno>
+               <idno type="wikidata">Q60469</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
+            </person>
+            <person xml:id="pmb149268">
+               <persName>
+                  <surname>Teresa von Ávila</surname>
+               </persName>
+               <birth>
+                  <date>1515-03-28</date>
+                  <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
+               </birth>
+               <death>
+                  <date>1582-10-15</date>
+                  <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3523_p18</idno>
+               <idno type="wikidata">Q174880</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156356">
-         <persName>
-            <surname>Meister Eckhart</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1260">um 1260</date>
-         </birth>
-         <death>
-            <date when="1328">1328</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3291_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156356.html</idno>
-      </person>
-      <person xml:id="pmb151221">
-         <persName>
-            <surname>Murri</surname>
-            <forename>Romolo</forename>
-         </persName>
-         <birth>
-            <date>1870-08-27</date>
-            <placeName type="wikidata" ref="Q59245">Monte San Pietrangeli</placeName>
-         </birth>
-         <death>
-            <date>1944-03-12</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3291_p2</idno>
-         <idno type="wikidata">Q788738</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119288273</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151221.html</idno>
-      </person>
-      <person xml:id="pmb155996">
-         <persName>
-            <surname>Büttner</surname>
-            <forename>Hermann</forename>
-         </persName>
-         <birth>
-            <date when="1859">1859</date>
-         </birth>
-         <death>
-            <date when="1916">1916</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3469_p38</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155996.html</idno>
-      </person>
-      <person xml:id="pmb150921">
-         <persName>
-            <surname>Juncker</surname>
-            <forename>Axel</forename>
-         </persName>
-         <birth>
-            <date>1870-07-01</date>
-            <placeName type="wikidata" ref="Q1748">Kopenhagen</placeName>
-         </birth>
-         <death>
-            <date>1952-09-29</date>
-            <placeName type="wikidata" ref="Q1748">Kopenhagen</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3448_p23</idno>
-         <idno type="wikidata">Q15445115</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119543540</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150921.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3505_p1</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p58</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p92</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1626_p20</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb149373">
-         <persName>
-            <surname>Görres Joseph</surname>
-         </persName>
-         <birth>
-            <date>1776-01-25</date>
-            <placeName type="wikidata" ref="Q3104">Koblenz</placeName>
-         </birth>
-         <death>
-            <date>1848-01-29</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p58</idno>
-         <idno type="wikidata">Q215730</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11854019X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149373.html</idno>
-      </person>
-      <person xml:id="pmb155008">
-         <persName>
-            <surname>Piper</surname>
-            <forename>Reinhard</forename>
-         </persName>
-         <birth>
-            <date when="1879">1879</date>
-         </birth>
-         <death>
-            <date when="1953">1953</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p35</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155008.html</idno>
-      </person>
-      <person xml:id="pmb156357">
-         <persName>
-            <surname>Grabisch</surname>
-            <forename>Josef ?</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3291_p7</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156357.html</idno>
-      </person>
-      <person xml:id="pmb151225">
-         <persName>
-            <surname>Böhme</surname>
-            <forename>Jakob</forename>
-         </persName>
-         <birth>
-            <date>1575-04-24</date>
-            <placeName type="wikidata" ref="Q9344380">Stary Zawidów</placeName>
-         </birth>
-         <death>
-            <date>1624-11-17</date>
-            <placeName type="wikidata" ref="Q4077">Görlitz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3291_p8</idno>
-         <idno type="wikidata">Q77017</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118512579</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151225.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Silesius</surname>
-            <forename>Angelus</forename>
-         </persName>
-         <persName type="namensvariante">Johannes Scheffler</persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4485_p1</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4865_p8</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Silesius</surname>
-            <forename>Angelus</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_5208_p2</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Silesius</surname>
-            <forename>Angelus</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_5342_p2</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3640_p1</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3291_p9</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_1134_p2</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Scheffler</surname>
-            <forename>Johannes</forename>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1134_p3</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3183_p11</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb28142">
-         <persName>
-            <surname>Angelus Silesius</surname>
-         </persName>
-         <birth>
-            <date>1624-12-01</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </birth>
-         <death>
-            <date>1677-07-09</date>
-            <placeName type="wikidata" ref="Q1799">Breslau</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_584_p8</idno>
-         <idno type="wikidata">Q60469</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28142.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p18</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3491_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4063_p2</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p22</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4862_p12</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_155_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3360_p17</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p32</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5221_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5355_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p71</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p8</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p71</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Àvila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3291_p10</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3283_p2</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1363_p60</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_579_p3</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2953_p1</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2843_p1</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2838_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-   </back>
 </TEI>

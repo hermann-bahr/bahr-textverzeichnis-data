@@ -86,14 +86,16 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155763">
+               <persName>
+                  <surname>Parzifal</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_5204_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155763.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155763">
-         <persName>
-            <surname>Parzifal</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_5204_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155763.html</idno>
-      </person>
-   </back>
 </TEI>

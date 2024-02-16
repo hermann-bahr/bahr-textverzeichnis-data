@@ -89,126 +89,128 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148931">
+               <persName>
+                  <surname>Chaplain</surname>
+                  <forename>Jules-Clément</forename>
+               </persName>
+               <birth>
+                  <date>1839-07-12</date>
+                  <placeName type="wikidata" ref="Q476288">Mortagne-au-Perche</placeName>
+               </birth>
+               <death>
+                  <date>1909-07-13</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1828_p1</idno>
+               <idno type="wikidata">Q1748575</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11765129X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148931.html</idno>
+            </person>
+            <person xml:id="pmb148935">
+               <persName>
+                  <surname>Roty</surname>
+                  <forename>Louis Oscar</forename>
+               </persName>
+               <birth>
+                  <date>1846-06-11</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1911-03-23</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1828_p2</idno>
+               <idno type="wikidata">Q2621732</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/101612841X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148935.html</idno>
+            </person>
+            <person xml:id="pmb154400">
+               <persName>
+                  <surname>Scharff</surname>
+                  <forename>Alexander</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1828_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154400.html</idno>
+            </person>
+            <person xml:id="pmb154401">
+               <persName>
+                  <surname>Schwartz</surname>
+                  <forename>Stefan</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1828_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154401.html</idno>
+            </person>
+            <person xml:id="pmb148938">
+               <persName>
+                  <surname>Neudeck</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <birth>
+                  <date>1849-01-01</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1914-01-01</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1828_p5</idno>
+               <idno type="wikidata">Q60819102</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/102441826X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148938.html</idno>
+            </person>
+            <person xml:id="pmb154402">
+               <persName>
+                  <surname>Breithut</surname>
+                  <forename>Peter</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1828_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154402.html</idno>
+            </person>
+            <person xml:id="pmb4200">
+               <persName>
+                  <surname>Devrient-Reinhold</surname>
+                  <forename>Babette</forename>
+               </persName>
+               <birth>
+                  <date>1863-10-30</date>
+                  <placeName type="wikidata" ref="Q1715">Hannover</placeName>
+               </birth>
+               <death>
+                  <date>1940-06-13</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2270_p1</idno>
+               <idno type="wikidata">Q797650</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116089237</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4200.html</idno>
+            </person>
+            <person xml:id="pmb43821">
+               <persName>
+                  <surname>Charpentier</surname>
+                  <forename>Alexandre</forename>
+               </persName>
+               <birth>
+                  <date>1856-06-10</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1909-03-04</date>
+                  <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1828_p8</idno>
+               <idno type="wikidata">Q980735</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116492163</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43821.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148931">
-         <persName>
-            <surname>Chaplain</surname>
-            <forename>Jules-Clément</forename>
-         </persName>
-         <birth>
-            <date>1839-07-12</date>
-            <placeName type="wikidata" ref="Q476288">Mortagne-au-Perche</placeName>
-         </birth>
-         <death>
-            <date>1909-07-13</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1828_p1</idno>
-         <idno type="wikidata">Q1748575</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11765129X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148931.html</idno>
-      </person>
-      <person xml:id="pmb148935">
-         <persName>
-            <surname>Roty</surname>
-            <forename>Louis Oscar</forename>
-         </persName>
-         <birth>
-            <date>1846-06-11</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1911-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1828_p2</idno>
-         <idno type="wikidata">Q2621732</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/101612841X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148935.html</idno>
-      </person>
-      <person xml:id="pmb154400">
-         <persName>
-            <surname>Scharff</surname>
-            <forename>Alexander</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1828_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154400.html</idno>
-      </person>
-      <person xml:id="pmb154401">
-         <persName>
-            <surname>Schwartz</surname>
-            <forename>Stefan</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1828_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154401.html</idno>
-      </person>
-      <person xml:id="pmb148938">
-         <persName>
-            <surname>Neudeck</surname>
-            <forename>Andreas</forename>
-         </persName>
-         <birth>
-            <date>1849-01-01</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1914-01-01</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1828_p5</idno>
-         <idno type="wikidata">Q60819102</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/102441826X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148938.html</idno>
-      </person>
-      <person xml:id="pmb154402">
-         <persName>
-            <surname>Breithut</surname>
-            <forename>Peter</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1828_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154402.html</idno>
-      </person>
-      <person xml:id="pmb4200">
-         <persName>
-            <surname>Devrient-Reinhold</surname>
-            <forename>Babette</forename>
-         </persName>
-         <birth>
-            <date>1863-10-30</date>
-            <placeName type="wikidata" ref="Q1715">Hannover</placeName>
-         </birth>
-         <death>
-            <date>1940-06-13</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2270_p1</idno>
-         <idno type="wikidata">Q797650</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116089237</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4200.html</idno>
-      </person>
-      <person xml:id="pmb43821">
-         <persName>
-            <surname>Charpentier</surname>
-            <forename>Alexandre</forename>
-         </persName>
-         <birth>
-            <date>1856-06-10</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1909-03-04</date>
-            <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1828_p8</idno>
-         <idno type="wikidata">Q980735</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116492163</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43821.html</idno>
-      </person>
-   </back>
 </TEI>

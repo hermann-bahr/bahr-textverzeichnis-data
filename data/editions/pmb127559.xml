@@ -80,26 +80,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb63404">
+               <persName>
+                  <surname>Bertens</surname>
+                  <forename>Rosa</forename>
+               </persName>
+               <birth>
+                  <date>1860-01-01</date>
+                  <placeName type="wikidata" ref="Q16869">Konstantinopel</placeName>
+               </birth>
+               <death>
+                  <date>1934-10-05</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1969_p1</idno>
+               <idno type="wikidata">Q18412668</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/11614887X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63404.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb63404">
-         <persName>
-            <surname>Bertens</surname>
-            <forename>Rosa</forename>
-         </persName>
-         <birth>
-            <date>1860-01-01</date>
-            <placeName type="wikidata" ref="Q16869">Konstantinopel</placeName>
-         </birth>
-         <death>
-            <date>1934-10-05</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1969_p1</idno>
-         <idno type="wikidata">Q18412668</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/11614887X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb63404.html</idno>
-      </person>
-   </back>
 </TEI>

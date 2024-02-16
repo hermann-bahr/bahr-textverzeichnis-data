@@ -81,29 +81,31 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154515">
+               <persName>
+                  <surname>Bauer</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2490_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154515.html</idno>
+            </person>
+            <person xml:id="pmb154281">
+               <persName>
+                  <surname>Retty</surname>
+                  <forename>Rudolf</forename>
+               </persName>
+               <birth>
+                  <date when="1846">1846</date>
+               </birth>
+               <death>
+                  <date when="1913">1913</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4645_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154281.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154515">
-         <persName>
-            <surname>Bauer</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2490_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154515.html</idno>
-      </person>
-      <person xml:id="pmb154281">
-         <persName>
-            <surname>Retty</surname>
-            <forename>Rudolf</forename>
-         </persName>
-         <birth>
-            <date when="1846">1846</date>
-         </birth>
-         <death>
-            <date when="1913">1913</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4645_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154281.html</idno>
-      </person>
-   </back>
 </TEI>

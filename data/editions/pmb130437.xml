@@ -106,45 +106,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148639">
+               <persName>
+                  <surname>Hennique</surname>
+                  <forename>Léon</forename>
+               </persName>
+               <birth>
+                  <date>1850-11-04</date>
+                  <placeName type="wikidata" ref="Q167024">Basse-Terre</placeName>
+               </birth>
+               <death>
+                  <date>1935-12-25</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_115_p1</idno>
+               <idno type="wikidata">Q3271044</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116717254</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148639.html</idno>
+            </person>
+            <person xml:id="pmb148642">
+               <persName>
+                  <surname>Bergerat</surname>
+                  <forename>Émile</forename>
+               </persName>
+               <birth>
+                  <date>1845-04-29</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1923-10-13</date>
+                  <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_115_p2</idno>
+               <idno type="wikidata">Q274915</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/119448408</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148642.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148639">
-         <persName>
-            <surname>Hennique</surname>
-            <forename>Léon</forename>
-         </persName>
-         <birth>
-            <date>1850-11-04</date>
-            <placeName type="wikidata" ref="Q167024">Basse-Terre</placeName>
-         </birth>
-         <death>
-            <date>1935-12-25</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_115_p1</idno>
-         <idno type="wikidata">Q3271044</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116717254</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148639.html</idno>
-      </person>
-      <person xml:id="pmb148642">
-         <persName>
-            <surname>Bergerat</surname>
-            <forename>Émile</forename>
-         </persName>
-         <birth>
-            <date>1845-04-29</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1923-10-13</date>
-            <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_115_p2</idno>
-         <idno type="wikidata">Q274915</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/119448408</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148642.html</idno>
-      </person>
-   </back>
 </TEI>

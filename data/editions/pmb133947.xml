@@ -102,21 +102,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157121">
+               <persName>
+                  <surname>Schmeidler</surname>
+                  <forename>Johannes</forename>
+               </persName>
+               <birth>
+                  <date when="1841">1841</date>
+               </birth>
+               <death>
+                  <date when="1902">1902</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2726_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157121.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157121">
-         <persName>
-            <surname>Schmeidler</surname>
-            <forename>Johannes</forename>
-         </persName>
-         <birth>
-            <date when="1841">1841</date>
-         </birth>
-         <death>
-            <date when="1902">1902</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2726_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157121.html</idno>
-      </person>
-   </back>
 </TEI>

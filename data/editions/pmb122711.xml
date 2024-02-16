@@ -83,22 +83,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb153972">
+               <persName>
+                  <surname>Galafrés</surname>
+                  <forename>Elsa</forename>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <birth>
+                  <date when="1880">1880</date>
+               </birth>
+               <death>
+                  <date when="1977">1977</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2450_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153972.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb153972">
-         <persName>
-            <surname>Galafrés</surname>
-            <forename>Elsa</forename>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <birth>
-            <date when="1880">1880</date>
-         </birth>
-         <death>
-            <date when="1977">1977</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2450_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153972.html</idno>
-      </person>
-   </back>
 </TEI>

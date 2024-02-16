@@ -93,17 +93,19 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156132">
+               <persName>
+                  <surname>Johannes der Täufer</surname>
+               </persName>
+               <birth>
+                  <date when-custom="1. Jhdt.">1. Jhdt.</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_4884_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156132.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156132">
-         <persName>
-            <surname>Johannes der Täufer</surname>
-         </persName>
-         <birth>
-            <date when-custom="1. Jhdt.">1. Jhdt.</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_4884_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156132.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -77,26 +77,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb113240">
+               <persName>
+                  <surname>Diegelmann</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date>1861-01-01</date>
+                  <placeName type="wikidata" ref="Q624122">Neuhof</placeName>
+               </birth>
+               <death>
+                  <date>1934-03-01</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4661_p1</idno>
+               <idno type="wikidata">Q97317</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11610046X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113240.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb113240">
-         <persName>
-            <surname>Diegelmann</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date>1861-01-01</date>
-            <placeName type="wikidata" ref="Q624122">Neuhof</placeName>
-         </birth>
-         <death>
-            <date>1934-03-01</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4661_p1</idno>
-         <idno type="wikidata">Q97317</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11610046X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113240.html</idno>
-      </person>
-   </back>
 </TEI>

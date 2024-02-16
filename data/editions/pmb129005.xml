@@ -85,22 +85,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155724">
+               <persName>
+                  <surname>Golfar</surname>
+                  <forename>Alfred</forename>
+               </persName>
+               <occupation>Autor</occupation>
+               <birth>
+                  <date when="1891">1891</date>
+               </birth>
+               <death>
+                  <date when-custom="nach 1930">nach 1930</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5237_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155724.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155724">
-         <persName>
-            <surname>Golfar</surname>
-            <forename>Alfred</forename>
-         </persName>
-         <occupation>Autor</occupation>
-         <birth>
-            <date when="1891">1891</date>
-         </birth>
-         <death>
-            <date when-custom="nach 1930">nach 1930</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5237_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155724.html</idno>
-      </person>
-   </back>
 </TEI>

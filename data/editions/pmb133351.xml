@@ -91,45 +91,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb151866">
+               <persName>
+                  <surname>Halpérine-Kaminsky</surname>
+                  <forename>Ilia</forename>
+               </persName>
+               <birth>
+                  <date>1858-04-08</date>
+                  <placeName type="wikidata" ref="Q997421">Wassylkiw</placeName>
+               </birth>
+               <death>
+                  <date>1936-12-06</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_466_p1</idno>
+               <idno type="wikidata">Q964250</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/10410239X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151866.html</idno>
+            </person>
+            <person xml:id="pmb3739">
+               <persName>
+                  <surname>Tolstoi</surname>
+                  <forename>Lew Nikolajewitsch</forename>
+               </persName>
+               <birth>
+                  <date>1828-08-28</date>
+                  <placeName type="wikidata" ref="Q749556">Jasnaja Poljana</placeName>
+               </birth>
+               <death>
+                  <date>1910-11-07</date>
+                  <placeName type="wikidata" ref="Q4071563">Astapowo</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_115_p5</idno>
+               <idno type="wikidata">Q7243</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11864291X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3739.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb151866">
-         <persName>
-            <surname>Halpérine-Kaminsky</surname>
-            <forename>Ilia</forename>
-         </persName>
-         <birth>
-            <date>1858-04-08</date>
-            <placeName type="wikidata" ref="Q997421">Wassylkiw</placeName>
-         </birth>
-         <death>
-            <date>1936-12-06</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_466_p1</idno>
-         <idno type="wikidata">Q964250</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/10410239X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151866.html</idno>
-      </person>
-      <person xml:id="pmb3739">
-         <persName>
-            <surname>Tolstoi</surname>
-            <forename>Lew Nikolajewitsch</forename>
-         </persName>
-         <birth>
-            <date>1828-08-28</date>
-            <placeName type="wikidata" ref="Q749556">Jasnaja Poljana</placeName>
-         </birth>
-         <death>
-            <date>1910-11-07</date>
-            <placeName type="wikidata" ref="Q4071563">Astapowo</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_115_p5</idno>
-         <idno type="wikidata">Q7243</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11864291X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3739.html</idno>
-      </person>
-   </back>
 </TEI>

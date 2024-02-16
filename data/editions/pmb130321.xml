@@ -76,21 +76,23 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156045">
+               <persName>
+                  <surname>Paul</surname>
+                  <forename>Bruno</forename>
+               </persName>
+               <birth>
+                  <date when="1874">1874</date>
+               </birth>
+               <death>
+                  <date when="1968">1968</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1200_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156045.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156045">
-         <persName>
-            <surname>Paul</surname>
-            <forename>Bruno</forename>
-         </persName>
-         <birth>
-            <date when="1874">1874</date>
-         </birth>
-         <death>
-            <date when="1968">1968</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1200_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156045.html</idno>
-      </person>
-   </back>
 </TEI>

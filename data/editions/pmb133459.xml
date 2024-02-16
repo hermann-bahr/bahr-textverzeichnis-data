@@ -102,63 +102,65 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156845">
+               <persName>
+                  <surname>Egestorff</surname>
+                  <forename>Georg</forename>
+               </persName>
+               <persName type="namensvariante">Georg von Ompteda</persName>
+               <idno type="HB-tv">HB-tv_2825_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156845.html</idno>
+            </person>
+            <person xml:id="pmb152033">
+               <persName>
+                  <surname>Fontane</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               <birth>
+                  <date>1864</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </birth>
+               <death>
+                  <date>1941-09-22</date>
+                  <placeName type="wikidata" ref="Q16085">Neuruppin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2825_p2</idno>
+               <idno type="wikidata">Q70336188</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116647701</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152033.html</idno>
+            </person>
+            <person xml:id="pmb154093">
+               <persName>
+                  <surname>Torresani</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date when="1846">1846</date>
+               </birth>
+               <death>
+                  <date when="1907">1907</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2266_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154093.html</idno>
+            </person>
+            <person xml:id="pmb156846">
+               <persName>
+                  <surname>Hertz</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when="1822">1822</date>
+               </birth>
+               <death>
+                  <date when="1901">1901</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2825_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156846.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156845">
-         <persName>
-            <surname>Egestorff</surname>
-            <forename>Georg</forename>
-         </persName>
-         <persName type="namensvariante">Georg von Ompteda</persName>
-         <idno type="HB-tv">HB-tv_2825_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156845.html</idno>
-      </person>
-      <person xml:id="pmb152033">
-         <persName>
-            <surname>Fontane</surname>
-            <forename>Friedrich</forename>
-         </persName>
-         <birth>
-            <date>1864</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </birth>
-         <death>
-            <date>1941-09-22</date>
-            <placeName type="wikidata" ref="Q16085">Neuruppin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2825_p2</idno>
-         <idno type="wikidata">Q70336188</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116647701</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152033.html</idno>
-      </person>
-      <person xml:id="pmb154093">
-         <persName>
-            <surname>Torresani</surname>
-            <forename>Karl</forename>
-         </persName>
-         <birth>
-            <date when="1846">1846</date>
-         </birth>
-         <death>
-            <date when="1907">1907</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2266_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154093.html</idno>
-      </person>
-      <person xml:id="pmb156846">
-         <persName>
-            <surname>Hertz</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date when="1822">1822</date>
-         </birth>
-         <death>
-            <date when="1901">1901</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2825_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156846.html</idno>
-      </person>
-   </back>
 </TEI>

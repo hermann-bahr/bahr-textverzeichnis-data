@@ -90,42 +90,44 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154132">
+               <persName>
+                  <surname>Yacco</surname>
+                  <forename>Sada</forename>
+               </persName>
+               <persName type="namensvariante">川上 貞奴</persName>
+               <birth>
+                  <date when="1871">1871</date>
+               </birth>
+               <death>
+                  <date when="1946">1946</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1887_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154132.html</idno>
+            </person>
+            <person xml:id="pmb114912">
+               <persName>
+                  <surname>Kawakami</surname>
+                  <forename>Otojirō</forename>
+               </persName>
+               <persName type="namensvariante">川上 音二郎</persName>
+               <birth>
+                  <date>1864-01-01</date>
+                  <placeName type="wikidata" ref="Q1330839">Hakata-ku</placeName>
+               </birth>
+               <death>
+                  <date>1911-01-01</date>
+                  <placeName type="wikidata" ref="Q35765">Ōsaka</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1887_p2</idno>
+               <idno type="wikidata">Q3543692</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/137714777</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114912.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154132">
-         <persName>
-            <surname>Yacco</surname>
-            <forename>Sada</forename>
-         </persName>
-         <persName type="namensvariante">川上 貞奴</persName>
-         <birth>
-            <date when="1871">1871</date>
-         </birth>
-         <death>
-            <date when="1946">1946</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1887_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154132.html</idno>
-      </person>
-      <person xml:id="pmb114912">
-         <persName>
-            <surname>Kawakami</surname>
-            <forename>Otojirō</forename>
-         </persName>
-         <persName type="namensvariante">川上 音二郎</persName>
-         <birth>
-            <date>1864-01-01</date>
-            <placeName type="wikidata" ref="Q1330839">Hakata-ku</placeName>
-         </birth>
-         <death>
-            <date>1911-01-01</date>
-            <placeName type="wikidata" ref="Q35765">Ōsaka</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1887_p2</idno>
-         <idno type="wikidata">Q3543692</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/137714777</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114912.html</idno>
-      </person>
-   </back>
 </TEI>

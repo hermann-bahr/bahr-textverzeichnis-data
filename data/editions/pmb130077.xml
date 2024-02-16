@@ -120,550 +120,156 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb11068">
+               <persName>
+                  <surname>Calderòn de la Barca</surname>
+                  <forename>Pedro</forename>
+               </persName>
+               <birth>
+                  <date>1600-01-17</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </birth>
+               <death>
+                  <date>1681-05-25</date>
+                  <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3356_p2</idno>
+               <idno type="wikidata">Q170800</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518399</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11068.html</idno>
+            </person>
+            <person xml:id="pmb156000">
+               <persName>
+                  <surname>Köhler</surname>
+                  <forename>Bernhard</forename>
+               </persName>
+               <birth>
+                  <date when="1849">1849</date>
+               </birth>
+               <death>
+                  <date when="1927">1927</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3468_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156000.html</idno>
+            </person>
+            <person xml:id="pmb149938">
+               <persName>
+                  <surname>Rodbertus</surname>
+                  <forename>Johann Karl</forename>
+               </persName>
+               <birth>
+                  <date>1805-08-12</date>
+                  <placeName type="wikidata" ref="Q4098">Greifswald</placeName>
+               </birth>
+               <death>
+                  <date>1875-12-06</date>
+                  <placeName type="wikidata" ref="Q689075">Völschow</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4858_p3</idno>
+               <idno type="wikidata">Q63695</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118745638</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149938.html</idno>
+            </person>
+            <person xml:id="pmb117027">
+               <persName>
+                  <surname>Vinzenz von Paul</surname>
+               </persName>
+               <birth>
+                  <date>1581-04-24</date>
+                  <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
+               </birth>
+               <death>
+                  <date>1660-09-27</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_960_p3</idno>
+               <idno type="wikidata">Q244413</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
+            </person>
+            <person xml:id="pmb150808">
+               <persName>
+                  <surname>Boccioni</surname>
+                  <forename>Umberto</forename>
+               </persName>
+               <birth>
+                  <date>1882-10-19</date>
+                  <placeName type="wikidata" ref="Q8471">Reggio Calabria</placeName>
+               </birth>
+               <death>
+                  <date>1916-08-17</date>
+                  <placeName type="wikidata" ref="Q2028">Verona</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3468_p4</idno>
+               <idno type="wikidata">Q152797</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118512188</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150808.html</idno>
+            </person>
+            <person xml:id="pmb156001">
+               <persName>
+                  <surname>Franziskus von Assisi</surname>
+               </persName>
+               <birth>
+                  <date when-custom="1181/1182">1181/1182</date>
+               </birth>
+               <death>
+                  <date when="1226">1226</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3468_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156001.html</idno>
+            </person>
+            <person xml:id="pmb156002">
+               <persName>
+                  <surname>Meister Eckhart</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 1260">um 1260</date>
+               </birth>
+               <death>
+                  <date when="1328">1328</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3468_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156002.html</idno>
+            </person>
+            <person xml:id="pmb155130">
+               <persName>
+                  <surname>Tauler</surname>
+                  <forename>Johannes</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1300">um 1300</date>
+               </birth>
+               <death>
+                  <date when="1361">1361</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1149_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155130.html</idno>
+            </person>
+            <person xml:id="pmb149268">
+               <persName>
+                  <surname>Teresa von Ávila</surname>
+               </persName>
+               <birth>
+                  <date>1515-03-28</date>
+                  <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
+               </birth>
+               <death>
+                  <date>1582-10-15</date>
+                  <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3523_p18</idno>
+               <idno type="wikidata">Q174880</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb11068">
-         <persName>
-            <surname>Calderòn de la Barca</surname>
-            <forename>Pedro</forename>
-         </persName>
-         <birth>
-            <date>1600-01-17</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </birth>
-         <death>
-            <date>1681-05-25</date>
-            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3356_p2</idno>
-         <idno type="wikidata">Q170800</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518399</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11068.html</idno>
-      </person>
-      <person xml:id="pmb156000">
-         <persName>
-            <surname>Köhler</surname>
-            <forename>Bernhard</forename>
-         </persName>
-         <birth>
-            <date when="1849">1849</date>
-         </birth>
-         <death>
-            <date when="1927">1927</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156000.html</idno>
-      </person>
-      <person xml:id="pmb149938">
-         <persName>
-            <surname>Rodbertus</surname>
-            <forename>Johann Karl</forename>
-         </persName>
-         <birth>
-            <date>1805-08-12</date>
-            <placeName type="wikidata" ref="Q4098">Greifswald</placeName>
-         </birth>
-         <death>
-            <date>1875-12-06</date>
-            <placeName type="wikidata" ref="Q689075">Völschow</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4858_p3</idno>
-         <idno type="wikidata">Q63695</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118745638</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149938.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_960_p3</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4869_p8</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1130_p3</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p3</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb150808">
-         <persName>
-            <surname>Boccioni</surname>
-            <forename>Umberto</forename>
-         </persName>
-         <birth>
-            <date>1882-10-19</date>
-            <placeName type="wikidata" ref="Q8471">Reggio Calabria</placeName>
-         </birth>
-         <death>
-            <date>1916-08-17</date>
-            <placeName type="wikidata" ref="Q2028">Verona</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p4</idno>
-         <idno type="wikidata">Q152797</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118512188</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150808.html</idno>
-      </person>
-      <person xml:id="pmb156001">
-         <persName>
-            <surname>Franziskus von Assisi</surname>
-         </persName>
-         <birth>
-            <date when-custom="1181/1182">1181/1182</date>
-         </birth>
-         <death>
-            <date when="1226">1226</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156001.html</idno>
-      </person>
-      <person xml:id="pmb156002">
-         <persName>
-            <surname>Meister Eckhart</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 1260">um 1260</date>
-         </birth>
-         <death>
-            <date when="1328">1328</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156002.html</idno>
-      </person>
-      <person xml:id="pmb155130">
-         <persName>
-            <surname>Tauler</surname>
-            <forename>Johannes</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1300">um 1300</date>
-         </birth>
-         <death>
-            <date when="1361">1361</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1149_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155130.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3523_p18</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3491_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4063_p2</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1387_p22</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4862_p12</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_155_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3360_p17</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3359_p32</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5221_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5355_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p71</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p8</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p71</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Àvila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3291_p10</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Ávila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3283_p2</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1363_p60</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_579_p3</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2953_p1</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2843_p1</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-      <person xml:id="pmb149268">
-         <persName>
-            <surname>Teresa von Avila</surname>
-         </persName>
-         <birth>
-            <date>1515-03-28</date>
-            <placeName type="wikidata" ref="Q842702">Gotarrendura</placeName>
-         </birth>
-         <death>
-            <date>1582-10-15</date>
-            <placeName type="wikidata" ref="Q43115071">Kloster der Verkündigung Unserer Lieben Frau von den Unbeschuhten Karmeliten von Alba de Tormes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2838_p4</idno>
-         <idno type="wikidata">Q174880</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118621823</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149268.html</idno>
-      </person>
-   </back>
 </TEI>

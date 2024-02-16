@@ -83,37 +83,39 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154584">
+               <persName>
+                  <surname>Bulthaupt</surname>
+                  <forename>Heinrich Alfred</forename>
+               </persName>
+               <birth>
+                  <date when="1849">1849</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2095_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154584.html</idno>
+            </person>
+            <person xml:id="pmb154585">
+               <persName>
+                  <surname>Veber</surname>
+                  <forename>Jean</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2095_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154585.html</idno>
+            </person>
+            <person xml:id="pmb154586">
+               <persName>
+                  <surname>Stokes</surname>
+                  <forename>Marianne</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2095_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154586.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154584">
-         <persName>
-            <surname>Bulthaupt</surname>
-            <forename>Heinrich Alfred</forename>
-         </persName>
-         <birth>
-            <date when="1849">1849</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2095_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154584.html</idno>
-      </person>
-      <person xml:id="pmb154585">
-         <persName>
-            <surname>Veber</surname>
-            <forename>Jean</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2095_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154585.html</idno>
-      </person>
-      <person xml:id="pmb154586">
-         <persName>
-            <surname>Stokes</surname>
-            <forename>Marianne</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2095_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154586.html</idno>
-      </person>
-   </back>
 </TEI>

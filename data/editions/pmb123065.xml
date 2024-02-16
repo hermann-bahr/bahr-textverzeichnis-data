@@ -87,103 +87,86 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154221">
+               <persName>
+                  <surname>Czepelka</surname>
+                  <forename>Anton</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2327_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154221.html</idno>
+            </person>
+            <person xml:id="pmb153983">
+               <persName>
+                  <surname>Petri</surname>
+                  <forename>Lili</forename>
+               </persName>
+               <persName type="namensvariante">Amalie Schmitz, verh. Anno</persName>
+               <birth>
+                  <date when-custom="1864/67">1864/67</date>
+               </birth>
+               <death>
+                  <date when="1915">1915</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2545_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153983.html</idno>
+            </person>
+            <person xml:id="pmb18651">
+               <persName>
+                  <surname>Hetsey</surname>
+                  <forename>Alice</forename>
+               </persName>
+               <birth>
+                  <date>1875-09-03</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1939-02-11</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2337_p1</idno>
+               <idno type="wikidata">Q58011579</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116778873</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18651.html</idno>
+            </person>
+            <person xml:id="pmb154222">
+               <persName>
+                  <surname>Anatour</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2327_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154222.html</idno>
+            </person>
+            <person xml:id="pmb154223">
+               <persName>
+                  <surname>Lackner</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2327_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154223.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154221">
-         <persName>
-            <surname>Czepelka</surname>
-            <forename>Anton</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2327_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154221.html</idno>
-      </person>
-      <person xml:id="pmb153983">
-         <persName>
-            <surname>Petri</surname>
-            <forename>Lili</forename>
-         </persName>
-         <persName type="namensvariante">Amalie Schmitz, verh. Anno</persName>
-         <birth>
-            <date when-custom="1864/67">1864/67</date>
-         </birth>
-         <death>
-            <date when="1915">1915</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2545_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153983.html</idno>
-      </person>
-      <person xml:id="pmb18651">
-         <persName>
-            <surname>Hetsey</surname>
-            <forename>Alice</forename>
-         </persName>
-         <birth>
-            <date>1875-09-03</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1939-02-11</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2337_p1</idno>
-         <idno type="wikidata">Q58011579</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116778873</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18651.html</idno>
-      </person>
-      <person xml:id="pmb18651">
-         <persName>
-            <surname>Hétsey</surname>
-            <forename>Alice</forename>
-         </persName>
-         <birth>
-            <date>1875-09-03</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1939-02-11</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1891_p3</idno>
-         <idno type="wikidata">Q58011579</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116778873</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb18651.html</idno>
-      </person>
-      <person xml:id="pmb154222">
-         <persName>
-            <surname>Anatour</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2327_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154222.html</idno>
-      </person>
-      <person xml:id="pmb154223">
-         <persName>
-            <surname>Lackner</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2327_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154223.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-   </back>
 </TEI>

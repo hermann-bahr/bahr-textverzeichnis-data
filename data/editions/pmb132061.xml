@@ -84,48 +84,50 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156496">
+               <persName>
+                  <surname>Witkowski</surname>
+                  <forename>Arnold</forename>
+               </persName>
+               <birth>
+                  <date when="1815">1815</date>
+               </birth>
+               <death>
+                  <date when="1878">1878</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1957_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156496.html</idno>
+            </person>
+            <person xml:id="pmb156497">
+               <persName>
+                  <surname>Witkowski</surname>
+                  <forename>Ernestine</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1957_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156497.html</idno>
+            </person>
+            <person xml:id="pmb149323">
+               <persName>
+                  <surname>Blake</surname>
+                  <forename>William</forename>
+               </persName>
+               <birth>
+                  <date>1757-11-28</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1827-08-12</date>
+                  <placeName type="wikidata" ref="Q216185">Charing Cross</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3517_p3</idno>
+               <idno type="wikidata">Q41513</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118511513</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149323.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156496">
-         <persName>
-            <surname>Witkowski</surname>
-            <forename>Arnold</forename>
-         </persName>
-         <birth>
-            <date when="1815">1815</date>
-         </birth>
-         <death>
-            <date when="1878">1878</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1957_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156496.html</idno>
-      </person>
-      <person xml:id="pmb156497">
-         <persName>
-            <surname>Witkowski</surname>
-            <forename>Ernestine</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1957_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156497.html</idno>
-      </person>
-      <person xml:id="pmb149323">
-         <persName>
-            <surname>Blake</surname>
-            <forename>William</forename>
-         </persName>
-         <birth>
-            <date>1757-11-28</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1827-08-12</date>
-            <placeName type="wikidata" ref="Q216185">Charing Cross</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3517_p3</idno>
-         <idno type="wikidata">Q41513</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118511513</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149323.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -95,40 +95,42 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb157495">
+               <persName>
+                  <surname>Henneberg</surname>
+                  <forename>A. Freiherr Henn von</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3901_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157495.html</idno>
+            </person>
+            <person xml:id="pmb154957">
+               <persName>
+                  <surname>Heine</surname>
+                  <forename>Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1865">um 1865</date>
+               </birth>
+               <death>
+                  <date when="1923">1923</date>
+               </death>
+               <idno type="HB-tv">HB-tv_6574_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154957.html</idno>
+            </person>
+            <person xml:id="pmb157496">
+               <persName>
+                  <surname>Jaensch</surname>
+                  <forename>Theodor</forename>
+               </persName>
+               <birth>
+                  <date when="1860">1860</date>
+               </birth>
+               <idno type="HB-tv">HB-tv_3901_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157496.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb157495">
-         <persName>
-            <surname>Henneberg</surname>
-            <forename>A. Freiherr Henn von</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3901_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157495.html</idno>
-      </person>
-      <person xml:id="pmb154957">
-         <persName>
-            <surname>Heine</surname>
-            <forename>Wilhelm</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1865">um 1865</date>
-         </birth>
-         <death>
-            <date when="1923">1923</date>
-         </death>
-         <idno type="HB-tv">HB-tv_6574_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154957.html</idno>
-      </person>
-      <person xml:id="pmb157496">
-         <persName>
-            <surname>Jaensch</surname>
-            <forename>Theodor</forename>
-         </persName>
-         <birth>
-            <date when="1860">1860</date>
-         </birth>
-         <idno type="HB-tv">HB-tv_3901_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157496.html</idno>
-      </person>
-   </back>
 </TEI>

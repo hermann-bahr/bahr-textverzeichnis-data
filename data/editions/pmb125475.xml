@@ -79,45 +79,47 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149184">
+               <persName>
+                  <surname>Schabelitz</surname>
+                  <forename>Jakob Lukas</forename>
+               </persName>
+               <birth>
+                  <date>1827-03-10</date>
+                  <placeName type="wikidata" ref="Q78">Basel</placeName>
+               </birth>
+               <death>
+                  <date>1899-01-28</date>
+                  <placeName type="wikidata" ref="Q72">Zürich</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3576_p7</idno>
+               <idno type="wikidata">Q1679204</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/120810883</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149184.html</idno>
+            </person>
+            <person xml:id="pmb149386">
+               <persName>
+                  <surname>Siegrist</surname>
+                  <forename>Reinhold</forename>
+               </persName>
+               <birth>
+                  <date>1899-04-07</date>
+                  <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
+               </birth>
+               <death>
+                  <date>1966-10-07</date>
+                  <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3500_p1</idno>
+               <idno type="wikidata">Q55675296</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117365408</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149386.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149184">
-         <persName>
-            <surname>Schabelitz</surname>
-            <forename>Jakob Lukas</forename>
-         </persName>
-         <birth>
-            <date>1827-03-10</date>
-            <placeName type="wikidata" ref="Q78">Basel</placeName>
-         </birth>
-         <death>
-            <date>1899-01-28</date>
-            <placeName type="wikidata" ref="Q72">Zürich</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3576_p7</idno>
-         <idno type="wikidata">Q1679204</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/120810883</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149184.html</idno>
-      </person>
-      <person xml:id="pmb149386">
-         <persName>
-            <surname>Siegrist</surname>
-            <forename>Reinhold</forename>
-         </persName>
-         <birth>
-            <date>1899-04-07</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </birth>
-         <death>
-            <date>1966-10-07</date>
-            <placeName type="wikidata" ref="Q1040">Karlsruhe</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3500_p1</idno>
-         <idno type="wikidata">Q55675296</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117365408</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149386.html</idno>
-      </person>
-   </back>
 </TEI>

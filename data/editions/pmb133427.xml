@@ -96,22 +96,24 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156791">
+               <persName>
+                  <surname>Lee</surname>
+                  <forename>Vernon</forename>
+               </persName>
+               <persName type="namensvariante">Violet Paget</persName>
+               <birth>
+                  <date when="1856">1856</date>
+               </birth>
+               <death>
+                  <date when="1935">1935</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2841_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156791.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156791">
-         <persName>
-            <surname>Lee</surname>
-            <forename>Vernon</forename>
-         </persName>
-         <persName type="namensvariante">Violet Paget</persName>
-         <birth>
-            <date when="1856">1856</date>
-         </birth>
-         <death>
-            <date when="1935">1935</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2841_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156791.html</idno>
-      </person>
-   </back>
 </TEI>

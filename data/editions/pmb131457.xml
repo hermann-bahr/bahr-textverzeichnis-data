@@ -113,43 +113,45 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156366">
+               <persName>
+                  <surname>Franz von Piesenham</surname>
+               </persName>
+               <idno type="HB-tv">HB-tv_3284_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156366.html</idno>
+            </person>
+            <person xml:id="pmb151238">
+               <persName>
+                  <surname>Villon</surname>
+                  <forename>François</forename>
+               </persName>
+               <birth>
+                  <date>1431-04-01</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1463</date>
+                  <placeName type="wikidata" ref="Q70972">Königreich Frankreich</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3284_p2</idno>
+               <idno type="wikidata">Q849</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118627066</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151238.html</idno>
+            </person>
+            <person xml:id="pmb156368">
+               <persName>
+                  <surname>Hartmann von Aue</surname>
+               </persName>
+               <death>
+                  <date when-custom="um 1220">um 1220</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3284_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156368.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156366">
-         <persName>
-            <surname>Franz von Piesenham</surname>
-         </persName>
-         <idno type="HB-tv">HB-tv_3284_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156366.html</idno>
-      </person>
-      <person xml:id="pmb151238">
-         <persName>
-            <surname>Villon</surname>
-            <forename>François</forename>
-         </persName>
-         <birth>
-            <date>1431-04-01</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1463</date>
-            <placeName type="wikidata" ref="Q70972">Königreich Frankreich</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3284_p2</idno>
-         <idno type="wikidata">Q849</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627066</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb151238.html</idno>
-      </person>
-      <person xml:id="pmb156368">
-         <persName>
-            <surname>Hartmann von Aue</surname>
-         </persName>
-         <death>
-            <date when-custom="um 1220">um 1220</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3284_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156368.html</idno>
-      </person>
-   </back>
 </TEI>

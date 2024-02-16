@@ -84,56 +84,58 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb156091">
+               <persName>
+                  <surname>Liebknecht</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3610_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156091.html</idno>
+            </person>
+            <person xml:id="pmb156092">
+               <persName>
+                  <surname>Humphry Ward</surname>
+                  <forename>Mary Augusta</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3610_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156092.html</idno>
+            </person>
+            <person xml:id="pmb156093">
+               <persName>
+                  <surname>Stevenson</surname>
+                  <forename>Robert Louis</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3610_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156093.html</idno>
+            </person>
+            <person xml:id="pmb155347">
+               <persName>
+                  <surname>Butler</surname>
+                  <forename>Samuel</forename>
+               </persName>
+               <birth>
+                  <date when="1835">1835</date>
+               </birth>
+               <death>
+                  <date when="1902">1902</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3376_p21</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155347.html</idno>
+            </person>
+            <person xml:id="pmb116616">
+               <persName>
+                  <surname>Wordsworth</surname>
+                  <forename>William</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_3610_p5</idno>
+               <idno type="wikidata">Q45546</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118635212</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116616.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb156091">
-         <persName>
-            <surname>Liebknecht</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3610_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156091.html</idno>
-      </person>
-      <person xml:id="pmb156092">
-         <persName>
-            <surname>Humphry Ward</surname>
-            <forename>Mary Augusta</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3610_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156092.html</idno>
-      </person>
-      <person xml:id="pmb156093">
-         <persName>
-            <surname>Stevenson</surname>
-            <forename>Robert Louis</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3610_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb156093.html</idno>
-      </person>
-      <person xml:id="pmb155347">
-         <persName>
-            <surname>Butler</surname>
-            <forename>Samuel</forename>
-         </persName>
-         <birth>
-            <date when="1835">1835</date>
-         </birth>
-         <death>
-            <date when="1902">1902</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3376_p21</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155347.html</idno>
-      </person>
-      <person xml:id="pmb116616">
-         <persName>
-            <surname>Wordsworth</surname>
-            <forename>William</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_3610_p5</idno>
-         <idno type="wikidata">Q45546</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118635212</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb116616.html</idno>
-      </person>
-   </back>
 </TEI>

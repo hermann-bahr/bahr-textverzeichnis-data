@@ -85,35 +85,37 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154101">
+               <persName>
+                  <surname>Schönchen</surname>
+                  <forename>Amalie</forename>
+               </persName>
+               <birth>
+                  <date when="1834">1834</date>
+               </birth>
+               <death>
+                  <date when="1905">1905</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1918_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154101.html</idno>
+            </person>
+            <person xml:id="pmb154050">
+               <persName>
+                  <surname>Witte</surname>
+                  <forename>Eugen</forename>
+               </persName>
+               <birth>
+                  <date when="1848">1848</date>
+               </birth>
+               <death>
+                  <date when="1907">1907</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2269_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154050.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154101">
-         <persName>
-            <surname>Schönchen</surname>
-            <forename>Amalie</forename>
-         </persName>
-         <birth>
-            <date when="1834">1834</date>
-         </birth>
-         <death>
-            <date when="1905">1905</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1918_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154101.html</idno>
-      </person>
-      <person xml:id="pmb154050">
-         <persName>
-            <surname>Witte</surname>
-            <forename>Eugen</forename>
-         </persName>
-         <birth>
-            <date when="1848">1848</date>
-         </birth>
-         <death>
-            <date when="1907">1907</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2269_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154050.html</idno>
-      </person>
-   </back>
 </TEI>

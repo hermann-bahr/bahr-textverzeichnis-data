@@ -96,64 +96,66 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb22480">
+               <persName>
+                  <surname>Petöfi</surname>
+                  <forename>Alexander</forename>
+               </persName>
+               <birth>
+                  <date>1823-01-01</date>
+                  <placeName type="wikidata" ref="Q646850">Kiskőrös</placeName>
+               </birth>
+               <death>
+                  <date>1849-07-31</date>
+                  <placeName type="wikidata" ref="Q997330"/>
+               </death>
+               <idno type="HB-tv">HB-tv_6611_p1</idno>
+               <idno type="wikidata">Q81219</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118593226</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22480.html</idno>
+            </person>
+            <person xml:id="pmb115790">
+               <persName>
+                  <surname>Puvis de Chavannes</surname>
+                  <forename>Pierre</forename>
+               </persName>
+               <birth>
+                  <date>1824-12-14</date>
+                  <placeName type="wikidata" ref="Q456">Lyon</placeName>
+               </birth>
+               <death>
+                  <date>1898-10-24</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3543_p14</idno>
+               <idno type="wikidata">Q216873</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
+            </person>
+            <person xml:id="pmb148790">
+               <persName>
+                  <surname>Degas</surname>
+                  <forename>Edgar</forename>
+               </persName>
+               <birth>
+                  <date>1834-07-19</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1917-09-27</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1929_p1</idno>
+               <idno type="wikidata">Q46373</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118524291</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148790.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb22480">
-         <persName>
-            <surname>Petöfi</surname>
-            <forename>Alexander</forename>
-         </persName>
-         <birth>
-            <date>1823-01-01</date>
-            <placeName type="wikidata" ref="Q646850">Kiskőrös</placeName>
-         </birth>
-         <death>
-            <date>1849-07-31</date>
-            <placeName type="wikidata" ref="Q997330"/>
-         </death>
-         <idno type="HB-tv">HB-tv_6611_p1</idno>
-         <idno type="wikidata">Q81219</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118593226</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22480.html</idno>
-      </person>
-      <person xml:id="pmb115790">
-         <persName>
-            <surname>Puvis de Chavannes</surname>
-            <forename>Pierre</forename>
-         </persName>
-         <birth>
-            <date>1824-12-14</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </birth>
-         <death>
-            <date>1898-10-24</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3543_p14</idno>
-         <idno type="wikidata">Q216873</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118846027</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115790.html</idno>
-      </person>
-      <person xml:id="pmb148790">
-         <persName>
-            <surname>Degas</surname>
-            <forename>Edgar</forename>
-         </persName>
-         <birth>
-            <date>1834-07-19</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1917-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1929_p1</idno>
-         <idno type="wikidata">Q46373</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118524291</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148790.html</idno>
-      </person>
-   </back>
 </TEI>

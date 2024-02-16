@@ -71,187 +71,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149103">
+               <persName>
+                  <surname>François de Sales</surname>
+               </persName>
+               <birth>
+                  <date>1567-08-16</date>
+                  <placeName type="wikidata" ref="Q1649901"/>
+               </birth>
+               <death>
+                  <date>1622-12-28</date>
+                  <placeName type="wikidata" ref="Q456">Lyon</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2561_p1</idno>
+               <idno type="wikidata">Q231256</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>François de Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2561_p1</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>François de Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_960_p2</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>François de Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3565_p6</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>François de Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1504_p7</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>François de Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4063_p5</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>Franz von Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1150_p1</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>Franz von Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3355_p6</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>Franz von Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3351_p9</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>Franz von Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_868_p4</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-      <person xml:id="pmb149103">
-         <persName>
-            <surname>François de Sales</surname>
-         </persName>
-         <birth>
-            <date>1567-08-16</date>
-            <placeName type="wikidata" ref="Q1649901"/>
-         </birth>
-         <death>
-            <date>1622-12-28</date>
-            <placeName type="wikidata" ref="Q456">Lyon</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2465_p2</idno>
-         <idno type="wikidata">Q231256</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118534971</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149103.html</idno>
-      </person>
-   </back>
 </TEI>

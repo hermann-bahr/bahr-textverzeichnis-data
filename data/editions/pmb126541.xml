@@ -81,20 +81,22 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155101">
+               <persName>
+                  <surname>Jesus von Nazareth</surname>
+               </persName>
+               <birth>
+                  <date when-custom="4 v.u.Z.">4 v.u.Z.</date>
+               </birth>
+               <death>
+                  <date when-custom="30/31">30/31</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3678_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155101.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155101">
-         <persName>
-            <surname>Jesus von Nazareth</surname>
-         </persName>
-         <birth>
-            <date when-custom="4 v.u.Z.">4 v.u.Z.</date>
-         </birth>
-         <death>
-            <date when-custom="30/31">30/31</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3678_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155101.html</idno>
-      </person>
-   </back>
 </TEI>

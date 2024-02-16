@@ -86,47 +86,49 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154248">
+               <persName>
+                  <surname>Mealy</surname>
+                  <forename>Juliette</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_1852_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154248.html</idno>
+            </person>
+            <person xml:id="pmb154249">
+               <persName>
+                  <surname>Landrin</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1852_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154249.html</idno>
+            </person>
+            <person xml:id="pmb154250">
+               <persName>
+                  <surname>Moret</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1852_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154250.html</idno>
+            </person>
+            <person xml:id="pmb154251">
+               <persName>
+                  <surname>Doré</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_1852_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154251.html</idno>
+            </person>
+            <person xml:id="pmb154252">
+               <persName>
+                  <surname>Fauremont</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_1852_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154252.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154248">
-         <persName>
-            <surname>Mealy</surname>
-            <forename>Juliette</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_1852_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154248.html</idno>
-      </person>
-      <person xml:id="pmb154249">
-         <persName>
-            <surname>Landrin</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1852_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154249.html</idno>
-      </person>
-      <person xml:id="pmb154250">
-         <persName>
-            <surname>Moret</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1852_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154250.html</idno>
-      </person>
-      <person xml:id="pmb154251">
-         <persName>
-            <surname>Doré</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_1852_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154251.html</idno>
-      </person>
-      <person xml:id="pmb154252">
-         <persName>
-            <surname>Fauremont</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_1852_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154252.html</idno>
-      </person>
-   </back>
 </TEI>

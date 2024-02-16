@@ -103,1266 +103,168 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148813">
+               <persName>
+                  <surname>Villiers de l’Isle-Adam</surname>
+                  <forename>Auguste</forename>
+               </persName>
+               <birth>
+                  <date>1838-11-07</date>
+                  <placeName type="wikidata" ref="Q29234">Saint-Brieuc</placeName>
+               </birth>
+               <death>
+                  <date>1889-08-19</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1881_p1</idno>
+               <idno type="wikidata">Q366285</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118627058</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148813.html</idno>
+            </person>
+            <person xml:id="pmb4266">
+               <persName>
+                  <surname>Barbey d’Aurevilly</surname>
+                  <forename>Jules Amédée</forename>
+               </persName>
+               <birth>
+                  <date>1808-11-02</date>
+                  <placeName type="wikidata" ref="Q668199">Saint-Sauveur-le-Vicomte</placeName>
+               </birth>
+               <death>
+                  <date>1889-04-23</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4861_p11</idno>
+               <idno type="wikidata">Q314963</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118506498</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4266.html</idno>
+            </person>
+            <person xml:id="pmb11057">
+               <persName>
+                  <surname>Byron of Rochdale</surname>
+                  <forename>George Gordon Noel</forename>
+               </persName>
+               <birth>
+                  <date>1788-01-22</date>
+                  <placeName type="wikidata" ref="Q84">London</placeName>
+               </birth>
+               <death>
+                  <date>1824-04-19</date>
+                  <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_4873_p10</idno>
+               <idno type="wikidata">Q5679</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
+            </person>
+            <person xml:id="pmb157160">
+               <persName>
+                  <surname>Murillo</surname>
+                  <forename>Bartolomé Esteban</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1618">um 1618</date>
+               </birth>
+               <death>
+                  <date when="1682">1682</date>
+               </death>
+               <idno type="HB-tv">HB-tv_208_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157160.html</idno>
+            </person>
+            <person xml:id="pmb52643">
+               <persName>
+                  <surname>Gautier</surname>
+                  <forename>Théophile</forename>
+               </persName>
+               <birth>
+                  <date>1811-08-30</date>
+                  <placeName type="wikidata" ref="Q184023">Tarbes</placeName>
+               </birth>
+               <death>
+                  <date>1872-10-23</date>
+                  <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3665_p9</idno>
+               <idno type="wikidata">Q183713</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/11853789X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52643.html</idno>
+            </person>
+            <person xml:id="pmb153909">
+               <persName>
+                  <surname>Rochegrosse</surname>
+                  <forename>Georges Antoine</forename>
+               </persName>
+               <birth>
+                  <date when="1859">1859</date>
+               </birth>
+               <death>
+                  <date when="1938">1938</date>
+               </death>
+               <idno type="HB-tv">HB-tv_3922_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153909.html</idno>
+            </person>
+            <person xml:id="pmb28820">
+               <persName>
+                  <surname>Stendhal</surname>
+               </persName>
+               <birth>
+                  <date>1783-01-23</date>
+                  <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
+               </birth>
+               <death>
+                  <date>1842-03-23</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1050_p3</idno>
+               <idno type="wikidata">Q502</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
+            </person>
+            <person xml:id="pmb149176">
+               <persName>
+                  <surname>Napoleon III.</surname>
+               </persName>
+               <birth>
+                  <date>1808-04-20</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </birth>
+               <death>
+                  <date>1873-01-09</date>
+                  <placeName type="wikidata" ref="Q122917"/>
+               </death>
+               <idno type="HB-tv">HB-tv_4873_p13</idno>
+               <idno type="wikidata">Q7721</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
+            </person>
+            <person xml:id="pmb117274">
+               <persName>
+                  <surname>Salisbury</surname>
+                  <forename>Robert Gascoyne-Cecil Marquess of</forename>
+               </persName>
+               <birth>
+                  <date>1830-02-03</date>
+                  <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
+               </birth>
+               <death>
+                  <date>1903-08-22</date>
+                  <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2749_p2</idno>
+               <idno type="wikidata">Q243705</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118794256</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117274.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148813">
-         <persName>
-            <surname>Villiers de l’Isle-Adam</surname>
-            <forename>Auguste</forename>
-         </persName>
-         <birth>
-            <date>1838-11-07</date>
-            <placeName type="wikidata" ref="Q29234">Saint-Brieuc</placeName>
-         </birth>
-         <death>
-            <date>1889-08-19</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1881_p1</idno>
-         <idno type="wikidata">Q366285</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627058</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148813.html</idno>
-      </person>
-      <person xml:id="pmb4266">
-         <persName>
-            <surname>Barbey d’Aurevilly</surname>
-            <forename>Jules Amédée</forename>
-         </persName>
-         <birth>
-            <date>1808-11-02</date>
-            <placeName type="wikidata" ref="Q668199">Saint-Sauveur-le-Vicomte</placeName>
-         </birth>
-         <death>
-            <date>1889-04-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4861_p11</idno>
-         <idno type="wikidata">Q314963</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118506498</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4266.html</idno>
-      </person>
-      <person xml:id="pmb4266">
-         <persName>
-            <surname>Barbey d’ Aurevilly</surname>
-            <forename>Jules Amédée</forename>
-         </persName>
-         <birth>
-            <date>1808-11-02</date>
-            <placeName type="wikidata" ref="Q668199">Saint-Sauveur-le-Vicomte</placeName>
-         </birth>
-         <death>
-            <date>1889-04-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2637_p2</idno>
-         <idno type="wikidata">Q314963</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118506498</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4266.html</idno>
-      </person>
-      <person xml:id="pmb11057">
-         <persName>
-            <surname>Byron of Rochdale</surname>
-            <forename>George Gordon Noel</forename>
-         </persName>
-         <birth>
-            <date>1788-01-22</date>
-            <placeName type="wikidata" ref="Q84">London</placeName>
-         </birth>
-         <death>
-            <date>1824-04-19</date>
-            <placeName type="wikidata" ref="Q642810">Mesolongi</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p10</idno>
-         <idno type="wikidata">Q5679</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118518208</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb11057.html</idno>
-      </person>
-      <person xml:id="pmb157160">
-         <persName>
-            <surname>Murillo</surname>
-            <forename>Bartolomé Esteban</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1618">um 1618</date>
-         </birth>
-         <death>
-            <date when="1682">1682</date>
-         </death>
-         <idno type="HB-tv">HB-tv_208_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb157160.html</idno>
-      </person>
-      <person xml:id="pmb52643">
-         <persName>
-            <surname>Gautier</surname>
-            <forename>Théophile</forename>
-         </persName>
-         <birth>
-            <date>1811-08-30</date>
-            <placeName type="wikidata" ref="Q184023">Tarbes</placeName>
-         </birth>
-         <death>
-            <date>1872-10-23</date>
-            <placeName type="wikidata" ref="Q48958">Neuilly-sur-Seine</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3665_p9</idno>
-         <idno type="wikidata">Q183713</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/11853789X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb52643.html</idno>
-      </person>
-      <person xml:id="pmb153909">
-         <persName>
-            <surname>Rochegrosse</surname>
-            <forename>Georges Antoine</forename>
-         </persName>
-         <birth>
-            <date when="1859">1859</date>
-         </birth>
-         <death>
-            <date when="1938">1938</date>
-         </death>
-         <idno type="HB-tv">HB-tv_3922_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153909.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1050_p3</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3512_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3502_p6</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_35_p5</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4861_p13</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1426_p3</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3361_p9</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3355_p7</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3349_p3</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3348_p3</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5307_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5288_p6</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5469_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5430_p6</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1139_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1138_p3</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2585_p29</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1365_p108</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3292_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2302_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_747_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_476_p2</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2834_p7</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2831_p2</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2776_p4</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2775_p2</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2771_p3</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2767_p5</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2765_p29</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2760_p4</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_214_p3</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2689_p20</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2684_p4</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2683_p7</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2679_p10</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2677_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2673_p2</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2672_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1353_p1</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_191_p2</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2646_p8</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2644_p8</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2637_p7</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2635_p24</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2617_p2</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb28820">
-         <persName>
-            <surname>Stendhal</surname>
-         </persName>
-         <birth>
-            <date>1783-01-23</date>
-            <placeName type="wikidata" ref="Q1289">Grenoble</placeName>
-         </birth>
-         <death>
-            <date>1842-03-23</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1175_p6</idno>
-         <idno type="wikidata">Q502</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118617648</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb28820.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoleon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_4873_p13</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_3503_p6</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoleon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_1141_p5</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_4852_p14</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_4844_p11</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_3351_p16</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoleon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_6654_p1</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_3403_p16</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoleon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_2465_p8</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoleon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_947_p1</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoleon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_2835_p12</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoleon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_367_p4</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_2744_p3</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_2736_p5</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb149176">
-         <persName>
-            <surname>Napoléon III.</surname>
-         </persName>
-         <birth>
-            <date>1808-04-20</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </birth>
-         <death>
-            <date>1873-01-09</date>
-            <placeName type="wikidata" ref="Q122917"/>
-         </death>
-         <idno type="HB-tv">HB-tv_2637_p8</idno>
-         <idno type="wikidata">Q7721</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149176.html</idno>
-      </person>
-      <person xml:id="pmb117274">
-         <persName>
-            <surname>Salisbury</surname>
-            <forename>Robert Gascoyne-Cecil Marquess of</forename>
-         </persName>
-         <birth>
-            <date>1830-02-03</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </birth>
-         <death>
-            <date>1903-08-22</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2749_p2</idno>
-         <idno type="wikidata">Q243705</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794256</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117274.html</idno>
-      </person>
-      <person xml:id="pmb117274">
-         <persName>
-            <surname>Gascoyne-Cecil</surname>
-            <forename>Robert Arthur Talbot</forename>
-         </persName>
-         <birth>
-            <date>1830-02-03</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </birth>
-         <death>
-            <date>1903-08-22</date>
-            <placeName type="wikidata" ref="Q19788">Hatfield</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2637_p9</idno>
-         <idno type="wikidata">Q243705</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118794256</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117274.html</idno>
-      </person>
-   </back>
 </TEI>

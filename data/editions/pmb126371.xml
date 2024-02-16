@@ -77,25 +77,27 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb149803">
+               <persName>
+                  <surname>Pacher</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <birth>
+                  <date when-custom="um 1435">um 1435</date>
+               </birth>
+               <death>
+                  <date>1498-01-01</date>
+                  <placeName type="wikidata" ref="Q34713">Salzburg</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_6508_p1</idno>
+               <idno type="wikidata">Q463922</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118591088</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149803.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb149803">
-         <persName>
-            <surname>Pacher</surname>
-            <forename>Michael</forename>
-         </persName>
-         <birth>
-            <date when-custom="um 1435">um 1435</date>
-         </birth>
-         <death>
-            <date>1498-01-01</date>
-            <placeName type="wikidata" ref="Q34713">Salzburg</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_6508_p1</idno>
-         <idno type="wikidata">Q463922</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118591088</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149803.html</idno>
-      </person>
-   </back>
 </TEI>

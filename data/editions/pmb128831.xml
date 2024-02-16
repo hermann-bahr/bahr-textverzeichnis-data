@@ -80,48 +80,50 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb150566">
+               <persName>
+                  <surname>Schwarzenberg</surname>
+                  <forename>Friedrich zu</forename>
+               </persName>
+               <birth>
+                  <date>1809-04-06</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1885-03-27</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5261_p1</idno>
+               <idno type="wikidata">Q876675</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118763024</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150566.html</idno>
+            </person>
+            <person xml:id="pmb155841">
+               <persName>
+                  <surname>Rupert von Salzburg</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 650">um 650</date>
+               </birth>
+               <death>
+                  <date when-custom="718[?]">718[?]</date>
+               </death>
+               <idno type="HB-tv">HB-tv_5460_p2</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155841.html</idno>
+            </person>
+            <person xml:id="pmb155842">
+               <persName>
+                  <surname>Adler</surname>
+                  <forename>Hugo</forename>
+               </persName>
+               <occupation>Primar</occupation>
+               <idno type="HB-tv">HB-tv_5460_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155842.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb150566">
-         <persName>
-            <surname>Schwarzenberg</surname>
-            <forename>Friedrich zu</forename>
-         </persName>
-         <birth>
-            <date>1809-04-06</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1885-03-27</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5261_p1</idno>
-         <idno type="wikidata">Q876675</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118763024</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150566.html</idno>
-      </person>
-      <person xml:id="pmb155841">
-         <persName>
-            <surname>Rupert von Salzburg</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 650">um 650</date>
-         </birth>
-         <death>
-            <date when-custom="718[?]">718[?]</date>
-         </death>
-         <idno type="HB-tv">HB-tv_5460_p2</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155841.html</idno>
-      </person>
-      <person xml:id="pmb155842">
-         <persName>
-            <surname>Adler</surname>
-            <forename>Hugo</forename>
-         </persName>
-         <occupation>Primar</occupation>
-         <idno type="HB-tv">HB-tv_5460_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155842.html</idno>
-      </person>
-   </back>
 </TEI>

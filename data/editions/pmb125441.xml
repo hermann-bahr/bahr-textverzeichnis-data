@@ -78,207 +78,119 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb155039">
+               <persName>
+                  <surname>Benedikt von Nursia</surname>
+               </persName>
+               <birth>
+                  <date when-custom="um 480">um 480</date>
+               </birth>
+               <death>
+                  <date when="0547">547</date>
+               </death>
+               <idno type="HB-tv">HB-tv_1130_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155039.html</idno>
+            </person>
+            <person xml:id="pmb149723">
+               <persName>
+                  <surname>Xavier</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <occupation>Missionar</occupation>
+               <birth>
+                  <date>1506-04-07</date>
+                  <placeName type="wikidata" ref="Q1773006">Javier</placeName>
+               </birth>
+               <death>
+                  <date>1552-12-03</date>
+                  <placeName type="wikidata" ref="Q1397551">Shangchuan Dao</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1130_p2</idno>
+               <idno type="wikidata">Q163900</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118535021</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149723.html</idno>
+            </person>
+            <person xml:id="pmb117027">
+               <persName>
+                  <surname>Vinzenz von Paul</surname>
+               </persName>
+               <birth>
+                  <date>1581-04-24</date>
+                  <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
+               </birth>
+               <death>
+                  <date>1660-09-27</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_960_p3</idno>
+               <idno type="wikidata">Q244413</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
+            </person>
+            <person xml:id="pmb113808">
+               <persName>
+                  <surname>Faulhaber</surname>
+                  <forename>Michael von</forename>
+               </persName>
+               <birth>
+                  <date>1869-03-05</date>
+                  <placeName type="wikidata" ref="Q1594160">Heidenfeld</placeName>
+               </birth>
+               <death>
+                  <date>1952-06-12</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2586_p1</idno>
+               <idno type="wikidata">Q45160</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118532073</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113808.html</idno>
+            </person>
+            <person xml:id="pmb149728">
+               <persName>
+                  <surname>Ferrer</surname>
+                  <forename>Vinzenz</forename>
+               </persName>
+               <occupation>Dominikanermönch</occupation>
+               <birth>
+                  <date>1350-01-23</date>
+                  <placeName type="wikidata" ref="Q8818">Valencia</placeName>
+               </birth>
+               <death>
+                  <date>1419-04-05</date>
+                  <placeName type="wikidata" ref="Q6593">Vannes</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1130_p5</idno>
+               <idno type="wikidata">Q317131</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118627082</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149728.html</idno>
+            </person>
+            <person xml:id="pmb149732">
+               <persName>
+                  <surname>Sonnenschein</surname>
+                  <forename>Carl</forename>
+               </persName>
+               <occupation>Autor</occupation>
+               <birth>
+                  <date>1876-07-15</date>
+                  <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
+               </birth>
+               <death>
+                  <date>1929-02-20</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1130_p6</idno>
+               <idno type="wikidata">Q107712</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118615629</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149732.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb155039">
-         <persName>
-            <surname>Benedikt von Nursia</surname>
-         </persName>
-         <birth>
-            <date when-custom="um 480">um 480</date>
-         </birth>
-         <death>
-            <date when="0547">547</date>
-         </death>
-         <idno type="HB-tv">HB-tv_1130_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155039.html</idno>
-      </person>
-      <person xml:id="pmb149723">
-         <persName>
-            <surname>Xavier</surname>
-            <forename>Franz</forename>
-         </persName>
-         <occupation>Missionar</occupation>
-         <birth>
-            <date>1506-04-07</date>
-            <placeName type="wikidata" ref="Q1773006">Javier</placeName>
-         </birth>
-         <death>
-            <date>1552-12-03</date>
-            <placeName type="wikidata" ref="Q1397551">Shangchuan Dao</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1130_p2</idno>
-         <idno type="wikidata">Q163900</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118535021</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149723.html</idno>
-      </person>
-      <person xml:id="pmb149723">
-         <persName>
-            <surname>Francisco de Xavier</surname>
-         </persName>
-         <birth>
-            <date>1506-04-07</date>
-            <placeName type="wikidata" ref="Q1773006">Javier</placeName>
-         </birth>
-         <death>
-            <date>1552-12-03</date>
-            <placeName type="wikidata" ref="Q1397551">Shangchuan Dao</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1376_p24</idno>
-         <idno type="wikidata">Q163900</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118535021</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149723.html</idno>
-      </person>
-      <person xml:id="pmb149723">
-         <persName>
-            <surname>Francisco de Xavier</surname>
-         </persName>
-         <birth>
-            <date>1506-04-07</date>
-            <placeName type="wikidata" ref="Q1773006">Javier</placeName>
-         </birth>
-         <death>
-            <date>1552-12-03</date>
-            <placeName type="wikidata" ref="Q1397551">Shangchuan Dao</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1625_p24</idno>
-         <idno type="wikidata">Q163900</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118535021</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149723.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_960_p3</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_4869_p8</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1130_p3</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb117027">
-         <persName>
-            <surname>Vinzenz von Paul</surname>
-         </persName>
-         <birth>
-            <date>1581-04-24</date>
-            <placeName type="wikidata" ref="Q672199">Saint-Vincent-de-Paul</placeName>
-         </birth>
-         <death>
-            <date>1660-09-27</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3468_p3</idno>
-         <idno type="wikidata">Q244413</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627171</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117027.html</idno>
-      </person>
-      <person xml:id="pmb113808">
-         <persName>
-            <surname>Faulhaber</surname>
-            <forename>Michael von</forename>
-         </persName>
-         <birth>
-            <date>1869-03-05</date>
-            <placeName type="wikidata" ref="Q1594160">Heidenfeld</placeName>
-         </birth>
-         <death>
-            <date>1952-06-12</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2586_p1</idno>
-         <idno type="wikidata">Q45160</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118532073</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113808.html</idno>
-      </person>
-      <person xml:id="pmb149728">
-         <persName>
-            <surname>Ferrer</surname>
-            <forename>Vinzenz</forename>
-         </persName>
-         <occupation>Dominikanermönch</occupation>
-         <birth>
-            <date>1350-01-23</date>
-            <placeName type="wikidata" ref="Q8818">Valencia</placeName>
-         </birth>
-         <death>
-            <date>1419-04-05</date>
-            <placeName type="wikidata" ref="Q6593">Vannes</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1130_p5</idno>
-         <idno type="wikidata">Q317131</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118627082</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149728.html</idno>
-      </person>
-      <person xml:id="pmb149732">
-         <persName>
-            <surname>Sonnenschein</surname>
-            <forename>Carl</forename>
-         </persName>
-         <occupation>Autor</occupation>
-         <birth>
-            <date>1876-07-15</date>
-            <placeName type="wikidata" ref="Q1718">Düsseldorf</placeName>
-         </birth>
-         <death>
-            <date>1929-02-20</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1130_p6</idno>
-         <idno type="wikidata">Q107712</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118615629</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149732.html</idno>
-      </person>
-   </back>
 </TEI>

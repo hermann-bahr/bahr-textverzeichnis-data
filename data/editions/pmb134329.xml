@@ -77,62 +77,46 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb152547">
+               <persName>
+                  <surname>Soubirous</surname>
+                  <forename>Bernadette</forename>
+               </persName>
+               <birth>
+                  <date>1844-01-07</date>
+                  <placeName type="wikidata" ref="Q3327">Lourdes</placeName>
+               </birth>
+               <death>
+                  <date>1879-04-16</date>
+                  <placeName type="wikidata" ref="Q166997">Nevers</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2701_p1</idno>
+               <idno type="wikidata">Q55398</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118509713</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152547.html</idno>
+            </person>
+            <person xml:id="pmb152550">
+               <persName>
+                  <surname>Jeanne d’Albret</surname>
+               </persName>
+               <birth>
+                  <date>1528-01-07</date>
+                  <placeName type="wikidata" ref="Q185075">Saint-Germain-en-Laye</placeName>
+               </birth>
+               <death>
+                  <date>1572-06-09</date>
+                  <placeName type="wikidata" ref="Q90">Paris</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2701_p2</idno>
+               <idno type="wikidata">Q229286</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/102292906</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152550.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb152547">
-         <persName>
-            <surname>Soubirous</surname>
-            <forename>Bernadette</forename>
-         </persName>
-         <birth>
-            <date>1844-01-07</date>
-            <placeName type="wikidata" ref="Q3327">Lourdes</placeName>
-         </birth>
-         <death>
-            <date>1879-04-16</date>
-            <placeName type="wikidata" ref="Q166997">Nevers</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2701_p1</idno>
-         <idno type="wikidata">Q55398</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118509713</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152547.html</idno>
-      </person>
-      <person xml:id="pmb152550">
-         <persName>
-            <surname>Jeanne d’Albret</surname>
-         </persName>
-         <birth>
-            <date>1528-01-07</date>
-            <placeName type="wikidata" ref="Q185075">Saint-Germain-en-Laye</placeName>
-         </birth>
-         <death>
-            <date>1572-06-09</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2701_p2</idno>
-         <idno type="wikidata">Q229286</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/102292906</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152550.html</idno>
-      </person>
-      <person xml:id="pmb152550">
-         <persName>
-            <surname>Jeanne d’Albret</surname>
-         </persName>
-         <birth>
-            <date>1528-01-07</date>
-            <placeName type="wikidata" ref="Q185075">Saint-Germain-en-Laye</placeName>
-         </birth>
-         <death>
-            <date>1572-06-09</date>
-            <placeName type="wikidata" ref="Q90">Paris</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2700_p2</idno>
-         <idno type="wikidata">Q229286</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/102292906</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb152550.html</idno>
-      </person>
-   </back>
 </TEI>

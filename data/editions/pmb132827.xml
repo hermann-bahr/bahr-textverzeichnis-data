@@ -100,64 +100,66 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb148906">
+               <persName>
+                  <surname>Hörmann</surname>
+                  <forename>Theodor von</forename>
+               </persName>
+               <birth>
+                  <date>1840-12-13</date>
+                  <placeName type="wikidata" ref="Q254107">Imst</placeName>
+               </birth>
+               <death>
+                  <date>1895-07-01</date>
+                  <placeName type="wikidata" ref="Q13298">Graz</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1319_p2</idno>
+               <idno type="wikidata">Q872134</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118552201</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148906.html</idno>
+            </person>
+            <person xml:id="pmb117069">
+               <persName>
+                  <surname>Semper</surname>
+                  <forename>Gottfried</forename>
+               </persName>
+               <birth>
+                  <date>1803-11-29</date>
+                  <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
+               </birth>
+               <death>
+                  <date>1879-05-15</date>
+                  <placeName type="wikidata" ref="Q220">Rom</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3840_p5</idno>
+               <idno type="wikidata">Q61342</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118613154</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117069.html</idno>
+            </person>
+            <person xml:id="pmb113956">
+               <persName>
+                  <surname>Lenbach</surname>
+                  <forename>Franz von</forename>
+               </persName>
+               <birth>
+                  <date>1836-12-13</date>
+                  <placeName type="wikidata" ref="Q504746">Schrobenhausen</placeName>
+               </birth>
+               <death>
+                  <date>1904-05-06</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_3332_p1</idno>
+               <idno type="wikidata">Q585323</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118571516</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113956.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb148906">
-         <persName>
-            <surname>Hörmann</surname>
-            <forename>Theodor von</forename>
-         </persName>
-         <birth>
-            <date>1840-12-13</date>
-            <placeName type="wikidata" ref="Q254107">Imst</placeName>
-         </birth>
-         <death>
-            <date>1895-07-01</date>
-            <placeName type="wikidata" ref="Q13298">Graz</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1319_p2</idno>
-         <idno type="wikidata">Q872134</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118552201</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148906.html</idno>
-      </person>
-      <person xml:id="pmb117069">
-         <persName>
-            <surname>Semper</surname>
-            <forename>Gottfried</forename>
-         </persName>
-         <birth>
-            <date>1803-11-29</date>
-            <placeName type="wikidata" ref="Q1055">Hamburg</placeName>
-         </birth>
-         <death>
-            <date>1879-05-15</date>
-            <placeName type="wikidata" ref="Q220">Rom</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3840_p5</idno>
-         <idno type="wikidata">Q61342</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118613154</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb117069.html</idno>
-      </person>
-      <person xml:id="pmb113956">
-         <persName>
-            <surname>Lenbach</surname>
-            <forename>Franz von</forename>
-         </persName>
-         <birth>
-            <date>1836-12-13</date>
-            <placeName type="wikidata" ref="Q504746">Schrobenhausen</placeName>
-         </birth>
-         <death>
-            <date>1904-05-06</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_3332_p1</idno>
-         <idno type="wikidata">Q585323</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118571516</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb113956.html</idno>
-      </person>
-   </back>
 </TEI>

@@ -85,69 +85,71 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154413">
+               <persName>
+                  <surname>Fronz</surname>
+                  <forename>Oscar</forename>
+               </persName>
+               <idno type="HB-tv">HB-tv_2520_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154413.html</idno>
+            </person>
+            <person xml:id="pmb2847">
+               <persName>
+                  <surname>Giampietro</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <date>1866-06-21</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1913-12-29</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2399_p4</idno>
+               <idno type="wikidata">Q1707099</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
+            </person>
+            <person xml:id="pmb154414">
+               <persName>
+                  <surname>Martinelli</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2520_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154414.html</idno>
+            </person>
+            <person xml:id="pmb154415">
+               <persName>
+                  <surname>Amon</surname>
+                  <forename>Anton</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2520_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154415.html</idno>
+            </person>
+            <person xml:id="pmb22666">
+               <persName>
+                  <surname>Pohl-Meiser</surname>
+                  <forename>Viktoria</forename>
+               </persName>
+               <birth>
+                  <date>1858-11-28</date>
+                  <placeName type="wikidata" ref="Q1726">München</placeName>
+               </birth>
+               <death>
+                  <date>1936-06-17</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4829_p6</idno>
+               <idno type="wikidata">Q58011561</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154413">
-         <persName>
-            <surname>Fronz</surname>
-            <forename>Oscar</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2520_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154413.html</idno>
-      </person>
-      <person xml:id="pmb2847">
-         <persName>
-            <surname>Giampietro</surname>
-            <forename>Joseph</forename>
-         </persName>
-         <birth>
-            <date>1866-06-21</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1913-12-29</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2399_p4</idno>
-         <idno type="wikidata">Q1707099</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
-      </person>
-      <person xml:id="pmb154414">
-         <persName>
-            <surname>Martinelli</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2520_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154414.html</idno>
-      </person>
-      <person xml:id="pmb154415">
-         <persName>
-            <surname>Amon</surname>
-            <forename>Anton</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2520_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154415.html</idno>
-      </person>
-      <person xml:id="pmb22666">
-         <persName>
-            <surname>Pohl-Meiser</surname>
-            <forename>Viktoria</forename>
-         </persName>
-         <birth>
-            <date>1858-11-28</date>
-            <placeName type="wikidata" ref="Q1726">München</placeName>
-         </birth>
-         <death>
-            <date>1936-06-17</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4829_p6</idno>
-         <idno type="wikidata">Q58011561</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/116260653</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb22666.html</idno>
-      </person>
-   </back>
 </TEI>

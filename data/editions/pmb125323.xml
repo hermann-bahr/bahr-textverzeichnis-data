@@ -91,26 +91,28 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb43783">
+               <persName>
+                  <surname>Eichert</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <birth>
+                  <date>1857-02-11</date>
+                  <placeName type="wikidata" ref="Q12055167"/>
+               </birth>
+               <death>
+                  <date>1926-07-06</date>
+                  <placeName type="wikidata" ref="Q662190">Breitenfurt bei Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_5930_p1</idno>
+               <idno type="wikidata">Q20482099</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116410302</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43783.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb43783">
-         <persName>
-            <surname>Eichert</surname>
-            <forename>Franz</forename>
-         </persName>
-         <birth>
-            <date>1857-02-11</date>
-            <placeName type="wikidata" ref="Q12055167"/>
-         </birth>
-         <death>
-            <date>1926-07-06</date>
-            <placeName type="wikidata" ref="Q662190">Breitenfurt bei Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_5930_p1</idno>
-         <idno type="wikidata">Q20482099</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116410302</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb43783.html</idno>
-      </person>
-   </back>
 </TEI>

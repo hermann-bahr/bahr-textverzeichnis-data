@@ -89,119 +89,121 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb114090">
+               <persName>
+                  <surname>Gallmeyer</surname>
+                  <forename>Josefine</forename>
+               </persName>
+               <birth>
+                  <date>1838-02-27</date>
+                  <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
+               </birth>
+               <death>
+                  <date>1884-02-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2474_p1</idno>
+               <idno type="wikidata">Q112279</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/118689355</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114090.html</idno>
+            </person>
+            <person xml:id="pmb148834">
+               <persName>
+                  <surname>Schweighofer</surname>
+                  <forename>Felix</forename>
+               </persName>
+               <birth>
+                  <date>1842-11-20</date>
+                  <placeName type="wikidata" ref="Q14960">Brünn</placeName>
+               </birth>
+               <death>
+                  <date>1912-01-28</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2474_p2</idno>
+               <idno type="wikidata">Q50134955</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/117401846</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148834.html</idno>
+            </person>
+            <person xml:id="pmb154033">
+               <persName>
+                  <surname>Thaller</surname>
+                  <forename>Willy</forename>
+               </persName>
+               <birth>
+                  <date when="1854">1854</date>
+               </birth>
+               <death>
+                  <date when-custom="1941?">1941?</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2399_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154033.html</idno>
+            </person>
+            <person xml:id="pmb154184">
+               <persName>
+                  <surname>Amon</surname>
+                  <forename>Anton</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2474_p4</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154184.html</idno>
+            </person>
+            <person xml:id="pmb2868">
+               <persName>
+                  <surname>Kutschera</surname>
+                  <forename>Viktor</forename>
+               </persName>
+               <birth>
+                  <date>1863-05-02</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </birth>
+               <death>
+                  <date>1933-01-20</date>
+                  <placeName type="wikidata" ref="Q1741">Wien</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2035_p2</idno>
+               <idno type="wikidata">Q2524322</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
+            </person>
+            <person xml:id="pmb154185">
+               <persName>
+                  <surname>Martinelli</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2474_p6</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154185.html</idno>
+            </person>
+            <person xml:id="pmb148836">
+               <persName>
+                  <surname>Fira</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2474_p7</idno>
+               <idno type="wikidata">Q4261349</idno>
+               <sex value="female"/>
+               <idno type="gnd">https://d-nb.info/gnd/12878413X</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148836.html</idno>
+            </person>
+            <person xml:id="pmb154036">
+               <persName>
+                  <surname>Niese</surname>
+                  <forename>Johanna »Hansi«</forename>
+               </persName>
+               <birth>
+                  <date when="1875">1875</date>
+               </birth>
+               <death>
+                  <date when="1934">1934</date>
+               </death>
+               <idno type="HB-tv">HB-tv_2336_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb114090">
-         <persName>
-            <surname>Gallmeyer</surname>
-            <forename>Josefine</forename>
-         </persName>
-         <birth>
-            <date>1838-02-27</date>
-            <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
-         </birth>
-         <death>
-            <date>1884-02-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2474_p1</idno>
-         <idno type="wikidata">Q112279</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/118689355</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114090.html</idno>
-      </person>
-      <person xml:id="pmb148834">
-         <persName>
-            <surname>Schweighofer</surname>
-            <forename>Felix</forename>
-         </persName>
-         <birth>
-            <date>1842-11-20</date>
-            <placeName type="wikidata" ref="Q14960">Brünn</placeName>
-         </birth>
-         <death>
-            <date>1912-01-28</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2474_p2</idno>
-         <idno type="wikidata">Q50134955</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/117401846</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148834.html</idno>
-      </person>
-      <person xml:id="pmb154033">
-         <persName>
-            <surname>Thaller</surname>
-            <forename>Willy</forename>
-         </persName>
-         <birth>
-            <date when="1854">1854</date>
-         </birth>
-         <death>
-            <date when-custom="1941?">1941?</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2399_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154033.html</idno>
-      </person>
-      <person xml:id="pmb154184">
-         <persName>
-            <surname>Amon</surname>
-            <forename>Anton</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2474_p4</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154184.html</idno>
-      </person>
-      <person xml:id="pmb2868">
-         <persName>
-            <surname>Kutschera</surname>
-            <forename>Viktor</forename>
-         </persName>
-         <birth>
-            <date>1863-05-02</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </birth>
-         <death>
-            <date>1933-01-20</date>
-            <placeName type="wikidata" ref="Q1741">Wien</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2035_p2</idno>
-         <idno type="wikidata">Q2524322</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/116628081</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2868.html</idno>
-      </person>
-      <person xml:id="pmb154185">
-         <persName>
-            <surname>Martinelli</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2474_p6</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154185.html</idno>
-      </person>
-      <person xml:id="pmb148836">
-         <persName>
-            <surname>Fira</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2474_p7</idno>
-         <idno type="wikidata">Q4261349</idno>
-         <sex value="female"/>
-         <idno type="gnd">https://d-nb.info/gnd/12878413X</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148836.html</idno>
-      </person>
-      <person xml:id="pmb154036">
-         <persName>
-            <surname>Niese</surname>
-            <forename>Johanna »Hansi«</forename>
-         </persName>
-         <birth>
-            <date when="1875">1875</date>
-         </birth>
-         <death>
-            <date when="1934">1934</date>
-         </death>
-         <idno type="HB-tv">HB-tv_2336_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154036.html</idno>
-      </person>
-   </back>
 </TEI>

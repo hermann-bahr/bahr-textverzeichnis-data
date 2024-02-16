@@ -84,76 +84,58 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb154423">
+               <persName>
+                  <surname>Nilasson</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2351_p1</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154423.html</idno>
+            </person>
+            <person xml:id="pmb153636">
+               <persName>
+                  <surname>Heding</surname>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <idno type="HB-tv">HB-tv_2351_p2</idno>
+               <idno type="wikidata">Q45495923</idno>
+               <sex value="male"/>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
+            </person>
+            <person xml:id="pmb154424">
+               <persName>
+                  <surname>Kester</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2351_p3</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154424.html</idno>
+            </person>
+            <person xml:id="pmb154024">
+               <persName>
+                  <surname>Czasta</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <occupation>Schauspieler</occupation>
+               <birth>
+                  <date when="1860">1860</date>
+               </birth>
+               <death>
+                  <date when="1921">1921</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4829_p19</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154024.html</idno>
+            </person>
+            <person xml:id="pmb154425">
+               <persName>
+                  <surname>Pahlen</surname>
+               </persName>
+               <occupation>Schauspielerin</occupation>
+               <idno type="HB-tv">HB-tv_2351_p5</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154425.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb154423">
-         <persName>
-            <surname>Nilasson</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2351_p1</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154423.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2351_p2</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2312_p3</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb153636">
-         <persName>
-            <surname>Heding</surname>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <idno type="HB-tv">HB-tv_2311_p5</idno>
-         <idno type="wikidata">Q45495923</idno>
-         <sex value="male"/>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153636.html</idno>
-      </person>
-      <person xml:id="pmb154424">
-         <persName>
-            <surname>Kester</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2351_p3</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154424.html</idno>
-      </person>
-      <person xml:id="pmb154024">
-         <persName>
-            <surname>Czasta</surname>
-            <forename>Franz</forename>
-         </persName>
-         <occupation>Schauspieler</occupation>
-         <birth>
-            <date when="1860">1860</date>
-         </birth>
-         <death>
-            <date when="1921">1921</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4829_p19</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154024.html</idno>
-      </person>
-      <person xml:id="pmb154425">
-         <persName>
-            <surname>Pahlen</surname>
-         </persName>
-         <occupation>Schauspielerin</occupation>
-         <idno type="HB-tv">HB-tv_2351_p5</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154425.html</idno>
-      </person>
-   </back>
 </TEI>

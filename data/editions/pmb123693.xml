@@ -82,71 +82,62 @@
             </biblStruct>
          </div>
       </body>
+      <back>
+         <listPerson>
+            <person xml:id="pmb64875">
+               <persName>
+                  <surname>Raupach</surname>
+                  <forename>Ernst</forename>
+               </persName>
+               <birth>
+                  <date>1784-05-21</date>
+                  <placeName type="wikidata" ref="Q1811646"/>
+               </birth>
+               <death>
+                  <date>1852-03-18</date>
+                  <placeName type="wikidata" ref="Q64">Berlin</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_2494_p1</idno>
+               <idno type="wikidata">Q67961</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/100823548</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64875.html</idno>
+            </person>
+            <person xml:id="pmb13999">
+               <persName>
+                  <surname>Benedix</surname>
+                  <forename>Roderich</forename>
+               </persName>
+               <birth>
+                  <date>1811-01-21</date>
+                  <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
+               </birth>
+               <death>
+                  <date>1873-09-26</date>
+                  <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
+               </death>
+               <idno type="HB-tv">HB-tv_1966_p1</idno>
+               <idno type="wikidata">Q87176</idno>
+               <sex value="male"/>
+               <idno type="gnd">https://d-nb.info/gnd/118658166</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13999.html</idno>
+            </person>
+            <person xml:id="pmb153967">
+               <persName>
+                  <surname>l’Arronge</surname>
+                  <forename>Adolph</forename>
+               </persName>
+               <persName type="namensvariante">Adolf Aaronsohn</persName>
+               <birth>
+                  <date when="1838">1838</date>
+               </birth>
+               <death>
+                  <date when="1908">1908</date>
+               </death>
+               <idno type="HB-tv">HB-tv_4465_p9</idno>
+               <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153967.html</idno>
+            </person>
+         </listPerson>
+      </back>
    </text>
-   <back>
-      <person xml:id="pmb64875">
-         <persName>
-            <surname>Raupach</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <birth>
-            <date>1784-05-21</date>
-            <placeName type="wikidata" ref="Q1811646"/>
-         </birth>
-         <death>
-            <date>1852-03-18</date>
-            <placeName type="wikidata" ref="Q64">Berlin</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_2494_p1</idno>
-         <idno type="wikidata">Q67961</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/100823548</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64875.html</idno>
-      </person>
-      <person xml:id="pmb64875">
-         <persName>
-            <surname>Raupach</surname>
-            <forename>Ernst</forename>
-         </persName>
-         <idno type="HB-tv">HB-tv_2249_p1</idno>
-         <idno type="wikidata">Q67961</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/100823548</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb64875.html</idno>
-      </person>
-      <person xml:id="pmb13999">
-         <persName>
-            <surname>Benedix</surname>
-            <forename>Roderich</forename>
-         </persName>
-         <birth>
-            <date>1811-01-21</date>
-            <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
-         </birth>
-         <death>
-            <date>1873-09-26</date>
-            <placeName type="wikidata" ref="Q2079">Leipzig</placeName>
-         </death>
-         <idno type="HB-tv">HB-tv_1966_p1</idno>
-         <idno type="wikidata">Q87176</idno>
-         <sex value="male"/>
-         <idno type="gnd">https://d-nb.info/gnd/118658166</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb13999.html</idno>
-      </person>
-      <person xml:id="pmb153967">
-         <persName>
-            <surname>l’Arronge</surname>
-            <forename>Adolph</forename>
-         </persName>
-         <persName type="namensvariante">Adolf Aaronsohn</persName>
-         <birth>
-            <date when="1838">1838</date>
-         </birth>
-         <death>
-            <date when="1908">1908</date>
-         </death>
-         <idno type="HB-tv">HB-tv_4465_p9</idno>
-         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153967.html</idno>
-      </person>
-   </back>
 </TEI>
