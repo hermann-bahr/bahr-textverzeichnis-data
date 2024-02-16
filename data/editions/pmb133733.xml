@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-12-01+01:00</date>
+            <date>2024-02-16+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb133733.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -75,8 +75,8 @@
                      <ptr type="pmb" target="pmb2121"/>
                      <ptr type="pmb" target="pmb3723"/>
                      <ptr type="pmb" target="pmb13473"/>
-                     <ptr type="HB-tv" target="HB-tv_2399_p4"/>
-                     <ptr type="HB-tv" target="HB-tv_320_p2"/>
+                     <ptr type="pmb" target="pmb2847"/>
+                     <ptr type="pmb" target="pmb23784"/>
                   </listRef>
                </ref>
                <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/die-zeit/17-58.pdf</ref>
@@ -96,4 +96,606 @@
          </div>
       </body>
    </text>
+   <back>
+      <person xml:id="pmb2181">
+         <persName>
+            <surname>Velàzquez</surname>
+            <forename>Diego Rodrìguez de Silva y</forename>
+         </persName>
+         <birth>
+            <date>1599-06-06</date>
+            <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
+         </birth>
+         <death>
+            <date>1660-08-06</date>
+            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1387_p91</idno>
+         <idno type="wikidata">Q297</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626426</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2181.html</idno>
+      </person>
+      <person xml:id="pmb2181">
+         <persName>
+            <surname>Velàzquez</surname>
+            <forename>Diego Rodríguez de Silva y</forename>
+         </persName>
+         <birth>
+            <date>1599-06-06</date>
+            <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
+         </birth>
+         <death>
+            <date>1660-08-06</date>
+            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4865_p11</idno>
+         <idno type="wikidata">Q297</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626426</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2181.html</idno>
+      </person>
+      <person xml:id="pmb2181">
+         <persName>
+            <surname>Velasquez</surname>
+            <forename>Diego RodrÌguez de Silva y</forename>
+         </persName>
+         <birth>
+            <date>1599-06-06</date>
+            <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
+         </birth>
+         <death>
+            <date>1660-08-06</date>
+            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_742_p2</idno>
+         <idno type="wikidata">Q297</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626426</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2181.html</idno>
+      </person>
+      <person xml:id="pmb2181">
+         <persName>
+            <surname>Velasquez</surname>
+            <forename>Diego Rodrìguez de Silva y</forename>
+         </persName>
+         <birth>
+            <date>1599-06-06</date>
+            <placeName type="wikidata" ref="Q8717">Sevilla</placeName>
+         </birth>
+         <death>
+            <date>1660-08-06</date>
+            <placeName type="wikidata" ref="Q2807">Madrid</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_323_p3</idno>
+         <idno type="wikidata">Q297</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626426</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2181.html</idno>
+      </person>
+      <person xml:id="pmb2847">
+         <persName>
+            <surname>Giampietro</surname>
+            <forename>Joseph</forename>
+         </persName>
+         <birth>
+            <date>1866-06-21</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </birth>
+         <death>
+            <date>1913-12-29</date>
+            <placeName type="wikidata" ref="Q64">Berlin</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2399_p4</idno>
+         <idno type="wikidata">Q1707099</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/116616164</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2847.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_688_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4837_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1846_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_595_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1830_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3868_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1025_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5937_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3404_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1926_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_665_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_628_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_594_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+            <forename>Gabrielle</forename>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2835_p7</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2835_p8</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6616_p11</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_361_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_359_p4</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_320_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2787_p7</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3815_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1474_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_121_p27</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2688_p6</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2687_p17</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1351_p53</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2632_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2631_p4</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+   </back>
 </TEI>

@@ -4,6 +4,10 @@
     version="3.0" exclude-result-prefixes="tei">
     <xsl:output method="xml" indent="true"/>
     <xsl:mode on-no-match="shallow-skip"/>
+    
+    <xsl:param name="listperson" select="document('../data/indices/listperson.xml')"/>
+    <xsl:key name="person-match" use="@xml:id" match="*:listPerson/*:person" />
+    
     <xsl:template match="tei:TEI">
         <xsl:variable name="folderURI" select="resolve-uri('.', base-uri())"/>
         <xsl:for-each select="tei:text/tei:body/tei:listBibl/tei:biblStruct">
@@ -122,6 +126,16 @@
                                 </xsl:element>
                             </xsl:element>
                         </xsl:element>
+                    </xsl:element>
+                    <xsl:element name="back" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:if test="descendant::tei:ref[@type='personenindex']">
+                            <xsl:for-each select="descendant::tei:ref[@type='personenindex']//tei:ptr/@target">
+                                <xsl:copy-of select="key('person-match', ., $listperson)"></xsl:copy-of>
+                                
+                            </xsl:for-each>
+                            
+                        </xsl:if>
+                        
                     </xsl:element>
                 </xsl:element>
             </xsl:result-document>

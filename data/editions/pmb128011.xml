@@ -22,7 +22,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-12-01+01:00</date>
+            <date>2024-02-16+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb128011.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -78,16 +78,16 @@
                      <ptr type="pmb" target="pmb12358"/>
                      <ptr type="pmb" target="pmb11461"/>
                      <ptr type="pmb" target="pmb6531"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p1"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p2"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p3"/>
-                     <ptr type="HB-tv" target="HB-tv_3494_p4"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p5"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p6"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p7"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p8"/>
-                     <ptr type="HB-tv" target="HB-tv_3334_p9"/>
-                     <ptr type="HB-tv" target="HB-tv_1300_p1"/>
+                     <ptr type="pmb" target="pmb94369"/>
+                     <ptr type="pmb" target="pmb150428"/>
+                     <ptr type="pmb" target="pmb150433"/>
+                     <ptr type="pmb" target="pmb154873"/>
+                     <ptr type="pmb" target="pmb150436"/>
+                     <ptr type="pmb" target="pmb155632"/>
+                     <ptr type="pmb" target="pmb4769"/>
+                     <ptr type="pmb" target="pmb114985"/>
+                     <ptr type="pmb" target="pmb2513"/>
+                     <ptr type="pmb" target="pmb4006"/>
                   </listRef>
                </ref>
                <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/15-bilderbuch.pdf</ref>
@@ -131,4 +131,3098 @@
          </div>
       </body>
    </text>
+   <back>
+      <person xml:id="pmb94369">
+         <persName>
+            <surname>Gött</surname>
+            <forename>Emil</forename>
+         </persName>
+         <birth>
+            <date>1864-05-13</date>
+            <placeName type="wikidata" ref="Q536022">Sasbach am Kaiserstuhl</placeName>
+         </birth>
+         <death>
+            <date>1908-04-13</date>
+            <placeName type="wikidata" ref="Q2833">Freiburg im Breisgau</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p1</idno>
+         <idno type="wikidata">Q1336153</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118717936</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb94369.html</idno>
+      </person>
+      <person xml:id="pmb150428">
+         <persName>
+            <surname>Thoreau</surname>
+            <forename>Henry David</forename>
+         </persName>
+         <birth>
+            <date>1817-07-12</date>
+            <placeName type="wikidata" ref="Q6948294"/>
+         </birth>
+         <death>
+            <date>1862-05-06</date>
+            <placeName type="wikidata" ref="Q523240">Concord</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p2</idno>
+         <idno type="wikidata">Q131149</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118622293</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150428.html</idno>
+      </person>
+      <person xml:id="pmb150433">
+         <persName>
+            <surname>Neumann-Hofer</surname>
+            <forename>Adolf</forename>
+         </persName>
+         <birth>
+            <date>1867-02-18</date>
+            <placeName type="wikidata" ref="Q4845383">Bolschije Bereschki</placeName>
+         </birth>
+         <death>
+            <date>1925-05-20</date>
+            <placeName type="wikidata" ref="Q3922">Detmold</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p3</idno>
+         <idno type="wikidata">Q363485</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11758343X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150433.html</idno>
+      </person>
+      <person xml:id="pmb154873">
+         <persName>
+            <surname>Beck</surname>
+            <forename>Carl Gottlob</forename>
+         </persName>
+         <birth>
+            <date when="1733">1733</date>
+         </birth>
+         <death>
+            <date when="1802">1802</date>
+         </death>
+         <idno type="HB-tv">HB-tv_3494_p4</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154873.html</idno>
+      </person>
+      <person xml:id="pmb150436">
+         <persName>
+            <surname>Woerner</surname>
+            <forename>Roman</forename>
+         </persName>
+         <birth>
+            <date>1863-08-05</date>
+            <placeName type="wikidata" ref="Q3936">Bamberg</placeName>
+         </birth>
+         <death>
+            <date>1945-10-20</date>
+            <placeName type="wikidata" ref="Q2999">Würzburg</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p5</idno>
+         <idno type="wikidata">Q2164777</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/117456586</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb150436.html</idno>
+      </person>
+      <person xml:id="pmb155632">
+         <persName>
+            <surname>Alexander der Große</surname>
+         </persName>
+         <birth>
+            <date when="0356">356</date>
+         </birth>
+         <death>
+            <date when-custom="323 v.u.Z.">323 v.u.Z.</date>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p6</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb155632.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1891_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2306_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4452_p6</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5933_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6720_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4873_p8</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3726_p8</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4482_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3523_p11</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3512_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3502_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_927_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4824_p5</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1126_p10</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_161_p5</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_160_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon I. Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4852_p11</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon I. Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4848_p7</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3376_p24</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3369_p8</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1021_p6</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6349_p7</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4197_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1402_p9</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3364_p19</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3363_p9</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3357_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3351_p13</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p7</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1491_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_154_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_152_p6</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5318_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5269_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5262_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5259_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5250_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5233_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5220_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5215_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5211_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5206_p18</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_148_p10</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5461_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5458_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5449_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5411_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5368_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5354_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5349_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5345_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5340_p18</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5331_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_864_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3457_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3321_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4426_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4081_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2102_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3639_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3833_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3424_p15</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3880_p5</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_30_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2465_p6</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1484_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_905_p6</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon I. Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1365_p16</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3300_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3294_p5</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3293_p17</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon I. Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1363_p26</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6618_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_188_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3183_p15</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2998_p5</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2940_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon I. Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_561_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_719_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_462_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5958_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2835_p11</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2834_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2833_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2830_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2826_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2818_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_441_p5</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6616_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_392_p1</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_352_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_333_p2</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2747_p7</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2700_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2690_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon I. Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1351_p4</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2644_p6</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2635_p17</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2615_p16</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoléon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2613_p5</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb4769">
+         <persName>
+            <surname>Napoleon Bonaparte</surname>
+         </persName>
+         <birth>
+            <date>1769-08-15</date>
+            <placeName type="wikidata" ref="Q40104">Ajaccio</placeName>
+         </birth>
+         <death>
+            <date>1821-05-05</date>
+            <placeName type="wikidata" ref="Q578060">Longwood House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_880_p3</idno>
+         <idno type="wikidata">Q517</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118586408</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4769.html</idno>
+      </person>
+      <person xml:id="pmb114985">
+         <persName>
+            <surname>Victoria I.</surname>
+         </persName>
+         <birth>
+            <date>1819-05-24</date>
+            <placeName type="wikidata" ref="Q207385">Kensington Palace</placeName>
+         </birth>
+         <death>
+            <date>1901-01-22</date>
+            <placeName type="wikidata" ref="Q565155">Osborne House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4874_p3</idno>
+         <idno type="wikidata">Q9439</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626876</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114985.html</idno>
+      </person>
+      <person xml:id="pmb114985">
+         <persName>
+            <surname>Victoria I.</surname>
+         </persName>
+         <birth>
+            <date>1819-05-24</date>
+            <placeName type="wikidata" ref="Q207385">Kensington Palace</placeName>
+         </birth>
+         <death>
+            <date>1901-01-22</date>
+            <placeName type="wikidata" ref="Q565155">Osborne House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4873_p11</idno>
+         <idno type="wikidata">Q9439</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626876</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114985.html</idno>
+      </person>
+      <person xml:id="pmb114985">
+         <persName>
+            <surname>Victoria I.</surname>
+         </persName>
+         <birth>
+            <date>1819-05-24</date>
+            <placeName type="wikidata" ref="Q207385">Kensington Palace</placeName>
+         </birth>
+         <death>
+            <date>1901-01-22</date>
+            <placeName type="wikidata" ref="Q565155">Osborne House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3351_p20</idno>
+         <idno type="wikidata">Q9439</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626876</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114985.html</idno>
+      </person>
+      <person xml:id="pmb114985">
+         <persName>
+            <surname>Victoria I.</surname>
+         </persName>
+         <birth>
+            <date>1819-05-24</date>
+            <placeName type="wikidata" ref="Q207385">Kensington Palace</placeName>
+         </birth>
+         <death>
+            <date>1901-01-22</date>
+            <placeName type="wikidata" ref="Q565155">Osborne House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p8</idno>
+         <idno type="wikidata">Q9439</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626876</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114985.html</idno>
+      </person>
+      <person xml:id="pmb114985">
+         <persName>
+            <surname>Victoria I.</surname>
+         </persName>
+         <birth>
+            <date>1819-05-24</date>
+            <placeName type="wikidata" ref="Q207385">Kensington Palace</placeName>
+         </birth>
+         <death>
+            <date>1901-01-22</date>
+            <placeName type="wikidata" ref="Q565155">Osborne House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2465_p10</idno>
+         <idno type="wikidata">Q9439</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626876</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114985.html</idno>
+      </person>
+      <person xml:id="pmb114985">
+         <persName>
+            <surname>Victoria I.</surname>
+         </persName>
+         <birth>
+            <date>1819-05-24</date>
+            <placeName type="wikidata" ref="Q207385">Kensington Palace</placeName>
+         </birth>
+         <death>
+            <date>1901-01-22</date>
+            <placeName type="wikidata" ref="Q565155">Osborne House</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_611_p11</idno>
+         <idno type="wikidata">Q9439</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/118626876</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114985.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4881_p4</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6726_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6709_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2050_p4</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3492_p8</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2413_p9</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1387_p70</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3769_p8</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1224_p2</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1166_p4</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4865_p3</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4864_p21</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4859_p7</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4857_p3</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4856_p9</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4855_p8</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4848_p3</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4846_p8</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4845_p7</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Joseph I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3372_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1402_p62</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3893_p4</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3366_p2</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3365_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3334_p9</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_151_p14</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5277_p4</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5257_p3</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5245_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5189_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3719_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1401_p99</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5456_p3</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5419_p4</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5407_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5387_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1376_p2</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1376_p96</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1626_p24</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1625_p2</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3889_p2</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3885_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3884_p2</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3883_p3</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3882_p5</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3881_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3880_p7</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3398_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_30_p6</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1365_p75</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Joseph I.</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1365_p76</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2457_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1363_p96</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_48_p7</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2982_p7</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2975_p3</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Josef I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2974_p4</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb2513">
+         <persName>
+            <surname>Franz Joseph I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1830-08-18</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </birth>
+         <death>
+            <date>1916-11-21</date>
+            <placeName type="wikidata" ref="Q131330">Schloss Schönbrunn</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_113_p1</idno>
+         <idno type="wikidata">Q51056</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2513.html</idno>
+      </person>
+      <person xml:id="pmb4006">
+         <persName>
+            <surname>Dostojewski</surname>
+            <forename>Fjodor Michailowitsch</forename>
+         </persName>
+         <birth>
+            <date>1821-11-11</date>
+            <placeName type="wikidata" ref="Q4281399"/>
+         </birth>
+         <death>
+            <date>1881-01-28</date>
+            <placeName type="wikidata" ref="Q656">Sankt Petersburg</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1300_p1</idno>
+         <idno type="wikidata">Q991</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118527053</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb4006.html</idno>
+      </person>
+   </back>
 </TEI>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="pmb122567.xml"
+     next="pmb122565">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Hermann Bahr – Textverzeichnis</title>
+            <title level="a">Reisebriefe eines lachenden Philosophen. I.
+                            München im August 1881</title>
+            <title type="iso-date">1881-09-04</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage (ACDH-CH)</publisher>
+            <date>2024-02-16+01:00</date>
+            <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb122567.xml</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Bibliografische Angaben eines in Druck erschienen Texts von
+                                    Bahr</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="bibliografische-angabe">
+            <biblStruct xml:id="pmb122567"
+                        type="Journal-Article"
+                        status="checked"
+                        next="pmb122565">
+               <analytic>
+                  <author ref="pmb10815">Hermann von Kürenberg</author>
+                  <title level="a" ref="pmb122567">Reisebriefe eines lachenden Philosophen. I.
+                            München im August 1881</title>
+               </analytic>
+               <monogr>
+                  <title level="j" ref="pmb122062">Salzburger Nachrichten</title>
+                  <imprint>
+                     <biblScope unit="jg">1</biblScope>
+                     <biblScope unit="issue">106</biblScope>
+                     <biblScope unit="page">2</biblScope>
+                     <date when="1881-09-04">4.9.1881</date>
+                  </imprint>
+               </monogr>
+               <note>
+                  <p>Zur Zuschreibung dieses und der folgenden Reisebriefe sei, was das Pseudonym
+                            anbelangt, auf die Anmerkung zu »Eine Kritik der Kritik« verwiesen. Bahrs
+                            Maturareise, die er mit seinem Vater unternimmt, führte ihn in die Schweiz bis
+                            nach Chamonix. (Selbstbildnis, 102–103) Während aber das im Nachlass Bahrs
+                            aufbewahrte Reisetagebuch des Vaters (Nachlass, Kiste AM Ba 130) die Reise von
+                            21. Juli bis 16. August dauern lässt, so datieren die Artikel sie von September
+                            bis Oktober.</p>
+               </note>
+               <note type="incipit">Lieber Freund! Hier bin ich nun glücklich angelangt</note>
+               <note type="summary">In Teil I berichtet in unterhaltendem Ton ein Besucher Münchens
+                        von dem Schönen an der bayrischen Hauptstadt (die Glyptothek) und dem Hässlichen
+                        (die Besucher der Glyptothek), den weiblichen Bedienerinnen und dem schlechten,
+                        weil zu starken Kaffee.</note>
+               <ref type="personenindex">
+                  <listRef>
+                     <ptr type="pmb" target="pmb18502"/>
+                     <ptr type="pmb" target="pmb11209"/>
+                     <ptr type="pmb" target="pmb12167"/>
+                     <ptr type="pmb" target="pmb2412"/>
+                     <ptr type="pmb" target="pmb2495"/>
+                     <ptr type="pmb" target="pmb153968"/>
+                     <ptr type="pmb" target="pmb94121"/>
+                     <ptr type="pmb" target="pmb114473"/>
+                     <ptr type="pmb" target="pmb148736"/>
+                     <ptr type="pmb" target="pmb115350"/>
+                     <ptr type="pmb" target="pmb153969"/>
+                  </listRef>
+               </ref>
+               <ref type="URL">https://bahr.univie.ac.at/sites/all/txt/salzburger-nachrichten/1881_reisebriefe.pdf</ref>
+               <noteGrp type="keywords">
+                  <note type="Journal-Article">Artikel in einem Periodikum</note>
+               </noteGrp>
+               <note type="bibliographical-statement">Hermann von Kürenberg: Reisebriefe eines
+                        lachenden Philosophen. I. München im August 1881. In: Salzburger Nachrichten,
+                        Jg. 1, Nr. 106, 4.9.1881, S. 2.</note>
+            </biblStruct>
+         </div>
+      </body>
+   </text>
+   <back>
+      <person xml:id="pmb153968">
+         <persName>
+            <surname>Augustus</surname>
+            <forename>Gaius Octavianus Augustus</forename>
+         </persName>
+         <birth>
+            <date when-custom="63 v.u.Z.">63 v.u.Z.</date>
+         </birth>
+         <death>
+            <date when-custom="14 n. Chr.">14 n. Chr.</date>
+         </death>
+         <idno type="HB-tv">HB-tv_4464_p1</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153968.html</idno>
+      </person>
+      <person xml:id="pmb94121">
+         <persName>
+            <surname>Hegel</surname>
+            <forename>Georg Wilhelm Friedrich</forename>
+         </persName>
+         <birth>
+            <date>1770-08-27</date>
+            <placeName type="wikidata" ref="Q1022">Stuttgart</placeName>
+         </birth>
+         <death>
+            <date>1831-11-14</date>
+            <placeName type="wikidata" ref="Q64">Berlin</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4464_p2</idno>
+         <idno type="wikidata">Q9235</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb94121.html</idno>
+      </person>
+      <person xml:id="pmb114473">
+         <persName>
+            <surname>Herbart</surname>
+            <forename>Johann Friedrich</forename>
+         </persName>
+         <birth>
+            <date>1776-05-04</date>
+            <placeName type="wikidata" ref="Q2936">Oldenburg</placeName>
+         </birth>
+         <death>
+            <date>1841-08-14</date>
+            <placeName type="wikidata" ref="Q3033">Göttingen</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4464_p3</idno>
+         <idno type="wikidata">Q76685</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11854943X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb114473.html</idno>
+      </person>
+      <person xml:id="pmb148736">
+         <persName>
+            <surname>Rudigier</surname>
+            <forename>Franz Joseph</forename>
+         </persName>
+         <birth>
+            <date>1811-04-07</date>
+            <placeName type="wikidata" ref="Q2054367">Partenen</placeName>
+         </birth>
+         <death>
+            <date>1884-11-29</date>
+            <placeName type="wikidata" ref="Q41329">Linz</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4464_p4</idno>
+         <idno type="wikidata">Q877406</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118750135</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb148736.html</idno>
+      </person>
+      <person xml:id="pmb115350">
+         <persName>
+            <surname>Marlitt</surname>
+            <forename>E.</forename>
+         </persName>
+         <persName type="namensvariante">Eugenie John</persName>
+         <birth>
+            <date>1825-12-05</date>
+            <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
+         </birth>
+         <death>
+            <date>1887-06-22</date>
+            <placeName type="wikidata" ref="Q490665">Arnstadt</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4464_p5</idno>
+         <idno type="wikidata">Q62950</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/118731092</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb115350.html</idno>
+      </person>
+      <person xml:id="pmb153969">
+         <persName>
+            <surname>Tanner</surname>
+            <forename>Henry S.</forename>
+         </persName>
+         <birth>
+            <date when="1831">1831</date>
+         </birth>
+         <death>
+            <date when="1919">1919</date>
+         </death>
+         <idno type="HB-tv">HB-tv_4464_p6</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb153969.html</idno>
+      </person>
+   </back>
+</TEI>

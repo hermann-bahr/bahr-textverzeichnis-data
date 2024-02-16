@@ -7,7 +7,7 @@
     <xsl:param name="pmblistperson" select="document('../../pmblistperson.xml')"/>
     <xsl:key name="pmb" match="//*:listPerson[1]/*:person" composite="no"
         use="*:idno[@subtype = 'hermanbahrtextverzeichnis']"/>
-    <xsl:template match="tei:person">
+    <!--<xsl:template match="tei:person">
         <xsl:element name="person" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="xml:id">
                 <xsl:value-of
@@ -27,5 +27,31 @@
                 select="concat('https://bahr-textverzeichnis.acdh.oeaw.ac.at/', key('pmb', concat('https://hermanbahrtextverzeichnis/', .), $pmblistperson)/@xml:id, '.html')"
             />
         </xsl:element>
+    </xsl:template>-->
+    
+    
+    <xsl:template match="tei:ref/tei:listRef/tei:ptr[@type='HB-tv']">
+        <xsl:element name="ptr" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:choose>
+                <xsl:when test="key('pmb', concat('https://hermanbahrtextverzeichnis/', @target), $pmblistperson)/@xml:id">
+                    <xsl:attribute name="type">
+                        <xsl:text>pmb</xsl:text>
+                    </xsl:attribute>
+                    <xsl:attribute name="target">
+                        <xsl:value-of select="key('pmb', concat('https://hermanbahrtextverzeichnis/', @target), $pmblistperson)/@xml:id"/>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:copy-of select="@*|*"/>
+                </xsl:otherwise>
+            </xsl:choose>
+            
+            
+            
+            
+        </xsl:element>
+        
+        
     </xsl:template>
+    
 </xsl:stylesheet>

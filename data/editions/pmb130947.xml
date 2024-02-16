@@ -23,7 +23,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2023-12-01+01:00</date>
+            <date>2024-02-16+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/bahr-textverzeichnis/pmb130947.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -89,10 +89,10 @@
                      <ptr type="pmb" target="pmb12851"/>
                      <ptr type="pmb" target="pmb2404"/>
                      <ptr type="pmb" target="pmb12654"/>
-                     <ptr type="HB-tv" target="HB-tv_3404_p1"/>
-                     <ptr type="HB-tv" target="HB-tv_5937_p1"/>
-                     <ptr type="HB-tv" target="HB-tv_3404_p3"/>
-                     <ptr type="HB-tv" target="HB-tv_3404_p4"/>
+                     <ptr type="pmb" target="pmb3272"/>
+                     <ptr type="pmb" target="pmb149494"/>
+                     <ptr type="pmb" target="pmb23784"/>
+                     <ptr type="pmb" target="pmb146302"/>
                   </listRef>
                </ref>
                <ref type="URL">http://www.univie.ac.at/bahr/sites/all/ks/11-austriaca.pdf</ref>
@@ -117,4 +117,1503 @@
          </div>
       </body>
    </text>
+   <back>
+      <person xml:id="pmb2404">
+         <persName>
+            <surname>Hebbel</surname>
+            <forename>Christian Friedrich</forename>
+         </persName>
+         <birth>
+            <date>1813-03-18</date>
+            <placeName type="wikidata" ref="Q518460">Wesselburen</placeName>
+         </birth>
+         <death>
+            <date>1863-12-13</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6576_p3</idno>
+         <idno type="wikidata">Q57182</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118547445</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb2404.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_115_p10</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3839_p2</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1994_p3</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1991_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2551_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1816_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2497_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3863_p2</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3718_p4</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1157_p12</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4852_p10</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3360_p7</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_151_p19</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1401_p43</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4885_p3</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3404_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3760_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_833_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1363_p93</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3189_p9</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1967_p2</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1990_p7</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_759_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_748_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_54_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2836_p7</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2832_p8</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_412_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3828_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_372_p4</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_368_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2800_p5</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2762_p18</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2581_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_958_p6</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_306_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_121_p4</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2687_p12</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2681_p1</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2665_p17</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2664_p2</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb3272">
+         <persName>
+            <surname>Molière</surname>
+         </persName>
+         <birth>
+            <date>1622-01-15</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1673-02-17</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2636_p16</idno>
+         <idno type="wikidata">Q687</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/11858331X</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3272.html</idno>
+      </person>
+      <person xml:id="pmb149494">
+         <persName>
+            <surname>Niemann</surname>
+            <forename>Albert</forename>
+         </persName>
+         <birth>
+            <date>1831-01-15</date>
+            <placeName type="wikidata" ref="Q573464">Erxleben</placeName>
+         </birth>
+         <death>
+            <date>1917-01-13</date>
+            <placeName type="wikidata" ref="Q64">Berlin</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5937_p1</idno>
+         <idno type="wikidata">Q106378</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/117001686</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb149494.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_688_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4837_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1846_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_595_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1830_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3868_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1025_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5937_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3404_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1926_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_665_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_628_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_594_p1</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+            <forename>Gabrielle</forename>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2835_p7</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2835_p8</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_6616_p11</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_361_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_359_p4</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_320_p2</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2787_p7</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3815_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1474_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_121_p27</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2688_p6</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2687_p17</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1351_p53</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2632_p3</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb23784">
+         <persName>
+            <surname>Réjane</surname>
+         </persName>
+         <birth>
+            <date>1856-06-06</date>
+            <placeName type="wikidata" ref="Q90">Paris</placeName>
+         </birth>
+         <death>
+            <date>1920-06-14</date>
+            <placeName type="wikidata" ref="Q194420">16. Arrondissement von Paris</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_2631_p4</idno>
+         <idno type="wikidata">Q596355</idno>
+         <sex value="female"/>
+         <idno type="gnd">https://d-nb.info/gnd/116394102</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb23784.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz II. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_5932_p2</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4824_p11</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_4864_p20</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3893_p6</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3366_p24</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1376_p59</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1625_p59</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz II. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_3404_p4</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_905_p5</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1365_p78</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+      <person xml:id="pmb146302">
+         <persName>
+            <surname>Franz I. von Österreich</surname>
+         </persName>
+         <birth>
+            <date>1768-02-12</date>
+            <placeName type="wikidata" ref="Q2044">Florenz</placeName>
+         </birth>
+         <death>
+            <date>1835-03-02</date>
+            <placeName type="wikidata" ref="Q1741">Wien</placeName>
+         </death>
+         <idno type="HB-tv">HB-tv_1363_p42</idno>
+         <idno type="wikidata">Q130834</idno>
+         <sex value="male"/>
+         <idno type="gnd">https://d-nb.info/gnd/118534955</idno>
+         <idno type="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb146302.html</idno>
+      </person>
+   </back>
 </TEI>
