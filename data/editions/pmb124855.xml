@@ -391,38 +391,6 @@
                <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27849/</idno>
                <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb27849.html</idno>
             </person>
-            <person xml:id="pmb27849">
-               <persName>
-                  <forename>Max</forename>
-                  <surname>Dauthendey</surname>
-               </persName>
-               <persName type="legacy-name-merge">Dauthendey, Max</persName>
-               <birth>
-                  <date when-iso="1867-07-25">1867-07-25</date>
-                  <settlement key="852">
-                     <placeName type="pref">Würzburg</placeName>
-                     <location>
-                        <geo>49,79391 9,95121</geo>
-                     </location>
-                  </settlement>
-               </birth>
-               <death>
-                  <date when-iso="1918-08-29">1918-08-29</date>
-                  <settlement key="45789">
-                     <placeName type="pref">Malang</placeName>
-                     <location>
-                        <geo>-7,9797 112,6304</geo>
-                     </location>
-                  </settlement>
-               </death>
-               <sex value="male"/>
-               <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-               <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14361</idno>
-               <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb27849.html</idno>
-               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15236/</idno>
-               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27849/</idno>
-               <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb27849.html</idno>
-            </person>
             <person xml:id="pmb11461">
                <persName>
                   <forename>Johann Wolfgang von</forename>
