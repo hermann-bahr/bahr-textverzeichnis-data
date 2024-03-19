@@ -17,7 +17,7 @@
                 <xsl:variable name="entry" select="document($eintrag)"/>
                 <xsl:element name="person" namespace="http://www.tei-c.org/ns/1.0">
                     <xsl:attribute name="xml:id">
-                        <xsl:value-of select="@xml:id"/>
+                        <xsl:value-of select="replace($entry/*:person/@xml:id, 'person__', 'pmb')"/>
                     </xsl:attribute>
                     <xsl:copy-of select="$entry/*:person/*" copy-namespaces="no"/>
                 </xsl:element>
