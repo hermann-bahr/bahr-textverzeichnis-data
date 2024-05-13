@@ -2,35 +2,26 @@
     
     <xsl:output method="text"/>
     
-    <xsl:template match="/*">
+    <xsl:template match="*:TEI">
         <!-- Schreibe Header-Zeile -->
-        <xsl:text>Element,Attribute,Text</xsl:text>
+        <xsl:text>Element,idno</xsl:text>
         <xsl:text>&#10;</xsl:text>
         
         <!-- Verarbeite alle Elemente und Attribute -->
-        <xsl:apply-templates select="descendant-or-self::*"/>
+        <xsl:apply-templates select="descendant-or-self::*:bibl"/>
     </xsl:template>
     
-    <xsl:template match="*">
+    <xsl:template match="*:bibl">
+        
+        <xsl:variable name="xmlid" select="@xml:id"/>
+        <xsl:for-each select="*:idno[starts-with(., 'https://bahr-textverzeichnis')]">
         <!-- Schreibe Elementname -->
-        <xsl:value-of select="name()"/>
+            <xsl:value-of select="concat('&quot;', replace($xmlid, 'pmb', ''), '&quot;')"/>
         <xsl:text>,</xsl:text>
-        
-        <!-- Schreibe Attributnamen und Werte -->
-        <xsl:for-each select="@*">
-            <xsl:text>,</xsl:text>
-            <xsl:value-of select="name()"/>
-            <xsl:text>,"</xsl:text>
-      <xsl:value-of select="."/>
-    </xsl:for-each>
+        <xsl:value-of select="."/>
         <xsl:text>&#10;</xsl:text>
-        
-        <!-- Schreibe Textinhalt, falls vorhanden -->
-        <xsl:if test="normalize-space(.)">
-            <xsl:text>,</xsl:text>
-            <xsl:value-of select="normalize-space(.)"/>
-            <xsl:text>&#10;</xsl:text>
-        </xsl:if>
+            
+        </xsl:for-each>
     </xsl:template>
     
 </xsl:stylesheet>
