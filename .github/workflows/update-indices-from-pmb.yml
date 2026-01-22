@@ -1,0 +1,49 @@
+name: Update Indices from PMB
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update_indices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Download Saxon-HE and XML Resolver
+        run: |
+          mkdir -p lib
+          wget -q https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/12.4/Saxon-HE-12.4.jar -O lib/saxon-he-12.4.jar
+          wget -q https://repo1.maven.org/maven2/org/xmlresolver/xmlresolver/5.2.1/xmlresolver-5.2.1.jar -O lib/xmlresolver-5.2.1.jar
+
+      - name: Process XML files with XSLT
+        run: |
+          set -e
+          for file in data/indices/list*.xml; do
+            if [ -f "$file" ]; then
+              echo "Processing $file..."
+              # First transformation
+              java -cp lib/saxon-he-12.4.jar:lib/xmlresolver-5.2.1.jar net.sf.saxon.Transform \
+                -s:"$file" -xsl:xslt/1_updateLists.xsl -o:"${file}.tmp"
+              mv "${file}.tmp" "$file"
+              echo "Completed processing $file"
+            fi
+          done
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/indices/list*.xml
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update indices from PMB"
+            git push
+          fi
