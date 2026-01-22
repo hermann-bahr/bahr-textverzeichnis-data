@@ -28,9 +28,13 @@ jobs:
           for file in data/indices/list*.xml; do
             if [ -f "$file" ]; then
               echo "Processing $file..."
-              # First transformation
+              # First transformation: Update from PMB
               java -cp lib/saxon-he-12.4.jar:lib/xmlresolver-5.2.1.jar net.sf.saxon.Transform \
                 -s:"$file" -xsl:xslt/1_updateLists.xsl -o:"${file}.tmp"
+              mv "${file}.tmp" "$file"
+              # Second transformation: Fix namespaces
+              java -cp lib/saxon-he-12.4.jar:lib/xmlresolver-5.2.1.jar net.sf.saxon.Transform \
+                -s:"$file" -xsl:xslt/2_namespace-fix.xsl -o:"${file}.tmp"
               mv "${file}.tmp" "$file"
               echo "Completed processing $file"
             fi
