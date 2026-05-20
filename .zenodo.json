@@ -1,0 +1,30 @@
+{
+  "title": "Hermann Bahr: Textverzeichnis – Digitale Daten",
+  "description": "<p>Digitale Daten des Textverzeichnisses aller in Druck erschienenen Texte Hermann Bahrs (1863–1934). Grundlage ist: Martin Anton Müller: Hermann Bahr – Textverzeichnis. Weimar: VDG, 2014.</p><p>Quellcode: <a href=\"https://github.com/hermann-bahr/bahr-textverzeichnis-data\">github.com/hermann-bahr/bahr-textverzeichnis-data</a></p>",
+  "creators": [
+    {
+      "name": "Müller, Martin Anton",
+      "affiliation": "Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische Akademie der Wissenschaften",
+      "orcid": "0000-0002-0127-9109"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Arthur Schnitzler",
+    "Wiener Moderne",
+    "Digital Scholarly Editing",
+    "Digital Humanities",
+    "Hermann Bahr",
+    "Bibliographie",
+    "Textverzeichnis",
+    "TEI"
+  ],
+  "communities": [
+    {
+      "identifier": "dh"
+    }
+  ]
+}
